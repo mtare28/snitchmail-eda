@@ -1,0 +1,3996 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+46280040,0lVptmKRT_S-s5_TslJpXg.recvd-578d769b87-6qrvf-1-67BA0D92-14.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLTBsVnB0bUtSVF9TLXM1X1RzbEpwWGctMA,Out for delivery,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=1MFeQ6uIla/MJoov6MNwpoOQ9BIhRHlxFDheQmyNMxE=;
+	b=YhUbAl4Gqg4AaeVIqgDeJ1SuJYRfNPgsGQVuhOr15ami2X6r1fmUaydZaCPDU32+6KU0
+	x+JLnXH1kK+1SmMZmpowMBgLgjFEsmg7UG3TcUvWLj8EQ8vGO1TiIv9I78Zg/2jS+He+Kv
+	X4a8yacwQ/S5ZCeRGch04G/ihN0I6EAb7vjFbJEFBBRxHwkdm7LwWDNW7e+Hl1thMBX4IN
+	cpahrh60RVhdyT8xCcEca7QD8atHFHLypob5oh+XDxQuZkHvkhOo4Wb1HBp7RvXTjucrPv
+	ax/Fobftp/VP+ubC1eUN+VksVs4YLXxTdY7b5rP435IBwufjLrb4/sPIzNBmiFSw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=1MFeQ6uIla/MJoov6MNwpoOQ9BIhRHlxFDheQmyNMxE=;
+	b=LN4RCWYPbwc4od24rgdWAKX1J9uJH2ma9oWxQER7GW699pAtMkHWJJDTjgpWwktV5K/N
+	Gc9ogpXgBhOp3zp5VNp7OhXXB/8tLdVuZVEW0G0XXTcZUkkjYWC6iIB5xzSqToec2jxmpF
+	qv/+SCYImYwXx1awBK4KGxK9yglKoMiSA=
+Received: by recvd-578d769b87-6qrvf with SMTP id recvd-578d769b87-6qrvf-1-67BA0D92-14
+	2025-02-22 17:46:58.262040441 +0000 UTC m=+8627132.005016978
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-18 (SG) with HTTP
+	id 0lVptmKRT_S-s5_TslJpXg
+	Sat, 22 Feb 2025 17:46:58.221 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=6106fe3a66193724684eb54aece6c14d674382b9301b318ab0d14887f0f9
+Date: Sat, 22 Feb 2025 17:46:58 +0000 (UTC)
+From: Your Order <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <08fd221a-7cad-8d78-e1bd-7d8200b67b3b@za2.blogtechnews.com>
+Subject: Out for delivery
+X-Campaign-Id: VDYDDL8YL1
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DMP9WWW8XPJ&c=3D?=
+ =?us-ascii?Q?VDYDDL8YL1&s=3D109962878=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EuDL5310OmvN97WmHFwinUnZtbQ5Hfdm44FIlYYWs7qe++Pz9haO6kPsGR?=
+ =?us-ascii?Q?8pXr4Vb7mQUG4+GWvHj19Ptwm5uSRlyHDObUUrf?=
+ =?us-ascii?Q?PJLWkCcdQf=2FRSe2DKHCdj4XslMC7bfknIriVdy3?=
+ =?us-ascii?Q?j7QuBv9uiS+mJfcqd2L6NqBhXKQsh=2FZgNVR5=2FPq?=
+ =?us-ascii?Q?0DghITwnodQO7MVhCOevjkTanwUCfKfQF8I71J2?=
+ =?us-ascii?Q?rbv02sydQuvCF60DINHO+dD=2FsgXwlQ8xJUGkax1?=
+ =?us-ascii?Q?tI4bzjL247V0lTrBQFTb0=2FplrQ=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRbMtRxV2Xl=2FMvrgrbxw3ZEoWxxNJayjay?=
+ =?us-ascii?Q?DNJw=2FFI4=2Fyofb9ZBXZ6AneEl9c0uVsX7AYJ4mDY?=
+ =?us-ascii?Q?dB79XfiZ74uAlmAcToEJdVt=2FhRzBtlYyPzqCzY7?=
+ =?us-ascii?Q?ivOyji3aWN8gpORcACRqjAl8pt3dY6mdJmJP51h?=
+ =?us-ascii?Q?SKf7ph4Lqjth43L=2FN26ZMWaZfc9ZwdQ84U03Vle?=
+ =?us-ascii?Q?W8a=2Fm5K=2FVFiZS4m1loZyJ=2F4hcaz7tblX0G0iPZO?=
+ =?us-ascii?Q?q5=2F5SgD2SeNIiR8Ix9o2QOwlAmF+dkmC3wDLZO6?=
+ =?us-ascii?Q?=2FDNuyvVERg=2FOxBLXFXfu=2Fcri1RPmfnmAXZri4zz?=
+ =?us-ascii?Q?B80FHE4CCkW9CiTinKvSNSXDiwk=2FVYwcy0T9z0A?=
+ =?us-ascii?Q?YQeIIS3lZkSmqBG9i=2Fw=3D?=
+To: nkululekomodishana@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--6106fe3a66193724684eb54aece6c14d674382b9301b318ab0d14887f0f9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hello nkululeko
+
+Everything is prepared for you!
+your service will be unique, and you will receive access in the APP to trac=
+k all
+the expenses and advantages of the card
+View your order now and confirm that everything is ok.
+
+MY ORDER
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx1KjhfQ5pZjTntp2Z4mEhzDsoVRY1v4jZWovTYGVOF5o2m=
+oIhJc0o-2FOyTNhZ8Hl-2B2aBuwwiEkyGCJM5fuBvR1GvncSkeqwH-2FAptvg-2By296o64xpBQ=
+SBbeYB-2BPtoWPqtVhDVOaH032jkHGliMDUWD1M9NzuA_1pyfUkiYW6VqP-2FPcJKPWCgKjf6wK=
+FptGCUDEb8Ro1-2BYm2Wb-2FXsT2FmcSQ9PUzwUaHHOPmmd8JRor8VLDWH3rA6ARmryG3L6-2BP=
+qcua3WpoQovw0B4dtNZw1BE9gNXjH8X1-2FwmdfHROd6MZWyIHDXsuRxzqNvauTDr2SysHO-2FO=
+-2FlF0HeRmJhJbB93kZFkhZuqHjfHDXpuB4ItCrbPM33dr5WxnLD4cSO47cGsDlmF2ZNZq-2Bj1=
+0K1La1CnIlUeHyyjQwmHkA4QDLMsKk25d0QFfmS6qHvCsa5Cva0jj1kCYP9K6W66T2YVsP-2FJr=
+XuPj8J4e3vQ5OQshPZ1dehyNI2ZvEsFXAivPJGnR1jLilxK0OEEl0ikerh4-2BLSq4wCVgK1g5u=
+q9DGbtQPjplY2Nbf9puxIpYOjBbF592SvsCDb6NoqUKhqw2mQotmOup7WRY-2F-2Bs-2BT5ByW-=
+2Bw-2FkKTN4LC-2FEAF3a-2BGOGZgzBAslSlZ7APUpCwM8PVM9AlIpY8XD0CtDDQnFUgjN70FA5=
+K3T4MPTqUehgM5hXf3B5oYLedqYRnNElcyPcEFUL4GC7gsUe2T-2Bbg3FX6VOLzbWntvl9qpqbb=
+ErTQ-3D-3D]
+
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtkxlSnG9dFH-2BA4lVq5tSrdFnCgmIvOu-2BaAn-2FUIwXzSPOkVdOrqzx58T6frDd3tmqo=
+utRtwlxXD6v9-2F1yRk3uVf0-3DSJAv_1pyfUkiYW6VqP-2FPcJKPWCgKjf6wKFptGCUDEb8Ro1=
+-2BYm2Wb-2FXsT2FmcSQ9PUzwUaHHOPmmd8JRor8VLDWH3rA6ARmryG3L6-2BPqcua3WpoQovw0=
+B4dtNZw1BE9gNXjH8X1-2FwmdfHROd6MZWyIHDXsuRxzqNvauTDr2SysHO-2FO-2FlF0HeRmJhJ=
+bB93kZFkhZuqHjfHDXpuB4ItCrbPM33dr5WxnLD4cSO47cGsDlmF2ZNZq-2Bj10K1La1CnIlUeH=
+yyjQwmHkA4QDLMsKk25d0QFfmS6qHvCsa5Cva0jj1kCYP9K6W66T2YVsP-2FJrXuPj8J4e3vQ5O=
+QshPZ1dehyNI2ZvEsFXAivPJGnR1jLilxK0OEEl0ikerh4-2BLSq4wCVgK1g5uq9DGbtQPjplY2=
+Nbf9puxIpYOjBbF592SvsCDb6NoqUKhqw2mQotmOup7WRY-2F-2Bs-2BT5ByW-2Bw-2FkKTN4LC=
+-2FEAF3a-2F1yTFsu0WF0gxTWoY-2FLCOL92muuefB-2BToSWXQZdWwfhDRxG-2F8pQCR6hjkIs=
+xf7kK6EWxgwbGuH2j2ZaKhIxOMMW3EjdllbRb0g9LNgF5JykUzmVFOh-2FNclrIbgr1CxDwQ-3D=
+-3D]
+http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJ=
+juGthUXyq3-2BxZK3kLyIGeMl-2Bx1KjhfQ5pZjTntp2Z4mEhzDsoVRY1v4jZWovTYGVOF5o2mo=
+IhJc0o-2FOyTNhZ8Hl-2B2aBuwwiEkyGCJM5fuBvR1GvncSkeqwH-2FAptvg-2By296o64xpBQS=
+BbeYB-2BPtoWPqtVhDVOaH032jkHGliMDUWD1M9QvwI_1pyfUkiYW6VqP-2FPcJKPWCgKjf6wKF=
+ptGCUDEb8Ro1-2BYm2Wb-2FXsT2FmcSQ9PUzwUaHHOPmmd8JRor8VLDWH3rA6ARmryG3L6-2BPq=
+cua3WpoQovw0B4dtNZw1BE9gNXjH8X1-2FwmdfHROd6MZWyIHDXsuRxzqNvauTDr2SysHO-2FO-=
+2FlF0HeRmJhJbB93kZFkhZuqHjfHDXpuB4ItCrbPM33dr5WxnLD4cSO47cGsDlmF2ZNZq-2Bj10=
+K1La1CnIlUeHyyjQwmHkA4QDLMsKk25d0QFfmS6qHvCsa5Cva0jj1kCYP9K6W66T2YVsP-2FJrX=
+uPj8J4e3vQ5OQshPZ1dehyNI2ZvEsFXAivPJGnR1jLilxK0OEEl0ikerh4-2BLSq4wCVgK1g5uq=
+9DGbtQPjplY2Nbf9puxIpYOjBbF592SvsCDb6NoqUKhqw2mQotmOup7WRY-2F-2Bs-2BT5ByW-2=
+Bw-2FkKTN4LC-2FEAF3a65AkYbHvV79bo51Lje6EtaY6-2FdAiTAuaJMgJjhXAPYHUAaePlf8BH=
+MPwxFW7Cf3jSGs-2BdR23534vsM4J3iLvv3GnvAgfplnWmSLYqncmZl79Ktrwf8b8piCxEXkhqu=
+-2Frw-3D-3D
+
+wiredcabin.com
+Sent to: nkululekomodishana@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82pvcnDyxQRJDtKiDT0I342R4=
+dx0J7CDmC53qgWkrKXCo-3Dx9sm_1pyfUkiYW6VqP-2FPcJKPWCgKjf6wKFptGCUDEb8Ro1-2BY=
+m2Wb-2FXsT2FmcSQ9PUzwUaHHOPmmd8JRor8VLDWH3rA6ARmryG3L6-2BPqcua3WpoQovw0B4dt=
+NZw1BE9gNXjH8X1-2FwmdfHROd6MZWyIHDXsuRxzqNvauTDr2SysHO-2FO-2FlF0HeRmJhJbB93=
+kZFkhZuqHjfHDXpuB4ItCrbPM33dr5WxnLD4cSO47cGsDlmF2ZNZq-2Bj10K1La1CnIlUeHyyjQ=
+wmHkA4QDLMsKk25d0QFfmS6qHvCsa5Cva0jj1kCYP9K6W66T2YVsP-2FJrXuPj8J4e3vQ5OQshP=
+Z1dehyNI2ZvEsFXAivPJGnR1jLilxK0OEEl0ikerh4-2BLSq4wCVgK1g5uq9DGbtQPjplY2Nbf9=
+puxIpYOjBbF592SvsCDb6NoqUKhqw2mQotmOup7WRY-2F-2Bs-2BT5ByW-2Bw-2FkKTN4LC-2FE=
+AF3a5z7M8n-2FUYrQGj2xVLrpxE4OO5BbBYHyuHiM8AZBn3Ya4PD5K1BDiWtQW8nmuysnFxndPP=
+E03SwxXH7M8wJe0cnBiWtHLF8q5R1mb2i5a2GKZyH-2B4VrNeuqOCHq-2FaUnMwg-3D-3D] or =
+cancel your
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82SZg-2BHvO2AE5GfyKqfzSAI=
+fDuHFAAdl0aVOpJdURECBcL1dU3rzauW-2BnMGtYmYZn-2FnKnQ_1pyfUkiYW6VqP-2FPcJKPWC=
+gKjf6wKFptGCUDEb8Ro1-2BYm2Wb-2FXsT2FmcSQ9PUzwUaHHOPmmd8JRor8VLDWH3rA6ARmryG=
+3L6-2BPqcua3WpoQovw0B4dtNZw1BE9gNXjH8X1-2FwmdfHROd6MZWyIHDXsuRxzqNvauTDr2Sy=
+sHO-2FO-2FlF0HeRmJhJbB93kZFkhZuqHjfHDXpuB4ItCrbPM33dr5WxnLD4cSO47cGsDlmF2ZN=
+Zq-2Bj10K1La1CnIlUeHyyjQwmHkA4QDLMsKk25d0QFfmS6qHvCsa5Cva0jj1kCYP9K6W66T2YV=
+sP-2FJrXuPj8J4e3vQ5OQshPZ1dehyNI2ZvEsFXAivPJGnR1jLilxK0OEEl0ikerh4-2BLSq4wC=
+VgK1g5uq9DGbtQPjplY2Nbf9puxIpYOjBbF592SvsCDb6NoqUKhqw2mQotmOup7WRY-2F-2Bs-2=
+BT5ByW-2Bw-2FkKTN4LC-2FEAF3awOnZy-2FemuCBfUuNmyxsF27aYryzoZLV4lFCZq9mh1ocoE=
+EGFfPzfi7baOox4zJh9WApI4yJNKWsXVA07Rf4spdxEa2oIvU-2FNyMLeh91K1-2FxKeBUC2ojb=
+ifAIlYskGTdPQ-3D-3D]
+--6106fe3a66193724684eb54aece6c14d674382b9301b318ab0d14887f0f9
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:24px;line-height:37px;text-align:left;color:black;""
+      >Hello nkululeko<br/><br/>Everything is prepared for you!<br/>your se=
+rvice will be unique, and you will receive access in the APP to track all t=
+he expenses and advantages of the card<br/>View your order now and confirm =
+that everything is ok.</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#000000"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#000000;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznspFLVHkH9SJbLIB2GXijJYWY=
+NCwhdyfho0ecLJOof0kymsuyCjVTakCwchifD6qY0UR4eSZmkvb5EwIljCvEr6r9sSlao2nA-2F=
+NiXqFfD2rrxSgyF-2BpZpxUVKsk302r0eXOE4-2B7w8dUF0Es6LTC6atS2D1w-2B2yVkgM6K2FF=
+Ya22VfzC1nNUBbMxmu3D8jcN-2FEzLqHVSsaw6Rbr05jJWdlucIgz4Ct1cyGwL0y0gDRJSAx-2F=
+D7AKtq1FE2HRIjKZpgx7HPMOF-2FyTof58JbQ9aH71WVVktCeb2fc-2FKgAyIGqy9KXg-3D-3DF=
+fjl_1pyfUkiYW6VqP-2FPcJKPWCgKjf6wKFptGCUDEb8Ro1-2BYm2Wb-2FXsT2FmcSQ9PUzwUaH=
+HOPmmd8JRor8VLDWH3rA6ARmryG3L6-2BPqcua3WpoQovw0B4dtNZw1BE9gNXjH8X1-2FwmdfHR=
+Od6MZWyIHDXsuRxzqNvauTDr2SysHO-2FO-2FlF0HeRmJhJbB93kZFkhZuqHjfHDXpuB4ItCrbP=
+M33dr5WxnLD4cSO47cGsDlmF2ZNZq-2Bj10K1La1CnIlUeHyyjQwmHkA4QDLMsKk25d0QFfmS6q=
+HvCsa5Cva0jj1kCYP9K6W66T2YVsP-2FJrXuPj8J4e3vQ5OQshPZ1dehyNI2ZvEsFXAivPJGnR1=
+jLilxK0OEEl0ikerh4-2BLSq4wCVgK1g5uq9DGbtQPjplY2Nbf9puxIpYOjBbF592SvsCDb6Noq=
+UKhqw2mQotmOup7WRY-2F-2Bs-2BT5ByW-2Bw-2FkKTN4LC-2FEAF3a4oH0GeI3pXkl-2FPaAkP=
+7kq4JzyUeV6z6QZ83GJbJ5J4uqQyQ8UWlms2tI-2Bq8I-2FawXnI-2FE25RCrc7ir8elW5bqfDa=
+EanaXAwXZENrZaOBS-2BGFkxm6kWKjUMe9e-2BhGVd4zjA-3D-3D"" style=3D""display:inli=
+ne-block;background:#000000;color:#ffffff;font-family:Ubuntu, Helvetica, Ar=
+ial, sans-serif;font-size:53px;font-weight:700;line-height:120%;margin:0;te=
+xt-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0p=
+x;border-radius:3px;"" target=3D""_blank""
+              >
+                MY ORDER
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:150px;"">
+             =20
+        <a
+           href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.=
+lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznspFLVHkH9SJbLIB2GXijJYWYNCwhdyfh=
+o0ecLJOof0kymsuyCjVTakCwchifD6qY0UR4eSZmkvb5EwIljCvEr6r9sSlao2nA-2FNiXqFfD2=
+rrxSgyF-2BpZpxUVKsk302r0eXOE4-2B7w8dUF0Es6LTC6atS2D1w-2B2yVkgM6K2FFYa22VfzC=
+1nNUBbMxmu3D8jcN-2FEzLqHVSsaw6Rbr05jJWdlucIgz4Ct1cyGwL0y0gDRJSAx-2FD7AKtq1F=
+E2HRIjKZpgx7HPMOF-2FyTof58JbQ9aH71WVVktCeb2fc-2FKgAyIGqy9KXg-3D-3DdzWz_1pyf=
+UkiYW6VqP-2FPcJKPWCgKjf6wKFptGCUDEb8Ro1-2BYm2Wb-2FXsT2FmcSQ9PUzwUaHHOPmmd8J=
+Ror8VLDWH3rA6ARmryG3L6-2BPqcua3WpoQovw0B4dtNZw1BE9gNXjH8X1-2FwmdfHROd6MZWyI=
+HDXsuRxzqNvauTDr2SysHO-2FO-2FlF0HeRmJhJbB93kZFkhZuqHjfHDXpuB4ItCrbPM33dr5Wx=
+nLD4cSO47cGsDlmF2ZNZq-2Bj10K1La1CnIlUeHyyjQwmHkA4QDLMsKk25d0QFfmS6qHvCsa5Cv=
+a0jj1kCYP9K6W66T2YVsP-2FJrXuPj8J4e3vQ5OQshPZ1dehyNI2ZvEsFXAivPJGnR1jLilxK0O=
+EEl0ikerh4-2BLSq4wCVgK1g5uq9DGbtQPjplY2Nbf9puxIpYOjBbF592SvsCDb6NoqUKhqw2mQ=
+otmOup7WRY-2F-2Bs-2BT5ByW-2Bw-2FkKTN4LC-2FEAF3axwiH7pUvOjWqF9QDAQmNZk8IACUE=
+6EoattjIM8tA8YEQ0OAqgQAOmIs4r-2BdqRTXeNdBq3PE3fS98ifWosUQS2u-2BHhpJRp4kqYpn=
+vLTDkpm01Zpyq55sQF-2FsG9h2GMs43A-3D-3D"" target=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/74c02571-ff85-4e39-85ad-1ccb45607=
+6ed.jpg"" style=3D""border:0 solid black;display:block;outline:none;text-deco=
+ration:none;height:auto;width:100%;font-size:13px;"" width=3D""150"" height=3D=
+""auto""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: nkululekomodishana@gmail.com<br/>You can=
+ <a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr=
+8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82pvcnDyxQRJDt=
+KiDT0I342R4dx0J7CDmC53qgWkrKXCo-3DtkaB_1pyfUkiYW6VqP-2FPcJKPWCgKjf6wKFptGCU=
+DEb8Ro1-2BYm2Wb-2FXsT2FmcSQ9PUzwUaHHOPmmd8JRor8VLDWH3rA6ARmryG3L6-2BPqcua3W=
+poQovw0B4dtNZw1BE9gNXjH8X1-2FwmdfHROd6MZWyIHDXsuRxzqNvauTDr2SysHO-2FO-2FlF0=
+HeRmJhJbB93kZFkhZuqHjfHDXpuB4ItCrbPM33dr5WxnLD4cSO47cGsDlmF2ZNZq-2Bj10K1La1=
+CnIlUeHyyjQwmHkA4QDLMsKk25d0QFfmS6qHvCsa5Cva0jj1kCYP9K6W66T2YVsP-2FJrXuPj8J=
+4e3vQ5OQshPZ1dehyNI2ZvEsFXAivPJGnR1jLilxK0OEEl0ikerh4-2BLSq4wCVgK1g5uq9DGbt=
+QPjplY2Nbf9puxIpYOjBbF592SvsCDb6NoqUKhqw2mQotmOup7WRY-2F-2Bs-2BT5ByW-2Bw-2F=
+kKTN4LC-2FEAF3a3pK8Z-2FJu-2BBFG6TGlo6d-2BltoXTHELfCOGAXeB1bHs5NMsoT619M7XV5=
+MuL7IN5haiUPOyeD7IwaD8Jv9ln2o6tI7uawHhCi8Xf1kHL52mggjXJFg2YFmG7Px-2FSXoZQqP=
+UA-3D-3D"" style=3D""color:black;border:0 solid black;"">manage your subscript=
+ions</a> or <a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du=
+001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznspFLVHkH9SJbLIB2GXijJYWYNCwh=
+dyfho0ecLJOof0kymsuyCjVTakCwchifD6qY0UR4eSZmkvb5EwIljCvEr6rpgFL12-2BilNz60n=
+p6ZbLzWV0Wych2aYGPu6HDpnx4dLbcy7JVuEYd-2FEuPG9TpBPpxo8RFHB5B2LYDtOYQ2uvBuIC=
+FRvnrUeTN3rxGRi2k0Q3VP5stSczjYGPJhbcw-2Buk-2FiWQ2pKIQazNeSH2xZVfZCg-3D-3DnF=
+8t_1pyfUkiYW6VqP-2FPcJKPWCgKjf6wKFptGCUDEb8Ro1-2BYm2Wb-2FXsT2FmcSQ9PUzwUaHH=
+OPmmd8JRor8VLDWH3rA6ARmryG3L6-2BPqcua3WpoQovw0B4dtNZw1BE9gNXjH8X1-2FwmdfHRO=
+d6MZWyIHDXsuRxzqNvauTDr2SysHO-2FO-2FlF0HeRmJhJbB93kZFkhZuqHjfHDXpuB4ItCrbPM=
+33dr5WxnLD4cSO47cGsDlmF2ZNZq-2Bj10K1La1CnIlUeHyyjQwmHkA4QDLMsKk25d0QFfmS6qH=
+vCsa5Cva0jj1kCYP9K6W66T2YVsP-2FJrXuPj8J4e3vQ5OQshPZ1dehyNI2ZvEsFXAivPJGnR1j=
+LilxK0OEEl0ikerh4-2BLSq4wCVgK1g5uq9DGbtQPjplY2Nbf9puxIpYOjBbF592SvsCDb6NoqU=
+Khqw2mQotmOup7WRY-2F-2Bs-2BT5ByW-2Bw-2FkKTN4LC-2FEAF3axwTzt-2FTmvC6EywNUPBi=
+nPYqmGSEkyl-2B5QODsfN62pKMX0tNtDsQ7s4pW8Noy5cu-2FL9W9aMDcPxiRaa7SGMpQR62Hki=
+mt6t1TOUXzcFi6tlEpB1Xzqa3Ebh24az0lswlHQ-3D-3D"" style=3D""color:black;border:=
+0 solid black;"">cancel your subscription</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DMP9WWW8XPJ&c=3DVDYDDL8YL1&s=3D109962878"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.6xIlVCtnPlCd8rr0Hv8j=
+y6VdxGYJ1Q6XVUc-2B5xWTnhQXjhvkGqlWsNRmRBM8Hv0y9MEapqtEobfenAs4esYInonS6MykG=
+DiFjDQmrXsVOoeeF-2BePjnLzP-2Bov21Leu9-2B5V06rSE4CgRm0ZDCms4gn5XloIucXzpFrV4=
+76ZkR8qCmuqBUuN4J52DNb-2FfWu0fQy300wknuisZeLiTP-2Fw7lnaHiJMB3xk3XwXKjBA6uPP=
+qUocLo5GSdOI2f870wHAcp3qdCS0Nm0FGlJoKUJPB4YTafu4j2L61cWlmbP69jCRs7n9852hhqf=
+m5CV6sha3rMFsErG8DBHThZ1pYf4JFkbNj-2BV0gUmaxVMxVJsiYaZmgnmxMIHhO4I93N06L-2F=
+za-2BmGlcvXgigK3sgK2FY-2FXFAQgpDVsuS6KDvLTB8drNoeH11sEApL4lRn75vzQFFuORj-2B=
+FI1GkQn0N-2BrjYEAyQwNnnT2QzEEHi3C6m342sKh1AEQz8pyIQOyM-2FdaZlf8t9wFTW1AXhME=
+WyNjLY6Y6WXiYlqCBZ-2BOrDStrTXSNl8SedhD8O4je-2FpctE4llO6Yqeia8h8NlpKmpYv1LXd=
+WlU7tPIo016fvzR3p9V1k8hr4U08I-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/></bo=
+dy>
+</html>
+ =20=
+
+--6106fe3a66193724684eb54aece6c14d674382b9301b318ab0d14887f0f9--
+","""Your Order"" <widredcabin@za2.blogtechnews.com>",nkululekomodishana@gmail.com,2025-02-22,3.226.58.111,United States,da,users/46280040/66b505a0-700d-4a80-b8d7-39271f957d40.json
+46280040,9M7cSJMOS5mE7IacaQFhwA.recvd-578d769b87-28wxc-1-67BAEA1F-15.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLTlNN2NTSk1PUzVtRTdJYWNhUUZod0EtMA,Your request has been Approved,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=EmSnG7jWTIsdQ6+949tiKt32wEMDzLmZcXFJWWdJnyE=;
+	b=DtjLVhPM3gbs407bOXQvP3v+XlkRGbkaBkJiZUIO5zINorE9sYTzYRfM7kuTYh0a8t7h
+	ixsSVGZKc1gYhdoGdCjgrrZXtqsyRvVjuT6SkQGvaPeDdZWhWAZ+kb9lqo+env3mjmZiZC
+	+CHGu82NZ5wdER4cfFLqrTFkGW9sgxgX+TuGi08dyUhZQDzuo8iJiCjDv50kLI8iQ7G8c3
+	DTJy2KUJi23lHM7kalPjvWnkNI5YCxluTYL1DjxtqqUuT2/CCXwgWwTjDIs6WLePSokHrC
+	qdBtZQx63Vr0NN6Uuvasl67EyN5RKZ1xP7fY1DQoRE2ORJkWIGOQ16Pn7QOeOP9A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=EmSnG7jWTIsdQ6+949tiKt32wEMDzLmZcXFJWWdJnyE=;
+	b=xT969UlONGVb822brWHDJ2IRUE23zlVqALqaG4iYwP6UGRAbXPI+qK+bWvXNoYMByUp1
+	7FuKZP23s4UasERFqiaNDus+urPjyxD0HHQmtP6HGpB3svU6hXIQ7wVT75BbwgegkVLnHU
+	5uy5yEFvccTV+f9uiXNW18eVgIAfbrpMI=
+Received: by recvd-578d769b87-28wxc with SMTP id recvd-578d769b87-28wxc-1-67BAEA1F-15
+	2025-02-23 09:27:59.97039558 +0000 UTC m=+8683422.005305278
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-36 (SG) with HTTP
+	id 9M7cSJMOS5mE7IacaQFhwA
+	Sun, 23 Feb 2025 09:27:59.903 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=3733c441daf51aac4a1d024fe014715cb90c0c66a6254aecdd716f89b6d4
+Date: Sun, 23 Feb 2025 09:28:00 +0000 (UTC)
+From: Verification <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <9c20dbe2-74d8-e31c-8dda-ca3a4cf2c9e8@za2.blogtechnews.com>
+Subject: Your request has been Approved
+X-Campaign-Id: E75M8L75G1
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DDPGDDEWKPN&c=3D?=
+ =?us-ascii?Q?E75M8L75G1&s=3D110920061=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E+TrLNYQ8vH8DSOWzfuRh4UIzl+5zSGA8Xl=2FHJ9P=2FXUHmyiUfCVw+X4R5A?=
+ =?us-ascii?Q?I0PPo2WgkeOlJLMfpGMuWrCdGqJjaNUDm9yIs6Z?=
+ =?us-ascii?Q?=2FRuPMhTiZH3L5Lg1Q8P2GYdzLf5A5nGH1axLLBC?=
+ =?us-ascii?Q?WZQAozkGHEKD+R7+J+gyGfcFs3XBDYwlp+vDe5P?=
+ =?us-ascii?Q?6VysSnvlrne0da3RMx3dedzMI7dXdn8gjT3LzCs?=
+ =?us-ascii?Q?B4o6A5XcxAm3druC+WI543DkDNWnc+N571DMQxK?=
+ =?us-ascii?Q?=2FqsJlnLHWXNrycU6LDs93m=2FJRg=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRSFA18rJMoqW3YxmrbQH+IJTc8Vd3h9G1?=
+ =?us-ascii?Q?I6gTUhURpBcK4MOZ+M+vIz3gq=2FQrCIlachu2=2FLx?=
+ =?us-ascii?Q?8fQlpsei9GfQ0yZ5qVP8TQvIPj+ulPHGaACCsT6?=
+ =?us-ascii?Q?4Nl7vqRLD4BLqmcXyyTxnP5tfYvtkGUuzGwWYNU?=
+ =?us-ascii?Q?cmWi7cxmF7ClldE7j5WaVd8a4O0MuYBJzMWHhSO?=
+ =?us-ascii?Q?kyIPfA53QLdzgAUyRXrkkmhJNZZQfFstZlibuWJ?=
+ =?us-ascii?Q?6csDT2IZcXz4h2jI3ZAJfYN4ezpRjrM0oTnHx4G?=
+ =?us-ascii?Q?QRCf2cX53fZI7Z2d8CgHsJi9F389wF3yk+GHuqX?=
+ =?us-ascii?Q?vUJ19rFEcqUsLW+TsPru8dMsUqpPXB2malfwFFZ?=
+ =?us-ascii?Q?OQDt7QAsTwpkPBzazLw=3D?=
+To: sandileqhotso@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--3733c441daf51aac4a1d024fe014715cb90c0c66a6254aecdd716f89b6d4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtkxlSnG9dFH-2BA4lVq5tSrdGEM408uKryrmAkLmKg-2BoQyP5M3iIQgVndrlJLHLbootNM=
+UHor2ZlkejBqvfCwZhRo-3DaOA0_N8CG0AZSzCduV3dmR9IZ7Q5XtfTF-2BTwP6HGmKMbIhnsVg=
+R-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo9RV04b-2BR5KLyP-2BJa=
+EW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQbf4z6y38YR2JBda9hPZn=
+0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9jINDXWDNruFWFUHITeWE=
+47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvahzV9qtRiiTfQSjixoJM1Q=
+vFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4GkxxLPe38ushtAErbpFTk=
+EUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821rPWNJ2GGV1oVKN2MoQPrj=
+wNc5SffPr-2B7gpzKM9tBFoWNlO9cK5usfntKJeXhppDRMIAasfq-2BZOj5xlPMTyvZPenJ77F5=
+pnlHkSzXJ4VNA2JpdRTuqWMoSdmjjL0eKjc7Lt6kwnAz9o5-2BjRhGirgcQvhA-3D-3D]
+http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJ=
+juGthUXyq3-2BxZK3kLyIGeMl-2Bx3-2BuE91b-2BvEtNO6-2FWzzGa7o-2Br236QP4LFQJP7VX=
+bc840cCLLwkkxvRuT8kwgOQqsskRUkCgOYFWEE-2Btxik9mxD0R5WpzCFw-2BqqcB8llwCFb991=
+4btWR-2FOTv-2FKf7t5SrCxU-3DXyRm_N8CG0AZSzCduV3dmR9IZ7Q5XtfTF-2BTwP6HGmKMbIh=
+nsVgR-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo9RV04b-2BR5KLyP-=
+2BJaEW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQbf4z6y38YR2JBda9=
+hPZn0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9jINDXWDNruFWFUHI=
+TeWE47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvahzV9qtRiiTfQSjixo=
+JM1QvFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4GkxxLPe38ushtAErb=
+pFTkEUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821rPj7Nvkfh4W-2BaR-=
+2BpJA8fPwxqGfF03dIE-2BJKBctaUpcf-2BLPLZFvFkGEZL9s8GYbH9i6BsLIQNsao81KaO5gJs=
+l0IfI4wmQw-2B2fm1nIWDOoGpcE6bPHiOHTpcWTq59h1MSXkukc1tzaOjXBmxIMz3m3OAQ-3D-3=
+D
+
+Hello Sandile
+
+We have received your application and submitted it for review!
+Your order has been accepted and you will soon receive your card, but you m=
+ust
+first fill in the necessary information.
+Tap the button below to access the form.
+
+
+
+SEE CARD
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx3-2BuE91b-2BvEtNO6-2FWzzGa7o-2Br236QP4LFQJP7V=
+Xbc840cCLLwkkxvRuT8kwgOQqsskRUkCgOYFWEE-2Btxik9mxD0R5WpzCFw-2BqqcB8llwCFb99=
+14btWR-2FOTv-2FKf7t5SrCxU-3DCRS8_N8CG0AZSzCduV3dmR9IZ7Q5XtfTF-2BTwP6HGmKMbI=
+hnsVgR-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo9RV04b-2BR5KLyP=
+-2BJaEW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQbf4z6y38YR2JBda=
+9hPZn0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9jINDXWDNruFWFUH=
+ITeWE47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvahzV9qtRiiTfQSjix=
+oJM1QvFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4GkxxLPe38ushtAEr=
+bpFTkEUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821rPHMCWE-2BHmR6a-=
+2B2gWDkGLdSDXjmZN2x8yMy9GBrE8Uq6Nxm-2BGA5ZNA2-2BTcVsaGoHKDftfQVUFbJznGz9r-2=
+Fut7Tkmev9C-2FVUXwOnZSvvjRSdnHdNJnzE1RxIDs5O8lMS46NTELnlKA4OG-2FFQUpUxXVu5w=
+-3D-3D]
+
+wiredcabin.com
+Sent to: sandileqhotso@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82q-2FMDldrSHzsz7fbDTLFIX=
+j1N5a8LgKnLjnUblK1MxYg-3DCb_r_N8CG0AZSzCduV3dmR9IZ7Q5XtfTF-2BTwP6HGmKMbIhns=
+VgR-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo9RV04b-2BR5KLyP-2B=
+JaEW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQbf4z6y38YR2JBda9hP=
+Zn0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9jINDXWDNruFWFUHITe=
+WE47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvahzV9qtRiiTfQSjixoJM=
+1QvFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4GkxxLPe38ushtAErbpF=
+TkEUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821rP2LDqTbigz4RSGKIEq=
+PTv5g1wxDUhl7iWSFHlCNrhiP52r6CGUbW3mjrTBcByeuHu43z6d6DfJZGWQp2VG-2FbJdrajY1=
+X3twIP00J66AhDXtiRVIeHRebxw7-2FY54qIH-2BUNdzrCWTHmhkynORtQ1sLIyg-3D-3D] or =
+cancel your
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82GUdvriwE5vrX0hieDXnLXD1=
+ZUMbFT-2FFC4pzL7LV0PJsYnMcbEXLe8uyf4f4h72FukB_l_N8CG0AZSzCduV3dmR9IZ7Q5XtfT=
+F-2BTwP6HGmKMbIhnsVgR-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo=
+9RV04b-2BR5KLyP-2BJaEW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQ=
+bf4z6y38YR2JBda9hPZn0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9=
+jINDXWDNruFWFUHITeWE47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvah=
+zV9qtRiiTfQSjixoJM1QvFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4G=
+kxxLPe38ushtAErbpFTkEUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821r=
+P6L1xYbZkakAws6GX6xMuwvzsMCzXPeJrFQV5-2F4kq2URivjTSyKrpscjwqq0e2pn5DALDzwKe=
+PYiZJqmMYc223IdYIsLq0cxEB99l8MHgQjPcOw71zqqsAy00FO0t7JRu-2Bk-2FqhTlVMlxIUA0=
+QtPJ93A-3D-3D]
+--3733c441daf51aac4a1d024fe014715cb90c0c66a6254aecdd716f89b6d4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:162px;"">
+             =20
+        <a
+           href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.=
+lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrZGH3sl8sDAJpExTUkwpqx8WddF4h6s=
+O8cIA0qSdAFqnf-2FQolakDfcBcWfbpngBeRQjqMQe5L2PYWipGo11zKO2oYXIp9MilCQP5k37g=
+5XUrxFseJ6IrI1MMKX7o-2FZ8keE1be081IMPWYZkSnFcraBQgiXzC7usDnewfwBDruDGv6d8MR=
+nXmkwuH4ldR85N2ZYdMG995Qb7-2F5aSMULPMI-2BQ3Cbkr7KFD-2B6tS-2FOvhTEgxKTZhaaJj=
+bhFyQsJAsoVn-2BziYOpC0ZlRBZRGskqTy-2BfPc9I_N8CG0AZSzCduV3dmR9IZ7Q5XtfTF-2BT=
+wP6HGmKMbIhnsVgR-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo9RV04=
+b-2BR5KLyP-2BJaEW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQbf4z6=
+y38YR2JBda9hPZn0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9jINDX=
+WDNruFWFUHITeWE47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvahzV9qt=
+RiiTfQSjixoJM1QvFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4GkxxLP=
+e38ushtAErbpFTkEUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821rPfGnN=
+GAgapx-2BY1s2lz7jLOpVGDPn5zdCa8oceJ8tc6p1zE5vQwHiz47lJSIipbzDslSg3YcXPOFCXD=
+XWKQ1pvA1JkjCpwL3v5ynnL9aF6sI1p-2BvwnJQlK3JSFz55K94XIqfAJEvtAjSkN6f4cYhrFlg=
+-3D-3D"" target=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/faa9311f-49c2-4d47-9f54-9fc75bc3a=
+2d4.jpg"" style=3D""border:0 solid black;display:block;outline:none;text-deco=
+ration:none;height:auto;width:100%;font-size:13px;"" width=3D""162"" height=3D=
+""auto""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:22px;line-height:28px;text-align:left;color:black;""
+      >Hello Sandile<br/><br/>We have received your application and submitt=
+ed it for review!<br/>Your order has been accepted and you will soon receiv=
+e your card, but you must first fill in the necessary information.<br/>Tap =
+the button below to access the form.<br/><br/></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""back=
+ground:#0007d6;font-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#0007d6"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#0007d6;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrZGH3sl8sDAJpExTUkwpqx8=
+WddF4h6sO8cIA0qSdAFqnf-2FQolakDfcBcWfbpngBeRQjqMQe5L2PYWipGo11zKO2oYXIp9Mil=
+CQP5k37g5XUrxFseJ6IrI1MMKX7o-2FZ8keE1be081IMPWYZkSnFcraBQgiXzC7usDnewfwBDru=
+DGv6d8MRnXmkwuH4ldR85N2ZYdMG995Qb7-2F5aSMULPMI-2BQ3Cbkr7KFD-2B6tS-2FOvhTEgx=
+KTZhaaJjbhFyQsJAsoVn-2BziYOpC0ZlRBZRGskqTy-2Bf11qN_N8CG0AZSzCduV3dmR9IZ7Q5X=
+tfTF-2BTwP6HGmKMbIhnsVgR-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-=
+2Fo9RV04b-2BR5KLyP-2BJaEW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2=
+FvQbf4z6y38YR2JBda9hPZn0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApC=
+Op9jINDXWDNruFWFUHITeWE47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwV=
+vahzV9qtRiiTfQSjixoJM1QvFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55=
+s4GkxxLPe38ushtAErbpFTkEUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE8=
+21rPA2cOOxPAJVrHNgLRN0OcBSzhnzV0PBK7o0g1U-2BJs54QtJAS3vALZXXEs1bhqEHxdwI6ot=
+x6XH5YN0du0xkQFd8pGuDsGzrAahxof4qzMlMs-2BZgIQmqNR69r4gwY2ZFr8nWsZcQYTL5Vzul=
+tuXNFlYw-3D-3D"" style=3D""display:inline-block;background:#0007d6;color:#fff=
+fff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:34px;font-we=
+ight:700;line-height:120%;margin:0;text-decoration:none;text-transform:none=
+;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;"" target=3D""_blank=
+""
+              >
+                SEE CARD
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: sandileqhotso@gmail.com<br/>You can <a h=
+ref=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-=
+2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82q-2FMDldrSHzsz7fb=
+DTLFIXj1N5a8LgKnLjnUblK1MxYg-3DRl3z_N8CG0AZSzCduV3dmR9IZ7Q5XtfTF-2BTwP6HGmK=
+MbIhnsVgR-2FSvbJWEaPtj9dbeE54yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo9RV04b-2BR5K=
+LyP-2BJaEW7J628MY6gXgiuICYF7eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQbf4z6y38YR2J=
+Bda9hPZn0xCnrTXMekaKXr-2FhuDAKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9jINDXWDNruFW=
+FUHITeWE47RDMvtvFNUdchgX8iJLNuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvahzV9qtRiiTfQS=
+jixoJM1QvFlJWh-2Bl-2BiuZOOR8P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4GkxxLPe38usht=
+AErbpFTkEUwEjFg1rYqjjXH-2Fm3eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821rPktxlkMjE-2F=
+xHPiR2WkwvEAb9oYDHwcK5rNJOCPS7b2g6gERMTYDL1oX-2BXM-2BnmveiOyczmwEp2MojUW3rR=
+je7nRgKYQ8Sl99I0Y4bbAd4-2BU1akmcRlvG-2BWlwpjLut4bzuCBoISM0JOVvhuIhmz4MeujA-=
+3D-3D"" style=3D""color:black;border:0 solid black;"">manage your subscription=
+s</a> or <a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001=
+.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrZGH3sl8sDAJpExTUkwpqx8WddF4h6=
+sO8cIA0qSdAFqnf-2FQolakDfcBcWfbpngBeRQjqMQe5L2PYWipGo11zKODOBCZ5qZZhOjrm-2B=
+ToxOxcgNAXQSnkxtzQXQZVxlPk3gkoTqGR9atOYfgKneK-2BiOmL71gJ1GCofRz6u-2BGoP-2FS=
+mVDPvg98r-2BCQgwvYrcybfJ-2FuV6CJ34nwoJEaglu-2FwZELIkW3mCWvvMqwlKHNFpPE2A-3D=
+-3Dp0K0_N8CG0AZSzCduV3dmR9IZ7Q5XtfTF-2BTwP6HGmKMbIhnsVgR-2FSvbJWEaPtj9dbeE5=
+4yN9upUNNNdFWf3-2Fe5SF2XmvngEor-2Fo9RV04b-2BR5KLyP-2BJaEW7J628MY6gXgiuICYF7=
+eftTzB7kiomUaMRS-2Fe9zHMGiDyzy-2FvQbf4z6y38YR2JBda9hPZn0xCnrTXMekaKXr-2FhuD=
+AKTw7a2FiVgbqdlB4D5Xyet69QiZsApCOp9jINDXWDNruFWFUHITeWE47RDMvtvFNUdchgX8iJL=
+NuoIuuvA-2BmL52QpUcsZO6-2Bu-2BwVvahzV9qtRiiTfQSjixoJM1QvFlJWh-2Bl-2BiuZOOR8=
+P5nuieFlM9HGR6AYPQICs4k8iMEAGL55s4GkxxLPe38ushtAErbpFTkEUwEjFg1rYqjjXH-2Fm3=
+eBObJJ9cStFARS6hDtC7Dlcpr9ot8hE821rPvs0-2FARX5R0qb-2FsWPem0YPLA819SsjE1m1pt=
+iL0j9YS6iIRAu7E3-2BsPNB5KnMAYsL5AlS9UD-2B-2Fm63CeZWuTALTHHE5veR-2FeVyuYxNZo=
+xsL5B-2BepbO4R6gvzy0tSxzDv8MKL1V5kRZaCGJV-2F4YnbH3bg-3D-3D"" style=3D""color:=
+black;border:0 solid black;"">cancel your subscription</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DDPGDDEWKPN&c=3DE75M8L75G1&s=3D110920061"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.8SW04WG0sws0zqboD7uv=
+z81FwOjOVVaMxOMdELUsTgBnvNcfE7k8jyfLTqnCu3wv4SUPO51D6K9YPtucdaq5qRHq1OMRLjW=
+BenELpnaZjV6QP7xNcrOUdKi5lo99fXsTqVdsMO3q965jvDEK4gkq0O2rslkP965QxzicPSO70r=
+CoHRZPLFHlR4bDFv05klw-2FBtpjPS0JJilXOaBqc71ETkHToh5AjgCOi4uvNDQIwfBZgGMgKf8=
+W30VdpRG1QCcb9vJ6jGJolOYn-2FAzS-2Fqelq-2B5ozo3-2Bkz7OD2niCm1yE9Ddwlz8YmCmQ2=
+dst-2BprTMmAshRJrqvxxQfL9SGyrlB2fDaHaa442Zu-2BC9BHCxrq1izG1EkVRBXXVR6qUaAV4=
+lZRbgqNSB0e4A19Vu5-2FA74X0fF4QKtDLPDJap8N-2BrsqK2wDhAYOe8yqvJKwR0G0CrhQm238=
+Lkf6ZAVvSGu03VRsZsJJN814vJ9ENlVGNeezq9hK91CVl46-2BuNeyVEkVT1pSHHI998tsB4awS=
+AmBbqtpU-2BpZRbwPkXphdF5KlZlhpMzaPSnE8WroJYhI3XdqHsMoS8YYV7v27X1YyawI63CjCg=
+-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px =
+!important;width:1px !important;border-width:0 !important;margin-top:0 !imp=
+ortant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !=
+important;padding-top:0 !important;padding-bottom:0 !important;padding-righ=
+t:0 !important;padding-left:0 !important;""/></body>
+</html>
+ =20=
+
+--3733c441daf51aac4a1d024fe014715cb90c0c66a6254aecdd716f89b6d4--
+","""Verification"" <widredcabin@za2.blogtechnews.com>",sandileqhotso@gmail.com,2025-02-23,3.226.58.111,United States,en,users/46280040/478035a5-4bf0-465e-90a7-b8afeee3c8f1.json
+46280040,GRebOhbJSV-Pnj-GFqqb_Q.recvd-8575c86f9d-q6dmh-1-67D8806E-7F.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLUdSZWJPaGJKU1YtUG5qLUdGcXFiX1EtMA,Delivered to you,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=iOgzNOaKzyLqepiWUeZas/hFjjYtkywjdT1ltHw6x+Q=;
+	b=NvDT1+D6p6rG1zPgWJJtGu6Nsq+KOHFEFGWpWeHJbY4wzpr54ebrzNQuOQxksj1p0yDy
+	6g3wmjSYYWlulVDJJqTPcHFuFGHT5nmiTKF3Q2fwYxn1ilgaJbiKaq1JxUv29+eK/bUEcq
+	y9DcDEubJ3E+ef7CKNgm5PxBKwBZDE73qfQzVndJ7VQoX5ZEiXO2ItUOlMWeTAMmP3IA9+
+	XR6SFnWvDb8/XyvqhSOosgcSN6Us8P5vz62kIHHxjS/gBjTkJnk+ou94PXfhLzT4LIfQPq
+	0xre5NXDvsiRXpyGvKkjbdCe6o2eNutLanzzMFQWNRbCkfmM6M4ogojIAA2iDX5A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=iOgzNOaKzyLqepiWUeZas/hFjjYtkywjdT1ltHw6x+Q=;
+	b=CSufYY8js1ixX9DGm5AuNCeVN9dybJbiFGbmWNU0+RgEIUTX7w8Lf12foDlC1HOBfs8z
+	v0S716FHZjGxgJ2xZAAgAmhc46RbomXmBSCjTjjSc2YvMPigJD3Av/18GUgDvfEgn1xsJQ
+	30bpKp1VA43m6pMLAOHzJBp4a9Wfzb+MM=
+Received: by recvd-8575c86f9d-q6dmh with SMTP id recvd-8575c86f9d-q6dmh-1-67D8806E-7F
+	2025-03-17 20:05:02.947238425 +0000 UTC m=+10622504.971593423
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-13 (SG) with HTTP
+	id GRebOhbJSV-Pnj-GFqqb_Q
+	Mon, 17 Mar 2025 20:05:02.925 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=ea3fd394d6e1073e24e4e23dbc2dd45474f3319e3a66509f3061c70ba324
+Date: Mon, 17 Mar 2025 20:05:02 +0000 (UTC)
+From: Your card <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <513b18ab-407c-fff3-80d8-95b07f05321d@za2.blogtechnews.com>
+Subject: Delivered to you
+X-Campaign-Id: Z2Y6L8L5DW
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DLP2DOQG9P7&c=3D?=
+ =?us-ascii?Q?Z2Y6L8L5DW&s=3D150822414=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EuDL5310OmvN97WmHFwinUt+w8pawUaD+3SfxehfnHJLyaTITUN9eNGISP?=
+ =?us-ascii?Q?C3OidQXDvBNyVIrYUjfD5zQsN9KSh7Xt7Sqz0IT?=
+ =?us-ascii?Q?ut4i1T4MijX+Yi0yrFApKw=2FxjTn8txndKzKUUD0?=
+ =?us-ascii?Q?1MBc+QaNRL2TZF9u3O3LTlOdQYzah2Ymk3gZ5zT?=
+ =?us-ascii?Q?SZbljtgLUVD1zcmmcF=2FvolOtcXMbpTjJ7+R8OjY?=
+ =?us-ascii?Q?0ZPFTRs1a=2F00PfJfUjfuaiaZa=2FObjmAgHCaFwne?=
+ =?us-ascii?Q?UQAYoqOmJ70osy=2FhvMq3eXWC2Q=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRiTlecGSLavMwxS8apargDJqXVWgfcXED?=
+ =?us-ascii?Q?bG=2FqVlYsu3ZmlakTpCA0eUeo4styfZcUWMn3lUG?=
+ =?us-ascii?Q?8Hw2U1rfZjFqtlI064KXBfMGbOXLo+kLIjWmY85?=
+ =?us-ascii?Q?gNuZE2e2vTGeQKp1jNDHyeDgthDIytITRS8oMBL?=
+ =?us-ascii?Q?CkOUyEf1vhIaaywbEW8kAWAFAwwbfvjreYkx8Zu?=
+ =?us-ascii?Q?6iqW1DtW4uB8c6=2Fqqro7rP0Qb96A0qstP6W3ug0?=
+ =?us-ascii?Q?M=2FA4EFuwX9Yg66Gydgw0D2vsoSLlwiz9dcVqEGP?=
+ =?us-ascii?Q?X1aU4VIBKmyZhJuDU7KMisLKYrR1iKkesEv0LoA?=
+ =?us-ascii?Q?X3CzHQZLoWW=2F6Yu4IYziIz8gGjXsxTRTcGHVRt7?=
+ =?us-ascii?Q?05OcVH2lvBCs=2F993kb8=3D?=
+To: rhiwaldoscheffers@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--ea3fd394d6e1073e24e4e23dbc2dd45474f3319e3a66509f3061c70ba324
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtkxlSnG9dFH-2BA4lVq5tSrdF9Pm2jiMv6X8cDv8BzbohOQpZ1GVjIO5-2FMsmg3DeYcT0Q=
+7wLtHHa-2F-2BY8yhU-2FqM50o-3Dy9ih_9355NVjHhRs61Atq36-2Fw9n8DQm0NeUMffl-2FRF=
+VhUCyJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch87-2BurBnZAw2ebqyRWwHQ40jXk0LnrFSzlzOtNKP=
+qPe1sotXltm14l1xs8bxinx2ADGejxwGCi-2FmCIAg-2Frsb10653PaGJ7n-2B-2BzI-2BQXMLp=
+HDD6OlP6IDKh-2F169D7Mn-2FGrl-2FusJ7CGMVSqONhmccAP3Yeepz6MtjxYEtLVfEfXR907SI=
+LIMQy5mleMKw8aSDsKVnxcQXAbFgKQvjEAiCuhu3fnvotgGv5RtCAeG-2FIP-2FnsfsMt1kBUA5=
+aSVo8hU-2BRKhbrDJDKS16fvpnU6MZEqus2WYJfEg5x-2F0-2FHt7B4MPAt-2BIOIS2uxgiZSka=
+Zs-2Fq-2Bfod8NBU4EemH87JYMK8g5o1JjQrionrgAFjXoAyMfv9148swvoj0-2BJLIOL8js1ma=
+ieew16qpDpXdUdvtOby-2B7DEYNhoggiN60fzNZ-2BU7EKWms6pyZMotQVrwcZZwyGv8WOgflqT=
+EnyoUr6-2BWm1DLElCP1LLRLrBqGK-2BSt2-2FJWV9Ex6wMkfELL7yz78PJff4iTaU3uNgsj53m=
+qgcyiiA-3D-3D]
+http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJ=
+juGthUXyq3-2BxZK3kLyIGeMl-2Bx377d5uT0OlMxzFep2Zsq7NM6fZ-2FF252FcD0o35B9bhAR=
+A1WjCjp3r3A4hCH7AU1MKHgm2ByI8JkD4ZvZGWg564H8PDRrs35AuSkYiTA1JaVJmcCrjvBM6dH=
+91van7AIRRxztxUc3sCFGjCry5cwYXTobRT_9355NVjHhRs61Atq36-2Fw9n8DQm0NeUMffl-2F=
+RFVhUCyJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch87-2BurBnZAw2ebqyRWwHQ40jXk0LnrFSzlzOtN=
+KPqPe1sotXltm14l1xs8bxinx2ADGejxwGCi-2FmCIAg-2Frsb10653PaGJ7n-2B-2BzI-2BQXM=
+LpHDD6OlP6IDKh-2F169D7Mn-2FGrl-2FusJ7CGMVSqONhmccAP3Yeepz6MtjxYEtLVfEfXR907=
+SILIMQy5mleMKw8aSDsKVnxcQXAbFgKQvjEAiCuhu3fnvotgGv5RtCAeG-2FIP-2FnsfsMt1kBU=
+A5aSVo8hU-2BRKhbrDJDKS16fvpnU6MZEqus2WYJfEg5x-2F0-2FHt7B4MPAt-2BIOIS2uxgiZS=
+kaZs-2Fq-2Bfod8NBU4EemH87JYMK8g5o1JjQrionrgAFjXoAyMfv9148swvoj0-2BJLIOL8js1=
+maieew16qpDpXdUdvtObw6Gs-2FmZvKQHvQKshkH1XIKysAD1kwAyNUlIsXMWJIrotnIYzIEuUW=
+UgsIIQtHpa8L36GDYhatsK0nZBur77TeWCkQgr4uMLcCN7LMuVrOtIedh82Ucyyw-2BJj6KLJgp=
+yLg-3D-3D
+
+Congratulations Joshua
+
+completed successfully...
+
+This is how we want to give you back the trust you have given us: an amazin=
+g
+credit card is at your disposal.
+
+This card, in addition, provides you with a dedicated and specialized team =
+to
+help you in your finances.
+
+
+RECEIVE YOUR CARD
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx377d5uT0OlMxzFep2Zsq7NM6fZ-2FF252FcD0o35B9bhA=
+RA1WjCjp3r3A4hCH7AU1MKHgm2ByI8JkD4ZvZGWg564H8PDRrs35AuSkYiTA1JaVJmcCrjvBM6d=
+H91van7AIRRxztxUc3sCFGjCry5cwYXTwbXa_9355NVjHhRs61Atq36-2Fw9n8DQm0NeUMffl-2=
+FRFVhUCyJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch87-2BurBnZAw2ebqyRWwHQ40jXk0LnrFSzlzOt=
+NKPqPe1sotXltm14l1xs8bxinx2ADGejxwGCi-2FmCIAg-2Frsb10653PaGJ7n-2B-2BzI-2BQX=
+MLpHDD6OlP6IDKh-2F169D7Mn-2FGrl-2FusJ7CGMVSqONhmccAP3Yeepz6MtjxYEtLVfEfXR90=
+7SILIMQy5mleMKw8aSDsKVnxcQXAbFgKQvjEAiCuhu3fnvotgGv5RtCAeG-2FIP-2FnsfsMt1kB=
+UA5aSVo8hU-2BRKhbrDJDKS16fvpnU6MZEqus2WYJfEg5x-2F0-2FHt7B4MPAt-2BIOIS2uxgiZ=
+SkaZs-2Fq-2Bfod8NBU4EemH87JYMK8g5o1JjQrionrgAFjXoAyMfv9148swvoj0-2BJLIOL8js=
+1maieew16qpDpXdUdvtObyZMaoME9MHIoirtPYsMkFnsXUsRS8t97OH31xisilwN48aHw-2BOpX=
+t543DRrZGYGxfIKMtkx8leB8BODBxPz9Q23M-2FwI3gAQt9mhKdj-2BdXhEmdN7EDhw3WBNx-2F=
+NbCI3Rug-3D-3D]
+
+wiredcabin.com
+Sent to: rhiwaldoscheffers@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82bzjdibSidp1lt8gDPMYgFzc=
+YKcSe6gzBIjGJllE-2FqpA-3D_QBZ_9355NVjHhRs61Atq36-2Fw9n8DQm0NeUMffl-2FRFVhUC=
+yJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch87-2BurBnZAw2ebqyRWwHQ40jXk0LnrFSzlzOtNKPqPe1=
+sotXltm14l1xs8bxinx2ADGejxwGCi-2FmCIAg-2Frsb10653PaGJ7n-2B-2BzI-2BQXMLpHDD6=
+OlP6IDKh-2F169D7Mn-2FGrl-2FusJ7CGMVSqONhmccAP3Yeepz6MtjxYEtLVfEfXR907SILIMQ=
+y5mleMKw8aSDsKVnxcQXAbFgKQvjEAiCuhu3fnvotgGv5RtCAeG-2FIP-2FnsfsMt1kBUA5aSVo=
+8hU-2BRKhbrDJDKS16fvpnU6MZEqus2WYJfEg5x-2F0-2FHt7B4MPAt-2BIOIS2uxgiZSkaZs-2=
+Fq-2Bfod8NBU4EemH87JYMK8g5o1JjQrionrgAFjXoAyMfv9148swvoj0-2BJLIOL8js1maieew=
+16qpDpXdUdvtOb0lWmHHq0SrWzGTx9Vx7fon1-2FiQnHBk8A38QdU5F0wkaE9iiJ0CjtTNkS9j2=
+PLFub-2BW2gPheGHIozWGgmHV-2BkPvriSlnaZB6WQB-2F6sNbDwQleM1CWsDCkBl-2BElu7qCe=
+vmg-3D-3D] or cancel your
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82OnuSKO3z-2B1S98FF-2BT54=
+FBUFYZiKtIybUf1WWn3CldnzI3Xbn9VXWC5baAbertz09GMNu_9355NVjHhRs61Atq36-2Fw9n8=
+DQm0NeUMffl-2FRFVhUCyJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch87-2BurBnZAw2ebqyRWwHQ40j=
+Xk0LnrFSzlzOtNKPqPe1sotXltm14l1xs8bxinx2ADGejxwGCi-2FmCIAg-2Frsb10653PaGJ7n=
+-2B-2BzI-2BQXMLpHDD6OlP6IDKh-2F169D7Mn-2FGrl-2FusJ7CGMVSqONhmccAP3Yeepz6Mtj=
+xYEtLVfEfXR907SILIMQy5mleMKw8aSDsKVnxcQXAbFgKQvjEAiCuhu3fnvotgGv5RtCAeG-2FI=
+P-2FnsfsMt1kBUA5aSVo8hU-2BRKhbrDJDKS16fvpnU6MZEqus2WYJfEg5x-2F0-2FHt7B4MPAt=
+-2BIOIS2uxgiZSkaZs-2Fq-2Bfod8NBU4EemH87JYMK8g5o1JjQrionrgAFjXoAyMfv9148swvo=
+j0-2BJLIOL8js1maieew16qpDpXdUdvtOb3hyb76eGOc4M4WkWEzMZK0ljOtDsg0x3cREgtGRqW=
+I50MzAAfcGLQ-2BoWfJHppYd2NvxZ1yVQNaxWWnI0OrD6THKWDY36N-2Fk-2F-2BWEK1blQYEwc=
+HGrdja969ONhcUt5KtfLw-3D-3D]
+--ea3fd394d6e1073e24e4e23dbc2dd45474f3319e3a66509f3061c70ba324
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:274px;"">
+             =20
+        <a
+           href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.=
+lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsqwnlQvGVYk1ZKBLMWvfEfzhDyWgcnDR=
+fcBmFmHCSuQpgtdUdIiVABXUfCJ7SuNLsFNB87R2rsKNUv4ocIjIhHTjK62t-2Fx5-2FTL1408x=
+tjUrYrSWUY-2B8xCgA92vCCa3HycUDYZenCeTAI8p8T5QhelloRuIP35PUxPBCQIXbGoAjXaC3g=
+URtLqodlP81rsgUWtF8-2Bcj0lVVYigZmF63NzhHQALbLi2Qx9rrvclvDDlW6D-2BWKw75E28zp=
+LUmiC7604o50gvIMWcVA6x21WjpnQbNyHeS-2FWPls3SKZ2fRlVy8HuQ-3D-3DjGiq_9355NVjH=
+hRs61Atq36-2Fw9n8DQm0NeUMffl-2FRFVhUCyJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch87-2BurB=
+nZAw2ebqyRWwHQ40jXk0LnrFSzlzOtNKPqPe1sotXltm14l1xs8bxinx2ADGejxwGCi-2FmCIAg=
+-2Frsb10653PaGJ7n-2B-2BzI-2BQXMLpHDD6OlP6IDKh-2F169D7Mn-2FGrl-2FusJ7CGMVSqO=
+NhmccAP3Yeepz6MtjxYEtLVfEfXR907SILIMQy5mleMKw8aSDsKVnxcQXAbFgKQvjEAiCuhu3fn=
+votgGv5RtCAeG-2FIP-2FnsfsMt1kBUA5aSVo8hU-2BRKhbrDJDKS16fvpnU6MZEqus2WYJfEg5=
+x-2F0-2FHt7B4MPAt-2BIOIS2uxgiZSkaZs-2Fq-2Bfod8NBU4EemH87JYMK8g5o1JjQrionrgA=
+FjXoAyMfv9148swvoj0-2BJLIOL8js1maieew16qpDpXdUdvtOb71w-2FAh41at0dbUnxOys902=
+twRMe3lcM4syZaJorO7cUKHBsMN-2FSc6vXJ-2FZoYjbUJOUaanQda6B11-2B24vXANnl-2FfmN=
+rL-2BPTfWsEpAprbigyesiRyP8LqPCAeNxSdCArzzQ-3D-3D"" target=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/7f30bdb6-f72e-4466-8204-98251b026=
+41e.gif"" style=3D""border:0 solid black;display:block;outline:none;text-deco=
+ration:none;height:auto;width:100%;font-size:13px;"" width=3D""274"" height=3D=
+""auto""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:20px;line-height:25px;text-align:left;color:black;""
+      >Congratulations Joshua<br/><br/>completed successfully...<br/><br/>T=
+his is how we want to give you back the trust you have given us: an amazing=
+ credit card is at your disposal.<br/><br/>This card, in addition, provides=
+ you with a dedicated and specialized team to help you in your finances.<br=
+/></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#bf0f0f"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#bf0f0f;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsqwnlQvGVYk1ZKBLMWvfEfzh=
+DyWgcnDRfcBmFmHCSuQpgtdUdIiVABXUfCJ7SuNLsFNB87R2rsKNUv4ocIjIhHTjK62t-2Fx5-2=
+FTL1408xtjUrYrSWUY-2B8xCgA92vCCa3HycUDYZenCeTAI8p8T5QhelloRuIP35PUxPBCQIXbG=
+oAjXaC3gURtLqodlP81rsgUWtF8-2Bcj0lVVYigZmF63NzhHQALbLi2Qx9rrvclvDDlW6D-2BWK=
+w75E28zpLUmiC7604o50gvIMWcVA6x21WjpnQbNyHeS-2FWPls3SKZ2fRlVy8HuQ-3D-3D3pS2_=
+9355NVjHhRs61Atq36-2Fw9n8DQm0NeUMffl-2FRFVhUCyJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch=
+87-2BurBnZAw2ebqyRWwHQ40jXk0LnrFSzlzOtNKPqPe1sotXltm14l1xs8bxinx2ADGejxwGCi=
+-2FmCIAg-2Frsb10653PaGJ7n-2B-2BzI-2BQXMLpHDD6OlP6IDKh-2F169D7Mn-2FGrl-2FusJ=
+7CGMVSqONhmccAP3Yeepz6MtjxYEtLVfEfXR907SILIMQy5mleMKw8aSDsKVnxcQXAbFgKQvjEA=
+iCuhu3fnvotgGv5RtCAeG-2FIP-2FnsfsMt1kBUA5aSVo8hU-2BRKhbrDJDKS16fvpnU6MZEqus=
+2WYJfEg5x-2F0-2FHt7B4MPAt-2BIOIS2uxgiZSkaZs-2Fq-2Bfod8NBU4EemH87JYMK8g5o1Jj=
+QrionrgAFjXoAyMfv9148swvoj0-2BJLIOL8js1maieew16qpDpXdUdvtOb0Tko6xkZi-2B3vFz=
+6nKwAbAVpdi6JtVfgefuLK20lUUcrQKDJroQNcnXBAcWqcSz-2BMncNHaN1-2BSJL-2Ft4-2ByB=
+g6DzRp55ZtWec-2FlzM1c-2F0nVxu-2BC4NpGl2Hvtw0N4BpDIrNdg-3D-3D"" style=3D""disp=
+lay:inline-block;background:#bf0f0f;color:#ffffff;font-family:Ubuntu, Helve=
+tica, Arial, sans-serif;font-size:30px;font-weight:700;line-height:120%;mar=
+gin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-paddin=
+g-alt:0px;border-radius:3px;"" target=3D""_blank""
+              >
+                RECEIVE YOUR CARD
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: rhiwaldoscheffers@gmail.com<br/>You can =
+<a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8=
+F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82bzjdibSidp1lt=
+8gDPMYgFzcYKcSe6gzBIjGJllE-2FqpA-3DOIzE_9355NVjHhRs61Atq36-2Fw9n8DQm0NeUMff=
+l-2FRFVhUCyJmMWPUJ7JSxqSU4PeM3ASDGX7Rgch87-2BurBnZAw2ebqyRWwHQ40jXk0LnrFSzl=
+zOtNKPqPe1sotXltm14l1xs8bxinx2ADGejxwGCi-2FmCIAg-2Frsb10653PaGJ7n-2B-2BzI-2=
+BQXMLpHDD6OlP6IDKh-2F169D7Mn-2FGrl-2FusJ7CGMVSqONhmccAP3Yeepz6MtjxYEtLVfEfX=
+R907SILIMQy5mleMKw8aSDsKVnxcQXAbFgKQvjEAiCuhu3fnvotgGv5RtCAeG-2FIP-2FnsfsMt=
+1kBUA5aSVo8hU-2BRKhbrDJDKS16fvpnU6MZEqus2WYJfEg5x-2F0-2FHt7B4MPAt-2BIOIS2ux=
+giZSkaZs-2Fq-2Bfod8NBU4EemH87JYMK8g5o1JjQrionrgAFjXoAyMfv9148swvoj0-2BJLIOL=
+8js1maieew16qpDpXdUdvtObxmiNacRXUDfKHCtD2efed7PQm6M-2BhCKzKmt3Vz6Ga91cd1ydz=
+Vz-2FNhQTLO6raAhy367F7Ub1Qgpa7pzl6rlg8-2B1TPy1UtYo5k45f1HLDQUOT0czE-2BHWa6X=
+tzw4YVoGl-2Fg-3D-3D"" style=3D""color:black;border:0 solid black;"">manage you=
+r subscriptions</a> or <a href=3D""http://url5332.za2.blogtechnews.com/ls/cl=
+ick?upn=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsqwnlQvGVYk1ZKBLM=
+WvfEfzhDyWgcnDRfcBmFmHCSuQpgtdUdIiVABXUfCJ7SuNLsFNB87R2rsKNUv4ocIjIhHTwD55-=
+2BB8MAJmXCNSVSNq2Ht3PxFqIFiwSD6zi-2FSK3-2FWmUhywvYlDh9gykjqjT1u-2FwaiushASr=
+gh7DCND8FprpZ4wkMpjml0Bv3t6HUPHgdWaRi3QhI2ZC4-2FSIUfhlf9W6wcS7LHn4g7oukb0zV=
+zPvTA-3D-3DGK7W_9355NVjHhRs61Atq36-2Fw9n8DQm0NeUMffl-2FRFVhUCyJmMWPUJ7JSxqS=
+U4PeM3ASDGX7Rgch87-2BurBnZAw2ebqyRWwHQ40jXk0LnrFSzlzOtNKPqPe1sotXltm14l1xs8=
+bxinx2ADGejxwGCi-2FmCIAg-2Frsb10653PaGJ7n-2B-2BzI-2BQXMLpHDD6OlP6IDKh-2F169=
+D7Mn-2FGrl-2FusJ7CGMVSqONhmccAP3Yeepz6MtjxYEtLVfEfXR907SILIMQy5mleMKw8aSDsK=
+VnxcQXAbFgKQvjEAiCuhu3fnvotgGv5RtCAeG-2FIP-2FnsfsMt1kBUA5aSVo8hU-2BRKhbrDJD=
+KS16fvpnU6MZEqus2WYJfEg5x-2F0-2FHt7B4MPAt-2BIOIS2uxgiZSkaZs-2Fq-2Bfod8NBU4E=
+emH87JYMK8g5o1JjQrionrgAFjXoAyMfv9148swvoj0-2BJLIOL8js1maieew16qpDpXdUdvtOb=
+5olt8Bfj-2FVDN9zHxlx3szXjDfBdIBBQo-2BdcKymO6v4iYrL0F0HJfZohiASVN3ZwR3e0LB4Y=
+t34XgfvjHmHA2DHsKKiiBrzLRJ0xZ1-2FjJI12pNtS-2F-2BTnWV5TKO9e5sX1oA-3D-3D"" sty=
+le=3D""color:black;border:0 solid black;"">cancel your subscription</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DLP2DOQG9P7&c=3DZ2Y6L8L5DW&s=3D150822414"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.7-2Bn8YptxwMOWKx76wh=
+8L0HHymq06GfW8Jh1-2F8eCNd23xQ6hO3LaVKksKhm5OID8is8jRtd2rCc-2BAKZzJClqFAGf5Z=
+yK7oBOef8-2FJ4sNnT78AVq8bOj1GIgZO6zrKu6hdxAuWXSyuZ-2BBDt2dFNQqn7GfyAAIK1LkX=
+bcB6TyihbLatio530-2B8QxvBXUfgHBiEznvTxqUDSRgupkudyyZPpMndXFb8AasjhahtGSQw41=
+OXgFN6yZD2JcCsF720ahkIFcsYmMYiRtjrWID7VKMvbq44rnrSbvGPFtt5-2F5ikp1KKwajY9Qc=
+Xq5DTIP9M6aFmmvWDITRLOJBW2FW7yYWw7ddX-2FsWtvDqu2M1IlY5O-2F82d0iAtmzbiS3Pvwz=
+juAXU-2FrCLrznDsOKLrHhZU9o-2BDIPII3v-2F7aIkhrObEoV4aTsX0QmNIxRejGfYMvF5wapk=
+xwgvjZVyzAWpzgpGr-2FVrc2a-2FSgpcjkA6C7p2NaFfuKpXj-2F8ADuMqh-2FnDlpTEfQtEcjL=
+-2FLVdzzuxafgRFwAKl2UDa9BR-2FLpd-2FP5xZynN-2FDlowE0LTW9thZxyD2ZdOv-2FDMLsS1=
+wvQwyW7aY-2FcT0JSvP2eEX49MtqYx9C6xXStCxJ0Xc-3D"" alt=3D"""" width=3D""1"" height=
+=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;""/></body>
+</html>
+ =20=
+
+--ea3fd394d6e1073e24e4e23dbc2dd45474f3319e3a66509f3061c70ba324--
+","""Your card"" <widredcabin@za2.blogtechnews.com>",rhiwaldoscheffers@gmail.com,2025-03-17,3.226.58.111,United States,en,users/46280040/c204668a-277e-4ccf-8eb3-5cfa680814f5.json
+46280040,JuHSQvL3RrCsX7RGeD6FJw.recvd-668fcdfd56-f4hql-1-67B93B2C-8.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLUp1SFNRdkwzUnJDc1g3UkdlRDZGSnctMA,Confirm your order,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=xCesz1TXva4pIwqSoIZM+Zdhxi4EsOD0wjvxotIXoBk=;
+	b=AKev0Tshmc7XJD9Y3U/JSnjdaOPw/d+Zt4EfpZLUgptz6gMFCJmktWHJTJaAR/LBTvPN
+	2ZdcxGaXJVhuie/2hJ/tiFGHeDLsq1O0OYLe3Wx+So+PdwkqgKLgbrp1DplL8/T2PaqzwY
+	XjDwWbp1OlfQtFZGE3a8yaDqF/sa+/aSiTYJsC1wyPb/E9Tk8Yq8y7p4cpdWJSK6RYSXIC
+	G/2CoejcGUqesSJbdAzQNXQN3DMvSu9j1xpo6uoktgYmCFyZbLz4TG1zuEUTwDtt5iNc0f
+	4ZuZLuEwrWeodR1xCOGhJpKFLcMrrWNQOwEUJm/KBqpNnEq983D8WEa0gaqtRE0g==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=xCesz1TXva4pIwqSoIZM+Zdhxi4EsOD0wjvxotIXoBk=;
+	b=vATo8SXFo7TzVegfMCD8S/PwuP6RiFShpDPJiRQcmY+JJqNhsa9gKbRUfehhV/I7RC/C
+	aWm5I4DKfIdPSWJj4MeeAiZGHZeT7eo2IUQfimXFK1DMjfzjRAVZjkmp82Rs4gBAz+03un
+	NPmZaB3wDA36C6I+w/QcmZs7y6/k9LwHw=
+Received: by recvd-668fcdfd56-f4hql with SMTP id recvd-668fcdfd56-f4hql-1-67B93B2C-8
+	2025-02-22 02:49:16.568283194 +0000 UTC m=+8573136.909139540
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-24 (SG) with HTTP
+	id JuHSQvL3RrCsX7RGeD6FJw
+	Sat, 22 Feb 2025 02:49:16.504 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=0c78f74ac57fd8bfa7dc2d7ad67b5c019996868008ff7f38fe7023a7badc
+Date: Sat, 22 Feb 2025 02:49:16 +0000 (UTC)
+From: Awaiting <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <160e045e-a529-71ce-065f-c28e742e5b19@za2.blogtechnews.com>
+Subject: Confirm your order
+X-Campaign-Id: 0V571MW5MD
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3D2PEMMV9756&c=3D?=
+ =?us-ascii?Q?0V571MW5MD&s=3D109107452=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EGCDlKXnvmzzzmgFE6qf9x0Lrrz47XyBCAxO=2FnRZCORNb91znTEzm8WmPo?=
+ =?us-ascii?Q?jZlhs3+WRaWEWClQhh05R6b0XmxD0huETo6bDDH?=
+ =?us-ascii?Q?chFtChBeHOgbNS6uAo12cLBevNvK2qrtFxp2gm6?=
+ =?us-ascii?Q?qdKol4wdbjfrAOcNdvesYpKjUyDUSWYXCLewaUl?=
+ =?us-ascii?Q?t1J7UR2SgApLjHUB9l73ovjaAr7ShPVfpu6Y9DI?=
+ =?us-ascii?Q?Pizqq=2Fg2fAPS=2FTZpkuFn8B1L5L1FFCX=2FX9mE9uI?=
+ =?us-ascii?Q?y3aGIFzKmzMy61jzopr0fJL4JA=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRKYhpLBxXpZ5XaM7=2FEWNF=2Fe4fQ6Tp3LIY?=
+ =?us-ascii?Q?v+IWcWvOy9vr6CGNcRu0o+DYbNrDtwKTE=2FbYDKt?=
+ =?us-ascii?Q?Ypb3XJ4uTdipmlVaGR8CVccfX2XnL=2FX46gJK9MX?=
+ =?us-ascii?Q?3DUqbFreEkllJdQsikloVLtfIlGiZKq+liIEthc?=
+ =?us-ascii?Q?dAjQfWwQToc5mIlEiSX8z=2F+VrEd+3E4Tupd8nva?=
+ =?us-ascii?Q?GloLD=2FSIMyRLmnttNsn7PBZt+gA77ngFd5X7lGn?=
+ =?us-ascii?Q?C4upHwnOdQAr9RpAEq5sNghbJEdLdoA50EEkBQp?=
+ =?us-ascii?Q?ji+Hwezcuq8hDiukKZIzzZLgdiAmfow4+Na3g1Y?=
+ =?us-ascii?Q?26=2FBXTSfooPDW=2FH7ClpL=2FH3KY6zNeH56dMukt09?=
+ =?us-ascii?Q?Prp3j9Sf8fkMcm5Onck=3D?=
+To: ndalamabaloyi985@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--0c78f74ac57fd8bfa7dc2d7ad67b5c019996868008ff7f38fe7023a7badc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hello Mean
+
+Your card is ready to be shipped!
+
+We kindly ask you to confirm if this is the card that was requested. If it =
+is
+not, please let us know.""
+
+REQUEST CARD
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx23qpukukDTI4XZSGzDw8kWe0Be1l3QYIq9NnwTgnurI8t=
+4WYtnRdS4bPzbHKPS6kJusL8jhGcUYS3FgOU397Jcay-2FRcw7TQj3n8jFCxpOrmT5HC5reIScT=
+GMXvNuGiHwY-3DA9Nx_nLWJQ2l-2FVgnDA7d0e4B8XA9dmciZR6zvfMrI8xq1Ts4ar8KByOrgTz=
+okeC1X49Wr9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZP9WZan4Bh9akEsTyWjGBPhBa1FJzfQga2=
+SE4-2BD2GUZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN71DVJmBmPK8lNRHK9HZJZXCjJGSzBmYbE=
+x9IQs3qtsoq1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6ou0U1KJnF7WYkoUaQAv-2Bnvyba4SBkhj=
+rAfnEfBbK2gsvsFoeYDLcqr43I537cu3QjWkqJH7MKEOb3taYPQU1pOIaGaRRrZHvhxaJEyevO4=
+Dj7b29N6kReVxmVkc-2FhTlajVEr1v8D3gFnslPgp02eYgNxuqqpDwmu2ilGPNYERVtZzH2X9ze=
+IPp6iHxPraWK-2FdvMQ8bAQ0sx1gFdiUx8P5ShWo3a50fAudytJola-2BCoqN-2BcXBK-2BsPeK=
+OhowOSRPXAhc-2B3fc46f-2FNcPXkGh8YYYtIjwlQRhdwL6vA82SxUK4O28-2FWlDCA4bOZVgat=
+3KYl35jGoiTSgWKOBNCT-2BpIZa2EOe-2FxmaUP1ik9yQ-3D-3D]
+
+FIND ANOTHER CARD
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx23qpukukDTI4XZSGzDw8kWe0Be1l3QYIq9NnwTgnurI8t=
+4WYtnRdS4bPzbHKPS6kJusL8jhGcUYS3FgOU397Jcay-2FRcw7TQj3n8jFCxpOrmT5HC5reIScT=
+GMXvNuGiHwY-3D6AJz_nLWJQ2l-2FVgnDA7d0e4B8XA9dmciZR6zvfMrI8xq1Ts4ar8KByOrgTz=
+okeC1X49Wr9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZP9WZan4Bh9akEsTyWjGBPhBa1FJzfQga2=
+SE4-2BD2GUZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN71DVJmBmPK8lNRHK9HZJZXCjJGSzBmYbE=
+x9IQs3qtsoq1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6ou0U1KJnF7WYkoUaQAv-2Bnvyba4SBkhj=
+rAfnEfBbK2gsvsFoeYDLcqr43I537cu3QjWkqJH7MKEOb3taYPQU1pOIaGaRRrZHvhxaJEyevO4=
+Dj7b29N6kReVxmVkc-2FhTlajVEr1v8D3gFnslPgp02eYgNxuqqpDwmu2ilGPNYERVtZzH2X9ze=
+IPp6iHxPraWK-2FdvMQ8bAQ0sx1gFdiUx8P5ShWo3a50fAudytFy449iBhRXY1JlTAGTM07FAHT=
+UaBQ1HI1wMLcVlXsPNyJ3xeN0xmfVx9rlVwNhlLxxDE7vzQD2HeyzEEWSucRv-2FEWwzR3g-2B3=
+jTZADtN03xme8pPnllakJCfjtE6gDNOpg-3D-3D]
+
+wiredcabin.com
+Sent to: ndalamabaloyi985@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82mRG3NBSoo2DAggGyA9LDWfl=
+Lz-2FXPGd2IZqXZKqYLPf0-3D95oz_nLWJQ2l-2FVgnDA7d0e4B8XA9dmciZR6zvfMrI8xq1Ts4=
+ar8KByOrgTzokeC1X49Wr9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZP9WZan4Bh9akEsTyWjGBPh=
+Ba1FJzfQga2SE4-2BD2GUZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN71DVJmBmPK8lNRHK9HZJZX=
+CjJGSzBmYbEx9IQs3qtsoq1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6ou0U1KJnF7WYkoUaQAv-2B=
+nvyba4SBkhjrAfnEfBbK2gsvsFoeYDLcqr43I537cu3QjWkqJH7MKEOb3taYPQU1pOIaGaRRrZH=
+vhxaJEyevO4Dj7b29N6kReVxmVkc-2FhTlajVEr1v8D3gFnslPgp02eYgNxuqqpDwmu2ilGPNYE=
+RVtZzH2X9zeIPp6iHxPraWK-2FdvMQ8bAQ0sx1gFdiUx8P5ShWo3a50fAudytIYNHV7E7nlC5yJ=
+UO-2B1Ii3YibuCrT-2FhLn3G-2BjxFjU8MVBuQI0xa1XeDlntdA2gZD1bh830on05VMTtLuWANO=
+waCS01ace9ulvfNIWkygeYQ60WHWLyB8MeCtHzW8gT1Rag-3D-3D] or cancel your
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82uwrPMt1-2BjpUVRuVddXnF5=
+LgOw77kCpk2DnkSskybHb4n7NZN-2F2XvMssnHfyHU3-2F5Nn2i_nLWJQ2l-2FVgnDA7d0e4B8X=
+A9dmciZR6zvfMrI8xq1Ts4ar8KByOrgTzokeC1X49Wr9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZ=
+P9WZan4Bh9akEsTyWjGBPhBa1FJzfQga2SE4-2BD2GUZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN=
+71DVJmBmPK8lNRHK9HZJZXCjJGSzBmYbEx9IQs3qtsoq1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6=
+ou0U1KJnF7WYkoUaQAv-2Bnvyba4SBkhjrAfnEfBbK2gsvsFoeYDLcqr43I537cu3QjWkqJH7MK=
+EOb3taYPQU1pOIaGaRRrZHvhxaJEyevO4Dj7b29N6kReVxmVkc-2FhTlajVEr1v8D3gFnslPgp0=
+2eYgNxuqqpDwmu2ilGPNYERVtZzH2X9zeIPp6iHxPraWK-2FdvMQ8bAQ0sx1gFdiUx8P5ShWo3a=
+50fAudytOR2ACMBQ-2BnAPlpnqUJ6l0ziOIqAH-2FgdZ-2BcaXzwJDjncUVYxepEjDmeu8W9o41=
+luvrPPgiJqFZoYT2aLSpXzP625Y9OTZJgoTFVnYJTB4f5wHhRKxZcv5-2Fx8fseU5RgwdQ-3D-3=
+D]
+--0c78f74ac57fd8bfa7dc2d7ad67b5c019996868008ff7f38fe7023a7badc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:22px;line-height:31px;text-align:left;color:black;""
+      >Hello Mean<br/><br/>Your card is ready to be shipped!<br/><br/>We ki=
+ndly ask you to confirm if this is the card that was requested. If it is no=
+t, please let us know.""</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#00b85d"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;height:40px;mso-=
+padding-alt:10px 25px;background:#00b85d;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsphscDthbG9Bwi1OnTK4NUZD=
+SycU3mwT-2BfNZIvEHiMnlneLJkg-2BtNsXIAd1NA7mSssJpgm7kUMfJ727y1WgtpJaT5BB1ifb=
+cQAm3WaiRQlhYB02eFkZbo8sZNCcnFD7FBXIfytMpvGjlYmTLCP-2BcZQrvEKSnYSi89QvKLMvB=
+CpTkL3Jcw2jaNAY0bJx6Iby1Kn0U-2BoKZKFwo4uRQxTdNd-2BQd99YouJ9DF5X48F3sK4wz0Lh=
+KFJpqJxhGXtnL-2FfEQPAtF-2BjOSGL1bQc-2FCwOo1bnSpB0k_nLWJQ2l-2FVgnDA7d0e4B8XA=
+9dmciZR6zvfMrI8xq1Ts4ar8KByOrgTzokeC1X49Wr9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZP=
+9WZan4Bh9akEsTyWjGBPhBa1FJzfQga2SE4-2BD2GUZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN7=
+1DVJmBmPK8lNRHK9HZJZXCjJGSzBmYbEx9IQs3qtsoq1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6o=
+u0U1KJnF7WYkoUaQAv-2Bnvyba4SBkhjrAfnEfBbK2gsvsFoeYDLcqr43I537cu3QjWkqJH7MKE=
+Ob3taYPQU1pOIaGaRRrZHvhxaJEyevO4Dj7b29N6kReVxmVkc-2FhTlajVEr1v8D3gFnslPgp02=
+eYgNxuqqpDwmu2ilGPNYERVtZzH2X9zeIPp6iHxPraWK-2FdvMQ8bAQ0sx1gF75vWRWY-2BGnUD=
+EgDW9ntKnAR0RyniwzVFUxb8otp-2BKJrcWaB-2BOvx8ly06QA4V6vu-2FQNL309IWR-2BIp3EP=
+gL4FpPzbGhUja3Dv2OsKZzjjLqSdI0LYS3ds0FNw5dhff70VMjPtHvzFs4feOw7nsMjEUag-3D-=
+3D"" style=3D""display:inline-block;background:#00b85d;color:#ffffff;font-fam=
+ily:Ubuntu, Helvetica, Arial, sans-serif;font-size:42px;font-weight:700;lin=
+e-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10p=
+x 25px;mso-padding-alt:0px;border-radius:3px;"" target=3D""_blank""
+              >
+                REQUEST CARD
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#bf0f0f"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#bf0f0f;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsphscDthbG9Bwi1OnTK4NUZD=
+SycU3mwT-2BfNZIvEHiMnlneLJkg-2BtNsXIAd1NA7mSssJpgm7kUMfJ727y1WgtpJaT5BB1ifb=
+cQAm3WaiRQlhYB02eFkZbo8sZNCcnFD7FBXIfytMpvGjlYmTLCP-2BcZQrvEKSnYSi89QvKLMvB=
+CpTkL3Jcw2jaNAY0bJx6Iby1Kn0U-2BoKZKFwo4uRQxTdNd-2BQd99YouJ9DF5X48F3sK4wz0Lh=
+KFJpqJxhGXtnL-2FfEQPAtF-2BjOSGL1bQc-2FCwOo1bnSy7zT_nLWJQ2l-2FVgnDA7d0e4B8XA=
+9dmciZR6zvfMrI8xq1Ts4ar8KByOrgTzokeC1X49Wr9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZP=
+9WZan4Bh9akEsTyWjGBPhBa1FJzfQga2SE4-2BD2GUZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN7=
+1DVJmBmPK8lNRHK9HZJZXCjJGSzBmYbEx9IQs3qtsoq1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6o=
+u0U1KJnF7WYkoUaQAv-2Bnvyba4SBkhjrAfnEfBbK2gsvsFoeYDLcqr43I537cu3QjWkqJH7MKE=
+Ob3taYPQU1pOIaGaRRrZHvhxaJEyevO4Dj7b29N6kReVxmVkc-2FhTlajVEr1v8D3gFnslPgp02=
+eYgNxuqqpDwmu2ilGPNYERVtZzH2X9zeIPp6iHxPraWK-2FdvMQ8bAQ0sx1gF75vWRWY-2BGnUD=
+EgDW9ntKnNldvvuQE42w4lrusq4bB922IWVhg-2BXtRabjIWRZaHhHcWB79-2BUl0cnehCc087t=
+4xdxV96EX1o0Fly6aqVhMOA0X1eSZLX09ZjKgjIKvkdko4BDp2RqcOQJQ-2BuPK8QIz-2BA-3D-=
+3D"" style=3D""display:inline-block;background:#bf0f0f;color:#ffffff;font-fam=
+ily:Ubuntu, Helvetica, Arial, sans-serif;font-size:34px;font-weight:700;lin=
+e-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10p=
+x 25px;mso-padding-alt:0px;border-radius:3px;"" target=3D""_blank""
+              >
+                FIND ANOTHER CARD
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: ndalamabaloyi985@gmail.com<br/>You can <=
+a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F=
+3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82mRG3NBSoo2DAgg=
+GyA9LDWflLz-2FXPGd2IZqXZKqYLPf0-3DZKVB_nLWJQ2l-2FVgnDA7d0e4B8XA9dmciZR6zvfM=
+rI8xq1Ts4ar8KByOrgTzokeC1X49Wr9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZP9WZan4Bh9akE=
+sTyWjGBPhBa1FJzfQga2SE4-2BD2GUZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN71DVJmBmPK8lN=
+RHK9HZJZXCjJGSzBmYbEx9IQs3qtsoq1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6ou0U1KJnF7WYk=
+oUaQAv-2Bnvyba4SBkhjrAfnEfBbK2gsvsFoeYDLcqr43I537cu3QjWkqJH7MKEOb3taYPQU1pO=
+IaGaRRrZHvhxaJEyevO4Dj7b29N6kReVxmVkc-2FhTlajVEr1v8D3gFnslPgp02eYgNxuqqpDwm=
+u2ilGPNYERVtZzH2X9zeIPp6iHxPraWK-2FdvMQ8bAQ0sx1gF75vWRWY-2BGnUDEgDW9ntKnB-2=
+B394SR1bByR5e-2F76tVPeJG0EaphoYeLJ587r8OXD9NfBkTgTRHago8IN0WgWJPk1Cnwp0m1CI=
+bVZpI1dIT52gwAaRPlJeVCXQ7ChD6SQI8xTTfxtzn-2FC5lnzlRjz-2FuDg-3D-3D"" __p=3D""u=
+ndefined"" style=3D""color:black;border:0 solid black;"">manage your subscript=
+ions</a> or <a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du=
+001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsphscDthbG9Bwi1OnTK4NUZDSycU=
+3mwT-2BfNZIvEHiMnlneLJkg-2BtNsXIAd1NA7mSssJpgm7kUMfJ727y1WgtpJa8Y8jKB8-2F-2=
+BRee5AeRsYvBlDaafORWyLBD3nVjUCobrcZL6ljPbvOuuyvrmG7JVIQygCKFEQvZPNxgnrloOJx=
+-2Bh7mep1yTEjyR3v6h8bLxNC-2FNH4QV3zwU5Iw5ZIY9bCKpc4H8E11K5IRqFftE1-2BTRCw-3=
+D-3DDfZK_nLWJQ2l-2FVgnDA7d0e4B8XA9dmciZR6zvfMrI8xq1Ts4ar8KByOrgTzokeC1X49Wr=
+9WlaCaKQAQUtr67Uaje2cmLj8ABb0cOZP9WZan4Bh9akEsTyWjGBPhBa1FJzfQga2SE4-2BD2GU=
+ZRCKfNL1FTaSdaBZk4nKEZ705KONdBfN71DVJmBmPK8lNRHK9HZJZXCjJGSzBmYbEx9IQs3qtso=
+q1LVOCRnoCHcKHlUmGhaJeNA49E1-2B6ou0U1KJnF7WYkoUaQAv-2Bnvyba4SBkhjrAfnEfBbK2=
+gsvsFoeYDLcqr43I537cu3QjWkqJH7MKEOb3taYPQU1pOIaGaRRrZHvhxaJEyevO4Dj7b29N6kR=
+eVxmVkc-2FhTlajVEr1v8D3gFnslPgp02eYgNxuqqpDwmu2ilGPNYERVtZzH2X9zeIPp6iHxPra=
+WK-2FdvMQ8bAQ0sx1gF75vWRWY-2BGnUDEgDW9ntKnIpz033XpP9RZxSfElc0iFaRGxmFiWmQzX=
+1ZvHnWvsic9MS1WQETrg3kT1UU-2BEku6JyZqC2CoG3cWhRIVu9tXNbe9yRm4OsSkayILLbXd8J=
+BPx8VQWqobOPdYpHKJ54jIA-3D-3D"" style=3D""color:black;border:0 solid black;"">=
+cancel your subscription</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3D2PEMMV9756&c=3D0V571MW5MD&s=3D109107452"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.c6OO-2Bt-2BJJ6na4pCZ=
+6xwP4L7eVs8AOUhxUUa2EiI6mQhJhxOTyujpDE3-2FyBFUTSQKHK1iJpoVEI72I9-2FntKB34Ty=
+opLZ6EZvBJzCltCzuHkMllUePEB8ld6WdneGM-2FtXlbrIBoDfcNKu-2FFqdkADNr6XlNY3Sxmn=
+-2Fk2u7ISR3yQdL8SDwW8E2FC1NsnJU7lZtHTdf1ylpVt5IFgKyTX1lra1gJx5jfHmUOzJc4-2B=
+nc0PQm5jDdQm9SQB4xour-2FMjkVrH18EvT-2BuyqFUw-2Bfuu0ubweTqKxN-2BtMYF2-2BShBb=
+GddsGP2Jd8t3mScxkRrd2Dvur-2BZdSkAu8NqSDg4Oj-2B5zhEMA6WGTptqhvmqmMTTH1miJj0C=
+-2FlYRxEQwExcvo9dpQbFa6Ni-2Bi6uE-2BTUrn2jaG7FdUcG0PJskbLlbMapDiGgIW90ongsje=
+12SBHIcnXmIr0cAS2vwBqlJ9j2UySJbsgveNTkhO8uWp8FdneMcDCKfZ5X-2BQztEwvYxhNLcSa=
+5ybBNul1keDvrHDIPAgVNRyDfLmuKTTIHXz-2BE-2FopAbWtq-2BpUQYCmYnOcRfEduwd-2BS0j=
+XyRLHfRXLKC50oYduw2UEb3z3Be0E6wRzvwTaawiko9oM-3D"" alt=3D"""" width=3D""1"" heig=
+ht=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;b=
+order-width:0 !important;margin-top:0 !important;margin-bottom:0 !important=
+;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importan=
+t;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !im=
+portant;""/></body>
+</html>
+ =20=
+
+--0c78f74ac57fd8bfa7dc2d7ad67b5c019996868008ff7f38fe7023a7badc--
+","""Awaiting"" <widredcabin@za2.blogtechnews.com>",ndalamabaloyi985@gmail.com,2025-02-21,3.226.58.111,United States,en,users/46280040/3893868f-0249-418a-b243-94d4e3477763.json
+46280040,PRBeKsyTS260ltQFV_ON7Q.recvd-668fcdfd56-fpmh5-1-67BB5AEC-13.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLVBSQmVLc3lUUzI2MGx0UUZWX09ON1EtMA,Confirm your order,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=XWW4RQz4fSyPtE4x3ko6hAPOD5GTrtFWEuAq+Qpo1Qo=;
+	b=MVxu+gmk+s8QuyUHZxsCWBHSCGMsKJzuHr6Ss1LaZQ+ZWFgVAtSrJp9ibhM8tGklxDdJ
+	zHPjLs/uy27uOaw1gvidOTWF3wOLRkpfW4XFtv7NcrkdsCbQEn5vZ+bMGJUAYbb9Sq4Y7e
+	UVnlNBD9l4VtsuCS/d/HQ7tM4k+2TsWttihGJkj5XKLHKd+0opeQ50mZ8Ruq+0ArOJ1mV4
+	x1l0WfmKrxa3w0IdkcXwLrBOqFr1dn8bLuU0Ouq+p0NgQ0jIBBCMK7a4OcB93LwlRBipKs
+	jKJhQJYPkFhSYxreFQiKkISeXApX/kJaNKC9oawUzetS3dGWfILQ8EfEN4MdaAvA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=XWW4RQz4fSyPtE4x3ko6hAPOD5GTrtFWEuAq+Qpo1Qo=;
+	b=qbja/e47iAZBDsCAlUmuvGXOkAhgQTgIqBO5nrw93HcXfPltA2XHXiOJM3DbGmvUJ0JV
+	5o8ExNDx5uss/4uXy38+Ch7hbcFy/SppDE2h3OCE5d8yfIoaYr0lCSBQ/1rnLKYfeRsQAm
+	58YSrFZUp2Q57rAyPO/+wgZJTQhH7Yig0=
+Received: by recvd-668fcdfd56-fpmh5 with SMTP id recvd-668fcdfd56-fpmh5-1-67BB5AEC-13
+	2025-02-23 17:29:16.194973931 +0000 UTC m=+8712275.970956117
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id PRBeKsyTS260ltQFV_ON7Q
+	Sun, 23 Feb 2025 17:29:16.126 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=c4d0302b1ca2ab1726cc7140e994f65c7556c09865c7c5ec17f0bc712b96
+Date: Sun, 23 Feb 2025 17:29:16 +0000 (UTC)
+From: Awaiting <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <5384e246-e69c-0dce-b5d7-3ee6e0fa14d9@za2.blogtechnews.com>
+Subject: Confirm your order
+X-Campaign-Id: 0V571MW5MD
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DOYLQ8M7EP9&c=3D?=
+ =?us-ascii?Q?0V571MW5MD&s=3D111394709=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EGCDlKXnvmzzzmgFE6qf9x0Lrrz47XyBCAxO=2FnRZCORNb91znTEzm8WmPo?=
+ =?us-ascii?Q?jZlhs3+WRaWEWClQhh05R6b0XmxD6h7f5AEPybv?=
+ =?us-ascii?Q?47J=2FQItxuhPgL0YeH6EczVqb3hiXuUGiRD4USvt?=
+ =?us-ascii?Q?=2F5GRSMJ6FEVm3A9M4IH9EOGeqMbOUl7ygfYK0ti?=
+ =?us-ascii?Q?ISQzFsw2etrJ1Kmg2xL2JFs1ZYJRjie7=2Ffwp=2FjM?=
+ =?us-ascii?Q?SiQSJRUCFJ=2Fb5FG9gEnwfeuyzFWc0g0zbuBt4RX?=
+ =?us-ascii?Q?tSgHPJYZNyxtdjyH9UuT6MvP8g=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRKYhpLBxXpZ5XaM7=2FEWNF=2Fe4fQ6Tp3LIY?=
+ =?us-ascii?Q?v+IWcWvOy9vr6CGNcRu0o+DYbNrDtwKTE=2FbYDKt?=
+ =?us-ascii?Q?Ypb3XJ4uTdipmlVaGR8CVccfX2XnL=2FX46gJK9MX?=
+ =?us-ascii?Q?3DUqbFreEkllJdQsikloVLtfIlGiZKq+liIEthc?=
+ =?us-ascii?Q?WMpklBk5o2yRHfo5SP77opDvw+3S1I2=2FUFTbaCD?=
+ =?us-ascii?Q?XLiXl5j=2F4OAWvjBYCkJAAuhZeElW5lsZYajc6zj?=
+ =?us-ascii?Q?6ud1EcfDN3FPl5oJJ1yqmrf4W7rLk9jCS3jfaaH?=
+ =?us-ascii?Q?uxhUWwFIrO9JRLQGbBkZYx1pl=2FcXqLhPYuboB6I?=
+ =?us-ascii?Q?3q9Ml4W3J4KFelgByWegipo0FNGoqiJBvCpWPMa?=
+ =?us-ascii?Q?NCqV4W1Tn9GVVGC9uG4=3D?=
+To: motaungrethabile15@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--c4d0302b1ca2ab1726cc7140e994f65c7556c09865c7c5ec17f0bc712b96
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hello RETHABILE
+
+Your card is ready to be shipped!
+
+We kindly ask you to confirm if this is the card that was requested. If it =
+is
+not, please let us know.""
+
+REQUEST CARD
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx23qpukukDTI4XZSGzDw8kWe0Be1l3QYIq9NnwTgnurI8t=
+4WYtnRdS4bPzbHKPS6kJusL8jhGcUYS3FgOU397Jcay-2FRcw7TQj3n8jFCxpOrmT5HC5reIScT=
+GMXvNuGiHwY-3D43Vg_0MC-2FGk3Y8dcwLEIwkQZlJyib17EOSo1FP62Ak0e2HxTzw-2B1gKFCZ=
+XSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtuyrfSaoUg10Lu9lQwicEg6CtSGXhlshpWiy=
+9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4tYkr2ir2EDcjGy5oBMKogFi7wKl62WP-2F=
+ARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTwGzmREl-2FvGwJe-2F-2B6B02Z5AP-2BnWO=
+dJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp-2FX1AG3KpTBjakuI2SQO3AsQ4L58vZG1S=
+fa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTUydEQEBeWrAqoAfMSjVl6nLaG6Rmw5vasg5=
+pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbWqKd-2FHR-2FYErA8nM-2Bo7vViQJHg3k3u=
+M2QwrID8TIFqrt6rg4b-2B4f7m1IoUxQ0L939roLb61IFapPs2Liq9WE-2BhvcOQfyTaevcz42b=
+6hLsgeBNqvAWFJwC0UuL70eA4IcF2uYV234rh5gEHBcinKLeiMXjMlL4qPYTQ-3D-3D]
+
+FIND ANOTHER CARD
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx23qpukukDTI4XZSGzDw8kWe0Be1l3QYIq9NnwTgnurI8t=
+4WYtnRdS4bPzbHKPS6kJusL8jhGcUYS3FgOU397Jcay-2FRcw7TQj3n8jFCxpOrmT5HC5reIScT=
+GMXvNuGiHwY-3DuAQ__0MC-2FGk3Y8dcwLEIwkQZlJyib17EOSo1FP62Ak0e2HxTzw-2B1gKFCZ=
+XSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtuyrfSaoUg10Lu9lQwicEg6CtSGXhlshpWiy=
+9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4tYkr2ir2EDcjGy5oBMKogFi7wKl62WP-2F=
+ARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTwGzmREl-2FvGwJe-2F-2B6B02Z5AP-2BnWO=
+dJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp-2FX1AG3KpTBjakuI2SQO3AsQ4L58vZG1S=
+fa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTUydEQEBeWrAqoAfMSjVl6nLaG6Rmw5vasg5=
+pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbWqKd-2FHR-2FYErA8nM-2Bo7vViQJHg3k3u=
+M2Q3ICKL3EjkfRBC11NKxzqec3neCP-2FTWT0yvLxk7yXBDDdYz7OTiGOxWu1ZQlgoirHWP-2BI=
+SUtPwkrunrouTFN9jrBTrjBMtbn42A01l1LVUkYe9a6ifo3xJ5POGG0JUUPJA-3D-3D]
+
+wiredcabin.com
+Sent to: motaungrethabile15@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU829YIbKuBdHB37O3g6dbhyfob=
+9wJ-2FF0a4gJYQdDeztGBE-3D4Itt_0MC-2FGk3Y8dcwLEIwkQZlJyib17EOSo1FP62Ak0e2HxT=
+zw-2B1gKFCZXSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtuyrfSaoUg10Lu9lQwicEg6Ct=
+SGXhlshpWiy9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4tYkr2ir2EDcjGy5oBMKogFi=
+7wKl62WP-2FARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTwGzmREl-2FvGwJe-2F-2B6B0=
+2Z5AP-2BnWOdJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp-2FX1AG3KpTBjakuI2SQO3A=
+sQ4L58vZG1Sfa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTUydEQEBeWrAqoAfMSjVl6nLa=
+G6Rmw5vasg5pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbWqKd-2FHR-2FYErA8nM-2Bo7=
+vViQJHg3k3uM2Q9bb9TbL94cgbySK3-2FXr7mjst1L2uOVDNH9UK2B-2B76mxDCpWvjsPgZh6kM=
+eYUdZs-2FPYMo-2Fc7qJlyHlg5BVkGtQNHy-2F4lQpAUthdgrdzM8QlTsr9QwPEeWaLMI4e3-2F=
+TothQ-3D-3D] or cancel your
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82tlKcsoogHVLHZm-2FSjObzl=
+ncr6uJs3O9phrEoONa1MVMnJh4s7-2FJ2l3rg1LRAScBLpZba_0MC-2FGk3Y8dcwLEIwkQZlJyi=
+b17EOSo1FP62Ak0e2HxTzw-2B1gKFCZXSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtuyrf=
+SaoUg10Lu9lQwicEg6CtSGXhlshpWiy9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4tYk=
+r2ir2EDcjGy5oBMKogFi7wKl62WP-2FARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTwGzm=
+REl-2FvGwJe-2F-2B6B02Z5AP-2BnWOdJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp-2F=
+X1AG3KpTBjakuI2SQO3AsQ4L58vZG1Sfa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTUydE=
+QEBeWrAqoAfMSjVl6nLaG6Rmw5vasg5pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbWqKd=
+-2FHR-2FYErA8nM-2Bo7vViQJHg3k3uM2Q07-2FByrS7kQ4-2BVqj-2BrpBR9Eh3x5rmjIekPjR=
+sHQwJ9lObC32kUqwstT1J8QZbHQ-2B7o7bIDD15rluvJc530jB5ufAd-2FPy8Ng2M14DVNR2Har=
+Ua4Ak-2F0BzrS3Gopfxho0aAA-3D-3D]
+--c4d0302b1ca2ab1726cc7140e994f65c7556c09865c7c5ec17f0bc712b96
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:22px;line-height:31px;text-align:left;color:black;""
+      >Hello RETHABILE<br/><br/>Your card is ready to be shipped!<br/><br/>=
+We kindly ask you to confirm if this is the card that was requested. If it =
+is not, please let us know.""</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#00b85d"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;height:40px;mso-=
+padding-alt:10px 25px;background:#00b85d;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsoCoCald3T8S-2BwKmjw-2Bv=
+dQtaXKkKlN7wJi1aiet1qWU70pXBJXktOm4kizfppxfD-2FnDjBcxuqQUR7v6nfG8ZI3Jt14muR=
+4OKwMqKnRKinZCdQx39U-2BXnqTDFFg-2FTuqYKdZZWY4-2B8DxL2YijSmp5ABjyANeU3zPdDTU=
+tmgXw-2BIqCYJZuX7PxPA1dnUnV53fzb-2BFNQueH4aI2RaychXN-2Fi5GdkfFvjEv5LzCSd9pW=
+WFfUz2umCmE31eqsUXtzwuMdU4fXXJdtCIaVDoTOL8wrYusXUpGT_0MC-2FGk3Y8dcwLEIwkQZl=
+Jyib17EOSo1FP62Ak0e2HxTzw-2B1gKFCZXSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtu=
+yrfSaoUg10Lu9lQwicEg6CtSGXhlshpWiy9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4=
+tYkr2ir2EDcjGy5oBMKogFi7wKl62WP-2FARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTw=
+GzmREl-2FvGwJe-2F-2B6B02Z5AP-2BnWOdJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp=
+-2FX1AG3KpTBjakuI2SQO3AsQ4L58vZG1Sfa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTU=
+ydEQEBeWrAqoAfMSjVl6nLaG6Rmw5vasg5pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbW=
+qKd-2FHR-2FYErA8nM-2Bo7vViQJHg3k3uM2Q-2BM8zIY0squzO5Rc6eCvWF57-2FdfrERRUMh7=
+1d8x4deQJ1Y9lOlsf-2FKHxWGrmlT-2F1wIIIpqy-2FBcNq-2B5ZyTh-2BpFscNXqhdcUGIBjcM=
+Tjir-2FJVTnb6-2FFxTZ5Fxql25bc64wGQ-3D-3D"" style=3D""display:inline-block;bac=
+kground:#00b85d;color:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-se=
+rif;font-size:42px;font-weight:700;line-height:120%;margin:0;text-decoratio=
+n:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-rad=
+ius:3px;"" target=3D""_blank""
+              >
+                REQUEST CARD
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#bf0f0f"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#bf0f0f;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsoCoCald3T8S-2BwKmjw-2Bv=
+dQtaXKkKlN7wJi1aiet1qWU70pXBJXktOm4kizfppxfD-2FnDjBcxuqQUR7v6nfG8ZI3Jt14muR=
+4OKwMqKnRKinZCdQx39U-2BXnqTDFFg-2FTuqYKdZZWY4-2B8DxL2YijSmp5ABjyANeU3zPdDTU=
+tmgXw-2BIqCYJZuX7PxPA1dnUnV53fzb-2BFNQueH4aI2RaychXN-2Fi5GdkfFvjEv5LzCSd9pW=
+WFfUz2umCmE31eqsUXtzwuMdU4fXXJdtCIaVDoTOL8wrYusX_WtT_0MC-2FGk3Y8dcwLEIwkQZl=
+Jyib17EOSo1FP62Ak0e2HxTzw-2B1gKFCZXSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtu=
+yrfSaoUg10Lu9lQwicEg6CtSGXhlshpWiy9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4=
+tYkr2ir2EDcjGy5oBMKogFi7wKl62WP-2FARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTw=
+GzmREl-2FvGwJe-2F-2B6B02Z5AP-2BnWOdJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp=
+-2FX1AG3KpTBjakuI2SQO3AsQ4L58vZG1Sfa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTU=
+ydEQEBeWrAqoAfMSjVl6nLaG6Rmw5vasg5pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbW=
+qKd-2FHR-2FYErA8nM-2Bo7vViQJHg3k3uM2Qza4mz9SOpeiJEnJ1KNVIenHB4IYJR5r15mmtZN=
+n5GMB5LY2LxZLLLgrdzf92yM99WeYM6dYQq58oK29h4GlnQV3qUXkDE2LksvEv5euVn5JRltYC4=
+4FPnIuxk5WEAFq7w-3D-3D"" style=3D""display:inline-block;background:#bf0f0f;co=
+lor:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:34px=
+;font-weight:700;line-height:120%;margin:0;text-decoration:none;text-transf=
+orm:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;"" target=
+=3D""_blank""
+              >
+                FIND ANOTHER CARD
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: motaungrethabile15@gmail.com<br/>You can=
+ <a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr=
+8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU829YIbKuBdHB37=
+O3g6dbhyfob9wJ-2FF0a4gJYQdDeztGBE-3D8GWJ_0MC-2FGk3Y8dcwLEIwkQZlJyib17EOSo1F=
+P62Ak0e2HxTzw-2B1gKFCZXSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtuyrfSaoUg10Lu=
+9lQwicEg6CtSGXhlshpWiy9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4tYkr2ir2EDcj=
+Gy5oBMKogFi7wKl62WP-2FARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTwGzmREl-2FvGw=
+Je-2F-2B6B02Z5AP-2BnWOdJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp-2FX1AG3KpTB=
+jakuI2SQO3AsQ4L58vZG1Sfa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTUydEQEBeWrAqo=
+AfMSjVl6nLaG6Rmw5vasg5pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbWqKd-2FHR-2FY=
+ErA8nM-2Bo7vViQJHg3k3uM2Q-2FHN70mz8u4DfxQxKv49Tsr1IJRcW2NMqVxMJRnZbqEBjId8x=
+Ik93BxNSJCU0WJFO6sqGlMVUox4AIhIyNteYE7OdlpQcP5QibOFzq003ZIpoa-2FNWPVrOegrQa=
+nLJRIN-2Bg-3D-3D"" __p=3D""undefined"" style=3D""color:black;border:0 solid bla=
+ck;"">manage your subscriptions</a> or <a href=3D""http://url5332.za2.blogtec=
+hnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznso=
+CoCald3T8S-2BwKmjw-2BvdQtaXKkKlN7wJi1aiet1qWU70pXBJXktOm4kizfppxfD-2FnDjBcx=
+uqQUR7v6nfG8ZI3Jy7up6XYfOA-2BxkM6-2F-2BvZu6bdO81U0tMrq5d5SGYj-2FvDvSDBH6iS-=
+2B9zri-2FCZTyKsK8Y6q1Y2l82YQLLOYaipScBPwp0Y1r31PhvZ6tsITc4wsa3USS4DU8Nh-2BQ=
+2bERFcLmxrm5OIjonWPGbDNqN-2B-2BhcQ-3D-3DhI69_0MC-2FGk3Y8dcwLEIwkQZlJyib17EO=
+So1FP62Ak0e2HxTzw-2B1gKFCZXSM-2BAi36nEwetSrPlADoXoy0-2FA0E-2FrvdVtuyrfSaoUg=
+10Lu9lQwicEg6CtSGXhlshpWiy9QXtgeWfR6XU1-2BDaP5thOi-2Fa5K8UDIvLQU7I4tYkr2ir2=
+EDcjGy5oBMKogFi7wKl62WP-2FARQ1UcsJ-2BBVxGwIvWtkXJTWdyQN6OW30ZNusWTwGzmREl-2=
+FvGwJe-2F-2B6B02Z5AP-2BnWOdJj20HclNzOBn56lqdLQxH7J3pePBYshfRG9-2BEp-2FX1AG3=
+KpTBjakuI2SQO3AsQ4L58vZG1Sfa78v5FTM5-2FezKhRcaioC4I-2FJnsEH8B4GiuTUydEQEBeW=
+rAqoAfMSjVl6nLaG6Rmw5vasg5pBe2uhQgsbvodNuvJPFW7Ee4iqAg6RrFfvSX23XbWqKd-2FHR=
+-2FYErA8nM-2Bo7vViQJHg3k3uM2Q0K94BHR15Vq0YidbxA7ts-2Bluah-2Bcva19MgpowLZHD8=
+rSRgDnAzsE8VOYRp-2Febkxxv5wXJIrJA44dIb0aQfMNzRDp2ZpGgIMEuOTp9oZOtD57srpHiPA=
+njyOEbSGpJaRIw-3D-3D"" style=3D""color:black;border:0 solid black;"">cancel yo=
+ur subscription</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DOYLQ8M7EP9&c=3D0V571MW5MD&s=3D111394709"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.MVJdQMb2cLBVC1OvyHTr=
+cfvJ9ML79jUpW7J5AtYciXkSVntR-2Br8WpbPCJgJVVP-2BSsbe8YdDqZLuWAndSPicoIbaG-2F=
+N4e2w3qL4tNODT4wWvdvJyy47bWPMteenVCgEl1SbSWLsJDLDoCBml1SUI4lSRNngAQg1BfYgCi=
+M8W8hs5yeMJdBTng6u1cJxqz3dTuSW-2FQWe8BZ3UAQqtCSoQG2gSLlln-2Fv-2Bf1-2FyfiWw9=
+Qt3-2FJrdZYsVJDE-2FOSawcdzFxkg26Y6LBarOOzRqDixhM54YIPnfN3tzCnwIq47W6yWud4Tf=
+y1K6A-2B6XFfa7tvOH09Uvt0vzKCc7kuJkYnRHbNpF59SRnQZKKC4RThzj4SY-2FemMHZtrcpVA=
+i-2F2b4muxgclfgZsitdCXfgnRtpUVCGaFEQDde0FeuNFU3tFU48GYgVn9F-2BKYVrwoU5S7Yrj=
+lp1KgcQo6PckiwM6a0O2e5aJ1k6a29g-2BEC0YlgNSAqUmqyssioM7fFoB2vncDTcG-2FcAgASZ=
+PlwjA5tnVIeC1lEM8S-2BHU9bHU6QQBznQrNsyty3uKUyPQ9Ourl4c1cjtgpk8PZVb6bEfoYLKG=
+9PducDKOtXGU-2B9FtdqnZ-2FPOuuMm1XaQ-3D"" alt=3D"""" width=3D""1"" height=3D""1"" b=
+order=3D""0"" style=3D""height:1px !important;width:1px !important;border-widt=
+h:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-ri=
+ght:0 !important;margin-left:0 !important;padding-top:0 !important;padding-=
+bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/=
+></body>
+</html>
+ =20=
+
+--c4d0302b1ca2ab1726cc7140e994f65c7556c09865c7c5ec17f0bc712b96--
+","""Awaiting"" <widredcabin@za2.blogtechnews.com>",motaungrethabile15@gmail.com,2025-02-23,3.226.58.111,United States,en,users/46280040/147cfa18-f12f-44fb-8e48-672024a37e1e.json
+46280040,Qe_vwpo3RCmKW9g-PP_uQA.recvd-578d769b87-kw9vv-1-67B99702-4.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLVFlX3Z3cG8zUkNtS1c5Zy1QUF91UUEtMA,Deadline for delivery,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=KDq01hI55J/d7ZxLJkHZEmDMTkc13BNR2sfT5Fszk88=;
+	b=MXwGpfAEhIrYcwXKV+WavaOwkk6JCOnWJ81oOH/vaqEWL3sFosYBARFOvZQ/E2RvxiTp
+	FLx7JMhNwCeTp4fWGWTkTffM3sc+MQEJMgc8782x24kNDImPQxYXOhGuCUt5NY81QtpfLA
+	yHtI3eh/Y7UzXS7XTgbEbL+1wYo0d9L5GO4yBOcxQEV8XWbaFtMRhJE1UwxGWKJ+O6PxX9
+	tyFbnktW7a/1j1VD0F2ntFn/ffgq/yoD1pI3H8sKcClygTxz0uSAouAZxAoRVFNxY7okG4
+	+7QH3LwiYgp7mBlelNNIV9ObGf18k28393ADXLv7Wwifz1d38Vy3GA0zAQHaMaiA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=KDq01hI55J/d7ZxLJkHZEmDMTkc13BNR2sfT5Fszk88=;
+	b=DSYAZ52VxRI9SZUMyqdU86Ac9IZPRLDZ89kzMBF0F1BcO5rBxP3yDO36kqOCQNIW4nAs
+	PbUjY+PuYSApxnxiSMaFQVxn/mE2xjdmzeBGiivqrnVNJVUvbjDZ98anU/Sx745mubZCGJ
+	ZPSS2EE6rTVpavFIff5U5PuVICqoQoniU=
+Received: by recvd-578d769b87-kw9vv with SMTP id recvd-578d769b87-kw9vv-1-67B99702-4
+	2025-02-22 09:21:06.403661217 +0000 UTC m=+8596726.981560495
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-31 (SG) with HTTP
+	id Qe_vwpo3RCmKW9g-PP_uQA
+	Sat, 22 Feb 2025 09:21:06.357 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=d3033cd81ef29f6fb65badcd53a89e2dde7277c7cf2e2406f0723f7233a1
+Date: Sat, 22 Feb 2025 09:21:06 +0000 (UTC)
+From: Check <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <e1b69bd2-fd66-cdce-4b60-ead1e60ddd04@za2.blogtechnews.com>
+Subject: Deadline for delivery
+X-Campaign-Id: 7ZP8NZVY8R
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DEYQMKQ04P3&c=3D?=
+ =?us-ascii?Q?7ZP8NZVY8R&s=3D109445596=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EMIPdjsyD+=2F6XFqSVJAT=2FPkQfgeqbp8VK3nELySo6KJAEa6LQlnZmwLRBg?=
+ =?us-ascii?Q?+k+vT=2FWoGeKtEBZfF+Q+6DJQuoYiq5A8=2F+pdHLV?=
+ =?us-ascii?Q?07Y+3k0hQqdC3tCbEnV9zIEo2=2FP9JId4pzyN4aW?=
+ =?us-ascii?Q?YBpGC+=2F=2FzxuKhpVQrqC5pjAA2ZOx+AIJv5MoYm1?=
+ =?us-ascii?Q?MKKoQ26iEk=2FjJl8n7N8AjBpxNJVE8JkIXI7u2b6?=
+ =?us-ascii?Q?YSD3onyf22KX9tm1cN91JCnTPSmtTtkZ0=2FHH3kB?=
+ =?us-ascii?Q?DU=2FJ?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRsjyAUhlhOt=2Fsws2fqAKC6h3eFK3RO8uo?=
+ =?us-ascii?Q?l6exGEdC8s6nJUlBsSmj1kRPSC2P2T3oqjSylYC?=
+ =?us-ascii?Q?dw2uyNC2PCA3=2FjVryZrl6lrQn2elGdt8viZ7SKP?=
+ =?us-ascii?Q?oWyWXgol363S4NoAxLzLZRBsbwCngAq13NX9qcH?=
+ =?us-ascii?Q?UdIaQTA13=2F6VEHJk2h6Me0XxDQHxk1n3hjrTnKk?=
+ =?us-ascii?Q?MFshUkTYD8ryr2ZKk4aZaBy6UAJdiy+Vz4eSMx0?=
+ =?us-ascii?Q?k0ZMOEf7j+ZC0=2FN45YPADXVJ0bht2csBjP66Bf7?=
+ =?us-ascii?Q?kXbJRgkPToEdVUG1i9KtFT5h086pxiYQ1EtjjCI?=
+ =?us-ascii?Q?xxFmRrz+HPLSbFDGMMWpm+GHSUDdEEOXk93FGbT?=
+ =?us-ascii?Q?w0UHM74yLObpDOWkN3Q=3D?=
+To: mbalanenandipha777@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--d3033cd81ef29f6fb65badcd53a89e2dde7277c7cf2e2406f0723f7233a1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+Hello Philani
+
+We are reaching out once again to correctly send your requested order. Plea=
+se
+confirm if your details are correct on the tax invoice
+
+Check if this is your correct email:=A0mbalanenandipha777@gmail.com
+
+TAX INVOICE
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx23qpukukDTI4XZSGzDw8kWe0Be1l3QYIq9NnwTgnurI8t=
+4WYtnRdS4bPzbHKPS6kJusL8jhGcUYS3FgOU397Jcay-2FRcw7TQj3n8jFCxpOrmTJ2oZ8t-2FH=
+3ZTxlanRXvqOM-3DNNYm_ZR3EqZKJZkcdwOssHReKtw-2FpCpc59svzFvYObDNdmgnb3qZKTLZ4=
+ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKKaHLZ-2Fh6GxdnHhjiWSAbWG1F4NJhT=
+2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djxRD-2F3rY8C4Uam3tz-2F6yShw5tWnK=
+PfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1ylrDk9sQqNPkhB01SsXcJJGueamxsivE=
+YgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B58tE76lmI1G500l1tlktteyUEiAiE8=
+0bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2BEqoxYHr348jT7j7-2Fuh64BYJqNk6=
+D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP6fkTV5ki-2BnkeGRoTarzHMcHkX3jC=
+V2hXJoz712ioF2PXjns5hz1QL0sIU0-2BURsi-2BJqCidg2RAOH2PbSIe8UHHfVaegG1ux7Pj5F=
+9rYO-2Bngb0dflmm7dZ7-2BzeKMkK4H2ZorCdrqhyMY6SAExIjJksX-2FVUusna1Q-3D-3D]
+
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtkxlSnG9dFH-2BA4lVq5tSrdE4tEHHi6Ig-2BudS8fL3wMjf-2FOZvvCjr6Afn2O-2Bm411=
+FtUz5C6pRtQuRPLaLwQVuGAo-3DRJNC_ZR3EqZKJZkcdwOssHReKtw-2FpCpc59svzFvYObDNdm=
+gnb3qZKTLZ4ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKKaHLZ-2Fh6GxdnHhjiWS=
+AbWG1F4NJhT2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djxRD-2F3rY8C4Uam3tz-2=
+F6yShw5tWnKPfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1ylrDk9sQqNPkhB01SsXcJ=
+JGueamxsivEYgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B58tE76lmI1G500l1tlk=
+tteyUEiAiE80bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2BEqoxYHr348jT7j7-2F=
+uh64BYJqNk6D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP6fkTV5ki-2BnkeGRoTa=
+rzHMcHkX3jCV52hyC2hX-2Bj87qgXLXEnQWcp6BH0Ae12QEffaIBAE96qeo4sPzc2IQMCI6NiwA=
+vRML2oeFrpJIEowg29AkH7kUj-2Boauuds03qHR1u4VNpLpn0pBVOKEBxYDn5GZfmwZauA-3D-3=
+D]
+http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJ=
+juGthUXyq3-2BxZK3kLyIGeMl-2Bx23qpukukDTI4XZSGzDw8kWe0Be1l3QYIq9NnwTgnurI8t4=
+WYtnRdS4bPzbHKPS6kJusL8jhGcUYS3FgOU397Jcay-2FRcw7TQj3n8jFCxpOrmTJ2oZ8t-2FH3=
+ZTxlanRXvqOM-3Dp0DI_ZR3EqZKJZkcdwOssHReKtw-2FpCpc59svzFvYObDNdmgnb3qZKTLZ4I=
+TbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKKaHLZ-2Fh6GxdnHhjiWSAbWG1F4NJhT2=
+UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djxRD-2F3rY8C4Uam3tz-2F6yShw5tWnKP=
+fnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1ylrDk9sQqNPkhB01SsXcJJGueamxsivEY=
+gmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B58tE76lmI1G500l1tlktteyUEiAiE80=
+bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2BEqoxYHr348jT7j7-2Fuh64BYJqNk6D=
+1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP6fkTV5ki-2BnkeGRoTarzHMcHkX3jCV=
+6q-2FMlPNWDN6pgo-2Fhi1QdS24AOQj6voistCi088q-2FZlf6SdbvcK-2FX8mKJ9-2F0u-2F5m=
+fF70dxPTfE-2BCNUy37F3LYecvcECnmqRee6fj8yN7BaorKgo9ZgptFGL9u4Ag3ncM5Q-3D-3D
+
+wiredcabin.com
+Sent to: mbalanenandipha777@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82ek-2B5pqr3xEUcG89z-2BuB=
+B-2BiOyNL-2BIKE7smicD-2FrEI-2FWI-3DAjbF_ZR3EqZKJZkcdwOssHReKtw-2FpCpc59svzF=
+vYObDNdmgnb3qZKTLZ4ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKKaHLZ-2Fh6Gx=
+dnHhjiWSAbWG1F4NJhT2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djxRD-2F3rY8C4=
+Uam3tz-2F6yShw5tWnKPfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1ylrDk9sQqNPkh=
+B01SsXcJJGueamxsivEYgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B58tE76lmI1G=
+500l1tlktteyUEiAiE80bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2BEqoxYHr348=
+jT7j7-2Fuh64BYJqNk6D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP6fkTV5ki-2B=
+nkeGRoTarzHMcHkX3jCV-2FKFDI9QS5pz4YFYYVRX55oaDCNMKouqrUVjd7jPo8Ot-2F-2BVDh7=
+RDsEt9UlsiSd3O-2FnZGZeddv-2F-2B7jsV-2BWem7LSs-2Fgj0AaOUFwasjVF7ROQ-2B3GCcd-=
+2FKZxSRfnqKjSvVF4UA-3D-3D] or cancel your
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82YV0JeisCIDpDvDG9lU3SK6N=
+8wIh4WDoOTdlBk3LbMeSM-2FsmL693B2wNarXMy9Gu2OtgG_ZR3EqZKJZkcdwOssHReKtw-2FpC=
+pc59svzFvYObDNdmgnb3qZKTLZ4ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKKaHL=
+Z-2Fh6GxdnHhjiWSAbWG1F4NJhT2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djxRD-=
+2F3rY8C4Uam3tz-2F6yShw5tWnKPfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1ylrDk=
+9sQqNPkhB01SsXcJJGueamxsivEYgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B58t=
+E76lmI1G500l1tlktteyUEiAiE80bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2BEq=
+oxYHr348jT7j7-2Fuh64BYJqNk6D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP6fk=
+TV5ki-2BnkeGRoTarzHMcHkX3jCV2k0PY2kFWklgmaEKmkms6tO6P4ku6bilUDzjD0Fm1nVxhrh=
+tM7rROCndXHMbU9sqOBopuiZJWSPd6XGQ-2BZgDZn65Fhzcb7ecFST-2FRuhi94HWMYnTBgA8OP=
+eYXKklsDtzA-3D-3D]
+--d3033cd81ef29f6fb65badcd53a89e2dde7277c7cf2e2406f0723f7233a1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:22px;line-height:28px;text-align:left;color:black;""
+      >Hello Philani<br/><br/>We are reaching out once again to correctly s=
+end your requested order. Please confirm if your details are correct on the=
+ tax invoice<br/><br/>Check if this is your correct email:=A0mbalanenandiph=
+a777@gmail.com</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#0fbf17"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#0fbf17;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznso-2BU-2BnEax64CX94M9sh5=
+OygTMQ1bjP9TPfvB1OYICS9k9revkSoSSS68fpa3Butp78KZpeWPrPueYZPkHRxmwQzkbr7y4KB=
+BRSKCm6df4lgdzl-2BI-2B7dAMy7z4iG06qJ6qX4-2Fyb9PL6UUOdTINrwCSqNi3kqci5M7FQUW=
+N4MxJkyXzb0ctSIY12poc4gIGWHrrDlmG7i7YHjCm3wc4LXRf0frO-2FzQDWi8nvo6c3mgWtAor=
+2VIW-2FJXlUaijd77tPaW7uIJFFHfQ8YCBRWhlg4biT-2FUxAb_ZR3EqZKJZkcdwOssHReKtw-2=
+FpCpc59svzFvYObDNdmgnb3qZKTLZ4ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKK=
+aHLZ-2Fh6GxdnHhjiWSAbWG1F4NJhT2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djx=
+RD-2F3rY8C4Uam3tz-2F6yShw5tWnKPfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1yl=
+rDk9sQqNPkhB01SsXcJJGueamxsivEYgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B=
+58tE76lmI1G500l1tlktteyUEiAiE80bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2=
+BEqoxYHr348jT7j7-2Fuh64BYJqNk6D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP=
+6fkTV5ki-2BnkeGRoTarzHMcHkX3jCV6ZFaeWbqCHg9RMZOEyN9TYlq9Uzr1SVVA8dNXxPLk01K=
+sKJsEdodz13Z6Uu-2BVnLu-2BFGRFKOgZwuyr0PEpt9zxppmwIlPfj7tBmmBgAsaqjQkG-2BmeN=
+WKsgoZyFMvEnALEg-3D-3D"" style=3D""display:inline-block;background:#0fbf17;co=
+lor:#ffffff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:41px=
+;font-weight:700;line-height:120%;margin:0;text-decoration:none;text-transf=
+orm:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;"" target=
+=3D""_blank""
+              >
+                TAX INVOICE
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:550px;"">
+             =20
+        <a
+           href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.=
+lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznso-2BU-2BnEax64CX94M9sh5OygTMQ1b=
+jP9TPfvB1OYICS9k9revkSoSSS68fpa3Butp78KZpeWPrPueYZPkHRxmwQzkbr7y4KBBRSKCm6d=
+f4lgdzl-2BI-2B7dAMy7z4iG06qJ6qX4-2Fyb9PL6UUOdTINrwCSqNi3kqci5M7FQUWN4MxJkyX=
+zb0ctSIY12poc4gIGWHrrDlmG7i7YHjCm3wc4LXRf0frO-2FzQDWi8nvo6c3mgWtAor2VIW-2FJ=
+XlUaijd77tPaW7uIJFFHfQ8YCBRWhlg4biT-2F9YQB_ZR3EqZKJZkcdwOssHReKtw-2FpCpc59s=
+vzFvYObDNdmgnb3qZKTLZ4ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKKaHLZ-2Fh=
+6GxdnHhjiWSAbWG1F4NJhT2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djxRD-2F3rY=
+8C4Uam3tz-2F6yShw5tWnKPfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1ylrDk9sQqN=
+PkhB01SsXcJJGueamxsivEYgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B58tE76lm=
+I1G500l1tlktteyUEiAiE80bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2BEqoxYHr=
+348jT7j7-2Fuh64BYJqNk6D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP6fkTV5ki=
+-2BnkeGRoTarzHMcHkX3jCVwuSrdnUSXBWLSprqc-2BO5hHo4hqD9YOdKOEln4D5qMLDI6ZzKD-=
+2BDyAC0QjM-2BymfVVMVKdqFyI2DZOSkKoJBvs1msEC5NCeNbz-2BZEWZxKlbl0lW-2BkCyAclc=
+Kzx2HF33eD-2Bw-3D-3D"" target=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/0f1cfa20-cdfd-413a-83d5-55fe00a7c=
+b21.jpg"" style=3D""border:0;display:block;outline:none;text-decoration:none;=
+height:323px;width:100%;font-size:13px;"" width=3D""550"" height=3D""323""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: mbalanenandipha777@gmail.com<br/>You can=
+ <a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr=
+8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82ek-2B5pqr3xE=
+UcG89z-2BuBB-2BiOyNL-2BIKE7smicD-2FrEI-2FWI-3Dsm88_ZR3EqZKJZkcdwOssHReKtw-2=
+FpCpc59svzFvYObDNdmgnb3qZKTLZ4ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKK=
+aHLZ-2Fh6GxdnHhjiWSAbWG1F4NJhT2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djx=
+RD-2F3rY8C4Uam3tz-2F6yShw5tWnKPfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1yl=
+rDk9sQqNPkhB01SsXcJJGueamxsivEYgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B=
+58tE76lmI1G500l1tlktteyUEiAiE80bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2=
+BEqoxYHr348jT7j7-2Fuh64BYJqNk6D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP=
+6fkTV5ki-2BnkeGRoTarzHMcHkX3jCV59iHor9nQdvc61Ld8B9FSgoV-2F0S7QJzZLWb0RYRXmE=
+15Nxsk6OxWFkZyYW-2FNBgcmYWvNpIRb-2FEGhF6TQfZpdFPPzE1-2Fk45VibR2rd3yJFpIZ1IJ=
+TwOEcbUn-2FN4BYp0B7w-3D-3D"" __p=3D""undefined"" style=3D""color:black;border:0=
+ solid black;"">manage your subscriptions</a> or <a href=3D""http://url5332.z=
+a2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw=
+0Orh3sznso-2BU-2BnEax64CX94M9sh5OygTMQ1bjP9TPfvB1OYICS9k9revkSoSSS68fpa3But=
+p78KZpeWPrPueYZPkHRxmwQzBDyjkXGn7DGvCkscvidGVUrCEE-2FORa-2BGqRrJ5AQO7JjBoVv=
+8AnGvPWNe4hooZrwJDRl9rcE1pkHj5WR36Vo0mg1cAMaoYcKQ-2BaXoA77KOVTFiMOgHRqNAuMC=
+ndeboZnbYWfRUM7entbR3DFiGc4j6w-3D-3Dcyg-_ZR3EqZKJZkcdwOssHReKtw-2FpCpc59svz=
+FvYObDNdmgnb3qZKTLZ4ITbOk6iUgxIeHQukq-2BQIfY1SIR4aDTw-2B0h-2BHlKKaHLZ-2Fh6G=
+xdnHhjiWSAbWG1F4NJhT2UbgDEBizqZTosYqsXAmFJJ2rZih4KDOkMOJT72lE5djxRD-2F3rY8C=
+4Uam3tz-2F6yShw5tWnKPfnmaOs6mY-2BOEaZDo9Q55poiX52qIZSdX6-2FfAg1ylrDk9sQqNPk=
+hB01SsXcJJGueamxsivEYgmwfkoEdUxzcVNLQ2-2FSsmxwCa8dw5ot0yyizTgp-2B58tE76lmI1=
+G500l1tlktteyUEiAiE80bvX73d8v5gucmR2Fdiv-2FWQDr39W2b8TN7vbxf7Aw-2BEqoxYHr34=
+8jT7j7-2Fuh64BYJqNk6D1-2FJ7ghk73K3KbOWaV-2BtrysEP-2BOhmkZykMYfOVP6fkTV5ki-2=
+BnkeGRoTarzHMcHkX3jCV8Ty52TL3DbbvJ5FGJxTV-2BpjaodlxPCgDsOuP-2B0fVULluRvThL1=
+-2FSdCtXLzABzPun-2BH8-2BE-2B6MQNe8Eylfj0ZUvF-2BPsWx7kiS5JVscLcjkngScAjWWL9x=
+OA9naKlH4sXNdg-3D-3D"" style=3D""color:black;border:0 solid black;"">cancel yo=
+ur subscription</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DEYQMKQ04P3&c=3D7ZP8NZVY8R&s=3D109445596"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.LVsh9nh0Vi2HVKxcEM2k=
+TBSRd7hIxGql-2FaHY3EH-2FZoVPVVDMOvpmofMDngycsC96rGIm-2Fr8KP9e-2FM1HBvxFgT91=
+GGM-2F808SVtWlKnVfMv8DdDmje-2Fql7hul3p2s0tb793Ufi4mJblNfYbzh1wMknw78SCC-2By=
+Nk2HcVPQt-2F-2FC-2BTmwLbubM6AkJtXkgwdc-2B-2Fsvh7GetNl9cgSnkJADnI3tQFD4AXIES=
+VU7r0exfH1czenICQCzAX2tZjSwdhcW5nsUbsDvWSzR4Uc7SL5DUmfZ3f-2BLRWejUMYHtVMPJa=
+BPDEw7AULUqzxO2fRViP1kBrCYnuRAPXXaggcQbul98rhJ-2BEJVJf9U6JK5k1s3l4BvCWmatII=
+gPCMxMEfv-2BWPL96EHDutyK5LtflOrG9EDRVlQKwuhDKCiF5T5y4ap2kE8mW3En6r2H3-2FLzk=
+jMQzauIAled0Yn1wGfMSKsr4WjrtsqeCgVgEt-2BNjj-2FEeVR6E3x-2FndfuNPJMYAmsFLuBcF=
+7CurEt7V4CBr1x3SATVDOn4NQ1kz-2FEajOhrn-2B0ozZDCQi4SWBaPPiZ1y8hZUZl77ZHsodeD=
+em-2F6os8MRyrKR1lXP0LXyky8bEbQuAwEXYUzccc8M-3D"" alt=3D"""" width=3D""1"" height=
+=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;""/></body>
+</html>
+ =20=
+
+--d3033cd81ef29f6fb65badcd53a89e2dde7277c7cf2e2406f0723f7233a1--
+","""Check"" <widredcabin@za2.blogtechnews.com>",mbalanenandipha777@gmail.com,2025-02-22,3.226.58.111,United States,da,users/46280040/e72334af-5403-4ce8-9444-b59c28f74f44.json
+46280040,j9P5FXiJQBuYkkwZJ9cufQ.recvd-668fcdfd56-kqmbp-1-67BA71B4-A.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLWo5UDVGWGlKUUJ1WWtrd1pKOWN1ZlEtMA,Your account has been activated,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=r429zL5bWycBzCI89pndyDyubAgcijwdj/EdBUnzd3o=;
+	b=VOC6QWiQaMzBRy7RemFXCFizU1j9j1Zn9au7VPhqElJej5IUEaJb+G1ZEWqAecb1/X9L
+	/uj+CoypU6wjsmMwnYAxzGvdB+tfEVQkiWEBzZRmSSHANFLEnGLencuGMFk4Cv39Uxaqn/
+	pjO+LdKpYERVz2S3CEqoyzHmT+VmXFyTRwLyaMrwQmBQ04/JQ4d+7xtkRdFlp4sHDUCtxA
+	d3PFAQpdAERBqostjuSNREs/loX2fIpHy4cn8FTnvlA5i8+mxtTUKUcOBBIkJ4QKN/D3zq
+	9EGPSIBwO4Lhn7ZjW/P4Pvv9ZhB5FI2W0pCcrBMmXF3n/+mqZ3PJOP6D0Hi7MfbA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=r429zL5bWycBzCI89pndyDyubAgcijwdj/EdBUnzd3o=;
+	b=JIZr4/CZdYQQG7lOIw7gHPh6SApNEuxiIqXQUKbg1Ei+2Slqwsia2qPiUWeiAkxeqPyh
+	H6f/R9jM+P50UT/j4HaGHXzNoHkUoUCn4FPI56r2VuvS7nBp4ulbhFFd7kb8cHeX2IA2rx
+	bLdFC8gFqqdaGEMubHIszmOd94MIdXcSY=
+Received: by recvd-668fcdfd56-kqmbp with SMTP id recvd-668fcdfd56-kqmbp-1-67BA71B4-A
+	2025-02-23 00:54:12.350375326 +0000 UTC m=+8652604.383464885
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-38 (SG) with HTTP
+	id j9P5FXiJQBuYkkwZJ9cufQ
+	Sun, 23 Feb 2025 00:54:12.309 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=bc87561b79af312ccada871803b242bf47d845f3236ecc01ee657191a153
+Date: Sun, 23 Feb 2025 00:54:12 +0000 (UTC)
+From: Bank <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <e02674ce-1ae3-96f0-841e-a30e76dacdd9@za2.blogtechnews.com>
+Subject: Your account has been activated
+X-Campaign-Id: 7ZP8RML58R
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3D4P11VJVZPO&c=3D?=
+ =?us-ascii?Q?7ZP8RML58R&s=3D110476561=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E4MYIVsyCKcOwnQmWVS6O0+TqEPFI9QjMqcsLTQIiHqaDnHxB2Qz4l+DB9?=
+ =?us-ascii?Q?Wl38=2FZzxL=2FK+5oRX4ORu24FGFqeX0Bn6rhk9UwW?=
+ =?us-ascii?Q?zptWSpdl5Ycwfyz=2FSI+3pZVeJFL8H1ltaYbeHGL?=
+ =?us-ascii?Q?yiuYhlnZ5L5y+Y6ga1462pyZpxqVC598gTBZ=2FQJ?=
+ =?us-ascii?Q?FBcU8d81AV9W9VOo43e9fKSA3=2FAAn7XHZhTI0p1?=
+ =?us-ascii?Q?uJJUPHE2bgELZEBIL+lwTWRpl+0rJ899fLXRAHj?= =?us-ascii?Q?jc5w?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRG1PvO=2F2TK8TQkqtMOXYsIbrbSmxz2hf+?=
+ =?us-ascii?Q?R3pAp=2Fbhg7nVFW=2FK0Ycvf2Ih16L=2FCONmtwuIBN4?=
+ =?us-ascii?Q?rEqgay7OgDjIS2MuqnTwgUWwMyKZi8Br0cUVl2J?=
+ =?us-ascii?Q?ppkOs71Uzc5S0GFPtsE6o9O4ShOSe+7NDK2=2FJPF?=
+ =?us-ascii?Q?rO1dWZtQLsuIc49sdQQD4+hsyCd7klP8C5Xowjr?=
+ =?us-ascii?Q?HCT7aMtic+3sIRstTh1r7lqyngmvf3St1AcdTzQ?=
+ =?us-ascii?Q?8CQKKnXARIfR=2FrJNhWGzMdYPq8D5VyyHFcu4+zz?=
+ =?us-ascii?Q?Icl8i3UPvkF2tp35Hk9XoZNtIay48Zqu4RHkRix?=
+ =?us-ascii?Q?liyIqCb+vgJNGwcJCmUlt5+rU3Dq1vEH=2Fhre3N5?=
+ =?us-ascii?Q?v4=2FlD8T9o80AVRP+hMw=3D?=
+To: peltonaatiq71@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--bc87561b79af312ccada871803b242bf47d845f3236ecc01ee657191a153
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hello Aatiq
+
+We apologize for the delay. Some days, approval takes longer, and that's wh=
+y we
+ask you to be quick this time when you receive this email and go to the req=
+uest
+page immediately, so that you can be one of the first to be approved
+
+GO TO REQUEST
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx1XmF9iNy-2FQqQ6hfEmJQdwxxP9Hq7Vxlp9bUgMTQV8xj=
+lI6qPslwnHi2SP0UCKSItA57d04ZdxxjJy4QQaElKsrPktX3-2F5rjUGzAKSeHgvGLmuUNNe9Bw=
+U7x-2B60QgqCh2M-3Ditjc_H8JeRXT55647rOEs1Uv4-2FQI7zSIkR6zcKxZ6Ihqi5qpOvf5454=
+xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsWtKWH7P9VG29M6EogfSOQh-2B6NbirkD=
+Lf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3FAS6YhIs6DhQgwH6A-2BC7tJ5kiKQwPp=
+cRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vssBoRchSBijVWbFKURcEMj2lkF6kpgQxJ=
+DK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD2O9srhirEkrDNb50wjY9QlQv68sVCLi=
+EK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5qBoYYzbxjIYtDw1K4t728oiSnOC7tCOn=
+WYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxOoI-2BE42tuTMxEDRqzBqU13Mg-2BGsSDfSKhl=
+T5i8Wj1XNaPgbHo2k7yaSZn1XZAHvKPFDcU3w2m41N-2Boo4qBeWujWVeM55dkhELjyVWWmPD5j=
+ajgpiYAwCo43ba1uv1yI7ZIwQAaoeE4xru0t57pVv7Q-3D-3D]
+
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtkxlSnG9dFH-2BA4lVq5tSrdFxwcMyC-2BKwC6lJpeNjg6XbJ68DY9aHMkMLSb-2F8yblJX=
+PeUtO8AUNIEt1plJD4L2B8-3D1CR4_H8JeRXT55647rOEs1Uv4-2FQI7zSIkR6zcKxZ6Ihqi5qp=
+Ovf5454xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsWtKWH7P9VG29M6EogfSOQh-2B=
+6NbirkDLf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3FAS6YhIs6DhQgwH6A-2BC7tJ5=
+kiKQwPpcRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vssBoRchSBijVWbFKURcEMj2lkF=
+6kpgQxJDK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD2O9srhirEkrDNb50wjY9QlQv=
+68sVCLiEK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5qBoYYzbxjIYtDw1K4t728oiSn=
+OC7tCOnWYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxIYFHDn-2B-2BXxUYIHdSESWmxht9NyZ=
+O8s9m7jxdEO7RxHb0QbXa33UXO6RY188Gde77x3BedQWi40zUqOB91jnf9GoRYjZbhydfD-2FpA=
+8AuGDmVhq83ULyNepLDHMBMBlyP1ayWai3BnQci9J3esooLGbA-3D-3D]
+http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJ=
+juGthUXyq3-2BxZK3kLyIGeMl-2Bx1XmF9iNy-2FQqQ6hfEmJQdwxxP9Hq7Vxlp9bUgMTQV8xjl=
+I6qPslwnHi2SP0UCKSItA57d04ZdxxjJy4QQaElKsrPktX3-2F5rjUGzAKSeHgvGLmuUNNe9BwU=
+7x-2B60QgqCh2M-3D1W3__H8JeRXT55647rOEs1Uv4-2FQI7zSIkR6zcKxZ6Ihqi5qpOvf5454x=
+sVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsWtKWH7P9VG29M6EogfSOQh-2B6NbirkDL=
+f4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3FAS6YhIs6DhQgwH6A-2BC7tJ5kiKQwPpc=
+RtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vssBoRchSBijVWbFKURcEMj2lkF6kpgQxJD=
+K6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD2O9srhirEkrDNb50wjY9QlQv68sVCLiE=
+K1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5qBoYYzbxjIYtDw1K4t728oiSnOC7tCOnW=
+Yk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxRDPplff1WIRqeOsZrRbQIUxWj43v6GqwrpQ7-2B=
+wvYL3PN1UOtcaME729HFUpCMwVFYAQBSdZOHeW9dc0qSR7cDMjT8WXgCtMEUlvzaEJGUGswAu2L=
+7oET2A5AT1lRwKrb9yGxXHJjtave0Ia3wcFlsA-3D-3D
+
+wiredcabin.com
+Sent to: peltonaatiq71@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU829w-2BFaSzNNpxvKJGlE1iOP=
+cPGYcB8qVDsKOn-2BYdFDHdU-3DnpHE_H8JeRXT55647rOEs1Uv4-2FQI7zSIkR6zcKxZ6Ihqi5=
+qpOvf5454xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsWtKWH7P9VG29M6EogfSOQh-=
+2B6NbirkDLf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3FAS6YhIs6DhQgwH6A-2BC7t=
+J5kiKQwPpcRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vssBoRchSBijVWbFKURcEMj2l=
+kF6kpgQxJDK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD2O9srhirEkrDNb50wjY9Ql=
+Qv68sVCLiEK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5qBoYYzbxjIYtDw1K4t728oi=
+SnOC7tCOnWYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxtgWhKfFLrZyJGiwZwfxDHLkhy7zI3=
+WcctnLQ3thW88FqZCFHVXe10Pot25iwnGpUDkFw4faV-2Btg22EnlYIJ-2Fb2RxUCqrpctob8o6=
+z78koN2qJpYw1qJuX9F-2FNg1yW-2BXg1GXRjQrSvlHt4Jkmeyyn-2BA-3D-3D] or cancel y=
+our
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82iHrxq2IpLTyWmGL2F5zv9Lu=
+5-2Bh3vloP3-2BLxb-2FItqhxo7jQSTyXGRj9t-2BG9JIEZk4Ayx__H8JeRXT55647rOEs1Uv4-=
+2FQI7zSIkR6zcKxZ6Ihqi5qpOvf5454xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsW=
+tKWH7P9VG29M6EogfSOQh-2B6NbirkDLf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3F=
+AS6YhIs6DhQgwH6A-2BC7tJ5kiKQwPpcRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vss=
+BoRchSBijVWbFKURcEMj2lkF6kpgQxJDK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD=
+2O9srhirEkrDNb50wjY9QlQv68sVCLiEK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5q=
+BoYYzbxjIYtDw1K4t728oiSnOC7tCOnWYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxh0KdcAf=
+9lEcVan-2B8DlFO5YNV-2BGKemoHgI5gZqFmW84Utuo0RL0ZmBo9f8ObBRhz86o0Ut45-2FbIfQ=
+kHRktMZtyCcbYU1pwYlGKB6GgWhb8uoi7gusIZ2oPM43J3-2BtVdGh3JzX-2FC3vI5i4L7OHRaQ=
+baA-3D-3D]
+--bc87561b79af312ccada871803b242bf47d845f3236ecc01ee657191a153
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:22px;line-height:28px;text-align:left;color:black;""
+      >Hello Aatiq<br/><br/>We apologize for the delay. Some days, approval=
+ takes longer, and that's why we ask you to be quick this time when you rec=
+eive this email and go to the request page immediately, so that you can be =
+one of the first to be approved</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#2bbf0f"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#2bbf0f;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsop9uXTIcoBGxJG4n7MLQ8JD=
+unBr7d38Re2X69IEdHaxztUimEbCpNEXVG2bmR33nF0idxDljYyXa6Ei9p7nLkFrrzo3rQsbR-2=
+B4doGgrxfAe5ZfrqLCztmayRk-2B0tdCriU4lhk56PiM0L6Fb-2FfoA77pxA-2BcO5R-2BPkuLz=
+N1bTiP-2BgoDaxZLFjDL7WPlud5PboU7iRAPcHkCiCfAHkMA0kU7mhmEvK3xmPZCQwDpeuxgkOR=
+KUaVdekuiW29z-2BIoUhAUmkEExOK-2Bin2pU48RTQDUdM-d-u_H8JeRXT55647rOEs1Uv4-2FQ=
+I7zSIkR6zcKxZ6Ihqi5qpOvf5454xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsWtKW=
+H7P9VG29M6EogfSOQh-2B6NbirkDLf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3FAS6=
+YhIs6DhQgwH6A-2BC7tJ5kiKQwPpcRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vssBoR=
+chSBijVWbFKURcEMj2lkF6kpgQxJDK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD2O9=
+srhirEkrDNb50wjY9QlQv68sVCLiEK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5qBoY=
+YzbxjIYtDw1K4t728oiSnOC7tCOnWYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxSwVtDz0DjD=
+F5U4LfOnWL7HpPh9nGIBzymXbtIXfCKHaStEEViQo8o3NKiaXp7yYwd-2Biyid0T2LeYDDWKaTS=
+syg98ImQUGkuyroymigD6HA0OE82lVAUy2NulCpg-2BwV8-2FFJFQO40UZIncownvb0bUBw-3D-=
+3D"" style=3D""display:inline-block;background:#2bbf0f;color:#ffffff;font-fam=
+ily:Ubuntu, Helvetica, Arial, sans-serif;font-size:39px;font-weight:700;lin=
+e-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10p=
+x 25px;mso-padding-alt:0px;border-radius:3px;"" target=3D""_blank""
+              >
+                GO TO REQUEST
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:230px;"">
+             =20
+        <a
+           href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.=
+lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsop9uXTIcoBGxJG4n7MLQ8JDunBr7d38=
+Re2X69IEdHaxztUimEbCpNEXVG2bmR33nF0idxDljYyXa6Ei9p7nLkFrrzo3rQsbR-2B4doGgrx=
+fAe5ZfrqLCztmayRk-2B0tdCriU4lhk56PiM0L6Fb-2FfoA77pxA-2BcO5R-2BPkuLzN1bTiP-2=
+BgoDaxZLFjDL7WPlud5PboU7iRAPcHkCiCfAHkMA0kU7mhmEvK3xmPZCQwDpeuxgkORKUaVdeku=
+iW29z-2BIoUhAUmkEExOK-2Bin2pU48RTQDUdMDH2x_H8JeRXT55647rOEs1Uv4-2FQI7zSIkR6=
+zcKxZ6Ihqi5qpOvf5454xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsWtKWH7P9VG29=
+M6EogfSOQh-2B6NbirkDLf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3FAS6YhIs6DhQ=
+gwH6A-2BC7tJ5kiKQwPpcRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vssBoRchSBijVW=
+bFKURcEMj2lkF6kpgQxJDK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD2O9srhirEkr=
+DNb50wjY9QlQv68sVCLiEK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5qBoYYzbxjIYt=
+Dw1K4t728oiSnOC7tCOnWYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxvhmLxDo6KWgP2TquMg=
+wYV0Bcm8ZO5bKoZmq0-2FAEuSRdMv-2FSJM1HvYQfY12a2drDaT-2FYlzfjCPCsvyRGDRizf6Mr=
+Uv9J4fg-2FRvF1U7oT335s5ySUMnMJcywlMzL8Jc1Myw1CONpiBNvqOPkgXLFDJcA-3D-3D"" ta=
+rget=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/b07c55de-2827-4f6b-8d43-e8718b855=
+374.gif"" style=3D""border:0 solid black;display:block;outline:none;text-deco=
+ration:none;height:auto;width:100%;font-size:13px;"" width=3D""230"" height=3D=
+""auto""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: peltonaatiq71@gmail.com<br/>You can <a h=
+ref=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-=
+2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU829w-2BFaSzNNpxvKJG=
+lE1iOPcPGYcB8qVDsKOn-2BYdFDHdU-3DO78p_H8JeRXT55647rOEs1Uv4-2FQI7zSIkR6zcKxZ=
+6Ihqi5qpOvf5454xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0VrAiEk9RwsWtKWH7P9VG29M6Eog=
+fSOQh-2B6NbirkDLf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKKgQrxXoL3FAS6YhIs6DhQgwH6A=
+-2BC7tJ5kiKQwPpcRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5dUUfdq9vssBoRchSBijVWbFKUR=
+cEMj2lkF6kpgQxJDK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUShEfuIkDCD2O9srhirEkrDNb50=
+wjY9QlQv68sVCLiEK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgtbQ-2BUy5qBoYYzbxjIYtDw1K4=
+t728oiSnOC7tCOnWYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8aMxaJEfeRpj97cV3ai4ano-2FJ=
+ynNsED28W-2BgSfxr3KNTO3HFghYETkr2u3sDkapHsegXl4JiuZDIqvEQvOgvfNErM4tfOGcbSW=
+O1gt1-2Ftf-2FYPF3Vb5kHFziQwrfmHzJlDu60wS5mlIf-2FYbV-2Bqsvs70dzLg-3D-3D"" sty=
+le=3D""color:black;border:0 solid black;"">manage your subscriptions</a> or <=
+a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F=
+3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsop9uXTIcoBGxJG4n7MLQ8JDunBr7d38Re2X69IEd=
+HaxztUimEbCpNEXVG2bmR33nF0idxDljYyXa6Ei9p7nLkFRLbHUEduUsRift1TFkjkKth1b0jLs=
+Zkuvi87EKsyYaKPVibmdWERUXaIUtDhPTXdWMFmOhQhuB8E2rFLJ2BZIlqmikAt3YlTlvioeyG4=
+oVdX0EOMh-2FeT0riKxLuWFq3TGIou8yaq6n7-2F4vrR2l-2Bj8Q-3D-3DPsDi_H8JeRXT55647=
+rOEs1Uv4-2FQI7zSIkR6zcKxZ6Ihqi5qpOvf5454xsVTyTrBaUl2QVBt2faQmUZ1L-2BQHIu0Vr=
+AiEk9RwsWtKWH7P9VG29M6EogfSOQh-2B6NbirkDLf4qg2LrUzVOBVUueXcROeMMiMy5CdtVrKK=
+gQrxXoL3FAS6YhIs6DhQgwH6A-2BC7tJ5kiKQwPpcRtgUtWkyy9qiKe2nCVe8pVPssq76cSDT5d=
+UUfdq9vssBoRchSBijVWbFKURcEMj2lkF6kpgQxJDK6D2Dl7Ck9SgqQxozFmA9FfOcXnBvCZOUS=
+hEfuIkDCD2O9srhirEkrDNb50wjY9QlQv68sVCLiEK1adLqIZDdc8NIpi2Mp6bWeM1aRi-2BZgt=
+bQ-2BUy5qBoYYzbxjIYtDw1K4t728oiSnOC7tCOnWYk1Tr0ukGemgREvP-2FEpbBLm5P-2BFl8a=
+Mx-2BBUcFPbWx9p4OIlp97EgUHT5912kZQLS4ROnhO-2B3wBxQvm3SIVhEyLzHXRlVW-2FUfaTa=
+KBe-2BzAthuZTeXaCBQCqDeuIQsP0f0QZtYSlUhRrioQ2US8DdO4qMrH-2BTiVvj2hzayluHRNV=
+71utZuHJWuHA-3D-3D"" style=3D""color:black;border:0 solid black;"">cancel your=
+ subscription</a></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3D4P11VJVZPO&c=3D7ZP8RML58R&s=3D110476561"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.NEZZzPoLQGi2XSktOwvi=
+3GzlnbouVUf-2FDP2P-2BDCC-2BTFDoEyCqm6p34YYv7ytaFgcFAfmL8Q3oQgJS3xVyAP1uuOXR=
+1ZdCMv23h1lxQucVJDDZWgYLv9L-2BDTUOb4Fp-2F7zR6WJHuOi7gFDLRcmW1lvOW1dkQ73yDnu=
+VcvID1BmtPxy5fdaeeka2HzU9XFDewM7g6RKWFmHUZkJGhEQWVFfxASJW93FcNTpZq3YfZbIzan=
+qgBpbdgI-2F7YSFUPURqym7oVvq3iGev-2F-2B4urCZgMVMq0FtUCLwlsUeqsEh9a2LyG5MmiyD=
+FJN6OZLWAWJwtl1C7beoQJmHuv-2BA8G2UQFI8yLl65NpkG45qQVTN8XWA7zd8aj3suyuV6Oxwl=
+j4Fk8XMNCkcP1InO9zAWZQ-2FgPKj6CS3I24LpteQujNU-2Fj6Dvxtt2DVrXTSyEOty2CxHu6HJ=
+fIKF6DKdI2QtOuqmSI4N6La3aWcQzOKNZZGgP8HkGJzAU-2FGJwMcvcX9SuQYwbCKjHVsBYMNqW=
+4oyE3KMDL8NDlW-2FVxpxf8IBkyKwpFKMGzGMD819TH7sMIY6Q4G9gLe3YI5lQL194GVSa2JOox=
+Vfuw-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:=
+1px !important;width:1px !important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 !important;margin-left=
+:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-=
+right:0 !important;padding-left:0 !important;""/></body>
+</html>
+ =20=
+
+--bc87561b79af312ccada871803b242bf47d845f3236ecc01ee657191a153--
+","""Bank"" <widredcabin@za2.blogtechnews.com>",peltonaatiq71@gmail.com,2025-02-22,3.226.58.111,United States,en,users/46280040/2aca3758-4878-40b5-a699-c386ee73b3d5.json
+46280040,z4FnOn9pQs2lpMvRKwVm3Q.recvd-668fcdfd56-g8zgh-1-67BBC44C-1.0,cHJvY2Vzc2VkLTQ2MjgwMDQwLXo0Rm5PbjlwUXMybHBNdlJLd1ZtM1EtMA,Please confirm your ...,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=za2.blogtechnews.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=s1; bh=pPrDCcCDp4Gwr0EZc3w/3JDHEiW2JcqcbAJ5aKoqFps=;
+	b=Kk/xqII/N0ApS1x75dUmkSYkcret4BC0WdKuftCAw83fQGB5fDTf1ElDZn/Rumu0iXAF
+	toxHFnAJYPG2dmP+8oM4tLWk4xCaHzeuDqIVGLDdDlQ0mufffda4nP9DsJTJdOfSUNbooP
+	UuMksMo+IIFzEtOz8gEfJupGw0ItDYUuXBbW2RZyxmX04Yjen5rnttXk0Pe60eXiigz+dV
+	/idbJUSNkXaXzKYBDvfiTGTfYuF0Yuw2F3PAdk9b2w6S1Pa1lc6HgWvkOL7Kf9tmjtDtbx
+	IYCw14c77xj3c1Yl0fseLPArB3X0XlEtQDCr0/22SUdL+iPQkS3Z+GrhOp32QIFg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=pPrDCcCDp4Gwr0EZc3w/3JDHEiW2JcqcbAJ5aKoqFps=;
+	b=yWaT7cIekHXI/BQZso8zBgEyDUSa4f0fGK7poeJoyc5FnZWdQ9lFnDLkIvud7r7krbun
+	lifEHax2Xaomaah2oCuqtjkVOp4LS4uSXykEVYftuEQL4mDVra/nYvjFpX0+BzvZ1j8/k7
+	ykyozyv0xemY3BG8KJgQ/VlcZuEuiOLyM=
+Received: by recvd-668fcdfd56-g8zgh with SMTP id recvd-668fcdfd56-g8zgh-1-67BBC44C-1
+	2025-02-24 00:58:52.0191109 +0000 UTC m=+8739435.476060772
+Received: from NDYyODAwNDA (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id z4FnOn9pQs2lpMvRKwVm3Q
+	Mon, 24 Feb 2025 00:58:51.959 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=bbec5e38f2280f205c5f119a36ab30197c1c5e6955f01d838275977f8e45
+Date: Mon, 24 Feb 2025 00:58:52 +0000 (UTC)
+From: Pending <widredcabin@za2.blogtechnews.com>
+Mime-Version: 1.0
+Message-ID: <45366a43-985d-f5c9-c65f-eb802990f205@za2.blogtechnews.com>
+Subject: Please confirm your ...
+X-Campaign-Id: RDYV7VDPNW
+X-Subscription-Id: 9E2PEKOP6Q
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DLP2DDZRVP7&c=3D?=
+ =?us-ascii?Q?RDYV7VDPNW&s=3D111922716=3E?=
+X-Feedback-ID: 46280040:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EbuKPcQXlE4TE=2FaLz6KMAiqhilZT3Ocbdt8GFdUv1AXiugOUvDythGFAM4?=
+ =?us-ascii?Q?DdSsHKyWj9roxgavZ7oRdWYV9b4HEjLnB3fSkLb?=
+ =?us-ascii?Q?2xro2TUDlLrGtFDZRtbaEfZZg21SUUuLtHMNXid?=
+ =?us-ascii?Q?xtEcGGfo4zXyzaXXQ4MUCDtspRhJSjQFyEKxBxs?=
+ =?us-ascii?Q?KhiSmxpr8HRojiY2nhxbK2T6MuEMFm3ExdXGWFB?=
+ =?us-ascii?Q?zpAZSrStEo5SNN6+YqwqlRtTDPpl9LSRXEpM4Jt?=
+ =?us-ascii?Q?4ktrinDGk+cBmRXJQnLnpC+e7w=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRtGaQk+Zu4lPyyLK+yBG4vJlbuabikKaS?=
+ =?us-ascii?Q?ntIZ0MADVmMxn4+0CqyzMpVvUnvABoRjUhoRtOF?=
+ =?us-ascii?Q?CrMj8GgRB60E1Hh=2FlacpPBdwZqijz3sdQgwcFzf?=
+ =?us-ascii?Q?ZDhxd9Qcb45mKWqxGr8qLQdR0o7Y+kn29cX+i4s?=
+ =?us-ascii?Q?cWPwGFE=2FLu9bdZ=2FfvreOj8C9sxj+p0jefVUTqw2?=
+ =?us-ascii?Q?=2FaVAjKsopX39sep=2FygxOaVG6oQC4JAeTHMUpCGT?=
+ =?us-ascii?Q?Eiev2uQZMiX8xMVs7RHJK3537ugWlOAV3lEa00i?=
+ =?us-ascii?Q?+AGgzVC82KpM0FnE7m11BTmKUXJAEkBSTBx98IE?=
+ =?us-ascii?Q?tQFtFWeFTFK9Xqw3y2O1ppzvsvyNmh0dRLpUVi3?=
+ =?us-ascii?Q?=2FJjE28MOmFb87lbxO6I=3D?=
+To: morakekatlego638@gmail.com
+X-Entity-ID: u001.V7EqS1qdkCTYkpVuyERokQ==
+
+--bbec5e38f2280f205c5f119a36ab30197c1c5e6955f01d838275977f8e45
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtkxlSnG9dFH-2BA4lVq5tSrdF4dqDOI4QraABz-2FeQOdtNftQbORySpncabFAlJ6SzIQZT=
+rAgg37Cfjfubn-2BEq0xMs-3Dykdy_zgl4hQCCFsAK4WYHHfFG4SWKOsfODdx72xdP3CUTvXJ0I=
+-2BS7acCFr-2B9VqOMhTlqlosN6eMX0R-2FnThlVyUMijAjUAvmDzliH7u7vN9ozC5ixI9RaPhW=
+D-2F-2B6NcjghpLX-2FP-2Fn2fW6pypElJKUn75uMrFSP5odyRJ8M7H4QWsAJ8wgpTm7TF3MIHf=
+bJoovtx26Qy-2BRNSLb3RVEVYlX9nbd7V1xlxYjPjP8G5Ju-2B42icbttgOFdB72AYO8aaHsCgs=
+KCZPTyhwZO4H-2FPTGQYGi4CtgF5W-2FLI-2BjtJDPWRCxAK4MMIhF6LxaN-2F6wwfkbTveBtHV=
+DCuwJYsBvjPD9v4qBtlNUU4Va5Wbqby-2Fa6jhosVE26HOO32fNVLF-2FLRhXiuaMgYHjl9RAfa=
+4zjReAfd1FQvV2bbNl5gN80M-2FKyJ-2FgdtgEHDgpaW2i1LC0zGvRSd1koZtgeU2Wc7Td5ULuK=
+Xxnt9OUJZtA4T8sdsl4c95A1FEoY3bFz8g5vT8golw9ruC1ZGSigotd-2BVSz2E-2FrFz-2ByY0=
+5U23cDsSusN86NPQ8ptNCUoHghz3N37LcL7bMvekWP-2BTAmxfJHpuHMoTfFE2pTYi3v3g-3D-3=
+D]
+http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJ=
+juGthUXyq3-2BxZK3kLyIGeMl-2Bx3Fshg6F4nSrLSb9Z5RYYR69UmcwURQhSpYWBbS5-2FY6B4=
+olUpfTxrvxHZIxpnK2yuKviL2WAq0JvjeqWihFH7KnMO48P8WzybOrjY3pG-2Fs76JdII0ThWFD=
+CeoX45W-2BRvNKGjuzBX-2FmqGrx1ekTy8G0wHZXG_zgl4hQCCFsAK4WYHHfFG4SWKOsfODdx72=
+xdP3CUTvXJ0I-2BS7acCFr-2B9VqOMhTlqlosN6eMX0R-2FnThlVyUMijAjUAvmDzliH7u7vN9o=
+zC5ixI9RaPhWD-2F-2B6NcjghpLX-2FP-2Fn2fW6pypElJKUn75uMrFSP5odyRJ8M7H4QWsAJ8w=
+gpTm7TF3MIHfbJoovtx26Qy-2BRNSLb3RVEVYlX9nbd7V1xlxYjPjP8G5Ju-2B42icbttgOFdB7=
+2AYO8aaHsCgsKCZPTyhwZO4H-2FPTGQYGi4CtgF5W-2FLI-2BjtJDPWRCxAK4MMIhF6LxaN-2F6=
+wwfkbTveBtHVDCuwJYsBvjPD9v4qBtlNUU4Va5Wbqby-2Fa6jhosVE26HOO32fNVLF-2FLRhXiu=
+aMgYHjl9RAfa4zjReAfd1FQvV2bbNl5gN80M-2FKyJ-2FgdtgEHDgpaW2i1LC0zGvRSd1koZtge=
+U2Wc7Td5ULuKXxnt9OUJZfFmWAVH-2F2nix-2F0PSR-2Bp07Nq-2Fhu1XedOJWY7s5Clrp8pCJA=
+Am0gGZ-2BLyBc64k3ydw9UfB613OZLdttr63SmwjTXeyuKAVcXRLGpVUNJ0DCPJOgmJTKjuAX04=
+OxgjxNXvA-3D-3D
+
+This message is intended for=A0morakekatlego638@gmail.com
+
+Katlego, We are awaiting your response to proceed with the dispatch of your
+order. Your registration can be updated in the following request; tap the b=
+utton
+to continue.
+
+ADVANCE
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGthUXyq3-2BxZK3kLyIGeMl-2Bx3Fshg6F4nSrLSb9Z5RYYR69UmcwURQhSpYWBbS5-2FY6B=
+4olUpfTxrvxHZIxpnK2yuKviL2WAq0JvjeqWihFH7KnMO48P8WzybOrjY3pG-2Fs76JdII0ThWF=
+DCeoX45W-2BRvNKGjuzBX-2FmqGrx1ekTy8G0wUr4Y_zgl4hQCCFsAK4WYHHfFG4SWKOsfODdx7=
+2xdP3CUTvXJ0I-2BS7acCFr-2B9VqOMhTlqlosN6eMX0R-2FnThlVyUMijAjUAvmDzliH7u7vN9=
+ozC5ixI9RaPhWD-2F-2B6NcjghpLX-2FP-2Fn2fW6pypElJKUn75uMrFSP5odyRJ8M7H4QWsAJ8=
+wgpTm7TF3MIHfbJoovtx26Qy-2BRNSLb3RVEVYlX9nbd7V1xlxYjPjP8G5Ju-2B42icbttgOFdB=
+72AYO8aaHsCgsKCZPTyhwZO4H-2FPTGQYGi4CtgF5W-2FLI-2BjtJDPWRCxAK4MMIhF6LxaN-2F=
+6wwfkbTveBtHVDCuwJYsBvjPD9v4qBtlNUU4Va5Wbqby-2Fa6jhosVE26HOO32fNVLF-2FLRhXi=
+uaMgYHjl9RAfa4zjReAfd1FQvV2bbNl5gN80M-2FKyJ-2FgdtgEHDgpaW2i1LC0zGvRSd1koZtg=
+eU2Wc7Td5ULuKXxnt9OUJXKlUJ5hdq4Go-2Fuxbyl0uv1Om-2Fnsr-2F0BxcIhqmAnxFKdzHyQM=
+po6FpA8IQ9EIYToBS4a241M9J-2BrS2ZuCp8s6WhAs-2FSTj5d9HhfUVGCOZ4wzKoHZ5MnoyNeL=
+MOsUj1ZeDQ-3D-3D]
+
+wiredcabin.com
+Sent to: morakekatlego638@gmail.com
+You can manage your subscriptions
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82bzjdibSidp1lt8gDPMYgF2g=
+ojcuuHJ3XwQAn-2FtOcoXo-3DJYgd_zgl4hQCCFsAK4WYHHfFG4SWKOsfODdx72xdP3CUTvXJ0I=
+-2BS7acCFr-2B9VqOMhTlqlosN6eMX0R-2FnThlVyUMijAjUAvmDzliH7u7vN9ozC5ixI9RaPhW=
+D-2F-2B6NcjghpLX-2FP-2Fn2fW6pypElJKUn75uMrFSP5odyRJ8M7H4QWsAJ8wgpTm7TF3MIHf=
+bJoovtx26Qy-2BRNSLb3RVEVYlX9nbd7V1xlxYjPjP8G5Ju-2B42icbttgOFdB72AYO8aaHsCgs=
+KCZPTyhwZO4H-2FPTGQYGi4CtgF5W-2FLI-2BjtJDPWRCxAK4MMIhF6LxaN-2F6wwfkbTveBtHV=
+DCuwJYsBvjPD9v4qBtlNUU4Va5Wbqby-2Fa6jhosVE26HOO32fNVLF-2FLRhXiuaMgYHjl9RAfa=
+4zjReAfd1FQvV2bbNl5gN80M-2FKyJ-2FgdtgEHDgpaW2i1LC0zGvRSd1koZtgeU2Wc7Td5ULuK=
+Xxnt9OUJcov3yLCQ7e8wBE26DnBB7P-2FDZP9Lp5RF8VnmcUGdEtwQvOq3yWf5bil5XzQBuNs-2=
+BV-2FBTkIuv0x0DY9kDvrHt-2BItAH0-2FiVW9TQReokSKRuVbRcuKDxzImOShWg18ledhIA-3D=
+-3D] or cancel your
+subscription
+[http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F3s-2Bcifz=
+JjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82fs4ID6k5DarRD5KsA69MDnM=
+JLFM1vDzU-2FPCzKrWzZEQk7nZJowCXe30jrR2bJ-2BDJJlB5_zgl4hQCCFsAK4WYHHfFG4SWKO=
+sfODdx72xdP3CUTvXJ0I-2BS7acCFr-2B9VqOMhTlqlosN6eMX0R-2FnThlVyUMijAjUAvmDzli=
+H7u7vN9ozC5ixI9RaPhWD-2F-2B6NcjghpLX-2FP-2Fn2fW6pypElJKUn75uMrFSP5odyRJ8M7H=
+4QWsAJ8wgpTm7TF3MIHfbJoovtx26Qy-2BRNSLb3RVEVYlX9nbd7V1xlxYjPjP8G5Ju-2B42icb=
+ttgOFdB72AYO8aaHsCgsKCZPTyhwZO4H-2FPTGQYGi4CtgF5W-2FLI-2BjtJDPWRCxAK4MMIhF6=
+LxaN-2F6wwfkbTveBtHVDCuwJYsBvjPD9v4qBtlNUU4Va5Wbqby-2Fa6jhosVE26HOO32fNVLF-=
+2FLRhXiuaMgYHjl9RAfa4zjReAfd1FQvV2bbNl5gN80M-2FKyJ-2FgdtgEHDgpaW2i1LC0zGvRS=
+d1koZtgeU2Wc7Td5ULuKXxnt9OUJeO6oSp0xHr1yQgrj6AUDYmndz7Kde1-2FUaP7E7zGGRc4Ox=
+E-2BSB7aehqGeBxrxLxGu7XaC4k7n3XcOeMPMvFkXADgohsrYZrG3qJ5N82JLzLOoewz6SKsw-2=
+BekgXDPdl6LNA-3D-3D]
+--bbec5e38f2280f205c5f119a36ab30197c1c5e6955f01d838275977f8e45
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:200px;"">
+             =20
+        <a
+           href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.=
+lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsouHWI9o3KbTXG9lpsuWgKeded3Joa5y=
+rfbPwRmPBpKhTs-2FvRZ9imOOLA-2BwTEAC3SAbnXRcmo8xt28u3bqoZhNBPzHh6yNnqKtSACoP=
+CP59AEnTZcNpgPvSCoccsoTEogMpjbmDmGoXHAZ19YwoVcSi5q8Vj-2BnHL1U1jJpyfrxg9WssE=
+cW76S-2BoaY2NfNcZ5AjQL8-2BPrpf9vtLSeWWAfpS87-2Fb-2FH1Hl1K8hd5vAK6DgiBkSNhHv=
+OEXuPONlw8TNaPEP-2Fn9yXxtv27cpmJHa1hffwSjBmJy5bvsp7yVxfwWZYw-3D-3D_XQF_zgl4=
+hQCCFsAK4WYHHfFG4SWKOsfODdx72xdP3CUTvXJ0I-2BS7acCFr-2B9VqOMhTlqlosN6eMX0R-2=
+FnThlVyUMijAjUAvmDzliH7u7vN9ozC5ixI9RaPhWD-2F-2B6NcjghpLX-2FP-2Fn2fW6pypElJ=
+KUn75uMrFSP5odyRJ8M7H4QWsAJ8wgpTm7TF3MIHfbJoovtx26Qy-2BRNSLb3RVEVYlX9nbd7V1=
+xlxYjPjP8G5Ju-2B42icbttgOFdB72AYO8aaHsCgsKCZPTyhwZO4H-2FPTGQYGi4CtgF5W-2FLI=
+-2BjtJDPWRCxAK4MMIhF6LxaN-2F6wwfkbTveBtHVDCuwJYsBvjPD9v4qBtlNUU4Va5Wbqby-2F=
+a6jhosVE26HOO32fNVLF-2FLRhXiuaMgYHjl9RAfa4zjReAfd1FQvV2bbNl5gN80M-2FKyJ-2Fg=
+dtgEHDgpaW2i1LC0zGvRSd1koZtgBUSzHtaNN4bued-2BzvmXEnkKGtwMO9NGotAcx36RB29qgX=
+M0iqbzNxo6PAAWz6tMh08VVQUJozfHC-2BJaQLQcK-2FTLSO9ZfurDdryGGkuh5q65WkAgQyIaY=
+VXZzuRY4td8TgC-2B1QvVmIjYZvoY64lPREQ-3D-3D"" target=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/dc509d04-3419-4ceb-96c3-86156b7b8=
+9a5.jpg"" style=3D""border:0 solid black;display:block;outline:none;text-deco=
+ration:none;height:200px;width:100%;font-size:13px;"" width=3D""200"" height=
+=3D""200""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:22px;line-height:34px;text-align:left;color:black;""
+      >This message is intended for=A0morakekatlego638@gmail.com<br/><br/>K=
+atlego, We are awaiting your response to proceed with the dispatch of your =
+order. Your registration can be updated in the following request; tap the b=
+utton to continue.</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#0fbf17"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:3px;cursor:auto;mso-padding-alt:=
+10px 25px;background:#0fbf17;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=
+=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsouHWI9o3KbTXG9lpsuWgKed=
+ed3Joa5yrfbPwRmPBpKhTs-2FvRZ9imOOLA-2BwTEAC3SAbnXRcmo8xt28u3bqoZhNBPzHh6yNn=
+qKtSACoPCP59AEnTZcNpgPvSCoccsoTEogMpjbmDmGoXHAZ19YwoVcSi5q8Vj-2BnHL1U1jJpyf=
+rxg9WssEcW76S-2BoaY2NfNcZ5AjQL8-2BPrpf9vtLSeWWAfpS87-2Fb-2FH1Hl1K8hd5vAK6Dg=
+iBkSNhHvOEXuPONlw8TNaPEP-2Fn9yXxtv27cpmJHa1hffwSjBmJy5bvsp7yVxfwWZYw-3D-3DG=
+TlV_zgl4hQCCFsAK4WYHHfFG4SWKOsfODdx72xdP3CUTvXJ0I-2BS7acCFr-2B9VqOMhTlqlosN=
+6eMX0R-2FnThlVyUMijAjUAvmDzliH7u7vN9ozC5ixI9RaPhWD-2F-2B6NcjghpLX-2FP-2Fn2f=
+W6pypElJKUn75uMrFSP5odyRJ8M7H4QWsAJ8wgpTm7TF3MIHfbJoovtx26Qy-2BRNSLb3RVEVYl=
+X9nbd7V1xlxYjPjP8G5Ju-2B42icbttgOFdB72AYO8aaHsCgsKCZPTyhwZO4H-2FPTGQYGi4Ctg=
+F5W-2FLI-2BjtJDPWRCxAK4MMIhF6LxaN-2F6wwfkbTveBtHVDCuwJYsBvjPD9v4qBtlNUU4Va5=
+Wbqby-2Fa6jhosVE26HOO32fNVLF-2FLRhXiuaMgYHjl9RAfa4zjReAfd1FQvV2bbNl5gN80M-2=
+FKyJ-2FgdtgEHDgpaW2i1LC0zGvRSd1koZtgBUSzHtaNN4bued-2BzvmXEnjJBGk1X-2FRY70m9=
+GbugsPFWPLofC-2FgdFRyMfCqR-2FtksVDLlUS-2BJr9PAFJVtUiMjx1C2L9K4B6v5N6NUjjaG7=
+UPHdidww3EPjUbkh4-2Fg-2BKbqFZ37HA-2BMmr5LoiZ-2BTdnlRKg-3D-3D"" style=3D""disp=
+lay:inline-block;background:#0fbf17;color:#ffffff;font-family:Ubuntu, Helve=
+tica, Arial, sans-serif;font-size:41px;font-weight:700;line-height:120%;mar=
+gin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-paddin=
+g-alt:0px;border-radius:3px;"" target=3D""_blank""
+              >
+                ADVANCE
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      >wiredcabin.com<br/>Sent to: morakekatlego638@gmail.com<br/>You can <=
+a href=3D""http://url5332.za2.blogtechnews.com/ls/click?upn=3Du001.lT8BUHr8F=
+3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsrnjO03W-2Fr8-2BGAOZcKEtU82bzjdibSidp1lt8=
+gDPMYgF2gojcuuHJ3XwQAn-2FtOcoXo-3Df1Df_zgl4hQCCFsAK4WYHHfFG4SWKOsfODdx72xdP=
+3CUTvXJ0I-2BS7acCFr-2B9VqOMhTlqlosN6eMX0R-2FnThlVyUMijAjUAvmDzliH7u7vN9ozC5=
+ixI9RaPhWD-2F-2B6NcjghpLX-2FP-2Fn2fW6pypElJKUn75uMrFSP5odyRJ8M7H4QWsAJ8wgpT=
+m7TF3MIHfbJoovtx26Qy-2BRNSLb3RVEVYlX9nbd7V1xlxYjPjP8G5Ju-2B42icbttgOFdB72AY=
+O8aaHsCgsKCZPTyhwZO4H-2FPTGQYGi4CtgF5W-2FLI-2BjtJDPWRCxAK4MMIhF6LxaN-2F6wwf=
+kbTveBtHVDCuwJYsBvjPD9v4qBtlNUU4Va5Wbqby-2Fa6jhosVE26HOO32fNVLF-2FLRhXiuaMg=
+YHjl9RAfa4zjReAfd1FQvV2bbNl5gN80M-2FKyJ-2FgdtgEHDgpaW2i1LC0zGvRSd1koZtgBUSz=
+HtaNN4bued-2BzvmXEnkCFbcm1mPXL9itagbYgT5QIptZyV6XGWWd7CZJoAxh1-2F9OUoPyX8sJ=
+JV7giMYKj2jWUqJniJtSceByWuia0RqVMEvNYHt1yfpqIqqa2ibyFUviEeie0IYGlfoShvgHOvw=
+-3D-3D"" __p=3D""undefined"" style=3D""color:black;border:0 solid black;"">manag=
+e your subscriptions</a> or <a href=3D""http://url5332.za2.blogtechnews.com/=
+ls/click?upn=3Du001.lT8BUHr8F3s-2BcifzJjuGtjJZefM2aZZUw0Orh3sznsouHWI9o3KbT=
+XG9lpsuWgKeded3Joa5yrfbPwRmPBpKhTs-2FvRZ9imOOLA-2BwTEAC3SAbnXRcmo8xt28u3bqo=
+ZhNBBMxwGJDuZG8HY-2F3eP3tVWf2iPk9nZbxJ2b1yxAPhtMIoLgh46yvsL-2FYBRLQKsjazTce=
+aZhZzIc4HuZXFjFw51nG-2Fzd72oDMT9el2zaGNXP9qaor2giJdE71ZAPLjIF1khir-2FDAsKwF=
+Rv9btOSzIXUw-3D-3DPuBE_zgl4hQCCFsAK4WYHHfFG4SWKOsfODdx72xdP3CUTvXJ0I-2BS7ac=
+CFr-2B9VqOMhTlqlosN6eMX0R-2FnThlVyUMijAjUAvmDzliH7u7vN9ozC5ixI9RaPhWD-2F-2B=
+6NcjghpLX-2FP-2Fn2fW6pypElJKUn75uMrFSP5odyRJ8M7H4QWsAJ8wgpTm7TF3MIHfbJoovtx=
+26Qy-2BRNSLb3RVEVYlX9nbd7V1xlxYjPjP8G5Ju-2B42icbttgOFdB72AYO8aaHsCgsKCZPTyh=
+wZO4H-2FPTGQYGi4CtgF5W-2FLI-2BjtJDPWRCxAK4MMIhF6LxaN-2F6wwfkbTveBtHVDCuwJYs=
+BvjPD9v4qBtlNUU4Va5Wbqby-2Fa6jhosVE26HOO32fNVLF-2FLRhXiuaMgYHjl9RAfa4zjReAf=
+d1FQvV2bbNl5gN80M-2FKyJ-2FgdtgEHDgpaW2i1LC0zGvRSd1koZtgBUSzHtaNN4bued-2Bzvm=
+XEnkqme3HFFCshYzKabBhN9uRh81dIfypHTnLcZogICOdwDi8ndCvNWPZmsNI8t-2ByaA0rB-2F=
+EvAHj449c5tE2QF7-2BAzMstKE7qYxlcOrkGF81l1FKZn-2FwkGJ4VUS8TwmB76Lw-3D-3D"" st=
+yle=3D""color:black;border:0 solid black;"">cancel your subscription</a></div=
+>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DLP2DDZRVP7&c=3DRDYV7VDPNW&s=3D111922716"" /><img src=3D""=
+http://url5332.za2.blogtechnews.com/wf/open?upn=3Du001.c-2FggA4W731tPMmcqGr=
+Sjk3d4E3Rw05uy4jix6mqDxCK-2Ba0DEZLk6LJz4BVIAf0oyM5pLWCcMR24U25gXSezrpV8PaBE=
+fclo4qxT1ptUJERzQi-2BO6oHJSTw9dhi85-2FvcnKmJvVLV4O8YnskdxAgxsHE3nnMwD-2BcbG=
+-2F040ZY1fGiHJTqB9Ke7ROTjcQ4SmI-2Fd-2B3uxFUzaFPk28EhGStLfUFvRFBKV75wkzyAEAf=
+-2BuZeFjZ1tVmXy2m1EH1XftgoHwVF6yq8Yxbapaf0mdgPbLc6SzY5D6SPKxWBCLnTiYOBWdBsA=
+uIHvyMNtuzphMC4OcqRzpWNhicDxceE7ma5CqxH-2F6RhKDm-2B7dE9jM4Kc1dmE5VGSwzvY0cj=
+zErwZzE991HtRrmTENKK1FFwkKtxsz9m6W5Jk7ZjJGepd7QxDPPPtbXEiHA9NiaAKYfYVj-2BAD=
+cRA5-2BfGYvJ9PwhS0AeMXRx2131tDfQlh1PxwHh6TtCacJpL4Fggj0NEiaROWPayFMcGlMg2G6=
+T4sfvqzNQppVF4LvUBTxQmNl-2Bvqs3mJdt4a87SELCZvioMu2HRRYkaAM-2BqhvX1MOh-2Fa0n=
+MFwLx4yDKwqtYfCIIZzOcSa4kEY0RpU-3D"" alt=3D"""" width=3D""1"" height=3D""1"" borde=
+r=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 =
+!important;margin-top:0 !important;margin-bottom:0 !important;margin-right:=
+0 !important;margin-left:0 !important;padding-top:0 !important;padding-bott=
+om:0 !important;padding-right:0 !important;padding-left:0 !important;""/></b=
+ody>
+</html>
+ =20=
+
+--bbec5e38f2280f205c5f119a36ab30197c1c5e6955f01d838275977f8e45--
+","""Pending "" <widredcabin@za2.blogtechnews.com>",morakekatlego638@gmail.com,2025-02-23,3.226.58.111,United States,en,users/46280040/33ca7aed-ad2e-4890-8b03-cced489f622c.json

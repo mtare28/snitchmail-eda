@@ -1,0 +1,717 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51288648,5ZjbjpmtQPiQZdgORvJg1Q.recvd-69cbc48b94-k7868-1-67DECD96-30.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LTVaamJqcG10UVBpUVpkZ09SdkpnMVEtMA,Scheduled Maintenance: Temporary Downtime Notice,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=MlmpbPbgNtcnFowmc5rGsvf7bH4lMqCcw9oiR9/2xmE=;
+	b=t+MKrobKOQYk/duuKQHaF8qYmv7bUiVEuIzpyQS7hN9Zcd7sCsSztjGCQF2QqgM27KxS
+	6QWYWZir36VlmX+nDeFMf55giG+23aLEhvn2DsaQCeaz6K5hPZEdCSMn0U8JJxVBHn16yq
+	fFuCxP6R2UuA7liAdkvzXRYgXUzfkFN40=
+Received: by recvd-69cbc48b94-k7868 with SMTP id recvd-69cbc48b94-k7868-1-67DECD96-30
+	2025-03-22 14:47:50.758314437 +0000 UTC m=+11035572.813070043
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-4 (SG) with HTTP
+	id 5ZjbjpmtQPiQZdgORvJg1Q
+	Sat, 22 Mar 2025 14:47:50.552 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sat, 22 Mar 2025 14:47:50 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <5ZjbjpmtQPiQZdgORvJg1Q@geopod-ismtpd-4>
+Subject: Scheduled Maintenance: Temporary Downtime Notice
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUp05BkHg1ON2nPkf?=
+ =?us-ascii?Q?tfgUZjWW4C56QwbOX5o3UoUGZUYgO8RkokV5mky?=
+ =?us-ascii?Q?QLTrkHapmwVTXYZUuAUEXQP=2F5GBC8VmV2dQI8KD?=
+ =?us-ascii?Q?jCCjl0OTexk0UgVDC1n4yppyjXuLuUSexzYcnJq?=
+ =?us-ascii?Q?67Si5bGY6+wnesJJa6Odn93PdTs6Y48WkqvfKh1?=
+ =?us-ascii?Q?w=3D=3D?=
+To: aksely@bj62.org
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Maintenance Notification</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Scheduled Maintenance</h2>
+        <p style=3D""color: #555;"">We will be performing scheduled maintenan=
+ce on our servers. During this time, some services may be temporarily unava=
+ilable.</p>
+        <p style=3D""color: #555;""><strong>Maintenance Window:</strong> Marc=
+h 20, 2025 | 12:00 AM - 3:00 AM UTC</p>
+        <p style=3D""color: #777;"">For updates, visit <a href=3D""https://u51=
+288648.ct.sendgrid.net/ls/click?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2Nw=
+VfsnvLfMzUIN4W58IfP28ZBDfw3p8dsodjU91pRN_VkDzgppNKi9NY1Fl7J2MZos8cwfl7BZFpT=
+AaEN7T7zsuAh1MhCVbhABSCPR736YrQEVCDfbABLYhnU-2BOiNbRRGQantntPxS1T4oYTVdoWXP=
+n5sGa30QF6LUiUuUpjAwoa1t1PAlEcv0Sw-2BEv9MdgIOHF4dUEZfjcO8PEU585wy5jHBshktS7=
+lklzgjWbkcfYSgAGDYeePVYEa48RHuKP-2BA-3D-3D"" style=3D""color: #007BFF;"">our c=
+ontact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.J5MFESH-2B=
+q6Otn7nl-2Fe6Y-2F3qID9Q2ma9OCS3a0EoCzb5gPEYatTrtQTZg9eliJ4ZRgOY3H2dEPQuGyH4=
+AhZwYuW05N960ukFn8kIP09N3uE-2FsUO9BYbT7TeRUMPW-2FelLmnR0QsJDw7wcQPWqwyZNLkQ=
+9EPfvFkV9TkM1-2Be37bj-2FnTWB8d6isxVhxHGsDFI-2B4gLz59UdMiI98eC8XrEnNP-2FA-3D=
+-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !im=
+portant;width:1px !important;border-width:0 !important;margin-top:0 !import=
+ant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !imp=
+ortant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0=
+ !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,aksely@bj62.org,2025-03-22,64.226.116.207,United States,en,users/51288648/a15ac2e8-9287-4b98-b294-8adc03bdad94.json
+51288648,7D-Kliq1TEKbvwvD02bSJg.recvd-69cbc48b94-ncz84-1-67DC40B2-1F.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LTdELUtsaXExVEVLYnZ3dkQwMmJTSmctMA,Payment Attempt Unsuccessful,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=r263RkjGwI67FG0Yno5ht8jZSLlQuOT9/k8qQ3ubMMQ=;
+	b=SwuRk/j8YV2FmcFVH4uQRhP/sEglu84s+QBn3fPnpU3AkGuLHYtSeS+fV7Gi1NiTd3qf
+	7c8sruSM274QaO8wNpprqLULgi7QZmlJ/ue1c2O3i5ID3MIsoX52G2BrEUSL//WnZbldk3
+	fwPQ8NHauQYs/MSfl4eOJKemD0S8wqTvs=
+Received: by recvd-69cbc48b94-ncz84 with SMTP id recvd-69cbc48b94-ncz84-1-67DC40B2-1F
+	2025-03-20 16:22:10.557911215 +0000 UTC m=+10868463.974186557
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id 7D-Kliq1TEKbvwvD02bSJg
+	Thu, 20 Mar 2025 16:22:10.343 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Thu, 20 Mar 2025 16:22:10 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <7D-Kliq1TEKbvwvD02bSJg@geopod-ismtpd-8>
+Subject: Payment Attempt Unsuccessful
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUpVlulgAk3zQhFRZ?=
+ =?us-ascii?Q?RjHu4JqEtYUObQ+B8KW=2F1kGaln8OMpVfQMAynCu?=
+ =?us-ascii?Q?zyzkbMtlw+NVGDupfBoQaQog+wr3R=2FR3d3p=2FlPH?=
+ =?us-ascii?Q?PyKQRxe8l4q0wQW49PpxBBecjxZxhRjkJeYZV6S?=
+ =?us-ascii?Q?d=2FLJSKAZALTGegdxBDm0=2FcZSU8XdCLWjU5PKZXz?=
+ =?us-ascii?Q?w=3D=3D?=
+To: ivan.leguerinel@akfis.com
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Payment Failure</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://2morrowrecords.com/images/late.svg"" alt=3D""iOSN=
+ova Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Payment Unsuccessful</h2>
+        <p style=3D""color: #555;"">We were unable to process your recent pay=
+ment. Please check your payment details and try again.</p>
+        <p style=3D""color: #777;"">If you need assistance, visit <a href=3D""=
+https://u51288648.ct.sendgrid.net/ls/click?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ=
+-2BuPR2On38-2Fn7so214Gdaptork5YDRKSRRkkloTCrIrN1qhofA_b-2BjWi-2BP2w6TUXGjmJ=
+sVaC61469lsNOL1BgxZvuWn-2BWL0aPKzmkzXXSr-2BRL8QEvq0WyppwtgTidSxttIytAHDA5SB=
+-2Bnc3oRHBvZg5hypJ2yY8RmCoEkPwSmOCsM5XbTpgWrQIi5IY-2B2e2Vg5H5otahhulpoYu92M=
+tekGV6wRnu93pyydpeHIgt7dwfcE-2FmE0ngzShLTPATinBpUzA1sxDrg-3D-3D"" style=3D""c=
+olor: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.c-2BmP3GF9=
+-2FnIXfAkUQOhHj4i9CIsaJ1vs1WCq5Iy4QWkufKvS-2Bmsl7QbKtclFA3xbj8CYA8Y-2FExSmp=
+p9Hj7elmIZUPMaYjtWVsef9lsfxpq-2Bu1GgJwaupfhJ-2BBVwzQrXpai6y3GdHW5GMBCqxiD-2=
+BpsZiEUUtoKglTHvDV4r7iPPtDG8LDHpdrG9onnyz-2FLgffwlTjEshLFoLROtkDlG-2BHhjoL2=
+-2BcEro0IwzJ-2BGzeIeM0-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,ivan.leguerinel@akfis.com,2025-03-20,64.226.116.207,United States,fr,users/51288648/ee8783a7-e487-4991-b668-06b80fdca6bd.json
+51288648,N8XqmTXATaW41rBmgI5r2w.recvd-69cbc48b94-hnb44-1-67E098C8-E.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LU44WHFtVFhBVGFXNDFyQm1nSTVyMnctMA,"Your Free Trial Ends Soon , Whats Next?","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=Y7v0BdrvYmphQoHCwmp++K6G/zdI2jfy7myt4mKl4sE=;
+	b=XIGW87jA5pz6Gd2I6isQ+mfXptSDCApPSlPdvfkphs7MXtVB8cLxtKcRrzc2GVKsgl2+
+	5GvvT5Khq3qMHS83+aXKqXEwylsp0n3k3a/t6sbB5k50xmMWWapZ5GCJ4Z0zJY8DThFKAY
+	7+QPDUY5E1dwObnVxW8CvLiEPxnw44QjM=
+Received: by recvd-69cbc48b94-hnb44 with SMTP id recvd-69cbc48b94-hnb44-1-67E098C8-E
+	2025-03-23 23:27:04.420258148 +0000 UTC m=+11153122.885741794
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-13 (SG) with HTTP
+	id N8XqmTXATaW41rBmgI5r2w
+	Sun, 23 Mar 2025 23:27:04.298 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sun, 23 Mar 2025 23:27:04 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <N8XqmTXATaW41rBmgI5r2w@geopod-ismtpd-13>
+Subject: Your Free Trial Ends Soon , Whats Next?
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUpiVKe6PAlvtOP+4?=
+ =?us-ascii?Q?9iIGYZfbyENUbQkLyKxC4I=2F=2Fvy4e05dcoxwX7Zj?=
+ =?us-ascii?Q?p1Dc83ulKK7nbwcCb2IUoCpOvXmoJOT4X6Xe+R2?=
+ =?us-ascii?Q?GK82yCC1wfir3nxKIt4DYljW4IcXaDCJWQZQXBw?=
+ =?us-ascii?Q?ycxDwaJ+gWFGYb57db53HhasdF2pmS8ylw5um0G?=
+ =?us-ascii?Q?g=3D=3D?=
+To: ec.robin@iosnova.com
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Trial Expiring Soon</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Your Free Trial is Ending</h2>
+        <p style=3D""color: #555;"">Your free trial of akc-partners will expi=
+re soon. Upgrade now to continue enjoying all features without interruption=
+.</p>
+        <p style=3D""color: #777;"">Need help? Visit <a href=3D""https://u5128=
+8648.ct.sendgrid.net/ls/click?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2NwVf=
+snvLfMzUIN4W58IfP28ZBDfw3p8dsodjU9dK_H_HdOzOVqWf1j-2BshKnNXWYD5GHGg4jBOcldS=
+xDYXZDcFw9gG1vwn1Q4b7JLG03OkMDqK6-2FwEp6a4GVj3aPFxGtXTX6wUBNgvX7RtGtbiSRUE1=
+42TCt6RtEajPo4YLCwbEz843tz3ZZ-2FOvg7R7BS-2BRkpoFo6JEMbOYbsg9RP-2BiHql-2FrAF=
+fh5mkPZmaLmNOtn6xDQme1tA-2FdE3kIFf4EItDoNQ-3D-3D"" style=3D""color: #007BFF;""=
+>our contact page</a> for assistance.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.hPC8rrxilI=
+gO1IWqvyClWAE7U3BuUWd2hk5M8tFGnkVv1Lfk7YtHXYPL-2BeqcNNbZtt-2BwTnJVX-2BbQ6Kd=
+5yYeh66wDohGWXdEgwMEG1uyS2-2FxSB5CJu2ai1-2FzppBT2Ub6l7fVJ1QBAjbuD5Mv-2Bg1kJ=
+VEgXZzRwEbuaxULEtzYrP5W24pIDQkY6Jm-2FuSJ4Y35ZRhsQxIprSP6WhjQY1-2B63frg-3D-3=
+D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !impo=
+rtant;width:1px !important;border-width:0 !important;margin-top:0 !importan=
+t;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impor=
+tant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !=
+important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,ec.robin@iosnova.com,2025-03-23,64.226.116.207,United States,en,users/51288648/248f8bdc-74b3-4a3f-bb1f-3692825c48d1.json
+51288648,C7gIsm1BSdeRnn4jX7Urkg.recvd-69cbc48b94-gnhn4-1-67E1BD0D-B.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LUM3Z0lzbTFCU2RlUm5uNGpYN1Vya2ctMA,Welcome to Akc-Partners,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=/IUJN7US10/NJBK8vngQMCrCwHXEqyL1dkjDHoMJVv0=;
+	b=LItlBmPovsMt1B6JW7JBLoSnCFkb/EellTAg1i58CgrdWjEj0RgWOSv/vX8++Iz+3DpA
+	+30RCC/pxTeJMEEg9PkPuwwzhzZhweybn+WtpToToWOETK+7NMUXNi0Qjyu/oHi5MJBM+l
+	DQ5Gm9Q1DLyMu3SJXBc/djNy3912Gs0Ss=
+Received: by recvd-69cbc48b94-gnhn4 with SMTP id recvd-69cbc48b94-gnhn4-1-67E1BD0D-B
+	2025-03-24 20:14:05.132420802 +0000 UTC m=+11227865.850439569
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-6 (SG) with HTTP
+	id C7gIsm1BSdeRnn4jX7Urkg
+	Mon, 24 Mar 2025 20:14:05.087 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Mon, 24 Mar 2025 20:14:05 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <C7gIsm1BSdeRnn4jX7Urkg@geopod-ismtpd-6>
+Subject: Welcome to Akc-Partners
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUo2RltL+RLIM=2F8J2?=
+ =?us-ascii?Q?KZ2PI+FZbh+jzsfjxnWngvqZyAdFc3GCY3v0rCO?=
+ =?us-ascii?Q?zw2xrB+zSCz7utgxQ=2FAWrvMXLDOPNZ26hWHw3JR?=
+ =?us-ascii?Q?V10d1XMUp9FJzqquOna1CjrbuXkmAz1MO8NusiU?=
+ =?us-ascii?Q?Ee1MvVfen0iS1VdtmcDEFCbYL0H2DmdJGGg0M=2FH?=
+ =?us-ascii?Q?g=3D=3D?=
+To: roche.xavier@autostack.org
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Welcome to akc-partners</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Welcome to akc-partners!</h2>
+        <p style=3D""color: #555;"">We are excited to have you on board. Our =
+powerful ERP solution will help you streamline your business operations.</p=
+>
+        <p style=3D""color: #777;"">If you have any questions, feel free to r=
+each out at <a href=3D""https://u51288648.ct.sendgrid.net/ls/click?upn=3Du00=
+1.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2NwVfsnvLfMzUIN4W58IfP28ZBDfw3p8dsodjU9SvR2_=
+KUl4YYqN1MyzZwLZmsUZiWtfsGg-2Fp650AkZW0qu3XNZx0Y-2Bn4XpJNF6Be3vcWi45ZCUhFG3=
+xFYIhgDI1v-2FB-2B96B-2BVybF-2FOCWZABXItfOKtnY8cGypXQIrJbRs0ADHHOpzN88xdh9co=
+10jAAmeY8-2FBVFY6Df-2B0gEWQQzVb55UHPYs5uPeo9NBOiF4qcYQaZtjrcormGdBcEQlGfSIk=
+ced-2BQ-3D-3D"" style=3D""color: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.uF1vINBVNv=
+bOXSnd56uRCeGqNslJu1kZBrKiIzBfBAjbzJ1dov4vQx4Gn1xUh7KCo1OAL5QQEOwjqpiJuxchA=
+CG8DRAtVzjK2mPYL5smNelFO7lSsl0w-2FXI329BvH-2BlOCYPKT4DgJ1H2RYrt84GnYp4jCS-2=
+FkhxoRAARw4elH5TQUDh3vulNCT1RjywNbQVSJ2780zhG8nvgGqQ6efOKx-2FchMpNoVcWGeQST=
+WqBhUsPo-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height=
+:1px !important;width:1px !important;border-width:0 !important;margin-top:0=
+ !important;margin-bottom:0 !important;margin-right:0 !important;margin-lef=
+t:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding=
+-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,roche.xavier@autostack.org,2025-03-24,64.226.116.207,United States,en,users/51288648/d13974fe-b910-45c6-9be6-aa37cf761f4c.json
+51288648,CLwv_AZPR0-vZKLm1XZfYg.recvd-69cbc48b94-g9g4n-1-67DE68FA-D.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LUNMd3ZfQVpQUjAtdlpLTG0xWFpmWWctMA,Your Subscription Has Been Renewed,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=Gj1D3vNEbUwsrqhBo/nzkSHj8+xA0XOlvrOs+WVViIA=;
+	b=ShIiyzuujsqglxPEvrd/wzkGWw6yeGYCzvmkUUoOq1FQrPFZR7cKFxVrzrYVBxADAi81
+	8+gNOml7IxyNI6GJk4ZXMN8NF9TeCaiL5YI91J4DmFv+Vdqdv3phYRhgxcUrN4poWz4d34
+	JuoKjvotXmYm1Ln53LF6SokUgWO+B49CM=
+Received: by recvd-69cbc48b94-g9g4n with SMTP id recvd-69cbc48b94-g9g4n-1-67DE68FA-D
+	2025-03-22 07:38:34.288537544 +0000 UTC m=+11009790.974721114
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-5 (SG) with HTTP
+	id CLwv_AZPR0-vZKLm1XZfYg
+	Sat, 22 Mar 2025 07:38:34.165 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sat, 22 Mar 2025 07:38:34 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <CLwv_AZPR0-vZKLm1XZfYg@geopod-ismtpd-5>
+Subject: Your Subscription Has Been Renewed
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUrgda6hdnE1oAwL5?=
+ =?us-ascii?Q?ANxd6iRg9NUbY6ooFX=2FaMQvy52WbdYLbyQw7r5y?=
+ =?us-ascii?Q?95CwFXxU7cHj3wrgdGcf9wbZDJ+S1+IwotbTZB1?=
+ =?us-ascii?Q?UbKUUhaZ2zso8blnKxOOepxOJYccMw3JMQlX8dY?=
+ =?us-ascii?Q?ju9ZPUGEy6ffTIL2=2FBbxoxV01z5ibJWe+DeXpYx?=
+ =?us-ascii?Q?w=3D=3D?=
+To: gerald.heuze0807@akfis.com
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Subscription Renewed</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Subscription Renewed</h2>
+        <p style=3D""color: #555;"">Good news! Your subscription has been suc=
+cessfully renewed. You can continue enjoying uninterrupted access to akc-pa=
+rtners.</p>
+        <p style=3D""color: #777;"">If you have any questions or need assista=
+nce, please reach out via <a href=3D""https://u51288648.ct.sendgrid.net/ls/c=
+lick?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2NwVfsnvLfMzUIN4W58IfP28ZBDfw3=
+p8dsodjU9-Vv5_XtohoSFQGIgCaNonueOQBCiFf4kkwA-2FwjZ2EK9R1u5XjQoS-2F-2FwvsuwK=
+Kynl3Tcy3hBtLy7m9GN8lkALXu-2FNve2RSLLUNDNt9w2fxdPx5zekxX4HuZK1Lh5-2B1nCx0nM=
+RgvzkMueJ8hqnNBOGTWm9e5TCDceNk879kjtRAFNCP1X9vy7szenIvN3FwB9LUOzufpUdciadRU=
+u4p3Ub-2BnvNlRg-3D-3D"" style=3D""color: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.ea-2FemUdx=
+h6WgcuaE3o9UyqTHiYC6OcoGlQU6F97UtaapxqLm4-2B4T1QkTE0k0ihfWoJ3WI-2BmWFIerLsS=
+ktc-2FVD5a-2FLvlnBNj-2BmxF07xitsjgMfEAUv8sKvD24D0gohTI5aJF6RrmitsqAyTsfhlgp=
+yG-2FjBkCNHQhp7dhvSYx4n2G8rH-2Bp7TFceymxoU1oXs99AVMvKbK-2Fkg1Zf42FrkJMfm6rI=
+VWojLdSN3ecxL4S4TU-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,gerald.heuze0807@akfis.com,2025-03-22,64.226.116.207,United States,en,users/51288648/02245657-e228-473b-919c-6d5bdde40e25.json
+51288648,G9xnRzztRC22UhxLWuaLUA.recvd-69cbc48b94-ftnkf-1-67E22280-1A.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LUc5eG5Senp0UkMyMlVoeExXdWFMVUEtMA,Your Subscription Has Been Renewed,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=Ga1Wn0+LmWyyiNI2DVcRKMkmXFXeSZtj+ZFiJAswhec=;
+	b=wwAw5da6iFpNGkUlEmFP/UFheWYco4DrP6iONhiVn7QtqNeoFgXYUlZ+BEgvzcawaIJ/
+	pufXK5D8VrEeFn9/4/POSHNEqre1fvzMURnrvS7c4x+0TNr03VGY8iWAwhxeRmABWYhgTY
+	fVIM2RsNiSXgm08FUipaiEBuMow8UMTNI=
+Received: by recvd-69cbc48b94-ftnkf with SMTP id recvd-69cbc48b94-ftnkf-1-67E22280-1A
+	2025-03-25 03:26:56.535835121 +0000 UTC m=+11253903.188053123
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id G9xnRzztRC22UhxLWuaLUA
+	Tue, 25 Mar 2025 03:26:56.484 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Tue, 25 Mar 2025 03:26:56 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <G9xnRzztRC22UhxLWuaLUA@geopod-ismtpd-8>
+Subject: Your Subscription Has Been Renewed
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUpB+hqEVyOpFCawe?=
+ =?us-ascii?Q?+l+vsoErcHLuxOxxIn=2FI1VL8X+hS7lCmxkpeZ3C?=
+ =?us-ascii?Q?X3f8ypiKb8=2Fhvm7foIMiQzTTW4oWJKrLrUyrlyG?=
+ =?us-ascii?Q?6dxk+Cd5Bk1N7uUGwYJuf2lKTR4N2mU=2FI8SkQmG?=
+ =?us-ascii?Q?r2WwCPJGxtQM1bWbGvhah0D6pw5BaM+4AlwuRJh?=
+ =?us-ascii?Q?=2Fcc7rXlgv8HtKIh67b7Rf8=3D?=
+To: nduf94@paris-les-jeunes.com
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Subscription Renewed</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Subscription Renewed</h2>
+        <p style=3D""color: #555;"">Good news! Your subscription has been suc=
+cessfully renewed. You can continue enjoying uninterrupted access to akc-pa=
+rtners.</p>
+        <p style=3D""color: #777;"">If you have any questions or need assista=
+nce, please reach out via <a href=3D""https://u51288648.ct.sendgrid.net/ls/c=
+lick?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2NwVfsnvLfMzUIN4W58IfP28ZBDfw3=
+p8dsodjU9nJAd_zobice6YIDFNRSKmUtmfJIT6Fb-2Fbv1wNUFQbgMZHsnGTIZWYvQCtxBdXf9L=
+tLVZyAR-2B3gBf6GWw73fWnqqvFlutFP9rVkCIU9FJmwaJZ2ry3n56d1Yoyuof0-2BzmIeuM6YC=
+r9Nshql9b4d2Hn2Ie6pl1x7y1uFnMWgoA6dHUetuTK0lsbGTyMHbADM50G5TMjHl-2Ff-2FnyOl=
+dIWIvhT9ye8nA-3D-3D"" style=3D""color: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.rTcpJexX0d=
+Vf0BIFKXGKxHyrPBbPXTG8UBSpaUb7At43C6KuA2phDY9o55pW45m-2F1gbxRRsHjsc8HazQKK8=
+65gaNToeqz9K6j515aZuVg8XMFopslXD29KKe3s-2BQkCiTC7sxgrAu80wVeKl5WPI20IFz3bpc=
+fLnnYAc1kE2KsU45Ywcf8lyj1q-2BuDSBL3ZHv5vpPWTPQEf8thDDC4AlfmAotM103lGF-2FLbP=
+4z0vLeO8-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height=
+:1px !important;width:1px !important;border-width:0 !important;margin-top:0=
+ !important;margin-bottom:0 !important;margin-right:0 !important;margin-lef=
+t:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding=
+-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,nduf94@paris-les-jeunes.com,2025-03-24,64.226.116.207,United States,en,users/51288648/bc7434db-db02-4f66-871e-7235aceb109e.json
+51288648,JK2ojSwxT3WkIgZvPs2G9w.recvd-69cbc48b94-dfm74-1-67DF9ABA-B.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LUpLMm9qU3d4VDNXa0lnWnZQczJHOXctMA,Update on Your Support Ticket,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=/tfil2p4vhF4oIEgEQagt5V+UGlw4Q/8FK0VeWwhys8=;
+	b=oA3G2LW71dSRhJWny6m+X76DRSyD/VjB5M57SfL6zj2mNaYJ4KzHhXfjwUzrN3HafaW6
+	pjodsD4qsp2QsCDiP3Nc9uT1zzPW0N2V5+Di+z5BA3ji2wmiIw2gGsRnAjT58nUv5xzV28
+	ec/fHfPNxBFRGQ1NEl5ZcOf5hrefDwRww=
+Received: by recvd-69cbc48b94-dfm74 with SMTP id recvd-69cbc48b94-dfm74-1-67DF9ABA-B
+	2025-03-23 05:23:06.544649858 +0000 UTC m=+11088118.550425373
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id JK2ojSwxT3WkIgZvPs2G9w
+	Sun, 23 Mar 2025 05:23:06.501 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sun, 23 Mar 2025 05:23:06 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <JK2ojSwxT3WkIgZvPs2G9w@geopod-ismtpd-9>
+Subject: Update on Your Support Ticket
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUqyvpQziNOwBSQAg?=
+ =?us-ascii?Q?5kHuguE3HVFsEnCRAu885tYX51c1wbYUEpP56ft?=
+ =?us-ascii?Q?mVNDcYyPbinu9bW+G6IWWEI=2F+d9LfWTrBG8+0Hp?=
+ =?us-ascii?Q?wImOdmNT0ZfPu5jlpddSKwnNAdGwJZZKMgxiks1?=
+ =?us-ascii?Q?FBCfeb5UZBhdctsV8bg772ULX2VCnLzVaBFPd1J?=
+ =?us-ascii?Q?AJZvivLd2gxATbTUlNlZdw=3D?=
+To: gerard.riesenmey@prawad.com
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Support Update</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Support Request Update</h2>
+        <p style=3D""color: #555;"">We have updated your support ticket. Plea=
+se check your email for details.</p>
+        <p style=3D""color: #777;"">If you need further assistance, visit <a =
+href=3D""https://u51288648.ct.sendgrid.net/ls/click?upn=3Du001.a57T-2BYxiJRU=
+fLMUlOjJ-2BuHWdj2NwVfsnvLfMzUIN4W58IfP28ZBDfw3p8dsodjU9uRbz_ZC3vGvlJc0f5YgM=
+hWaiRDKJ5-2FODp2u3Zc3JYdympT5bLzy-2BVhy9B8CJvEelaYQxDGS6EbesGyfzKEkIl2q8IGe=
+kf3PumjJpYxw5PZ-2BfwaMCOvthM4oMfTJ6S-2BkmMNz1ncj3Yl0WPlAsGRYnWGh4WHb6nuR-2F=
+Pr69y-2BxFEsq4t9BTO0YbZWBR6YfkYBq88muPs1ScWscMaBfLgTzSPSlICHA-3D-3D"" style=
+=3D""color: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.LQ2jVW2XIR=
+XnDyeAVU06dvvqV7TQhk-2FFF4fXcEqLFnGIj-2B-2BV7oc4i6jObXjyre3k0en1HewOez2ZfzF=
+sZ7EVhFeMu8473aQjt6zjCB4A2QOwT55-2FYV3N51uN7ODszwfFlIAtsF3xakwUwqNQq6MOUIil=
+7Q9K0etf6H9qXsu6Nyk-2FgVXPyxBEPq4SnDZZODbVU-2F6IvDqOkTwED97KhbtxNA10BkMFfVj=
+FIP-2B4LjAm6fc-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,gerard.riesenmey@prawad.com,2025-03-23,64.226.116.207,United States,en,users/51288648/642128b5-cbfd-415f-9829-c3b1a065ab7f.json
+51288648,KawOKKAzTpyjSrTU-MlDkg.recvd-69cbc48b94-hnb44-1-67E11DA6-2.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LUthd09LS0F6VHB5alNyVFUtTWxEa2ctMA,Scheduled Maintenance: Temporary Downtime Notice,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=hgqP9sl069o58V/hpSkIJ9qNuGDNul0krcU0/hbmslk=;
+	b=AQrXuLnB4gpcYioJojs2pJDBC2gYayoJpn8R7RkDiJCQs9hHh3h4vJW+tNOc6yDwrJj4
+	gvSG39s1nxAdBizGRdVSbBlOdbVQiNZE06Uf8Kx4pmAar6I4Obnr2A3T8nJ9gBlBUOEYQo
+	udPXF+eDT3co8PIMBb9YSsWFwlqIZk/Y0=
+Received: by recvd-69cbc48b94-hnb44 with SMTP id recvd-69cbc48b94-hnb44-1-67E11DA6-2
+	2025-03-24 08:53:58.026337951 +0000 UTC m=+11187136.491821574
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-10 (SG) with HTTP
+	id KawOKKAzTpyjSrTU-MlDkg
+	Mon, 24 Mar 2025 08:53:57.963 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Mon, 24 Mar 2025 08:53:58 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <KawOKKAzTpyjSrTU-MlDkg@geopod-ismtpd-10>
+Subject: Scheduled Maintenance: Temporary Downtime Notice
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUqziTckcFxSgTBM3?=
+ =?us-ascii?Q?=2Fi2d6Y32keiXqqHvUaqZIvOobHJtMk=2FiBl12RQu?=
+ =?us-ascii?Q?4n0ggsz4b60VC3E=2FI4IAsSMzmoY3C3bEX3v6xL+?=
+ =?us-ascii?Q?mcu9yy890Tqocvixkr6VFHfNwHdUS5T=2FHqERf6X?=
+ =?us-ascii?Q?6eU+zEnkh6I42P6f5gANfFm8V8DmuYsTDxY8NgJ?=
+ =?us-ascii?Q?A=3D=3D?=
+To: antao.s@autostack.org
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Maintenance Notification</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Scheduled Maintenance</h2>
+        <p style=3D""color: #555;"">We will be performing scheduled maintenan=
+ce on our servers. During this time, some services may be temporarily unava=
+ilable.</p>
+        <p style=3D""color: #555;""><strong>Maintenance Window:</strong> Marc=
+h 20, 2025 | 12:00 AM - 3:00 AM UTC</p>
+        <p style=3D""color: #777;"">For updates, visit <a href=3D""https://u51=
+288648.ct.sendgrid.net/ls/click?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2Nw=
+VfsnvLfMzUIN4W58IfP28ZBDfw3p8dsodjU9O0aX_adj6xJ9XNu-2F-2FtDwh4-2B9ZL9p7-2FB=
+P37VhgRAEvfMWZsNnkcoiRYN5aruadUjl6oWKDQ492DCK8SsSLJW6OxTEt8oBLOZP7TbEK4KpX-=
+2BZcsh-2FpdNjqAhy1JRWQIRlMvUDZcvEceNKRib89kLB8rYFtQi-2B44uFPfQaMDXjAXG2guHV=
+Toj2vGQy-2FsbZgpbTQMsDZmhS-2FkYzpR9YS0S-2B8At8VH3g-3D-3D"" style=3D""color: #=
+007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.1UVn9ShuXm=
+Mx6YYhYPACEfMF5UjWO-2Bc6RonQOCDqf85KsbGd-2F7PhbArVu-2FTXs9ispR6sahv1oQKllRq=
+nM8592Svt9MDW7F8RzhNvazNsmBPNklgserNZkH-2FDithe9xCg93EBsy71VaL-2BcZAZ12rIyf=
+mFdNBg6eLjLduV4jlwKK8LfoWxe-2BBbxtg5ME06sqEgxflvNknrE-2BivY68nmUWWEg-3D-3D""=
+ alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !import=
+ant;width:1px !important;border-width:0 !important;margin-top:0 !important;=
+margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importa=
+nt;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !im=
+portant;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,antao.s@autostack.org,2025-03-24,64.226.116.207,United States,en,users/51288648/e4e19f6a-abbd-44cc-a2e1-10329599e454.json
+51288648,_GNup8QLRBKIK-_BXsSdRQ.recvd-69cbc48b94-26k88-1-67DF3062-2B.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LV9HTnVwOFFMUkJLSUstX0JYc1NkUlEtMA,Your Subscription Has Been Renewed,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=ZSl0zzWk44dL8vFqgAcP98WUNvfLFTVcXx6t8BGwo54=;
+	b=Vndt/xwKMjkTXA+iC2Ga34pZ14JLU/c9Jn6CkJzv4acQxMKeY2P73uvZCMt9uvo0It+J
+	+Wc4rwY6umQ3U7jns+Tx+0An0UTeDKCegwrXPsgBlZWxD6CB8JaSu+0Ir2pbJzBlaezxW9
+	AvyyDdu7JxgzWpOyip8UIxrc9RycssKhA=
+Received: by recvd-69cbc48b94-26k88 with SMTP id recvd-69cbc48b94-26k88-1-67DF3062-2B
+	2025-03-22 21:49:22.830551081 +0000 UTC m=+11060820.047692201
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-1 (SG) with HTTP
+	id _GNup8QLRBKIK-_BXsSdRQ
+	Sat, 22 Mar 2025 21:49:22.771 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sat, 22 Mar 2025 21:49:22 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <_GNup8QLRBKIK-_BXsSdRQ@geopod-ismtpd-1>
+Subject: Your Subscription Has Been Renewed
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUr47mzOiCt=2FpDrQL?=
+ =?us-ascii?Q?JMh9RPWOJUUBzWKiGwj7x9o77La7JhTRBxAADG4?=
+ =?us-ascii?Q?o4K2VOwmNmlBHsmDAqPSLUX22Z8YTibWeuTTmIp?=
+ =?us-ascii?Q?ITkoxYg39IlRC0ZnfVB+bvwkQm0H9bhV=2FUknyK7?=
+ =?us-ascii?Q?48fAIQHzC2sjdvuMbk+fuFHtnQ6odI5o3=2FBHSOd?=
+ =?us-ascii?Q?g=3D=3D?=
+To: maisonaverty@prawad.com
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Subscription Renewed</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Subscription Renewed</h2>
+        <p style=3D""color: #555;"">Good news! Your subscription has been suc=
+cessfully renewed. You can continue enjoying uninterrupted access to akc-pa=
+rtners.</p>
+        <p style=3D""color: #777;"">If you have any questions or need assista=
+nce, please reach out via <a href=3D""https://u51288648.ct.sendgrid.net/ls/c=
+lick?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2NwVfsnvLfMzUIN4W58IfP28ZBDfw3=
+p8dsodjU99vh0_w44EorwMgMSrY6jCztpuCP08DFrFXGZo9cAUmfsZgpJaqn1cZq2TJR3ua99dZ=
+fn6owUKFMMdwn4QNe3gFdn4nYAnKc6ZvPOy7frq7vvATm6tdGC5aUM1TdrSIQXrWD40o94u3DDr=
+B9tdSaPj0wucQKXs5ckhaIA2zzz3F6jongLHB5DSMvYw7GNkaa5B82G-2FRSYgdvXIFjt6jRMj2=
+2yiMw-3D-3D"" style=3D""color: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.cB36F2GD-2=
+BWVR9RsLxjidw7buNUo4JsF-2FGhOoXdXn7JF2lu63IQkLqkDNhZlENQMKcUeAkNnVILMgpZGFV=
+yUyVkyoRzS9TchvOJ46KwgtvUcdj4vysMde6FvXQRNRWaCoqVqY-2FK31-2F9lTZ0ZLO5LClH-2=
+BpEeEnOhAn6s8qkKEVQrab4C8rMa0ZCouGMsIZ6NCPdilkuWU2HxSJPnAVz0EZToDf0rI6cy0cE=
+WWyjAz07vk-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""heig=
+ht:1px !important;width:1px !important;border-width:0 !important;margin-top=
+:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-l=
+eft:0 !important;padding-top:0 !important;padding-bottom:0 !important;paddi=
+ng-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,maisonaverty@prawad.com,2025-03-22,64.226.116.207,United States,en,users/51288648/8f70177d-91db-41fb-a941-a945b6311656.json
+51288648,Rnvc5U9vSU-LMAFAP8XlYA.recvd-canary-66874876c5-ccld2-1-67DDAC75-53.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LVJudmM1VTl2U1UtTE1BRkFQOFhsWUEtMA,"Your Free Trial Ends Soon , Whats Next?","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=WsIf8wtxZhyQNp/QrbuaS6+wz/g8Jb9K0Mbs3Bq4trs=;
+	b=dP6GnqYWqDqvhaxZncaIYy7IqlU9y7AhqIQcf6b238QCZ5d/j+QXolUF75n/UjTW6IEm
+	XM4DZUGLVG4M8W8RGLw8pVak16U8kRb5t8XDXsAshXsjCUJPi9QzKX8U5eHRyF5hwI8hty
+	KtaG1K3GGjwu2qZw0KGsYQ0ilOg1vHxTs=
+Received: by recvd-canary-66874876c5-ccld2 with SMTP id recvd-canary-66874876c5-ccld2-1-67DDAC75-53
+	2025-03-21 18:14:13.494183598 +0000 UTC m=+10969580.060358352
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-3 (SG) with HTTP
+	id Rnvc5U9vSU-LMAFAP8XlYA
+	Fri, 21 Mar 2025 18:14:13.265 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Fri, 21 Mar 2025 18:14:13 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <Rnvc5U9vSU-LMAFAP8XlYA@geopod-ismtpd-3>
+Subject: Your Free Trial Ends Soon , Whats Next?
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUpGDaMIAXX7K9xNR?=
+ =?us-ascii?Q?VkVmVIh8KukCRADYO+MY+3Rf61lPaqyYBSRPIwk?=
+ =?us-ascii?Q?ve4UiuL1iYlNcQO96Gs68ncQAdnZkTv0MO6FRax?=
+ =?us-ascii?Q?eJq2i8g57KAien6wGyyOmY0WOeCXTC273t+R2tm?=
+ =?us-ascii?Q?fEn1mpZO3m1kt03HuEhwYf+LB5rGWw=2FpAdv3ocS?=
+ =?us-ascii?Q?E=2F6Timxsyyhpp8muDkjFqw=3D?=
+To: daniele.redonnet@tahenry.org
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Trial Expiring Soon</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Your Free Trial is Ending</h2>
+        <p style=3D""color: #555;"">Your free trial of akc-partners will expi=
+re soon. Upgrade now to continue enjoying all features without interruption=
+.</p>
+        <p style=3D""color: #777;"">Need help? Visit <a href=3D""https://u5128=
+8648.ct.sendgrid.net/ls/click?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ-2BuHWdj2NwVf=
+snvLfMzUIN4W58IfP28ZBDfw3p8dsodjU9XD54_E3jX7UdwUvWW16GmiaKN7MTRPI7ohtl5X2ks=
+xqpIo1qldCV9waM1TOqoFvXsGHJ21SzTR-2Fco2dg5fgL1295rY2MOuR0l6x33MHDMZ6UP9Jjdp=
+BEtIuGhTQXBAHkYvfx6okZ1vHwWZp-2FFGoTH-2BBC6QjX0ZPZx5XRKyJ2lf97Zewvp8d-2FVtN=
+E3YxuxUlidnkZVLhYAUBy8nDigTw9sOFJdoonkvWuBfx4l8Xfc2tZBBsw-3D"" style=3D""colo=
+r: #007BFF;"">our contact page</a> for assistance.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.hpozUjy7sb=
+4j8thafHFolhnteofuyoyNiK5Pc28XV-2B9RBdr-2FkzI3Lfx9yJOvu1VPJxtLoyuNEpa8-2F2A=
+ixuIPeqaTPZt36DfvqE5XhqhROICl86qWDAdDmVGiwWdQ-2BsWWug5VWjvjKjubyf30Qc4R8Cp4=
+LlvVd83vrSqDefJd3vBh0gSLXV95tegGnmz2aARWGlwl3UY6P9tZTcu9HxxNZ-2BQgndaBqAquy=
+eJtmEHczuo-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""heig=
+ht:1px !important;width:1px !important;border-width:0 !important;margin-top=
+:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-l=
+eft:0 !important;padding-top:0 !important;padding-bottom:0 !important;paddi=
+ng-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,daniele.redonnet@tahenry.org,2025-03-21,64.226.116.207,United States,en,users/51288648/438be129-42ef-4c0e-9068-dff70190e735.json
+51288648,h_RnZbpVRamM-APjgrYvYQ.recvd-69cbc48b94-7j96v-1-67DE12C5-E.0,cHJvY2Vzc2VkLTUxMjg4NjQ4LWhfUm5aYnBWUmFtTS1BUGpncll2WVEtMA,Payment Attempt Unsuccessful,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=NTHE9FOjRbj7ykGo+xEXX45CC1El5bF7by9uLbRQ7vk=;
+	b=Fy1E3mxjPV8YJdycIadCmUEAzri/PwHrMnoCQwS8hcUck7YWRqBh6RR//RdP+uuV3bN/
+	i8MBmhPmJN5X+epvfNyWnhyfe3d3lpcv8PxTZiqW4nsVVk2G7FXa2YRPr5Zne8HF7Jws16
+	7nXp1hjVPmD85QFWNCqPGjVQwAULJcrDQ=
+Received: by recvd-69cbc48b94-7j96v with SMTP id recvd-69cbc48b94-7j96v-1-67DE12C5-E
+	2025-03-22 01:30:45.588997505 +0000 UTC m=+10987712.534107358
+Received: from NTEyODg2NDg (unknown)
+	by geopod-ismtpd-4 (SG) with HTTP
+	id h_RnZbpVRamM-APjgrYvYQ
+	Sat, 22 Mar 2025 01:30:45.487 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sat, 22 Mar 2025 01:30:45 +0000 (UTC)
+From: support@akc-partners.com
+Mime-Version: 1.0
+Message-ID: <h_RnZbpVRamM-APjgrYvYQ@geopod-ismtpd-4>
+Subject: Payment Attempt Unsuccessful
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssR9PiRUV70ha3Nd4dweSCUpW80fWxDYMedOlj?=
+ =?us-ascii?Q?jAPNh=2Flk5vLBdjZznYqAgG6XHwTpiJKa+tEmzVA?=
+ =?us-ascii?Q?sDycg0+Q86RZ017qdzguNqVrkO1n5NhHSvY6M17?=
+ =?us-ascii?Q?OfN=2FMlx72HJ8l6JfSuLKEL2eYGKiVOeS7BXH4OA?=
+ =?us-ascii?Q?NESxK7BiamiQkF7mNM5fVs=2FxVk4guCSFOAur9a=2F?=
+ =?us-ascii?Q?1MdJNtmXuwxw0E+6GRFDLk=3D?=
+To: choupette.nolan@tarsotibal.com
+X-Entity-ID: u001.OkRw0GnWXJrYFxMyvb+tJA==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Payment Failure</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Payment Unsuccessful</h2>
+        <p style=3D""color: #555;"">We were unable to process your recent pay=
+ment. Please check your payment details and try again.</p>
+        <p style=3D""color: #777;"">If you need assistance, visit <a href=3D""=
+https://u51288648.ct.sendgrid.net/ls/click?upn=3Du001.a57T-2BYxiJRUfLMUlOjJ=
+-2BuHWdj2NwVfsnvLfMzUIN4W58IfP28ZBDfw3p8dsodjU9olK6_TTbWpa1gSRySABQJA0lP2SY=
+-2FUZ65uiq6LJHcPNlKWzaoiQD4MNpSO-2BfD1KtOExXckcsJkeCfaZSqm0VVTNsjk857iUokqY=
+z8TrHZLsaKhav6ps0s3hRnXJ8sBXL9CqVC5WUvDcKpmiY6S9cUls1mbVxgN5M2-2Ff8hiQLIvmH=
+3wnGENxOwc4cVt6EIrmHMsJ-2FBpLp9u7jA2tLJyXaCwgAMgctV7YSUqoM0llOVhIbHrko-3D"" =
+style=3D""color: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51288648.ct.sendgrid.net/wf/open?upn=3Du001.0ViSGwtlJo=
+Yw9t6ckU9RaBR0uKoU0MGPjaJSjXQRThrksYoTfrDKlWkVR8FBF3qzrfLLbcxefuq-2F6YIJShT=
+emPKFRDet1sGJhzVNMi98xh4PBK7NGMM4qzceR9eOpN3iOfV2vXFOwqHEHatt09NHo41oSGbIb8=
+-2FDYaP6T8sWS0SmwmmsAdDR3ZMyPN5jPn6dYiR96SEaR4Rkumh3NRO0pI8eHURj52izkswMnbc=
+qp3U-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px=
+ !important;width:1px !important;border-width:0 !important;margin-top:0 !im=
+portant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 =
+!important;padding-top:0 !important;padding-bottom:0 !important;padding-rig=
+ht:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@akc-partners.com,choupette.nolan@tarsotibal.com,2025-03-21,64.226.116.207,United States,fr,users/51288648/123e01ca-0368-40db-9c32-1fb56c5499d0.json

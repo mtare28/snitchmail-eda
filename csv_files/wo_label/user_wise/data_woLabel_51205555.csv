@@ -1,0 +1,345 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51205555,gV2BWmyBQ324xw1iu0Kzbw.recvd-69cbc48b94-pxbbj-1-67D08661-17.4,cHJvY2Vzc2VkLTUxMjA1NTU1LWdWMkJXbXlCUTMyNHh3MWl1MEt6YnctNA,your order is shipped,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=al07BaJdiEGtZyUzUxOWAHHlJfgeRWMGAxoblEJbjik=;
+	b=hD31Oj/CEh2PIlTmUH6Fk73PueomaOQ6VUO/M+NU2TdDwEF6q+mhXpkODQvpBXJ+VNd3
+	fcjmOwa18i1i+eGUz2Q/Okb81HKaEPPlSq24xzOHut/iICQEmW/lrn7/qRPprNM791K9Ak
+	mfJcOncpdfqZ4fAUNczqWnQX6ijvJTWAA=
+Received: by recvd-69cbc48b94-pxbbj with SMTP id recvd-69cbc48b94-pxbbj-1-67D08661-17
+	2025-03-11 18:52:17.658238574 +0000 UTC m=+10099675.071004751
+Received: from NTEyMDU1NTU (unknown)
+	by geopod-ismtpd-26 (SG) with HTTP
+	id gV2BWmyBQ324xw1iu0Kzbw
+	Tue, 11 Mar 2025 18:52:17.612 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=b08793eaafcee7f6e84a1c83b29116d75152855c4a75427182754d4e3bfd
+Date: Tue, 11 Mar 2025 18:52:17 +0000 (UTC)
+From: Zordan <zeldaroden68@hotmail.com>
+Mime-Version: 1.0
+Message-ID: <gV2BWmyBQ324xw1iu0Kzbw@geopod-ismtpd-26>
+Subject: your order is shipped
+Reply-To: zeldaroden68@hotmail.com
+List-Unsubscribe: <https://www.paller.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E1KIdycq7y4ue+q8eypJGK=2FtJt55ZRazahS+H3ulQY4c4QsFLMGTUPk1fU?=
+ =?us-ascii?Q?Nktb1vpj4Fe7DnFQihoDJQpMOZ8I98=2FjFxogH3y?=
+ =?us-ascii?Q?yIGhe7dopDBAyJQeK7ApsJnI8uQ9AuLcnHcW1x0?=
+ =?us-ascii?Q?wKq01pJPuRBSytoHxw6Cyaz54griUbgAo0Q9SLI?=
+ =?us-ascii?Q?QTnAbq71gV++tScaEVeLCAv2r7aIJ7XS0pcDJdH?=
+ =?us-ascii?Q?1JwF9dkhx9yZBqmTQqtVaT9ruVnzkd7LHMukidL?= =?us-ascii?Q?kTd+?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsbyTonNi9eQU0KFPji1q6UAkhw?=
+ =?us-ascii?Q?fG+nHKnYLaDPhvE8omMSuObVkrnkBgsXtmkLdx0?=
+ =?us-ascii?Q?d1JomWkdSyEHJ9iW1Bh0NQ+scMgrZG7q2tTHrEE?=
+ =?us-ascii?Q?YW7KixM6W958J7afYw5kVh3EHsLBtBItHkyP=2F2n?=
+ =?us-ascii?Q?c2ayOGwTDBxWy+FC8wABgZPXh4p7rWAg96szCDb?=
+ =?us-ascii?Q?V=2Fun4DW1YmJBlSDzSRpRk1Lsdz3UPbYk9YCqWhW?=
+ =?us-ascii?Q?1QRIU3vCedN0RZHxUFOiTXxjjKjmBAcNpXB9JgH?=
+ =?us-ascii?Q?DbEK5RpO8URTqmfeZjXKWNWFZVSjXEbOXTPxxuN?=
+ =?us-ascii?Q?5fys84lFyBcNi2NrmSMpOnzcMRIiy0jmNiDcBES?=
+ =?us-ascii?Q?5g5PlNjqqNFjStfVY1Zub47o+o8b5j8DjOAoc4g?=
+ =?us-ascii?Q?1G8oVpRHqW+cphIR2SU=2F=2F5vLYUics=2FCH4ZpaZkI?=
+ =?us-ascii?Q?OqwFl6B16ItiYmmnX0nnd3nBZluIXzTr7UTHTnw?=
+ =?us-ascii?Q?wwWAP2Ag8+FRI4Sx=2FA0kYU3GyNAVdb2cdjqa+6N?=
+ =?us-ascii?Q?PH7SK3QwFc3ojIyrnTj7XFACPm+OpAoD0t5WrA2?=
+ =?us-ascii?Q?MUAyboKzT7qN0Rj=2FOMar0D=2F?=
+To: mbell@journeystn.org
+X-Entity-ID: u001.0l3tRUo/uLsb1ckQvFI85g==
+
+--b08793eaafcee7f6e84a1c83b29116d75152855c4a75427182754d4e3bfd
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Thank you for your order! We=E2=80=99ve successfully processed your purchas=
+e of the Canon Printer S Series (S47840) for $524.85, and it is scheduled f=
+or delivery by March 12, 2025. We=E2=80=99ll send you a shipping update onc=
+e your order is on its way. If you placed this order, no further action is =
+needed. However, if you do not recognize this transaction, please contact u=
+s immediately at *18182720805* so we can investigate and block it if necess=
+ary. We appreciate your business and are here to help if you have any quest=
+ions!
+
+*Best regards,
+Walmart Customer Support
+=F0=9F=93=9E1-818-272-0805*
+
+Zordan
+
+zeldaroden68@hotmail.com , New York , =20
+
+Unsubscribe ( https://www.paller.com ) - Unsubscribe Preferences ( https://=
+www.paller.com )
+--b08793eaafcee7f6e84a1c83b29116d75152855c4a75427182754d4e3bfd
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""26791e69-99d7-45e8-b317-b7a418fdffcc"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 24p=
+x"">Thank you for your order! We=E2=80=99ve successfully processed your purc=
+hase of the Canon Printer S Series (S47840) for $524.85, and it is schedule=
+d for delivery by March 12, 2025. We=E2=80=99ll send you a shipping update =
+once your order is on its way. If you placed this order, no further action =
+is needed. However, if you do not recognize this transaction, please contac=
+t us immediately at </span><span style=3D""font-size: 24px""><u><strong>18182=
+720805</strong></u></span><span style=3D""font-size: 24px""> so we can invest=
+igate and block it if necessary. We appreciate your business and are here t=
+o help if you have any questions!<br>
+<br>
+</span><span style=3D""font-size: 24px""><u><strong>Best regards,<br>
+Walmart Customer Support<br>
+=F0=9F=93=9E1-818-272-0805</strong></u></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Zordan</p><p style=3D""font-size:12px; line-height:20px;""><span=
+ class=3D""Unsubscribe--senderAddress"">zeldaroden68@hotmail.com</span>, <spa=
+n class=3D""Unsubscribe--senderCity"">New York</span>, <span class=3D""Unsubsc=
+ribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span></=
+p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsubscr=
+ibe--unsubscribeLink"" href=3D""https://u51205555.ct.sendgrid.net/ls/click?up=
+n=3Du001.cv6R13aEB1WPL7QWL79pd4LJzQjnX0gV0nM-2FrtQXn-2FE-3DCPYF_r5fMm15MY-2=
+F1qEmX2glOm6mpvf6MK5igWpDk4GM3Lt6oZoDw6C2m7cI5lnitzGR-2B8IVQRMsb3Up0OaFdn-2=
+B7bRQt7Y9xX7SAnRLZtdfrrNDDdzYxSDPDM-2FP8TaLBOEml86tlkzBl16N-2FoaAqxcQ8IP221=
+F2vOetz9mooofVzelEk3dv-2F-2BNc85jjUH6kn5XyKQR7lP2x-2FISrzzMOCYfBmVMkNA688Si=
+hYfK9ahpO6lgZ-2FPZ3MGqZt5v0LJdGin5JLYqDeD32FxkpiW0CYlnH8J2bqElWqlSpVXkk2DJy=
+NXTGda-2FxDin3plaK7gAuBYEfozW9FeZY1L-2BA3zfQVa64zA43McJL5RJx6JTDKwsZZHBSum4=
+41T5Flq-2Fg2UgkqT2PRlEDXVT6bb4bMfZohw1CYXQjZw0VG5C2z9OMibD8lRWSfXcTkJMC8TTt=
+4S-2Be2gKy5WNmlbWOTXQzdYpogRH6WqttZNbr1N-2BjkigCdqZTlb0gUk1VaReIX0B7xtxejad=
+JttoAPw6zyKmtQpLVbkzw9QW8ZZsQ-2BIq2dOy7ZWnzUq9f3-2FAsyOUA-2FlJHVSY7M5KtRrbe=
+JMzwrMrXxyRSsq9biPv0KztsxC9j6Gca5gGA-2FgC8cpYMpnNQ-2B6wFlRYaZiDyTW-2BF8YYXn=
+lD-2F7HUXgPlENnOzI3Vm9ollyLv5nmS21I9M9skuCVy8S7q7Yl91xHh-2BkMm8vNsGz-2FLdRA=
+6olMnbiBNe8WJX6wGRl2t-2F5l7zroRbxA-2FiTYju8RLTbZT0jqO2gV2dfIXFIPlTVWEYJN3OW=
+xvDQOyiPWIEyB3wLxBVG-2F0TqxrG-2BfA6Os4Z4neH71sdh7EtBnDehzSPYlrg4egGjwHMri3Z=
+-2B4jn6m2QqA4Xy-2B4o0A-3D"" target=3D""_blank"" style=3D"""">Unsubscribe</a> - <=
+a href=3D""https://u51205555.ct.sendgrid.net/ls/click?upn=3Du001.cv6R13aEB1W=
+PL7QWL79pd4LJzQjnX0gV0nM-2FrtQXn-2FE-3DWRTB_r5fMm15MY-2F1qEmX2glOm6mpvf6MK5=
+igWpDk4GM3Lt6oZoDw6C2m7cI5lnitzGR-2B8IVQRMsb3Up0OaFdn-2B7bRQt7Y9xX7SAnRLZtd=
+frrNDDdzYxSDPDM-2FP8TaLBOEml86tlkzBl16N-2FoaAqxcQ8IP221F2vOetz9mooofVzelEk3=
+dv-2F-2BNc85jjUH6kn5XyKQR7lP2x-2FISrzzMOCYfBmVMkNA688SihYfK9ahpO6lgZ-2FPZ3M=
+GqZt5v0LJdGin5JLYqDeD32FxkpiW0CYlnH8J2bqElWqlSpVXkk2DJyNXTGda-2FxDin3plaK7g=
+AuBYEfozW9FeZY1L-2BA3zfQVa64zA43McJL5RJx6JTDKwsZZHBSum441T5Flq-2Fg2UgkqT2PR=
+lEDXVT6bb4bMfZohw1CYXQjZw0VG5C2z9OMibD8lRWSfXcTkJMC8TTt4S-2Be2gKy5WNmlbWOTX=
+QzdYpogRH6WqttZNbr1N-2BjkigCdqZTlb0gUk1VaReIX0B7xtxejadJttoAPw6zyKmtQpLVbkz=
+w9QW8ZZsQ-2BIq2dOy7ZWnzUq9f3-2FAsyOUA-2FlJHVSY7M5KtRrbeJMzwrMrXxyRSsq9biPv0=
+KztsxC9j6Gca5gGA-2FgC8cpYMpnNQ-2B6wFlRYaZiDyTW-2BF8YYXnlD-2F7HUXgPlENnOzI3V=
+m9ollyLv5nmS21I9M9skuCVy8S7q7Yl91xHh-2BkMm8vNsGz-2FLdRA6olMnbiBNe8WJX6wGRl2=
+t-2F5l7zroRbxDyH8dh3OSiGdro74vx7D5sBqZOx7B1LQ7xsgQZfPzcYonpVWL4WR6koVPP3hYE=
+ZoyqIBInPWUgWpcEZ7P740IbRKhSornXpzIpXtdrmb482d3cVAHfJVrrQ-2BGDJNeeBpg-3D"" t=
+arget=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D"""">U=
+nsubscribe Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51205555.ct.sendgrid.net/wf/open?upn=3Du001.SJWKx7=
+A13XswTIsWBtzt5nT4-2BUScZKhpC4XHGaDOR6DBtweunRmQstPJAHNdfafiG9WSi7fjvzbiClq=
+yI1AMuyM172nv0PrkFVbx1qAsJ2prxi4IAJa8gaaGKYnsFFAWPdZY7ErYyh2ht2oe9hi9WuB-2F=
+w0TnBCSj7MJnQ-2FI85N9RIdHRR2fGAq1kb0-2Bwq2gg3IGuuRsKEwMmY-2BRJ2wvSCTohk-2Bu=
+6TV1E2v-2BVLQpI7ywusc64PYvqMe-2F-2FzImicz8Co8cxHLeryLQw0F5HWYCLdq9jyVI6xCWz=
+gO1OFn887nbGOG8lLnC5YS-2Fi-2BP8T67kwHzKs3hk0OCO412tTMatPaYAUe5d4pG8o6h00M2R=
+aeiumIaTeLqz5v2QyaPvFZbmLHiM-2F6DLOFddkFqThhWmbz4JwP9QWnB9kEKjVTTokx6Bj-2FM=
+UT9k-2Bu-2BgfeEgzbygXg-2BP4UJD2AvpIfgC7reMWLLPQyormuHZR5785CEN0XLPxzPxBo21t=
+BRL5EKdVaRfQ9onC1fWMinzsqPQvIXTK3IjLyr8a-2FJ4jk0wxG2reXNxca3PjWjmy8t7v2lbdO=
+kDW74zc80HYBEz-2FYr-2BEBbi1m3-2FIC-2FhUoFOfVVhc15zZ30conoXoKpp2wHGsGdDphnSg=
+DyAeQBvPbf32ZHSWMrdNMbmBVIwJqcSvR8B4rL63ZY7nPusJ7-2Fhi32WkwPg5jZNfTt56wo-2F=
+UANe9ksavQR7Zt-2FdM4hijQyip6CggV-2FJ4Ll6T3nUZvQ86K8-2Bq2wa5XA4w9CdoKlt4cgeh=
+UjFwATnTdNx-2B3Moc7NgiioLyeOFB2Lm8MFPAhkyZOIS6SwIqwXIPb9ryUbKLT-2BbfPVNTkI5=
+z6XlvzyegzLL4nodY4es-2Fecb06-2BGy3oAU7JVridZFKXFGw"" alt=3D"""" width=3D""1"" he=
+ight=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important=
+;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importa=
+nt;margin-right:0 !important;margin-left:0 !important;padding-top:0 !import=
+ant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !=
+important;""/></body>
+  </html>
+--b08793eaafcee7f6e84a1c83b29116d75152855c4a75427182754d4e3bfd--
+","""Zordan"" <zeldaroden68@hotmail.com>",mbell@journeystn.org,2025-03-11,34.225.201.237,United States,en,users/51205555/a7cf1c83-dfdd-4a89-9820-770e3afb9884.json

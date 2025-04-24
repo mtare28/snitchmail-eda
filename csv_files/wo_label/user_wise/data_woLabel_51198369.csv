@@ -1,0 +1,2068 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51198369,299k22M6SdW1pjpJOmCLKA.recvd-69cbc48b94-n2vpp-1-67D9D0D4-5F.0,cHJvY2Vzc2VkLTUxMTk4MzY5LTI5OWsyMk02U2RXMXBqcEpPbUNMS0EtMA,Thank you for your trial,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hartybrofloorstogo.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=0rw5RVlaKsGnBy2IUWqx0QkjLK2tEiL/SD7UDiyenmw=;
+	b=Q+/TTt+r3NF/Jm457zpXug2Js2Rf0KKJ3QsT7r+nQyU+AaYaJkm41yOmDMg6p1NGDUqg
+	ZUA8DP8lYJ2raddiKYpM0ZWV/Ey7NyKF5CvKR+nLCRQnoJu5A1o8WmO9Mutas915rY9W/p
+	/61IHYZuOm0xnfBwKrOB3tek0mKBBzvKlyu1X2oRgvRAegIcNyIzumYQV8UA2GbKNTBQgc
+	PStgarZZsotJ66zRzJ3cUzJAuoApbl+47tS64V08W90wlQzjMjAxYT0lmxmsskj7q12kNa
+	sE4FVd1L0X6qPJUiCJXmRzwMams8NAYULsd6ibEo5VPTo04+zmvkjO6qzo03p5mg==
+Received: by recvd-69cbc48b94-n2vpp with SMTP id recvd-69cbc48b94-n2vpp-1-67D9D0D4-5F
+	2025-03-18 20:00:20.7298461 +0000 UTC m=+10708586.434012950
+Received: from NTExOTgzNjk (unknown)
+	by geopod-ismtpd-19 (SG) with HTTP
+	id 299k22M6SdW1pjpJOmCLKA
+	Tue, 18 Mar 2025 20:00:20.705 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=bb4e228891f37e2c7c3606ec2ab591898b5105de8c5bd00bdab7c0982994
+Date: Tue, 18 Mar 2025 20:00:20 +0000 (UTC)
+From: Teresa Molfino-Jim <jim@hartybrofloorstogo.com>
+Mime-Version: 1.0
+Message-ID: <299k22M6SdW1pjpJOmCLKA@geopod-ismtpd-19>
+Subject: Thank you for your trial
+Reply-To: jim@hartybrofloorstogo.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51198369=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Eu0XX?=
+ =?us-ascii?Q?pKc3T875t9zME5WU1G4nHav3l5IOGGKn9-9ZBOc?=
+ =?us-ascii?Q?OED=5FwtXSGQInwfyzgZ15J4dSQeEhl3Yus7A1TA8?=
+ =?us-ascii?Q?=5FWST8NW3W2jkPswRnCVlRRKR4kd53H2MnoV6yYF?=
+ =?us-ascii?Q?-xqJi9NIN0YkU5NrvSEBXe3zBYUOtkuETYC5LLf?=
+ =?us-ascii?Q?jOoXviO6HkKPjJ-HTk5tFnsyLYgk97xNXJpcJYA?=
+ =?us-ascii?Q?-XUfO96VFsBNm6IaKR0qHRgz5brgCWUKaRSP1q6?=
+ =?us-ascii?Q?PPqoJ-5DrSemjHcfbOW5NxbJn081OHl6ZcbSLdX?=
+ =?us-ascii?Q?owIbLQCS=5FxLOhFOwRYuBRGduxR3Amb2EiM5vI1B?=
+ =?us-ascii?Q?Sp1jYpabjYfy0RhDO68DOJjLZvHoFpgA3ZagG7D?=
+ =?us-ascii?Q?ZUpQEOGt7h20TaW9UcJzyO9ZNz82pYyqLlh3-dE?=
+ =?us-ascii?Q?SVCVpiCTxP5jezRY697yDAvWb3zFchqGoVP06Z8?=
+ =?us-ascii?Q?m4q0coSsMfa6IhJsSkd-FdiAdy00oVuNNVKg2fY?=
+ =?us-ascii?Q?jjwdNclDp8kcay=5FbL4PdZrJAgurLL8CfEpoKmUi?=
+ =?us-ascii?Q?1tEgOtUMHezrDKsZhmijxi97g2OWQxYLIcEaUqk?=
+ =?us-ascii?Q?xXSDnnm35IGa-N8YsaiagHte-F7X6pSOwDThVtR?=
+ =?us-ascii?Q?=5FCF=5F7P=5FRIzYMvnJ=5Fcc7P2IYG3U-JHVWQEWujTMP?=
+ =?us-ascii?Q?sspD6rjvjPIIjYmJxKzjKrAPJhp3FCYFqYb9YOu?=
+ =?us-ascii?Q?ihqRzjCER6EoyO5IEEX140a1MR0ynVOAm7AS5-Q?=
+ =?us-ascii?Q?3J18h=5FHYys4x5embl1AEqt0omzaWxm=5FJ6l7EhVd?=
+ =?us-ascii?Q?BHP16MbVChHkN7b99d4=5FJ4vJDaHgMooocb=5FNFjC?=
+ =?us-ascii?Q?GNs5TWMUp8ehoXqRlr8JRk=5FxQX1lsUo8arJGth1?=
+ =?us-ascii?Q?MYXyXUXxBUQbn55frsdDrJ5AZVTQrcBqIR24lCG?=
+ =?us-ascii?Q?s6kP4HlgYnOze9JMICUy=5FJZcNwqIISbTKeLZR-=5F?=
+ =?us-ascii?Q?zhtVCKwXg2stD4fZMt0rpY1m41nr11FbR53N6bM?=
+ =?us-ascii?Q?7cg8gYYS7G9lad7uBSA6OfhcKXcB13fp6lok6vN?=
+ =?us-ascii?Q?TPNQI3kEQy2RCWXZLnCQIDuj5FerKru7TBJMO1w?=
+ =?us-ascii?Q?uTvQQweKFUCMu8W8ClPBiNaUNLgiclKOVrtZqWP?=
+ =?us-ascii?Q?AIO-PoUCsF6ViEarVUJZD2bqizEUexSZZ62FLJs?=
+ =?us-ascii?Q?ofn7Kh=5FldtP9qO003qadsg7d5yVdS84bzj=5FrGfu?=
+ =?us-ascii?Q?lo7P6q2ytdGoPEbPCnXLXo4szgYistaIkG3NaUX?=
+ =?us-ascii?Q?2GgFIco1uXRDY8OCPJcyQ0jX0Sjv3etyVffYCEV?=
+ =?us-ascii?Q?R=5FOB6U8tnzqbFoD3yZR0ttyHNK4esYogcjITl-S?=
+ =?us-ascii?Q?-Qox2ZQWMcMotskZHinxM14bu7A8qtxcOyWuryb?=
+ =?us-ascii?Q?EAWEdVneK-JSeqKiwSUkFvv=5F9QnBySbp96lue32?=
+ =?us-ascii?Q?DwE0mIQFedIo3lpuY9gxjrE76-VC2d8fVcSEu=5FP?=
+ =?us-ascii?Q?diN7Vgjiihct4KrcnKUbBgnK3nBJ=5FZyTQZk2kzW?=
+ =?us-ascii?Q?h=5FRzPSwHEeSAUaQv36z8fxlFehwrz9pFhlrpsvp?=
+ =?us-ascii?Q?M7G0rH5c-FdU53kLQ3Xe3ZHcvA84DeESE9WW=5F7g?=
+ =?us-ascii?Q?T2uMD9rZ7ZmGp9NMbiNh1xQBLVfAj9FcXol2AuV?=
+ =?us-ascii?Q?kr3YNcUZUb4=3E=2C=3Cmailto=3Aunsubscribe=40em8707?=
+ =?us-ascii?Q?=2Ehartybrofloorstogo=2Ecom=3Fsubject=3Dhttp=3A=2F=2F?=
+ =?us-ascii?Q?url6819=2Ehartybrofloorstogo=2Ecom=2Fmt=2Fu=2Fu00?=
+ =?us-ascii?Q?1=2E8i7Pfo8bFnujeivLBTCUWN21Nz1BThQQPgJEi?=
+ =?us-ascii?Q?14uD-uWpQHZFiAEy6wt6ddeCrUMXlsqfyUdjEGX?=
+ =?us-ascii?Q?eVJ6xX6BzA=2F4ew=2Fu001=2EEfUxVFEx=2Fu001=2E3Nq3u?=
+ =?us-ascii?Q?yGp2thVdJRe-2BCvoIQOHD4TnDKz5Lkcp87hVHj?=
+ =?us-ascii?Q?TH-2F55lCZtIDRuQDYtynrSxGknuvqP7LdBkyzL?=
+ =?us-ascii?Q?-2F6XoxqTwQ8hhAEyquVsBeJ-2FecAwoIWrfUwq?=
+ =?us-ascii?Q?z9efZePPI6h6lK8So2gytlARZY-2FG2cfDhL38a?=
+ =?us-ascii?Q?2zpgSZNZE-2F6EaESMFv-2FOMXegEzLZjMaVYhk?=
+ =?us-ascii?Q?piFAWUwSvyZdi8WtFJbGxqwob-2Fc1hwILUgW72?=
+ =?us-ascii?Q?nCz6xjRmuSCy6qPPTAhdec7kGH-2FCa7ZMWAARo?=
+ =?us-ascii?Q?HzzwllfJbVHTVJ7TcHA7urA6P9E5EatIHe7m7c-?=
+ =?us-ascii?Q?2FlPrrPJTsteJXEh-2FjhL1wHr-2Fpd0oI8U6dA?=
+ =?us-ascii?Q?s2BUuIzUF3nsLgPvR9mUwDYFWCIRgsEtkdkW5sL?=
+ =?us-ascii?Q?Kc1kgg-2F-2F7kngQ83T092cqd2MC3u8AsdXJo8?=
+ =?us-ascii?Q?-2BFS7ctqhpZWQ3W2X2OOsXR2SxV7OG8IrQTFNR?=
+ =?us-ascii?Q?3Lq5jdMw37I66g2v0cZtKZ8tdWpExQ4SKGvDInd?=
+ =?us-ascii?Q?OOsIKNEu5mJ3BMVFWOhFzj94kbcvctmKX1ZGnbd?=
+ =?us-ascii?Q?JYm3PtvsKMSP0kYqRZQxkTyvwvn15sfVxtJRLyi?=
+ =?us-ascii?Q?Cpp9x2ec4RUUqpVz-2FJDAvUbcwLbta0j2aWaup?=
+ =?us-ascii?Q?puFWZFMm97l3EhlbSSUxXIsAukdKIZhbuRdcF5M?=
+ =?us-ascii?Q?0asPw1AgQ-2B2aZkkmv-2FvAAG9Abnjai1xi435?=
+ =?us-ascii?Q?KrQaew1O8kclXZcrs1bvPBjCpPo80T8DnfwvVnA?=
+ =?us-ascii?Q?3CqbF93LW4wDLk8vTTqiET2eT3Crv0IGsGV36aq?=
+ =?us-ascii?Q?a64PHFY3WzoHLvpu96xMIB5YWTHPnkfbb6pgmOI?=
+ =?us-ascii?Q?il4y6Z2UbDbG9kVLCA6duJhT2xowr4w4CvsOw4b?=
+ =?us-ascii?Q?4gXRw0JaS2lQM-2BZzKeaEFUpVEjW-2BsN5SI0D?=
+ =?us-ascii?Q?6CsjozZrhmsW9dX1ibWk5Eokijw96rJi3OnBYWi?=
+ =?us-ascii?Q?HEpK6oIxuvpbCf8cEL-2Beu94lKzDa8VKcxA0yI?=
+ =?us-ascii?Q?a039dD3H08or7pNYVHzPDoF5wgbHuwqpak5QvyZ?=
+ =?us-ascii?Q?BntVDzlNr00TUdTg6UfZekD72I-3D=2Fu001=2EPWV5?=
+ =?us-ascii?Q?QeD0=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3MKr2BPBuekM7SDLATD=2FcPE7cLmySuwP6X9ZtSwclopDY5AdzHoxrEpzu?=
+ =?us-ascii?Q?VpXtL2pmB7dr80j12QqCKaqhdPcSUmLvSF1vEWS?=
+ =?us-ascii?Q?hVMHI4HLie1GhD9MeB3vnIv7PGm58FhnrO+aJfL?=
+ =?us-ascii?Q?zNHxxYdzrLc33de8Zvktjgd2r=2FOcBdhBwlrB9zE?=
+ =?us-ascii?Q?G6zLgHkVdqV1Xsp2+3eSFgy+kuK9z5Cxc+r2q6u?=
+ =?us-ascii?Q?SH84ieyC1SsZV5I68V866c8PtFvDHoJFECwqPMU?=
+ =?us-ascii?Q?mmkSpAxfrZ=2FDenxWqioMEdcelbCDLJ6J6cCS3mx?=
+ =?us-ascii?Q?NQHzwd2k=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOgqkwVUFqzbU1l9vTVxQcgxTDz?=
+ =?us-ascii?Q?KCyDoSWRe=2FdU0=2FdMrDEAb23CcNwzfIRc=2FVMQbqi?=
+ =?us-ascii?Q?W2riaptY9RI3sPX=2FI7kp5hE3+5CJ7brSmkxjqtq?=
+ =?us-ascii?Q?6MMDCXd=2FnOjgyRgbjvBkgvI346TOTyVh4Y9N466?=
+ =?us-ascii?Q?1UDffb4mRV7SKpuyTkrCy64OJFLCxYrDRzjgaMX?=
+ =?us-ascii?Q?TAOUT149weyRMEavg0XIgPtLe4KA08Z4nLZuI8k?=
+ =?us-ascii?Q?UEFra0gvCGp=2FO4dEJ52rEmRF7pRR+CEs8UawWgq?=
+ =?us-ascii?Q?hoj9KAKn8VdZeTtDxQptI012TVRTqufXfj2dN+i?=
+ =?us-ascii?Q?USC2hTeYUGPzZkf7zEDdf8ObAPXRh53cdM+cHSI?=
+ =?us-ascii?Q?b6bguNgBaCqWfnQdkHoHB3y=2FD+ZK3B4gyYrNhFz?=
+ =?us-ascii?Q?C0TiZVoJgr3iA3V7+56DVCsN2R16Bm1LqUE=2FBKB?=
+ =?us-ascii?Q?rlvMMamMEkrnSH2UyE6t4y9mEbMkPcT5ln8d6n8?=
+ =?us-ascii?Q?l4UsT8=2FRkxdBjgQNUZn=2F3NsEqWFDnquiJJuskJa?=
+ =?us-ascii?Q?S+Qa6OkPri7M20WY9yu4XEcaYRSDnQ84=2Fqc9dSE?=
+ =?us-ascii?Q?27Iv9o9aPSCIZJQZFXb0LfKCn=2FJ6gEDvwqmX9y7?=
+ =?us-ascii?Q?cY9V0axTPYYxn9jlJ7qpiRNy2q6cdmUbpz3pVoU?=
+ =?us-ascii?Q?Xz+qA73=2FS?=
+To: taylorshambaugh@dynamicgamingsolutions.com
+X-Entity-ID: u001.2rJOZMpHU5zC7xUzYR6IQQ==
+
+--bb4e228891f37e2c7c3606ec2ab591898b5105de8c5bd00bdab7c0982994
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hello ,
+
+Just a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 P=
+M.
+
+Please reply to confirm this appointment. You can call our office at 646-99=
+1-6253 anytime if you=E2=80=99d like to reschedule.
+
+See you soon!
+
+HARTY BRO FLOORS TO GO
+
+5011 E Desert Vista Trail
+
+Cave Creek, AZ 85331
+
+646-991-6253
+
+Teresa Molfino-Jim
+
+5011 E Desert Vista Trail , Cave Creek , AZ 85331
+
+Unsubscribe ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?upn=3Du0=
+01.VNVuiirl9JTW-2BxIEaqvfnQwisxVxDnm7TYwJssWFM30Po2QigmLl4vYY7D58M5LJr2oQab=
+eu0DQeXGVjChHdk5E1XJQmjLhGsML7Wr3zM1x6GypTc2XRvH95mXqsyT-2FuRaUlE8aWW5BqC4c=
+OzSXND6F26CivfG2C2eMxDV-2FnEF0-2BD-2FyraDW5CtSqC5OJ-2FVusCvMmLRp2PW-2F8gBX2=
+rB8iJ5yHJ-2Bz7WS32KBfWY5MIQ-2Bxfbed-2Fb7bnWvneBLC2nPbDtbT25RT04rwZgcNW3mK95=
+uaoDGS0j1949IoAmeD-2B9DdtG-2BnXg95ZzZ40zhSAWZljHVZKqkQAs3380vDpXXxB8kpYX-2B=
+s9-2FuZcETsS5wjVLk1Uo-2BxQxo-2BclHuADTPjyB-2BHeuot83tCUHVe7XU7Z95ZcPhhWTucQ=
+S60TA8TBcaunTORLKNZ1D1a5QRshblVkJjzOGFHm9RrZW-2FooSZ5ltdB7Ea0I00VA9eTAHtZ89=
+sB0y-2BTnysOgKBsHdnXVdkepes3-2F5DYl7I2uHejdsP4MonHMOF2kJ98TDqXupQaeQZORv9tD=
+TaJF-2F9riBTxv0uZsQ6Y6M9Tc4wfy-2F77UCFqZSgRleLLYJ4nX45RfBUpLi7kM41v9Me9a-2F=
+NcSBh486PYde-2B5aBIvEfhY9lcrAMplF12K9bOvWld741IJg4l7dP7vKr2n9QJuzsJdETi1kQf=
+k3mAAJYhej-2BijnF3p-2Bfg1N95yYQbEOCfShn8T63G8FNGb1tWr0nzac3pW5uH7-2BMIz9gDo=
+6gRj-2B0poTLlL5fcI8rYYQNq7mfOLstpM9mUZBcELeSlM4v2JSORjzApcuR2zu75An24rxCbI-=
+2Bs-2F5VtYsEf5BhCk84CO4mDTAjT8chKdCBJ9HLYZS-2BeACTAFzuUgqLWR2Jwc73DbuvcB-2F=
+CxNfMARidiKrEjgHlWhvD0mEl8gAadww1h0PofteNFqGCHYMNcWLGF7CKwVrcxGFh6JDG-2B6dN=
+pzXsVfnFWSRkVTBhAPOUgI-3D ) - Unsubscribe Preferences ( http://url6819.hart=
+ybrofloorstogo.com/wf/unsubscribe?upn=3Du001.VNVuiirl9JTW-2BxIEaqvfnQwisxVx=
+Dnm7TYwJssWFM30Po2QigmLl4vYY7D58M5LJr2oQabeu0DQeXGVjChHdk5E1XJQmjLhGsML7Wr3=
+zM1x6GypTc2XRvH95mXqsyT-2FuRaUlE8aWW5BqC4cOzSXND6F26CivfG2C2eMxDV-2FnEF0-2B=
+D-2FyraDW5CtSqC5OJ-2FVusCvMmLRp2PW-2F8gBX2rB8iJ5yHJ-2Bz7WS32KBfWY5MIQ-2Bxfb=
+ed-2Fb7bnWvneBLC2nPbDtbT25RT04rwZgcNW3mK95uaoDGS0j1949IoAmeD-2B9DdtG-2BnXg9=
+5ZzZ40zhSAWZljHVZKqkQAs3380vDpXXxB8kpYX-2Bs9-2FuZcETsS5wjVLk1Uo-2BxQxo-2Bcl=
+HuADTPjyB-2BHeuot83tCUHVe7XU7Z95ZcPhhWTucQS60TA8TBcaunTORLKNZ1D1a5QRshblVkJ=
+jzOGFHm9RrZW-2FooSZ5ltdB7Ea0I00VA9eTAHtZ89sB0y-2BTnysOgKBsHdnXVdkepes3-2F5D=
+Yl7I2uHejdsP4MonHMOF2kJ98TDqXupQaeQZORv9tDTaJF-2F9riBTxv0uZsQ6Y6M9Tc4wfy-2F=
+77UCFqZSgRleLLYJ4nX45RfBUpLi7kM41v9Me9a-2FNcSBh486PYde-2B5aBIvEfhY9lcrAMplF=
+12K9bOvWld741IJg4l7dP7vKr2n9QJuzsJdETi1kQfk3mAAJYhej-2BijnF3p-2Bfg1N95yYQbE=
+OCfShn8T63G8FNGb1tWr0nzac3pW5uH7-2BMIz9gDo6gRj-2B0poTLlL5fcI8rYYQNq7mfOLstp=
+M9mUZBcELeSlM4v2JSORjzApcuR2zu75An24rxCbI-2Bs-2F5VtYsEf5BhCk84CO4mDTAjT8chK=
+dCBJ9HLYZS-2BeACTAFzuUgqLWR2Jwc73DbuvcB-2FCxNfMARidiKrEjgHlWhvD0mEl8gAadww1=
+h0PofteNFqGCHYMNcWLGF7CKwVrcxGFh6JDG-2B6dNpzXsVfnFWSRkVTBhAPOUgI-3D )
+--bb4e228891f37e2c7c3606ec2ab591898b5105de8c5bd00bdab7c0982994
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Hello=
+ ,</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Just =
+a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 PM.</s=
+pan></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Pleas=
+e reply to confirm this appointment. You can call our office at 646-991-625=
+3 anytime if you&rsquo;d like to reschedule.</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">See y=
+ou soon!</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">HARTY=
+ BRO FLOORS TO GO</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">5011 =
+E Desert Vista Trail</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Cave =
+Creek, AZ 85331&nbsp;</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">646-9=
+91-6253</span></p>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+        <div class=3D""Unsubscribe--addressLine"">
+          <p class=3D""Unsubscribe--senderName""
+            style=3D""font-size:12px;line-height:20px""
+          >
+            Teresa Molfino-Jim
+          </p>
+          <p style=3D""font-size:12px;line-height:20px"">
+            <span class=3D""Unsubscribe--senderAddress"">5011 E Desert Vista =
+Trail</span>, <span class=3D""Unsubscribe--senderCity"">Cave Creek</span>, <s=
+pan class=3D""Unsubscribe--senderState"">AZ</span> <span class=3D""Unsubscribe=
+--senderZip"">85331</span>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""http://url6819.=
+hartybrofloorstogo.com/wf/unsubscribe?upn=3Du001.VNVuiirl9JTW-2BxIEaqvfnQwi=
+sxVxDnm7TYwJssWFM30Po2QigmLl4vYY7D58M5LJr2oQabeu0DQeXGVjChHdk5E1XJQmjLhGsML=
+7Wr3zM1x6GypTc2XRvH95mXqsyT-2FuRaUlE8aWW5BqC4cOzSXND6F26CivfG2C2eMxDV-2FnEF=
+0-2BD-2FyraDW5CtSqC5OJ-2FVusCvMmLRp2PW-2F8gBX2rB8iJ5yHJ-2Bz7WS32KBfWY5MIQ-2=
+Bxfbed-2Fb7bnWvneBLC2nPbDtbT25RT04rwZgcNW3mK95uaoDGS0j1949IoAmeD-2B9DdtG-2B=
+nXg95ZzZ40zhSAWZljHVZKqkQAs3380vDpXXxB8kpYX-2Bs9-2FuZcETsS5wjVLk1Uo-2BxQxo-=
+2BclHuADTPjyB-2BHeuot83tCUHVe7XU7Z95ZcPhhWTucQS60TA8TBcaunTORLKNZ1D1a5QRshb=
+lVkJjzOGFHm9RrZW-2FooSZ5ltdB7Ea0I00VA9eTAHtZ89sB0y-2BTnysOgKBsHdnXVdkepes3-=
+2F5DYl7I2uHejdsP4MonHMOF2kJ98TDqXupQaeQZORv9tDTaJF-2F9riBTxv0uZsQ6Y6M9Tc4wf=
+y-2F77UCFqZSgRleLLYJ4nX45RfBUpLi7kM41v9Me9a-2FNcSBh486PYde-2B5aBIvEfhY9lcrA=
+MplF12K9bOvWld741IJg4l7dP7vKr2n9QJuzsJdETi1kQfk3mAAJYhej-2BijnF3p-2Bfg1N95y=
+YQbEOCfShn8T63G8FNGb1tWr0nzac3pW5uH7-2BMIz9gDo6gRj-2B0poTLlL5fcI8rYYQNq7mfO=
+LstpM9mUZBcELeSlM4v2JSORjzApcuR2zu75ANOwLbawoJlR3itTCBp0YLDRgKyuEVBhbvkvq-2=
+FxtmLcTJKEq6a4G2XnWrWFLHzwBkB6bcqll8hznY2RZxPXBHt80WBTVf903Hlt3OIkw4GuVWURs=
+xLpoltHqPMSUSR6CRlSklHlJqCkZEUN7M-2FfXKSvIu1Iinp7l57CDyCRdVQV0-3D"" target=
+=3D""_blank"" style=3D""font-family:sans-serif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""http://url6819.hartybrofloorstogo.com/wf/unsubscribe?u=
+pn=3Du001.VNVuiirl9JTW-2BxIEaqvfnQwisxVxDnm7TYwJssWFM30Po2QigmLl4vYY7D58M5L=
+Jr2oQabeu0DQeXGVjChHdk5E1XJQmjLhGsML7Wr3zM1x6GypTc2XRvH95mXqsyT-2FuRaUlE8aW=
+W5BqC4cOzSXND6F26CivfG2C2eMxDV-2FnEF0-2BD-2FyraDW5CtSqC5OJ-2FVusCvMmLRp2PW-=
+2F8gBX2rB8iJ5yHJ-2Bz7WS32KBfWY5MIQ-2Bxfbed-2Fb7bnWvneBLC2nPbDtbT25RT04rwZgc=
+NW3mK95uaoDGS0j1949IoAmeD-2B9DdtG-2BnXg95ZzZ40zhSAWZljHVZKqkQAs3380vDpXXxB8=
+kpYX-2Bs9-2FuZcETsS5wjVLk1Uo-2BxQxo-2BclHuADTPjyB-2BHeuot83tCUHVe7XU7Z95ZcP=
+hhWTucQS60TA8TBcaunTORLKNZ1D1a5QRshblVkJjzOGFHm9RrZW-2FooSZ5ltdB7Ea0I00VA9e=
+TAHtZ89sB0y-2BTnysOgKBsHdnXVdkepes3-2F5DYl7I2uHejdsP4MonHMOF2kJ98TDqXupQaeQ=
+ZORv9tDTaJF-2F9riBTxv0uZsQ6Y6M9Tc4wfy-2F77UCFqZSgRleLLYJ4nX45RfBUpLi7kM41v9=
+Me9a-2FNcSBh486PYde-2B5aBIvEfhY9lcrAMplF12K9bOvWld741IJg4l7dP7vKr2n9QJuzsJd=
+ETi1kQfk3mAAJYhej-2BijnF3p-2Bfg1N95yYQbEOCfShn8T63G8FNGb1tWr0nzac3pW5uH7-2B=
+MIz9gDo6gRj-2B0poTLlL5fcI8rYYQNq7mfOLstpM9mUZBcELeSlM4v2JSORjzApcuR2zu75ANO=
+wLbawoJlR3itTCBp0YLDRgKyuEVBhbvkvq-2FxtmLcTJKEq6a4G2XnWrWFLHzwBkB6bcqll8hzn=
+Y2RZxPXBHt80WBTVf903Hlt3OIkw4GuVWURsxLpoltHqPMSUSR6CRlSklHlJqCkZEUN7M-2FfXK=
+SvIu1Iinp7l57CDyCRdVQV0-3D"" target=3D""_blank"" class=3D""Unsubscribe--unsubsc=
+ribePreferences"" style=3D""font-family:sans-serif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""http://url6819.hartybrofloorstogo.com/wf/open?upn=3Du001.VN=
+Vuiirl9JTW-2BxIEaqvfnQwisxVxDnm7TYwJssWFM30Po2QigmLl4vYY7D58M5LJr2oQabeu0DQ=
+eXGVjChHdk5E1XJQmjLhGsML7Wr3zM1x6GypTc2XRvH95mXqsyT-2FuRaUlE8aWW5BqC4cOzSXN=
+D6F26CivfG2C2eMxDV-2FnEF0-2BD-2FyraDW5CtSqC5OJ-2FVusCvMmLRp2PW-2F8gBX2rB8iJ=
+5yHJ-2Bz7WS32KBfWY5MIQ-2Bxfbed-2Fb7bnWvneBLC2nPbDtbT25RT04rwZgcNW3mK95uaoDG=
+S0j1949IoAmeD-2B9DdtG-2BnXg95ZzZ40zhSAWZljHVZKqkQAs3380vDpXXxB8kpYX-2Bs9-2F=
+uZcETsS5wjVLk1Uo-2BxQxo-2BclHuADTPjyB-2BHeuot83tCUHVe7XU7Z95ZcPhhWTucQS60TA=
+8TBcaunTORLKNZ1D1a5QRshblVkJjzOGFHm9RrZW-2FooSZ5ltdB7Ea0I00VA9eTAHtZ89sB0y-=
+2BTnysOgKBsHdnXVdkepes3-2F5DYl7I2uHejdsP4MonHMOF2kJ98TDqXupQaeQZORv9tDTaJF-=
+2F9riBTxv0uZsQ6Y6M9Tc4wfy-2F77UCFqZSgRleLLYJ4nX45RfBUpLi7kM41v9Me9a-2FNcSBh=
+486PYde-2B5aBIvEfhY9lcrAMplF12K9bOvWld741IJg4l7dP7vKr2n9QJuzsJdETi1kQfk3mAA=
+JYhej-2BijnF3p-2Bfg1N95yYQbEOCfShn8T63G8FNGb1tWr0nzac3pW5uH7-2BMIz9gDo6gRj-=
+2B0poTLlL5fcI8rYYQNq7mfOLstpM9mUZBcELeSlM4v2JSORjzApcuR2zu75A-2FVOndmlgeq-2=
+BTgujegl7hhFQwpd9-2BNNDoxJf9J53-2By8Jmgfpr2i0Wlm9i7p76bkn7eJhPzLzHM7Y0dCsf9=
+3E-2ByQ-2BW8p3EgkbTqyKDZhOX34EEKQWniMa8fdYOcarKOIyXhzukufLAwqYWUC8H5T5OOQ-3=
+D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !i=
+mportant;width:1px !important;border-width:0 !important;margin-top:0 !impor=
+tant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !im=
+portant;padding-top:0 !important;padding-bottom:0 !important;padding-right:=
+0 !important;padding-left:0 !important;""/></body>
+  </html>
+
+--bb4e228891f37e2c7c3606ec2ab591898b5105de8c5bd00bdab7c0982994--
+","""Teresa Molfino-Jim"" <jim@hartybrofloorstogo.com>",taylorshambaugh@dynamicgamingsolutions.com,2025-03-18,34.225.201.237,United States,en,users/51198369/a29964bd-7a8a-411e-b466-e47d3d9f5116.json
+51198369,LlDM_XtDQn6ir4h7JyrwSw.recvd-69cbc48b94-hnb44-1-67DABFF1-43.38,cHJvY2Vzc2VkLTUxMTk4MzY5LUxsRE1fWHREUW42aXI0aDdKeXJ3U3ctMzg,"Hello Wolf, you have a new message","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hartybrofloorstogo.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=CXpMtNTQfKag420mHPJ/3m9sy3/MGpzeFGZWQCE8sSM=;
+	b=dJ5TTceM6efBy8pUPikHbbUpgDjAysQ2YKiS1eyu1iCZm+zHMZO8262fH9R1RL0JIokU
+	Vs3GYdtIMtjG/c25LZrJ4ERVAlv0yjldeZJw3sk4TVA3LU3V3nc7qXAMPmGzMxVqAehdao
+	SVNElXsLgSJ8RKfwJv3ytfsD7BN52qIYrnLkj3trAezWXXcaaYsGENjSErcrv5DquQAUin
+	l/jYTPXtBMsFENDtfy+FCC6OQa0+37morydV5AYZuncZ05RElgI4bka1YyyCeCKBr4qqTy
+	dPab+eGWfF8ibwXgIS6zIf66qQK1ZRSFIxJHx12KQiOlwBqMpA2eFedHeRKi/Zrw==
+Received: by recvd-69cbc48b94-hnb44 with SMTP id recvd-69cbc48b94-hnb44-1-67DABFF1-43
+	2025-03-19 13:00:33.873857322 +0000 UTC m=+10769932.339340901
+Received: from NTExOTgzNjk (unknown)
+	by geopod-ismtpd-33 (SG) with HTTP
+	id LlDM_XtDQn6ir4h7JyrwSw
+	Wed, 19 Mar 2025 13:00:33.853 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=879fbb308cc2c4cae162c529bb42ef9d0f1d16e9d3a765887605acbc0851
+Date: Wed, 19 Mar 2025 13:00:35 +0000 (UTC)
+From: ""Teams Digest <mssecure@teams3-6-5.com>"" <jim@hartybrofloorstogo.com>
+Mime-Version: 1.0
+Message-ID: <LlDM_XtDQn6ir4h7JyrwSw@geopod-ismtpd-33>
+Subject: Hello Wolf, you have a new message
+Reply-To: jim@hartybrofloorstogo.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51198369=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Eu0XX?=
+ =?us-ascii?Q?pKc3T875t9zME5WU1G4nHav3l5IOGGKn9-9ZBOc?=
+ =?us-ascii?Q?OED=5FwtXSGQInwfyzgZ15Jaru=5FPB4ep97vlSW5gg?=
+ =?us-ascii?Q?VnjwdSBl3hnNmHON4WdXsVc2LZULvRumM4yWXLq?=
+ =?us-ascii?Q?isBF0xigW6FtpKZsRK2xh9JP-9rRS5V6f962lEh?=
+ =?us-ascii?Q?NS8g2AL=5FIp8joIodAYgxmbeu9gUSvQe96tw=5F0FZ?=
+ =?us-ascii?Q?TdAPq-Oao5Bjv8Nsa5jUMOgKWCuY3Sjzi9jrvYL?=
+ =?us-ascii?Q?O=5FjRTljUm4ch8nkY1ZPN2nrsgZ3SOvq8BqflgXv?=
+ =?us-ascii?Q?gaPeRJOD9YnwIU4jGV1qox=5Fmi1p1c6Odw=5F1bQ0P?=
+ =?us-ascii?Q?trcVgSVOhNao7pdYMPVqOYAtY98MImzszXjz74g?=
+ =?us-ascii?Q?RvrIYUH46iatedR7ukrWIjBOwK5=5FWPcRPkrsdv7?=
+ =?us-ascii?Q?99Qv-86uULPo0zWFV7XLBesWnBrOakk9AqInNWN?=
+ =?us-ascii?Q?fs2mGGeoEL3q31T2b5UJdtDs-DZomZnV7bYkfAd?=
+ =?us-ascii?Q?MQ5oHTW50druJEYiYqq8ZlCvcC3sqQJ17ik0rXU?=
+ =?us-ascii?Q?rBS6oWZi2ryWc6qlvBxXxSE3xK2Ma78z8YG=5FKVF?=
+ =?us-ascii?Q?HYerWILKmNz0eLayFF4BsvY8JWXKCU8AtHnFOPy?=
+ =?us-ascii?Q?2RS-xU=5Fg5bBrUee06TV3WKUbsrXks4OOIUR6Ezt?=
+ =?us-ascii?Q?Vz8PSQh4sL6uWZbZpWvWOvdH30BzG7iaRezdbKT?=
+ =?us-ascii?Q?JETCGr9oZnYXobxtehzceDHanDR-f7JsyS4YtIo?=
+ =?us-ascii?Q?ikC2WgrHQJuDhdRcTmM=5FB5KMjN5ek=5FWCrTrd-eF?=
+ =?us-ascii?Q?rD=5FEREUAJr=5FayHB3cxlt7Ttvn-KKGeELGZOT-uP?=
+ =?us-ascii?Q?e5vSMGqnLB7=5Fj2=5FbCEQ49D7W8bPVQqWjwurZPyZ?=
+ =?us-ascii?Q?AUzhqKCimqEaFTFWF6OQ8TC4SnV9xmVGkW37xB=5F?=
+ =?us-ascii?Q?NcBOGaEwwIDGZaU=5FdPX-s9RUWmM0tElPhq9Ayi-?=
+ =?us-ascii?Q?SYvU5Wf2M1dxeM4AUzGnX0yrYBXdBHa=5FOEAwj3T?=
+ =?us-ascii?Q?7fspG7JlbM0-WimcYq7Gv4ZQ68NCC0IwIgM9W53?=
+ =?us-ascii?Q?cidK4eB8lCRnTeOu4lRr8YJgf1x1r=5FizLCQ-Ijp?=
+ =?us-ascii?Q?bSxys-jQRHZHCcxeMqYC8vZpfgLfTtE9zGh9cYy?=
+ =?us-ascii?Q?8m9yWOZsAQy19f5W2eGoQGbZ3PwVIXqmZTa2rk5?=
+ =?us-ascii?Q?tn6NouWejhWCkNZEtSy47VwVE0ONIwOOwknjlmQ?=
+ =?us-ascii?Q?mXN=5Fgv1eJTmI1kLJkaVi9Y=5FQEoMKqdanAnn7hmM?=
+ =?us-ascii?Q?o6vUg=5FEDHxsUqq27vAfntpFZ5jYmtPQjYJvvgVC?=
+ =?us-ascii?Q?sgLV=5FX=5FGoG53M6Lvq037GL-txEpHBM67IQ2S8y4?=
+ =?us-ascii?Q?R0icrLMbh6LH6UiVW29TIG8KFjl-jrQ8I4Vdbj8?=
+ =?us-ascii?Q?Q8pMsN6-CkNqAH15i-5hhLyVCr9PsO6O9VHBX97?=
+ =?us-ascii?Q?1hPAH7-fkqIh=5Ff0gcb6733iuayAdIpm2tQok3aZ?=
+ =?us-ascii?Q?nMcnTtI6SvaRTDSdTRYNA8mosE3Bv4y2hSuNXSz?=
+ =?us-ascii?Q?scFPLrDusp6jDieyGFygku4P19SParNlLSY0PHB?=
+ =?us-ascii?Q?3uCA=3E=2C=3Cmailto=3Aunsubscribe=40em8707=2Ehartyb?=
+ =?us-ascii?Q?rofloorstogo=2Ecom=3Fsubject=3Dhttp=3A=2F=2Furl6819?=
+ =?us-ascii?Q?=2Ehartybrofloorstogo=2Ecom=2Fmt=2Fu=2Fu001=2EWV8Oa?=
+ =?us-ascii?Q?=5FKEjlvZsqaD-YEHETx5n6wdRb0iSXYUjYngea4=2F?=
+ =?us-ascii?Q?4ex=2Fu001=2EojBggvB3=2Fu001=2EKS0SkRPB6yS1mLaL?=
+ =?us-ascii?Q?ysd4qcnfmTlEHNppfQmpB63UiX3m9cI3QiR7tZK?=
+ =?us-ascii?Q?0oK0Jb3xGwovTa1aVa9BGqIu0spaJwjQdefGWj-?=
+ =?us-ascii?Q?2FNEHfs6kFZSP2P7EGd-2BCyQ1ch0OpkVPGWnI9?=
+ =?us-ascii?Q?DAyagrpLhQju3otaGgPlus71n74CrE-2BCso6uH?=
+ =?us-ascii?Q?xcDwr3LVu9ESqUeoVYQXjbVTYPVEPM3c4drcMYS?=
+ =?us-ascii?Q?XpBZqXx8rwG2UcA8LJmuR3IX1gsUmd6vzevpVvV?=
+ =?us-ascii?Q?WZHE41X4C5Tu744-2BfzSwb4-2BU38IJy54Qe-2?=
+ =?us-ascii?Q?FOQ09S-2FHVKHz-2FTdW68mVu7O7ykzHsSp6r02?=
+ =?us-ascii?Q?kbxVTU9IVC3hSvV6puMmqZtKEJFsFtamDnyy-2B?=
+ =?us-ascii?Q?o2grP-2FaByP2S5A-2BmsQRyUao2y8t2Ut1-2FW?=
+ =?us-ascii?Q?Z4zompCYCCqfzgNwOAPUEaTpOhgAfSooAWBygb2?=
+ =?us-ascii?Q?JXFZnoTA-2BqWI5GHb3bMi6ALMQsWcY2SwZypHd?=
+ =?us-ascii?Q?GXTOW7oVMi2J6-2BSuL-2BOmoXuABDrrJHinObX?=
+ =?us-ascii?Q?WWugdRp3u3RmR3URitZoVlpEfDovsEmH5TJMhDZ?=
+ =?us-ascii?Q?GlZ2GliKkDCjfhz7fNh2Bh69oBnQUOyLUIAnL4l?=
+ =?us-ascii?Q?vWRW-2Fjxnw-2Fcyv12-2B5XPT3Z3XGcBazDigT?=
+ =?us-ascii?Q?szTJpGkHs0p-2BDAuOxgkYf7uDn-2FwKeUVfvhs?=
+ =?us-ascii?Q?5-2FieqsBqdebKjlNcSrekaWTH7IajtgCkb8RlY?=
+ =?us-ascii?Q?6W7eKOvFxHx-2B-2B1u4-2BPBXkmoLl5CJgDjMK?=
+ =?us-ascii?Q?izi0h-2FGIWs-2B1bHqaapeaXmmDiQ7uiE5d0AE?=
+ =?us-ascii?Q?4hJTZBpTLawIQen2l-2FOosYbFhfVJYSV4PQ9dR?=
+ =?us-ascii?Q?njGuj6KiL8ID5m8B2Z-2BB7xwTGhJrRBk6DplZ8?=
+ =?us-ascii?Q?pKfA1pYGylTvgQB51oGzvteZbowM6KYn6v4UluK?=
+ =?us-ascii?Q?cqHsmMIdrbHktIGEexOK4BO42VlpsqzfQdf28Hj?=
+ =?us-ascii?Q?b9trP-2FeFt47QrA15Cp6AEpe5Wnvq7aq3MFWRw?=
+ =?us-ascii?Q?6K-2BUWZHla-2FQ57uR-2BYA36xhcJdj9=2Fu001=2E?=
+ =?us-ascii?Q?Wfpmnpr9=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ec2nVC=2F9fLrXm3X2Ch=2F5xVD0TvDRDf1DVLwn2onzUl5CRIPH+vdyu5=2Focy?=
+ =?us-ascii?Q?2Ce59FJklxsOYI+GJBrAUdbBg0CbqqPu3AQocJH?=
+ =?us-ascii?Q?L=2FnwNBraV0fB0p3hIIXtXFl530SjTdxNypjQgDK?=
+ =?us-ascii?Q?78Y7rcSIK9PVoo56Q=2FfZc=2FkmMjJkRTShDyJA72f?=
+ =?us-ascii?Q?pM9=2Fxo0B6qLxvFybBZeFQ=2F7lBdICTHRTF3SsAGv?=
+ =?us-ascii?Q?VqDuY5yh2iIUh27ZOXWgv54lVBNZ8KYxBACoSVq?=
+ =?us-ascii?Q?V9GIFW+bcDg3Pd+OsOP2jVkaXUy8NYJDj+pCF8P?=
+ =?us-ascii?Q?JVuyfaEI=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOlQVpcQf=2FcyGMXmCvFoekmPB0b?=
+ =?us-ascii?Q?TjJ6WtJwxaMIWWZfPCPe=2F2MuTWTSe4n5OVf+Uvw?=
+ =?us-ascii?Q?KnMMTHwYRZ7f2zcVyJE0zfggruGzg4INTV4FIQu?=
+ =?us-ascii?Q?gK+XZfkjncG337FD2OWWBNX0JGisCXjLc4igS=2FA?=
+ =?us-ascii?Q?C2gwxEa8sIXV51g9=2FO44XQoMU9u8Ep3ER7+EllK?=
+ =?us-ascii?Q?OgyUkiQst2ZnRcJ9QTIoQjeguzAaRIW6KSc0dwy?=
+ =?us-ascii?Q?iAyZkOdDpZCctPXRG8xjh6WOg84JjHSDnJREEPb?=
+ =?us-ascii?Q?0whVOAhSo17QJgb+HzENfYZTTY3AGOi+rfo87eA?=
+ =?us-ascii?Q?fJrriVVpuahH3AQYpLFmhwol08wK56RJn7gUNFj?=
+ =?us-ascii?Q?W94B4du4Tvqx=2FP4mruakZct2fd4sWA8x72MsMIn?=
+ =?us-ascii?Q?ukwiVmM1pVGM6QC5H2P6n7zizU8WqUyG7fEq7RH?=
+ =?us-ascii?Q?QLk9F4G1xh1uUzxd+FhC=2FqXUF0ALRb7byN4pqhM?=
+ =?us-ascii?Q?g3umdZNC24wQvn5=2FAjNK7OvsHHqhRCUvpCNQ3KE?=
+ =?us-ascii?Q?T52tbIsUHCuo=2F2QkfXEUvK3KMiAwNwKSP12knJU?=
+ =?us-ascii?Q?VbR3pod0rH9D+rcc+ciqDUqYGJcGNzamCNiEDT7?=
+ =?us-ascii?Q?4L+1lT6O67nnjACVHXUBKGbakE0WYtKxNhqhbHb?=
+ =?us-ascii?Q?vBT7X8ssi?=
+To: Wolf Prandelli <wolf@wulfenbear.com>
+X-Entity-ID: u001.2rJOZMpHU5zC7xUzYR6IQQ==
+
+--879fbb308cc2c4cae162c529bb42ef9d0f1d16e9d3a765887605acbc0851
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+M=E2=85=B0cr=CE=BFs=CE=BFft Teams
+
+*POC:* Wolf Prandelli | Chief Financial Officer *Date:* January 18, 2025 *F=
+ile Type:* PDF *Transcript:* Good morning Wolf, as earlier****WulfenBear Me=
+dia *****processed. *File Link:* https://www.serv-outhv25-teamscenter.com (=
+Copy and paste into your web browser ) or click the button below.
+
+*Preview | Print a copy ( https://www.serv-outhv25-teamscenter.com )*
+
+Install=C2=A0M=E2=85=B0cr=CE=BFs=CE=BFft Teams now =E2=9A=BF
+
+=C2=A9 2025 M=E2=85=B0cr=CE=BFs=CE=BFft Corporation, Phoenix, Arizona, Unit=
+ed States .
+
+Read our privacy policy.
+
+Confidentiality Notice: This message has been sent as a part of discussion =
+with the recipient whose name is specified above. Should you receive this m=
+essage by mistake, we ask that you inform us at your earliest possible expe=
+rience. In this case, we also ask that you delete this message from your ma=
+ilbox, and do not forward it or any part of it to anyone else. Thank you fo=
+r your cooperation and understanding.
+--879fbb308cc2c4cae162c529bb42ef9d0f1d16e9d3a765887605acbc0851
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<div class=3D""dPKNh"">
+<div id=3D""editorParent_1"" class=3D""gdBtD"">
+<div class=3D""dFCbN tJ1L7 z8tsM DziEn"" dir=3D""ltr"" style=3D""user-select: te=
+xt; --link_bgcolor_regular: #f4f4f4; --link_bgcolor_hover: #edebe9; --link_=
+bgcolor_leave: #f3f2f1;"" tabindex=3D""0"" contenteditable=3D""true"" spellcheck=
+=3D""false"">
+<div style=3D""font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, =
+Calibri, Helvetica, sans-serif; font-size: 12pt; color: #000000;"">
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+<div class=3D""_x5hd"">
+<div style=3D""margin: 5px auto; padding: 25px; border-radius: 0px; max-widt=
+h: 687px; border: 2px solid #cccccc;"">
+<p style=3D""text-align: left; margin: 0px; font-size: 11pt; color: #707070;=
+""><span style=3D""font-family: Calibri, sans-serif; font-size: 14px;"">&nbsp;=
+</span></p>
+<div style=3D""background-color: #6365a2; margin: 0px; padding: 16px; max-wi=
+dth: 687px;"">
+<p style=3D""text-align: left; line-height: 22px; white-space: nowrap; margi=
+n: 0px;""><span style=3D""font-size: 14px; color: #ffffff; font-weight: 600; =
+font-family: Calibri, sans-serif;"">M=E2=85=B0cr&omicron;s&omicron;ft Teams<=
+/span></p>
+</div>
+<table style=3D""width: 594.2px; border-collapse: collapse; border-spacing: =
+0px; box-sizing: border-box;"">
+<tbody>
+<tr>
+<td style=3D""background-color: #f3f3fe; padding: 1.5pt; color: #707070; wid=
+th: 78px;""><span style=3D""font-family: Calibri, sans-serif; font-size: 14px=
+;""><strong>POC:</strong></span></td>
+<td style=3D""padding: 1.5pt; color: #707070; width: 505.2px;""><span style=
+=3D""font-family: Calibri, sans-serif; font-size: 14px;"">Wolf Prandelli | Ch=
+ief Financial Officer</span></td>
+</tr>
+<tr>
+<td style=3D""background-color: #f3f3fe; padding: 1.5pt; color: #707070; wid=
+th: 78px;""><span style=3D""font-family: Calibri, sans-serif; font-size: 14px=
+;""><strong>Date:</strong></span></td>
+<td style=3D""padding: 1.5pt; color: #707070; width: 505.2px;""><span style=
+=3D""font-family: Calibri, sans-serif; font-size: 14px;"">January 18, 2025</s=
+pan></td>
+</tr>
+<tr>
+<td style=3D""background-color: #f3f3fe; padding: 1.5pt; color: #707070; wid=
+th: 78px;""><span style=3D""font-family: Calibri, sans-serif; font-size: 14px=
+;""><strong>File Type:</strong></span></td>
+<td style=3D""padding: 1.5pt; color: #707070; width: 505.2px;""><span style=
+=3D""font-family: Calibri, sans-serif; font-size: 14px;"">PDF</span></td>
+</tr>
+<tr>
+<td style=3D""background-color: #f3f3fe; padding: 1.5pt; color: #707070; wid=
+th: 78px;""><span style=3D""font-family: Calibri, sans-serif; font-size: 14px=
+;""><strong>Transcript:</strong></span></td>
+<td style=3D""padding: 1.5pt; color: #707070; width: 505.2px;""><span style=
+=3D""font-family: Calibri, sans-serif; font-size: 14px;"">Good morning Wolf, =
+as earlier****WulfenBear Media *****processed.</span></td>
+</tr>
+<tr>
+<td style=3D""background-color: #f3f3fe; padding: 1.5pt; color: #707070; wid=
+th: 78px;""><span style=3D""font-family: Calibri, sans-serif;""><span style=3D=
+""font-size: 14px;""><strong>File Link:</strong></span></span></td>
+<td style=3D""padding: 1.5pt; color: #707070; width: 505.2px;""><span style=
+=3D""font-family: Calibri, sans-serif; font-size: 14px;""><a href=3D""http://u=
+rl6819.hartybrofloorstogo.com/ls/click?upn=3Du001.YHZLwesNi3L-2FXuS7UI4PzAM=
+GibULrclx0CsJAHPdkc3zy55EMyAUmUvLFryITDpaikwmKn7GI-2BG4hF99IHJueg-3D-3D2UUD=
+_iXL7DSAnz9bOcrW3dKkhkUgyo2k7EMX-2BccsvC6tkDmKcsZdtq8hNY-2BrBw8gEY7og533t79=
+xMfHlZUR7kiNE3jaxndmuPKAC3F1lXtgRyzkHdszi7k2tAqeFmM1UnzrlmYgsLQkZTezt1Ywprc=
+c-2BbLGq-2FZ-2Fdlo8yE6cUgaocTA0DvNwOAsIqenHyiyLj8a8mS5xlCJCgXqIFBXyrc5kuBJa=
+342t3HZCsEw-2B1ZzHYZche8KayqIpBcHXObhdJfQasZDu5khRr0bvzTYllAExJJJbaUZncmcuP=
+yXcOnNJViCLPnfetIRq1JZcuWY9qaoVoWYc5nznd1fTD4flW3BelVa4-2B6UH-2B4W-2BkR9BIa=
+KbNWY5-2BihVilDgORGGsHH-2FpjLIUoOVLN2Y2ySomklfqKLIP-2BIiUtnDmW-2FXxcNjDnMuG=
+2sNrKi2mn3Ed7vuh7nCp0rvlUf9qxkLmSOGAzQIL7vDTLDucLeUqAF7ARsMkcHLg83-2FLtM1nv=
+Wl60z0hMxf9cO2ZvyN9MBe4QaOCVC7dQzGocEANPN2IcGYYSzJvHVvbYUaWcN4ahfiG1oyZ3QzY=
+Me0AJN5rn99c3-2FVzVpTrX3abnF-2BdQUbi6q8zItnwdGv-2BEQv-2BSZS-2B1GYr9QhqFkR6x=
+r1mo1SqgA23blQsrkF7ERzNKNppWo7gR8XMTHsWHi9-2BqlXsmqa-2BDgssoN2N-2FEnmB2S6j5=
+b6GoJkVvvaJWyCOpEMw8lmIok49w-2BMawoD1xWSYGm8A5q6TWfgUqLIBTI-2Fz1HpArW1EaTnP=
+E4knY9sucprFG3RSWVL5plzg985oT42JDH04RyLwLQMLceLm6mgH2qFeSQDA1r0mu8rtya5kwpi=
+-2B9vqT-2F-2Fs859EcM1VFNIsv7sYxRoNI0lAzuJoLKos-2FeUvsgcMKmIB-2Bi1YpV5NHdSqD=
+LQjOKG8-2FDaof-2FYuNJ3UUqnr0QCgCfmMDOybpLXE3xxZ8"">https://www.serv-outhv25-=
+teamscenter.com</a>&nbsp; &nbsp;(Copy and paste into your web browser ) or =
+click the button below.</span></td>
+</tr>
+</tbody>
+</table>
+<span style=3D""font-family: Calibri, sans-serif; font-size: 14px;""><br /></=
+span><span style=3D""font-size: 14px; color: #ffffff; background-color: #636=
+5a2; font-family: Calibri, sans-serif;""><strong><a style=3D""color: #ffffff;=
+ text-decoration: none; padding: 11px; background-color: #6365a2;"" title=3D=
+""Go to WulfenBear Media  teams ."" href=3D""http://url6819.hartybrofloorstogo=
+.com/ls/click?upn=3Du001.YHZLwesNi3L-2FXuS7UI4PzAMGibULrclx0CsJAHPdkc3zy55E=
+MyAUmUvLFryITDpaikwmKn7GI-2BG4hF99IHJueg-3D-3DNYC7_iXL7DSAnz9bOcrW3dKkhkUgy=
+o2k7EMX-2BccsvC6tkDmKcsZdtq8hNY-2BrBw8gEY7og533t79xMfHlZUR7kiNE3jaxndmuPKAC=
+3F1lXtgRyzkHdszi7k2tAqeFmM1UnzrlmYgsLQkZTezt1Ywprcc-2BbLGq-2FZ-2Fdlo8yE6cUg=
+aocTA0DvNwOAsIqenHyiyLj8a8mS5xlCJCgXqIFBXyrc5kuBJa342t3HZCsEw-2B1ZzHYZche8K=
+ayqIpBcHXObhdJfQasZDu5khRr0bvzTYllAExJJJbaUZncmcuPyXcOnNJViCLPnfetIRq1JZcuW=
+Y9qaoVoWYc5nznd1fTD4flW3BelVa4-2B6UH-2B4W-2BkR9BIaKbNWY5-2BihVilDgORGGsHH-2=
+FpjLIUoOVLN2Y2ySomklfqKLIP-2BIiUtnDmW-2FXxcNjDnMuG2sNrKi2mn3Ed7vuh7nCp0rvlU=
+f9qxkLmSOGAzQIL7vDTLDucLeUqAF7ARsMkcHLg83-2FLtM1nvWl60z0hMxf9cO2ZvyN9MBe4Qa=
+OCVC7dQzGocEANPN2IcGYYSzJvHVvbYUaWcN4ahfiG1oyZ3QzYMe0AJN5rn99c3-2FVzVpTrX3a=
+bnF-2BdQUbi6q8zItnwdGv-2BEQv-2BSZS-2B1GYr9QhqFkR6xr1mo1SqgA23blQsrkF7ERzNKN=
+ppWo7gR8XMTHsWHi9-2BqlXsmqa-2BDgssoN2N-2FEnmB2S6j5b6GoJkVvvaJWyCOpEMw8lmIok=
+49w-2BMawoD1xWSYGm8A5q6TWfgUqLIBTI-2Fz1HpArW1EaTnPE4knY9sucprFG3RSWVL5plzg9=
+85oT42JDH0A7aqhOA1cXP9Obm-2BsWDYh378QsdSlJ9uyjUS6pEjtgyCVTPSyfv-2BGqC-2Bo0f=
+tnCJ3yL-2BcvSU9XN7LVz0VSB05lK2tBNtZl5RxQ4MA7lfAH2RjofIfQWeLeTWpuEdhDhmzFE2d=
+XDynKF57K3oyXOdtg"" data-auth=3D""NotApplicable"">Preview | Print a copy</a></=
+strong></span>
+<div><span style=3D""font-family: Calibri, sans-serif; font-size: 14px;"">&nb=
+sp;</span></div>
+<div style=3D""margin: 0px; padding-top: 24px; max-width: 738px;"">
+<div style=3D""background-color: #f8f8f8; padding: 16px;"">
+<p style=3D""text-align: left; line-height: 19px; white-space: nowrap; margi=
+n: 0px;""><span style=3D""font-size: 14px; color: #212121; font-weight: 600; =
+font-family: Calibri, sans-serif;"">Install&nbsp;M=E2=85=B0cr&omicron;s&omic=
+ron;ft Teams now =E2=9A=BF</span></p>
+<p style=3D""text-align: left; line-height: 19px; white-space: nowrap; margi=
+n: 0px;""><span style=3D""font-family: Calibri, sans-serif; font-size: 14px;""=
+>&nbsp;</span></p>
+<p style=3D""text-align: left; line-height: 16px; white-space: nowrap; margi=
+n: 0px;""><span style=3D""font-size: 14px; color: #8e8e93; font-weight: 600; =
+font-family: Calibri, sans-serif;"">&copy; 2025 M=E2=85=B0cr&omicron;s&omicr=
+on;ft Corporation, Phoenix, Arizona, United States .</span></p>
+<p style=3D""text-align: left; line-height: 16px; white-space: nowrap; margi=
+n: 0px;""><span style=3D""font-family: Calibri, sans-serif; font-size: 14px;""=
+>&nbsp;</span></p>
+<p style=3D""text-align: left; line-height: 16px; white-space: nowrap; margi=
+n: 0px;""><span style=3D""font-size: 14px; color: #8e8e93; font-weight: 600; =
+font-family: Calibri, sans-serif;"">Read our privacy policy.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span style=3D""font-family: Calibri, sans-serif;"">&nbsp;</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif;"">Confidentiality Notice=
+: This message has been sent as a part of discussion with the recipient who=
+se name is specified above. Should you receive this message by mistake, we =
+ask that you inform us at your earliest possible experience. In this case, =
+we also ask that you delete this message from your mailbox, and do not forw=
+ard it or any part of it to anyone else. Thank you for your cooperation and=
+ understanding.</span></p><img src=3D""http://url6819.hartybrofloorstogo.com=
+/wf/open?upn=3Du001.EPhqcEW-2BMc0VfOCVrZhk4wR5WZ4ogjgGG7sndFkPqdlCZtY1nUtSg=
+5Jevj1XnSmovPyvbRjq2-2BwaMmbYBus672AE61FMhf-2Bv4VL0q1NxpDS2LUbGA4QbKFsH8pKk=
+Ju2jHzsiQm8nPtplD2gfp1m4X06caVh-2BFV8P4bcS5GvygNIdE1KaPEMJ-2BqOpZBvhueAWfay=
+OOZxiYVtwTsoQQKLXBdKmf78yPDUjpRdPVTwqp8cc5BiCThY4zEtYV-2FTZJHkYKGrXZPF7w4Ey=
+ft1ZR1n4-2BbBN7h5oG6cREH-2FZPzuKY-2FCKfkJytXex2CRsTGDIsN9V2ZGtxtgcmFQJbohMI=
+rh9Zh7310jf8geDLrXjV4hYfVb28cDGDTSyndImu9vxhlk6xZQSb4HMpsgNMcn5rt4QiLo73uTD=
+LjW4-2FWGNbK57OoB-2Fo-2BV-2FE-2B6hB4FWZf7rd16PS18Vnrc1u2QcfElP38MCPYEXlMTYd=
+VSEu1C5-2BkSnxpmtU7ce0TgfS0aaNbOQetghQL4cLQUc-2B3CRmGEe8bcrOm73cgoeDuP9Kgyw=
+VTOG7WyVS1je7CLojABv8WNKboLgNbRc0JFW7s3Ybs0VAvUbv2-2BqvirVrFW5Lc-2FWbICwXNn=
+Bm-2FNJZMyXlJjeXBHL71VU5flUsa2A2kXQGuVrOdMmnWwfwzFLV0IaQO7JAdnz882GkDLyeBC2=
+JkCK2wfI4iwzKqW379X6-2BhK-2FFwQB-2F-2FHw8ZEImtM7dJcvboTA-2BrH3iqdEGhHN9q83n=
+ds2hLaqLW5m4GAHpgU1NiXT6jtU4t64Z38PWfAJkqmYv1ybvDKw2pEqkD-2FPvoiz1wP16u932G=
+LasC6khP4-2Fss6UNjY4idULuYb4gbKUH5kDnxyt6TsZIFF9yGU1-2BWlWZLCbxwdOUoyokIkyT=
+HIxiKRlSJd4HbwWG-2BgACKhmPAQSPuDpVQNxwNIkp5AhtBMjQYQxA3I-2B8zX6"" alt=3D"""" w=
+idth=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1=
+px !important;border-width:0 !important;margin-top:0 !important;margin-bott=
+om:0 !important;margin-right:0 !important;margin-left:0 !important;padding-=
+top:0 !important;padding-bottom:0 !important;padding-right:0 !important;pad=
+ding-left:0 !important;""/>
+--879fbb308cc2c4cae162c529bb42ef9d0f1d16e9d3a765887605acbc0851--
+","""Teams Digest <mssecure@teams3-6-5.com>"" <jim@hartybrofloorstogo.com>",wolf@wulfenbear.com,2025-03-19,44.214.78.206,United States,en,users/51198369/7c163704-a956-43f8-a809-83c70911bad0.json
+51198369,_gXnPERjS_OM0Yjpbk50EQ.recvd-69cbc48b94-gnhn4-1-67D96E60-3.1,cHJvY2Vzc2VkLTUxMTk4MzY5LV9nWG5QRVJqU19PTTBZanBiazUwRVEtMQ,Thank you for your trial,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hartybrofloorstogo.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=IVoQXwfIkkqorWAN5TPdBW0Rfjm+G2BBSbJkbsXhxW8=;
+	b=DKeCro2mdyaWaoyobfL2cpDMI2LPiWlHv9cJt3wGqXNClqcUYwU/kF+z1WxyureJkeEJ
+	zJbiuElN7nXYZ0MAI9/+0iVqYSkzOnDn38enAs6LT/DHWtfprQRsIbH7GCHx+fmB22vHpf
+	WTmvC7qwMqfcNVg3BkVIJZWAnA4K8HxpKjSRFNZjkQ2uu2kHibTWhVMyiqSU/WEPvaJtIl
+	aqMoUb+UUyU904OYvUx7cVjWnfF2KyJIqhOMPwlhCo57eqKqUopcLROh4dApfF1IHbMmIT
+	ftYTI1g5QfwcvCe/I+onVyyRiGSU9zRf9UZobGlUIZqici/lNk7cdTCTM32ADU8A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=IVoQXwfIkkqorWAN5TPdBW0Rfjm+G2BBSbJkbsXhxW8=;
+	b=W4gJHXtUfX/JgVqWR05GubBTKZMzNcMbbo9LekTvRCBTO/XCnSfB/xFcIPr9YFKhZ8FB
+	eZDbSBWWlksPirl9OWH5OIO1eOh7y/5S7UC0BFHNsrPENVCJsULKmWTGJ7rhbrolfz4YNS
+	3gEyUQPY1wWCsdUrRqVMIklABIKE/6hC8=
+Received: by recvd-69cbc48b94-gnhn4 with SMTP id recvd-69cbc48b94-gnhn4-1-67D96E60-3
+	2025-03-18 13:00:16.021578603 +0000 UTC m=+10683436.739597376
+Received: from NTExOTgzNjk (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id _gXnPERjS_OM0Yjpbk50EQ
+	Tue, 18 Mar 2025 13:00:15.970 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=475f191b687695f7e76985ff0f23d708df0b910229dedd7d5f149f572697
+Date: Tue, 18 Mar 2025 13:00:16 +0000 (UTC)
+From: Teresa Molfino-Jim <jim@hartybrofloorstogo.com>
+Mime-Version: 1.0
+Message-ID: <_gXnPERjS_OM0Yjpbk50EQ@geopod-ismtpd-8>
+Subject: Thank you for your trial
+Reply-To: jim@hartybrofloorstogo.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51198369=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Eu0XX?=
+ =?us-ascii?Q?pKc3T875t9zME5WU1G4nHav3l5IOGGKn9-9ZBOc?=
+ =?us-ascii?Q?OED=5FwtXSGQInwfyzgZ15JpYHWxa-d8x7yI7=5FYgP?=
+ =?us-ascii?Q?vDQyzFaHmf4H01Y-N5mXu4QDX3Ym1qA6-HQuTr=5F?=
+ =?us-ascii?Q?oOrivSrtBVsknFgaDTBP1MfjncSPPdm2hUOYNdx?=
+ =?us-ascii?Q?R57XwZsUk3TunV066P3nF1gP5-73kUULsrJnFEb?=
+ =?us-ascii?Q?fVYdAM39JfUPgE4ExRTN3kIxlARxOgKCJmTuGNW?=
+ =?us-ascii?Q?K6FVet7SQ6YWu36xLKrPIQNyTKjn8kwF9xqOnKe?=
+ =?us-ascii?Q?bJH3PvlddeOxuDxHPWJirWtTwFQwDv-dFxCNRTu?=
+ =?us-ascii?Q?E5gFvjf6CC5PKmg5IC-VME4UwQz6Xv8CLtGKZIn?=
+ =?us-ascii?Q?89yVPUmPBGI9EqNycURrKGhvcyFzPWc0EBpFk=5F2?=
+ =?us-ascii?Q?83TWX3c0dP7tVpQMiArZAzgzjOY5fL7ZNXbzBOH?=
+ =?us-ascii?Q?xi2zmdX=5FnomLmvQf7uf=5F5U9zttaf8irQQ=5FA8c2g?=
+ =?us-ascii?Q?KGDQkIXluAEMaE83dIMAH6xAShZIaHYQj=5Fauekh?=
+ =?us-ascii?Q?kGc6hE=5FlhGyi80cWcEmIHMao9JznFOW=5FULqWKBc?=
+ =?us-ascii?Q?5FhSdQJOOz3oHodgRG9=5Fq71uMUsVlbdYUs8y9Hn?=
+ =?us-ascii?Q?xQUykhhjctT0G5LpcbzVuxUOzFFxuIofXrQogO-?=
+ =?us-ascii?Q?UoZB8sVkfSc9nrTSGGdCWG9anmdoUM2ON065TXe?=
+ =?us-ascii?Q?uqLeGr64n93UUd=5F8bepRGzJqpbBQqAoe=5FOrAswR?=
+ =?us-ascii?Q?1iSf5PEmJqoC8SqVyT3WYVfx2yBLt7MikdZuDDg?=
+ =?us-ascii?Q?AdWB6QAjLF4Ik3WRwaeToT0O=5FS8Y0V0mnKEKS-N?=
+ =?us-ascii?Q?2bRMInBu1C5rTh=5F6VPzyOoo3aRjU6=5FgOxxI6nHo?=
+ =?us-ascii?Q?9wbfocxzefcICA7XNklKcSe2ZHhGYN7C40Zjbo4?=
+ =?us-ascii?Q?yArpdUND23BB9mDjuM7xOloplP0lUOk7xP8IZuD?=
+ =?us-ascii?Q?k1JW=5F32=5Fv7bsQLqZmqn-1476W-ZzlLAEZ24aBds?=
+ =?us-ascii?Q?5yPBJs2pHZmHxh=5F6G7nmHM3EdrBZywWlVJyV0pF?=
+ =?us-ascii?Q?D4uNyxpKvn2p0APwkamIje54f4Q57cW=5FIQU62mF?=
+ =?us-ascii?Q?N5sWEbyV9c=5FlJlU1DpdaB6lRVaY2-7OFsBc=5Fb=5FC?=
+ =?us-ascii?Q?816WdEa3dJ5Vv7TKMF-HAf6woPPzu4-vu-D7Zet?=
+ =?us-ascii?Q?04NxaRdwn0apwDUkIdOCU98WpgFzkkrW3Tmy6tl?=
+ =?us-ascii?Q?I2Izku0l9BChRiS40i1CKh0DhFOrVti3Q=5FGux=5Fo?=
+ =?us-ascii?Q?cKiDlqaNa4R0w15SM9UEJqE2tlhPE3ilPCC5=5FeQ?=
+ =?us-ascii?Q?evNfA4nMqwMk4LPe9qw3FanwN8sA1SAeokySS5G?=
+ =?us-ascii?Q?bwrZ2v5ieZlLEOj9Y9XlDOQPQP3BCxznddOOCnx?=
+ =?us-ascii?Q?q=5FyC=5Fyld80Ba1nbgvoeFOreSvFC9SY1WHqCyOWp?=
+ =?us-ascii?Q?W6NntIsdCCSSQB3-70eUat7yZlundZnnXLqz2fo?=
+ =?us-ascii?Q?SIwGTLVgeEwrWujg3xTOWvywEUNY=5FFc3MxqoxL-?=
+ =?us-ascii?Q?2wIWNxEPRmB0KgQRgx1rwo5mjnj4aXoa3KSaFUc?=
+ =?us-ascii?Q?VreU=3E=2C=3Cmailto=3Aunsubscribe=40em8707=2Ehartyb?=
+ =?us-ascii?Q?rofloorstogo=2Ecom=3Fsubject=3Dhttp=3A=2F=2Furl6819?=
+ =?us-ascii?Q?=2Ehartybrofloorstogo=2Ecom=2Fmt=2Fu=2Fu001=2EkGMEE?=
+ =?us-ascii?Q?u6NdEmoBOGcjtAnOoa2V=5FzzTLrBQIN7u0cG2u0=2F?=
+ =?us-ascii?Q?4ew=2Fu001=2E5kUEeSNK=2Fu001=2Ef910h3acdY48qCJI?=
+ =?us-ascii?Q?hnbXQ-2Fv-2Bi5RUxO5nZLNl1Y2i-2FieKKW-2B?=
+ =?us-ascii?Q?4aC9GzuoconBmOBI13TOrQ23-2B0Kzt4OEP1-2B?=
+ =?us-ascii?Q?aRQesHV9RtMtgmNIhT-2BANuFS8lewEFczIyWy7?=
+ =?us-ascii?Q?QXjPQrVEh1NREIg2WHxCZzQvFOgSkMlDPv26Vq3?=
+ =?us-ascii?Q?eup6aEI4n8Y5AaBnk61u49Hy4ssqOSYnInUGnRu?=
+ =?us-ascii?Q?yUWt-2BoDWT5PfwBTxgfTCeZDhFY5q9QXI490Rm?=
+ =?us-ascii?Q?4UsStL7P-2FcjNPvH-2FFzog2tB2FT-2Fdn-2BH?=
+ =?us-ascii?Q?NbiVOiQd4w7-2B8knldfxmTFy8VB-2BpF1b7fX0?=
+ =?us-ascii?Q?LwgCNw-2Fz2Eusq1NE5aGWwtwcxupcEPGh7Vg5l?=
+ =?us-ascii?Q?e3DG5gJ9jM1axNX5UvvjsTuNO0YJ2WdAQe4mK8b?=
+ =?us-ascii?Q?anaqSTV2wnUy3UBk6bqQDNPSNsTy54QVTB9N20F?=
+ =?us-ascii?Q?2ejy5-2FBvv19W-2B-2FXMouHyfQJA9xsG-2Bsz?=
+ =?us-ascii?Q?Hk9vJXAUxGdZ42GRhlXkYuq3Tmccm-2B1zygdZx?=
+ =?us-ascii?Q?vRwdy4SeIWBG21nQdB-2BcVOX80CQeEBdgGbbWg?=
+ =?us-ascii?Q?Jdnt3PwqxsVHM8-2FPTfrdcoxqiXlTTcRXnQAXd?=
+ =?us-ascii?Q?rDkFIx72jipmkFRXEH-2B2mOOVhiqrgUNMvy0Q5?=
+ =?us-ascii?Q?TaGTibMixzriK7Um2WpTMn0bWzmuNbSJkX1WIqT?=
+ =?us-ascii?Q?F0fYtooP9mkHS2XRiDH1rDcw0hleX7AdyxPQ77N?=
+ =?us-ascii?Q?jdyFKBaxEiRALGefsMJxz9pdBxyhbdUGJH3hidY?=
+ =?us-ascii?Q?isvcEbYx-2BDq8XyDX5GylkmNVQZhi8JdP832TH?=
+ =?us-ascii?Q?A202nD1JyxG-2FFkwyDkASLD-2BrrBqC86Iz6-2?=
+ =?us-ascii?Q?Fr1GmpuDMbhRatwmIV0fAOvrxJzIf-2BfShU0HV?=
+ =?us-ascii?Q?otuP2n3Zab6CiTvpHihBXhunYE-2F4YPCyAg3S3?=
+ =?us-ascii?Q?2f-2BR8WAOkzOiCj-2BBgw680hAWyQY31BUGW9D?=
+ =?us-ascii?Q?EboSpj0xWVogNCqfalAM9XwsVkyQsR-2Fi1cSyt?=
+ =?us-ascii?Q?6g7FcKuifyZ8-2BrQ5mtWNDt0GSQ41VxZg2=2Fu00?=
+ =?us-ascii?Q?1=2E1lNtANqN=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3MKr2BPBuekM7SDLATD=2FcPE7cLmySuwP6X9ZtSwclopDY5AdzHoxrEpzu?=
+ =?us-ascii?Q?VpXtL2pmB7dr80j12QqCKaqhdPcSUmLvSF1vEWS?=
+ =?us-ascii?Q?hVMHI4HLie3UF9dSY2rC2N3hE4nFfazrNXZnWlD?=
+ =?us-ascii?Q?PbOAT0WHQrVzXS2iEjMkrZcaxEEaYZK8yAcOm4O?=
+ =?us-ascii?Q?pkSAdpX1AVavZHgNwzvMHJCgZXNS6TCS097=2FNOO?=
+ =?us-ascii?Q?RMwua4T5PyxtrAaSn3t3HvxAwiA2E0EtiwAGD=2F6?= =?us-ascii?Q?FH53?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOjij=2FfZa7eOrC7fCUUwzp95wK8?=
+ =?us-ascii?Q?6XWo5y=2Fvc10=2FduYdosHb0LNW8+DRVVmHXP6Q2BQ?=
+ =?us-ascii?Q?FekzhG4Iwk=2FYi1RPP4ZRN2ccjBoUbBUI3XVYk4M?=
+ =?us-ascii?Q?kSTvNosHYlKqg00zo+qI2aa61LW1adNG1rjFGYA?=
+ =?us-ascii?Q?18PHgrUbe0N+ZCZ6bIUd1YolCilvIrBD1r+BYmH?=
+ =?us-ascii?Q?iirsi6Q8J9vJO4HEoWdMIeIgy7WnEQTGYoAaPp2?=
+ =?us-ascii?Q?Du=2Fo0a=2FvF3IV521DW6jbsngeBhC72Jq25isxtqJ?=
+ =?us-ascii?Q?PFVCPQvBfLux6BI=2FUrs1EAgSlcbP2bJupH5qKXJ?=
+ =?us-ascii?Q?0Ro6zQNSh10ZguOLzau2KcM=2FUV9dwb4V2d8S2A6?=
+ =?us-ascii?Q?5R6RA+dLWuLJqBmd6yzVX1h8bnzf+Clh9VUAe6J?=
+ =?us-ascii?Q?2C40GJZT52SyN5wNECzeNmA3ZOAp=2FLJq4Ipc=2Fmo?=
+ =?us-ascii?Q?fdA9TPXjc0MFSD8pIsnVC5RbuA2Kc5qRsW1ZceG?=
+ =?us-ascii?Q?Tc1IyRnLl8sfWw60mCJx6hRRw=2FZf=2FEZMf8OTG6D?=
+ =?us-ascii?Q?LghfuFEpwtdep+Nvk4SIOesDwBh5FSxcrS0QNpx?=
+ =?us-ascii?Q?PvrGODhDkYvOFEgqUdzwfPKAgbZABuogOP9LU3n?=
+ =?us-ascii?Q?RGPMpven9I+zCoJJKe=2FTl94GHnlrYtGR5+aBq71?=
+ =?us-ascii?Q?SJR48KjE6?=
+To: Teresa Hanner <teresa.636@yahoo.com>
+X-Entity-ID: u001.2rJOZMpHU5zC7xUzYR6IQQ==
+
+--475f191b687695f7e76985ff0f23d708df0b910229dedd7d5f149f572697
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hello Teresa,
+
+Just a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 P=
+M.
+
+Please reply to confirm this appointment. You can call our office at 646-99=
+1-6253 anytime if you=E2=80=99d like to reschedule.
+
+See you soon!
+
+HARTY BRO FLOORS TO GO
+
+5011 E Desert Vista Trail
+
+Cave Creek, AZ 85331
+
+646-991-6253
+
+Teresa Molfino-Jim
+
+5011 E Desert Vista Trail , Cave Creek , AZ 85331
+
+Unsubscribe ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?upn=3Du0=
+01.e5AyR26hcwPNuZAFwIzu5voGVhd67P9svtXvnaQqwHidKRCVOS913UzRqnaIT2vDbjWEuULT=
+JOUH7SA-2Fmc-2B-2FzeSs6fxbUjLcTnIqPJDBwcfL6dH147hNLnDOHCfe4nkuI02AxFfWaIlb9=
+JLx-2B6c-2BqsPcLXvTKSGmPQAL6HmwQQRExff4Qmxd6Tj3SPBT3eS99nSqwwHdTTSI9hsUCLtf=
+Wem-2BmuuX0B6d7zY1raS6IVMNyx083-2BhaWPY-2FiPscA10WApgyctcl-2FIKoMxJLlJN7kHh=
+n-2B6vxyWkfNpWHkLyCB8tAGP23lyaoc4Pfo-2BX79UhpYZFLrikvSqI-2BtRvA9koVUurQCldZ=
+3Li7c3U-2Bm4kAwjTplAZd5YlPFG6dc7JCqLqS964HQUCGzw21K0nyYrOpC1TUJjPq-2BOmvcFk=
+VJGCByFrIQSAsok4dL4-2F6Z9ZxaFjjfGpfj9J6sRL1Cuq0owKv9tjl0oothoFD-2FkkCvEg5fA=
+rUd5gI10DQCZZeHoYIKCpZwzjV96blLqK1qVHQXqXmaF7icIfajcwZwYtM0nEU0-2FcWAfey8qT=
+iBTXuPMZYJzpbulu-2FnUQYi-2FXzw6gozutJOW0RCinqFJyl-2BDlBtybHQajTpdrc4pY0cCEI=
+J0Mmqfsgbe-2FWUR2RhHqGF2Qek9k0RrbfpvLi7rFHBlwMqn2ZyMeeMhAod-2Bbb2Un-2BuIBGE=
+jjTXh7tTFndrqA57RG5r0mAKebNq7P0q-2BgwHNisIU-2FwITmiLM2PatOGfI5bZOnXngHWpoY0=
+m5-2BwA1EwaVusHA-2BHtUV3j-2FSh48yUb0vl7Fg2EIeh-2Folo85EsE-2BPSfNIL28Ekmxnuf=
+Bd-2B1MqGivDlY-2FX7GMd9RO8XyZahHz-2BUROenJPtVf6m2hYW0IGOn-2FaQ4QtAUIqhcoIDZ=
+8sgPLum1qVZtxxNBfze5s6ZgfP8Q-2B6esoGpj4cV8D7ty8L-2BANDnEF8ls ) - Unsubscrib=
+e Preferences ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?upn=3D=
+u001.e5AyR26hcwPNuZAFwIzu5voGVhd67P9svtXvnaQqwHidKRCVOS913UzRqnaIT2vDbjWEuU=
+LTJOUH7SA-2Fmc-2B-2FzeSs6fxbUjLcTnIqPJDBwcfL6dH147hNLnDOHCfe4nkuI02AxFfWaIl=
+b9JLx-2B6c-2BqsPcLXvTKSGmPQAL6HmwQQRExff4Qmxd6Tj3SPBT3eS99nSqwwHdTTSI9hsUCL=
+tfWem-2BmuuX0B6d7zY1raS6IVMNyx083-2BhaWPY-2FiPscA10WApgyctcl-2FIKoMxJLlJN7k=
+Hhn-2B6vxyWkfNpWHkLyCB8tAGP23lyaoc4Pfo-2BX79UhpYZFLrikvSqI-2BtRvA9koVUurQCl=
+dZ3Li7c3U-2Bm4kAwjTplAZd5YlPFG6dc7JCqLqS964HQUCGzw21K0nyYrOpC1TUJjPq-2BOmvc=
+FkVJGCByFrIQSAsok4dL4-2F6Z9ZxaFjjfGpfj9J6sRL1Cuq0owKv9tjl0oothoFD-2FkkCvEg5=
+fArUd5gI10DQCZZeHoYIKCpZwzjV96blLqK1qVHQXqXmaF7icIfajcwZwYtM0nEU0-2FcWAfey8=
+qTiBTXuPMZYJzpbulu-2FnUQYi-2FXzw6gozutJOW0RCinqFJyl-2BDlBtybHQajTpdrc4pY0cC=
+EIJ0Mmqfsgbe-2FWUR2RhHqGF2Qek9k0RrbfpvLi7rFHBlwMqn2ZyMeeMhAod-2Bbb2Un-2BuIB=
+GEjjTXh7tTFndrqA57RG5r0mAKebNq7P0q-2BgwHNisIU-2FwITmiLM2PatOGfI5bZOnXngHWpo=
+Y0m5-2BwA1EwaVusHA-2BHtUV3j-2FSh48yUb0vl7Fg2EIeh-2Folo85EsE-2BPSfNIL28Ekmxn=
+ufBd-2B1MqGivDlY-2FX7GMd9RO8XyZahHz-2BUROenJPtVf6m2hYW0IGOn-2FaQ4QtAUIqhcoI=
+DZ8sgPLum1qVZtxxNBfze5s6ZgfP8Q-2B6esoGpj4cV8D7ty8L-2BANDnEF8ls )
+--475f191b687695f7e76985ff0f23d708df0b910229dedd7d5f149f572697
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Hello=
+ Teresa,</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Just =
+a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 PM.</s=
+pan></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Pleas=
+e reply to confirm this appointment. You can call our office at 646-991-625=
+3 anytime if you&rsquo;d like to reschedule.</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">See y=
+ou soon!</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">HARTY=
+ BRO FLOORS TO GO</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">5011 =
+E Desert Vista Trail</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Cave =
+Creek, AZ 85331&nbsp;</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">646-9=
+91-6253</span></p>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+        <div class=3D""Unsubscribe--addressLine"">
+          <p class=3D""Unsubscribe--senderName""
+            style=3D""font-size:12px;line-height:20px""
+          >
+            Teresa Molfino-Jim
+          </p>
+          <p style=3D""font-size:12px;line-height:20px"">
+            <span class=3D""Unsubscribe--senderAddress"">5011 E Desert Vista =
+Trail</span>, <span class=3D""Unsubscribe--senderCity"">Cave Creek</span>, <s=
+pan class=3D""Unsubscribe--senderState"">AZ</span> <span class=3D""Unsubscribe=
+--senderZip"">85331</span>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""http://url6819.=
+hartybrofloorstogo.com/wf/unsubscribe?upn=3Du001.e5AyR26hcwPNuZAFwIzu5voGVh=
+d67P9svtXvnaQqwHidKRCVOS913UzRqnaIT2vDbjWEuULTJOUH7SA-2Fmc-2B-2FzeSs6fxbUjL=
+cTnIqPJDBwcfL6dH147hNLnDOHCfe4nkuI02AxFfWaIlb9JLx-2B6c-2BqsPcLXvTKSGmPQAL6H=
+mwQQRExff4Qmxd6Tj3SPBT3eS99nSqwwHdTTSI9hsUCLtfWem-2BmuuX0B6d7zY1raS6IVMNyx0=
+83-2BhaWPY-2FiPscA10WApgyctcl-2FIKoMxJLlJN7kHhn-2B6vxyWkfNpWHkLyCB8tAGP23ly=
+aoc4Pfo-2BX79UhpYZFLrikvSqI-2BtRvA9koVUurQCldZ3Li7c3U-2Bm4kAwjTplAZd5YlPFG6=
+dc7JCqLqS964HQUCGzw21K0nyYrOpC1TUJjPq-2BOmvcFkVJGCByFrIQSAsok4dL4-2F6Z9ZxaF=
+jjfGpfj9J6sRL1Cuq0owKv9tjl0oothoFD-2FkkCvEg5fArUd5gI10DQCZZeHoYIKCpZwzjV96b=
+lLqK1qVHQXqXmaF7icIfajcwZwYtM0nEU0-2FcWAfey8qTiBTXuPMZYJzpbulu-2FnUQYi-2FXz=
+w6gozutJOW0RCinqFJyl-2BDlBtybHQajTpdrc4pY0cCEIJ0Mmqfsgbe-2FWUR2RhHqGF2Qek9k=
+0RrbfpvLi7rFHBlwMqn2ZyMeeMhAod-2Bbb2Un-2BuIBGEjjTXh7tTFndrqA57RG5r0mAKebNq7=
+P0q-2BgwHNisIU-2FwITmiLM2PatOGfI5bZOnXngHWpoY0m5-2BwA1EwaVusHA-2BHtUV3j-2FS=
+h48yUb0vl7Fg2EIdZ1AEBsKZp3nfwr2p8Kp3hOIRdGsfXFEJGIKwEVBY-2FL-2Fsvkv6woIr-2B=
+XQpuk3hDAm64qyGxIPEOpIwj1DdJzyxvsnmbe6TBvI7ZhTlnasrkel4S4hYGw15gJfDJYWCm3Vu=
+0G-2B5GmP1pfXzQQUVqasIx"" target=3D""_blank"" style=3D""font-family:sans-serif;=
+text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""http://url6819.hartybrofloorstogo.com/wf/unsubscribe?u=
+pn=3Du001.e5AyR26hcwPNuZAFwIzu5voGVhd67P9svtXvnaQqwHidKRCVOS913UzRqnaIT2vDb=
+jWEuULTJOUH7SA-2Fmc-2B-2FzeSs6fxbUjLcTnIqPJDBwcfL6dH147hNLnDOHCfe4nkuI02AxF=
+fWaIlb9JLx-2B6c-2BqsPcLXvTKSGmPQAL6HmwQQRExff4Qmxd6Tj3SPBT3eS99nSqwwHdTTSI9=
+hsUCLtfWem-2BmuuX0B6d7zY1raS6IVMNyx083-2BhaWPY-2FiPscA10WApgyctcl-2FIKoMxJL=
+lJN7kHhn-2B6vxyWkfNpWHkLyCB8tAGP23lyaoc4Pfo-2BX79UhpYZFLrikvSqI-2BtRvA9koVU=
+urQCldZ3Li7c3U-2Bm4kAwjTplAZd5YlPFG6dc7JCqLqS964HQUCGzw21K0nyYrOpC1TUJjPq-2=
+BOmvcFkVJGCByFrIQSAsok4dL4-2F6Z9ZxaFjjfGpfj9J6sRL1Cuq0owKv9tjl0oothoFD-2Fkk=
+CvEg5fArUd5gI10DQCZZeHoYIKCpZwzjV96blLqK1qVHQXqXmaF7icIfajcwZwYtM0nEU0-2FcW=
+Afey8qTiBTXuPMZYJzpbulu-2FnUQYi-2FXzw6gozutJOW0RCinqFJyl-2BDlBtybHQajTpdrc4=
+pY0cCEIJ0Mmqfsgbe-2FWUR2RhHqGF2Qek9k0RrbfpvLi7rFHBlwMqn2ZyMeeMhAod-2Bbb2Un-=
+2BuIBGEjjTXh7tTFndrqA57RG5r0mAKebNq7P0q-2BgwHNisIU-2FwITmiLM2PatOGfI5bZOnXn=
+gHWpoY0m5-2BwA1EwaVusHA-2BHtUV3j-2FSh48yUb0vl7Fg2EIdZ1AEBsKZp3nfwr2p8Kp3hOI=
+RdGsfXFEJGIKwEVBY-2FL-2Fsvkv6woIr-2BXQpuk3hDAm64qyGxIPEOpIwj1DdJzyxvsnmbe6T=
+BvI7ZhTlnasrkel4S4hYGw15gJfDJYWCm3Vu0G-2B5GmP1pfXzQQUVqasIx"" target=3D""_bla=
+nk"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D""font-family:sans=
+-serif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""http://url6819.hartybrofloorstogo.com/wf/open?upn=3Du001.e5=
+AyR26hcwPNuZAFwIzu5voGVhd67P9svtXvnaQqwHidKRCVOS913UzRqnaIT2vDbjWEuULTJOUH7=
+SA-2Fmc-2B-2FzeSs6fxbUjLcTnIqPJDBwcfL6dH147hNLnDOHCfe4nkuI02AxFfWaIlb9JLx-2=
+B6c-2BqsPcLXvTKSGmPQAL6HmwQQRExff4Qmxd6Tj3SPBT3eS99nSqwwHdTTSI9hsUCLtfWem-2=
+BmuuX0B6d7zY1raS6IVMNyx083-2BhaWPY-2FiPscA10WApgyctcl-2FIKoMxJLlJN7kHhn-2B6=
+vxyWkfNpWHkLyCB8tAGP23lyaoc4Pfo-2BX79UhpYZFLrikvSqI-2BtRvA9koVUurQCldZ3Li7c=
+3U-2Bm4kAwjTplAZd5YlPFG6dc7JCqLqS964HQUCGzw21K0nyYrOpC1TUJjPq-2BOmvcFkVJGCB=
+yFrIQSAsok4dL4-2F6Z9ZxaFjjfGpfj9J6sRL1Cuq0owKv9tjl0oothoFD-2FkkCvEg5fArUd5g=
+I10DQCZZeHoYIKCpZwzjV96blLqK1qVHQXqXmaF7icIfajcwZwYtM0nEU0-2FcWAfey8qTiBTXu=
+PMZYJzpbulu-2FnUQYi-2FXzw6gozutJOW0RCinqFJyl-2BDlBtybHQajTpdrc4pY0cCEIJ0Mmq=
+fsgbe-2FWUR2RhHqGF2Qek9k0RrbfpvLi7rFHBlwMqn2ZyMeeMhAod-2Bbb2Un-2BuIBGEjjTXh=
+7tTFndrqA57RG5r0mAKebNq7P0q-2BgwHNisIU-2FwITmiLM2PatOGfI5bZOnXngHWpoY0m5-2B=
+wA1EwaVusHA-2BHtUV3j-2FSh48yUb0vl7Fg2EIeQTS6jZDg4jeTE0cRj-2BI-2FaBKoUTjwf8H=
+Ms1mvW4K76gHcDY5FKiR1HdsPSy-2FITGQtOJzIsP-2BQGCxmq6nCNuUrSIbPdg8lufT914pmKl=
+dHqorl-2FaZaBDJKC3mlQY5qDrpuOIUj-2BmHFPH8JHlaeS5p12"" alt=3D"""" width=3D""1"" h=
+eight=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !importan=
+t;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !import=
+ant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !impor=
+tant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 =
+!important;""/></body>
+  </html>
+
+--475f191b687695f7e76985ff0f23d708df0b910229dedd7d5f149f572697--
+","""Teresa Molfino-Jim"" <jim@hartybrofloorstogo.com>",teresa.636@yahoo.com,2025-03-18,44.214.78.206,United States,en,users/51198369/f2c1a273-b626-47d5-8e55-c2e112fe4a82.json
+51198369,TFiSDAVKSuyVG7_aAONqxA.recvd-69cbc48b94-26k88-1-67DA3237-1.0,cHJvY2Vzc2VkLTUxMTk4MzY5LVRGaVNEQVZLU3V5Vkc3X2FBT05xeEEtMA,Test - Thank you for your trial,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hartybrofloorstogo.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=AapWJV2HWA2DxlcmKHRyyadD/f8J2XT13vWCWMx3hWg=;
+	b=fIZTbBIsA/zW+IS7EWVlMg6VFgp8ky8vhkb92BNZFL+dmTIP2aQ81lEjGOrVXMtp5eql
+	ctMp6NEV2bwkzEXUkfrRDwf8CJLTriVbE3V7Eb/QBoOQvkjln+Xiyr+sbC0W7TA48Iklcu
+	0j50xrvo7Ql/sc3XnJQhbt0kSVdVvusRt/3QH9+CW9loOKtJVws2R0RyPHn4TjdJSsom/g
+	/5RiMEdW1fW2bJI81TLNuIRfa3e9PMRCkMHMO+zPwsNlJhf1CtKoCY3DBOPiEQyGno8ie5
+	0m6gHfj4MBEX6oCZu585btHTlm8k+qPD696YbxX6CXWP1WRnkuIR8i1FQxjr7l4w==
+Received: by recvd-69cbc48b94-26k88 with SMTP id recvd-69cbc48b94-26k88-1-67DA3237-1
+	2025-03-19 02:55:51.067188895 +0000 UTC m=+10733608.284330008
+Received: from NTExOTgzNjk (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id TFiSDAVKSuyVG7_aAONqxA
+	Wed, 19 Mar 2025 02:55:51.027 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=3b1d86f918f328300683bfa080448c682492dd87a127f3cfd7a5ae750582
+Date: Wed, 19 Mar 2025 02:55:51 +0000 (UTC)
+From: Teresa Molfino-Jim <jim@hartybrofloorstogo.com>
+Mime-Version: 1.0
+Message-ID: <TFiSDAVKSuyVG7_aAONqxA@geopod-ismtpd-9>
+Subject: Test - Thank you for your trial
+Reply-To: jim@hartybrofloorstogo.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51198369=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Eu0XX?=
+ =?us-ascii?Q?pKc3T875t9zME5WU1G4nHav3l5IOGGKn9-9ZBOc?=
+ =?us-ascii?Q?OED=5FwtXSGQInwfyzgZ15JbNxmObPF1WUtWgV=5FhB?=
+ =?us-ascii?Q?4pQ57vSOJDw5dhUlD0UsNRxOFKQu6VXhWSlQlUc?=
+ =?us-ascii?Q?yOKh3=5Fd-sgh55PDb-IF9=5FABhZM=5F=5FNWHO22myj97?=
+ =?us-ascii?Q?nn=5FkfoTCqaIeTvmxvw67V4PirchcUUWlDiXmGyq?=
+ =?us-ascii?Q?tkyF9daynJIUlItKZH7xEmOXtPMlc7asXOIO3ut?=
+ =?us-ascii?Q?gsk3I7G6akK00O9XDFvUD2OTMuKdcNmJw7djeNs?=
+ =?us-ascii?Q?qp4=5FZGqtLqJezq-yhpWcFNCKMcCPQwyNv3Oh=5FDd?=
+ =?us-ascii?Q?hjYU56IhDt2CZC-xjMNO5wIsWeQ66CfQBfl=5FBD9?=
+ =?us-ascii?Q?dHPHPd-u2X5kXmV8xSUeJiA=5Fu6G1cpLwZV2Rvhq?=
+ =?us-ascii?Q?RTVmcPLpYhO9YB3Ka41hCRii6DRxWgyd-BYdxLA?=
+ =?us-ascii?Q?aNQTh0TelmN4PLy1Lq3S5FbeYzLiC3lhdQ6G-n7?=
+ =?us-ascii?Q?-2jgUf0YDkMFL3kPvskEwRTm2I7Bl9p=5Fdh3zAxH?=
+ =?us-ascii?Q?dS89fELhoyc0OCWWmtUeb=5FS0j=5F-=5F-KGucZO=5FmmL?=
+ =?us-ascii?Q?37sLH63MGS8VV3uMNAJCK--gLEOfNX0Dm4dT-3H?=
+ =?us-ascii?Q?Jd2EYbGdo1x1HI2eesSoTmHsld8ov=5FnApgHi-wO?=
+ =?us-ascii?Q?-dK7W9Dc0fyxwatOwY1=5F1HS0-rfPj0fvTGqfKdR?=
+ =?us-ascii?Q?Dv8YGeUSc-iFjZbA1KzwRNpNqkOTtwtO5OWRElj?=
+ =?us-ascii?Q?euLZOiKVLErasu12n5GGeSbsO8ppSA3x=5FNEqHqj?=
+ =?us-ascii?Q?dNi2avKeBWwYFhymn=5FHICiqhZqGWbAlALjLvsxQ?=
+ =?us-ascii?Q?8SF6Q2dFnGJLfafNPqXiROppew5K9rnnt0meGin?=
+ =?us-ascii?Q?LhDSAAzHImAIRmjLvk=5FWX3XpRrnONdX0ekutbgh?=
+ =?us-ascii?Q?T4pQo0BNvr39lnvmjgJzdu4KQVLszvfLKoH0GhI?=
+ =?us-ascii?Q?mrZUXBfQH5y9iaGO-WwCy8IpoRgm0mHU9bYVG-V?=
+ =?us-ascii?Q?NoGFNT21BfFF1kS1IDcfzfy6gEtw=5FgdfloIwC9F?=
+ =?us-ascii?Q?ckinA56jvfA73dq2azFCxNRkKb5fiG-Toy4xyHd?=
+ =?us-ascii?Q?P9jFOnERVWwxR4t-GJ9cbD6-I98ytsdMEkqHYzf?=
+ =?us-ascii?Q?W3Ia26RG5zftvxZi8wuYUtDQG6qRcgZ=3E=2C=3Cmailt?=
+ =?us-ascii?Q?o=3Aunsubscribe=40em8707=2Ehartybrofloorstogo?=
+ =?us-ascii?Q?=2Ecom=3Fsubject=3Dhttp=3A=2F=2Furl6819=2Ehartybroflo?=
+ =?us-ascii?Q?orstogo=2Ecom=2Fmt=2Fu=2Fu001=2EeGUQl85jnaJzVbGDm?=
+ =?us-ascii?Q?wqpjWjhTd6brXZvkpHl=5FzeNq=5FDHRoFQGu0ZujR7?=
+ =?us-ascii?Q?=5FtgxUIEH=2F4ex=2Fu001=2EvItOfGAs=2Fu001=2Ew-2Fgjh?=
+ =?us-ascii?Q?OBgzjTrDCyqpfDVQNJbGHLnPR-2BZ8yFd9OnaX3?=
+ =?us-ascii?Q?F1-2BJ2U-2F7Fqti4sj9Ai-2FthKTnxfppv-2BP?=
+ =?us-ascii?Q?Py5flIDvcuqFJaCpWNYNoSVnNwuRRYaaGHyyY1g?=
+ =?us-ascii?Q?H5Sr0pI0MLzlp2MJUEiVSi3KXzzCNt72dBJiwz4?=
+ =?us-ascii?Q?Lun9zoIa75f9hFoZyJsW7SVU6RDJon5mgUNWHLp?=
+ =?us-ascii?Q?30rM77IM-2BjcNfd1jZ8to6opY5jT4JvKdusr7n?=
+ =?us-ascii?Q?S2MERJEZuW-2BtAyJNwV-2BFlOZAUz7Lz3fHoPY?=
+ =?us-ascii?Q?bmndOWERvMC-2FdvZp81WWjDEhq96ntpxNPIu1Q?=
+ =?us-ascii?Q?ajcuxbY2jGE-2FrSMnLV5rWpv9QYnXAAwsreYH7?=
+ =?us-ascii?Q?kaHXQmazrBOUhBw3TKUCGDqKlLRb-2BA2bdJAQh?=
+ =?us-ascii?Q?feMXLTMiBymGLhEOdsHVKuVY1dfz-2Fqw4Ehmz4?=
+ =?us-ascii?Q?EaHlXE3AyzthtiivwvkMXHgJo03MtdelrhPJ444?=
+ =?us-ascii?Q?AnRSV4tSh-2BFejnyDsStHyUFaTYnrqDswTOONR?=
+ =?us-ascii?Q?MsiONC47-2BlL4KQFgdQnVb2vO5zu6EF8LvUKt9?=
+ =?us-ascii?Q?3tCtm6UKOjqwOK1qgSRp6Wx92X-2BL-2BYc7I0l?=
+ =?us-ascii?Q?3q8e5U4b7NZGAhZLyiP4beaKcRWe7qELTC97O-2?=
+ =?us-ascii?Q?B8mBnX0azc6BiRMnUjgwQP3QcBWdQv9CV3aHs5B?=
+ =?us-ascii?Q?p36hna5M7kg-2BXf94OnJlS2LqgAYKnX-2B3-2F?=
+ =?us-ascii?Q?O-2FaV3k-2Fy26XQiT5P3XDI4hOOz7Fj7wrpZ4-?=
+ =?us-ascii?Q?2B7a=2Fu001=2EzZAPJhLn=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3MKr2BPBuekM7SDLATD=2FcPE7cLmySuwP6X9ZtSwclopDY5AdzHoxrEpzu?=
+ =?us-ascii?Q?VpXtL2pmB7dr80j12QqCKaqhdPcSUmLvSF1vEWS?=
+ =?us-ascii?Q?hVMHI4HLie0XN1j0avnQpTPnDWCuHKVd5SPaebM?=
+ =?us-ascii?Q?tu2XStcn0mcwxwVyye=2F5EJ8j=2Fm7ZBUaeCmT0BIq?=
+ =?us-ascii?Q?seizC6g13VlvLqG+BYeWuzvp1J2cc77no7tJH3u?=
+ =?us-ascii?Q?pd2iZ7JaprpfPuZJFajHF7AZUpbWMogRrrDENac?=
+ =?us-ascii?Q?UlpQ+MX+O1Shv86A7YKRQTjh4Q=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLAz3s9vYXwUd?=
+ =?us-ascii?Q?sLhMRaVNljdDo6Ffvy+H0sX0n3=2F8rvK7906rup2?=
+ =?us-ascii?Q?n0mpduWgCpWfgY0dapRbpU7T6fPTJFOQm9zJ6HX?=
+ =?us-ascii?Q?Pi3M+T5VsQaaFffn3pKuP9yJHD2Vv0xRiTdfr69?=
+ =?us-ascii?Q?gK3=2FB69431v=2FanjGps65VY4pLn0fEuY8Ushv6kB?=
+ =?us-ascii?Q?z74HkGF6rWe+PBw4E+09Tp6Y5DHPG4DogGuRl0N?=
+ =?us-ascii?Q?=2F+UEm6ucBNgqUkWBCGnUjzZxKmPvmO=2F7M6xf7vZ?=
+ =?us-ascii?Q?uHNYKztTG=2F=2FqsDJsxwnGoeWNftcsvvBrf2C12XD?=
+ =?us-ascii?Q?iyMyxOpvwziU2YXCeSAhXiPIbEo8SKSibWRLJew?=
+ =?us-ascii?Q?KnHf84lJDAFbjjjkvk7JHElnTUm90JnIPr=2F7Kvv?=
+ =?us-ascii?Q?f6MKzd4tVooz2lceuqjW7=2Fui170Y6X=2Fxd8jIPZq?=
+ =?us-ascii?Q?CW0lM=3D?=
+To: test-e5qcqzc3w@srv1.mail-tester.com
+X-Entity-ID: u001.2rJOZMpHU5zC7xUzYR6IQQ==
+
+--3b1d86f918f328300683bfa080448c682492dd87a127f3cfd7a5ae750582
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hello ,
+
+Just a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 P=
+M.
+
+Please reply to confirm this appointment. You can call our office at 646-99=
+1-6253 anytime if you=E2=80=99d like to reschedule.
+
+See you soon!
+
+HARTY BRO FLOORS TO GO
+
+5011 E Desert Vista Trail
+
+Cave Creek, AZ 85331
+
+646-991-6253
+
+Teresa Molfino-Jim
+
+5011 E Desert Vista Trail , Cave Creek , AZ 85331
+
+Unsubscribe ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?upn=3Du0=
+01.bXNyGu5h5FdAmJgDRnrMM4UiK6b9Z25d2qLOwR2dPDqpK8LtM31LzmKuVA2SDkHizVbPaoDu=
+w29kex4swQEvhgblgm2iTcHpExXLm38Awukj98vzVqfAnU15Ld2oS2-2BYisQHgnnneenih0UeA=
+JP8KWSk9ZgahpbajPEnTgFYznPYldZh3sW4TomqgpPHGgiAdaRPJKx5UhnUyeYJU65XTIyzYQuV=
+8eH3nqhc4D8WaL42RIk13Ofdi-2BoewIjmH5XxxpovZjL-2BWk-2Fm0m40hGtLbDkxD1yskqTyB=
+pQ-2BORgccfJXKPiHQyzrNSk5YvO9V3uhJWQlBAkEc4PvMiXDPDXZoNu2ezAtjh7DuwQhsqxUJc=
+aqeh-2FeywuAPboDZJuL8LI3OAPciV5q7QqoFwf5GkeCtiO-2FDyc77L4Hi6sObb7mqphaK38Wb=
+pVL131kMAbuC45DFi7rct93O2ErjvX-2BWgsRh42ipUGAMcshrOO9b5DER-2F9iQe1K-2FmNRhD=
+hVJWHxGwPP56vSI2iQbNT4vyeyIzmpnV9R59RthWFK0V-2B7Iv7EDq8v7XtOzBWYplXc4l-2B4j=
+jISyXoYonEtrM06JbaRZgQrdvTCdASj9VvN-2BRwmlfgKDJeZAKmR-2F-2FG7upDeNX6De8PBGI=
+h9bF0zhrLUjAJV-2FZdHa6b-2BjOTQZz-2F0wKomg9-2BU4CHax3Q9UI2L3f0DEOrRt2m-2B ) =
+- Unsubscribe Preferences ( http://url6819.hartybrofloorstogo.com/wf/unsubs=
+cribe?upn=3Du001.bXNyGu5h5FdAmJgDRnrMM4UiK6b9Z25d2qLOwR2dPDqpK8LtM31LzmKuVA=
+2SDkHizVbPaoDuw29kex4swQEvhgblgm2iTcHpExXLm38Awukj98vzVqfAnU15Ld2oS2-2BYisQ=
+Hgnnneenih0UeAJP8KWSk9ZgahpbajPEnTgFYznPYldZh3sW4TomqgpPHGgiAdaRPJKx5UhnUye=
+YJU65XTIyzYQuV8eH3nqhc4D8WaL42RIk13Ofdi-2BoewIjmH5XxxpovZjL-2BWk-2Fm0m40hGt=
+LbDkxD1yskqTyBpQ-2BORgccfJXKPiHQyzrNSk5YvO9V3uhJWQlBAkEc4PvMiXDPDXZoNu2ezAt=
+jh7DuwQhsqxUJcaqeh-2FeywuAPboDZJuL8LI3OAPciV5q7QqoFwf5GkeCtiO-2FDyc77L4Hi6s=
+Obb7mqphaK38WbpVL131kMAbuC45DFi7rct93O2ErjvX-2BWgsRh42ipUGAMcshrOO9b5DER-2F=
+9iQe1K-2FmNRhDhVJWHxGwPP56vSI2iQbNT4vyeyIzmpnV9R59RthWFK0V-2B7Iv7EDq8v7XtOz=
+BWYplXc4l-2B4jjISyXoYonEtrM06JbaRZgQrdvTCdASj9VvN-2BRwmlfgKDJeZAKmR-2F-2FG7=
+upDeNX6De8PBGIh9bF0zhrLUjAJV-2FZdHa6b-2BjOTQZz-2F0wKomg9-2BU4CHax3Q9UI2L3f0=
+DEOrRt2m-2B )
+--3b1d86f918f328300683bfa080448c682492dd87a127f3cfd7a5ae750582
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Hello=
+ ,</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Just =
+a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 PM.</s=
+pan></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Pleas=
+e reply to confirm this appointment. You can call our office at 646-991-625=
+3 anytime if you&rsquo;d like to reschedule.</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">See y=
+ou soon!</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">HARTY=
+ BRO FLOORS TO GO</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">5011 =
+E Desert Vista Trail</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Cave =
+Creek, AZ 85331&nbsp;</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">646-9=
+91-6253</span></p>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+        <div class=3D""Unsubscribe--addressLine"">
+          <p class=3D""Unsubscribe--senderName""
+            style=3D""font-size:12px;line-height:20px""
+          >
+            Teresa Molfino-Jim
+          </p>
+          <p style=3D""font-size:12px;line-height:20px"">
+            <span class=3D""Unsubscribe--senderAddress"">5011 E Desert Vista =
+Trail</span>, <span class=3D""Unsubscribe--senderCity"">Cave Creek</span>, <s=
+pan class=3D""Unsubscribe--senderState"">AZ</span> <span class=3D""Unsubscribe=
+--senderZip"">85331</span>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""http://url6819.=
+hartybrofloorstogo.com/wf/unsubscribe?upn=3Du001.bXNyGu5h5FdAmJgDRnrMM4UiK6=
+b9Z25d2qLOwR2dPDqpK8LtM31LzmKuVA2SDkHizVbPaoDuw29kex4swQEvhgblgm2iTcHpExXLm=
+38Awukj98vzVqfAnU15Ld2oS2-2BYisQHgnnneenih0UeAJP8KWSk9ZgahpbajPEnTgFYznPYld=
+Zh3sW4TomqgpPHGgiAdaRPJKx5UhnUyeYJU65XTIyzYQuV8eH3nqhc4D8WaL42RIk13Ofdi-2Bo=
+ewIjmH5XxxpovZjL-2BWk-2Fm0m40hGtLbDkxD1yskqTyBpQ-2BORgccfJXKPiHQyzrNSk5YvO9=
+V3uhJWQlBAkEc4PvMiXDPDXZoNu2ezAtjh7DuwQhsqxUJcaqeh-2FeywuAPboDZJuL8LI3OAPci=
+V5q7QqoFwf5GkeCtiO-2FDyc77L4Hi6sObb7mqphaK38WbpVL131kMAbuC45DFi7rct93O2Erjv=
+X-2BWgsRh42ipUGAMcshrOO9b5DER-2F9iQe1K-2FmNRhDhVJWHxGwPP56vSI2iQbNT4vyeyIzm=
+pnV9R59RthWFK0V-2B7Iv7EDq8ipkEZIPQe5xHE1trmk63xrxl3Cps0nLtrBLoW1S7Ihq2G9jUD=
+hciWx63-2BeePLXtOpfxRfc6QuTdtcpe1vBuxglr7w3MD4WeVHYhmxCp94TTO7usO44YXDIATYZ=
+gPvC4O43x41TOLA0QtX3zfa4aol"" target=3D""_blank"" style=3D""font-family:sans-se=
+rif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""http://url6819.hartybrofloorstogo.com/wf/unsubscribe?u=
+pn=3Du001.bXNyGu5h5FdAmJgDRnrMM4UiK6b9Z25d2qLOwR2dPDqpK8LtM31LzmKuVA2SDkHiz=
+VbPaoDuw29kex4swQEvhgblgm2iTcHpExXLm38Awukj98vzVqfAnU15Ld2oS2-2BYisQHgnnnee=
+nih0UeAJP8KWSk9ZgahpbajPEnTgFYznPYldZh3sW4TomqgpPHGgiAdaRPJKx5UhnUyeYJU65XT=
+IyzYQuV8eH3nqhc4D8WaL42RIk13Ofdi-2BoewIjmH5XxxpovZjL-2BWk-2Fm0m40hGtLbDkxD1=
+yskqTyBpQ-2BORgccfJXKPiHQyzrNSk5YvO9V3uhJWQlBAkEc4PvMiXDPDXZoNu2ezAtjh7DuwQ=
+hsqxUJcaqeh-2FeywuAPboDZJuL8LI3OAPciV5q7QqoFwf5GkeCtiO-2FDyc77L4Hi6sObb7mqp=
+haK38WbpVL131kMAbuC45DFi7rct93O2ErjvX-2BWgsRh42ipUGAMcshrOO9b5DER-2F9iQe1K-=
+2FmNRhDhVJWHxGwPP56vSI2iQbNT4vyeyIzmpnV9R59RthWFK0V-2B7Iv7EDq8ipkEZIPQe5xHE=
+1trmk63xrxl3Cps0nLtrBLoW1S7Ihq2G9jUDhciWx63-2BeePLXtOpfxRfc6QuTdtcpe1vBuxgl=
+r7w3MD4WeVHYhmxCp94TTO7usO44YXDIATYZgPvC4O43x41TOLA0QtX3zfa4aol"" target=3D""=
+_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D""font-family:=
+sans-serif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""http://url6819.hartybrofloorstogo.com/wf/open?upn=3Du001.bX=
+NyGu5h5FdAmJgDRnrMM4UiK6b9Z25d2qLOwR2dPDqpK8LtM31LzmKuVA2SDkHizVbPaoDuw29ke=
+x4swQEvhgblgm2iTcHpExXLm38Awukj98vzVqfAnU15Ld2oS2-2BYisQHgnnneenih0UeAJP8KW=
+Sk9ZgahpbajPEnTgFYznPYldZh3sW4TomqgpPHGgiAdaRPJKx5UhnUyeYJU65XTIyzYQuV8eH3n=
+qhc4D8WaL42RIk13Ofdi-2BoewIjmH5XxxpovZjL-2BWk-2Fm0m40hGtLbDkxD1yskqTyBpQ-2B=
+ORgccfJXKPiHQyzrNSk5YvO9V3uhJWQlBAkEc4PvMiXDPDXZoNu2ezAtjh7DuwQhsqxUJcaqeh-=
+2FeywuAPboDZJuL8LI3OAPciV5q7QqoFwf5GkeCtiO-2FDyc77L4Hi6sObb7mqphaK38WbpVL13=
+1kMAbuC45DFi7rct93O2ErjvX-2BWgsRh42ipUGAMcshrOO9b5DER-2F9iQe1K-2FmNRhDhVJWH=
+xGwPP56vSI2iQbNT4vyeyIzmpnV9R59RthWFK0V-2B7Iv7EDq-2BxQoHJN07B4rGqBv5-2FerZM=
+IYMjf-2F-2FRn0-2BY7KFr3NV2PIKqzoS0XQKbgASziNJ6GrGwctEcHtNyGtu-2BaA4rujGkUoN=
+EdJDvXZlmhIY-2FCrdG-2BfbbEM6vfxRxxRIDdloFkpJcE4trWALLF5hII77DeCdD"" alt=3D""""=
+ width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;""/></body>
+  </html>
+
+--3b1d86f918f328300683bfa080448c682492dd87a127f3cfd7a5ae750582--
+","""Teresa Molfino-Jim"" <jim@hartybrofloorstogo.com>",test-e5qcqzc3w@srv1.mail-tester.com,2025-03-18,44.214.78.206,United States,en,users/51198369/0b44801c-9c6c-4f6d-9352-6b8282d9711f.json
+51198369,U5WTv8-SQMGw-aPQL9JQ8Q.recvd-69cbc48b94-pgsv7-1-67D5F873-D.10,cHJvY2Vzc2VkLTUxMTk4MzY5LVU1V1R2OC1TUU1Hdy1hUFFMOUpROFEtMTA,See you soon !,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hartybrofloorstogo.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:x-feedback-id:to:cc:content-type:from:subject:to;
+	s=s1; bh=1hYot8fDvXKBN8uTNnJk0WpGGz8S+2nm5GNnadIMN74=;
+	b=FY3F4vHgPKpumpxGfASC5suBvRTsG9+pVFhWLhV0WBoPpHPH1HsajXkzZrvkRhum34jL
+	/pQvUp3D7v2OkfUajuxeRLOnvSBEJ8VRiDzkhCsrsr4gWtfFVpbio5pDurw4pzGDrNEGJ0
+	vEL86mMXWAdJzWe6HQbrrklYDrN2I/e+34RlvSkhQZinc2gfWsS43MUJV/Lkndbl/d57A6
+	7WvlsLmj6qRfuA9jo6x+eZU73BWuRTvWoqWClRrw05FFHMneu4D1/8PDbcWb+KylKGBT/9
+	BIEbfFwfps8uewVoQLsjYm2ZYKfVG5CLoW4oNE+CdLZ+YpSYi0HdvdsmruiDPnnw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=1hYot8fDvXKBN8uTNnJk0WpGGz8S+2nm5GNnadIMN74=;
+	b=T/6dhpRAif2oo19qo91DKJhgI02aj70LhL8lCJ4tVnuBGTZ8oRv2LR/c+54KBP0sXyKX
+	bgtx1tEjzzaDwiGCkuF2YGnZXgk+1tqIqgFC6bi2haMTkMvuuYFr//sNAOZ+Nl/pv5N7Oh
+	QJeLh7g/VyZC74/zk/hyFlH28sqxh0+1c=
+Received: by recvd-69cbc48b94-pgsv7 with SMTP id recvd-69cbc48b94-pgsv7-1-67D5F873-D
+	2025-03-15 22:00:19.603368897 +0000 UTC m=+10456599.185069914
+Received: from NTExOTgzNjk (unknown)
+	by geopod-ismtpd-16 (SG) with HTTP
+	id U5WTv8-SQMGw-aPQL9JQ8Q
+	Sat, 15 Mar 2025 22:00:19.582 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=0c0fda0c152b6b81e61197073db898561d8fbc039d275e8b700766927d8c
+Date: Sat, 15 Mar 2025 22:00:19 +0000 (UTC)
+From: Teresa Molfino-Jim <jim@hartybrofloorstogo.com>
+Mime-Version: 1.0
+Message-ID: <U5WTv8-SQMGw-aPQL9JQ8Q@geopod-ismtpd-16>
+Subject: See you soon !
+Reply-To: jim@hartybrofloorstogo.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51198369=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Eu0XX?=
+ =?us-ascii?Q?pKc3T875t9zME5WU1G4nHav3l5IOGGKn9-9ZBOc?=
+ =?us-ascii?Q?OED=5FwtXSGQInwfyzgZ15JY2LDijklPNJb5AITiA?=
+ =?us-ascii?Q?O2HSOS3jvvyyK250YuvjwEDrVXRIxK37O0iSjDt?=
+ =?us-ascii?Q?QSailptL1uMPSkivIjrWFDujpHOIcnnyOkvOkR8?=
+ =?us-ascii?Q?NgXf06hFy14swdfWyc3HTNBgCDiUWFWkjqwTo76?=
+ =?us-ascii?Q?RAny5YOeKUXerBzNnO2AQ=5F-pnYv4zZxwTqAQK90?=
+ =?us-ascii?Q?aXjV-fiOuHwPVfcjK7gdZ14LDRSl0aM380Mlrlq?=
+ =?us-ascii?Q?-SQAnE1rgkguzXHadCxcs4KLhteiMI2hbrNE3CV?=
+ =?us-ascii?Q?KXlcOTHD59omKGRWekkU6lzD1eQll1B5w8viyXE?=
+ =?us-ascii?Q?OBl2ap2KgmJg-=5Fpw8kSci=5FKdAsHwqqWRR6IBuBQ?=
+ =?us-ascii?Q?ENYzVCIw9xvbL1U7-dNzSWigr6fnZuOrPQtgoh7?=
+ =?us-ascii?Q?efsl0FVU0miu=5FsdtC1Yo44R4cu8kn7jzsl8IoPe?=
+ =?us-ascii?Q?9M4EDCMjCsOHDuk6RPz0GG8M-yJFO3C2U65JRDv?=
+ =?us-ascii?Q?cOPYZVOVXeJHd-GT7LCHD1FWu-W=5FMPFsPfXUVfu?=
+ =?us-ascii?Q?xfl1W2bcCxjJf=5FE-mGL0P=5F=5FrxMDPLbGWJZF5VKY?=
+ =?us-ascii?Q?RtrUeqhnHkV0whk-d=5Fsa4AWiIp7E37tQC3RFzkE?=
+ =?us-ascii?Q?S6gpV-hU77vAoVfUtsDBJOdplkO-Qrn6CdfSeNi?=
+ =?us-ascii?Q?vlkAsiJOP-ctu4jI27RiTKC5y2wx1Lo8teixUNb?=
+ =?us-ascii?Q?V90FjeEcB5VIemRmBDapJwPzQUZIlWk-gDroK4D?=
+ =?us-ascii?Q?0uXo7XsgB9Kcn2HBUvrqX6vT3oCPtOC5Lxcwna0?=
+ =?us-ascii?Q?lVObKTNAqh-tyrVpoZVV9U=5FHSyCn4GLObghYOVa?=
+ =?us-ascii?Q?oO90O=5FNG86iaZ7k7DPy34DvsVhmCOoueiaAv7mj?=
+ =?us-ascii?Q?2B5dr7KP64GtTt7EHHbLTS1TmGVqOr7SXc0TY6Y?=
+ =?us-ascii?Q?lCGuFQEpkGO5Q-9TaOGopdCbZKN5sFD7jwQDrHY?=
+ =?us-ascii?Q?QLyuoDICCGJudgvpdlXddnx5L3zDYnyE8vkoN8d?=
+ =?us-ascii?Q?t05AJwTZioseeMFUkK67UEO6LccouFohqacboVi?=
+ =?us-ascii?Q?tUIVo5u73l-D=5F4UjeO7OH144TKMD1U0n2z45fTA?=
+ =?us-ascii?Q?gMEK08Hz7cUAVMtPnzH1mxsFywXEcTXe3DaJnIh?=
+ =?us-ascii?Q?q8-cLi8REJ23c4SIDg3Y3Y0bUF-qMhqZNiGtImm?=
+ =?us-ascii?Q?roEFrBPTmZ6egfGSqNpaXMFbwRa8cFzXWMRsMfB?=
+ =?us-ascii?Q?F90I=5FqjFYDDsQC2vdqm6jrQVUGcAnYRTD5lP3EQ?=
+ =?us-ascii?Q?-nMj6dXOqny=5FmL4G5doR5VXysGs8B8tjFLpPeO6?=
+ =?us-ascii?Q?ukGp4OwrIZOP5MSjdpDhuAluY5VlVH5LM1OUYZl?=
+ =?us-ascii?Q?lB0NtDv9yK6o4zUzB0bZNHrxM9UfGvtzk0EWuPG?=
+ =?us-ascii?Q?ZVDHg-5t6Aeg-ggTf0l7mY1ChtoUmNPGVYwrNBV?=
+ =?us-ascii?Q?4Gqx5anEnMMKuWr5Txgk-MGob6EAZthuLimjGJ2?=
+ =?us-ascii?Q?NbqPi1Wj6ksqYEwFnP4g9Oj-VyajhVfqn26B2jJ?=
+ =?us-ascii?Q?Dtx8UQcthyvngxDkoGbPx2Zw=5F=3E=2C=3Cmailto=3Aunsu?=
+ =?us-ascii?Q?bscribe=40em8707=2Ehartybrofloorstogo=2Ecom=3Fs?=
+ =?us-ascii?Q?ubject=3Dhttp=3A=2F=2Furl6819=2Ehartybrofloorstog?=
+ =?us-ascii?Q?o=2Ecom=2Fmt=2Fu=2Fu001=2EXk4nDjUC7sSmOtjoPbEn2sU?=
+ =?us-ascii?Q?EI3Mj4EGDqb5-mg2UhPc=2F4et=2Fu001=2EDja-rxSL=2F?=
+ =?us-ascii?Q?u001=2EDoTqqkVX3q6sdDv5ZQkCVoBhBR-2BqyhXb?=
+ =?us-ascii?Q?uyrDgTt8DivvjXmxxugIuNZeASiBiT7D2ZM9SSt?=
+ =?us-ascii?Q?7VrlANDBhxM9JCxhcT432ElQ5ZSun0CEwBhUrP9?=
+ =?us-ascii?Q?mw2FyeahE1IymZCjP7xw8FDxQEczikYD52nuxnI?=
+ =?us-ascii?Q?X9e7OkW-2BCGW8kTIu2AQc2TMTB6juXZpw30HX2?=
+ =?us-ascii?Q?j-2Fpq0JenE7r-2F58GUJY9Qg5360sxUr1fiknd?=
+ =?us-ascii?Q?318SQe2u0TcAqA57-2FsKQsg1wGMcfaY5eGE6Ko?=
+ =?us-ascii?Q?FIf5woCu1pc5kA5TbmY4hVs6PoVV2j5qeMlZNeX?=
+ =?us-ascii?Q?5EtBIrBo8Al4TchF0hEvJAaQlm24otyhKMK3YEz?=
+ =?us-ascii?Q?Lv01WNfbohrRzlJ6Sl03h8QU2TsZJUnmDkOOJEg?=
+ =?us-ascii?Q?8-2FmhQ3KgAipEaCgAQXgSA4Slod5t8UQDwwOz3?=
+ =?us-ascii?Q?tD3-2BgYedlpOwYUqX3YwHS-2BGbYCYQ-2Bobu4?=
+ =?us-ascii?Q?Hoa8yJ72r23-2BiUhv7DorTZU-2BUDyOHpXpFJ-?=
+ =?us-ascii?Q?2FKpZfjYnUsttmov3QZAdK1B1lhQPQZ80p43dSz?=
+ =?us-ascii?Q?-2F0MQ08Mzncf6oUyQwA6TnlfqYHAgxF58A7ERO?=
+ =?us-ascii?Q?KOYNOzbSWxlNPrhZ1GFCGWvr5gKl1G6wkSreI0c?=
+ =?us-ascii?Q?Tos8WVCFTD6rbxFvQmAeMzQxzBasRaML-2FJ4UV?=
+ =?us-ascii?Q?dc3FyCo6TFg61-2Ff9-2BT0cAjQziRB06VwAqHG?=
+ =?us-ascii?Q?8F8Z8gSrfwVZ72CPjKwWIJh9k9Vc1KQGGVaLeIU?=
+ =?us-ascii?Q?RLBmoTqABLFK07HzcNhb1S-2FEtQ7egog0IDbmz?=
+ =?us-ascii?Q?gfqEG5KTD5Eoc-2FshAXpIt6-2FRfHyTEPeaY7N?=
+ =?us-ascii?Q?GZMgfPGWfQdLR8yfI9ZTkfgordCYNGtrPfaI-2B?=
+ =?us-ascii?Q?ufbsCjGkI5uf1Jasp9O1indZblIfCLr4CZCWf7v?=
+ =?us-ascii?Q?4HdEpRsnbRrAeeN-2B-2FsR16BGWFZBjScN8AMW?=
+ =?us-ascii?Q?-2FFaW6itWOlpBxRScm4aQa4bXZS-2Bz4f0-2Fu?=
+ =?us-ascii?Q?jM1-2FKhLmsqY5bz-2B2OVtigyDoDaeJiR2F8Af?=
+ =?us-ascii?Q?8hM7l=2Fu001=2EpXgjLTXl=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Feedback-ID: 51198369:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3MKr2BPBuekM7SDLATD=2FcPE7cLmySuwP6X9ZtSwclopDY5AdzHoxrEpzu?=
+ =?us-ascii?Q?VpXtL2pmB7dr80j12QqCKaqhdPcSUmLvSF1vEWS?=
+ =?us-ascii?Q?hVMHI4HLie0XABt8KFokLqAMahCT+BwNEi5hTC+?=
+ =?us-ascii?Q?aDIAsI6J8JFEAsVZqy4gIKNfJWg4jyq7Iu6WJa0?=
+ =?us-ascii?Q?K1QGJOvKqMxJb=2F6Gj4AETPTb52TNgW8u9vFFa4k?=
+ =?us-ascii?Q?4=2Fjz8kPv3fIPj+QPVsh8Kw=2FTLGxhNBv2i9g7skA?=
+ =?us-ascii?Q?+BLV?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOiTGZXr83WLlHf2IMS6l5wrq7j?=
+ =?us-ascii?Q?ZXazK=2FcECrUEuq9OdCO=2FzX3ZBfa6ejP7xk=2Fz0NO?=
+ =?us-ascii?Q?FQWip2+ldk5QZ+jPEeN1c=2F=2FE9e1WbLhri0ehiRj?=
+ =?us-ascii?Q?xtT6uiyU7+SutDzwUgdkWQ8zrpnR0mEKWURDEqb?=
+ =?us-ascii?Q?b7MQKy7OiQeeKS0jRcy5VMACPQQwMMh8wnpyt19?=
+ =?us-ascii?Q?G1ea1xkGTQSz1568rTWkCo16wp1qDaEv2BRjRNp?=
+ =?us-ascii?Q?p8eTuQ8FmOkpzR204nc=2FEgZIJP=2FHZnp3zNhcRJ0?=
+ =?us-ascii?Q?YVq6iqDfA06rl7z2lMmlCpshea8KmRs57tkeua2?=
+ =?us-ascii?Q?VZYmW7rIPmaS+efZqJRM+rkP3njOEqNYaIHOs+L?=
+ =?us-ascii?Q?IAcORSJxxoF2wR9AYp3l=2FQ5wYQzMfOg0b1EXl1Q?=
+ =?us-ascii?Q?1n2bq+B14USMY4Q0wZgavsFNVwTrzTajZFhkZdw?=
+ =?us-ascii?Q?xOX1=2F4ZDQwGlnmMMecTojF+CBU2+yi=2F8zpCF+2Q?=
+ =?us-ascii?Q?JLgBPJHIaU9UnyN4UwGuFAsIaoJYa1YI0+jr5s7?=
+ =?us-ascii?Q?TUOmMPxxyQnoa633j5vD9PH2=2FVGeOWBi74XfI74?=
+ =?us-ascii?Q?czQUa3hBRvgcjg8nDMYEGa5cryQzk4TzWRczK8A?=
+ =?us-ascii?Q?QYVKFg77v6cMEVjh4gO9ojFzodGvBOl58vmRvBe?=
+ =?us-ascii?Q?fsJBe24TT?=
+To: Toriner telsy <manamagbun@gmail.com>
+X-Entity-ID: u001.2rJOZMpHU5zC7xUzYR6IQQ==
+
+--0c0fda0c152b6b81e61197073db898561d8fbc039d275e8b700766927d8c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hello Toriner,
+
+Just a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 P=
+M.
+
+Please reply to confirm this appointment. You can call our office at 646-99=
+1-6253 anytime if you=E2=80=99d like to reschedule.
+
+See you soon!
+
+HARTY BRO FLOORS TO GO
+
+5011 E Desert Vista Trail
+
+Cave Creek, AZ 85331
+
+646-991-6253
+
+Teresa Molfino-Jim
+
+5011 E Desert Vista Trail , Cave Creek , AZ 85331
+
+Unsubscribe ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?upn=3Du0=
+01.aPNeY4aoOK8smdI6QsAmzwnc8L1iR-2BbQQov-2FAT4ilw7MhGp0GIznypVxXVZ9kM7-2FhK=
+Ol-2BiPdi1yP6jJHjwFu6-2FRBwyR376GeQM6Ep2F9dB9f3fTsGMg0gXMeA2OvkX7CfnAF2pz3D=
+NeERCpfrEMK-2FxK-2FREBags5pry8hTfmXqbpIRIgI3eKfiBF6dVjkoV-2BFZnB-2FWmahiNx6=
+OsTwPiCsIAgEXIxbag5ZrV4n8zDKzQdFJ7IS6-2BWJQe5W9hSf6undPIXDbWfaNxcrMCg-2B6vB=
+1MH-2BY7ktBouz1C2-2FrcHfsVHFbsu-2FmYoVbyFg-2Fc1VjzMY8GREOuGjNlCXr58BnFJlPk-=
+2FEp1YpIc0FQSCgr7yFli-2B4RuvmiRXbM-2BciMhyTN-2F-2Fq84B5mUfeF99L7-2BKkSLJpId=
+SgS8lgo-2Fk3am7O5TTmPbqiZWt40M-2BRYm1EcSBKMBkqOTPdM0xlWyUXNpViaeVlhLfik-2BR=
+rRLggqXDKYPrbmoCuMa6g2-2BRCFe4FCNl5TkoMci9oU4rvdPSeupMVQPpiBmEqSEMh6tYweKrj=
+UaEahftrfXluCVSqeXj-2F1UGI6DE7rWQ0FmFUXIco29tGnAnibKjSlTh5qg9IRERlREwK6-2FX=
+oH5YwaCnmbw-2BbixM-2F4ku-2FRUbv8Roc1iznKAOFFPd6uvOhbPNF5uuSIF9U26HlqyfGKb87=
+mSLm1WvDbSz4EurFwM0Gbe19jjXdISetcJgKJYDuWWQJZ9s4sSDWsendOvHdH54Th3w59csaRMM=
+PcMjQ86IxbNm4Mua6fpx5kK51lOGy7q3mAYzet-2FL3Y5-2FgHBELHAl-2FvfjJka3mqNySGamq=
+G0oRL-2FYP9Celsmj5JBUqpnMhqDc7vDFH0rssB4maGdSx5-2BxP39xMTKba6bp-2BEV-2BnIKw=
+-2Fb8jkukowZKS7wCproi5Fghzo-2Fub3LJ9ybDrtJPKyGr3Us7qbQqKtMr3kqwjXL ) - Unsu=
+bscribe Preferences ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?=
+upn=3Du001.aPNeY4aoOK8smdI6QsAmzwnc8L1iR-2BbQQov-2FAT4ilw7MhGp0GIznypVxXVZ9=
+kM7-2FhKOl-2BiPdi1yP6jJHjwFu6-2FRBwyR376GeQM6Ep2F9dB9f3fTsGMg0gXMeA2OvkX7Cf=
+nAF2pz3DNeERCpfrEMK-2FxK-2FREBags5pry8hTfmXqbpIRIgI3eKfiBF6dVjkoV-2BFZnB-2F=
+WmahiNx6OsTwPiCsIAgEXIxbag5ZrV4n8zDKzQdFJ7IS6-2BWJQe5W9hSf6undPIXDbWfaNxcrM=
+Cg-2B6vB1MH-2BY7ktBouz1C2-2FrcHfsVHFbsu-2FmYoVbyFg-2Fc1VjzMY8GREOuGjNlCXr58=
+BnFJlPk-2FEp1YpIc0FQSCgr7yFli-2B4RuvmiRXbM-2BciMhyTN-2F-2Fq84B5mUfeF99L7-2B=
+KkSLJpIdSgS8lgo-2Fk3am7O5TTmPbqiZWt40M-2BRYm1EcSBKMBkqOTPdM0xlWyUXNpViaeVlh=
+Lfik-2BRrRLggqXDKYPrbmoCuMa6g2-2BRCFe4FCNl5TkoMci9oU4rvdPSeupMVQPpiBmEqSEMh=
+6tYweKrjUaEahftrfXluCVSqeXj-2F1UGI6DE7rWQ0FmFUXIco29tGnAnibKjSlTh5qg9IRERlR=
+EwK6-2FXoH5YwaCnmbw-2BbixM-2F4ku-2FRUbv8Roc1iznKAOFFPd6uvOhbPNF5uuSIF9U26Hl=
+qyfGKb87mSLm1WvDbSz4EurFwM0Gbe19jjXdISetcJgKJYDuWWQJZ9s4sSDWsendOvHdH54Th3w=
+59csaRMMPcMjQ86IxbNm4Mua6fpx5kK51lOGy7q3mAYzet-2FL3Y5-2FgHBELHAl-2FvfjJka3m=
+qNySGamqG0oRL-2FYP9Celsmj5JBUqpnMhqDc7vDFH0rssB4maGdSx5-2BxP39xMTKba6bp-2BE=
+V-2BnIKw-2Fb8jkukowZKS7wCproi5Fghzo-2Fub3LJ9ybDrtJPKyGr3Us7qbQqKtMr3kqwjXL =
+)
+--0c0fda0c152b6b81e61197073db898561d8fbc039d275e8b700766927d8c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Hello=
+ Toriner,</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Just =
+a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 PM.</s=
+pan></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Pleas=
+e reply to confirm this appointment. You can call our office at 646-991-625=
+3 anytime if you&rsquo;d like to reschedule.</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">See y=
+ou soon!</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">HARTY=
+ BRO FLOORS TO GO</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">5011 =
+E Desert Vista Trail</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Cave =
+Creek, AZ 85331&nbsp;</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">646-9=
+91-6253</span></p>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+        <div class=3D""Unsubscribe--addressLine"">
+          <p class=3D""Unsubscribe--senderName""
+            style=3D""font-size:12px;line-height:20px""
+          >
+            Teresa Molfino-Jim
+          </p>
+          <p style=3D""font-size:12px;line-height:20px"">
+            <span class=3D""Unsubscribe--senderAddress"">5011 E Desert Vista =
+Trail</span>, <span class=3D""Unsubscribe--senderCity"">Cave Creek</span>, <s=
+pan class=3D""Unsubscribe--senderState"">AZ</span> <span class=3D""Unsubscribe=
+--senderZip"">85331</span>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""http://url6819.=
+hartybrofloorstogo.com/wf/unsubscribe?upn=3Du001.aPNeY4aoOK8smdI6QsAmzwnc8L=
+1iR-2BbQQov-2FAT4ilw7MhGp0GIznypVxXVZ9kM7-2FhKOl-2BiPdi1yP6jJHjwFu6-2FRBwyR=
+376GeQM6Ep2F9dB9f3fTsGMg0gXMeA2OvkX7CfnAF2pz3DNeERCpfrEMK-2FxK-2FREBags5pry=
+8hTfmXqbpIRIgI3eKfiBF6dVjkoV-2BFZnB-2FWmahiNx6OsTwPiCsIAgEXIxbag5ZrV4n8zDKz=
+QdFJ7IS6-2BWJQe5W9hSf6undPIXDbWfaNxcrMCg-2B6vB1MH-2BY7ktBouz1C2-2FrcHfsVHFb=
+su-2FmYoVbyFg-2Fc1VjzMY8GREOuGjNlCXr58BnFJlPk-2FEp1YpIc0FQSCgr7yFli-2B4Ruvm=
+iRXbM-2BciMhyTN-2F-2Fq84B5mUfeF99L7-2BKkSLJpIdSgS8lgo-2Fk3am7O5TTmPbqiZWt40=
+M-2BRYm1EcSBKMBkqOTPdM0xlWyUXNpViaeVlhLfik-2BRrRLggqXDKYPrbmoCuMa6g2-2BRCFe=
+4FCNl5TkoMci9oU4rvdPSeupMVQPpiBmEqSEMh6tYweKrjUaEahftrfXluCVSqeXj-2F1UGI6DE=
+7rWQ0FmFUXIco29tGnAnibKjSlTh5qg9IRERlREwK6-2FXoH5YwaCnmbw-2BbixM-2F4ku-2FRU=
+bv8Roc1iznKAOFFPd6uvOhbPNF5uuSIF9U26HlqyfGKb87mSLm1WvDbSz4EurFwM0Gbe19jjXdI=
+SetcJgKJYDuWWQJZ9s4sSDWsendOvHdH54Th3w59csaRMMPcMjQ86IxbNm4Mua6fpx5kK51lOGy=
+7q3mAYzet-2FL3Y5-2FgHBEKmeRDgk9EbUMJV1pwYLWFnXpxS1csIdSnaOIYFB3aU7uxsyF7xRy=
+TWqoFTbxTYZtyr1GDBBZXR7z0LjzP-2FG-2BdYdy0oOVhfJigk2aLDs5-2FOp1-2BafDjqSEu5o=
+yTiaGD0X-2BY23lTY7s6SmjeUyhLGv7Bc"" target=3D""_blank"" style=3D""font-family:s=
+ans-serif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""http://url6819.hartybrofloorstogo.com/wf/unsubscribe?u=
+pn=3Du001.aPNeY4aoOK8smdI6QsAmzwnc8L1iR-2BbQQov-2FAT4ilw7MhGp0GIznypVxXVZ9k=
+M7-2FhKOl-2BiPdi1yP6jJHjwFu6-2FRBwyR376GeQM6Ep2F9dB9f3fTsGMg0gXMeA2OvkX7Cfn=
+AF2pz3DNeERCpfrEMK-2FxK-2FREBags5pry8hTfmXqbpIRIgI3eKfiBF6dVjkoV-2BFZnB-2FW=
+mahiNx6OsTwPiCsIAgEXIxbag5ZrV4n8zDKzQdFJ7IS6-2BWJQe5W9hSf6undPIXDbWfaNxcrMC=
+g-2B6vB1MH-2BY7ktBouz1C2-2FrcHfsVHFbsu-2FmYoVbyFg-2Fc1VjzMY8GREOuGjNlCXr58B=
+nFJlPk-2FEp1YpIc0FQSCgr7yFli-2B4RuvmiRXbM-2BciMhyTN-2F-2Fq84B5mUfeF99L7-2BK=
+kSLJpIdSgS8lgo-2Fk3am7O5TTmPbqiZWt40M-2BRYm1EcSBKMBkqOTPdM0xlWyUXNpViaeVlhL=
+fik-2BRrRLggqXDKYPrbmoCuMa6g2-2BRCFe4FCNl5TkoMci9oU4rvdPSeupMVQPpiBmEqSEMh6=
+tYweKrjUaEahftrfXluCVSqeXj-2F1UGI6DE7rWQ0FmFUXIco29tGnAnibKjSlTh5qg9IRERlRE=
+wK6-2FXoH5YwaCnmbw-2BbixM-2F4ku-2FRUbv8Roc1iznKAOFFPd6uvOhbPNF5uuSIF9U26Hlq=
+yfGKb87mSLm1WvDbSz4EurFwM0Gbe19jjXdISetcJgKJYDuWWQJZ9s4sSDWsendOvHdH54Th3w5=
+9csaRMMPcMjQ86IxbNm4Mua6fpx5kK51lOGy7q3mAYzet-2FL3Y5-2FgHBEKmeRDgk9EbUMJV1p=
+wYLWFnXpxS1csIdSnaOIYFB3aU7uxsyF7xRyTWqoFTbxTYZtyr1GDBBZXR7z0LjzP-2FG-2BdYd=
+y0oOVhfJigk2aLDs5-2FOp1-2BafDjqSEu5oyTiaGD0X-2BY23lTY7s6SmjeUyhLGv7Bc"" targ=
+et=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D""font-f=
+amily:sans-serif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""http://url6819.hartybrofloorstogo.com/wf/open?upn=3Du001.aP=
+NeY4aoOK8smdI6QsAmzwnc8L1iR-2BbQQov-2FAT4ilw7MhGp0GIznypVxXVZ9kM7-2FhKOl-2B=
+iPdi1yP6jJHjwFu6-2FRBwyR376GeQM6Ep2F9dB9f3fTsGMg0gXMeA2OvkX7CfnAF2pz3DNeERC=
+pfrEMK-2FxK-2FREBags5pry8hTfmXqbpIRIgI3eKfiBF6dVjkoV-2BFZnB-2FWmahiNx6OsTwP=
+iCsIAgEXIxbag5ZrV4n8zDKzQdFJ7IS6-2BWJQe5W9hSf6undPIXDbWfaNxcrMCg-2B6vB1MH-2=
+BY7ktBouz1C2-2FrcHfsVHFbsu-2FmYoVbyFg-2Fc1VjzMY8GREOuGjNlCXr58BnFJlPk-2FEp1=
+YpIc0FQSCgr7yFli-2B4RuvmiRXbM-2BciMhyTN-2F-2Fq84B5mUfeF99L7-2BKkSLJpIdSgS8l=
+go-2Fk3am7O5TTmPbqiZWt40M-2BRYm1EcSBKMBkqOTPdM0xlWyUXNpViaeVlhLfik-2BRrRLgg=
+qXDKYPrbmoCuMa6g2-2BRCFe4FCNl5TkoMci9oU4rvdPSeupMVQPpiBmEqSEMh6tYweKrjUaEah=
+ftrfXluCVSqeXj-2F1UGI6DE7rWQ0FmFUXIco29tGnAnibKjSlTh5qg9IRERlREwK6-2FXoH5Yw=
+aCnmbw-2BbixM-2F4ku-2FRUbv8Roc1iznKAOFFPd6uvOhbPNF5uuSIF9U26HlqyfGKb87mSLm1=
+WvDbSz4EurFwM0Gbe19jjXdISetcJgKJYDuWWQJZ9s4sSDWsendOvHdH54Th3w59csaRMMPcMjQ=
+86IxbNm4Mua6fpx5kK51lOGy7q3mAYzet-2FL3Y5-2FgHBEJC5sGvIazwB9Vsr154ZPdNAJiNPo=
+ReDNqr1tX9o8OjM2AUUXKUEnO0GLsctfjaR64D4f2pVkJhlub6wfTxhd6vcjyTAvaqLJ349ScOU=
+33arvuGHKAjCSTF0KVVdqmL04k3qCNxW1Na-2Fj3dnF6JdcaW"" alt=3D"""" width=3D""1"" hei=
+ght=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;=
+border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importan=
+t;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importa=
+nt;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !i=
+mportant;""/></body>
+  </html>
+
+--0c0fda0c152b6b81e61197073db898561d8fbc039d275e8b700766927d8c--
+","""Teresa Molfino-Jim"" <jim@hartybrofloorstogo.com>",manamagbun@gmail.com,2025-03-15,44.198.45.247,United States,so,users/51198369/fea10ec3-53fe-4753-951b-35d184f27b14.json
+51198369,YmyYTVTwTcOlaeYmTvlgqg.recvd-69cbc48b94-4z24n-1-67D8714C-B.0,cHJvY2Vzc2VkLTUxMTk4MzY5LVlteVlUVlR3VGNPbGFlWW1UdmxncWctMA,Looking forward to seeing you soon.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hartybrofloorstogo.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=lgHgHov37MOAKxi7xAc5EXJbnouAdxLG4VZhU+/M100=;
+	b=K8qZ33+Mggx4cEBeGVk7jPnF/fHg/IPmeHtRtNzV25hUv4azalOuStxeRN758GTQEEyN
+	Ov4otRNVFRiQ0WZ3bNfjX9pyT403E2Ktsh98TBrWFuYGs/Zt8HE+Txpx7PJ79knGnoIulB
+	INqZnG8HYwYJCqfjrmt8HSO2EVo74NKZ9j4d2Vj49gHddqzhusi9GxPHMrRSC/srtRxmYf
+	wb4qW7ME9NCPV6RD6HHvBt9hJFEtCsnpTcH2c+2bDdgePvIauFcJPlT1srRT+6dOIGVZ8b
+	hQa8WUEKo9XIdJ6rwengVfLdNv10BUyusq5UmU42L0Dg0Cd5ngl/keArZU5BKKjg==
+Received: by recvd-69cbc48b94-4z24n with SMTP id recvd-69cbc48b94-4z24n-1-67D8714C-B
+	2025-03-17 19:00:28.096700088 +0000 UTC m=+10618573.397646721
+Received: from NTExOTgzNjk (unknown)
+	by geopod-ismtpd-3 (SG) with HTTP
+	id YmyYTVTwTcOlaeYmTvlgqg
+	Mon, 17 Mar 2025 19:00:28.049 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=f9ece830b2903d8100cb27ef848a819adf56bc9f0adf42749451f58767cc
+Date: Mon, 17 Mar 2025 19:00:28 +0000 (UTC)
+From: Teresa Molfino-Jim <jim@hartybrofloorstogo.com>
+Mime-Version: 1.0
+Message-ID: <YmyYTVTwTcOlaeYmTvlgqg@geopod-ismtpd-3>
+Subject: Looking forward to seeing you soon.
+Reply-To: jim@hartybrofloorstogo.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51198369=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Eu0XX?=
+ =?us-ascii?Q?pKc3T875t9zME5WU1G4nHav3l5IOGGKn9-9ZBOc?=
+ =?us-ascii?Q?OED=5FwtXSGQInwfyzgZ15JpYHWxa-d8x7yI7=5FYgP?=
+ =?us-ascii?Q?vDQ0-1KNq6Zp0uzMEkodXdXgXtwTWunqa24XzCi?=
+ =?us-ascii?Q?sjwpmAznzFUMDei94lFRG6t2BZnKBxMG=5FAFJD-N?=
+ =?us-ascii?Q?fB2tUt9NU9cXlsUvay3m8aYOC39iJnxFTeeNiV1?=
+ =?us-ascii?Q?Ge60kXBVDBWcHhX=5FawRe0vcbK7oYHaPj1u9U2tS?=
+ =?us-ascii?Q?nHqzrkqpONaLY=5FJyLa05YRMcJP0eNyH6TliHbdR?=
+ =?us-ascii?Q?2VAWHxSjqP=5FzlA7Z=5FYlHfJFy5zJ5t03FKLtFUfz?=
+ =?us-ascii?Q?XjcTXLlUBR3AkcJRXljjCJIz2mBcvvO6nSTA63=5F?=
+ =?us-ascii?Q?JdjMvoU5AAxGtqhULdKijDwMoQHGhiIiL9Ex6Gs?=
+ =?us-ascii?Q?-be0MlmGTt8=5FrsiF59YTaahwaqzso5rHNnzbFOK?=
+ =?us-ascii?Q?YdLWUqggg29hkB2JCOivJRDzZ4ouTh8FIP1nhz5?=
+ =?us-ascii?Q?52Z=5F45key7QApCf0sQksZbwKSYH9IetFU-Z80qG?=
+ =?us-ascii?Q?9Iv1hNL6ygZZkMD-JIAvz=5FkbaL3L495H=5FbpebS=5F?=
+ =?us-ascii?Q?-yvjf3aHHoIbRF1g5I5dM6yNTnKR=5F8-enkTeXhZ?=
+ =?us-ascii?Q?xj4WHiEWC=5FxaSLFTDvdX5c=5FpTvR87KxtnhaCszU?=
+ =?us-ascii?Q?I=5FPEdsYTry1=5FeWdDtt0hZBUxhzE0pdyYTvsBhLl?=
+ =?us-ascii?Q?bg9rxQziafG1z4MWECgq-87DTET5nuJmvFB=5FJG6?=
+ =?us-ascii?Q?zgH5CZ3ZdVU5fyms6ITxIy8YnYzuCJx9dGrUANa?=
+ =?us-ascii?Q?EvpcuQTsBAI=5FZkf1ArOWYk=5F3q5invNtfZhTecWv?=
+ =?us-ascii?Q?cz9ZnrLB7Zzie=5FZNpLwBreQXOSth=5Fcze88jB9pJ?=
+ =?us-ascii?Q?=5F5Qh7hbx=5Fs7RF8ERAr8mL7Hce1hfvCjqrZrUXOh?=
+ =?us-ascii?Q?TtCGphTkkifU3HnWtClgbRQ0VVyaG-YO4eq4tPR?=
+ =?us-ascii?Q?p7L-V6-OmEEf-XbEi3Mh9-7-V1FSSUex7FkHH8H?=
+ =?us-ascii?Q?DyfZOWZvkTBYXZt3HfqyShYEk5fuHSHLeLBc4Fy?=
+ =?us-ascii?Q?XQkHLk388qiAbXi9T-wriRBJK3b1j0zR7pGR=5Fi8?=
+ =?us-ascii?Q?Q2-ETtCWKlHDuwjy7kRxIf5qTzxpCGQKu9M2obQ?=
+ =?us-ascii?Q?S7vDBCODPmJ31yhsnxrkaomEWGY66a12j35FMhd?=
+ =?us-ascii?Q?IrRGx0W37xv73D5CGi-qhWV4X243RktKDUa-jDS?=
+ =?us-ascii?Q?l6Z25US6Qw2kP0Eq=5FKQDrPvzsTys3F80yJnr-Bv?=
+ =?us-ascii?Q?wo18-4etBLH=5FGKzOuQTqj4zRvIeES1h9EKxd26g?=
+ =?us-ascii?Q?LnPsWHItJfz=5FD4NH5mPUQiE34fvpvMa=5FpigWG7h?=
+ =?us-ascii?Q?6DtOw52rAwWb2qZ0wzn0BenmGHUuTXe5DSsAjD5?=
+ =?us-ascii?Q?12iL0Cd1HIPe9lv0MyZNhA93OlT0THIdGA2Qkte?=
+ =?us-ascii?Q?n-6iTKQBpTySdptbk96JotrSCe4PyLfBRBw48Rs?=
+ =?us-ascii?Q?RPAwbNsocNM9xQ5tV6CVYoDDxt577kjzvqolCkY?=
+ =?us-ascii?Q?FEk8hWPAJTO8v16p=5FCnfXQKUNTGFZkk00cyQbuG?=
+ =?us-ascii?Q?edOX-jqAR1tKf3IknR2cuJkO7KP=5FOkjE-gmX6fV?=
+ =?us-ascii?Q?LZrc3Q1Q=3E=2C=3Cmailto=3Aunsubscribe=40em8707=2Eha?=
+ =?us-ascii?Q?rtybrofloorstogo=2Ecom=3Fsubject=3Dhttp=3A=2F=2Furl?=
+ =?us-ascii?Q?6819=2Ehartybrofloorstogo=2Ecom=2Fmt=2Fu=2Fu001=2EZ?=
+ =?us-ascii?Q?NRNZ30-vMFAV7XXLoi8Ln5gyePgfY3pp2UZg3qt?=
+ =?us-ascii?Q?L66yTiWCPPfLvaDLwy9i08nU=2F4ev=2Fu001=2EDFzes?=
+ =?us-ascii?Q?k6K=2Fu001=2E6GoBcP1fEXSZLS9p85DH1M00h5Ek77?=
+ =?us-ascii?Q?2WN0sdRCmQqUB7TkFx6VC6AvuLdCXLXe1hfzXWw?=
+ =?us-ascii?Q?Ku78cypDT0sa7Y9FE6eoIcOEelIuPkqlIt01Q4s?=
+ =?us-ascii?Q?WAfZnor3s1fjvdz57QO0gqD1ninWAISqxkeXzOm?=
+ =?us-ascii?Q?zm4XX2MqAgkZ819Ku3G4HT3gUcnT7dNV-2FogeH?=
+ =?us-ascii?Q?6Z13CKBV-2Fp4gmt-2F9aSRMWP4kkacACZmrZRM?=
+ =?us-ascii?Q?uVp2Y-2FaNOzf5dluW2b-2BGIFhLoihwsTGPZiE?=
+ =?us-ascii?Q?ReqBVfD31CUh9dr1B-2Fl5WvbS-2Fgg9JIylyNZ?=
+ =?us-ascii?Q?X-2BlPzJVm8TcyF0upgUmkNTeBoCNblnNschFJC?=
+ =?us-ascii?Q?sa7-2Bzx2PDFdAZgSQSOhx8P6cK5x3X-2BVZ5HY?=
+ =?us-ascii?Q?0mWBFdAR2cpUsV-2FH5Cc1SO9hmAUEgjDtGlXCl?=
+ =?us-ascii?Q?kTe3dE6O3KELSCf960dIKlKzU9m3i1Q7-2FTyM2?=
+ =?us-ascii?Q?1Ftd2bRPKt2YzSMvsmuO8d64C0ux0u8eGCxwZyQ?=
+ =?us-ascii?Q?RVCXFbD-2BHokHF-2FTD-2F9lN-2Fzjh7YhHZA2?=
+ =?us-ascii?Q?ci-2BAyV4kYOETIw1SstTZYTPChNI-2FBOpL2fh?=
+ =?us-ascii?Q?8a3xnVCw7o7VB2DL4lbNVKBANvPHu-2F0cucQ-2?=
+ =?us-ascii?Q?Fell562bQKLGXJEfYd0AT7Rlu1NJZ-2F6YIuZtP?=
+ =?us-ascii?Q?ZObCBPuFHMW-2FoUO5I5xYsi-2B61za4nxtrzNh?=
+ =?us-ascii?Q?qZmnvp0j74M9ZlLsc-2FBW50GqAkPUew9TVfkj1?=
+ =?us-ascii?Q?YlJpWGuUhDwQhlcloBbf91d9qdB-2BUlWjaJtCS?=
+ =?us-ascii?Q?D-2BoBnWDwud0Irev7L3Pxtxy-2BohAmc-2ForQ?=
+ =?us-ascii?Q?6CQsupcfqWqSZSrrIwPvvayIlkPCttn8SPagNL8?=
+ =?us-ascii?Q?RJ4-2BHq97-2FMINpSTtf3R9SyOC2agD3UVYai1?=
+ =?us-ascii?Q?S6YYGa1ZYlYbusFPCQ9kzBIeL4yee-2B3pYCdeK?=
+ =?us-ascii?Q?zSE76LsVpvnDM3Jjxt1LcP-2FiqKUnTnuwHKQcA?=
+ =?us-ascii?Q?kFD8ag47GZD3q5vbdHuRqlA8l4HK7erilLXxWwb?=
+ =?us-ascii?Q?mbAe5UpAPPyoz5uNK5ppnfAizF8mNG7C0B3XMSk?=
+ =?us-ascii?Q?ZQ-3D-3D=2Fu001=2ERfXn6hCg=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3MKr2BPBuekM7SDLATD=2FcPE7cLmySuwP6X9ZtSwclopDY5AdzHoxrEpzu?=
+ =?us-ascii?Q?VpXtL2pmB7dr80j12QqCKaqhdPcSUmLvSF1vEWS?=
+ =?us-ascii?Q?hVMHI4HLie13IAGmCl4aWyvPeUmCgTAT20j1oQr?=
+ =?us-ascii?Q?aDJqAVC0UFyJqChiv77oiYyoTUeh+WyiCvg6Yav?=
+ =?us-ascii?Q?apBwnkGnR0NwVaiWv3F4zrKKbP9PMwf5BVGhffT?=
+ =?us-ascii?Q?ULJgXA6IUDiLmmT6raGk3U+v9lc+EJacJy14Rfr?=
+ =?us-ascii?Q?OSK7LgWPrfQpt71vBFqYt0L9jQ=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOjFffmqY4aDO8BZRJuY+GKi7+F?=
+ =?us-ascii?Q?Z9EudqlFDxKlOdCGpL1089f1shkYPEZjxUYaGzY?=
+ =?us-ascii?Q?zOxq=2F9Lt1vvIeZoxb4mvY8rJ4478+HnbTjkViwL?=
+ =?us-ascii?Q?+c8fIvVLfLyxU7iDMv6YkXl=2FQu2OYpWdJ6Rsqtd?=
+ =?us-ascii?Q?T=2Fqu9=2FZF9rW+gjLugDS5CbO27fnQXwEz3cBJhyH?=
+ =?us-ascii?Q?dFtxao15ld+XBKAXcfx9KvoLg=2FS=2FQZuHb63ZCPe?=
+ =?us-ascii?Q?PMk3ejAhPQSslbXTVX0KUx0MgA0mCQN3VLAAek4?=
+ =?us-ascii?Q?yzyRLOYgvoWW9V7JGpdAZhTPLPQXCjv8DVFTge8?=
+ =?us-ascii?Q?kgL2xiYRtutWUIjN8jicfNsKlcwbw6WRYYHXyvg?=
+ =?us-ascii?Q?sv1R6wpHPXXM+ZznTd4bIW8ZElDLuWfk3RLdYlm?=
+ =?us-ascii?Q?lVo0Yt7FyRYb6+fN3b+W5z2e1HA=2FXZMQnaoeDMG?=
+ =?us-ascii?Q?swiywenEugqzUeo2eEdULIoSgr=2F8YfoMyaYiNSN?=
+ =?us-ascii?Q?UrMIDsjL=2F9J6nkybNHAC=2F=2F=2F8=2FUO6eEPk1918QKv?=
+ =?us-ascii?Q?AuodjWK2jP8g+E4nYgoD2swhz5EsSFkinfBSlG5?=
+ =?us-ascii?Q?Sq0Qd1ePZIrA6SIO315DEiGaa4LB5IDUmjT3kgM?=
+ =?us-ascii?Q?4nSrLhjjc+gRWyUDg7Pnv=2F5IaIDYd5uWgFUMaxU?=
+ =?us-ascii?Q?Xyk2J3w5O?=
+To: michael.donovan@aciworldwide.com
+X-Entity-ID: u001.2rJOZMpHU5zC7xUzYR6IQQ==
+
+--f9ece830b2903d8100cb27ef848a819adf56bc9f0adf42749451f58767cc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hello ,
+
+Just a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 P=
+M.
+
+Please reply to confirm this appointment. You can call our office at 646-99=
+1-6253 anytime if you=E2=80=99d like to reschedule.
+
+See you soon!
+
+HARTY BRO FLOORS TO GO
+
+5011 E Desert Vista Trail
+
+Cave Creek, AZ 85331
+
+646-991-6253
+
+Teresa Molfino-Jim
+
+5011 E Desert Vista Trail , Cave Creek , AZ 85331
+
+Unsubscribe ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?upn=3Du0=
+01.eVSRYURf9gtb7owcEAZtPy3x7tmCFt3XuibivNRHmS14sJg0R-2B1hFVPlrjqZWeUvcY3nuf=
+F-2Bq7OZUYcyXogpAn6css5Nu6aQy8kQvOVkWkWVduxYvX-2FeE2vLgRNbNmxESZAWQkTX5uUY5=
+tThYhyVF4CeY-2FMKyHEq2oc1AoNWr3N141axiBsnjvhS0nx6pFagTeZMuHpyWSL3vs62OIKMCp=
+N51GrDC-2F-2FryGfxDdIetfp3HuJ7HvFw1ew3K1TkFvlrWeDfgK5D5SuMIvjsZmZt-2FnaI5S1=
+3NjZwqKwTsCyPIygfXa4IlbVgTQHvr4ksNnzQPmX5FaY4KENf2aMfTZurOLPOxmdnqP2DVfBM2f=
+GAagTTht7SniGTW58xVCMlJ3ZKGhkeGN36Xwi8LZEOBRt-2BWKaeMZdue8oI8yNZsedKM-2F-2B=
+-2FW-2FycdUb0U6BQApXbUcN1J5ktep6WQsn5-2FwUwmG8thPJ5ZZxK5E5uDgSZWTXDfxx0i0Q2=
+oNqXpT5ziqnPcCX8bgBDaoeKMA51uzNsuIjJJr9HgygJLFLXyCxj0hjwcY6mhYv63cKQUZlWObj=
+ynEIxtVrbW7-2BOic6-2BQSDhbp3KeuVPliZi1amvh6jO3jfbfBMQ-2Fu-2FwgN-2BoTjkPGjCn=
+xHRN2Xhx-2B2UAoaf4I7Gu-2FBZaZOW9f-2BZxlUgc9ga3zwq0haa3E-2FTBsibxXymonCPMCTt=
+e5vtEZ2AcHPn1DMHIuGcEeknQPSpLxeoaWkU1WZHE-2FBVTQGj3prhLkBQQitnX1QARgpeaSXbR=
+hdBME6fRNlRPRu-2Bmzh3zc1GV-2FNE8anml-2FfuX-2Fv0Ed-2Bb35dIB3YQ6PsZE8t1dodarj=
+B40xaYmzmpl3iqq7Enpqi9cbXrxxzJC3kur2Pygh6GylwAi9nQkMt-2FrAAbztfXWJpnD4U72RZ=
+vK4X37fRNWXrEh6cjSMtorS1Dq9qHqcQDlyHrCLLNSIiUM4hNWjbeaHEc-2FUvxbfLvf6w-3D-3=
+D ) - Unsubscribe Preferences ( http://url6819.hartybrofloorstogo.com/wf/un=
+subscribe?upn=3Du001.eVSRYURf9gtb7owcEAZtPy3x7tmCFt3XuibivNRHmS14sJg0R-2B1h=
+FVPlrjqZWeUvcY3nufF-2Bq7OZUYcyXogpAn6css5Nu6aQy8kQvOVkWkWVduxYvX-2FeE2vLgRN=
+bNmxESZAWQkTX5uUY5tThYhyVF4CeY-2FMKyHEq2oc1AoNWr3N141axiBsnjvhS0nx6pFagTeZM=
+uHpyWSL3vs62OIKMCpN51GrDC-2F-2FryGfxDdIetfp3HuJ7HvFw1ew3K1TkFvlrWeDfgK5D5Su=
+MIvjsZmZt-2FnaI5S13NjZwqKwTsCyPIygfXa4IlbVgTQHvr4ksNnzQPmX5FaY4KENf2aMfTZur=
+OLPOxmdnqP2DVfBM2fGAagTTht7SniGTW58xVCMlJ3ZKGhkeGN36Xwi8LZEOBRt-2BWKaeMZdue=
+8oI8yNZsedKM-2F-2B-2FW-2FycdUb0U6BQApXbUcN1J5ktep6WQsn5-2FwUwmG8thPJ5ZZxK5E=
+5uDgSZWTXDfxx0i0Q2oNqXpT5ziqnPcCX8bgBDaoeKMA51uzNsuIjJJr9HgygJLFLXyCxj0hjwc=
+Y6mhYv63cKQUZlWObjynEIxtVrbW7-2BOic6-2BQSDhbp3KeuVPliZi1amvh6jO3jfbfBMQ-2Fu=
+-2FwgN-2BoTjkPGjCnxHRN2Xhx-2B2UAoaf4I7Gu-2FBZaZOW9f-2BZxlUgc9ga3zwq0haa3E-2=
+FTBsibxXymonCPMCTte5vtEZ2AcHPn1DMHIuGcEeknQPSpLxeoaWkU1WZHE-2FBVTQGj3prhLkB=
+QQitnX1QARgpeaSXbRhdBME6fRNlRPRu-2Bmzh3zc1GV-2FNE8anml-2FfuX-2Fv0Ed-2Bb35dI=
+B3YQ6PsZE8t1dodarjB40xaYmzmpl3iqq7Enpqi9cbXrxxzJC3kur2Pygh6GylwAi9nQkMt-2Fr=
+AAbztfXWJpnD4U72RZvK4X37fRNWXrEh6cjSMtorS1Dq9qHqcQDlyHrCLLNSIiUM4hNWjbeaHEc=
+-2FUvxbfLvf6w-3D-3D )
+--f9ece830b2903d8100cb27ef848a819adf56bc9f0adf42749451f58767cc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Hello=
+ ,</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Just =
+a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 PM.</s=
+pan></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Pleas=
+e reply to confirm this appointment. You can call our office at 646-991-625=
+3 anytime if you&rsquo;d like to reschedule.</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">See y=
+ou soon!</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">HARTY=
+ BRO FLOORS TO GO</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">5011 =
+E Desert Vista Trail</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Cave =
+Creek, AZ 85331&nbsp;</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">646-9=
+91-6253</span></p>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+        <div class=3D""Unsubscribe--addressLine"">
+          <p class=3D""Unsubscribe--senderName""
+            style=3D""font-size:12px;line-height:20px""
+          >
+            Teresa Molfino-Jim
+          </p>
+          <p style=3D""font-size:12px;line-height:20px"">
+            <span class=3D""Unsubscribe--senderAddress"">5011 E Desert Vista =
+Trail</span>, <span class=3D""Unsubscribe--senderCity"">Cave Creek</span>, <s=
+pan class=3D""Unsubscribe--senderState"">AZ</span> <span class=3D""Unsubscribe=
+--senderZip"">85331</span>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""http://url6819.=
+hartybrofloorstogo.com/wf/unsubscribe?upn=3Du001.eVSRYURf9gtb7owcEAZtPy3x7t=
+mCFt3XuibivNRHmS14sJg0R-2B1hFVPlrjqZWeUvcY3nufF-2Bq7OZUYcyXogpAn6css5Nu6aQy=
+8kQvOVkWkWVduxYvX-2FeE2vLgRNbNmxESZAWQkTX5uUY5tThYhyVF4CeY-2FMKyHEq2oc1AoNW=
+r3N141axiBsnjvhS0nx6pFagTeZMuHpyWSL3vs62OIKMCpN51GrDC-2F-2FryGfxDdIetfp3HuJ=
+7HvFw1ew3K1TkFvlrWeDfgK5D5SuMIvjsZmZt-2FnaI5S13NjZwqKwTsCyPIygfXa4IlbVgTQHv=
+r4ksNnzQPmX5FaY4KENf2aMfTZurOLPOxmdnqP2DVfBM2fGAagTTht7SniGTW58xVCMlJ3ZKGhk=
+eGN36Xwi8LZEOBRt-2BWKaeMZdue8oI8yNZsedKM-2F-2B-2FW-2FycdUb0U6BQApXbUcN1J5kt=
+ep6WQsn5-2FwUwmG8thPJ5ZZxK5E5uDgSZWTXDfxx0i0Q2oNqXpT5ziqnPcCX8bgBDaoeKMA51u=
+zNsuIjJJr9HgygJLFLXyCxj0hjwcY6mhYv63cKQUZlWObjynEIxtVrbW7-2BOic6-2BQSDhbp3K=
+euVPliZi1amvh6jO3jfbfBMQ-2Fu-2FwgN-2BoTjkPGjCnxHRN2Xhx-2B2UAoaf4I7Gu-2FBZaZ=
+OW9f-2BZxlUgc9ga3zwq0haa3E-2FTBsibxXymonCPMCTte5vtEZ2AcHPn1DMHIuGcEeknQPSpL=
+xeoaWkU1WZHE-2FBVTQGj3prhLkBQQitnX1QARgpeaSXbRhdBME6fRNlRPRu-2Bmzh3zc1GV-2F=
+NE8anml-2FfuX-2Fv0Ed-2Bb35dIB3YQ6PsZETgvHIc89P05qPG3Fr5BHmkLXrrX0mO7A7vtwpl=
+sQ9JOhUWL8A0QHxdxGyUTk7-2BZ5gKTvAvG5X8npqPx5-2BNrW4yE2jX49RzSyYhYMYkZWwPRPd=
+Q7HlQ9-2FZvLvGD9zA8ZFlyYe9fXX-2BywvQAH6PxV38A-3D-3D"" target=3D""_blank"" styl=
+e=3D""font-family:sans-serif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""http://url6819.hartybrofloorstogo.com/wf/unsubscribe?u=
+pn=3Du001.eVSRYURf9gtb7owcEAZtPy3x7tmCFt3XuibivNRHmS14sJg0R-2B1hFVPlrjqZWeU=
+vcY3nufF-2Bq7OZUYcyXogpAn6css5Nu6aQy8kQvOVkWkWVduxYvX-2FeE2vLgRNbNmxESZAWQk=
+TX5uUY5tThYhyVF4CeY-2FMKyHEq2oc1AoNWr3N141axiBsnjvhS0nx6pFagTeZMuHpyWSL3vs6=
+2OIKMCpN51GrDC-2F-2FryGfxDdIetfp3HuJ7HvFw1ew3K1TkFvlrWeDfgK5D5SuMIvjsZmZt-2=
+FnaI5S13NjZwqKwTsCyPIygfXa4IlbVgTQHvr4ksNnzQPmX5FaY4KENf2aMfTZurOLPOxmdnqP2=
+DVfBM2fGAagTTht7SniGTW58xVCMlJ3ZKGhkeGN36Xwi8LZEOBRt-2BWKaeMZdue8oI8yNZsedK=
+M-2F-2B-2FW-2FycdUb0U6BQApXbUcN1J5ktep6WQsn5-2FwUwmG8thPJ5ZZxK5E5uDgSZWTXDf=
+xx0i0Q2oNqXpT5ziqnPcCX8bgBDaoeKMA51uzNsuIjJJr9HgygJLFLXyCxj0hjwcY6mhYv63cKQ=
+UZlWObjynEIxtVrbW7-2BOic6-2BQSDhbp3KeuVPliZi1amvh6jO3jfbfBMQ-2Fu-2FwgN-2BoT=
+jkPGjCnxHRN2Xhx-2B2UAoaf4I7Gu-2FBZaZOW9f-2BZxlUgc9ga3zwq0haa3E-2FTBsibxXymo=
+nCPMCTte5vtEZ2AcHPn1DMHIuGcEeknQPSpLxeoaWkU1WZHE-2FBVTQGj3prhLkBQQitnX1QARg=
+peaSXbRhdBME6fRNlRPRu-2Bmzh3zc1GV-2FNE8anml-2FfuX-2Fv0Ed-2Bb35dIB3YQ6PsZETg=
+vHIc89P05qPG3Fr5BHmkLXrrX0mO7A7vtwplsQ9JOhUWL8A0QHxdxGyUTk7-2BZ5gKTvAvG5X8n=
+pqPx5-2BNrW4yE2jX49RzSyYhYMYkZWwPRPdQ7HlQ9-2FZvLvGD9zA8ZFlyYe9fXX-2BywvQAH6=
+PxV38A-3D-3D"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribePreference=
+s"" style=3D""font-family:sans-serif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""http://url6819.hartybrofloorstogo.com/wf/open?upn=3Du001.eV=
+SRYURf9gtb7owcEAZtPy3x7tmCFt3XuibivNRHmS14sJg0R-2B1hFVPlrjqZWeUvcY3nufF-2Bq=
+7OZUYcyXogpAn6css5Nu6aQy8kQvOVkWkWVduxYvX-2FeE2vLgRNbNmxESZAWQkTX5uUY5tThYh=
+yVF4CeY-2FMKyHEq2oc1AoNWr3N141axiBsnjvhS0nx6pFagTeZMuHpyWSL3vs62OIKMCpN51Gr=
+DC-2F-2FryGfxDdIetfp3HuJ7HvFw1ew3K1TkFvlrWeDfgK5D5SuMIvjsZmZt-2FnaI5S13NjZw=
+qKwTsCyPIygfXa4IlbVgTQHvr4ksNnzQPmX5FaY4KENf2aMfTZurOLPOxmdnqP2DVfBM2fGAagT=
+Tht7SniGTW58xVCMlJ3ZKGhkeGN36Xwi8LZEOBRt-2BWKaeMZdue8oI8yNZsedKM-2F-2B-2FW-=
+2FycdUb0U6BQApXbUcN1J5ktep6WQsn5-2FwUwmG8thPJ5ZZxK5E5uDgSZWTXDfxx0i0Q2oNqXp=
+T5ziqnPcCX8bgBDaoeKMA51uzNsuIjJJr9HgygJLFLXyCxj0hjwcY6mhYv63cKQUZlWObjynEIx=
+tVrbW7-2BOic6-2BQSDhbp3KeuVPliZi1amvh6jO3jfbfBMQ-2Fu-2FwgN-2BoTjkPGjCnxHRN2=
+Xhx-2B2UAoaf4I7Gu-2FBZaZOW9f-2BZxlUgc9ga3zwq0haa3E-2FTBsibxXymonCPMCTte5vtE=
+Z2AcHPn1DMHIuGcEeknQPSpLxeoaWkU1WZHE-2FBVTQGj3prhLkBQQitnX1QARgpeaSXbRhdBME=
+6fRNlRPRu-2Bmzh3zc1GV-2FNE8anml-2FfuX-2Fv0Ed-2Bb35dIB3YQ6PsZEUYkeQzaZx4EMv8=
+a5ijkl61GIDZf-2FyxMgdMeudOGTgDHkDqiENlR0TBIAB6tu6-2BxOTH09J8PvqKIr-2B0vLpGA=
+s77K-2FnQjxFKmyrf0ouFB4gtZ7AHMm832AcWQKLyPUDCm-2BmrHp8dWyYredzjXan2VJQw-3D-=
+3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !imp=
+ortant;width:1px !important;border-width:0 !important;margin-top:0 !importa=
+nt;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impo=
+rtant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;""/></body>
+  </html>
+
+--f9ece830b2903d8100cb27ef848a819adf56bc9f0adf42749451f58767cc--
+","""Teresa Molfino-Jim"" <jim@hartybrofloorstogo.com>",michael.donovan@aciworldwide.com,2025-03-17,44.198.45.247,United States,af,users/51198369/c367b66f-b249-4e59-a1f7-4e14a8d22d6c.json
+51198369,lMhuEErGRkWe0Lco6ukY5Q.recvd-69cbc48b94-q9zxj-1-67D10DD6-19.0,cHJvY2Vzc2VkLTUxMTk4MzY5LWxNaHVFRXJHUmtXZTBMY282dWtZNVEtMA,See you soon !,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hartybrofloorstogo.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=uVyGsj0DxLTaVbZyddr1ilagGgG3kquknlYSgoeUf9o=;
+	b=LRcESTpXiaKXoac2JzFKUXTIcUkEx8Ocp1QoPGRwaPRumphPf7bUTNzb4aXUDWuwxrZn
+	BFBtHLBy0HXrDMJ2NZc5vavF/Hzqa7wWjf0wByk85B2JIVkrIjGVetyWXPqf+BzglRARYe
+	krWN6FM933+UJU+suFs34LQNLdi5RAGElwMXM/bOS4AT4MvacXzk0gkoICIPtsyrZjFYeU
+	FHEpOSrroxLJaEFpVwf+Eao4PlAVPGKyusSy/Sm55xjEsn1Wb8hEFev1l/ePanCWyUv7YI
+	h0HJ/HR89VImmPzvxQ/BCJhZcsSwZVdilBW+qfH6gwYZU2hJy0f/FLdIIK70luXw==
+Received: by recvd-69cbc48b94-q9zxj with SMTP id recvd-69cbc48b94-q9zxj-1-67D10DD6-19
+	2025-03-12 04:30:14.80455148 +0000 UTC m=+10134459.013782269
+Received: from NTExOTgzNjk (unknown)
+	by geopod-ismtpd-39 (SG) with HTTP
+	id lMhuEErGRkWe0Lco6ukY5Q
+	Wed, 12 Mar 2025 04:30:14.675 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=73bebdb6c8e2f5e17ac2f4e6e39b99c53d5e3bf34e0e057d2f8fa436b563
+Date: Wed, 12 Mar 2025 04:30:14 +0000 (UTC)
+From: Teresa Molfino-Jim <jim@hartybrofloorstogo.com>
+Mime-Version: 1.0
+Message-ID: <lMhuEErGRkWe0Lco6ukY5Q@geopod-ismtpd-39>
+Subject: See you soon !
+Reply-To: jim@hartybrofloorstogo.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51198369=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Eu0XX?=
+ =?us-ascii?Q?pKc3T875t9zME5WU1G4nHav3l5IOGGKn9-9ZBOc?=
+ =?us-ascii?Q?OED=5FwtXSGQInwfyzgZ15Jp7siiCWjGiMYVAU-eC?=
+ =?us-ascii?Q?x7-Do=5FMTtoN9KXP-RaMj00j8FXggo9q2=5FWh4vXd?=
+ =?us-ascii?Q?cuUQjSNb1N28V9RylwFlfX-zjprdL5B15864=5FJq?=
+ =?us-ascii?Q?WsZyhu5MCAWrqvSSSJ6yCCH3LWwdT1aIjYc=5FpPg?=
+ =?us-ascii?Q?pSHhUWEii-6JaDWp=5F6J1FzOYGpjZ8nU0-dnl5LT?=
+ =?us-ascii?Q?X5hPPaquiWnTjRPzHw6qHCdQ5Zun5k852HjoXIf?=
+ =?us-ascii?Q?kITTqo1KL0WdDxGMS390lOVuVc-7zOaEEinz866?=
+ =?us-ascii?Q?at7DFV=5FIS38qr1N0JtBtMpxYT2D-Ta-1rEZqFyF?=
+ =?us-ascii?Q?Vv0iIJBNdIBL=5F25AKMx=5Fjxbai8hjMUGDO8omX3W?=
+ =?us-ascii?Q?ULg=5FIEgAMRQwubPlUEqt=5F8aUA-ZX4vc5rO7yPSs?=
+ =?us-ascii?Q?6OPyffizsROL4Bbxv8Ah2cClOaGUA9ViHNcc44a?=
+ =?us-ascii?Q?VOUWcHnZQA-UdJuSKd9FmDY5zYosHhh4vIO5=5Fdd?=
+ =?us-ascii?Q?kO4aUvJIhKTHtnnq-Wopwu-dD=5Fkt73w=5FgRNDGwF?=
+ =?us-ascii?Q?uqP6NIzuOwsTlMQPD1F-00hAdvMLZSvy=5FRhEi4G?=
+ =?us-ascii?Q?5IjSWMmahLNySfzAqmKP=5FUtxYHHshVysbX3fG=5FO?=
+ =?us-ascii?Q?63TI=5FPa3SKxcjiSg1xqSORL-Y0vA5pWPNVKSXyp?=
+ =?us-ascii?Q?Ul3wFB0wEA3ZDbUUjL61qpawTBPm=5F1DVmKPNHHZ?=
+ =?us-ascii?Q?2nzj8ry3iqYxn1xawE6p3rcOZ4431tgcOpU3J5D?=
+ =?us-ascii?Q?EMJx1e1AJvfVteIfIbXao0kGGxoDtxwCY98Vsif?=
+ =?us-ascii?Q?J=5FT=5FSyoGvRafHGMh5z=5F3SQJIBHsLcXQ-WNy1flB?=
+ =?us-ascii?Q?R5RHJ0ARdot66Z7=5FFQrnV=5F5bOBrIgAJX0anC90o?=
+ =?us-ascii?Q?FOzQb3rXjRH4p61KaYKqZK1s-CZjBAOlvFDV0Fp?=
+ =?us-ascii?Q?y4YoGTbDGS3vZR4aemVDLL1KWcFKCGo2Nk4Q-rB?=
+ =?us-ascii?Q?roRWa0KruzE5qe9q=5FBuo6eiD8riZkKoHxpJhsji?=
+ =?us-ascii?Q?mXlZ5hcn18sgvbqdmx=5F93JaDpFvSPcz9IzRWNxG?=
+ =?us-ascii?Q?qUnC3Hae9LaA11PDOCInyH9k6LMcnKB94LxwAYE?=
+ =?us-ascii?Q?BwASOSZ=5FrRzC=5Fk6CmX6OUaWSiYLnHFI8YIznoQP?=
+ =?us-ascii?Q?Yz7qiDPwaUqECDUZGHB1EIgOtJQET1AIEHrTlXx?=
+ =?us-ascii?Q?CLIBFpQ13YlFozDfqJKTZkwUCWZQNfz5aJTRrgq?=
+ =?us-ascii?Q?e6PD7skD=5FuSKRrcD0subh-8prpXU2-LvMovEc7N?=
+ =?us-ascii?Q?8vkSjK4Fx6UMutQkcbSkJLqydWZIUeqC8cYORBg?=
+ =?us-ascii?Q?24-mm-CCUkOEPvscKz00PGiKiDu8mPJQjxDoxx8?=
+ =?us-ascii?Q?5N0=5F7lT1vzItk2YnBwWQifn6UK3HItOkfZqTV9=5F?=
+ =?us-ascii?Q?PIgH1Vso2Ltqp19RTdeowMGLkR=5F-XUGXO0D2QRE?=
+ =?us-ascii?Q?na4f7OilMp-jMWB8ItSnKdzNOMjN2jRdZ86Vf8=5F?=
+ =?us-ascii?Q?udjJViVdtbC3UgMIUHfKRCfbYAagdrxhBylraGm?=
+ =?us-ascii?Q?1TKmEL1H=5FNSK2QbxAZp4UETF1=3E=2C=3Cmailto=3Aunsu?=
+ =?us-ascii?Q?bscribe=40em8707=2Ehartybrofloorstogo=2Ecom=3Fs?=
+ =?us-ascii?Q?ubject=3Dhttp=3A=2F=2Furl6819=2Ehartybrofloorstog?=
+ =?us-ascii?Q?o=2Ecom=2Fmt=2Fu=2Fu001=2EVOfIcaWXwsAaCYdLSnB69iM?=
+ =?us-ascii?Q?hM24nEaBQVMmgwE3Jnuo=2F4eq=2Fu001=2E8Hbk074i=2F?=
+ =?us-ascii?Q?u001=2EnChoyqsnHGG-2B0HcrKAPron3Y9LXySe9s?=
+ =?us-ascii?Q?dlgb3QK0Q0YnALX4cE-2BR2TMDCHIuQkygXZr4p?=
+ =?us-ascii?Q?SlM5ZfkKfN2Npow6QG8dQx2uPImsGv8H7TvT68b?=
+ =?us-ascii?Q?TNvGq-2BJ-2BqDQ6FI68HXlxWCHQku2I5IWO8Yk?=
+ =?us-ascii?Q?RTULwfFw7g2bAWDu2e8bJp9kqhAdL4Lno-2BfJG?=
+ =?us-ascii?Q?9gLcP6tcOAFHBXVk5ikdmlFT8I6NPhYevmSYCCO?=
+ =?us-ascii?Q?EKA0r2uBmsP9QNX4CZXlRSOPfwxMhP4cw9lRGbg?=
+ =?us-ascii?Q?72wCTmRjeisxEgu-2BnODorXtUQKSxzfIxKje1t?=
+ =?us-ascii?Q?bbZSO4ygKExJosVZBlo9J5clQyuX2LgudAQ2W-2?=
+ =?us-ascii?Q?FrGkEFjtkpyn-2F-2BaogmJPlSaJLht4WFWvKKp?=
+ =?us-ascii?Q?h5gvqXIKoVbjKDpJxzYYwu6cAXPwNIWW2vj3sCD?=
+ =?us-ascii?Q?6dgz-2Fg6xlWOMRi-2BjSYniJsMjlGoJ5mHO8VU?=
+ =?us-ascii?Q?yr6xzyA78-2F-2FJxTB5-2BNUd41JXAuRyrYDXt?=
+ =?us-ascii?Q?IGLJ-2BooM230mnJO8ebYdSAKm-2FkJTfaM7Did?=
+ =?us-ascii?Q?8Rx1j6LJyxkMs5O-2B-2F4FVQBP-2FtDavl2Sa5?=
+ =?us-ascii?Q?drUKrfPvR-2FVs1-2FrIIZuJmFUUOPsuGJhmYrW?=
+ =?us-ascii?Q?vIwui-2BAwcPhV2Vd3VAgEF4S-2FiDKNWyjTWQM?=
+ =?us-ascii?Q?v27-2F1k-2BpZxoeqNDILuJGdyZ3k4FVoufnxiZ?=
+ =?us-ascii?Q?vLebfOvZRGyikZxN4tm3h3j3zaVYsP3ETCC4PzM?=
+ =?us-ascii?Q?R4OJaa-2FPSb7Tbe1O9VXjk8uh1WhWSAndbjR7H?=
+ =?us-ascii?Q?V-2BlLjeGlHt9KRMQEMsgjz5rV-2F-2BEGVWt9o?=
+ =?us-ascii?Q?SMdpYLbtZfMRJJNtZIPZRAyAYBT9gHG2ujRiHFT?=
+ =?us-ascii?Q?kLSoqg4ZMfKpcDe9ePCczg2dzEvY7wFJ-2B7Mrz?=
+ =?us-ascii?Q?AgB7R808P-2F2-2BJ9KuKw6LLQU8Qmcss8BsCi4?=
+ =?us-ascii?Q?ZzZx1EEvse-2FY2yxuqGbr4NKQ3tmOwT2pZsu7u?=
+ =?us-ascii?Q?Sd-2Fl8IyH4sGfaaMtRrlE6ChoXoISWFo5y8-2B?=
+ =?us-ascii?Q?FQT1n4RX1RlqvOZH5ILNsp-2Fo7suEEt8otvfYz?=
+ =?us-ascii?Q?Bo-2BOuA-3D-3D=2Fu001=2ERVjiu3vu=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3MKr2BPBuekM7SDLATD=2FcPE7cLmySuwP6X9ZtSwclopDY5AdzHoxrEpzu?=
+ =?us-ascii?Q?VpXtL2pmB7dr80j12QqCKaqhdPcSUmLvSF1vEWS?=
+ =?us-ascii?Q?hVMHI4HLie0bRyz=2Fx3d38npixbrEbcZZp7tLhKU?=
+ =?us-ascii?Q?JFKSpJDCWUA1kwWG0DxGttJr+zhwuUOy2C0BheU?=
+ =?us-ascii?Q?ubZJYT6hfalCZqCJOhsqO=2FcOufX2zRTdE+i9Fre?=
+ =?us-ascii?Q?NgMJ3vDSoFholjyI3c6eHGF9Y5eRKS5P7ntbIpU?=
+ =?us-ascii?Q?7nmosp0TKiE5Txp4wLmsr8yPBA=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsbPeNxfygeu+1ACbIF6u45ZQdv?=
+ =?us-ascii?Q?KDgZMQuO4yYEQK8syqC91+mnKqSTp7K1=2Fs6ed6J?=
+ =?us-ascii?Q?DOtbBs2Iz0kVHoLW2BuJhgKSo9YUvGeROQldh69?=
+ =?us-ascii?Q?BRXXwjVLMpudKoxrVnaWIBnh=2F2cFwuocEc7g65K?=
+ =?us-ascii?Q?8+8z7JBCVqXEfYmFhxNiQuu3sY++v5Tjh31Opvm?=
+ =?us-ascii?Q?K5V60tuO+NL7S1jNq+yPu3EpnVqsoiLwCKykeYJ?=
+ =?us-ascii?Q?WBxCeYI6tVrPZr=2FklB3hRBM1wtZOSsF3KH90ZVd?=
+ =?us-ascii?Q?AXpWhJ=2FhPS+tsOJCYOBE++7itsgMUjsa2iSKZUl?=
+ =?us-ascii?Q?e=2Fzo6K2Kic3O4QXZR3BXfj9M8Vex=2FdDV62NbDEC?=
+ =?us-ascii?Q?uZzHPsPaflfDgryKfg=2Fdiz=2F=2FM76JNWLaXvC08aB?=
+ =?us-ascii?Q?1BlWFLJkxSFpc1OIdYN3NSKJLIcZj9W3iEKQ3TN?=
+ =?us-ascii?Q?8Fe6=2FprH3Ip2jMXpbu8IjIqkd9B2SWRktEwEjpI?=
+ =?us-ascii?Q?ZLjehkWKGRoT3LH5Mx+m93qNKR+f=2FJc50tB11Hf?=
+ =?us-ascii?Q?I5D84hrITCFjPxm=2FteXCprYZXlTe6abhugAFrHo?=
+ =?us-ascii?Q?GaI4JdFmPijHuifF=2FbJgDx0IcurWVuEjVPw+dSk?=
+ =?us-ascii?Q?z2KnYtfe3WrfZyOUgm8bcya8PND6XdOfTJ=2FSv0p?=
+ =?us-ascii?Q?0daIVHbRH?=
+To: Mikala <mikala@ridgerockinc.com>
+X-Entity-ID: u001.2rJOZMpHU5zC7xUzYR6IQQ==
+
+--73bebdb6c8e2f5e17ac2f4e6e39b99c53d5e3bf34e0e057d2f8fa436b563
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hello Mikala,
+
+Just a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 P=
+M.
+
+Please reply to confirm this appointment. You can call our office at 646-99=
+1-6253 anytime if you=E2=80=99d like to reschedule.
+
+See you soon!
+
+HARTY BRO FLOORS TO GO
+
+5011 E Desert Vista Trail
+
+Cave Creek, AZ 85331
+
+646-991-6253
+
+Teresa Molfino-Jim
+
+5011 E Desert Vista Trail , Cave Creek , AZ 85331
+
+Unsubscribe ( http://url6819.hartybrofloorstogo.com/wf/unsubscribe?upn=3Du0=
+01.9O4Dtmhr8cf1PHM266erZhGIZKw-2FxsDq3bVjZAI8s5vrK50SKn2bXtpfwyJkz-2FK4nYQ-=
+2Bz4j7wDJ-2FYVNtxvASg7MA-2FaPR6Vbo0eCUHOwMMmkTIjJmlMhxTbcd5Jd1j70d8LwEfBjuD=
+7KAGFEbXlwm2q69ieyCRFGO90rUSRlEADLHqxU7Qyvi8NyL-2Bwd4QJSX53GZVjQpB8Uw3a4Xny=
+y8yk2jURbHsx56FNcKadDKEZZcZvhe0greW3m81Aj1dLO2Haq660AoX-2BAE6BsIDoAh6BXHIQQ=
+k-2BxkJDO0NQEqCaOEprCi1-2BjPEOzBMPFQwoetzrb8XaJeP8TDDs01njA9YzwcOuBdclEYZ1k=
+ggtKs9p235IzlON7j-2BWamzkUFituv7eM1t4tUwb3RaXVeTS78lD4EOJ8Hu-2F73akxwyzZLTW=
+vK5IF58Qh7ze-2BJ6IJ62w3YNSSCkkiqinL3RMM5p7qFDRAr49ys5tKBMNCw21B39upeKF7avne=
+TNa1blX1wFg-2FrPb0DWQkZuKY73K8sbJLBOEzS4xJ0ejkIEQAdgOaXrUPULQsJxl7xBTYf851K=
+sDspeWMIGpCwVnTJONc5bmdsMR-2F5bdjdJOkF8qsBpB8yBFd6nfEjpEImiN-2BUPOZ7RwxW-2B=
+G-2BVUOAyukBXMmOD-2BRRY0X0v4A93EM74eh3XLJFUl3Y176l9QRWUWc7i9qiNRlOvDQOntrzO=
+kf8DaPQzRNZ2DeYAoPwmXqmtE6I40iATBWI4iu1noiW76MoT30ST496XrgD1dsWzla9KAwEqzLO=
+1WFGl98OSRnrsBkInZ8yQ5Jhw7nDe22x6kfpu5h9bGRkfLHj8sB9C2E9lAt0hQHOnTE05lTSLji=
+7bEdBwZmd2ZP2DCvlDdyVUaQvydQggicqSrb6BdHCTanC46W4YRIC0XQyI23QAycAhYXlblpxlJ=
+zC1E2hwG1CjN1chrA6mEiea6 ) - Unsubscribe Preferences ( http://url6819.harty=
+brofloorstogo.com/wf/unsubscribe?upn=3Du001.9O4Dtmhr8cf1PHM266erZhGIZKw-2Fx=
+sDq3bVjZAI8s5vrK50SKn2bXtpfwyJkz-2FK4nYQ-2Bz4j7wDJ-2FYVNtxvASg7MA-2FaPR6Vbo=
+0eCUHOwMMmkTIjJmlMhxTbcd5Jd1j70d8LwEfBjuD7KAGFEbXlwm2q69ieyCRFGO90rUSRlEADL=
+HqxU7Qyvi8NyL-2Bwd4QJSX53GZVjQpB8Uw3a4Xnyy8yk2jURbHsx56FNcKadDKEZZcZvhe0gre=
+W3m81Aj1dLO2Haq660AoX-2BAE6BsIDoAh6BXHIQQk-2BxkJDO0NQEqCaOEprCi1-2BjPEOzBMP=
+FQwoetzrb8XaJeP8TDDs01njA9YzwcOuBdclEYZ1kggtKs9p235IzlON7j-2BWamzkUFituv7eM=
+1t4tUwb3RaXVeTS78lD4EOJ8Hu-2F73akxwyzZLTWvK5IF58Qh7ze-2BJ6IJ62w3YNSSCkkiqin=
+L3RMM5p7qFDRAr49ys5tKBMNCw21B39upeKF7avneTNa1blX1wFg-2FrPb0DWQkZuKY73K8sbJL=
+BOEzS4xJ0ejkIEQAdgOaXrUPULQsJxl7xBTYf851KsDspeWMIGpCwVnTJONc5bmdsMR-2F5bdjd=
+JOkF8qsBpB8yBFd6nfEjpEImiN-2BUPOZ7RwxW-2BG-2BVUOAyukBXMmOD-2BRRY0X0v4A93EM7=
+4eh3XLJFUl3Y176l9QRWUWc7i9qiNRlOvDQOntrzOkf8DaPQzRNZ2DeYAoPwmXqmtE6I40iATBW=
+I4iu1noiW76MoT30ST496XrgD1dsWzla9KAwEqzLO1WFGl98OSRnrsBkInZ8yQ5Jhw7nDe22x6k=
+fpu5h9bGRkfLHj8sB9C2E9lAt0hQHOnTE05lTSLji7bEdBwZmd2ZP2DCvlDdyVUaQvydQggicqS=
+rb6BdHCTanC46W4YRIC0XQyI23QAycAhYXlblpxlJzC1E2hwG1CjN1chrA6mEiea6 )
+--73bebdb6c8e2f5e17ac2f4e6e39b99c53d5e3bf34e0e057d2f8fa436b563
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Hello=
+ Mikala,</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Just =
+a quick reminder for your upcoming appointment on 03/20/2025 at 9:00 PM.</s=
+pan></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Pleas=
+e reply to confirm this appointment. You can call our office at 646-991-625=
+3 anytime if you&rsquo;d like to reschedule.</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">See y=
+ou soon!</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">HARTY=
+ BRO FLOORS TO GO</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">5011 =
+E Desert Vista Trail</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">Cave =
+Creek, AZ 85331&nbsp;</span></p>
+<p><span style=3D""font-family: Calibri, sans-serif; font-size: 15px;"">646-9=
+91-6253</span></p>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+        <div class=3D""Unsubscribe--addressLine"">
+          <p class=3D""Unsubscribe--senderName""
+            style=3D""font-size:12px;line-height:20px""
+          >
+            Teresa Molfino-Jim
+          </p>
+          <p style=3D""font-size:12px;line-height:20px"">
+            <span class=3D""Unsubscribe--senderAddress"">5011 E Desert Vista =
+Trail</span>, <span class=3D""Unsubscribe--senderCity"">Cave Creek</span>, <s=
+pan class=3D""Unsubscribe--senderState"">AZ</span> <span class=3D""Unsubscribe=
+--senderZip"">85331</span>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""http://url6819.=
+hartybrofloorstogo.com/wf/unsubscribe?upn=3Du001.9O4Dtmhr8cf1PHM266erZhGIZK=
+w-2FxsDq3bVjZAI8s5vrK50SKn2bXtpfwyJkz-2FK4nYQ-2Bz4j7wDJ-2FYVNtxvASg7MA-2FaP=
+R6Vbo0eCUHOwMMmkTIjJmlMhxTbcd5Jd1j70d8LwEfBjuD7KAGFEbXlwm2q69ieyCRFGO90rUSR=
+lEADLHqxU7Qyvi8NyL-2Bwd4QJSX53GZVjQpB8Uw3a4Xnyy8yk2jURbHsx56FNcKadDKEZZcZvh=
+e0greW3m81Aj1dLO2Haq660AoX-2BAE6BsIDoAh6BXHIQQk-2BxkJDO0NQEqCaOEprCi1-2BjPE=
+OzBMPFQwoetzrb8XaJeP8TDDs01njA9YzwcOuBdclEYZ1kggtKs9p235IzlON7j-2BWamzkUFit=
+uv7eM1t4tUwb3RaXVeTS78lD4EOJ8Hu-2F73akxwyzZLTWvK5IF58Qh7ze-2BJ6IJ62w3YNSSCk=
+kiqinL3RMM5p7qFDRAr49ys5tKBMNCw21B39upeKF7avneTNa1blX1wFg-2FrPb0DWQkZuKY73K=
+8sbJLBOEzS4xJ0ejkIEQAdgOaXrUPULQsJxl7xBTYf851KsDspeWMIGpCwVnTJONc5bmdsMR-2F=
+5bdjdJOkF8qsBpB8yBFd6nfEjpEImiN-2BUPOZ7RwxW-2BG-2BVUOAyukBXMmOD-2BRRY0X0v4A=
+93EM74eh3XLJFUl3Y176l9QRWUWc7i9qiNRlOvDQOntrzOkf8DaPQzRNZ2DeYAoPwmXqmtE6I40=
+iATBWI4iu1noiW76MoT30ST496XrgD1dsWzla9KAwEqzLO1WFGl98OSRnrsBkInZ8yQ5Jhy-2Bs=
+mbVzDCKFe5JOENomYYofsEM8HI78KftEqjxfteSGOelP9CtyBAfklE9db8LSzO-2FM6Sh1K8rno=
+R3aBiSflT5jHRTH68J-2F0waomShfSdk3GCA6ZfQ-2FmSrOVGan2807SuJR4mqrGCkR6XPWVfv6=
+9pn"" target=3D""_blank"" style=3D""font-family:sans-serif;text-decoration:none=
+;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""http://url6819.hartybrofloorstogo.com/wf/unsubscribe?u=
+pn=3Du001.9O4Dtmhr8cf1PHM266erZhGIZKw-2FxsDq3bVjZAI8s5vrK50SKn2bXtpfwyJkz-2=
+FK4nYQ-2Bz4j7wDJ-2FYVNtxvASg7MA-2FaPR6Vbo0eCUHOwMMmkTIjJmlMhxTbcd5Jd1j70d8L=
+wEfBjuD7KAGFEbXlwm2q69ieyCRFGO90rUSRlEADLHqxU7Qyvi8NyL-2Bwd4QJSX53GZVjQpB8U=
+w3a4Xnyy8yk2jURbHsx56FNcKadDKEZZcZvhe0greW3m81Aj1dLO2Haq660AoX-2BAE6BsIDoAh=
+6BXHIQQk-2BxkJDO0NQEqCaOEprCi1-2BjPEOzBMPFQwoetzrb8XaJeP8TDDs01njA9YzwcOuBd=
+clEYZ1kggtKs9p235IzlON7j-2BWamzkUFituv7eM1t4tUwb3RaXVeTS78lD4EOJ8Hu-2F73akx=
+wyzZLTWvK5IF58Qh7ze-2BJ6IJ62w3YNSSCkkiqinL3RMM5p7qFDRAr49ys5tKBMNCw21B39upe=
+KF7avneTNa1blX1wFg-2FrPb0DWQkZuKY73K8sbJLBOEzS4xJ0ejkIEQAdgOaXrUPULQsJxl7xB=
+TYf851KsDspeWMIGpCwVnTJONc5bmdsMR-2F5bdjdJOkF8qsBpB8yBFd6nfEjpEImiN-2BUPOZ7=
+RwxW-2BG-2BVUOAyukBXMmOD-2BRRY0X0v4A93EM74eh3XLJFUl3Y176l9QRWUWc7i9qiNRlOvD=
+QOntrzOkf8DaPQzRNZ2DeYAoPwmXqmtE6I40iATBWI4iu1noiW76MoT30ST496XrgD1dsWzla9K=
+AwEqzLO1WFGl98OSRnrsBkInZ8yQ5Jhy-2BsmbVzDCKFe5JOENomYYofsEM8HI78KftEqjxfteS=
+GOelP9CtyBAfklE9db8LSzO-2FM6Sh1K8rnoR3aBiSflT5jHRTH68J-2F0waomShfSdk3GCA6Zf=
+Q-2FmSrOVGan2807SuJR4mqrGCkR6XPWVfv69pn"" target=3D""_blank"" class=3D""Unsubsc=
+ribe--unsubscribePreferences"" style=3D""font-family:sans-serif;text-decorati=
+on:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""http://url6819.hartybrofloorstogo.com/wf/open?upn=3Du001.9O=
+4Dtmhr8cf1PHM266erZhGIZKw-2FxsDq3bVjZAI8s5vrK50SKn2bXtpfwyJkz-2FK4nYQ-2Bz4j=
+7wDJ-2FYVNtxvASg7MA-2FaPR6Vbo0eCUHOwMMmkTIjJmlMhxTbcd5Jd1j70d8LwEfBjuD7KAGF=
+EbXlwm2q69ieyCRFGO90rUSRlEADLHqxU7Qyvi8NyL-2Bwd4QJSX53GZVjQpB8Uw3a4Xnyy8yk2=
+jURbHsx56FNcKadDKEZZcZvhe0greW3m81Aj1dLO2Haq660AoX-2BAE6BsIDoAh6BXHIQQk-2Bx=
+kJDO0NQEqCaOEprCi1-2BjPEOzBMPFQwoetzrb8XaJeP8TDDs01njA9YzwcOuBdclEYZ1kggtKs=
+9p235IzlON7j-2BWamzkUFituv7eM1t4tUwb3RaXVeTS78lD4EOJ8Hu-2F73akxwyzZLTWvK5IF=
+58Qh7ze-2BJ6IJ62w3YNSSCkkiqinL3RMM5p7qFDRAr49ys5tKBMNCw21B39upeKF7avneTNa1b=
+lX1wFg-2FrPb0DWQkZuKY73K8sbJLBOEzS4xJ0ejkIEQAdgOaXrUPULQsJxl7xBTYf851KsDspe=
+WMIGpCwVnTJONc5bmdsMR-2F5bdjdJOkF8qsBpB8yBFd6nfEjpEImiN-2BUPOZ7RwxW-2BG-2BV=
+UOAyukBXMmOD-2BRRY0X0v4A93EM74eh3XLJFUl3Y176l9QRWUWc7i9qiNRlOvDQOntrzOkf8Da=
+PQzRNZ2DeYAoPwmXqmtE6I40iATBWI4iu1noiW76MoT30ST496XrgD1dsWzla9KAwEqzLO1WFGl=
+98OSRnrsBkInZ8yQ5JhwQNoigvkoKIKBdfOd2QQBkGsrb46WQr-2BiR5rT0-2B541G83qx0jCc4=
+uYbEZcjNydwNkFOtNW8I357LXiPoqsVjo5ZdZXPc2mrwqndH3xH3gWdlH0EXxZFzqYQCdTQYS03=
+J-2B5SdvNWbmb2QaFJgx5fcPv"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/></body>
+  </html>
+
+--73bebdb6c8e2f5e17ac2f4e6e39b99c53d5e3bf34e0e057d2f8fa436b563--
+","""Teresa Molfino-Jim"" <jim@hartybrofloorstogo.com>",mikala@ridgerockinc.com,2025-03-11,34.225.201.237,United States,so,users/51198369/ace82712-3728-4ac5-8777-1edb0178061d.json

@@ -1,0 +1,614 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50875405,6fJeCsfuSRWLKD06Gz9rvQ.recvd-69cbc48b94-4wm29-1-67BEBAEF-C.0,cHJvY2Vzc2VkLTUwODc1NDA1LTZmSmVDc2Z1U1JXTEtEMDZHejlydlEtMA,dss,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dkm.linkwarden.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=h3ABWCYkkkeRbzPJbEDy8NnFSswZLeF4ML2vbEBxkW8=;
+	b=g+jamNAR+o/LrbhKO7846W4ksRkUhuLUfNIrv2++TEWd7wR6k0NradLbJmOQEUwi7NGm
+	By5NudVdlTJ3oQwQvcEb9FZ7gGBo2weSuAL/Z8HIchK/AxaTEmtE45ziaZRWgcHpNScqLm
+	kf0udSMj2z0RWpNFODd6TA5IAV4oAxE38Uq7jFDzNC3fo5+PZbTxrlJG3C5OMASihkEm3u
+	Wd9EWauvENFG/iQoWMBDFZhSPOc8Ox1e7FJ+lGoiAT9G9G0SBu/RXb0rAvtdCQ5siYRE/0
+	pByslWUmZfMM/W/lYpJgnhS8qwWihq5NAX3DOs6Yz8Xm8GEIxhO7jiFuzrfwmAFQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=h3ABWCYkkkeRbzPJbEDy8NnFSswZLeF4ML2vbEBxkW8=;
+	b=ecNolRbxxxiiU72BCMuEEI0isGYHE34cz/uEYZKIx0gid1nENhNoNH3efpXBL4Bh1yMI
+	Z2ICXZVOQvLpiTWfecwk2yrkYXId97obpy2fehMPYLlzcqUhPeZE45xIRXysE3wveecFo1
+	CJS3EddIEJiuGYn9nsuJv1tp9iw+zpkyU=
+Received: by recvd-69cbc48b94-4wm29 with SMTP id recvd-69cbc48b94-4wm29-1-67BEBAEF-C
+	2025-02-26 06:55:43.470605897 +0000 UTC m=+8933472.676107202
+Received: from NTA4NzU0MDU (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id 6fJeCsfuSRWLKD06Gz9rvQ
+	Wed, 26 Feb 2025 06:55:43.175 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 26 Feb 2025 06:55:43 +0000 (UTC)
+From: ssq <bonnie@dkm.linkwarden.info>
+Mime-Version: 1.0
+Message-ID: <6fJeCsfuSRWLKD06Gz9rvQ@geopod-ismtpd-9>
+Subject: dss
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ECVf87h8kcqf+UkRdWxMfnfmozZAKwSvO0i2mRQxcPgiM25Lf1XoVQQs5c?=
+ =?us-ascii?Q?xlc5tjRStrzayi2wyLY0KosG70CW2S5yavQk4oe?=
+ =?us-ascii?Q?XJiBcPQFJ+wU8CZWE=2FMC5mLdc1ItNaw+FbPyZPV?=
+ =?us-ascii?Q?ViY9v7EdzCWrvcLukcPc88znlxcgzMtJek1DAQE?=
+ =?us-ascii?Q?wLQU+grPGE4O3RncdORb6T0LYP1iVapyJ8ipv8Z?=
+ =?us-ascii?Q?AmdKZ2hIw1YNjV6yBgudgQ=3D?=
+To: dkmeher18@yahoo.com
+X-Entity-ID: u001.JH/OJFNgCP1EJaXqteSNUQ==
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-layout-block.ck-layout-stack=
+ td { display:block !important;width:100% !important;padding:0 !important; =
+} .ck-column.ck-column-stack { margin-bottom:32px !important; } .ck-padding=
+-3-top-mobile-friendly { padding-top:12px !important; } .ck-padding-3-right=
+-mobile-friendly { padding-right:12px !important; } .ck-padding-3-bottom-mo=
+bile-friendly { padding-bottom:12px !important; } .ck-padding-3-left-mobile=
+-friendly { padding-left:12px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen and (max-width:600px) { .ck-mobile-font-size { font-size=
+:50px !important; }  }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }
+@media only screen { .email * { word-break: break-word; } }
+@media screen and (max-width: 384px) { .mail-message-content { width: 414px=
+ !important; } }
+@media only screen and (max-width:600px) {
+        .ck-mobile-font-size {
+          font-size: 50px !important;
+        }
+     }</style>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>email-button:hover{background-color:#6380BC}</style>
+</head>
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://denverdaines.ltd/41b1100cfeebfd856dae/ded5c93=
+91d14fe255e"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlay=
+er.com/projects/264875/1740377519728-Screenshot 2025-02-24 114138.png"" styl=
+e=3D""width: 404px; height: 616px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://denverdaines.ltd/41b1100cfeebfd856dae/ded5c93=
+91d14fe255eun"" target=3D""_blank""><img alt=3D""unsub"" src=3D""https://assets.u=
+nlayer.com/projects/264875/1740287356069-unnamed (1).png"" style=3D""width: 4=
+04px; height: 66px;"" /></a></p>
+    <img src=3D""https://u50875405.ct.sendgrid.net/wf/open?upn=3Du001.XHHD5J=
+N0ahY2PYLsQrMe2WQAFJ7XSx7PduYHTJ0FOGCE581LPuExSlOb1sKTuz07-2FAXN8bsGwRiaf-2=
+BtisTdLhAgmMlh-2FYH7jamJ8JD4TYY-2BGPRFwj-2BZ2L3CogAuOj2bYaBkwlpCZAN1lM5ijDd=
+p-2FdfDX5ABCJQTO8PSKBDQlXGHoyYTggFZwfFo8P8HhS939vk1hf6i-2FvlWgESuUmIvwug-3D=
+-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !im=
+portant;width:1px !important;border-width:0 !important;margin-top:0 !import=
+ant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !imp=
+ortant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0=
+ !important;padding-left:0 !important;""/></body>
+</html>","""ssq"" <bonnie@dkm.linkwarden.info>",dkmeher18@yahoo.com,2025-02-26,62.171.152.187,Germany,af,users/50875405/7242480a-cadf-4488-91be-6e7e8b5bae42.json

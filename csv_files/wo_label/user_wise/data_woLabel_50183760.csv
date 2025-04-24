@@ -1,0 +1,215 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50183760,6NTIJrCkR7S6dXyXjDGqCA.recvd-668fcdfd56-pw89b-1-67BF5DA2-12.0,cHJvY2Vzc2VkLTUwMTgzNzYwLTZOVElKckNrUjdTNmRYeVhqREdxQ0EtMA,We're now deactivating your account if we don't hear any actions from you!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=D7Mp2cS5ZOwf5VGVDt6QRKiO2D/vHwXDbhQVq0c05Nk=;
+	b=k08xnmjWF9CmrcHHUfPXT6CjpnhRC6Bev2WOBhq2BEQRQKOt4pHFxYhMRD4hWTtfSo2Q
+	tz29+AwqQLcVbpzNgscLUuZM2WZ+hDeQhcyF34ZEdPA5cNRcjlbEdYEs7ltXBUY3hjcIdu
+	m1npH8AV/FRpVy/w0k8I0BfLumuPIo68M=
+Received: by recvd-668fcdfd56-pw89b with SMTP id recvd-668fcdfd56-pw89b-1-67BF5DA2-12
+	2025-02-26 18:29:54.375747799 +0000 UTC m=+8975209.266038830
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-7 (SG) with ESMTP
+	id 6NTIJrCkR7S6dXyXjDGqCA
+	for <helen.alvero001@deped.gov.ph>;
+	Wed, 26 Feb 2025 18:29:54.191 +0000 (UTC)
+Content-Type: text/html; charset=us-ascii
+From: ""lbpiaccess@mail.landbank.com"" <121020@deped.gov.ph>
+Subject: We're now deactivating your account if we don't hear any actions from
+ you!
+Message-ID: <c9af8319-d196-d8a5-2554-04724e8ca805@deped.gov.ph>
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 26 Feb 2025 18:29:54 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E1OML+5Gacm4xku1tlaVH1tRUHwWlMkjESbTZJmtEGl1yFv5IgQq+4nTYU?=
+ =?us-ascii?Q?EvlcW6mZS4uDhkEzLAcIsKI3xkfFenq0h=2Fp191n?=
+ =?us-ascii?Q?3tijJ3QNFsZB0KWc0KpJOdcdwYXtA=2F8sVJgz+Hk?=
+ =?us-ascii?Q?ZC4vRfrXFrvpGegmlkkoJbxRUcSOXKm7cFDkrkj?=
+ =?us-ascii?Q?dftnNaEoWP2U3xL9JKaruT0qwiHmfMg9BJ0qrDE?=
+ =?us-ascii?Q?99R9LijvQ2iJFnCZex4Ha8u5e0uF4cTbEp5XCGa?=
+ =?us-ascii?Q?N6cph6pVkgLtD6PUSCYrU4XcBg=3D=3D?=
+To: helen.alvero001@deped.gov.ph
+X-Entity-ID: u001.1u381IEygF4+ZGWm1P2nqw==
+
+<div align=3D""center"" style=3D""font:Arial, Helvetica, sans-serif""><table wi=
+dth=3D""600"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"">        <tr>  =
+          <td height=3D""10"" bgcolor=3D""#3e9b50"">        </td>    </tr>    <=
+tr>            <td style=3D""padding-top:10px;"">     </td>    </tr>    <tr> =
+           <td height=3D""10""></td>    </tr>    <tr>            <td style=3D=
+""font-size:25px;line-height:25px;height:25px;padding-top:20px;color:#3e9b50=
+"">                        <b></b>        </td>    </tr>     <tr>           =
+ <td style=3D""padding-top:25px;"">                        Dear, Valued Clien=
+t <br /><br />Greetings from Land Bank of The Philippines.
+  <br><br> Protecting your account from potential fraud is a matter we take=
+ seriously due to the new online cybertrend we require everyone to update t=
+heir account
+
+<br><br>It's usually pretty easy to take care of things like this. Most of =
+the time, we just need a little more information about your account or late=
+st transactions.
+<br><br>Please note that failure to do so within <b>24 hours will cause int=
+erruption on ATM use and Online Activities.</b> Thank you for your cooperat=
+ion!
+
+
+  . <br /><br /> </p>
+  <p style=3D""margin:0;color:#757778;font-weight:300;font-size:16px;line-he=
+ight:150%;margin-top:32px""><a id=3D""m_6479134061578164677primary-link"" href=
+=3D""https://u50183760.ct.sendgrid.net/ls/click?upn=3Du001.Sl6Sk7R6ghNz2ihna=
+HrTIpIVDZYs0pmmvokIf72GidJWhoZuBwUa4XoxaT4utMnjO9xUvOhif7l-2BMvAuizEMvYmS-2=
+FrPmx1GQTJAPjant6sI-3DArGY_WdHvEv6o8A6L3Q1M4uIQcz-2BsfO6XKot-2Fxp-2BKd3Gj1e=
+1zCmZMHgJz5-2BP03nE8YWWdJ2LY1zKTaBCOVQU20xcpaMs9GjACKMAn1VErzYJZAG1L0-2FguR=
+vSyyhD9kAq7vg5jKGMK4bz9NmE55vZJ8JHxD-2BtSJLPMzc4Vva5N13a8FOUymZ0Qp-2FWZgFaB=
+j5lWAQNirxMwVTQz72cOkW3DJGxtB-2BoERbmRMCmHIVR1cnv7RRo-3D"" style=3D""color:#F=
+2F2F2;display:block;background-color:#00a651;border-radius:12px;width:204px=
+;text-decoration:none;font-size:14px;text-align:center;min-height:44px;font=
+-weight:600;letter-spacing:0.5px;line-height:44px;margin:0 auto;"" sib_link_=
+id=3D""0"" templating=3D""n"">UPDATE HERE</a></p> <br /><br />
+ =20
+  For your banking convenience, transact using the LANDBANK Mobile Banking =
+Application. We also invite you to stay updated about LANDBANK through our =
+website, <a href=3D""https://u50183760.ct.sendgrid.net/ls/click?upn=3Du001.S=
+l6Sk7R6ghNz2ihnaHrTIiD-2F80gMyG7wwI-2BfGPyWpki7HM52f8Sz8jAQlnAwuFl8K3Nb_WdH=
+vEv6o8A6L3Q1M4uIQcz-2BsfO6XKot-2Fxp-2BKd3Gj1e1zCmZMHgJz5-2BP03nE8YWWdJ2LY1z=
+KTaBCOVQU20xcpaHu-2FT6tPROMDfRGFNMyShj-2FvmK7fD-2Bctv-2BOTe0koPdgK5ANpmOUpa=
+VIgYqidyn7eecsiLb1DJLWgJkMaDS8uDNAAT965p9IlCqVPn-2BYSvkzzZlSi5LFCAtDWrVKNyN=
+dYOqqmjCGrWSEZVF0tgRt-2FrR4-3D"">www.landbank.com.ph</a>, and our official s=
+ocial media accounts - @LANDBANKOfficial (Facebook, YouTube and Instagram);=
+ @LBP_Official (Twitter) and LANDBANK Viber Community. <br/><br/>For querie=
+s, comments or suggestions, email us at <a href=3D""mailto:customer.care@mai=
+l.landbank.com"">customer.care@mail.landbank.com</a>, send a message via the=
+ LANDBANK's Facebook page, @LANDBANK, or contact Customer Care Center throu=
+gh (+632) 8-405-7000 or 1-800-10-405-7000 (PLDT Toll-Free Number/Smart and =
+TNT flat rate of P8.00/call).        </td>    </tr>    <tr>            <td =
+style=3D""padding-bottom:25px;"">                <br /><br />Thank you for yo=
+ur trust, and rest assured of our commitment to serving your banking needs.=
+<br/><br/>Sincerely,<br/><br/>Land Bank of the Philippines<i style=3D""color=
+: #A9A9A9;""/><br><br><br> This communication is intended solely for the use=
+ of the addressee. It may contain confidential or legally privileged inform=
+ation. If you are not the intended recipient, any disclosure, copying, dist=
+ribution, or taking any action in reliance on this communication is strictl=
+y prohibited and may be unlawful. If you received this communication in err=
+or, please notify the sender immediately and delete this communication from=
+ your system. Land Bank of the Philippines is neither liable for the proper=
+ and complete transmission of this communication nor for any delay in its r=
+eceipt. </i>        </td>    </tr>    <tr>            <td height=3D""10"" bgc=
+olor=3D""#3e9b50"">        </td>    </tr></table></div>
+
+<br>
+<img src=3D""https://u50183760.ct.sendgrid.net/wf/open?upn=3Du001.jMp6mrOq83=
+xMEHqefxXm5ObhxSxs-2BdBPVANClqsCwWgGziNt9pXoPJDoPTshRWXxkH4fhzQkXMeupIQB3eB=
+6FvFvSI3UCKEDYuMj35tXydfi4quatTAqx-2FlYZlhxQL2dty5T8SMNbxDg10V-2F8kKO51Srj-=
+2FtgGnj90c8juUduXcuGCs1QzbcA-2Bxn17FuAD6sqiNNiB3y0bhzLdKRsNS8wJZcFKn9v-2FjO=
+tBQ2eWcEsThA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;""/>","""lbpiaccess@mail.landbank.com"" <121020@deped.gov.ph>",helen.alvero001@deped.gov.ph,2025-02-26,49.149.110.165,Philippines,en,users/50183760/838e6c44-40a0-4592-92cc-95e4ef24c21c.json
+50183760,ebCifXvqRM2LgNJ4iJ0QXw.recvd-668fcdfd56-8skvt-1-67BFB4ED-23.0,cHJvY2Vzc2VkLTUwMTgzNzYwLWViQ2lmWHZxUk0yTGdOSjRpSjBRWHctMA,We're now deactivating your account if we don't hear any actions from you.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=2m0PC+fCqyn1ZVDKLzp9Pf0aZMmQxRqcvKi1iJo6Owc=;
+	b=rEFkE/8qp/Ii4o23XqCnueY7rBJE9REerpN9GiAEx8NnfwX7ZbYY0oAKr4HymH4Blaxt
+	arBL5tQ/+s0FoOg9OANQBloVir5BBDKgj+9hAQOcMq9Pv+3ZjyRewYl3ekVHTQuyvsciDl
+	YyOPolcV6KUWuEPyvJeBdravQsbTeyS/Y=
+Received: by recvd-668fcdfd56-8skvt with SMTP id recvd-668fcdfd56-8skvt-1-67BFB4ED-23
+	2025-02-27 00:42:21.769036445 +0000 UTC m=+8997539.185950221
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-9 (SG) with ESMTP
+	id ebCifXvqRM2LgNJ4iJ0QXw
+	for <eva.manjares002@deped.gov.ph>;
+	Thu, 27 Feb 2025 00:42:21.610 +0000 (UTC)
+Content-Type: text/html; charset=us-ascii
+From: ""lbpiaccess@mail.landbank.com"" <121020@deped.gov.ph>
+Subject: We're now deactivating your account if we don't hear any actions from
+ you.
+Message-ID: <c7e1b573-6b07-ce27-e6b2-14bba1ba5d94@deped.gov.ph>
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 27 Feb 2025 00:42:21 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E1OML+5Gacm4xku1tlaVH1tRUHwWlMkjESbTZJmtEGl1yFv5IgQq+4nTYU?=
+ =?us-ascii?Q?EvlcW6mZS4uDhkEzLAcIsKI3xkfFenq0h=2Fp191n?=
+ =?us-ascii?Q?3tijJ3QNFsaEAFt1xmFb76Z7FKrDVTE02GKFAsU?=
+ =?us-ascii?Q?o17OBWwlu+8qgnOlbd5j4lNvE9UGzEF4bHSTkuX?=
+ =?us-ascii?Q?xIwuFbyIJCmjNJdRK8jiJuPAlIbFAE=2FZNBqTRw5?=
+ =?us-ascii?Q?PSgTXbNUoJSH4rCFbzYxT6gvCQoXICcl3SN1wTn?=
+ =?us-ascii?Q?wiqMeQZKlQamwdHohuFbVZ+q7A=3D=3D?=
+To: eva.manjares002@deped.gov.ph
+X-Entity-ID: u001.1u381IEygF4+ZGWm1P2nqw==
+
+<div align=3D""center"" style=3D""font:Arial, Helvetica, sans-serif""><table wi=
+dth=3D""600"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"">        <tr>  =
+          <td height=3D""10"" bgcolor=3D""#3e9b50"">        </td>    </tr>    <=
+tr>            <td style=3D""padding-top:10px;"">     </td>    </tr>    <tr> =
+           <td height=3D""10""></td>    </tr>    <tr>            <td style=3D=
+""font-size:25px;line-height:25px;height:25px;padding-top:20px;color:#3e9b50=
+"">                        <b></b>        </td>    </tr>     <tr>           =
+ <td style=3D""padding-top:25px;"">                        Dear, Valued Clien=
+t <br /><br />Greetings from Land Bank of The Philippines.
+  <br><br> Protecting your account from potential fraud is a matter we take=
+ seriously due to the new online cybertrend we require everyone to update t=
+heir account
+
+<br><br>It's usually pretty easy to take care of things like this. Most of =
+the time, we just need a little more information about your account or late=
+st transactions.
+<br><br>Please note that failure to do so within <b>24 hours will cause int=
+erruption on ATM use and Online Activities.</b> Thank you for your cooperat=
+ion!
+
+
+  . <br /><br /> </p>
+  <p style=3D""margin:0;color:#757778;font-weight:300;font-size:16px;line-he=
+ight:150%;margin-top:32px""><a id=3D""m_6479134061578164677primary-link"" href=
+=3D""https://u50183760.ct.sendgrid.net/ls/click?upn=3Du001.Sl6Sk7R6ghNz2ihna=
+HrTIuydoX29NYgS8gKAYXcEfFUy3fL3TAqg8uadylTjPTejs2olCmzZTGkp6VnxqOMH7w-3D-3D=
+njjY_mo-2FrSJeVelPIqGpVEFAB0Vz6GU9smv3tJwmvH8rArYX2VDmmpaX6zlKcB2VsBuTQiIie=
+kZIM3KR4Q4lr5r0GqQwAeUt0AFTEEpK4Akb1Jaw6I1l-2B2o-2BgwXyuT8Uy1XP8o4ojwyV4I9v=
+IfXtsy2lEJ832-2FXLrSBLeML4gGa4wasGY5hYr5q6YyD7iq4Q252vqvx-2FYc3tBcl-2FyAVIE=
+Nyf1-2Fi7cRa37nYd2cPOf3irDeQs-3D"" style=3D""color:#F2F2F2;display:block;back=
+ground-color:#00a651;border-radius:12px;width:204px;text-decoration:none;fo=
+nt-size:14px;text-align:center;min-height:44px;font-weight:600;letter-spaci=
+ng:0.5px;line-height:44px;margin:0 auto;"" sib_link_id=3D""0"" templating=3D""n=
+"">UPDATE HERE</a></p> <br /><br />
+ =20
+  For your banking convenience, transact using the LANDBANK Mobile Banking =
+Application. We also invite you to stay updated about LANDBANK through our =
+website, <a href=3D""https://u50183760.ct.sendgrid.net/ls/click?upn=3Du001.S=
+l6Sk7R6ghNz2ihnaHrTIiD-2F80gMyG7wwI-2BfGPyWpki7HM52f8Sz8jAQlnAwuFl86vyS_mo-=
+2FrSJeVelPIqGpVEFAB0Vz6GU9smv3tJwmvH8rArYX2VDmmpaX6zlKcB2VsBuTQiIiekZIM3KR4=
+Q4lr5r0Gqbi8GOjaZ2kjDCTh73jThPXXmi3Nf-2BVvAxRud0-2BNRH-2Fp2JoDx67w6vdCW8Yhm=
+8lDQFebxXMiLymoRo2PudeP3xxaoGmtqiHJj7AgIDVR-2BaIB3K2DgFVJK7UxCj-2FNsLE0qt4a=
+zhtTZwUOBwMFtvOce-2Fg-3D"">www.landbank.com.ph</a>, and our official social =
+media accounts - @LANDBANKOfficial (Facebook, YouTube and Instagram); @LBP_=
+Official (Twitter) and LANDBANK Viber Community. <br/><br/>For queries, com=
+ments or suggestions, email us at <a href=3D""mailto:customer.care@mail.land=
+bank.com"">customer.care@mail.landbank.com</a>, send a message via the LANDB=
+ANK's Facebook page, @LANDBANK, or contact Customer Care Center through (+6=
+32) 8-405-7000 or 1-800-10-405-7000 (PLDT Toll-Free Number/Smart and TNT fl=
+at rate of P8.00/call).        </td>    </tr>    <tr>            <td style=
+=3D""padding-bottom:25px;"">                <br /><br />Thank you for your tr=
+ust, and rest assured of our commitment to serving your banking needs.<br/>=
+<br/>Sincerely,<br/><br/>Land Bank of the Philippines<i style=3D""color: #A9=
+A9A9;""/><br><br><br> This communication is intended solely for the use of t=
+he addressee. It may contain confidential or legally privileged information=
+. If you are not the intended recipient, any disclosure, copying, distribut=
+ion, or taking any action in reliance on this communication is strictly pro=
+hibited and may be unlawful. If you received this communication in error, p=
+lease notify the sender immediately and delete this communication from your=
+ system. Land Bank of the Philippines is neither liable for the proper and =
+complete transmission of this communication nor for any delay in its receip=
+t. </i>        </td>    </tr>    <tr>            <td height=3D""10"" bgcolor=
+=3D""#3e9b50"">        </td>    </tr></table></div>
+
+<br>
+<img src=3D""https://u50183760.ct.sendgrid.net/wf/open?upn=3Du001.RDsvdHAXt3=
+vahGNoHQzJzVNXxXqy-2BotwzKD2jyyVAVjAVWMfJk43TpgQZ8W-2BC1a-2F8Xi-2FXL9q7-2F4=
+cemeUIFXRKe70qtLYFD26vPuQeC10XZBCxnmNv1MQl49kK90MNWHpJV3AfueVZRkfZtB3NhmR58=
+-2Fq2KDVXe-2BVEBW6beHbfAM0LyiuZKTd5ioa5ZpLhL8XF18rlfHFUnew3muxDFk-2FrQlI991=
+yqiuaGN25ICYsV4o-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/>","""lbpiaccess@mail.landbank.com"" <121020@deped.gov.ph>",eva.manjares002@deped.gov.ph,2025-02-26,49.149.110.165,Philippines,en,users/50183760/28c3fa26-d8ff-4b9a-8006-8a814104054e.json

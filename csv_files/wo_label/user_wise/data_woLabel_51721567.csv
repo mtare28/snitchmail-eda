@@ -1,0 +1,378 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51721567,TFrVqBi3QLi9FwLKL2OQ1w.recvd-69cbc48b94-7j96v-1-67ED6003-A5.1,cHJvY2Vzc2VkLTUxNzIxNTY3LVRGclZxQmkzUUxpOUZ3TEtMMk9RMXctMQ,Order Summary,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=sBpcpOrqrdsqsUBo/NR3dhaN0PLwy563y+VDI/1CAf4=;
+	b=ke9LC8x6Pi2/cPrbNcjnI8CA8HGvSXqVtvTh0JiCOOwLrLj6L8uaexVF1U0WFPwi3KiW
+	g7YPjs7uofuk0rfiH8qV4zAAj11VNEjtB7v3RFrzvM4pYCEy3r/2mqduDMPcyDSvDCboIK
+	Oc4MreT8tJ8oSTwfC9sfeOQsfBHFCrFRM=
+Received: by recvd-69cbc48b94-7j96v with SMTP id recvd-69cbc48b94-7j96v-1-67ED6003-A5
+	2025-04-02 16:04:19.729640653 +0000 UTC m=+11990526.674750490
+Received: from NTE3MjE1Njc (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id TFrVqBi3QLi9FwLKL2OQ1w
+	Wed, 02 Apr 2025 16:04:19.706 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=4a0127951a723e477f87174c1581915e9e69b88ab9be799403360e1a0340
+Date: Wed, 02 Apr 2025 16:04:19 +0000 (UTC)
+From: Alex <alexwilson3782@outlook.com>
+Mime-Version: 1.0
+Message-ID: <TFrVqBi3QLi9FwLKL2OQ1w@geopod-ismtpd-8>
+Subject: Order Summary
+Reply-To: alexwilson3782@outlook.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EPi5=2FKyujpC=2FU48=2F8zmHLQE=2FDIYZj1efIGXZ+vO=2FhJgWsBi8ETxeQuFnly?=
+ =?us-ascii?Q?4EJpnQQnr=2FI4cs9Oc2t+I1XfMIMKwe74ctjc6zc?=
+ =?us-ascii?Q?gGLswiXjOjUqq9IzFgxl=2F06mXEJC3HEi4dhWgol?=
+ =?us-ascii?Q?VtKPnct5CkTaAobr0H4PR2nhsGo1n14eB0HWjHz?=
+ =?us-ascii?Q?fkc+2WExVIau9CjluQFtCeierNB+kqZl7sNhtzN?=
+ =?us-ascii?Q?3UVfyvnGyb4CiVjIQ40=2F+eHl3JmcD=2FpwCSBSadQ?=
+ =?us-ascii?Q?0sm5?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfay0ZTQei0J28m5StnUidlzMds?=
+ =?us-ascii?Q?xlnOOqajHogtE8VNnj94g4VVLDQSY3CZluIkCsJ?=
+ =?us-ascii?Q?0At1Nzk9YdRPprGI2Ih7yNy=2Fd7mWVeO7eE1k2t7?=
+ =?us-ascii?Q?iGDIifcCiLNnlJlztObx1cyU8CNfGNxpJuIoKSL?=
+ =?us-ascii?Q?aFMwqoUJKOtnijvsL5Yrq0fadZozvyOf2sHIatH?=
+ =?us-ascii?Q?4AdZRyysUb9ScYYmS6hYx=2FKwqPuvNtOS2WivSlG?=
+ =?us-ascii?Q?v2gEoJ7CylhYgotH=2FJlC7Jp65jA04ih5CMD=2FYcE?=
+ =?us-ascii?Q?wc53zhDcDtp+n6pwjZzdmXBeMGC44mtgyIEGxbl?=
+ =?us-ascii?Q?13uuFrJX6JIZawxDZblu+6faCZoT19p4+COsQl4?=
+ =?us-ascii?Q?kGEkwSboiiuRC7RxEfQKaybD5ycb9xmnvPKqOnH?=
+ =?us-ascii?Q?T101JkznLvPTTstvVCIrQUhhRmUjZoi44PXZPFX?=
+ =?us-ascii?Q?D9gc+lIetIKxLa3HE5Af3n3InQs6Qh58Nz1=2FqEw?=
+ =?us-ascii?Q?GOr68xbeztEh+cIQjjTHPx0NhxHYBkMLSEud5RO?=
+ =?us-ascii?Q?AyLOP7MUT6NUmi54b0mGoJhHao2dnQRRpyObvSB?=
+ =?us-ascii?Q?FcGFyXoqyWV9hqEvJXj3zUz?=
+To: marilyngooden.mg80@gmail.com
+X-Entity-ID: u001.6ZO5y7V5cyTJ6ZsHLVGwLw==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51721567=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EnAaS?=
+ =?us-ascii?Q?7kejKEbrDTSdAxQKKoWBwC=5F=5F8ySbjmxh72mCFh4?=
+ =?us-ascii?Q?yL-J4z339=5FOM9dY7kzUnK=5FoUN0heald1jWdjrp9?=
+ =?us-ascii?Q?lX0ATM=5FIcyAVATmua=5FUIRPSiJsUdT8GlGEnPY3O?=
+ =?us-ascii?Q?xmWHzMlK7TL-GFroUGOvfn4d1JggiVICeqRP=5F8j?=
+ =?us-ascii?Q?tYtPwTCYEUT2KI=5FLJyKYPFkVcfdMyIKSmo2RQx7?=
+ =?us-ascii?Q?LuX5Cq=5FjeXaaFxOgji2LffFd1WXYV84fOW8YTRw?=
+ =?us-ascii?Q?Fbo5Xchbjf34kaOvBvMS5SnRMOXnW-V7o9EEIpV?=
+ =?us-ascii?Q?y5-PvnGj70tND55IXgB6vHIcyC49z719n5gggdB?=
+ =?us-ascii?Q?MwQysHwDfqlYbRJRYZbUOyBVz=5FBhePFhZxD6QR7?=
+ =?us-ascii?Q?hCIrhlSwQbHOvpLqF0eaW6loOckD0uDjwyVRo7z?=
+ =?us-ascii?Q?nJAJ=5FZuGu65DT5zJ4o9DTcSFFCWF8A1KXxVzoHy?=
+ =?us-ascii?Q?wQELCFwa6WsLDSUy-ZADmXY1LjuDctDTXxzjMG9?=
+ =?us-ascii?Q?V5r6kc1f8zmCrcPi4pD4IvRX71MTvKGOX38wASI?=
+ =?us-ascii?Q?by7=5FY3y1QCRkqmgTysnA-KQle=5FJ0O93FU5zPxvi?=
+ =?us-ascii?Q?RrKCbd2u1OhkJAXEf17-TEbVBVIseLD7ws-68yr?=
+ =?us-ascii?Q?Rf-NUQX83w-abb92araMfzhp7hQqRG4ftfIQXnl?=
+ =?us-ascii?Q?Uzh-2xZGFV42lpCuOtEPcb02qr-RHLK0VW1g7vO?=
+ =?us-ascii?Q?YT=5F425IkOh2GqTDJrU7-7sKAXPQSqs3GrP5PZpH?=
+ =?us-ascii?Q?szKJZLDGWyEjSZKWUFhNWS4=5FlVWQpjCatMDhkwy?=
+ =?us-ascii?Q?xzy9ozPyiNM1SLmkB4EWd=5F1YiB=5FUk=5FXqCLV1725?=
+ =?us-ascii?Q?xMXNrNpzxMIlRetJ=5FbxCm1UJV=5FCIYw1iAIDaDM0?=
+ =?us-ascii?Q?0WsCgvKn5KwKABFH-Gh89N6nTEPwrk-inZYvWg3?=
+ =?us-ascii?Q?E5eQ9pCDDUCyzfaUeGqI3-XbfPGZyqScReQsG2K?=
+ =?us-ascii?Q?ApjQGNVYf22G7AGNxCg2-ZryWHRhwkHTFGAwvA8?=
+ =?us-ascii?Q?4DqPvuNwWzYoifv6ZokOAlk8wbJJfa3yZlcSyjO?=
+ =?us-ascii?Q?ypvkyOO-FubpVifxQp7JbNVxl8p5eJf18D96pDI?=
+ =?us-ascii?Q?kk8yp78bkBLxotcrvfh0BYoZkf-3q8A37t7txmR?=
+ =?us-ascii?Q?BwKzwvb5BLxYboXr-jC=5FiI1DVPBXAK65Bjm6a5n?=
+ =?us-ascii?Q?fekTfvUT1JtiHlhXu4=5FbvWaJRRy6tOqn6nRgnRf?=
+ =?us-ascii?Q?3Kn=5FYqhUNgv=5F5sD6dWnL06S8TlkbemfmmqWNOqj?=
+ =?us-ascii?Q?FBUl8fc0-xkQDcZFISgzzWtALiGRSN1QKWQDLjD?=
+ =?us-ascii?Q?krspwFPVtqE9ngKMfuy4JQx-Wu2-DQ4ad2qRheF?=
+ =?us-ascii?Q?qXox5YrckhNj-k5WxbonZWI-traAU6I4SWy591r?=
+ =?us-ascii?Q?=5FBmr6=5FR=5FePLbWMJmyW8FyW0PucyclFMoPPrpE6F?=
+ =?us-ascii?Q?FBcILW1ZbsrQm=5FMiniERGEILSnmy8ILbeo3QqEz?=
+ =?us-ascii?Q?C1ELNC0m8eUyKJcQ1mnUDL=5FOuD2mqP9pnm7tvKF?=
+ =?us-ascii?Q?r4NCbQ946faLHOrHSA5KcFYbJOzGi8TkBpZA-Hm?=
+ =?us-ascii?Q?KETqyvSQpMBXA9ZRKjkuWyoG5F7RfdKKqol1Rur?=
+ =?us-ascii?Q?EOgLLyt0ZaFS5c1W-4Z-2Ajd7Yxm9IkDtaKULf0?=
+ =?us-ascii?Q?LQT5l852xE8raU9LHNIWnfrka2=5FiVI-jYSQaZjN?=
+ =?us-ascii?Q?1lAAzdJ8=5Fi7ZLe6Y8yEh8tB=5Fob33IkmCgrLl=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3D51721567=2Ew3t0HmJDEFR53CrD1FuOBVEw34T=5Fm?=
+ =?us-ascii?Q?xN--V5WMANbcZhoMDAwdTAwMK=5FJ82slRdSh-9Vk?=
+ =?us-ascii?Q?dlZlOLbNZa0o7Yxvm2A3UHKsosfXSl3FZV-sgQw?=
+ =?us-ascii?Q?qVZsTWdthmIpBuCli36EA4TwaW1YaZxh6HTEL7r?=
+ =?us-ascii?Q?NwdZG=5FcT1IU0fqYYavR-PntMe0VDNrSANgBw=3D=3D=2E?=
+ =?us-ascii?Q?Ef3wIRV=5FdJuv2Ql2nGajrXeILE5CLPyZajr1HGW?=
+ =?us-ascii?Q?whQVoMDAwdTAwMMDZ5eY3Ls2ykGJElr3-pc9bjM?=
+ =?us-ascii?Q?Hx4H0h0Ofm2rcQbchfzvbDOa8ryPbZyPXP8kHKk?=
+ =?us-ascii?Q?3Jp1PYEMGl893z7ss3visuYOWSEoR9StJNo5g9b?=
+ =?us-ascii?Q?Gqn7LjTgE0kYpGwnJqR5CcPZoP=5Fs4kyRdupPyPn?=
+ =?us-ascii?Q?snRpgw0Tx0gx0olYgI2EmEnaQZ4HnifwlmbE=5Fm7?=
+ =?us-ascii?Q?h4DyQItG-wsC0Ro-DxExZnVKGPkGATGT6B9CRNV?=
+ =?us-ascii?Q?KvyKzhOzwsAWxLXrlffYnfUiAVHZP5JjptVzewA?=
+ =?us-ascii?Q?=5FlclL5roJLiDjcYOJwZuVRQVzRd8CxHNTGS-YKu?=
+ =?us-ascii?Q?7D7mi=5FRSHDFRNh4WVI1W=5FbuararsxoJpDG7uMDB?=
+ =?us-ascii?Q?jJpgWidFxPYUEOKCgsGAEu11sz1v7pKUnwsrbWX?=
+ =?us-ascii?Q?jzP8hwB-k60bcwNoBuiUI6SWHzRcFTcR3koZuxM?=
+ =?us-ascii?Q?yrFSfgiDuHcwnh0PJJeehUsKQJCp=5Ft-XFlHKH3g?=
+ =?us-ascii?Q?MBvz75Rmv04kJiNN0G5Ja0tT=5FREmIkXCZdfubP1?=
+ =?us-ascii?Q?7AN1o7pib3bwOsTMxMAK4gv3dWq1XUBmJIqp99S?=
+ =?us-ascii?Q?xS8JINqkZ-ifNQF4Nd0wEQUoJJkk8rD8uBJe=5FrK?=
+ =?us-ascii?Q?EV0S1c4HnV6qBwiHfjmkOBzIYzhVJf26WrGmnPr?=
+ =?us-ascii?Q?6CvMHVRdPSqFS-=5Ffe52eV62HfllAp0Tae-2ky5=5F?=
+ =?us-ascii?Q?l8d29h91zje=5FOh8SN61QiUOb4kTns5T6D3vSDt8?=
+ =?us-ascii?Q?3rJtc11f40IMyrYYmOO=5FmhuoHoUpO-KE74s5Jof?=
+ =?us-ascii?Q?k9qXUMjTA2bgfuhPw2NSOAIwLruj122wCS=5Fsvqw?=
+ =?us-ascii?Q?oN84sG2PIFSgoBw=5Foy4MPyVPw34tbXHDMb4naDT?=
+ =?us-ascii?Q?igIDHBI42CbIsb68vMF2VzmjsssdRTVV7qSb=5F7Y?=
+ =?us-ascii?Q?U3ZnMW01ItAItNSlTQS1QOJAdLOcPNjRo8n6dJm?=
+ =?us-ascii?Q?LvwiBao5qVfVig=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--4a0127951a723e477f87174c1581915e9e69b88ab9be799403360e1a0340
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+*************************
+Thank You For Your Order!
+*************************
+
+Dear marilyngooden.mg80@gmail.com,
+
+Thank you for shopping with Walmart! Your order has been successfully proce=
+ssed and is now being prepared for shipment.
+
+-------------
+Order Summary
+-------------
+
+*Order Number:* WMT-982374
+
+*Item:* Apple MacBook Pro (M3, 16GB RAM, 512GB SSD)
+
+*Total:* $1,999.00 (Free Shipping)
+
+You will receive a tracking link via email once your order ships.
+
+----------
+Need Help?
+----------
+
+If you did not place this order or wish to cancel, please contact our Custo=
+mer Support immediately:
+
+=F0=9F=93=9E (888) 381-0629 ( tel:8883810629 )
+
+Or click below to call now:
+
+Call Customer Support ( tel:8883810629 )
+
+Thank you for choosing Walmart!
+
+*Best regards,*
+Walmart Customer Support
+(888) 381-0629 ( tel:8883810629 )
+Unsubscribe From This List https://u51721567.ct.sendgrid.net/asm/unsubscrib=
+e/?user_id=3D51721567&data=3DkinUYmKoFTVSss6v_9X7c_zw08B1V5DYgIBn_QvULntoMD=
+AwdTAwMGV2e1JcVsnJRFiRLh9Wx0hX2emyp4ghQRPWRsnHD8WmtV1hNOTKTnNsrJFZpmEXrWJaK=
+5BJG6HS34IrpkBXXrOIoQzc10_b5ybxnnKoBggxwAvo_EH5heIW7g27kpiPd1quAkCQe3IeCYgg=
+xdd-zwL6OjrGh_WgSajPEXja949nh348g9IRLdVgiI8xdxot8qMVF0CF3q9g0JJToFCQao7G2Uu=
+hzYMUwIVgbvvxttTXjTPMTxFmWqFHuGTWngksoUXg_C7xVBUFf9Q5GHUARW2ukynicFHBARTkKY=
+1s7XSrDwpF_NLslIg1dFjIvwrbcYhqsrUkH5u7137-YbgLmJa6tZDU0rv84RiZFAUj0_wY6V2u0=
+dcwYx-fGc2PZlVwxPuK6CnaM2T3dI8thYKWkXn40629f4I1MkNm_hmk-jqmR7i-NC10ZG3ieOC2=
+avUXylfXLlUrfem5CInlaBCQ8wo6E_uZv1v27nnWvDxTGFxAstLBX-cVigoP3CM7Eai7m3CzBtV=
+4mcBBOSle-QHLMqhd9AV8gb__ym_hHn6FLUq4K5_i1kurpM2tMu5rE84gITqdDQlFy7KwEIfzrE=
+xY5dRylVhTltT_FcCJ-Szowym9nSprcG5ulTLsewdXPgGGH9qpUZReGNrB6cjjMoWxT93jsQ_BS=
+fcpvMzRyNy1aaZbpymRlfpNPbbPsObsj0yO-MQkF0uFFa6PnRUMYHvAPvK7aXB9HPcfM7d7C2Na=
+U7e5O-xIcPTQnbEvIBzh0FmIle_7U_M_DNxvyQukgTOxRI4EpN4R8WgXFt5coVfeWAjcpu1ia0L=
+taSpIv7u36pYfhyOD7EnPyzhYOUMwNjF0mLCNt9BgpvdoxP5sP3xWBbZLGWlP0WvhVIG6lQVhBV=
+2TaPliRk2-ZPLOZ5XxtZm8Okycl4Oj0ETe7nuVBUGa_Y78O-4MyOYzLGcf2BRco2Vc8g0McLFxU=
+8hdpL3ErS8TdWhxHiBeLmD-7idSzyJUXMKFySldCJZquHTEEVSmvRjPwU4SvA8vR9km0CpcM3Vg=
+C16loNellUgyiC2sIOPs-_i3 | Manage Email Preferences https://u51721567.ct.se=
+ndgrid.net/asm/?user_id=3D51721567&data=3DPW_d83wL8qwhY9uRFZ2PjIT709VkSNzhl=
+fQ1PbEgBN5oMDAwdTAwMFOHuazWQqSCCmycILDW1bb5PeQd4CW66u479iJeIdN8cmKtZIfkXUkV=
+8NxiV2EWOwKkGaauFMuj8tCp4pwKV7y6IJlnw93ZiASrkMnas484hEzDAPt7UnbeSiIszddzkH1=
+JogQc2A-G17TD1a5WtPV4VXjs3hqc_L-twsZaoZzI99tW7Pshuq1L6D8hsnHSbJXi1rkpq-2Du0=
+hN33sdZXFGyxs3XHK7oXO_9UwhO7KuxWNPrPXPVJSQVFUlTZu9ED4hyl5EzWKqVXW1MwEZGh0QW=
+EF7N4fX9LF-XdgYn1kqadhc8PolP_TcsZU3P32M0i3SBOqLCClLLK6CezZbf6SooPoo3UQkCpUu=
+YNX5Ly8d-69W7qTiCfU4sUvw8vN7XwpOgtWWqa9lQFYCA7B7q18IUKtzGCT65FdmZn_k5OWKvY7=
+hMmZNsg6vDM_cUOmiVAUUnoNoHqpFTKKQm2IE7QEhVxU7sYLxBbhoAn0pOKR8bK8BKfRYkUNrec=
+YPCyYRlpF82IPmzbTFaUA8I5RGMuEiP6VzdtvEr00NJqtjdl3lKyXC7HREmos442mVooWzMM5Wy=
+ogaYUlDWE9gCs0_y3YLiNQ0uQApV685_tpAcpq3Sm2fNApJNFzCAKtMRUcJRb01trKf5dlOAYkZ=
+PRwAHSRaQ7vHCVWv6Os8GtLjYrrDzObC-evbKl2PIMIlG7MwRQdtlPGY1YyQ222nNKl2OiBo-bu=
+pFjutNka1f0gJhzSmw35gg-l0lfyVPDfi2KSdFZhcJzjgoEm9WlPM4B95xsCLWjQq97trJhBH-e=
+awPCkP8nqSXHWWeCZwFn9JjjX2RRqayf6PNcWYiBveVIi2D2NHBB2GhlWbozfTq9SQxafeCEE4a=
+zNZd3NQrebUxhfu3sg3Rw2YNqMmrj9W15NqM3E-GJHSzC4qqlOP5Doehbwi2m_6Tu2b1XvHCAl3=
+KiTW3GMLtVX5lAay7l366Qu548TZs36SbjXUEQDV2Ct2WwwBAEtw2DT0uKaR2unEl0Yg9Ce4v7e=
+dJBoCCi6A7EU9bb7B14DoGsRD6wl-jPk1r6vq
+--4a0127951a723e477f87174c1581915e9e69b88ab9be799403360e1a0340
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .header {
+            background-color: #0071ce;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+        }
+        .content {
+            background-color: white;
+            padding: 25px;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        h2 {
+            color: #0071ce;
+            font-size: 20px;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 10px;
+        }
+        .order-details {
+            background-color: #f7f7f7;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #0071ce;
+        }
+        .phone {
+            font-weight: bold;
+            color: #d82c20;
+            font-size: 18px;
+            text-decoration: none;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 14px;
+            color: #666;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            background-color: #0071ce;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D""header"">
+        <h1>Thank You For Your Order!</h1>
+    </div>
+   =20
+    <div class=3D""content"">
+        <p>Dear marilyngooden.mg80@gmail.com,</p>
+       =20
+        <p>Thank you for shopping with Walmart! Your order has been success=
+fully processed and is now being prepared for shipment.</p>
+       =20
+        <h2>Order Summary</h2>
+       =20
+        <div class=3D""order-details"">
+            <p><strong>Order Number:</strong> WMT-982374</p>
+            <p><strong>Item:</strong> Apple MacBook Pro (M3, 16GB RAM, 512G=
+B SSD)</p>
+            <p><strong>Total:</strong> <span class=3D""highlight"">$1,999.00<=
+/span> (Free Shipping)</p>
+        </div>
+       =20
+        <p>You will receive a tracking link via email once your order ships=
+.</p>
+       =20
+        <h2>Need Help?</h2>
+        <p>If you did not place this order or wish to cancel, please contac=
+t our Customer Support immediately:</p>
+       =20
+        <p>
+            <a href=3D""tel:8883810629"" class=3D""phone"">=F0=9F=93=9E (888) 3=
+81-0629</a>
+        </p>
+       =20
+        <p>Or click below to call now:</p>
+        <a href=3D""tel:8883810629"" class=3D""button"">Call Customer Support</=
+a>
+       =20
+        <div class=3D""footer"">
+            <p>Thank you for choosing Walmart!</p>
+            <p><strong>Best regards,</strong><br>
+            Walmart Customer Support<br>
+            <a href=3D""tel:8883810629"" class=3D""phone"">(888) 381-0629</a></=
+p>
+        </div>
+    </div>
+<a href=3D'https://u51721567.ct.sendgrid.net/asm/unsubscribe/?user_id=3D517=
+21567&amp;data=3DkinUYmKoFTVSss6v_9X7c_zw08B1V5DYgIBn_QvULntoMDAwdTAwMGV2e1=
+JcVsnJRFiRLh9Wx0hX2emyp4ghQRPWRsnHD8WmtV1hNOTKTnNsrJFZpmEXrWJaK5BJG6HS34Irp=
+kBXXrOIoQzc10_b5ybxnnKoBggxwAvo_EH5heIW7g27kpiPd1quAkCQe3IeCYggxdd-zwL6OjrG=
+h_WgSajPEXja949nh348g9IRLdVgiI8xdxot8qMVF0CF3q9g0JJToFCQao7G2UuhzYMUwIVgbvv=
+xttTXjTPMTxFmWqFHuGTWngksoUXg_C7xVBUFf9Q5GHUARW2ukynicFHBARTkKY1s7XSrDwpF_N=
+LslIg1dFjIvwrbcYhqsrUkH5u7137-YbgLmJa6tZDU0rv84RiZFAUj0_wY6V2u0dcwYx-fGc2PZ=
+lVwxPuK6CnaM2T3dI8thYKWkXn40629f4I1MkNm_hmk-jqmR7i-NC10ZG3ieOC2avUXylfXLlUr=
+fem5CInlaBCQ8wo6E_uZv1v27nnWvDxTGFxAstLBX-cVigoP3CM7Eai7m3CzBtV4mcBBOSle-QH=
+LMqhd9AV8gb__ym_hHn6FLUq4K5_i1kurpM2tMu5rE84gITqdDQlFy7KwEIfzrExY5dRylVhTlt=
+T_FcCJ-Szowym9nSprcG5ulTLsewdXPgGGH9qpUZReGNrB6cjjMoWxT93jsQ_BSfcpvMzRyNy1a=
+aZbpymRlfpNPbbPsObsj0yO-MQkF0uFFa6PnRUMYHvAPvK7aXB9HPcfM7d7C2NaU7e5O-xIcPTQ=
+nbEvIBzh0FmIle_7U_M_DNxvyQukgTOxRI4EpN4R8WgXFt5coVfeWAjcpu1ia0LtaSpIv7u36pY=
+fhyOD7EnPyzhYOUMwNjF0mLCNt9BgpvdoxP5sP3xWBbZLGWlP0WvhVIG6lQVhBV2TaPliRk2-ZP=
+LOZ5XxtZm8Okycl4Oj0ETe7nuVBUGa_Y78O-4MyOYzLGcf2BRco2Vc8g0McLFxU8hdpL3ErS8Td=
+WhxHiBeLmD-7idSzyJUXMKFySldCJZquHTEEVSmvRjPwU4SvA8vR9km0CpcM3VgC16loNellUgy=
+iC2sIOPs-_i3'>Unsubscribe From This List</a> | <a href=3D'https://u51721567=
+.ct.sendgrid.net/asm/?user_id=3D51721567&amp;data=3DPW_d83wL8qwhY9uRFZ2PjIT=
+709VkSNzhlfQ1PbEgBN5oMDAwdTAwMFOHuazWQqSCCmycILDW1bb5PeQd4CW66u479iJeIdN8cm=
+KtZIfkXUkV8NxiV2EWOwKkGaauFMuj8tCp4pwKV7y6IJlnw93ZiASrkMnas484hEzDAPt7UnbeS=
+iIszddzkH1JogQc2A-G17TD1a5WtPV4VXjs3hqc_L-twsZaoZzI99tW7Pshuq1L6D8hsnHSbJXi=
+1rkpq-2Du0hN33sdZXFGyxs3XHK7oXO_9UwhO7KuxWNPrPXPVJSQVFUlTZu9ED4hyl5EzWKqVXW=
+1MwEZGh0QWEF7N4fX9LF-XdgYn1kqadhc8PolP_TcsZU3P32M0i3SBOqLCClLLK6CezZbf6SooP=
+oo3UQkCpUuYNX5Ly8d-69W7qTiCfU4sUvw8vN7XwpOgtWWqa9lQFYCA7B7q18IUKtzGCT65FdmZ=
+n_k5OWKvY7hMmZNsg6vDM_cUOmiVAUUnoNoHqpFTKKQm2IE7QEhVxU7sYLxBbhoAn0pOKR8bK8B=
+KfRYkUNrecYPCyYRlpF82IPmzbTFaUA8I5RGMuEiP6VzdtvEr00NJqtjdl3lKyXC7HREmos442m=
+VooWzMM5WyogaYUlDWE9gCs0_y3YLiNQ0uQApV685_tpAcpq3Sm2fNApJNFzCAKtMRUcJRb01tr=
+Kf5dlOAYkZPRwAHSRaQ7vHCVWv6Os8GtLjYrrDzObC-evbKl2PIMIlG7MwRQdtlPGY1YyQ222nN=
+Kl2OiBo-bupFjutNka1f0gJhzSmw35gg-l0lfyVPDfi2KSdFZhcJzjgoEm9WlPM4B95xsCLWjQq=
+97trJhBH-eawPCkP8nqSXHWWeCZwFn9JjjX2RRqayf6PNcWYiBveVIi2D2NHBB2GhlWbozfTq9S=
+QxafeCEE4azNZd3NQrebUxhfu3sg3Rw2YNqMmrj9W15NqM3E-GJHSzC4qqlOP5Doehbwi2m_6Tu=
+2b1XvHCAl3KiTW3GMLtVX5lAay7l366Qu548TZs36SbjXUEQDV2Ct2WwwBAEtw2DT0uKaR2unEl=
+0Yg9Ce4v7edJBoCCi6A7EU9bb7B14DoGsRD6wl-jPk1r6vq'>Manage Email Preferences</=
+a><img src=3D""https://u51721567.ct.sendgrid.net/wf/open?upn=3Du001.zSt2BIKy=
+sbFxzmBSWjgA90wwkSd-2F4Ty6TZczSbnMsNqB6ozLYPujcjkWSZMtXeWQ-2B1raelnEqCpPWh1=
+sEUtjbAvM0JzUQkNG-2FgCBPsqNpBZAK-2BxWS9c5etDR1igaJko0xhlvBqrSyXWY8zfBjdpVd9=
+LKrtdZASqj-2FSUvCZieePm6zN2Lhrk8v6DNl9uQ8QTvDruuKl-2BS9yNk9LmS0yz6r1ODzAQJf=
+ID-2BXT5ONFmsuBQPbIxvJuDaijy88cfN2gVGU-2Fm7xLOK0DgxGirBcbll4dTA-2BmhZaSYUT9=
+Nli950PJZKSfEMf6oLlAvPI8shaWjkbo1bfLS5CwBJfbznYHbmL1SCTqCW3LLNBPezh8eZ3hryv=
+NazDpTw3SZFD-2Ftmy5UDwDdETx4TVvvSW67XjJVXpf7anl-2F8L0I-2Bn9-2B55e-2BL4DJTgz=
+gjN8GZ5I60H-2FWhIFJIGd6oM6UgvSBKxtG8I52zsosLSRHmRdbt09BRngojftWhqzDf9dICmNI=
+fiVrz7TyTjAfJcbL0zk6jtwXiysEAEsJX8x-2FNLiCWJlUkgT3r18gU6iY3CrC0vyFkQdtiXd3h=
+6LHe1lw4go7OY-2B9LyizZ8guU9SAEmDLOCYT0xiaR56LHBcTWhGhjemcCkHdwz8EsfOx-2B6CJ=
+Jt18yCo9iwZjP6wbqJVJjegUGM0dhdfOhRTUDczo2VJM8qy2GXB-2Bu9O703hfXso14wjIcKSyW=
+0JkeNl14tpLLcGOrTvwMlyAx5KypXENhDSoNfX4cAesO6Uu9RsqyGFQJAPpC5iYmPsE2W7b7iEP=
+5LJ-2Fd3-2B1Y3lDVx9txVBXQvg-2B9o1pjtufTaVJ4FYmaZ2BzzXyIQqI8kdtl-2BADy2wIde7=
+IzmaUZsftjwiyvM9RprUKyg8FVz-2BKo-2FcsBuw86dWmPelefJqUzn-2Fur1hnXolFi-2FQEDr=
+8nuYWo-2F1zM-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+--4a0127951a723e477f87174c1581915e9e69b88ab9be799403360e1a0340--
+","""Alex"" <alexwilson3782@outlook.com>",marilyngooden.mg80@gmail.com,2025-04-02,44.214.78.206,United States,de,users/51721567/bc17566b-5b0f-4f8a-bce4-4652b0f2b0a5.json

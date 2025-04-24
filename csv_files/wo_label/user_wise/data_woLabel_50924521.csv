@@ -1,0 +1,263 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50924521,vD2RoLTgStKEOTqghz599A.recvd-69cbc48b94-pgsv7-1-67BFFF06-D.0,cHJvY2Vzc2VkLTUwOTI0NTIxLXZEMlJvTFRnU3RLRU9UcWdoejU5OUEtMA,qw,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=lkjh.loanbc.site;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=u/YnGosOo6+8gjd1OH37g5jlRFgPImMYyawIchUJo1Q=;
+	b=POV6dwgojSGluBoTW/CXd5xRgUWIZEqv0cNq6yobdNgVL0Bu7cUND9iaOcnaPNg4w/Zl
+	ArMxzndpzeuty1MglPOmCIop+gpxzXwAhSn6eZ0M4o1ptlLPCyzYEmRWyKidew76+liovL
+	AssoRxaGmR0zEW0yQ8aIDJ4IZyKcLd5B2E8xPJ/hvsu5wUSp6B/vVYO57UPTBJIARgwDmg
+	0lnWuUtBofHlfTMMRvtGZJTgvY3S5ZEtP/tdNx4njv2MgnsSm1Pa5YKP+pDoblVhkoD2jE
+	AedltmigS1vda0ArRr2P67wierKvoAKoM/ZRmtDuPtTVnQyDcVWwAJTBchcqx97Q==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=u/YnGosOo6+8gjd1OH37g5jlRFgPImMYyawIchUJo1Q=;
+	b=NSiyHSrEPrE2se/Qeml/2dR4FVQiDoQhLMsPOwlXlS6g9cTbPrVILervHkG40gLs0qsq
+	xIr9GV6/XWA6L6ToOUO15Ky7HLQu/gW5OH+Mt0iMr8XwaV6bgxr8C9mad4lR96R0yooOQ6
+	Bs3RhdUAvF3UFcu9bsKeqfbzD+5DCpN0Y=
+Received: by recvd-69cbc48b94-pgsv7 with SMTP id recvd-69cbc48b94-pgsv7-1-67BFFF06-D
+	2025-02-27 05:58:30.778770987 +0000 UTC m=+9016490.360472050
+Received: from NTA5MjQ1MjE (unknown)
+	by geopod-ismtpd-38 (SG) with HTTP
+	id vD2RoLTgStKEOTqghz599A
+	Thu, 27 Feb 2025 05:58:30.773 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Thu, 27 Feb 2025 05:58:30 +0000 (UTC)
+From: er <newsletter@lkjh.loanbc.site>
+Mime-Version: 1.0
+Message-ID: <vD2RoLTgStKEOTqghz599A@geopod-ismtpd-38>
+Subject: qw
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EwvIacipMS3A6=2FvsZ2elG6tSFDaMQ5POaPDYoPkHEAoFPCRZb3M=2FYxDdNl?=
+ =?us-ascii?Q?0djuH6AzyjWnZ7knzenAs6FMQJ=2FfAjZAZO+BIHI?=
+ =?us-ascii?Q?QR5mEipgYWcXAs8Dwy=2FaoepidQgzCuuM6sfmnpH?=
+ =?us-ascii?Q?LGMSbIfzs1PEViteM1vqSC4i=2FJMpF+gPAUxJoD3?=
+ =?us-ascii?Q?jWNGzw7pabOArXXg3hDEVtNNMCjK8V5Nx5kjf0w?=
+ =?us-ascii?Q?+i8gCyb4sRPU74pDI3nzPY3i7s2bw03RBOMuB=2F9?= =?us-ascii?Q?jsm8?=
+To: dragonlufafa9007@yahoo.com
+X-Entity-ID: u001.PE5s1gr/D3iagQ+CHclH0g==
+
+<!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>Our Spring New Arrivals Are Here =F0=9F=8C=BC</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Source+Sans+Pro""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Open+Sans""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Roboto""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Montserrat""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.k{display=
+:table-cell;}.o p{margin:0!important;}.a{display:block;margin:0 auto!import=
+ant;}p{word-spacing:normal;}
+@media screen and (max-width:640px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.qc{max-width:100%!important;max-he=
+ight:552px!important;width:auto!important;}.v{width:100%!important;}.x{padd=
+ing-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12=
+px!important;}.xd{padding-bottom:12px!important;}/* ENDS Order billing & sh=
+ipping */ .k{display:inline-block!important;} }
+</style>
+</head>
+<!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>Our Spring New Arrivals Are Here =F0=9F=8C=BC</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Source+Sans+Pro""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Open+Sans""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Roboto""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Montserrat""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.k{display=
+:table-cell;}.o p{margin:0!important;}.a{display:block;margin:0 auto!import=
+ant;}p{word-spacing:normal;}
+@media screen and (max-width:640px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.qc{max-width:100%!important;max-he=
+ight:552px!important;width:auto!important;}.v{width:100%!important;}.x{padd=
+ing-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12=
+px!important;}.xd{padding-bottom:12px!important;}/* ENDS Order billing & sh=
+ipping */ .k{display:inline-block!important;} }
+</style>
+</head>
+<!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>Our Spring New Arrivals Are Here =F0=9F=8C=BC</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Source+Sans+Pro""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Open+Sans""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Roboto""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Montserrat""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.k{display=
+:table-cell;}.o p{margin:0!important;}.a{display:block;margin:0 auto!import=
+ant;}p{word-spacing:normal;}
+@media screen and (max-width:640px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.qc{max-width:100%!important;max-he=
+ight:552px!important;width:auto!important;}.v{width:100%!important;}.x{padd=
+ing-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12=
+px!important;}.xd{padding-bottom:12px!important;}/* ENDS Order billing & sh=
+ipping */ .k{display:inline-block!important;} }
+</style>
+</head>
+<!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>Our Spring New Arrivals Are Here =F0=9F=8C=BC</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Source+Sans+Pro""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Open+Sans""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Roboto""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Montserrat""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.k{display=
+:table-cell;}.o p{margin:0!important;}.a{display:block;margin:0 auto!import=
+ant;}p{word-spacing:normal;}
+@media screen and (max-width:640px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.qc{max-width:100%!important;max-he=
+ight:552px!important;width:auto!important;}.v{width:100%!important;}.x{padd=
+ing-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12=
+px!important;}.xd{padding-bottom:12px!important;}/* ENDS Order billing & sh=
+ipping */ .k{display:inline-block!important;} }
+</style>
+</head>
+<!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>Our Spring New Arrivals Are Here =F0=9F=8C=BC</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Source+Sans+Pro""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Open+Sans""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Roboto""/>
+<link rel=3D""stylesheet"" type=3D""text/css"" href=3D""https://fonts.soundestli=
+nk.com/fonts/css/Montserrat""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.k{display=
+:table-cell;}.o p{margin:0!important;}.a{display:block;margin:0 auto!import=
+ant;}p{word-spacing:normal;}
+@media screen and (max-width:640px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.qc{max-width:100%!important;max-he=
+ight:552px!important;width:auto!important;}.v{width:100%!important;}.x{padd=
+ing-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12=
+px!important;}.xd{padding-bottom:12px!important;}/* ENDS Order billing & sh=
+ipping */ .k{display:inline-block!important;} }
+</style>
+</head><img src=3D""http://url3957.lkjh.loanbc.site/wf/open?upn=3Du001.hdksH=
+UxzD05dq6dF6RnFx-2FoDsLAHGSuYWU54tiPj1XEZxpilcENxPX6ugzVmNxjs9J-2BOWFFTepiA=
+mw6ydTm9iK0rBEBinzW807Jv8X7vMM5FrG879dk8MAvQp4QF2Tbxas-2Bn8uEQ2n63y85rFu-2B=
+coj6SqeXCaQALCcgSwl2VjfggdgPyDO73s0-2B8RUVDk4IcZjZLCTu4duByJfSR4tkqPfntaRBL=
+lOBoILjYvohAY7s-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D=
+""height:1px !important;width:1px !important;border-width:0 !important;margi=
+n-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;mar=
+gin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;=
+padding-right:0 !important;padding-left:0 !important;""/>","""er"" <newsletter@lkjh.loanbc.site>",dragonlufafa9007@yahoo.com,2025-02-26,137.184.72.106,United States,so,users/50924521/c13fdae9-52ae-4f58-8e56-ce1e7c9c7194.json

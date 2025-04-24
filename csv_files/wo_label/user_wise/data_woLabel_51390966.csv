@@ -1,0 +1,199 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51390966,6Zrt6o6RT9G1yJ2tPHhXcg.recvd-69cbc48b94-26k88-1-67DB04FC-10.0,cHJvY2Vzc2VkLTUxMzkwOTY2LTZacnQ2bzZSVDlHMXlKMnRQSGhYY2ctMA,"Gɑgnez jusqu’ɑ̀ 9,4% pɑɾ ɑn ɑvec l’immobilieɾ étudiɑnt","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=proappmailwizz.com;
+	h=from:sender:subject:mime-version:to:content-type:
+	content-transfer-encoding:cc:content-type:from:subject:to;
+	s=345; bh=dofJGMM5X8gIxbQW5wriU1I4270HoTqm8Eep/PfGCVw=;
+	b=aDHZZE6C/dF7XCIps5VqlApLe5/X424wBXPHjtRQrcSBz/esCgygZidwMXaObV2PuMg9
+	ul86tXgLQjg83ATd4IuEXRzWWBfE1jjmNVPLl5QxAJRAiAID3uYd36zF0V+qGa8hrIPoIR
+	u7DRMhEGBa47B0VtzhyFAtL14BLm76DwYMJQ6E/ez2qfrbwVyC/wGLSg3y2F8+Zh88porm
+	47+FQnhR9oZA2BnBN5yfMiCWn/cZUW4yXE1ChAjlB6fxgbIvEfdsr9WLINbv26lu0JkrMM
+	H/Y5A3rl7hGs3cbBlP+2YIC2Btaf6DpASlPzLENY0WTE4or0r1KnGDseDvvDdLGA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=from:sender:subject:mime-version:to:content-type:
+	content-transfer-encoding:cc:content-type:from:subject:to;
+	s=smtpapi; bh=dofJGMM5X8gIxbQW5wriU1I4270HoTqm8Eep/PfGCVw=;
+	b=HWADbN897mH9C6hISxPaSHwZcSI6QY7u0hxtG7ts5OKnhM6mjfKiqaESC3wUh9uCGgcX
+	3vvz4sQEQW5TMiGojyfaqbmiPYRsk8ClSCsOlcUXBtsjJCUCtSnYotCN7OWpQimtVx1IWD
+	r6lEJR48cFVBw1Sgn/luND/7vZio0W9S0=
+Received: by recvd-69cbc48b94-26k88 with SMTP id recvd-69cbc48b94-26k88-1-67DB04FC-10
+	2025-03-19 17:55:08.331890317 +0000 UTC m=+10787565.549031424
+Received: from alangourley.com (unknown)
+	by geopod-ismtpd-1 (SG) with ESMTP
+	id 6Zrt6o6RT9G1yJ2tPHhXcg
+	for <isabelle1590@yahoo.fr>;
+	Wed, 19 Mar 2025 17:55:08.280 +0000 (UTC)
+Date: Wed, 19 Mar 2025 17:55:08 +0000 (UTC)
+From: =?UTF-8?b?8J2QtvCdkZnwnZGi8J2Rjw==?=
+	=?UTF-8?b?IPCdkLzwnZGb8J2Ro/CdkZLwnZGg8J2RofCdkZbwnZGg8J2RoPCdkZLwnZGi8J2Rnw==?=
+	=?UTF-8?b?IPCdkLzwnZGa8J2RmvCdkZzwnZGP8J2RlvCdkZnwnZGW8J2RkvCdkZ8=?=
+	<no-reply@proappmailwizz.com>
+sender: isabelle1590@yahoo.fr
+Subject: =?UTF-8?B?R8mRZ25leiBqdXNxdeKAmcmRzIA=?= 9,4%
+ =?UTF-8?B?cMmRyb4gyZFuIMmRdmVjIGzigJlpbW1vYmlsaWXJvg==?=
+ =?UTF-8?B?IGXMgXR1ZGnJkW50?=
+Message-ID: <U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4@cms-a>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0+vcTu010sEQ+05ZBxnk+nEumUzd=2Fdl7fQ5JfjZcoO0czYKTJX0uF16om?=
+ =?us-ascii?Q?jeGnocUpIAfG=2FFjrqEXZ9FyNwI5mB=2FrfQ6cG3On?=
+ =?us-ascii?Q?Ai33jmuNIiod6V8VDsW4qUFanfAdc+HDnBV2fm7?=
+ =?us-ascii?Q?eEKusUREVEbFm8stpVLY+vrhleXAlugFV=2FG13qF?=
+ =?us-ascii?Q?M1TiZViCrbVarpxQPgnPDDQtA+S7fFXHmnUf4Ll?=
+ =?us-ascii?Q?yP8Hq5TfehP+=2FOQ4nB0EpWRZMKOQgAGCV9ZgkVe?=
+ =?us-ascii?Q?Zzb7jiY=2FrmjaeF7kQr4OgWhd8Q07Sa6omgcKhfK?=
+ =?us-ascii?Q?1Eo8DJ9bwXLvS=2FmbsaMz4FLjcZtd+0bbFtB=2FjLB?=
+ =?us-ascii?Q?BMYEIIyQYo6DY1LB9m946vNTfoVLYiIZC0S2x2s?=
+ =?us-ascii?Q?=2FW9nkdch9PIxHyo?=
+To: isabelle1590@yahoo.fr
+X-Entity-ID: u001.jRMvhma+CXaX8ljZlfGf2A==
+Content-Type: multipart/alternative; boundary=""b1=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4""
+Content-Transfer-Encoding: 8bit
+
+--b1=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Dear isabelle1590,
+Thank you very much for your payment of €20.00, it has been received. The
+current balance of your customer account is €32.41.
+This is an automated e-mail to confirm the receipt of your payment. Please do
+not reply to this e-mail unless you would like to acquire a new service.
+
+If you have sent the payment as an initial payment for a new service (such as an
+extra IP, a new domain, or any technical support), please notify our support
+team so that we can deliver the service as quickly as possible. If you already
+had contacted our support team before, we recommend to reply to our most recent
+e-mail where the service delivery had been discussed; you can alternatively also
+reply to this e-mail.
+Feel free to learn more about our billing and payment system in your Contabo
+customer control panel at https://my.Contabo.com where you can find all
+information in the menu items ""Your services"" and ""Billing"".
+A general hint: If you ever have a particular service which shall not be
+renewed, please cancel it in advance in the menu item ""Your services"" of your
+Contabo customer control panel. Otherwise, the particular service will renew
+itself upon reaching its due date.
+Should you have any questions, always feel free to ask.
+Best regards,
+Contabo Billing Team
+
+
+
+	
+	
+	
+				
+					
+						
+							Contabo GmbH
+							Aschauer Straße 32a
+							https://contabo.com
+							VAT-ID: 50561406
+                            
+							Local Court Munich
+							HRB 180722
+							
+						
+					
+					
+						
+							Authorized executives:
+							Dr. Christian Böing &Mario Wilhelm
+                            
+							SEPA Creditor Identifier:
+							DE56ZZZ00000511606
+							
+						
+					
+					
+						
+							
+							
+							Bank Account:
+							Hypo-Vereinsbank
+							IBAN: DE86700202700661933771
+							BIC (SWIFT) : HYVEDEMMXXX
+							
+                            PayPal: paypal@contabo.com
+							
+							Skrill: skrill@contabo.com
+
+--b1=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4
+Content-Type: multipart/related; boundary=""b2=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4""; type=""text/html""
+
+--b2=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+
+<!DOCTYPE html><html xmlns:v=""urn:schemas-microsoft-com:vml"" xmlns:o=""urn:schemas-microsoft-com:office:office"" lang=""fr""><head><title></title><meta http-equiv=""Content-Type"" content=""text/html; charset=latin-1""><meta name=""viewport"" content=""width=device-width,initial-scale=1""><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><!--><link 
+    href=""https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&amp;display=swap"" rel=""stylesheet"" type=""text/css""><link href=""https://fonts.googleapis.com/css2?family=Lato:wght@100;400;700;900&amp;display=swap"" rel=""stylesheet"" type=""text/css""><!--<![endif]--><style>
+    *{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{color:inherit!important;text-decoration:inherit!important}#MessageViewBody a{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.desktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.image_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media (max-width:500px){.mobile_hide{display:none}.row-content{width:100%!important}.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-height:none!important}.row-1 .column-1 .block-1.image_block .alignment div{margin:0 auto!important}.row-1 .column-1 .block-2.paragraph_block td.pad>div{font-size:18px!important}.row-1 .column-1 .block-2.paragraph_block td.pad,.row-1 .column-1 .block-3.paragraph_block td.pad,.row-6 .column-1 .block-2.paragraph_block td.pad{padding:10px 15px!important}.row-1 .
+ column-1 .block-3.paragraph_block td.pad>div,.row-2 .column-1 .block-1.paragraph_block td.pad>div,.row-2 .column-2 .block-1.paragraph_block td.pad>div,.row-4 .column-1 .block-1.paragraph_block td.pad>div,.row-4 .column-2 .block-1.paragraph_block td.pad>div{font-size:16px!important}.row-2 .column-1 .block-1.paragraph_block td.pad,.row-2 .column-2 .block-1.paragraph_block td.pad{padding:10px 60px 5px 15px!important}.row-2 .column-1 .block-2.paragraph_block td.pad>div,.row-2 .column-2 .block-2.paragraph_block td.pad>div,.row-4 .column-1 .block-2.paragraph_block td.pad>div,.row-4 .column-2 .block-2.paragraph_block td.pad>div{font-size:15px!important}.row-2 .column-1 .block-2.paragraph_block td.pad,.row-2 .column-2 .block-2.paragraph_block td.pad,.row-4 .column-1 .block-2.paragraph_block td.pad,.row-4 .column-2 .block-2.paragraph_block td.pad{padding:10px 20px 10px 15px!important}.row-4 .column-1 .block-1.paragraph_block td.pad{padding:10px 50px 5px 15px!important}.row-4 .column-2 .block
+ -1.paragraph_block td.pad{padding:10px 0 5px 15px!important}.row-5 .column-1 .block-1.spacer_block{height:95px!important}.row-6 .column-1 .block-1.spacer_block{height:20px!important}.row-6 .column-1 .block-2.paragraph_block td.pad>div{font-size:26px!important}.row-6 .column-1 .block-3.button_block td.pad{padding:10px!important}.row-6 .column-1 .block-3.button_block a,.row-6 .column-1 .block-3.button_block div,.row-6 .column-1 .block-3.button_block span{font-size:16px!important;line-height:19.2px!important}.row-6 .column-1 .block-4.spacer_block{height:120px!important}.row-5 .column-1 .block-2.button_block td.pad{padding:25px 10px 30px!important}.row-5 .column-1 .block-2.button_block a,.row-5 .column-1 .block-2.button_block div,.row-5 .column-1 .block-2.button_block span{font-size:15px!important;line-height:18px!important}.row-1 .column-1{padding:0!important}}
+    </style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup { mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></head><body class=""body"" style=""background-color:#fff;margin:0;padding:0;-webkit-text-size-adjust:none;text-size-adjust:none""><table class=""nl-container"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;background-color:#fff""><tbody><tr><td><table class=""row row-1"" align=""center"" 
+    width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tbody><tr><td><table class=""row-content stack"" align=""center"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;background-color:#dbeceb;border-radius:0;color:#000;width:480px;margin:0 auto"" width=""480""><tbody><tr><td class=""column column-1"" width=""100%"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><table class=""image_block block-1"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tr><td class=""pad"" style=""width:100%""><div class=""alignment"" align=""center"" style=""line-height:10px""><div style=""max-width:480px""><img 
+    src=""https://d15k2d11r6t6rl.cloudfront.net/pub/r388/l239mmxz/9un/cyq/wmq/thinking-old-man-looking-away%20D1.png"" style=""display:block;height:auto;border:0;width:100%"" width=""480"" alt title height=""auto""></div></div></td></tr></table><table class=""paragraph_block block-2"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" 
+    style=""padding-bottom:5px;padding-left:20px;padding-right:20px;padding-top:10px""><div style=""color:#004b4c;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:21px;font-weight:700;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:25.2px""><p style=""margin:0"">V𝘰𝘶𝘴 𝘤𝘩𝘦𝘳𝘤𝘩𝘦𝘻 𝘶𝘯 𝘮𝘰𝘺𝘦𝘯 𝘴𝘪𝘮𝘱𝘭𝘦 𝘦𝘵 𝘴𝘵𝘢𝘣𝘭𝘦 𝘥𝘦 𝘧𝘢𝘪𝘳𝘦 𝘤𝘳𝘰𝘪̂𝘵𝘳𝘦 𝘷𝘰𝘴 𝘳𝘦𝘷𝘦𝘯𝘶𝘴 𝘥𝘦 𝘳𝘦𝘵𝘳𝘢𝘪𝘵𝘦 ?</p></div></td></tr></table><table class=""paragraph_block block-3"" width=""100%"" border=""0"" 
+    cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" style=""padding-bottom:10px;padding-left:20px;padding-right:30px""><div style=""color:#000;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:400;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:21.599999999999998px""><p style=""margin:0"">
+    𝘓𝘦 𝘭𝘰𝘨𝘦𝘮𝘦𝘯𝘵 𝘦́𝘵𝘶𝘥𝘪𝘢𝘯𝘵 𝘦𝘴𝘵 𝘱𝘦𝘶𝘵-𝘦̂𝘵𝘳𝘦 𝘭𝘢 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯 𝘪𝘥𝘦́𝘢𝘭𝘦 𝘱𝘰𝘶𝘳 𝘶𝘯 𝘳𝘦𝘷𝘦𝘯𝘶 𝘱𝘢𝘴𝘴𝘪𝘧 𝘴𝘦́𝘤𝘶𝘳𝘪𝘴𝘦́ !</p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class=""row row-2"" align=""center"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tbody><tr><td><table class=""row-content stack"" align=""center"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;background-color:#dbeceb;border-radius:0;color:#000;width:480px;margin:0 auto"" width=""480""><tbody><tr><td class=""column column-1"" width=""50%"" style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-top:10px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><table class=""paragraph_block block-1"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" style=""padding-bottom:5px;padding-left:20px;padding-right:60px;padding-top:10px""><div style=""color:#004b4c;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:21.599999999999998px""><p style=""margin:0""><strong>𝘙𝘦𝘷𝘦𝘯𝘶𝘴 𝘚𝘵𝘢𝘣𝘭𝘦𝘴</strong></p></div></td></tr></table><table 
+    class=""paragraph_block block-2"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" style=""padding-bottom:20px;padding-left:20px;padding-right:10px""><div style=""color:#000;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:19.2px""><p style=""margin:0"">
+    𝘈𝘷𝘦𝘤 𝘶𝘯𝘦 𝘧𝘰𝘳𝘵𝘦 𝘥𝘦𝘮𝘢𝘯𝘥𝘦 𝘤𝘩𝘢𝘲𝘶𝘦 𝘢𝘯𝘯𝘦́𝘦, 𝘭𝘦 𝘭𝘰𝘨𝘦𝘮𝘦𝘯𝘵 𝘦́𝘵𝘶𝘥𝘪𝘢𝘯𝘵 𝘨𝘢𝘳𝘢𝘯𝘵𝘪𝘵 𝘶𝘯 𝘳𝘦𝘷𝘦𝘯𝘶 𝘱𝘳𝘦́𝘷𝘪𝘴𝘪𝘣𝘭𝘦, 𝘴𝘢𝘯𝘴 𝘭𝘦𝘴 𝘢𝘭𝘦́𝘢𝘴 𝘥𝘦𝘴 𝘭𝘰𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘤𝘭𝘢𝘴𝘴𝘪𝘲𝘶𝘦𝘴.</p></div></td></tr></table></td><td class=""column column-2"" width=""50%"" style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:10px;padding-top:10px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><table class=""paragraph_block block-1"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" 
+    role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" style=""padding-bottom:5px;padding-left:20px;padding-right:60px;padding-top:10px""><div style=""color:#004b4c;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:21.599999999999998px""><p style=""margin:0"">Rendement Élevé</p></div></td></tr></table><table 
+    class=""paragraph_block block-2"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" style=""padding-bottom:20px;padding-left:20px;padding-right:20px""><div style=""color:#000;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:19.2px""><p style=""margin:0"">𝘓𝘦𝘴 𝘭𝘰𝘨𝘦𝘮𝘦𝘯𝘵𝘴 𝘦́𝘵𝘶𝘥𝘪𝘢𝘯𝘵𝘴 𝘰𝘧𝘧𝘳𝘦𝘯𝘵 𝘶𝘯 𝘳𝘦𝘯𝘥𝘦𝘮𝘦𝘯𝘵 𝘢𝘵𝘵𝘳𝘢𝘤𝘵𝘪𝘧, 𝘢𝘷𝘦𝘤 𝘥𝘦𝘴 𝘳𝘦𝘷𝘦𝘯𝘶𝘴 𝘴𝘵𝘢𝘣𝘭𝘦𝘴 𝘦𝘵 𝘥𝘶𝘳𝘢𝘣𝘭𝘦𝘴.</p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class=""row row-3"" align=""center"" width=""100%"" border=""0"" cellpadding=""0"" cellspa
+ cing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tbody><tr><td><table class=""row-content stack"" align=""center"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;background-color:#e7f0f5;border-radius:0;color:#000;width:480px;margin:0 auto"" width=""480""><tbody><tr><td class=""column column-1"" width=""100%"" style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><table class=""image_block block-1"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0"">
+    <tr><td class=""pad"" style=""width:100%""><div class=""alignment"" align=""center"" style=""line-height:10px""><div style=""max-width:480px""><img src=""https://d15k2d11r6t6rl.cloudfront.net/pub/r388/l239mmxz/7vs/ipl/hhs/thinking-old-man-looking-away%201_1.png"" style=""display:block;height:auto;border:0;width:100%"" width=""480"" alt title height=""auto""></div></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class=""row row-4"" align=""center"" width=""100%"" border=""0"" 
+    cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tbody><tr><td><table class=""row-content stack"" align=""center"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;background-color:#e7f0f5;border-radius:0;color:#000;width:480px;margin:0 auto"" width=""480""><tbody><tr><td class=""column column-1"" width=""50%"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-top:10px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><table class=""paragraph_block block-1"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" style=""padding-bottom:5px;padding-left:20px;padding-right:50px;padding-top:10px""><div 
+    style=""color:#003754;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:21.599999999999998px""><p style=""margin:0""><strong>𝘎𝘦𝘴𝘵𝘪𝘰𝘯 𝘚𝘪𝘮𝘱𝘭𝘪𝘧𝘪𝘦́𝘦</strong></p></div></td></tr></table><table class=""paragraph_block block-2"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td 
+    class=""pad"" style=""padding-bottom:20px;padding-left:20px;padding-right:10px""><div style=""color:#000;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:19.2px""><p style=""margin:0"">𝘋𝘦𝘴 𝘦𝘹𝘱𝘦𝘳𝘵𝘴 𝘴'𝘰𝘤𝘤𝘶𝘱𝘦𝘯𝘵 𝘥𝘦 𝘵𝘰𝘶𝘵. 𝘗𝘳𝘰𝘧𝘪𝘵𝘦𝘻 𝘥'𝘶𝘯 𝘳𝘦𝘷𝘦𝘯𝘶 𝘴𝘢𝘯𝘴 𝘭𝘦𝘴 𝘤𝘰𝘯𝘵𝘳𝘢𝘪𝘯𝘵𝘦𝘴 𝘥𝘦 𝘭𝘢 𝘨𝘦𝘴𝘵𝘪𝘰𝘯 𝘭𝘰𝘤𝘢𝘵𝘪𝘷𝘦.</p></div></td></tr></table></td><td class=""column column-2"" width=""50%"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;padding-bottom:10px;padding-top:10px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><table class=""paragraph_block block-1"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" style=""padding-bottom:5px;padding-left:20px;padding-top:10px""><div 
+    style=""color:#003754;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:21.599999999999998px""><p style=""margin:0"">𝘚𝘦́𝘤𝘶𝘳𝘪𝘵𝘦́ 𝘎𝘢𝘳𝘢𝘯𝘵𝘪𝘦</p></div></td></tr></table><table class=""paragraph_block block-2"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word""><tr><td class=""pad"" 
+    style=""padding-bottom:20px;padding-left:20px;padding-right:40px""><div style=""color:#000;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:19.2px""><p style=""margin:0"">𝘓𝘦 𝘣𝘦𝘴𝘰𝘪𝘯 𝘦𝘯 𝘦́𝘥𝘶𝘤𝘢𝘵𝘪𝘰𝘯 𝘳𝘦𝘴𝘵𝘦 𝘧𝘰𝘳𝘵 𝘦𝘵 𝘤𝘰𝘯𝘴𝘵𝘢𝘯𝘵, 𝘢𝘴𝘴𝘶𝘳𝘢𝘯𝘵 𝘶𝘯𝘦 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘦́ 𝘥𝘶𝘳𝘢𝘣𝘭𝘦 𝘥𝘦 𝘭𝘢 𝘥𝘦𝘮𝘢𝘯𝘥𝘦.</p></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table 
+    class=""row row-5 mobile_hide"" align=""center"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tbody><tr><td><table class=""row-content stack"" align=""center"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;background-repeat:no-repeat;background-size:cover;background-color:#e7f0f5;border-radius:0;color:#000;background-image:url(https://d15k2d11r6t6rl.cloudfront.net/pub/r388/l239mmxz/tp7/4x3/hem/seniors-spending-time-by-sea.png);width:480px;margin:0 auto"" width=""480""><tbody><tr><td class=""column column-1"" width=""100%"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><div class=""spacer_block block-1"" style=""height:170px;line-height:170px;font-size:1px"">&#8202;</div><table class=""button_block block-2"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tr><td class=""pad"" 
+    style=""padding-bottom:50px;padding-left:10px;padding-right:10px;text-align:left""><div class=""alignment"" align=""left""><!--[if mso]>
+    <v:roundrect xmlns:v=""urn:schemas-microsoft-com:vml"" xmlns:w=""urn:schemas-microsoft-com:office:word"" href=""http://ct.bizsourceinfo.com/rd/cts?d=7-373548-479457-0-1246706-9694507-0-0-0-22-14129-544"" style=""height:53px;width:252px;v-text-anchor:middle;"" arcsize=""61%"" stroke=""false"" fillcolor=""#00b2ff"">
+    <w:anchorlock/>
+    <v:textbox inset=""0px,0px,0px,0px"">
+    <center dir=""false"" style=""color:#ffffff;font-family:Tahoma, Verdana, sans-serif;font-size:18px"">
+    <![endif]-->
+    <a href=""http://ct.bizsourceinfo.com/rd/cts?d=7-373548-479457-0-1246706-9694507-0-0-0-22-14129-544"" target=""_blank"" style=""background-color:#00b2ff;border-bottom:0px solid transparent;border-left:0px solid transparent;border-radius:32px;border-right:0px solid transparent;border-top:0px solid transparent;color:#ffffff;display:inline-block;font-family:'Lato', Tahoma, Verdana, Segoe, sans-serif;font-size:18px;font-weight:700;mso-border-alt:none;padding-bottom:5px;padding-top:5px;text-align:center;text-decoration:none;width:auto;word-break:keep-all;""><span style=""word-break: break-word; padding-left: 35px; padding-right: 35px; font-size: 18px; display: inline-block; letter-spacing: normal;""><span style=""word-break: break-word; line-height: 21.6px;"">Découvrez vos options</span><span style=""word-break: break-word; line-height: 21.6px;"">
+    <br>dès aujourd'hui.</span></span></a><!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><table class=""row row-6 desktop_hide"" align=""center"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;mso-hide:all;display:none;max-height:0;overflow:hidden""><tbody><tr><td><table class=""row-content stack"" align=""center"" border=""0"" cellpadding=""0"" 
+    cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;mso-hide:all;display:none;max-height:0;overflow:hidden;background-repeat:no-repeat;background-size:cover;background-color:#e7f0f5;border-radius:0;color:#000;background-image:url(https://d15k2d11r6t6rl.cloudfront.net/pub/r388/l239mmxz/vaq/18y/zsl/seniors-spending-time-by-sea%20m2.png);width:480px;margin:0 auto"" width=""480""><tbody><tr><td class=""column column-1"" width=""100%"" 
+    style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><div class=""spacer_block block-1"" style=""height:170px;line-height:170px;font-size:1px"">&#8202;</div><table class=""paragraph_block block-2"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;word-break:break-word;mso-hide:all;display:none;max-height:0;overflow:hidden""><tr><td
+     class=""pad"" style=""padding-bottom:5px;padding-left:20px;padding-right:20px;padding-top:10px""><div style=""color:#004b4c;direction:ltr;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:21px;font-weight:700;letter-spacing:0;line-height:120%;text-align:left;mso-line-height-alt:25.2px""><p style=""margin:0"">Prêt à rendre votre&nbsp; retraite vraiment gratifiante ?</p></div></td></tr></table><table class=""button_block block-3"" width=""100%"" border=""0"" cellpadding=""0"" 
+    cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;mso-hide:all;display:none;max-height:0;overflow:hidden""><tr><td class=""pad"" style=""padding-bottom:50px;padding-left:10px;padding-right:10px;text-align:left""><div class=""alignment"" align=""left""><!--[if mso]>
+    <v:roundrect xmlns:v=""urn:schemas-microsoft-com:vml"" xmlns:w=""urn:schemas-microsoft-com:office:word"" href=""http://ct.bizsourceinfo.com/rd/cts?d=7-373548-479457-0-1246706-9694507-0-0-0-22-14129-544"" style=""height:58px;width:211px;v-text-anchor:middle;"" arcsize=""56%"" stroke=""false"" fillcolor=""#00b2ff"">
+    <w:anchorlock/>
+    <v:textbox inset=""0px,0px,0px,0px"">
+    <center dir=""false"" style=""color:#ffffff;font-family:Tahoma, Verdana, sans-serif;font-size:18px"">
+    <![endif]-->
+    <a href=""http://ct.bizsourceinfo.com/rd/cts?d=7-373548-479457-0-1246706-9694507-0-0-0-22-14129-544"" target=""_blank"" style=""background-color:#00b2ff;border-bottom:0px solid transparent;border-left:0px solid transparent;border-radius:32px;border-right:0px solid transparent;border-top:0px solid transparent;color:#ffffff;display:inline-block;font-family:'Lato', Tahoma, Verdana, Segoe, sans-serif;font-size:18px;font-weight:700;mso-border-alt:none;padding-bottom:10px;padding-top:10px;text-align:center;text-decoration:none;width:auto;word-break:keep-all;""><span style=""word-break: break-word; padding-left: 25px; padding-right: 25px; font-size: 18px; display: inline-block; letter-spacing: normal;""><span style=""word-break: break-word; line-height: 21.6px;"">Découvrez vos options</span><span style=""word-break: break-word; line-height: 21.6px;"">
+    <br>dès aujourd'hui.</span></span></a><!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div></td></tr></table><div class=""spacer_block block-4"" style=""height:170px;line-height:170px;font-size:1px"">&#8202;</div></td></tr></tbody></table></td></tr></tbody></table><table class=""row row-7"" align=""center"" width=""100%"" border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0""><tbody><tr><td><table class=""row-content stack"" align=""center"" 
+    border=""0"" cellpadding=""0"" cellspacing=""0"" role=""presentation"" style=""mso-table-lspace:0;mso-table-rspace:0;background-color:#0d384f;border-radius:0;color:#000;width:480px;margin:0 auto"" width=""480""><tbody><tr><td class=""column column-1"" width=""100%"" style=""mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-left:0""><div class=""spacer_block block-1"" style=""height:10px;line-height:10px;font-size:1px"">&#8202;
+    </div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><!-- End --><div style=""background-color:transparent;"">
+<div style=""font-family: inherit; text-align: center""><a href=""http://ct.bizsourceinfo.com/rd/cts?d=7-373548-479457-0-1246706-9694508-0-0-0-22-14129-544
+""><span style=""font-size: 9px"">sᴇ ᴅᴇsᴀʙᴏɴɴᴇ</span></a></div>
+    <div></div>
+  </div>
+  <center></center>
+</html>
+
+
+--b2=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4
+Content-Type: image/png; name=embed0
+Content-Transfer-Encoding: base64
+Content-ID: <0d9f80543933b928713aa3dcfe2468c9@phpmailer.0>
+Content-Disposition: inline; filename=embed0
+
+
+--b2=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4--
+
+--b1=_U1xEtzgtOzlwL1r2c5NkTUy3XgLhuc9TQAkPYRf4--
+","""𝐶𝑙𝑢𝑏 𝐼𝑛𝑣𝑒𝑠𝑡𝑖𝑠𝑠𝑒𝑢𝑟 𝐼𝑚𝑚𝑜𝑏𝑖𝑙𝑖𝑒𝑟"" <no-reply@proappmailwizz.com>",isabelle1590@yahoo.fr,2025-03-19,54.190.211.233,United States,fr,users/51390966/66b01de8-0720-4cfc-a8ad-689cbd85b1e7.json

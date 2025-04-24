@@ -1,0 +1,617 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51774167,0u18f4h4SXG5BHo5EYoyQw.recvd-7cf7589bf9-2r2jb-1-67F02503-10.14,cHJvY2Vzc2VkLTUxNzc0MTY3LTB1MThmNGg0U1hHNUJIbzVFWW95UXctMTQ,Payment Confirmation for Your Recent Purchase,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=smtpapi; bh=WxFWsPOwI0vC/otMWM9Z+vKtRecp+mnEMLVBUo4SwwA=;
+	b=IJD0eLgd2SQ5PU93vu76JuRoVo5oGmjRIhS1A6Wy0t6cFJRXCrMEK5C8HqCTMEKk8H8l
+	tFE+CXTXEIU7xfEPzDdtmdUtX0gRH3Jz6RK0VyDB6wi5ut+bRKY+8jsiqRMqkCgSl039oC
+	BK0QQzeo69FjTka8pkyh+dOOVRum4rQRA=
+Received: by recvd-7cf7589bf9-2r2jb with SMTP id recvd-7cf7589bf9-2r2jb-1-67F02503-10
+	2025-04-04 18:29:23.304087471 +0000 UTC m=+12172065.203246458
+Received: from NTE3NzQxNjc (unknown)
+	by geopod-ismtpd-0 (SG) with HTTP
+	id 0u18f4h4SXG5BHo5EYoyQw
+	Fri, 04 Apr 2025 18:29:23.290 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=0e789da5e68237bb6f9c891ba44222eafd7c8da277f1c18c9a7b1b94ab1e
+Date: Fri, 04 Apr 2025 18:29:23 +0000 (UTC)
+From: Ryan <ryangibson@menuwebsites.com>
+Mime-Version: 1.0
+Message-ID: <0u18f4h4SXG5BHo5EYoyQw@geopod-ismtpd-0>
+Subject: Payment Confirmation for Your Recent Purchase
+Reply-To: ryangibson@menuwebsites.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EK8ZRF=2FAVnIJOLcMrYjFtxGSaBMuzrGenlwIM2l9fI8PjcgLWGq=2FMiovhk?=
+ =?us-ascii?Q?6Dfl+jcCROR3LsqLPJ0HshUxBt8ETEuG0ppqqr6?=
+ =?us-ascii?Q?tznlGSFmoy3ftsz2sGljn9rGcrOezuJV2=2FKQUAl?=
+ =?us-ascii?Q?Y8q5lfCmUKhmDYiHbMLEcwzKD+9hy1GplyMRhk1?=
+ =?us-ascii?Q?JNZuVYFLGR6a1Pybg4yHBBokvIJkcX87781UjdQ?=
+ =?us-ascii?Q?HZlVdd5Mmeriwqj1bO45MLurWFcVa63zw3UHcTR?= =?us-ascii?Q?v8+c?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfRFdMouUvPFqOqpsvgqYfbMZPS?=
+ =?us-ascii?Q?jz5IiOX+yQ9v=2FpZXbKacDkoaY6km40u80KmP=2FhZ?=
+ =?us-ascii?Q?B9SB4knMm1Cbhs0sn0Scp96MmRA0SjRngqeSJRG?=
+ =?us-ascii?Q?fsgWcq1EY3tkiM6H83=2FWyFyKV55G9e52SRCkVeL?=
+ =?us-ascii?Q?9hCe2O0uxOrcsWTJPARALE8xlB=2FpELLnx83uWdS?=
+ =?us-ascii?Q?THkG75vQxqvVNx8zaJrMoXj2J7d4f59T1QwEL8O?=
+ =?us-ascii?Q?+tKqYly9cY9zE1sSDwU34WySaT6MXr=2FkOC+iZBf?=
+ =?us-ascii?Q?F8XxFgU4DBDhPzK7catXi5SCgYNDkKm4dFL0sHf?=
+ =?us-ascii?Q?mNoPyDnI+K0t2P43p+fZavFdBAf65pA5=2FxdMZMs?=
+ =?us-ascii?Q?MZy0Z0THprBNshdWQ8JH+0=2FB8u71Wjn+ArWtiht?=
+ =?us-ascii?Q?L1Yzw4gkY=2FlPT6Dwu1bB5gBHvVXC13Agzm+f1aU?=
+ =?us-ascii?Q?nEijV+Vpvgs5L8kCN3FWQyZidkRy2ztpy1yn=2Fb2?=
+ =?us-ascii?Q?RmP3anLm4jyEy8x3DvLfqxK7wdft0IMdfuEQlw3?=
+ =?us-ascii?Q?goaH1QkIyV51FFgF8r6BZDDugn6nz=2FunfW8YHWG?=
+ =?us-ascii?Q?Np0Ir3vbk548WGdnkYvD8HX?=
+To: ladyym1949@yahoo.com
+X-Entity-ID: u001.gX7LRKGjWDmzNenDk7Qcvw==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51774167=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Ek85Q?=
+ =?us-ascii?Q?U=5F0Jv=5FymKE-8VlzteHmv2nJ-klBgFRF9HMfdF84?=
+ =?us-ascii?Q?MDCnFi=5FYgrTftvQ08lxvbAQ41IaDYaY-8qgUVAc?=
+ =?us-ascii?Q?tv-PxS8oYqYisWnhroXenR-SO2uERVRF6wYGtS9?=
+ =?us-ascii?Q?Vcx-QT-keiPzDjv0JR3tt0j37oi3APD8vqT0Cwz?=
+ =?us-ascii?Q?=5F3czi2iL3nGWUCXTTMR8X55LN0UmoHvgtV=5FQk8b?=
+ =?us-ascii?Q?I6R0u3P2w6uJaaTSmCVrH57P-a5joPu4oK2ZLuc?=
+ =?us-ascii?Q?WRbuYEqhATCz780QZFWaTn-dbljopWpTZ9JYdiH?=
+ =?us-ascii?Q?xPW5h05fw9vfk2AhyvWtQyAMccC5oMkA3Dvc70Z?=
+ =?us-ascii?Q?21CQVr=5FfeQ3rsO=5FAbCxfzHb7oXh8XyZldjOwKVh?=
+ =?us-ascii?Q?AjpzcvoMHljaWoRhKqUHaLBeVO0PHW-1gzqWZd1?=
+ =?us-ascii?Q?umCa2CoXjqrlHD8Bj0gWaB3xLaqxmKUj9hK8rPN?=
+ =?us-ascii?Q?ISuM=5FjpA22gzOwEf1VrxXEoUj97m09q0jqYbD=5Fz?=
+ =?us-ascii?Q?M6uBW7w=5F2CqI0Quex6A2hpEoshDJkRtHYrpB0hI?=
+ =?us-ascii?Q?y=5FVf1pLnZB7xhNXMpApptwWW6ocUAwRCJz266k0?=
+ =?us-ascii?Q?n2zAPDjpLCTyj1i13TkUv1Obzm=5Fd6-SWfcwyMhm?=
+ =?us-ascii?Q?00V2Ly1HxzcAq8iq6UJrf-sxOGjk1p9zLIAPP9y?=
+ =?us-ascii?Q?mRoecHmyX9P=5FJCSiho-KJRP64MnKnGPXOEqXWDA?=
+ =?us-ascii?Q?mzePukrLrigfjBLXxjj3FSYEinLinrA-nK8ipIl?=
+ =?us-ascii?Q?eLTn88fjwhjsTxu1SUEkDCT5=5F7r1hSo1vyqj=5FJ0?=
+ =?us-ascii?Q?MGqHVJ1Hl9DqJvs62owT4zSqSVsg1q99Ie4tSZh?=
+ =?us-ascii?Q?D=5FsV2niJIDvO=5FFXIjGaR03PYSU0Q50Llg-M2b6o?=
+ =?us-ascii?Q?RmslvJeIIr=5FLth=5FBLF-GKDjkWatd7ZZDC4dCYrT?=
+ =?us-ascii?Q?JlFJJixPN-hCHv1os2TyZJdFrLSDZKuab42R1rC?=
+ =?us-ascii?Q?zxUMFNvmoWrJUXOtxbbORb8TfA04swir6b3VdqJ?=
+ =?us-ascii?Q?Cd6VnnpFySyrQ-jasmMGaSuyQo9-k-76KB7VWpM?=
+ =?us-ascii?Q?KNFywjT32FGfRBLfimj59KrbJp6LTpW=5FKeJtZYe?=
+ =?us-ascii?Q?0T9JQ35kHr-6vtqJeq1gS8xYeGKtQtGR6vOb7JP?=
+ =?us-ascii?Q?-kjat-6lU3MEmQO7qAMtdMf3IaZGL-ItnZJGxA3?=
+ =?us-ascii?Q?8U8574bGDaGJXvT-u4hJO24LCUF=5Fqw=5FldD1wlRc?=
+ =?us-ascii?Q?PRBMfa9K61nFR=5FwspP4GkmrAHOzghZTnTDqNqb=5F?=
+ =?us-ascii?Q?Dut78TOceBDfq-vpccu0dxPJl9FLCAsuesDKZRQ?=
+ =?us-ascii?Q?ltpE=5FL2e-F7RZsmgEKpWX2UNaHiwDhYaH0F0AMn?=
+ =?us-ascii?Q?q4Zo3AACWdbDmAHydqBuE=5F-ChtBouPKhMlWQAPn?=
+ =?us-ascii?Q?gRkSTQ9sNcP487ffmjCFo063W4aZcLjKNytdt-j?=
+ =?us-ascii?Q?LQrze9x6gwRZC=5FFdil0WPUnvezZ5JJZ0yDddHSQ?=
+ =?us-ascii?Q?Nd=5FlQOpTN6mhIWpkQZRxrCLkdCBHer6lysJ84kj?=
+ =?us-ascii?Q?3=5FicI1JivUQRpEYwbVVbpiPHYDX=5F35LehNyMxHc?=
+ =?us-ascii?Q?3xKFwALmAISLgisfN1R1rmwVa8ClZtC20OMmCY5?=
+ =?us-ascii?Q?7x9fWBPx32B-iha37zqAUvy9D-nn5-wLew1vgqB?=
+ =?us-ascii?Q?rr757JhjxU6bUXDdOQMjfoKyZekQE1-rA01dh7i?=
+ =?us-ascii?Q?ZqsMzWZ5ktHzoQDVVzv7HFxTM9wD8kiFplkz=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3D51774167=2EdHeEALsFqTo5P7qF7c2ijGX28nHzI?=
+ =?us-ascii?Q?0rDchMwURW4NWpoMDAwdTAwMAaXaONJjza3yYMD?=
+ =?us-ascii?Q?s-st-M2fjWf19c1QnYKE=5FU9xafqFC0edXFW3uTt?=
+ =?us-ascii?Q?ryRS1nUes4GOjPhTWdQ4n-aGMeaexGCCdJ4yD1F?=
+ =?us-ascii?Q?6efnujHQBVNCEXOE6sY7t85rtag0pmUJb1uw=3D=3D=2E?=
+ =?us-ascii?Q?9f3zfkekR43kSLCV5kFDBrC3ZCnsp1qzsiEn5G6?=
+ =?us-ascii?Q?IdlloMDAwdTAwMJeCxi2F99I86xF5Y918qkj-4v?=
+ =?us-ascii?Q?0bCkZ91IJTF9eo-awPyNKFx=5Fh9VtyJjhVFQiai5?=
+ =?us-ascii?Q?pkYxO6JthnrBBxgYqNUtjz5GIODcebCW1cwb2o0?=
+ =?us-ascii?Q?CaxngizkHiptNuFL6M3WAuQlUGlt1Bx6XiXuTxb?=
+ =?us-ascii?Q?fyfp1iIiVAoAHuUQ8C=5FFrUsQGxO4y-AYDPWM5=5FZ?=
+ =?us-ascii?Q?S80dyX6THc=5Fxev29BKxF9pzHXCwLFVfiTFUv8jP?=
+ =?us-ascii?Q?yHDpeJorFGtQ3U76OymViVcq0PXSW8EQt8w5RU-?=
+ =?us-ascii?Q?a7NfRGzpGN9YPC2oCNNc5zZealWX3hYBZFeh39J?=
+ =?us-ascii?Q?VpHFTkrPNkttgF57OChJj49unyAId7h-zu5NlpO?=
+ =?us-ascii?Q?twtpn1t5k=5FB1yWvnrQFwrTRfttxQiQEluGneNFO?=
+ =?us-ascii?Q?zmPYc9ohXH32=5FV58bJUhu3poKqDqggE9nX4WuPU?=
+ =?us-ascii?Q?x=5FtzhsJG8My8uZG42hszBBzgeuAzZiDRrL7LqbS?=
+ =?us-ascii?Q?mO8cYuLHe0Gbj=5Fggzj=5FEJ98s3frtr-W9QbVUjeZ?=
+ =?us-ascii?Q?FahrrlsFn7VEJzVvbkfs5UZnrDb9hxkjYt=5FXs5W?=
+ =?us-ascii?Q?NPu4yxxbfHZfoCxMu7je2dWOWvJ2K092tJ1oAR7?=
+ =?us-ascii?Q?9CJ-37enPFqvsFpESk=5Fn4=5F9p33aIui4F6ky3TVk?=
+ =?us-ascii?Q?vfoo6NkOlAzVzERcwie3uSnmBSXrw=5FZM4VlESyc?=
+ =?us-ascii?Q?MCDEW0RZre291Wuta=5FeUdHK-E7Rok16JFRBb2Lo?=
+ =?us-ascii?Q?MMLw3QH6pTVKBUsiDs7HRA7W1V2DbXRrxNVVozn?=
+ =?us-ascii?Q?cuOpEmS11ykz399xbtlj0q0KtrKcJ3EF7z0Rsww?=
+ =?us-ascii?Q?xbY-InIIgr=5FKz2X8HoVAptPV8svFL2Aiu6Oh0qX?=
+ =?us-ascii?Q?PrQ0xgVTRl5vvxGleCORBLwehcCvqF-R76FRFNy?=
+ =?us-ascii?Q?5uQVAFITvyqVe2HP1w2ekca3iMVsEJEW0lY6hCG?=
+ =?us-ascii?Q?fsvZ5BwAwiHa8g=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--0e789da5e68237bb6f9c891ba44222eafd7c8da277f1c18c9a7b1b94ab1e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Dear ladyym1949@yahoo.com,
+
+Thank you for your recent transaction through Pay-Pal. Below are the detail=
+s of your purchase:
+
+Item Purchased: Apple MacBook Pro 14"" (2024)
+Amount Charged: $599.99
+Transaction Date: April 4, 2025
+Merchant: Apple Store Online
+
+For your security and convenience:
+=E2=80=A2 View and manage this transaction by logging in to your account at=
+ www.pay-pal.com
+=E2=80=A2 Report any unauthorized activity through the Resolution Center
+
+Customer Support Options:
+=F0=9F=93=9E Phone: (888) 418-0780 (24/7 support)
+=F0=9F=8C=90 Online: Pay-Pal Help Center
+
+Important Security Reminders:
+=E2=9E=A4 Never share your password or financial information
+=E2=9E=A4 Always verify transactions in your official Pay-Pal account
+=E2=9E=A4 Our team will never request sensitive data via email
+
+Sincerely,
+Pay-Pal Customer Support
+
+(888) 418-0780
+
+Ryan
+
+ryangibson@menuwebsites.com , Brooklyn , =20
+
+Unsubscribe ( https://u51774167.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+51774167&data=3DgsTx5GQttp50K8qKTjxPm3KpZ-6VXIPYw08gSYHaDX5oMDAwdTAwMHVGxzX=
+gPXX4RP-cNSyzJRS_ZSAwhlWdV81pnk8xXXS2vzWaW-SUGp1rKrSUXDET_B4SiPe9D2-x4jxify=
+opEeRZ5xY0q2eNuqjAAOIp5_R_uzE9eTN6cwazWVZF-UfNaDL-V_JkEd5bNvMot3YAJ4ipUdTzD=
+ji_X0wRaOIPdzVj5wEbXvvvd3uo_h1LXeiTRpy-02qIZQ4BbUOoFpbA6LkS-yQ2FHj72wyVzICo=
+7N2RdlXTb9fwOF968i9ucvKTwS5GC_gxYPqLll7N-k8rEfj4F68n1xn73e3ZSoSXBkweCi2jaEp=
+Q80dhNC3qxyTPKtbQSZUvN9tUUO316RNkheMO3vhteeeV-vmkRzwoOq4NAfbmC3iNSm1D5ANBLx=
+IlKMpGnCJI0TZ4-pXh4honIe-n8LxkzHm5-OV4TzRWLoNIxBVTn_Au1Pdu7k_wEmIqVnMwnxtMg=
+brS7KuqIWiaR16GqWfCYq8lJNAJZ0A11fZAJK24FHavIMkMeG3XYy5gWOBDhIBT_u354z7KYZwp=
+9PYlmAcQSSFIY9p4WXAFIakx4mqhSI7pANo9rPzcezz8d9q-RQ0JPmNbsfqZRg6RhiH9z-isHWX=
+3rzHsaFRdo7-y__9AwUnu409zP-54-CMA1XIqMYJmK3faYi8iTTdCqR4VaiOstwdTiChbi1ai-F=
+JgV0kL_TgUxt1RBvv3nmHoFKxZqmmFIBfrwpd_sc1N7eAfx5JHhjU230Aoo3Fo7hwyRuUwmPbNZ=
+TfRjLpWzQea-I7oWRAQEttr8u8wX6wkNNryWFX14TfM7bnI3gqftm_TbfOgV9ZeezA-BiPSRzqD=
+1mByeb_BUk-3_Zntx9bAYNlYlS7N1XBEshoEDxgJ-2IKOoph-nguGDXct89jq-RLiy8zNKjVxcS=
+z_An3xwOjstqQ7v8Qr06hh2XdT4auQ-RPh8gkT9WMnDqvnNHHTD0fmJux-qD5K8XpbSIRrkpMVQ=
+8wr2cc1aBdglEjTI-qbOYe_5Dgvd0hi1wYJcHXVNtP2J7R-QJ0OWep5F4tM2v5Or35F29IUezIC=
+XsICodryjoO ) - Unsubscribe Preferences ( https://u51774167.ct.sendgrid.net=
+/asm/?user_id=3D51774167&data=3DeVwWMWbxGzGIy3-jHfqMecKvVB97DeWcf82m2aTLwx5=
+oMDAwdTAwMI6JEZLAkZgLlf1DGXuD5Z_bRWFNUaxdMxuHcoWnMHG-RO0LJWUhmb-jmUlCkwmMS5=
+uRhqmTjlYKiQGuPVUOK1UXGubgn74YB_qqg9-Un0NbB6P4TtisWSf6avacK2QCaaL2NAiT5X9aE=
+1nUQhOg6Vo0QjOTo9jCMUOJdV7TgedJdvzUjVMZKGJFQBZIPkHodHXKk16iewoFjESC5hlNhN9T=
+hVdYbJqJ20dIRjEDfE3iudjfT5CvMbBMQAh33iVfwCZKNCBCxq7LsrGHdIbH-dBhUwy0GSYDNea=
+-C5MFHfAkVn_JLgAfQT8P3tRknDPH4RnOEim5qusC3EKMChdikjO0nXCf3fZjLxD-LFXoe93KNN=
+bSdsg2PaeqxRCN0UpxGyGuqAdaqUtdg48-y9Qa8yB-NqygREHMhdRhJrhpySUvQjUKcGOyo7dhg=
+zRBsZMcyo5PxQHjh5eCCAswQEKVHSlKq2cwO-WwX-9m1gpWRisH2q0OTCZYn1nKUot2Ux3kLefR=
+L6vRoVwKzVLDC-HhQZZsfRGuPb9fmFVnUSUROVzv1hhNX2bsEf18DXZgrvnkXQq7L4rPuNuP-is=
+1HnqeuOIOCs1URPYpYqGXNdmiNeukXqiGBrBQIhHjOrUj1dqDaMzJEfyj71v3oa7A1vJG8QXlTM=
+w3T7s0Xh8LKbsLjJaEEc4MWvKNxjXD4yYlYnA7unsP5JvXZKknZiZhPvASGmpqCrJ8Nlpo-oGgY=
+y1zDEkLPB9XF0g8Ib7c5grZSfk-ji4ajXaXDSrOiSTxZJwWwFypF-T6RRr6kIii0rhARcenEi6r=
+29XGjs1tm5oNWXb7f_daY75orl8vmBJ6wvYhKufpt5dTe_4dfBwvKb4aHDPunelG3ilw8JH5thW=
+aBcTQ3v06pN4Wufn5QEkaJJmBtXNzO7GTEZSAnfXQ2V6png7Zna0ZG1MG2MdIDdc9LW47iSYIWI=
+buDaKKO0pQe6uBpOLR31ZvCV87MgU89MCZJsUcnvUulXssD4TvN1Z-xhracvs8ZrfrNv-WcYOwL=
+EyKBpk=3D )
+--0e789da5e68237bb6f9c891ba44222eafd7c8da277f1c18c9a7b1b94ab1e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""6a137d72-bfee-496c-92ce-ec85d4024f6f"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit; text-align: start""><br></div>
+<div style=3D""font-family: inherit; margin-left: 0px""><span style=3D""box-si=
+zing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px=
+; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px=
+; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; f=
+ont-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east=
+-asian: inherit; font-variant-alternates: inherit; font-variant-position: i=
+nherit; font-variant-emoji: inherit; font-weight: inherit; font-stretch: in=
+herit; line-height: inherit; font-family: inherit; font-optical-sizing: inh=
+erit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settin=
+gs: inherit; font-variation-settings: inherit; font-size: 18px; vertical-al=
+ign: baseline; border-top-width: 0px; border-right-width: 0px; border-botto=
+m-width: 0px; border-left-width: 0px; border-top-style: initial; border-rig=
+ht-style: initial; border-bottom-style: initial; border-left-style: initial=
+; border-top-color: initial; border-right-color: initial; border-bottom-col=
+or: initial; border-left-color: initial; border-image-source: initial; bord=
+er-image-slice: initial; border-image-width: initial; border-image-outset: =
+initial; border-image-repeat: initial; color: #000000; letter-spacing: norm=
+al; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; =
+widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-c=
+ollapse: preserve; text-wrap-mode: wrap; background-color: rgb(255, 255, 25=
+5); text-decoration-thickness: initial; text-decoration-style: initial; tex=
+t-decoration-color: initial; animation-iteration-count: 1; scroll-behavior:=
+ auto"">Dear ladyym1949@yahoo.com,<br>
+<br>
+Thank you for your recent transaction through Pay-Pal. Below are the detail=
+s of your purchase:<br>
+<br>
+</span><span style=3D""box-sizing: border-box; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-ri=
+ght: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-v=
+ariant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric=
+: inherit; font-variant-east-asian: inherit; font-variant-alternates: inher=
+it; font-variant-position: inherit; font-variant-emoji: inherit; font-weigh=
+t: bold; font-stretch: inherit; line-height: inherit; font-family: inherit;=
+ font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inh=
+erit; font-feature-settings: inherit; font-variation-settings: inherit; fon=
+t-size: 18px; vertical-align: baseline; border-top-width: 0px; border-right=
+-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-s=
+tyle: initial; border-right-style: initial; border-bottom-style: initial; b=
+order-left-style: initial; border-top-color: initial; border-right-color: i=
+nitial; border-bottom-color: initial; border-left-color: initial; border-im=
+age-source: initial; border-image-slice: initial; border-image-width: initi=
+al; border-image-outset: initial; border-image-repeat: initial; color: #000=
+000; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0p=
+x; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-=
+width: 0px; white-space-collapse: preserve; text-wrap-mode: wrap; backgroun=
+d-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decor=
+ation-style: initial; text-decoration-color: initial; animation-iteration-c=
+ount: 1; scroll-behavior: auto; text-decoration-line: underline"">Item Purch=
+ased: Apple MacBook Pro 14"" (2024)<br>
+Amount Charged: $599.99<br>
+Transaction Date: April 4, 2025<br>
+Merchant: Apple Store Online</span><span style=3D""box-sizing: border-box; p=
+adding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px=
+; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;=
+ font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: i=
+nherit; font-variant-numeric: inherit; font-variant-east-asian: inherit; fo=
+nt-variant-alternates: inherit; font-variant-position: inherit; font-varian=
+t-emoji: inherit; font-weight: inherit; font-stretch: inherit; line-height:=
+ inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adj=
+ust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-v=
+ariation-settings: inherit; font-size: 18px; vertical-align: baseline; bord=
+er-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; borde=
+r-left-width: 0px; border-top-style: initial; border-right-style: initial; =
+border-bottom-style: initial; border-left-style: initial; border-top-color:=
+ initial; border-right-color: initial; border-bottom-color: initial; border=
+-left-color: initial; border-image-source: initial; border-image-slice: ini=
+tial; border-image-width: initial; border-image-outset: initial; border-ima=
+ge-repeat: initial; color: #000000; letter-spacing: normal; orphans: 2; tex=
+t-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spa=
+cing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: preserve; =
+text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-decoration=
+-thickness: initial; text-decoration-style: initial; text-decoration-color:=
+ initial; animation-iteration-count: 1; scroll-behavior: auto""><br>
+<br>
+For your security and convenience:<br>
+=E2=80=A2 View and manage this transaction by logging in to your account at=
+ www.pay-pal.com<br>
+=E2=80=A2 Report any unauthorized activity through the Resolution Center<br=
+>
+<br>
+Customer Support Options:<br>
+=F0=9F=93=9E Phone: (888) 418-0780 (24/7 support)<br>
+=F0=9F=8C=90 Online: Pay-Pal Help Center<br>
+<br>
+Important Security Reminders:<br>
+=E2=9E=A4 Never share your password or financial information<br>
+=E2=9E=A4 Always verify transactions in your official Pay-Pal account<br>
+=E2=9E=A4 Our team will never request sensitive data via email<br>
+<br>
+</span><span style=3D""box-sizing: border-box; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-ri=
+ght: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-v=
+ariant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric=
+: inherit; font-variant-east-asian: inherit; font-variant-alternates: inher=
+it; font-variant-position: inherit; font-variant-emoji: inherit; font-weigh=
+t: bold; font-stretch: inherit; line-height: inherit; font-family: inherit;=
+ font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inh=
+erit; font-feature-settings: inherit; font-variation-settings: inherit; fon=
+t-size: 18px; vertical-align: baseline; border-top-width: 0px; border-right=
+-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-s=
+tyle: initial; border-right-style: initial; border-bottom-style: initial; b=
+order-left-style: initial; border-top-color: initial; border-right-color: i=
+nitial; border-bottom-color: initial; border-left-color: initial; border-im=
+age-source: initial; border-image-slice: initial; border-image-width: initi=
+al; border-image-outset: initial; border-image-repeat: initial; color: #000=
+000; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0p=
+x; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-=
+width: 0px; white-space-collapse: preserve; text-wrap-mode: wrap; backgroun=
+d-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decor=
+ation-style: initial; text-decoration-color: initial; animation-iteration-c=
+ount: 1; scroll-behavior: auto; text-decoration-line: underline"">Sincerely,=
+<br>
+Pay-Pal Customer Support</span></div>
+<div style=3D""font-family: inherit; text-align: start""><br></div>
+<div style=3D""font-family: inherit; margin-left: 0px""><span style=3D""box-si=
+zing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px=
+; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px=
+; margin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; f=
+ont-variant-caps: inherit; font-variant-numeric: inherit; font-variant-east=
+-asian: inherit; font-variant-alternates: inherit; font-variant-position: i=
+nherit; font-variant-emoji: inherit; font-weight: inherit; font-stretch: in=
+herit; line-height: inherit; font-family: inherit; font-optical-sizing: inh=
+erit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settin=
+gs: inherit; font-variation-settings: inherit; font-size: 18px; vertical-al=
+ign: baseline; border-top-width: 0px; border-right-width: 0px; border-botto=
+m-width: 0px; border-left-width: 0px; border-top-style: initial; border-rig=
+ht-style: initial; border-bottom-style: initial; border-left-style: initial=
+; border-top-color: initial; border-right-color: initial; border-bottom-col=
+or: initial; border-left-color: initial; border-image-source: initial; bord=
+er-image-slice: initial; border-image-width: initial; border-image-outset: =
+initial; border-image-repeat: initial; color: #000000; letter-spacing: norm=
+al; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; =
+widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-c=
+ollapse: preserve; text-wrap-mode: wrap; background-color: rgb(255, 255, 25=
+5); text-decoration-thickness: initial; text-decoration-style: initial; tex=
+t-decoration-color: initial; animation-iteration-count: 1; scroll-behavior:=
+ auto; text-decoration-line: underline; float: none; display: inline"">(888)=
+ 418-0780</span><span style=3D""box-sizing: border-box; padding-top: 0px; pa=
+dding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inheri=
+t; font-variant-ligatures: inherit; font-variant-caps: inherit; font-varian=
+t-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternat=
+es: inherit; font-variant-position: inherit; font-variant-emoji: inherit; f=
+ont-weight: inherit; font-stretch: inherit; line-height: inherit; font-fami=
+ly: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-=
+kerning: inherit; font-feature-settings: inherit; font-variation-settings: =
+inherit; font-size: 14px; vertical-align: baseline; border-top-width: 0px; =
+border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; =
+border-top-style: initial; border-right-style: initial; border-bottom-style=
+: initial; border-left-style: initial; border-top-color: initial; border-ri=
+ght-color: initial; border-bottom-color: initial; border-left-color: initia=
+l; border-image-source: initial; border-image-slice: initial; border-image-=
+width: initial; border-image-outset: initial; border-image-repeat: initial;=
+ color: #000000; letter-spacing: normal; orphans: 2; text-align: start; tex=
+t-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-=
+text-stroke-width: 0px; white-space-collapse: preserve; text-wrap-mode: wra=
+p; background-color: rgb(255, 255, 255); text-decoration-thickness: initial=
+; text-decoration-style: initial; text-decoration-color: initial; animation=
+-iteration-count: 1; scroll-behavior: auto"">&nbsp;</span>&nbsp;</div><div><=
+/div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Ryan</p><p style=3D""font-size:12px; line-height:20px;""><span c=
+lass=3D""Unsubscribe--senderAddress"">ryangibson@menuwebsites.com</span>, <sp=
+an class=3D""Unsubscribe--senderCity"">Brooklyn</span>, <span class=3D""Unsubs=
+cribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span><=
+/p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsubsc=
+ribe--unsubscribeLink"" href=3D""https://u51774167.ct.sendgrid.net/asm/unsubs=
+cribe/?user_id=3D51774167&amp;data=3DgsTx5GQttp50K8qKTjxPm3KpZ-6VXIPYw08gSY=
+HaDX5oMDAwdTAwMHVGxzXgPXX4RP-cNSyzJRS_ZSAwhlWdV81pnk8xXXS2vzWaW-SUGp1rKrSUX=
+DET_B4SiPe9D2-x4jxifyopEeRZ5xY0q2eNuqjAAOIp5_R_uzE9eTN6cwazWVZF-UfNaDL-V_Jk=
+Ed5bNvMot3YAJ4ipUdTzDji_X0wRaOIPdzVj5wEbXvvvd3uo_h1LXeiTRpy-02qIZQ4BbUOoFpb=
+A6LkS-yQ2FHj72wyVzICo7N2RdlXTb9fwOF968i9ucvKTwS5GC_gxYPqLll7N-k8rEfj4F68n1x=
+n73e3ZSoSXBkweCi2jaEpQ80dhNC3qxyTPKtbQSZUvN9tUUO316RNkheMO3vhteeeV-vmkRzwoO=
+q4NAfbmC3iNSm1D5ANBLxIlKMpGnCJI0TZ4-pXh4honIe-n8LxkzHm5-OV4TzRWLoNIxBVTn_Au=
+1Pdu7k_wEmIqVnMwnxtMgbrS7KuqIWiaR16GqWfCYq8lJNAJZ0A11fZAJK24FHavIMkMeG3XYy5=
+gWOBDhIBT_u354z7KYZwp9PYlmAcQSSFIY9p4WXAFIakx4mqhSI7pANo9rPzcezz8d9q-RQ0JPm=
+NbsfqZRg6RhiH9z-isHWX3rzHsaFRdo7-y__9AwUnu409zP-54-CMA1XIqMYJmK3faYi8iTTdCq=
+R4VaiOstwdTiChbi1ai-FJgV0kL_TgUxt1RBvv3nmHoFKxZqmmFIBfrwpd_sc1N7eAfx5JHhjU2=
+30Aoo3Fo7hwyRuUwmPbNZTfRjLpWzQea-I7oWRAQEttr8u8wX6wkNNryWFX14TfM7bnI3gqftm_=
+TbfOgV9ZeezA-BiPSRzqD1mByeb_BUk-3_Zntx9bAYNlYlS7N1XBEshoEDxgJ-2IKOoph-nguGD=
+Xct89jq-RLiy8zNKjVxcSz_An3xwOjstqQ7v8Qr06hh2XdT4auQ-RPh8gkT9WMnDqvnNHHTD0fm=
+Jux-qD5K8XpbSIRrkpMVQ8wr2cc1aBdglEjTI-qbOYe_5Dgvd0hi1wYJcHXVNtP2J7R-QJ0OWep=
+5F4tM2v5Or35F29IUezICXsICodryjoO"" target=3D""_blank"" style=3D"""">Unsubscribe<=
+/a> - <a href=3D""https://u51774167.ct.sendgrid.net/asm/?user_id=3D51774167&=
+amp;data=3DeVwWMWbxGzGIy3-jHfqMecKvVB97DeWcf82m2aTLwx5oMDAwdTAwMI6JEZLAkZgL=
+lf1DGXuD5Z_bRWFNUaxdMxuHcoWnMHG-RO0LJWUhmb-jmUlCkwmMS5uRhqmTjlYKiQGuPVUOK1U=
+XGubgn74YB_qqg9-Un0NbB6P4TtisWSf6avacK2QCaaL2NAiT5X9aE1nUQhOg6Vo0QjOTo9jCMU=
+OJdV7TgedJdvzUjVMZKGJFQBZIPkHodHXKk16iewoFjESC5hlNhN9ThVdYbJqJ20dIRjEDfE3iu=
+djfT5CvMbBMQAh33iVfwCZKNCBCxq7LsrGHdIbH-dBhUwy0GSYDNea-C5MFHfAkVn_JLgAfQT8P=
+3tRknDPH4RnOEim5qusC3EKMChdikjO0nXCf3fZjLxD-LFXoe93KNNbSdsg2PaeqxRCN0UpxGyG=
+uqAdaqUtdg48-y9Qa8yB-NqygREHMhdRhJrhpySUvQjUKcGOyo7dhgzRBsZMcyo5PxQHjh5eCCA=
+swQEKVHSlKq2cwO-WwX-9m1gpWRisH2q0OTCZYn1nKUot2Ux3kLefRL6vRoVwKzVLDC-HhQZZsf=
+RGuPb9fmFVnUSUROVzv1hhNX2bsEf18DXZgrvnkXQq7L4rPuNuP-is1HnqeuOIOCs1URPYpYqGX=
+NdmiNeukXqiGBrBQIhHjOrUj1dqDaMzJEfyj71v3oa7A1vJG8QXlTMw3T7s0Xh8LKbsLjJaEEc4=
+MWvKNxjXD4yYlYnA7unsP5JvXZKknZiZhPvASGmpqCrJ8Nlpo-oGgYy1zDEkLPB9XF0g8Ib7c5g=
+rZSfk-ji4ajXaXDSrOiSTxZJwWwFypF-T6RRr6kIii0rhARcenEi6r29XGjs1tm5oNWXb7f_daY=
+75orl8vmBJ6wvYhKufpt5dTe_4dfBwvKb4aHDPunelG3ilw8JH5thWaBcTQ3v06pN4Wufn5QEka=
+JJmBtXNzO7GTEZSAnfXQ2V6png7Zna0ZG1MG2MdIDdc9LW47iSYIWIbuDaKKO0pQe6uBpOLR31Z=
+vCV87MgU89MCZJsUcnvUulXssD4TvN1Z-xhracvs8ZrfrNv-WcYOwLEyKBpk=3D"" target=3D""=
+_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D"""">Unsubscrib=
+e Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51774167.ct.sendgrid.net/wf/open?upn=3Du001.ND5QuJ=
+voJWCeenEDYYkB5VT84-2FI85qzxrDQ9l2SfTt2rAvjOrnYqCylTeP0jIRzztbZd1F90VZfSC6K=
+vhv0tj3PhSz1Tu2jcZJV2FD2toeWdEHiNvqOYZqJaOsvzCMnVLa0kyY6a0HhIzgozjanwl2a0fh=
+tyR0y9l4FPZCpuIoEYLQe8AvMW-2FWDqeSH-2FC37FGUCBPBjGwglwwTymn-2FW5OM9-2F0-2BU=
+0Q2DBWjBIhPnbY1t86-2B3ZlRCUFUE3yjciiZYFD-2FQ7HzWzw0fvpACaWXYEEvm5XDqL8vKVIo=
+3ArJaOSapCmUdprGNqTlIlNRFV3NuNmrlfBVSTXDiwjGiVMi1CyfMZ2vPWjG5AiWMXVvTtGvrE8=
+n40tXgmnZjmpSOaTGhJ4wnQKRpDsagAdaWSpletYBUskOKcKPuU1m7kbR7CnqzU8x3hg5YBfJJV=
+waxk4idbw1Mqdcs-2F4PthjbzlhpNV77ZZJmZntfz8Y5Cma-2Bt3ubqeLvOETZ4OO7YktHIwhkr=
+VlNiUrrRO2Fo8gxPyhmBuDQzuVlKMlJu8H8KYWxn8GEaVctvCuMOkdARJbaQjgGf2UW5CoPOPIQ=
+mAWAWZs242fZWhe1KhFzi6mLQ-2FAfjsdVPkO8DPM1-2F3WWhg-2BSXcw7D0PQ9SjcwgKeFXApq=
+OlEhRjqm75bTkXR5kSmiV8x7SMiFNij4CxQfzjNs0SwziCNapdP99-2BW-2B8cLrLC0-2Bf5fhu=
+0ia-2BOOG31K2RGZ57wGIrVXQu-2F2alG-2BFwB53RS1p8uNCi8EVjijllq-2F3rGMI6xH-2FPn=
+7-2Fya65NQ0Aw5Kr8PbENEum4EMAtPNx3WgLfHmafY-2FJ-2FHQMMc1pptxpfVPJtmdCPh66Sf-=
+2FETNrsRd-2F03dvJjXKWB1RmyIMbGKCu36VCipmdqHFBEUm1jJJBOG-2FfH3ltx9g-3D-3D"" a=
+lt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !importan=
+t;width:1px !important;border-width:0 !important;margin-top:0 !important;ma=
+rgin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important=
+;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !impo=
+rtant;padding-left:0 !important;""/></body>
+  </html>
+--0e789da5e68237bb6f9c891ba44222eafd7c8da277f1c18c9a7b1b94ab1e--
+","""Ryan"" <ryangibson@menuwebsites.com>",ladyym1949@yahoo.com,2025-04-04,44.214.78.206,United States,en,users/51774167/f778b5d4-7dce-4e7c-8811-9c40bfda7f8e.json

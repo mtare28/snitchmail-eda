@@ -1,0 +1,391 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51598007,-T2AvYbHTfCo6S4JGkGG8A.recvd-69cbc48b94-6xr46-1-67E5A839-4B.0,cHJvY2Vzc2VkLTUxNTk4MDA3LS1UMkF2WWJIVGZDbzZTNEpHa0dHOEEtMA,receipt,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=LrBfTUOT3Cm4q0rB73m3IGhZOz350CwnHv+fuNsDu5A=;
+	b=sjU1hEPqHuevgAVVp2atOFvkNvaG27/wL5OtdnhIjO1YTGlqiV3O7lqSgp34NzwUJssk
+	42/Gr4h0y7x86UfFOlGpCyNq85OzwZ7J0D303KBDyQi3QGTiCh1JScXJviabaN3EIGqsFK
+	Y/9yW2v9OZ90743ylpBGoK4F9n7RIZW0M=
+Received: by recvd-69cbc48b94-6xr46 with SMTP id recvd-69cbc48b94-6xr46-1-67E5A839-4B
+	2025-03-27 19:34:17.766616142 +0000 UTC m=+11484702.325067382
+Received: from NTE1OTgwMDc (unknown)
+	by geopod-ismtpd-13 (SG) with HTTP
+	id -T2AvYbHTfCo6S4JGkGG8A
+	Thu, 27 Mar 2025 19:34:17.746 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=a986fd5bddf52668fc2398d71217c13371d12b0096b08862c2e36e370f6a
+Date: Thu, 27 Mar 2025 19:34:17 +0000 (UTC)
+From: Emma <emmawatson@floridainterventional.com>
+Mime-Version: 1.0
+Message-ID: <-T2AvYbHTfCo6S4JGkGG8A@geopod-ismtpd-13>
+Subject: receipt
+Reply-To: emmawatson@floridainterventional.com
+List-Unsubscribe: <https://mc.sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EoO+i1HJBUrUmeClgpAThg1YwMSJegNF=2FMS5WGH5EEhEBdQKLVwn3qg+hn?=
+ =?us-ascii?Q?JFRtSSL6QJMqBSsvOux=2FyQDIBa0tB9oNYouheJv?=
+ =?us-ascii?Q?UOY6nAsbDWmB4K6sqqOGzdcmyTLw1XU4zoeNDlq?=
+ =?us-ascii?Q?kbdSYyIjEDLn3YNK4Nwfg5TxO2HyRNzkIubVjJ6?=
+ =?us-ascii?Q?no3llXOqOAiL83MaQ8LYPIFcvanE5AwPasSzTwV?=
+ =?us-ascii?Q?SLmCgrwMo+aw+z=2Fw8HlAbjCCHA8Hxqe7ElDvdXu?= =?us-ascii?Q?pMmC?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfTM5qcPCl63Oe5gd2mTKfJFGVq?=
+ =?us-ascii?Q?Ig9oGLDFku77peG9twFf8upyvUveCKa7SCab0Dz?=
+ =?us-ascii?Q?n6wCzeSLYcrfgbexjhCNISUkkL1r+4YhvaTi8Qh?=
+ =?us-ascii?Q?R53l71VsjvH5HtLq7vMthrW=2FkIGQlBiucPDfR=2Fm?=
+ =?us-ascii?Q?ftgLhIYDRlALlGyNRh1AUI=2F2r99QrQlDwRnUpm6?=
+ =?us-ascii?Q?W3FXQgudAC7NMDZAyjHIhLd+lthLF9m3so5c54u?=
+ =?us-ascii?Q?zqowAWpRBcNmz9m1cJjtZmjWwFXGU+nOrPHaLGG?=
+ =?us-ascii?Q?RimweA5VLqxsqyXB5ngFSIYHih4h6jekXhSqFRX?=
+ =?us-ascii?Q?kwGDXKnpKMbjDkIR5ygEx8tlqIo=2FD5yDz+I=2Fwy8?=
+ =?us-ascii?Q?MVtTE05llzVcbHY0Sz2XerwU=2FVvd1y9tUovltzB?=
+ =?us-ascii?Q?Z0pvyd0POeo28Pvt84euT2PypoX+7=2FthcvlbIG6?=
+ =?us-ascii?Q?4PGD9P24zB=2FetyN=2Fe+UGLaCVvGZ+5wZXi3ab6=2F5?=
+ =?us-ascii?Q?dAeuyhoKnBrdo9j9YHJq3nz+TC0w95wuD6VQwol?=
+ =?us-ascii?Q?5U80GGz+nL=2FSDot4h8GaBhGRjfHRbP7V0wSkqlG?=
+ =?us-ascii?Q?oSnguSfZffjOnN8qPdVaIlZ?=
+To: brittani1328@outlook.com
+X-Entity-ID: u001.xJMBc9O9LLUnsOVbsrYGgw==
+
+--a986fd5bddf52668fc2398d71217c13371d12b0096b08862c2e36e370f6a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+=C3=81=D1=95=D1=95=D0=B5t =CE=A4r=D0=B0=D5=B8=D1=95f=D0=B5r =C5=94=D0=B5=D1=
+=81=D0=B5=D1=96=D1=80t
+=C5=A4r=D0=B0=D5=B8=D1=95=D0=B0=D1=81t=D1=96=CE=BF=D5=B8 =C4=8E=D0=B0t=D0=
+=B5: =CE=9C=D0=B0r=D1=81=E1=B8=A3 28
+
+=C5=A4r=D0=B0=D5=B8=D1=95=D0=B0=D1=81t=D1=96=CE=BF=D5=B8 =D3=8F=C4=8E: =C5=
+=A4=D0=A571518789
+
+=CE=91=E2=85=BF=CE=BF=D5=BD=D5=B8t =C5=A4r=D0=B0=D5=B8=D1=95f=D0=B5rr=D0=B5=
+=E1=B8=8B: $4,200.00
+
+=D0=90=D1=81=D1=81=D0=BE=D5=BD=D5=B8t =CE=97=D0=BE=E2=85=BC=E1=B8=8B=D0=B5r=
+: =CE=A5=D0=BE=D5=BDr =D0=90=D1=81=D1=81=D0=BE=D5=BD=D5=B8t =CE=9D=D0=B0=E2=
+=85=BF=D0=B5
+
+=CE=A4r=D0=B0=D5=B8=D1=95f=D0=B5r =CE=A4=D1=83=D1=80=D0=B5: =C3=81=D1=95=D1=
+=95=D0=B5t =D0=A2r=D0=B0=D5=B8=D1=95f=D0=B5r
+
+=CE=99f =D1=83=D0=BE=D5=BD =E1=B8=8B=D1=96=E1=B8=8B =D5=B8=CE=BFt r=D0=B5=
+=D1=81=D0=BE=C7=B5=D5=B8=D1=96z=D0=B5 t=E1=B8=A3=D1=96=D1=95 tr=D0=B0=D5=B8=
+=D1=95=D0=B0=D1=81t=D1=96=CE=BF=D5=B8 =D0=BEr =E1=B8=A3=D0=B0=E2=85=B4=D0=
+=B5 =D0=B0=D5=B8=D1=83 =D1=81=D0=BE=D5=B8=D1=81=D0=B5r=D5=B8=D1=95, =D1=80=
+=E2=85=BC=D0=B5=D0=B0=D1=95=D0=B5 =D1=81=D0=B0=E2=85=BC=E2=85=BC =D5=BD=D1=
+=95 =D1=96=E2=85=BF=E2=85=BF=D0=B5=E1=B8=8B=D1=96=D0=B0t=D0=B5=E2=85=BC=D1=
+=83 =D0=B0t (888) 350-4667 t=CE=BF =D1=81=D0=B0=D5=B8=D1=81=D0=B5=E2=85=BC =
+=CE=BFr r=D0=B5=D1=95=CE=BF=E2=85=BC=E2=85=B4=D0=B5 =D0=B0=D5=B8=D1=83 =D1=
+=96=D1=95=D1=95=D5=BD=D0=B5=D1=95.
+=D0=A2=E1=B8=A3=D0=B0=D5=B8k =D1=83=D0=BE=D5=BD f=D0=BEr =D1=81=E1=B8=A3=D0=
+=BE=CE=BF=D1=95=D1=96=D5=B8=C7=B5 =C4=88=E1=B8=A3=D0=B0r=E2=85=BC=D0=B5=D1=
+=95 =C5=A0=D1=81=E1=B8=A3=D4=9D=D0=B0=E1=B8=83.
+(888) 350-4667
+
+=E1=8F=99=D1=96=D1=95=D1=96t =CE=BF=D5=BDr =D4=9D=D0=B5=E1=B8=83=D1=95=D1=
+=96t=D0=B5 f=CE=BFr =E2=85=BF=CE=BFr=D0=B5 =E1=B8=8B=D0=B5t=D0=B0=D1=96=E2=
+=85=BC=D1=95
+
+Emma
+
+emmawatson@floridainterventional.com , Houston , =20
+
+Unsubscribe ( https://mc.sendgrid.com/ ) - Unsubscribe Preferences ( https:=
+//mc.sendgrid.com/ )
+--a986fd5bddf52668fc2398d71217c13371d12b0096b08862c2e36e370f6a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""a90bd981-d6dc-4fad-9d50-2da81b7fa79d"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 18p=
+x"">=C3=81=D1=95=D1=95=D0=B5t =CE=A4r=D0=B0=D5=B8=D1=95f=D0=B5r =C5=94=D0=B5=
+=D1=81=D0=B5=D1=96=D1=80t<br>
+=C5=A4r=D0=B0=D5=B8=D1=95=D0=B0=D1=81t=D1=96=CE=BF=D5=B8 =C4=8E=D0=B0t=D0=
+=B5: =CE=9C=D0=B0r=D1=81=E1=B8=A3 28<br>
+<br>
+=C5=A4r=D0=B0=D5=B8=D1=95=D0=B0=D1=81t=D1=96=CE=BF=D5=B8 =D3=8F=C4=8E: =C5=
+=A4=D0=A571518789<br>
+<br>
+=CE=91=E2=85=BF=CE=BF=D5=BD=D5=B8t =C5=A4r=D0=B0=D5=B8=D1=95f=D0=B5rr=D0=B5=
+=E1=B8=8B: $4,200.00<br>
+<br>
+=D0=90=D1=81=D1=81=D0=BE=D5=BD=D5=B8t =CE=97=D0=BE=E2=85=BC=E1=B8=8B=D0=B5r=
+: =CE=A5=D0=BE=D5=BDr =D0=90=D1=81=D1=81=D0=BE=D5=BD=D5=B8t =CE=9D=D0=B0=E2=
+=85=BF=D0=B5<br>
+<br>
+=CE=A4r=D0=B0=D5=B8=D1=95f=D0=B5r =CE=A4=D1=83=D1=80=D0=B5: =C3=81=D1=95=D1=
+=95=D0=B5t =D0=A2r=D0=B0=D5=B8=D1=95f=D0=B5r<br>
+<br>
+=CE=99f =D1=83=D0=BE=D5=BD =E1=B8=8B=D1=96=E1=B8=8B =D5=B8=CE=BFt r=D0=B5=
+=D1=81=D0=BE=C7=B5=D5=B8=D1=96z=D0=B5 t=E1=B8=A3=D1=96=D1=95 tr=D0=B0=D5=B8=
+=D1=95=D0=B0=D1=81t=D1=96=CE=BF=D5=B8 =D0=BEr =E1=B8=A3=D0=B0=E2=85=B4=D0=
+=B5 =D0=B0=D5=B8=D1=83 =D1=81=D0=BE=D5=B8=D1=81=D0=B5r=D5=B8=D1=95, =D1=80=
+=E2=85=BC=D0=B5=D0=B0=D1=95=D0=B5 =D1=81=D0=B0=E2=85=BC=E2=85=BC =D5=BD=D1=
+=95 =D1=96=E2=85=BF=E2=85=BF=D0=B5=E1=B8=8B=D1=96=D0=B0t=D0=B5=E2=85=BC=D1=
+=83 =D0=B0t (888) 350-4667 t=CE=BF =D1=81=D0=B0=D5=B8=D1=81=D0=B5=E2=85=BC =
+=CE=BFr r=D0=B5=D1=95=CE=BF=E2=85=BC=E2=85=B4=D0=B5 =D0=B0=D5=B8=D1=83 =D1=
+=96=D1=95=D1=95=D5=BD=D0=B5=D1=95.<br>
+=D0=A2=E1=B8=A3=D0=B0=D5=B8k =D1=83=D0=BE=D5=BD f=D0=BEr =D1=81=E1=B8=A3=D0=
+=BE=CE=BF=D1=95=D1=96=D5=B8=C7=B5 =C4=88=E1=B8=A3=D0=B0r=E2=85=BC=D0=B5=D1=
+=95 =C5=A0=D1=81=E1=B8=A3=D4=9D=D0=B0=E1=B8=83.<br>
+(888) 350-4667<br>
+<br>
+=E1=8F=99=D1=96=D1=95=D1=96t =CE=BF=D5=BDr =D4=9D=D0=B5=E1=B8=83=D1=95=D1=
+=96t=D0=B5 f=CE=BFr =E2=85=BF=CE=BFr=D0=B5 =E1=B8=8B=D0=B5t=D0=B0=D1=96=E2=
+=85=BC=D1=95</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Emma</p><p style=3D""font-size:12px; line-height:20px;""><span c=
+lass=3D""Unsubscribe--senderAddress"">emmawatson@floridainterventional.com</s=
+pan>, <span class=3D""Unsubscribe--senderCity"">Houston</span>, <span class=
+=3D""Unsubscribe--senderState""></span> <span class=3D""Unsubscribe--senderZip=
+""></span></p></div><p style=3D""font-size:12px; line-height:20px;""><a class=
+=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u51598007.ct.sendgrid.net=
+/ls/click?upn=3Du001.wOZwqliYieVeX50cYLlaFnFHnQDwebrnKLocK7c5I66gRYCghjQh4i=
+vkE2-2BfnOwCatK6_M2nZaYfmXqe1vyl5a6GdN7PI70JyRdKvR-2F0cOUp-2BWod3oq8NBHRKGG=
+CGuJN8SDTs8WNPl06nnxhmS0fmY2GUu1fI45sVE07dHdW9SLUc9crOLQFGGBWhXwD7VXY0OEXP3=
+OqMgb-2FTqcjJKy9ugbkmVbXVAB7DOzAwztwkJv2Wa21WyQ4iu8gbxYP0UVQrK8MV09f0bMSF-2=
+FqqTwn1d8dcEYYRmyzLJnt44QISqxyy3wzS4vdV3JbiVJFxvUeCSg0dcs8a4knBwh1owgAStsBB=
+Ddd5cb6SzefoTk4J1G6oIV-2B8bVgwrTe64Y043Gwn4WIThxEi4kCP1lGYgYmzZYCQt7c5pTc38=
+fGqJGEkm3GSuifdXjYRu7aO53U86nPiPhTOfTJfxhQwVcRtP5OIHjtpmG-2FIUb3jZ3RFQhKTKi=
+yujIAn5NZriFbS5cOWYrOe3m1QuOofu4s68fUHe9chafEOX0VVBTf6guaywCm-2FnQkcQx2amfb=
+vR2Qfl3cjA4K83xpFsM2Q24mdi4cGQivFvMu1ggPMitutu-2BzEva0cOcf90xV2JC5HGkL6be7g=
+z5z7CC8MvtCl1oOMQwIYeCcK2IwsMBgubKt1QVLvEqATg3SSSLhkh1dteR0O2QYx-2FDLxL-2B0=
+salJ7WB7zxJAv6taobSE02K6d4dNNS4ILEKSDhNJFM9C6-2BK8wZUIBu2-2FN35IGPK9VUjlr7u=
+X2nV0gFj0oYtvVXh0TlE9hZirzf9jqXb11QsmvBBIDmXiMtCrPVL80RTboU6OxtPkkBNp-2FCrr=
+HKqs5oJFsrPETxGgyEOrT6kjPNyyfQeu7va-2Fark-2FNEnXHqlpzn8WyVNAA2VRMO4nuci0lqu=
+kO-2BpnYO4J3F45cKznwE3egJOZMo01DrKXal5UfgVQ3M"" target=3D""_blank"" style=3D""""=
+>Unsubscribe</a> - <a href=3D""https://u51598007.ct.sendgrid.net/ls/click?up=
+n=3Du001.wOZwqliYieVeX50cYLlaFnFHnQDwebrnKLocK7c5I66gRYCghjQh4ivkE2-2BfnOwC=
+8f64_M2nZaYfmXqe1vyl5a6GdN7PI70JyRdKvR-2F0cOUp-2BWod3oq8NBHRKGGCGuJN8SDTs8W=
+NPl06nnxhmS0fmY2GUu1fI45sVE07dHdW9SLUc9crOLQFGGBWhXwD7VXY0OEXP3OqMgb-2FTqcj=
+JKy9ugbkmVbXVAB7DOzAwztwkJv2Wa21WyQ4iu8gbxYP0UVQrK8MV09f0bMSF-2FqqTwn1d8dcE=
+YYRmyzLJnt44QISqxyy3wzS4vdV3JbiVJFxvUeCSg0dcs8a4knBwh1owgAStsBBDdd5cb6Szefo=
+Tk4J1G6oIV-2B8bVgwrTe64Y043Gwn4WIThxEi4kCP1lGYgYmzZYCQt7c5pTc38fGqJGEkm3GSu=
+ifdXjYRu7aO53U86nPiPhTOfTJfxhQwVcRtP5OIHjtpmG-2FIUb3jZ3RFQhKTKiyujIAn5NZriF=
+bS5cOWYrOe3m1QuOofu4s68fUHe9chafEOX0VVBTf6guaywCm-2FnQkcQx2amfbvR2Qfl3cjA4K=
+83xpFsM2Q24mdi4cGQivFvMu1ggPMitutu-2BzEva0cOcf90xV2JC5HGkL6be7gz5z7CC8MvtCl=
+1oOMQwIYeCcK2IwsMBgubKt1QVLvEqATg3SSSLhkh1dteR0O2QYx-2FDLxL-2B0salJ7WB7zxJA=
+v6taobSE02K6d4dNNS4ILEKSDhNJFM9C6-2BK8wZUIBu2-2FN35IGPK9VUjlr7uX2nV0gFj0oYt=
+vVXh0TlE9hZirzf9jqXb11QsmviZj26BazHpUFoeS2OdoUZuRt2kPByk-2FYhG3vrOGLE1rLL5y=
+MCSsEf4W13v0vRzHV4YdAHiaAq-2F-2FOe9x9UyDvc5FPQ6Zw1ib6DPJ-2B0evOcquAEqs-2Ba7=
+xaz6tsWGUxI5E-2B-2F8xHo0KgoawckrroiGLM2"" target=3D""_blank"" class=3D""Unsubsc=
+ribe--unsubscribePreferences"" style=3D"""">Unsubscribe Preferences</a></p></d=
+iv></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51598007.ct.sendgrid.net/wf/open?upn=3Du001.TwGRDq=
+CsKX2-2BwafoVUL9CMQPynYgn4A98ey4RwM6qhw1R2Yt-2FcHdb2RmtdPbHA6MVlKM6xNzLDx0I=
+Tmjj3iVpM-2BO-2B-2F1h077soFqdP3rgbwJWmi-2FSu2q6OWjO-2FL-2F6VhrmZNKaKeOGfCkk=
+809DUegGQeGnSjRZ0DbGdJXiyehsKUAj6faAIcebHK8kQCyE73OPh1FeYnpka-2BYGnkyfI8AnW=
+Azhzef05Z-2BAhHNTNc651PqRovp5gSkVJdb-2F-2BeyEPgN54Gv6TBcJhvXr2mh-2FQU07Fkgn=
+uQaKpbztfVXa0PaKbmd7h0iq5I-2ByNg-2FQ8uMaSL8ZXPEJyI73L-2B-2BWzaJarqI9WWwP5jR=
+N21vdrHSwmDgu8l7-2BVRkVuVYxyXH1z59F8KdW8pCHw2ijLGCDqidAKYzVca-2F7DJAVyEsTIK=
+z19-2BcI-2B1m37lQZ7jxCr0OVqry0P1NqQcE-2FIqYDOZZDWXyJQqX-2B2RmCToDMHGGpW8V3K=
+aAtNqzoSlrwPkDA-2FaMnTCMF82OGgvG-2BCGHnmFEfN48RCLQJpNv4Am9VF1gNgJRUtpfrwXBS=
+p-2B9wJABkHpiEAKQxOren2-2B6O3B-2FziJYnZKtfMfz6NObS74knKdTpUAV9aW3sotCMJFgFt=
+R1Y8L0e3m-2FKZfkpA2T6N5a9pOHYEqUS-2Bk-2BzrtPOpi6z1RmAMvSyiUFCufH4lhZX9kz-2B=
+JK8xoEGWFq8WCLFLoo3HlB9F6iR6F13cA-2FqqusO8Q3jV989IOj81zu5xLmXJZQZQrYvJGmpgm=
+XLTKt7r6uzEm2DrXq7Nuc3aLdsWYzVLt7hRULYYJGMAuR3HELEI3fdiYVqhXHMB9WtlTFsAws0c=
+ZbZAtO6CaU9i7fIOi62C4TjoiL2VGnM3nAgJmr7vDq-2FFwU1dBiB8uoKl"" alt=3D"""" width=
+=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;""/></body>
+  </html>
+--a986fd5bddf52668fc2398d71217c13371d12b0096b08862c2e36e370f6a--
+","""Emma"" <emmawatson@floridainterventional.com>",brittani1328@outlook.com,2025-03-27,44.198.45.247,United States,ro,users/51598007/a75b77dd-696c-4835-ab82-9e25bc34a54c.json

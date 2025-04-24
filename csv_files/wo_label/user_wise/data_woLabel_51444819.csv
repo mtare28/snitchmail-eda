@@ -1,0 +1,368 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51444819,TiQiVgmAQzmjJnEu5_T-0A.recvd-69cbc48b94-4wm29-1-67DDA712-7.1,cHJvY2Vzc2VkLTUxNDQ0ODE5LVRpUWlWZ21BUXptakpuRXU1X1QtMEEtMQ,Shipping information,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=ENeeVDEevyi1mFAsJK4sevAZ6EhEElpiVegkPMYz0Y8=;
+	b=h+HpneQ4IOf6ShvmSDeEtuYNV4W2JH2iIAiVjCIAuZo946B9fVGyIgLp8tJJ3IHWq2q9
+	BchDU8ZR4wToQGYAJRZGzZoDAPziZQ09JAySV1k1PpgY6vt7JoXyk+egwAjY/p/XQVZxuh
+	Msmctaqr9jR+WK+cL8vwKnWsjXbYjx8bw=
+Received: by recvd-69cbc48b94-4wm29 with SMTP id recvd-69cbc48b94-4wm29-1-67DDA712-7
+	2025-03-21 17:51:14.109739316 +0000 UTC m=+10960003.315240608
+Received: from NTE0NDQ4MTk (unknown)
+	by geopod-ismtpd-28 (SG) with HTTP
+	id TiQiVgmAQzmjJnEu5_T-0A
+	Fri, 21 Mar 2025 17:51:14.099 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=4c2476875b2a4e0417347894d6ce3907aa6527868821ca2348bed1d5e3a4
+Date: Fri, 21 Mar 2025 17:51:14 +0000 (UTC)
+From: Wmart <jessicaparker857ae@gmail.com>
+Mime-Version: 1.0
+Message-ID: <TiQiVgmAQzmjJnEu5_T-0A@geopod-ismtpd-28>
+Subject: Shipping information
+Reply-To: jessicaparker857ae@gmail.com
+List-Unsubscribe: <https://www.pool.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E7l9R9wzheqlRhO0zpHtc5EGo04Lp2ZEKQa8iRo1pMNoVpwlJ6zB3weP1l?=
+ =?us-ascii?Q?2f6TbdQt741ldvzBwTiMDmPbUZsHCOS1n1oqWSI?=
+ =?us-ascii?Q?2WTNKgkck2seP+1vGi+uC9lMj1uEZoZ5OgYQjM9?=
+ =?us-ascii?Q?Lo9RdKrEniBsue+sBRa8EoDdHXyEy3TgOJSmZ9j?=
+ =?us-ascii?Q?0W9wTAteXvLfraEjYVnTYIjfbkLhZ1QK7kttnQ7?=
+ =?us-ascii?Q?GrXy30d5jG7r8S8i+XofZzwTbxdDZvOv+5T1VEz?= =?us-ascii?Q?STi1?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOqJ9FoTi0qW7496RBbHB0dZSeH?=
+ =?us-ascii?Q?EW92po5ksMozj70QFPHewDlFSUszJajuhdnY28o?=
+ =?us-ascii?Q?gZnnQxwbtiq14155xTxyhOTT1xI7I2lx0yKvEo7?=
+ =?us-ascii?Q?8dhpJvbqeb2KrHr6uBuLft8ghRSgB=2FmhDfrBDEG?=
+ =?us-ascii?Q?b1o6xB3w2smDThlY4zEwxG51MzoL7uD6Nl5vb9c?=
+ =?us-ascii?Q?bwSZ43usrCydKdZYzKikn0zJCRZLVkUvkyFfITV?=
+ =?us-ascii?Q?rS5jgvYhxYyCNE3vFB1dEgqs7vl9JA3ieH64eFv?=
+ =?us-ascii?Q?=2FRQf1gVNV9RaSu7u5r0WDZjRuQu9auldQ24h4le?=
+ =?us-ascii?Q?vl4xFY1bgfKwkAbQyZOpWVC2jZk965NVZsTHzD3?=
+ =?us-ascii?Q?eXeXk7ZrxV2yacPTRSrw1PbKFCXoQsmE1y7rFY6?=
+ =?us-ascii?Q?pypu6n2tl6QYBTMKPQ97ZYeCmDQwnFM3dY1Z7F0?=
+ =?us-ascii?Q?lSpsPRT6Yynw2JDqX0JlgNfJteuUuu4wvn2nH9X?=
+ =?us-ascii?Q?bsoqcKWUUMiEdg7mQEqYOt7xc=2F7tvj739mBWV0p?=
+ =?us-ascii?Q?PR9eNuYJr6w9WU9qwyNwRIPCRiSmdytF+5g5OxV?=
+ =?us-ascii?Q?11ve7uWTpSRTZq1ZqT=2FQE0k?=
+To: alliej1117@icloud.com
+X-Entity-ID: u001.sQZQnEJFdVcfSTN6S6DEbQ==
+
+--4c2476875b2a4e0417347894d6ce3907aa6527868821ca2348bed1d5e3a4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Dear Customer,
+
+Thank you for reaching out!
+
+Your order has been successfully processed and is now being prepared for sh=
+ipment. Here=E2=80=99s a quick summary of your order:
+
+Order Details:
+
+*Order Number: WMT-982374
+Item: Apple MacBook Pro (M3, 16GB RAM, 512GB SSD)
+Total: $1,999.00 (Free Shipping)*
+You will receive a tracking link once your order ships.
+
+If you did not place this order or wish to cancel, please contact Walmart C=
+ustomer Support immediately at (888) 343-8814.
+
+Thank you for choosing Walmart!
+
+*Best regards,
+Walmart Customer Support
+(828) 423-5999
+(818) 966-1173*
+
+Wmart
+
+jessicaparker857ae@gmail.com , New York , =20
+
+Unsubscribe ( https://www.pool.com ) - Unsubscribe Preferences ( https://ww=
+w.pool.com )
+--4c2476875b2a4e0417347894d6ce3907aa6527868821ca2348bed1d5e3a4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""1b2edb1f-cf38-4c9f-ab2e-343fdda64997"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 18p=
+x"">Dear Customer,<br>
+<br>
+Thank you for reaching out!<br>
+<br>
+Your order has been successfully processed and is now being prepared for sh=
+ipment. Here=E2=80=99s a quick summary of your order:<br>
+<br>
+Order Details:<br>
+<br>
+</span><span style=3D""font-size: 18px""><u><strong>Order Number: WMT-982374<=
+br>
+Item: Apple MacBook Pro (M3, 16GB RAM, 512GB SSD)<br>
+Total: $1,999.00 (Free Shipping)</strong></u></span><span style=3D""font-siz=
+e: 18px""><br>
+You will receive a tracking link once your order ships.<br>
+<br>
+If you did not place this order or wish to cancel, please contact Walmart C=
+ustomer Support immediately at (888) 343-8814.<br>
+<br>
+Thank you for choosing Walmart!<br>
+<br>
+</span><span style=3D""font-size: 18px""><u><strong>Best regards,<br>
+Walmart Customer Support<br>
+(828) 423-5999<br>
+(818) 966-1173</strong></u></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Wmart</p><p style=3D""font-size:12px; line-height:20px;""><span =
+class=3D""Unsubscribe--senderAddress"">jessicaparker857ae@gmail.com</span>, <=
+span class=3D""Unsubscribe--senderCity"">New York</span>, <span class=3D""Unsu=
+bscribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span=
+></p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsub=
+scribe--unsubscribeLink"" href=3D""https://u51444819.ct.sendgrid.net/ls/click=
+?upn=3Du001.9HDjOyCCP3qo-2BO7kGsna16qmmvqz-2BzXK34NrnVG8KDM-3D2cG9_PU84JnhE=
+OXwo5EI-2Bvx9zfRqy5zUDOX0SAx4Woi4fHeGDBWmHw0ck1V9eabdjBof3Ii3EfuYesA0cZTMs9=
+rvdmHxtIYCF897aOZXOAKwYIAPDUyESbfzuJ1CYS-2F9ATKC2lmqjAvrCQrBTLXswPFbYS8u7v5=
+E6FiZthY7YkAHWto0Ovsq2xDs7wv073H3tTJZVdR6u-2FMtb2YQv8bHZfXSt2iaCgLbIqNti9TJ=
+n6KuYTvyDpxwj-2FRCA-2BJv6dIc5EspWrFCOjFL7entrJ-2BNXHL5ncd5FM8pEaB0RRiXdG4Qy=
+2DFJyCucu03Kak7Afx1Pa-2BxqFrAXsjgHAlgwSOl7q8Xqy9Pocrjwb6Ro8Vg-2FZimeE2svIh8=
+NR4B4LKvWV-2Fl0HT8D1JXXiTQNsvFcOMacR4kXT8-2Fbw-2BDRObkgCvZWNbE7u2gwpNHavgmh=
+vQt6c-2BEmSyC8Iliealex-2BUuFj4XP1EUr-2Bm4xVNlLiCvPJePXGexhXIesI31m7T-2F1dE4=
+T1VXB8O82-2B7uV0-2FdJGUsr5rmm7Ao-2FD20cWks6-2FbOaVrqU3nKTDUsEqqFCkFdyOJx-2F=
+NXMkjLzaY3YjiHe85vVjwS9O9wyN9uUEEPIqSlriSMHA4SxqF4YqKO65F-2FdPcCbwOhpimwnbz=
+0EG09Zu0zbpAQJTNEvQidS9Rt-2BINiUuuyl7yiBJTpdaPj-2FPhTqCtHZhOUbG-2FltrTSjW-2=
+BmgCKTB-2Birr8MXOs3YTF7YvrGamCjDIrrff-2ByYaDsoO0QVZAcKEraFDY8QRV57Ji2afWxye=
+P9rZR-2BdB8381IRBlcPjzKhUsj2VklIEKq93sruRsD-2BaQW-2FIzR7KVqSlRkP0UJVO0wP7mN=
+INLkxHVNjtxCzvx6iZRbGtxhnSg-3D"" target=3D""_blank"" style=3D"""">Unsubscribe</a=
+> - <a href=3D""https://u51444819.ct.sendgrid.net/ls/click?upn=3Du001.9HDjOy=
+CCP3qo-2BO7kGsna16qmmvqz-2BzXK34NrnVG8KDM-3DJ1Q3_PU84JnhEOXwo5EI-2Bvx9zfRqy=
+5zUDOX0SAx4Woi4fHeGDBWmHw0ck1V9eabdjBof3Ii3EfuYesA0cZTMs9rvdmHxtIYCF897aOZX=
+OAKwYIAPDUyESbfzuJ1CYS-2F9ATKC2lmqjAvrCQrBTLXswPFbYS8u7v5E6FiZthY7YkAHWto0O=
+vsq2xDs7wv073H3tTJZVdR6u-2FMtb2YQv8bHZfXSt2iaCgLbIqNti9TJn6KuYTvyDpxwj-2FRC=
+A-2BJv6dIc5EspWrFCOjFL7entrJ-2BNXHL5ncd5FM8pEaB0RRiXdG4Qy2DFJyCucu03Kak7Afx=
+1Pa-2BxqFrAXsjgHAlgwSOl7q8Xqy9Pocrjwb6Ro8Vg-2FZimeE2svIh8NR4B4LKvWV-2Fl0HT8=
+D1JXXiTQNsvFcOMacR4kXT8-2Fbw-2BDRObkgCvZWNbE7u2gwpNHavgmhvQt6c-2BEmSyC8Ilie=
+alex-2BUuFj4XP1EUr-2Bm4xVNlLiCvPJePXGexhXIesI31m7T-2F1dE4T1VXB8O82-2B7uV0-2=
+FdJGUsr5rmm7Ao-2FD20cWks6-2FbOaVrqU3nKTDUsEqqFCkFdyOJx-2FNXMkjLzaY3YjiHe85v=
+VjwS9O9wyN9uUEEPIqSlriSMHA4SxqF4YqKO65F-2FdPcCbwOhpimwnbz0EG09Zu0zbpAQJTNEv=
+QidS9Rt-2BINiUuuyl7yiBJTpdaPj-2FPhTqCtHZhOUbG-2FltrTSjW-2BmgCKTB-2Birr8MXOs=
+3YTF7YvrGamCjDIrrff-2ByYYvrA-2F-2Bx1yAaL54iz-2B8VNtwH3aSKIoJ-2Bl61OEzZiyCUy=
+7TvRI99GoUuNMwJojx5CjgW8qVwVXr6M-2BsQ-2FtowFNLydKYVVHuxKTtBc1trrwqTAJEEtlNt=
+GNueEqgN3I-2B9Bj0-3D"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribePr=
+eferences"" style=3D"""">Unsubscribe Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51444819.ct.sendgrid.net/wf/open?upn=3Du001.CW7vL3=
+nh3dq3IdhA6Q4H-2B3WqhcPvlhWYg0jA1EyjnwqUuNOe8-2B0dzRoY460-2FU1bBTogmB4AIjoy=
+mWLRDFFec365Bc33VqYJAwUiYl7HAjl1h4gSvtf1q0BO4wSQxeyA4FhqJSaRjQiLC110KUKkI6R=
+Rj4CahUVKncB7VDDtVy480IOAMd4X5nb1edExgdvPkyBFLVKZuM7zA7BdWnlOz-2BErqYS-2BLG=
+mJ1X8SELHZaOiQuI2HGN0xKb9x9Mk3N4I-2FcLnCpLPSCa1-2FLVjGfXiW58gFcqpNvxGdS82-2=
+FcSlGgrSOxdUeZ-2FV6o4Cn-2F7LjUfFC9xpheNgjD7RyroHAyZ6gb7d94TXKofOJrPjUGbLMPx=
+JaZPGpXv-2B0OGLZ8Lzo9TDeXo4iQ6MZggGPe7fisc3fFLl1HGhfG4vW6237T8JvXh1UpkL2hGn=
+q7TZZrVoBkc8zrS29Ja4buvDo0sJcSLsRj-2BN4DWhdALwMBKnx7ZlBC3GihlmRh3wLDS4Kvx6t=
+Q6lKK18VAv-2FLuvkQyziYKXzayp-2FSu4Y47iCszaIsQWy0guCvmRvtnxSWVgAHmdKVZMkP9az=
+rKkqzGbLmSeIRlL9HPUJ-2ByfXOhzOD-2BSJJUx5mSrn8x34B9boIm6t5c7BVoH1ST9EEiu2unU=
+Q4amkSxxm1pV3xZqe1ZyDBuMwYV8-2FOo-2Fpwis-2B0t5SHamL-2FxZU-2FWUrKmu7l0wUbKKf=
+BeYxk80stvhfnkKUclPzHiuDUKkHWdN3OUtFs2M-2FcDcbCtonHsTW2RCxusgRPly0QdP38V2um=
+Tf-2FEcOAq-2BSy-2FVhnkA6HhthtnqcycBqPmkJhVEiCTSxLWELx1kQBpAkB2iECF-2BIE3ojL=
+275yLmqNLu5em5dFcpXuhOoCVXh9ktyx2ylyPuAj-2BD"" alt=3D"""" width=3D""1"" height=
+=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;""/></body>
+  </html>
+--4c2476875b2a4e0417347894d6ce3907aa6527868821ca2348bed1d5e3a4--
+","""Wmart"" <jessicaparker857ae@gmail.com>",alliej1117@icloud.com,2025-03-21,44.214.78.206,United States,en,users/51444819/b85cd1bf-550e-41d2-b666-c0a992ef6576.json

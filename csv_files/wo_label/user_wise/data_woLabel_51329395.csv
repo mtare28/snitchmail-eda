@@ -1,0 +1,45 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51329395,bG2CmA10TMuc19l7hql5Eg.recvd-69cbc48b94-2tgq2-1-67E38798-4.0,cHJvY2Vzc2VkLTUxMzI5Mzk1LWJHMkNtQTEwVE11YzE5bDdocWw1RWctMA,Hey there,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=teslarati.com;
+	h=content-transfer-encoding:from:subject:mime-version:reply-to:to:
+	content-type:cc:content-type:from:subject:to;
+	s=s1; bh=PH1NNDoiS/wJ5ZMcdge8mImqKwLDl42c/wixqCUwG1o=;
+	b=h1mpRekR2ubjyVE2f2C11nsBoibSGsW9ZuDC7vBrlupZDFQO+4vQKAuYI9zd+UcwCspp
+	e6rLDhcr7ItJYJ5AMxGWiEHijLKKTqtWSKKu5MDKkLtKeSGYJc9H3x6AO2Q3IuH5odAqF2
+	0ClIA9wuGhTQ6bBETOP5q/cz/SS3xQwNCQuxhdWUOyfjawCQqOxhWcIaZRTLdHSAtypBbS
+	qnd4kDkxTkZaBvbfUarUjM70uHSeDYK0yrwUQ/4xEeqzrIpbOH1jNmYZ7LKkKvjP7a93Jp
+	+8sf18a1OoRurEvQXnoE2a/Dw+q/g/r+l5FUwyWt9KVUQ0WWWdBrrs6PF2AVgROg==
+Received: by recvd-69cbc48b94-2tgq2 with SMTP id recvd-69cbc48b94-2tgq2-1-67E38798-4
+	2025-03-26 04:50:32.211027592 +0000 UTC m=+11345355.540760592
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-7 (SG) with ESMTP
+	id bG2CmA10TMuc19l7hql5Eg
+	for <kpryor@ketchum.edu>;
+	Wed, 26 Mar 2025 04:50:32.064 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <890557cp8-m8pg513e.kpryor@ketchum.edu>
+From: amedina@teslarati.com
+Subject: Hey there
+Date: Wed, 26 Mar 2025 04:50:32 +0000 (UTC)
+MIME-Version: 1.0
+Reply-To: amedina@teslarati.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E81HbPFtxqKYDBmaLBUuAKbKu9O068BH7LujgxpRK=2F4Gg87XrTz9InQB=2FG?=
+ =?us-ascii?Q?9H5LcwV308zbCBC2I7X9BFUiVxR=2F+SYbfeDtgE=2F?=
+ =?us-ascii?Q?I2LF2Hs9I7Zz0MruyU7Z3OugCuLuomYIh2+BTOH?=
+ =?us-ascii?Q?Sb7+0X2zQqAnLJLazR6UoeExp79edzBcqY5WlKv?=
+ =?us-ascii?Q?xHTzGFmZxHfSyfUH6bMdogdBfH6gJJfN74KWBnu?=
+ =?us-ascii?Q?A=3D=3D?=
+To: kpryor@ketchum.edu
+X-Entity-ID: u001.8F8Mp8I6LXVo1Zy1CbtGQg==
+Content-Type: text/html; charset=us-ascii
+
+<p>Dear Kpryor,</p><p>Find attached for your review and approval.</p>
+<img src=3D""http://url5366.teslarati.com/wf/open?upn=3Du001.KhExBSnxfya1Usk=
+yz9xSPPa3ZcbukixqQmHoWNHO4wHHDtGD5lXjRxsc4jRf-2B8foblnYblc85poNB-2Bm0dBDWq7=
+OkL-2F6q-2F9e66o3fckFz8YoEtfsTKoHuWLxy7Kwh0oqTY3Xqyra7bR2LnxnIFtg5s8UUGUp-2=
+FIcRLfUE0jdQR0IOoUcz7sI7Xy6qIYnj9rlGvnvyXVVaY9ADgIeUWjWZwMg-3D-3D"" alt=3D""""=
+ width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;""/>",amedina@teslarati.com,kpryor@ketchum.edu,2025-03-25,185.181.9.167,United Kingdom,en,users/51329395/fcfbf72f-694e-47a8-aaa7-847b77db9d82.json

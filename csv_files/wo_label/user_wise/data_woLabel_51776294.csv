@@ -1,0 +1,550 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51776294,7C31WDfpThugd6DZ83mjAQ.recvd-7cf7589bf9-8lc5x-1-67F03D64-42.0,cHJvY2Vzc2VkLTUxNzc2Mjk0LTdDMzFXRGZwVGh1Z2Q2RFo4M21qQVEtMA,Payment Confirmation for Your Recent Purchase,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=smtpapi; bh=5IZJ++4/p44chn4QQQenmvlcjdjQ1iypFSbftQLgrGA=;
+	b=MKrW8ZootTwcUiOdnChOPOjBTnrWzeXKJPNkNr33RKomXtV4X0ODNXF1S6iwU+NWu2/f
+	LoKLRrhshqm63fVJONLcrXsVg8CRlMhHt77AZG9FJ3ujECfujcafaq9LnbdXBdrJLUORn4
+	EogUis966mVAXnAC6D9fbrnMLBrgc3e0U=
+Received: by recvd-7cf7589bf9-8lc5x with SMTP id recvd-7cf7589bf9-8lc5x-1-67F03D64-42
+	2025-04-04 20:13:24.795708472 +0000 UTC m=+12178243.606170455
+Received: from NTE3NzYyOTQ (unknown)
+	by geopod-ismtpd-37 (SG) with HTTP
+	id 7C31WDfpThugd6DZ83mjAQ
+	Fri, 04 Apr 2025 20:13:24.771 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=c6dfd9011dc103362a683b66bdcd089164b2695df06c849e42e0e938c102
+Date: Fri, 04 Apr 2025 20:13:24 +0000 (UTC)
+From: Glenn <glennmaxwell@menuwebsites.com>
+Mime-Version: 1.0
+Message-ID: <7C31WDfpThugd6DZ83mjAQ@geopod-ismtpd-37>
+Subject: Payment Confirmation for Your Recent Purchase
+Reply-To: glennmaxwell@menuwebsites.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E2BC7u1saPUsdAsYaJRXa2zVpb2EC0s+L8OuZ0dzUOeR1zURZCKtyoz8np?=
+ =?us-ascii?Q?DyD4bY0wdt3RQwCSKN4H8Zan+XESLGljL9eT2j9?=
+ =?us-ascii?Q?kES+EoHYS6ir0=2FSn72IxwagN+a7+dhofhnDBLPn?=
+ =?us-ascii?Q?9d+ICBQd3txoePIeS3TqOV416omkNA5lYuLHyeV?=
+ =?us-ascii?Q?yb1PysYYnBd2LVCEAMgTNXHVjcmskpzV4OcR6nk?=
+ =?us-ascii?Q?qbnUi8q4Y=2F1RdZh4NX8pbq4vsPw4xv6uoBXelgN?= =?us-ascii?Q?vanV?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfZ1F2Fj0HFOwFc2VdNWY94a=2F8r?=
+ =?us-ascii?Q?mtGC7EDN79nGeKKRKcaD4g1j7c1Pc7329mKfe0s?=
+ =?us-ascii?Q?yLwpGt2FRWJM5iNjJrsiZsYZZg9BqLyxR9sKf9c?=
+ =?us-ascii?Q?W3arKDfVDY7AoUzDBomE=2FRn9ecYn0AUPVJr9RWp?=
+ =?us-ascii?Q?oJwgjk4W0f466SI+e+tDaXOp9PMwACDObopCPqD?=
+ =?us-ascii?Q?6lzVNwf07E98cHWDTxMLf20JlmJLaXjPXCfbDYW?=
+ =?us-ascii?Q?Fqc=2FXDKY9bVIGUQcBdSVUjOhWs7jrqvElrTLCVo?=
+ =?us-ascii?Q?ZheRwEPi8BAqQmIdxoM=2F=2FLddqAJzxADEAGErwpA?=
+ =?us-ascii?Q?VxSTZvVJGnPB8=2F5fqNh6lxgN7sV3VhXTfmHf6ny?=
+ =?us-ascii?Q?rc0tqj18nPUoCvV=2FJG2exc+mXxKp8GbjT+p=2Fc0G?=
+ =?us-ascii?Q?02pzeqdd+ac+xImTx1sH=2FHNDj6L4JtvrpHTOsYR?=
+ =?us-ascii?Q?h95UaBXiNWdJoTLfg1XtX6vt7K+=2FBeLb0+QWtdZ?=
+ =?us-ascii?Q?hnf+z2TW1O48tPA6F69P3SfE043rAG+aikX+s0q?=
+ =?us-ascii?Q?XPZkp5mVPGqslR28mKRgF2S9b4NdeSClxWF+cVf?=
+ =?us-ascii?Q?xArD+9WkIp3d8m9Hpv5Xgzz?=
+To: mikemarko69@aol.com
+X-Entity-ID: u001.foWoDuYouFqd1MBByeaGLA==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51776294=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EdeYu?=
+ =?us-ascii?Q?L-8YWjWB4dQxVpz06M7OZf7yCHQc-dQgtLaDTB7?=
+ =?us-ascii?Q?f64MOF7yyZthxnfJD3S7JPrUzZQqomThjeN6KSb?=
+ =?us-ascii?Q?4f1HG7ZGJVsAvNgNJNoDFAITScykVr6mUltKC1I?=
+ =?us-ascii?Q?5Svup8WNuvt=5FBBGKKHMSwuvNnPchsvcpYeRbl9p?=
+ =?us-ascii?Q?6cI=5FfFBFSVw6LO5M9kkkW5z=5Fjqncy7y0Fc6dQKf?=
+ =?us-ascii?Q?CfvnmP=5FvtS3uur75-LWzKxXeiiQNxmbwV4HJe5k?=
+ =?us-ascii?Q?iViSTgkTnezndBAk=5F5sGECz1oUY8Ky9baOrfcXs?=
+ =?us-ascii?Q?ZyNGICbIOCBqowUl4Rhw2O6c=5FsXToKejVKM1Ngr?=
+ =?us-ascii?Q?rNBHdFvemmibkdV-Bn6jdh82u76BJEhDYfIgPun?=
+ =?us-ascii?Q?OH1itQD8ugAABOSRepeg=5FfirzrPwK2gNfVTftaB?=
+ =?us-ascii?Q?c5GhCvPy0WyiuyKng79hj7L1aJqVMkEk-6qviTR?=
+ =?us-ascii?Q?8-roWHgQd0LGJysVfDrj7y7JttD0q5zQih0DseH?=
+ =?us-ascii?Q?zoERibD34N-SYhlvtkGvzouc2ADWQL8JKOkR-9t?=
+ =?us-ascii?Q?S2qU0cXjdn9jtjr3fHRJfEa34kG7CxG5E9NegH4?=
+ =?us-ascii?Q?NAfmRWrtjkrhCINZ7EugDR2c0qkGYVRMliJb9uW?=
+ =?us-ascii?Q?VgZFa2XoIxsJuNpzgWO71gkr6gs4vPyE3UGJtec?=
+ =?us-ascii?Q?V9rcSpBwLUm2fcTxnC-T9FCqsSU6CXwjegFAcfO?=
+ =?us-ascii?Q?Os6kGTtzCU8ATyU=5FTNhFySvu3IAo7X-ARvVA9nw?=
+ =?us-ascii?Q?2i3xuZMyCMtuq3WNTToP6hWEpkhTXFm77bQ5yu3?=
+ =?us-ascii?Q?1yqu4Ie44rZ3TdZNm7A4CAr-po9izKSaVcLN7AL?=
+ =?us-ascii?Q?yW5iorbkrPbIxD7-r7QjK6wXaZQ827bGwArDWPn?=
+ =?us-ascii?Q?IuKfJk8=5F3LsyMJQCNkKV8mN3-y5hPx7deFhwF7Z?=
+ =?us-ascii?Q?h3FLho7baGIUT9k5jMZEcI-MxoX62B86ssRYtuZ?=
+ =?us-ascii?Q?DpLDyveNkCMwQlGctMgCNYepbkp0pEs0y4W19Oz?=
+ =?us-ascii?Q?y8fzg5bN6NPcxTL395iuMda=5FvwGc1U4RiMOhQvz?=
+ =?us-ascii?Q?ZtljpVy0U3=5FIcfPrfDw0nOJ4QgTdtvE3WUngGU-?=
+ =?us-ascii?Q?7NGmeleGoZQDOHue-Ae9ik9bU5rfbQ1eZCFOFAO?=
+ =?us-ascii?Q?UTYywm-GMh9dO6vYTzzGzvuNUkWkBwFIY70JOyK?=
+ =?us-ascii?Q?p5lzhX1jtPMKsym9Y4xadxVK3phe-OKEH11ZvP5?=
+ =?us-ascii?Q?U5hRjoXGBG=5FjDhWN4cdtSDneD8CuOyq4DWQA1Bo?=
+ =?us-ascii?Q?ioaYixk29xpPo1UG=5FZ3qy1xwFUqjQ4NfkdiVn9D?=
+ =?us-ascii?Q?NuUXQwmijUgp9Y0aX-Y3TUKHBoQDW5geQJDIcDJ?=
+ =?us-ascii?Q?7zUgFrOiYjgGlT-k86FEuEHFoc2b3k3lNN4A2Es?=
+ =?us-ascii?Q?HugCsM9FfOMuU-g4lAYiQ7c2j4BAK7t23Udax3N?=
+ =?us-ascii?Q?YAD7UrUu8fLbsOzH6dROkC=5FTjN7qWZxinz4TsG5?=
+ =?us-ascii?Q?GNQ5znMuT-oPENAyBE2iBAn7CGIk5QUqnaz5HXC?=
+ =?us-ascii?Q?jPVREiS4=5FVjF4mY5k0-MxcKWLP1B0W7Vvb8iMrn?=
+ =?us-ascii?Q?VPrPYClBn=5F8m-JPH-rm0fbAKR9pBwrpqGIVk7oN?=
+ =?us-ascii?Q?7a80OOj9Ab1k6LHsI5u3j4OaRVf-sWN7x9fg=5FXE?=
+ =?us-ascii?Q?uFxeJERZbadR27KNsHxGIP7FA4jCcg6i7nlyLX0?=
+ =?us-ascii?Q?GpHp3z1L8GM-Z2ls08tCtqxHfj1bhJ2aacZa=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3D51776294=2Eq7RllfFCPicdJXEzbh7ZLr1jUuAe6?=
+ =?us-ascii?Q?2MhfsGIBtOlGopoMDAwdTAwMKL-CdJB7g6OVfZg?=
+ =?us-ascii?Q?yKvEQiZ45nfc4-01ShfgKEdritsVenisZTiGpoP?=
+ =?us-ascii?Q?XKuNDASEnHRzHrbtP3JDTK=5F5sPCP4R167owCObj?=
+ =?us-ascii?Q?m=5FOqkuo04diieDqP4Tc=5FeNNMk0oqQFI2B6jA=3D=3D=2E?=
+ =?us-ascii?Q?Z6KTdbzCWk6pqqL0vGJBVMf7rr2WKNAU4gVxmOs?=
+ =?us-ascii?Q?Un0VoMDAwdTAwMPv8dTvhfkjIut0OXK1auO53zH?=
+ =?us-ascii?Q?xOcYHN9tkAB1L9Z4TvVTlRAQstnb6kVmgx4SAUy?=
+ =?us-ascii?Q?305WJXnmqe76Rl3gkgf5IBIlHi8K=5FsTg0sHmG5r?=
+ =?us-ascii?Q?3caWDYSuWNBqJBS0Dh=5FZ1fr4cGgX-Xym0wxV6mZ?=
+ =?us-ascii?Q?JP13khtJgn4rCN1DbkTIkEjAPXnwMUx8GPYmKRv?=
+ =?us-ascii?Q?b=5FOAjHtsFgz7kE39HWO1kZYz3AZFmw8KCBqjrHc?=
+ =?us-ascii?Q?wgRA8kHdiI0rUInFg-CRG8aLe00G73cecCmGqzw?=
+ =?us-ascii?Q?JP9RMtdDhO3I8pmHRXvDp5zknmYXOY00LoQngk=5F?=
+ =?us-ascii?Q?RGIcc3jHelfDcVwBCoOj02glGJpAhKQ3Dmg2jKs?=
+ =?us-ascii?Q?MN4407e03TxiQGGTR9=5FjZ5Qy6z9SYExXGi8KYEI?=
+ =?us-ascii?Q?tSsjfTYWU1xO=5FYShJ969aNS05HP4hefSFLd0gfK?=
+ =?us-ascii?Q?lSIVfbaVDJd512OufdmoCMRXJVdIZUIRUJIZspV?=
+ =?us-ascii?Q?=5FhbITIBH7fCA-LyukxxUcM3HhbpJNVU-rQofqDp?=
+ =?us-ascii?Q?qVxzzfrTlNgZrtlGGpiLGWpoX3UjnNF4wrUrysh?=
+ =?us-ascii?Q?AUJYv1pOkrJWWgN=5F-c68GoIYkXjbZu4sPXnUw6L?=
+ =?us-ascii?Q?mJ6ko61=5FR1zQKCNvvXkm2Zc4liOs4eYn442i95l?=
+ =?us-ascii?Q?egM8yoMj5rl5l8mI5BAY=5FwTi=5FJx7PPg8RctqWa5?=
+ =?us-ascii?Q?CajKT0eLG3K3iBB=5FqO7zTBSKaHlrfBpSrQczzAR?=
+ =?us-ascii?Q?kvtPfB-pDSZFjxPkRAM-yTxaRZF81kS8cIbMg=5Fw?=
+ =?us-ascii?Q?HTMxbLai-9bIlnRJWbsoIbcM5s4yzsgoAohNJFz?=
+ =?us-ascii?Q?KAZNBG3MbL9hlfkqE7GZKrsHdi47NuY4izT3O24?=
+ =?us-ascii?Q?sxodyLgZMchNjFb=5FBcvzVwKMb9vJRusScvQPMn8?=
+ =?us-ascii?Q?beDVSL4D9oA09E21Rk4iNavi6AunVW-5=5FtAfYQN?=
+ =?us-ascii?Q?NpTLWgGZrxjzLA=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--c6dfd9011dc103362a683b66bdcd089164b2695df06c849e42e0e938c102
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Dear PayPal Customer, (mikemarko69@aol.com)
+
+Thank you for your purchase! Below are your order details:
+
+=F0=9F=93=A6 Item: Apple MacBook Pro 14"" (2024)
+=F0=9F=92=B0 Amount: $599.99
+=F0=9F=93=85 Date:04-04-2025
+=F0=9F=9B=92 Merchant: ""Apple Store Online""
+
+=E2=9D=97 If you didn=E2=80=99t authorize this purchase call us immediately=
+ to block this transaction.
+
+*Need help? Reply to this email or call ""PayPal Support"" at (805) 586-3822.
+Thanks,
+PayPal=C2=A0Receipts=C2=A0Team
+(805) 586-3822*
+
+Glenn
+
+glennmaxwell@menuwebsites.com , Austin , =20
+
+Unsubscribe ( https://u51776294.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+51776294&data=3D5-d8DbZSfCGCUxTL5vPucATixOiPYTbF8OqWxxSGuYdoMDAwdTAwMNp84as=
+sA4LEuevZ9lMH0cjPeVF92Aty-mZkIGxk3S2ngld57N2SAbWCTkPpiAc-VIzPKyAxO6d2-7Bsvi=
+WbWvriJNS-nGXBtBrPsSgWNaaXhO64idDwFdc7k515-ZsF4Z27o0evI2c1oy81JY_0Qmhl9CJbd=
+UJeefTcU4TvLXy0WB19BmYQiutPjCr8A0U63_iEUTTBWALFYD5j8cDLoK8LNfhJ-qtMrFOGmdu1=
+Im1RBzhdduxlM9VhVTpcD_DpBjpLJV39eC-sosjQzuadyhXBv2FCNpU2EdbIvj0fKsm5YLuJO6I=
+SLx5k7X0c7VBbaYvR8OOwPmfsK4Z1458idDO1j7ZFJ2uMvtEbC6jPDUIPgeAUIEwNZV5V37A-qM=
+47r8Ea5x_HepEuf8Twlp_l1v07JpwQ22u1o9s3GM0QVq07__5Ow427UpiLwMXTCZvfUiDEN1vaK=
+N4f88kHLwNuVyVf3ZYcJ0QvhU9-oZpkGWsm6mhfZa37Kc30wWaREnsS3ZN43ctDjCj5B3W_vTDb=
+RQf0v4aW6nTWK4_wTzESGNcEBx6UnK3dht9QBJO4Zg6wUqHoJNwUxVz1OFyxf1sR8kwzGrWMgmi=
+6UrcFhzLZmLtblwCDDbL_gMrxwMJF-xyyQX4Gs8hRIAvx7MNRuG1RFna_NJlRvBipUSYyL5Ts57=
+aS3jqWPH3NSeF9lbjB7053N5P44N2bxWkWxVl3phn-jlSi1RgYNQWBo1Mlt6Ir_1ggAwEoLhgQM=
+fCuKqpY1IoX10JihrhWE_08bN2JHEUmzmhtLXNY0EIEE6o7LBew1PkF3zCJDaWP0-PQniykNi_7=
+iwiLkH1BnP0-JwOgzSDCep0Cwc-k0zn0oKgabf1rTWIb4YGbB-NpJu4SfV-qPTk7WRCTqAX9kcP=
+DN9dWETmpWbnVnA8Wx6N4mzyVfIyfSRSGu2HsImAXLqHwvaze4jI5JiNecivsYspgkCFTO4b1Fq=
+-sxoAIjRGMsykvg_ab-rtApu_Y7075AqwVzuUaizmdnuxDwPzpLIM6kah8v5Kp_waimp7K46GiX=
+sLWju1y2Te2 ) - Unsubscribe Preferences ( https://u51776294.ct.sendgrid.net=
+/asm/?user_id=3D51776294&data=3Dj0mnk0BOGIqTR0v5IBDsVEZYMx2D3Qd5_pIdRrBXpaV=
+oMDAwdTAwMP9N_VI_IxW0sZR9EFVY9MtTNt3akvE7t4enToa0Kt59vy6qVERJ-N1HVfB150Epz5=
+nDDw8duYeXFWcrNpyQ9NIZeQze-KkcR_W682kYFRfzWuSpR1E-FHaL8gT-L_OCkUwx1PcPkLJqx=
+V2f3N0K6QJ1sYPfVnyfVzqTa2QAorwpbh4hYeggYSyvgKz1r6NxUI6w4NPleD-4inaPrwtINtNG=
+mlyf4Zbumb8zSJF4xls5HPR7tRocK-z0jjAVaeTbGSywmUKnLI-9N9leNMTPdKcdeJqfH6X6Pil=
+J-pMIqsEmC6BajKJFeMeYjaFletyje3qr63ps8QOKfuTnCGrkt0TL9bt1j54cB0jdVTECLh5EgJ=
+MzDPWItMQQcAg119j4L5tl4uJ_lMxjH6ISK9WETFNbZ6M1JltONba-JaeQBXgVG-5QXwW1jDx8M=
+0mrzUxavmE43j3mywIh5KdSEbmhHYwwiupUKvIRBeLVJACkNR2vIQAJ1zv9UNUd2s4ZvNlpvW0H=
+rMZo-c1M__eeTo6rWeALg5M6eFKS27uf0MejW49ncgdft0EKEhuocDilByfuK4pTuphCfNOno_-=
+P5N3LNZDqLQpCnViA_tGC2enNqClERYpfcwfB3b8x4dxKWEAhY69xkBuyrv6bKouqipzD4Cg5PL=
+DHMalL5HPUzRhrB4ydGemh9RyuTs4Qets4vY6eie6FW-S5R84HskCTcoGPRzi0yA4lt9SKd_zZg=
+w1zgHhaR8lWSi90M9nzermssi_icMh6rJ9zYavEjZBvEp5bNfNiK_BW8TuXBTzJ1sfqZdvrMiqg=
+4XfG-DxrJbXsjos_kI49YWMlY84VL5pGl7HXledaBJuMWGUVKFZncsC2nObbRQ7B-IGO9foOwYB=
+OgUTyaypTFJ-vSKnJcdTPwRXprL56P569N16knx_-M5PHjpbwj5oFjih7-yyEY9l9TBVeaUS55P=
+ahPZxv0IH1_VjJ-UckHJbGx1qKGDh2bvC3j4bVUdhQfgCROp6wqkK6FOzSMsm1UX05ImFE6mCzi=
+z4bhHc=3D )
+--c6dfd9011dc103362a683b66bdcd089164b2695df06c849e42e0e938c102
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""187ea542-66d4-43b3-b943-f76b1046e5fb"" data-mc-mo=
+dule-version=3D""2019-10-22"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit; text-align: inherit""><span st=
+yle=3D""box-sizing: border-box; padding-top: 0px; padding-right: 0px; paddin=
+g-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margi=
+n-bottom: 0px; margin-left: 0px; font-style: inherit; font-variant-ligature=
+s: inherit; font-variant-caps: inherit; font-variant-numeric: inherit; font=
+-variant-east-asian: inherit; font-variant-alternates: inherit; font-varian=
+t-position: inherit; font-variant-emoji: inherit; font-weight: inherit; fon=
+t-stretch: inherit; line-height: inherit; font-family: inherit; font-optica=
+l-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-f=
+eature-settings: inherit; font-variation-settings: inherit; font-size: 18px=
+; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px;=
+ border-bottom-width: 0px; border-left-width: 0px; border-top-style: initia=
+l; border-right-style: initial; border-bottom-style: initial; border-left-s=
+tyle: initial; border-top-color: initial; border-right-color: initial; bord=
+er-bottom-color: initial; border-left-color: initial; border-image-source: =
+initial; border-image-slice: initial; border-image-width: initial; border-i=
+mage-outset: initial; border-image-repeat: initial; color: #000000; letter-=
+spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-tran=
+sform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; =
+white-space-collapse: preserve; text-wrap-mode: wrap; background-color: rgb=
+(255, 255, 255); text-decoration-thickness: initial; text-decoration-style:=
+ initial; text-decoration-color: initial; animation-iteration-count: 1; scr=
+oll-behavior: auto"">Dear PayPal Customer, (mikemarko69@aol.com)<br>
+<br>
+Thank you for your purchase! Below are your order details:<br>
+<br>
+</span><span style=3D""box-sizing: border-box; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-ri=
+ght: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-v=
+ariant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric=
+: inherit; font-variant-east-asian: inherit; font-variant-alternates: inher=
+it; font-variant-position: inherit; font-variant-emoji: inherit; font-weigh=
+t: inherit; font-stretch: inherit; line-height: inherit; font-family: inher=
+it; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: =
+inherit; font-feature-settings: inherit; font-variation-settings: inherit; =
+font-size: 18px; vertical-align: baseline; border-top-width: 0px; border-ri=
+ght-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-to=
+p-style: initial; border-right-style: initial; border-bottom-style: initial=
+; border-left-style: initial; border-top-color: initial; border-right-color=
+: initial; border-bottom-color: initial; border-left-color: initial; border=
+-image-source: initial; border-image-slice: initial; border-image-width: in=
+itial; border-image-outset: initial; border-image-repeat: initial; color: #=
+000000; letter-spacing: normal; orphans: 2; text-align: start; text-indent:=
+ 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stro=
+ke-width: 0px; white-space-collapse: preserve; text-wrap-mode: wrap; backgr=
+ound-color: rgb(255, 255, 255); text-decoration-line: underline; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decoration-c=
+olor: initial; animation-iteration-count: 1; scroll-behavior: auto"">=F0=9F=
+=93=A6 Item: Apple MacBook Pro 14"" (2024)<br>
+=F0=9F=92=B0 Amount: $599.99<br>
+=F0=9F=93=85 Date:04-04-2025<br>
+=F0=9F=9B=92 Merchant: ""Apple Store Online""</span><span style=3D""box-sizing=
+: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; pa=
+dding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; ma=
+rgin-left: 0px; font-style: inherit; font-variant-ligatures: inherit; font-=
+variant-caps: inherit; font-variant-numeric: inherit; font-variant-east-asi=
+an: inherit; font-variant-alternates: inherit; font-variant-position: inher=
+it; font-variant-emoji: inherit; font-weight: inherit; font-stretch: inheri=
+t; line-height: inherit; font-family: inherit; font-optical-sizing: inherit=
+; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: =
+inherit; font-variation-settings: inherit; font-size: 18px; vertical-align:=
+ baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-wi=
+dth: 0px; border-left-width: 0px; border-top-style: initial; border-right-s=
+tyle: initial; border-bottom-style: initial; border-left-style: initial; bo=
+rder-top-color: initial; border-right-color: initial; border-bottom-color: =
+initial; border-left-color: initial; border-image-source: initial; border-i=
+mage-slice: initial; border-image-width: initial; border-image-outset: init=
+ial; border-image-repeat: initial; color: #000000; letter-spacing: normal; =
+orphans: 2; text-align: start; text-indent: 0px; text-transform: none; wido=
+ws: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-colla=
+pse: preserve; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); =
+text-decoration-thickness: initial; text-decoration-style: initial; text-de=
+coration-color: initial; animation-iteration-count: 1; scroll-behavior: aut=
+o""><br>
+<br>
+=E2=9D=97 If you didn=E2=80=99t authorize this purchase call us immediately=
+ to block this transaction.<br>
+<br>
+<br>
+</span><span style=3D""box-sizing: border-box; padding-top: 0px; padding-rig=
+ht: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-ri=
+ght: 0px; margin-bottom: 0px; margin-left: 0px; font-style: inherit; font-v=
+ariant-ligatures: inherit; font-variant-caps: inherit; font-variant-numeric=
+: inherit; font-variant-east-asian: inherit; font-variant-alternates: inher=
+it; font-variant-position: inherit; font-variant-emoji: inherit; font-weigh=
+t: inherit; font-stretch: inherit; line-height: inherit; font-family: inher=
+it; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: =
+inherit; font-feature-settings: inherit; font-variation-settings: inherit; =
+font-size: 18px; vertical-align: baseline; border-top-width: 0px; border-ri=
+ght-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-to=
+p-style: initial; border-right-style: initial; border-bottom-style: initial=
+; border-left-style: initial; border-top-color: initial; border-right-color=
+: initial; border-bottom-color: initial; border-left-color: initial; border=
+-image-source: initial; border-image-slice: initial; border-image-width: in=
+itial; border-image-outset: initial; border-image-repeat: initial; color: #=
+000000; letter-spacing: normal; orphans: 2; text-align: start; text-indent:=
+ 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stro=
+ke-width: 0px; white-space-collapse: preserve; text-wrap-mode: wrap; backgr=
+ound-color: rgb(255, 255, 255); text-decoration-line: underline; text-decor=
+ation-thickness: initial; text-decoration-style: initial; text-decoration-c=
+olor: initial; animation-iteration-count: 1; scroll-behavior: auto""><u><str=
+ong>Need help? Reply to this email or call ""PayPal Support"" at (805) 586-38=
+22.<br>
+Thanks,<br>
+PayPal&nbsp;Receipts&nbsp;Team<br>
+(805) 586-3822</strong></u></span>&nbsp;</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Glenn</p><p style=3D""font-size:12px; line-height:20px;""><span =
+class=3D""Unsubscribe--senderAddress"">glennmaxwell@menuwebsites.com</span>, =
+<span class=3D""Unsubscribe--senderCity"">Austin</span>, <span class=3D""Unsub=
+scribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span>=
+</p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsubs=
+cribe--unsubscribeLink"" href=3D""https://u51776294.ct.sendgrid.net/asm/unsub=
+scribe/?user_id=3D51776294&amp;data=3D5-d8DbZSfCGCUxTL5vPucATixOiPYTbF8OqWx=
+xSGuYdoMDAwdTAwMNp84assA4LEuevZ9lMH0cjPeVF92Aty-mZkIGxk3S2ngld57N2SAbWCTkPp=
+iAc-VIzPKyAxO6d2-7BsviWbWvriJNS-nGXBtBrPsSgWNaaXhO64idDwFdc7k515-ZsF4Z27o0e=
+vI2c1oy81JY_0Qmhl9CJbdUJeefTcU4TvLXy0WB19BmYQiutPjCr8A0U63_iEUTTBWALFYD5j8c=
+DLoK8LNfhJ-qtMrFOGmdu1Im1RBzhdduxlM9VhVTpcD_DpBjpLJV39eC-sosjQzuadyhXBv2FCN=
+pU2EdbIvj0fKsm5YLuJO6ISLx5k7X0c7VBbaYvR8OOwPmfsK4Z1458idDO1j7ZFJ2uMvtEbC6jP=
+DUIPgeAUIEwNZV5V37A-qM47r8Ea5x_HepEuf8Twlp_l1v07JpwQ22u1o9s3GM0QVq07__5Ow42=
+7UpiLwMXTCZvfUiDEN1vaKN4f88kHLwNuVyVf3ZYcJ0QvhU9-oZpkGWsm6mhfZa37Kc30wWaREn=
+sS3ZN43ctDjCj5B3W_vTDbRQf0v4aW6nTWK4_wTzESGNcEBx6UnK3dht9QBJO4Zg6wUqHoJNwUx=
+Vz1OFyxf1sR8kwzGrWMgmi6UrcFhzLZmLtblwCDDbL_gMrxwMJF-xyyQX4Gs8hRIAvx7MNRuG1R=
+Fna_NJlRvBipUSYyL5Ts57aS3jqWPH3NSeF9lbjB7053N5P44N2bxWkWxVl3phn-jlSi1RgYNQW=
+Bo1Mlt6Ir_1ggAwEoLhgQMfCuKqpY1IoX10JihrhWE_08bN2JHEUmzmhtLXNY0EIEE6o7LBew1P=
+kF3zCJDaWP0-PQniykNi_7iwiLkH1BnP0-JwOgzSDCep0Cwc-k0zn0oKgabf1rTWIb4YGbB-NpJ=
+u4SfV-qPTk7WRCTqAX9kcPDN9dWETmpWbnVnA8Wx6N4mzyVfIyfSRSGu2HsImAXLqHwvaze4jI5=
+JiNecivsYspgkCFTO4b1Fq-sxoAIjRGMsykvg_ab-rtApu_Y7075AqwVzuUaizmdnuxDwPzpLIM=
+6kah8v5Kp_waimp7K46GiXsLWju1y2Te2"" target=3D""_blank"" style=3D"""">Unsubscribe=
+</a> - <a href=3D""https://u51776294.ct.sendgrid.net/asm/?user_id=3D51776294=
+&amp;data=3Dj0mnk0BOGIqTR0v5IBDsVEZYMx2D3Qd5_pIdRrBXpaVoMDAwdTAwMP9N_VI_IxW=
+0sZR9EFVY9MtTNt3akvE7t4enToa0Kt59vy6qVERJ-N1HVfB150Epz5nDDw8duYeXFWcrNpyQ9N=
+IZeQze-KkcR_W682kYFRfzWuSpR1E-FHaL8gT-L_OCkUwx1PcPkLJqxV2f3N0K6QJ1sYPfVnyfV=
+zqTa2QAorwpbh4hYeggYSyvgKz1r6NxUI6w4NPleD-4inaPrwtINtNGmlyf4Zbumb8zSJF4xls5=
+HPR7tRocK-z0jjAVaeTbGSywmUKnLI-9N9leNMTPdKcdeJqfH6X6PilJ-pMIqsEmC6BajKJFeMe=
+YjaFletyje3qr63ps8QOKfuTnCGrkt0TL9bt1j54cB0jdVTECLh5EgJMzDPWItMQQcAg119j4L5=
+tl4uJ_lMxjH6ISK9WETFNbZ6M1JltONba-JaeQBXgVG-5QXwW1jDx8M0mrzUxavmE43j3mywIh5=
+KdSEbmhHYwwiupUKvIRBeLVJACkNR2vIQAJ1zv9UNUd2s4ZvNlpvW0HrMZo-c1M__eeTo6rWeAL=
+g5M6eFKS27uf0MejW49ncgdft0EKEhuocDilByfuK4pTuphCfNOno_-P5N3LNZDqLQpCnViA_tG=
+C2enNqClERYpfcwfB3b8x4dxKWEAhY69xkBuyrv6bKouqipzD4Cg5PLDHMalL5HPUzRhrB4ydGe=
+mh9RyuTs4Qets4vY6eie6FW-S5R84HskCTcoGPRzi0yA4lt9SKd_zZgw1zgHhaR8lWSi90M9nze=
+rmssi_icMh6rJ9zYavEjZBvEp5bNfNiK_BW8TuXBTzJ1sfqZdvrMiqg4XfG-DxrJbXsjos_kI49=
+YWMlY84VL5pGl7HXledaBJuMWGUVKFZncsC2nObbRQ7B-IGO9foOwYBOgUTyaypTFJ-vSKnJcdT=
+PwRXprL56P569N16knx_-M5PHjpbwj5oFjih7-yyEY9l9TBVeaUS55PahPZxv0IH1_VjJ-UckHJ=
+bGx1qKGDh2bvC3j4bVUdhQfgCROp6wqkK6FOzSMsm1UX05ImFE6mCziz4bhHc=3D"" target=3D=
+""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D"""">Unsubscri=
+be Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51776294.ct.sendgrid.net/wf/open?upn=3Du001.XgsJ97=
+7SDzZeIENF97taZ54el9l-2B8Mp1YeZe9ylD55FyhGpjdu694kG2DjwU2CdGsWrO8oApeakDAHw=
+BH4TR2pZ7RwZX2hadXeEZRoWs6NTVr3ZM-2F0XMNfgePW9Evk-2FoIuxLVlcHT6LZxm47P5wQbA=
+ekjFuhak81h-2BZ3rJGK-2B5CNT9fwgXskd1IRVVu2nGEk281VHlQyZRkfJO3QbNtclfazhQGB7=
+4UuzdOGrm-2FKwYeZ5EuWLBhMHpjlHqJZaM8wXqPUgqjypas-2FjR1h9AETZKiSHUhoR2eJ0FgM=
+LWksvO3TaCemrYkOLZxkAd4Td0tzFPKvL2bovnA1M-2Bp2gHwUBacwt02RJPDqkEiRxEbQ9v6pS=
+DHW3eoPf8-2FSH6tyEciArKeCe4xsK2EgoJboXjvLWhf0jM1LdymZ-2B6qWj2UTVmpWnoxdPydl=
+lQcWT0p5QPz-2BuV-2FOeSQEsL1X-2FVloxftZnbh9yM7LA4xTQlUwAlS3hOmTeKjRxkbZTxQyK=
+NidTBzpJ3s6Ut5P4RA-2BS8J7U5uglfI3celae5hGFxMBjw0y0lof-2FHDKYn1tUqIVbRIIwe-2=
+BZTT7t-2Fn9uQqJTtNhsd8Rnusy-2BK47xFPvyvXiJSz2xHmkuWUMArbuXmGJf5nNXNSQPxp7ef=
+2whesb1SEaNFi19PqSLAho9UsID7CCw8BTSfXcUTuudxiPhIZ8MI3BlohKeIJyKvLBE-2Bry8M7=
+1KKcaUlCi1qRq6gxWZ2P0z4Y17KZjwlW6069j6ZZeAHzk1QI1-2BuUMhCrYUTk-2FqQyqgIuhTW=
+TqH06i7EsEijYvotfk0In-2FwqLUjzdCBVSGiTdROB6tOBW9RBdh2zdDBH3TelwE79bxHdWg-2B=
+-2BDmfjMdYsSyeLLe6NDLJKVivd-2F-2Fp-2FGe-2BHIUiwH6g4iIKkNNpITetoQDAfw-3D-3D""=
+ alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !import=
+ant;width:1px !important;border-width:0 !important;margin-top:0 !important;=
+margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importa=
+nt;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !im=
+portant;padding-left:0 !important;""/></body>
+  </html>
+--c6dfd9011dc103362a683b66bdcd089164b2695df06c849e42e0e938c102--
+","""Glenn"" <glennmaxwell@menuwebsites.com>",mikemarko69@aol.com,2025-04-04,44.198.45.247,United States,en,users/51776294/e7f02942-2f5d-40b9-9931-2410713cf213.json

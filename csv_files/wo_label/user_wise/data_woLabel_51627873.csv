@@ -1,0 +1,52 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51627873,_9SH5NSnR5Cr16IdYF5V1A.recvd-69cbc48b94-4wm29-1-67ED686D-5.0,cHJvY2Vzc2VkLTUxNjI3ODczLV85U0g1TlNuUjVDcjE2SWRZRjVWMUEtMA,Voice Message Notification,"Content-Type: multipart/mixed; boundary=--_NmP-7e84504876f5c954-Part_1
+Date: Wed, 02 Apr 2025 16:40:13 +0000 (UTC)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+ h=content-type:from:subject:mime-version:to:cc:content-type:from:
+ subject:to; s=smtpapi; bh=9NI1fV9ZnXG/FU5V4qqT3NofPVHHlKCtnQ98E8hvIAc=;
+ b=xKezbctsB3Hh2PJWVjVZf8SN7VfeNqYW+Fu0peVPWUwr9iV4z0SiZaNFolLSgzrhpnSE
+ 32yYsDSIvh9hlrRs0Za8z+U0cbrAKMkL69MlXRzRqRSNnaaCHLM1C5Tp/pzWgyYROfh4Y5
+ 2VNJPJGHqKpnPoxERZwAxhcZ9jq4Sp8hc=
+From: Voicemail No-reply <kimb@rueziffra.com>
+Message-Id: <48ed4ce1-55a4-98a1-ea6f-cf5b9098e780@rueziffra.com>
+Mime-Version: 1.0
+Received: by recvd-69cbc48b94-4wm29 with SMTP id
+ recvd-69cbc48b94-4wm29-1-67ED686D-5 2025-04-02 16:40:13.076076328 +0000 UTC
+ m=+11992542.281577658
+Received: from [127.0.0.1] (unknown) by geopod-ismtpd-3 (SG) with ESMTP id
+ _9SH5NSnR5Cr16IdYF5V1A for <lcramer@cramco.net>; Wed, 02 Apr 2025
+ 16:40:12.910 +0000 (UTC)
+Subject: Voice Message Notification
+To: lcramer@cramco.net
+X-Entity-Id: u001.RVqQ+L3hz3R/RpxjPK96+A==
+X-Sg-Eid: =?us-ascii?Q?u001=2E6CSVcYS=2FpK3CQGDS22oPqh+IKMextCvA0HHCSi=2FJv5I9BTmcexEqkJdGq?=
+ =?us-ascii?Q?mmEaNiLQGmuy4vE6JXTnsxLR9LpzaqDwA5CGbqq?=
+ =?us-ascii?Q?t=2FGt=2FbW87URpTebXOQNwbIpcxKd27K7pEhLXTOr?=
+ =?us-ascii?Q?XK+qoiR8AZ=2Fx3OkMe5ezy4lXPOpmRsEVUWFBLBj?=
+ =?us-ascii?Q?PoU2rJvz1MoeKEpnYxznXul6PjHBrgAC2IfsfNG?=
+ =?us-ascii?Q?O6FTGhVal=2FGIGSjwGlYv1YcZkqWEEt+u1UZVtmT?=
+ =?us-ascii?Q?cClG?=
+
+----_NmP-7e84504876f5c954-Part_1
+Content-Type: multipart/alternative;
+ boundary=--_NmP-7e84504876f5c954-Part_2
+
+----_NmP-7e84504876f5c954-Part_2
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=utf-8
+
+77u/aGVsbG8gc2ly
+
+----_NmP-7e84504876f5c954-Part_2
+Content-Type: text/html; charset=us-ascii
+
+Definitionvisual-studio
+
+Visual Studio is an integrated development environment (IDE) developed by Microsoft that allows developers to create applications for different platforms (including Windows, Android, iOS, and Linux). This software offers various tools to facilitate the development process, such as code debugging, integration with version control systems, automated testing, and assistance in writing code.
+
+
+
+----_NmP-7e84504876f5c954-Part_2--
+
+----_NmP-7e84504876f5c954-Part_1--
+","""Voicemail No-reply"" <kimb@rueziffra.com>",lcramer@cramco.net,2025-04-02,34.58.60.74,United States,it,users/51627873/cc55dcd1-24c0-40d8-baf3-372ce6232e01.json

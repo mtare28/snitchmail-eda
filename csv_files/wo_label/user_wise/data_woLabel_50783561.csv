@@ -1,0 +1,484 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50783561,jJVDZOJJRy6WUmoIwYaeBQ.recvd-578d769b87-j45k5-1-67C6F870-16.30,cHJvY2Vzc2VkLTUwNzgzNTYxLWpKVkRaT0pKUnk2V1Vtb0l3WWFlQlEtMzA,(1) new document has been delivered,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domin0-uk.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=Yv939N58mKHHd9efsfAvHDWLCdY/01/lva4NKZ47Y68=;
+	b=tCyxNztvqYLP3iRKVwBSLz7brfIXP0EW1kskQIzHLzB1p62TRqZyIexSBfjIn6IqGAxj
+	gvU1n1GtcxH7z2aHbyo8TSR2YA9yBEkwzoh6nyOboHNddVMrv+0Txbl/pdMLYk7p1DOufm
+	hzqg/N1vaB8r5RYoovxfw4yFeNLy+YbCDBfxmumdHyjs0oKLpuuI8EczligdECdjkzO3GZ
+	0YSOLV3tpqW3bgAgsRp1Q4f/hnPtkmZDWdmKvtUb3zJQIzQeeFhk5Y/15w9xgmAl3/ZfdS
+	gL1PLvePcaCLzwL8iZZNDst4b/2CgAHhYfwJg6064T/Wz2ZWYMqjY4JpF830d00Q==
+Received: by recvd-578d769b87-j45k5 with SMTP id recvd-578d769b87-j45k5-1-67C6F870-16
+	2025-03-04 12:56:16.589046887 +0000 UTC m=+9473606.598327042
+Received: from NTA3ODM1NjE (unknown)
+	by geopod-ismtpd-34 (SG) with HTTP
+	id jJVDZOJJRy6WUmoIwYaeBQ
+	Tue, 04 Mar 2025 12:56:16.541 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=d975de2a6a96edf22bd7ec30946018c886357901e9b8561c8bac15a85818
+Date: Tue, 04 Mar 2025 12:56:17 +0000 (UTC)
+From: Documents <documents@domin0-uk.com>
+Mime-Version: 1.0
+Message-ID: <jJVDZOJJRy6WUmoIwYaeBQ@geopod-ismtpd-34>
+Subject: (1) new document has been delivered
+Reply-To: documents@domin0-uk.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu50783561=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2ERkjz?=
+ =?us-ascii?Q?TCSVL2UlurUQMe=5FZ1cd8ErVinkaWWl4ubsDWo5O?=
+ =?us-ascii?Q?sCyZTzfYE2tdOswalczMVC0TZARSxEtcIehFfi5?=
+ =?us-ascii?Q?X4rc19OwUmmY0tgFOglURYdBPVW5FrFEifey2-Q?=
+ =?us-ascii?Q?Dw2gE-aKR=5Fkj3DLRtGT2MNICjBG24N3H5qqDs9W?=
+ =?us-ascii?Q?xO-7IDZCeytx66npKqhPzF=5FPEVdH76pj=5F-ZRWwN?=
+ =?us-ascii?Q?yDn1HzGZXyJKF9ZScmn9l6dYrsQD6JYJZhVWTdT?=
+ =?us-ascii?Q?p7dPlm4UwNkPfw5TtPdWS5IHTb6yloPKNqoyZcG?=
+ =?us-ascii?Q?FpODfbNrtE2j6uiPv6PsuebHxYCue76BhlQOga6?=
+ =?us-ascii?Q?tTPkwZdVIjWh7chxzPKLXLDEhXEtcljT3944ABh?=
+ =?us-ascii?Q?AF4SZlSXYpdKEciTzZerWtCeo1kNjWMfHaf3OjK?=
+ =?us-ascii?Q?=5FRaZZw8g1QUQ5NV=5FLHgx2Afq8Jrfi6Ph2XI3f6S?=
+ =?us-ascii?Q?1l=5FOaef0w6lbYZGVyD3wUwQNbRGEv64CUziIEon?=
+ =?us-ascii?Q?o7t7TBSDZCu9S54DpbjNQXCR3G-H1c-JB39xCQj?=
+ =?us-ascii?Q?9T127ySC6WevrnLBOQhuzYWhARu1qGabWa3C8fF?=
+ =?us-ascii?Q?XR93G16BTpv0fI9hXsysudjFZKDM=5F5CNlDeHJj=5F?=
+ =?us-ascii?Q?s3kDAwcYUnm7ElAMUW-PDBtEzqutkEPD-q=5FfsPH?=
+ =?us-ascii?Q?OyPnP2GXbwNfh9O4zrZqGYnKnjtaxQ5KNaQIR-u?=
+ =?us-ascii?Q?hom4cG6jrg5CedD8Vqdbn4hGDeOWJAzx3MAqSTs?=
+ =?us-ascii?Q?deH0HfC2SuJK-LK1GQUNDuvVCkN98-BZsnU6umA?=
+ =?us-ascii?Q?bboFg3orLIj5vfZlPBECzLwAGTJLgX3xbuJ-NsG?=
+ =?us-ascii?Q?sAvgq6JsdNR3=5Fu6m2ZSgQYOsZ1KtLIvL2-6Gwmd?=
+ =?us-ascii?Q?frkoLkp6rbb0biWQjozFZWzxdfC6WwhEXuaqeac?=
+ =?us-ascii?Q?JNFuenhKdGK-RGzTS65b162XggSBhbjkZd2kWMT?=
+ =?us-ascii?Q?5BnaP0YOqfV0lrFtvc0Vjxw8SHJ8=5FXiCBz4xj46?=
+ =?us-ascii?Q?CO8sCLB3MRd4i4ak2DQ8tMi2QBhv-kitugKLVwp?=
+ =?us-ascii?Q?9G5dWbMg0dj0GDi5MQu2kFGGcQ5MeFMMkdebfMH?=
+ =?us-ascii?Q?g74uQGjdDBTQC7f2ueK4tMtnhynMiTx6D3NclCP?=
+ =?us-ascii?Q?ivWeGroL=5FaSSyQUtPK=5Fy=5FqXn6gHyvm7opoP-6Z=5F?=
+ =?us-ascii?Q?XsYE5YWdiJoTw4SVQ=5FaY34nP2vkNSJOVOiewaQ3?=
+ =?us-ascii?Q?8GtEuylr28sRBjWEM-yuX3BqEmb8AKB=5FPNN2fi=5F?=
+ =?us-ascii?Q?d6CeKy5=5FT6KBL=5FRXQQqo0A46V-Wg=5F5UXu=5Fu5tTh?=
+ =?us-ascii?Q?rRC0NVT2r3nedel3XjSvulBaFTOKQfJvWz3kPeu?=
+ =?us-ascii?Q?uEQX=5Fn=5FPakRy9HjPNdJPKqZmBRg4XC5uF=5Ftz7h=5F?=
+ =?us-ascii?Q?OP58nE25DAr1tBQ93aElGIjDgYXD-5vBGFtnfeP?=
+ =?us-ascii?Q?G19oX17nuk7GRVuviC899FlnR0KoJwoQwEb9Jdo?=
+ =?us-ascii?Q?9S3eIty731Elw-mqxyRbYtwvUvKhFASKOEiNixY?=
+ =?us-ascii?Q?KGNMzj4dlQXUCdehi72k0Ij-IjCl67Ljv1dGkHR?=
+ =?us-ascii?Q?YWjUCi6gvN-68T9LznPbYdrhvWkgtXqn6DBPq4w?=
+ =?us-ascii?Q?1QAii-VCXlhcTXFhB8Pp=5F=5FrOyCl4o=3E=2C=3Cmailto=3A?=
+ =?us-ascii?Q?unsubscribe=40em8753=2Edomin0-uk=2Ecom=3Fsubjec?=
+ =?us-ascii?Q?t=3Dhttps=3A=2F=2Fu50783561=2Ect=2Esendgrid=2Enet=2Fmt=2F?=
+ =?us-ascii?Q?u=2Fu001=2EUMabnyCP1gd7dVXxWKssS8I6DHltLirz?=
+ =?us-ascii?Q?2LR1GZopMFDqofxCwpulaqmi-CzNTbx2=2F4ei=2Fu0?=
+ =?us-ascii?Q?01=2EwzfziVXh=2Fu001=2ECBmhWHeJF9vW3Ov2rnRq94?=
+ =?us-ascii?Q?3YN5g-2FoXdVqt4pnl-2Bo3XiFwRLJONHL4n-2B?=
+ =?us-ascii?Q?WZsDZAnolsM1tadO9sPy2sKtxJUBBKKzm9zQZVK?=
+ =?us-ascii?Q?A6Hr4-2FOnErIUkBuv1kN6-2BR8-2FyPeBVPsxl?=
+ =?us-ascii?Q?-2FLIviWpLE3GN9KHmp11tUxcjXus8ot7PP-2BV?=
+ =?us-ascii?Q?e6xxUEwzYzYUm-2BNNKupEM4Zz5hI2cxMgOYq7G?=
+ =?us-ascii?Q?lpQ88wJ-2FpwOYPHL3OvLdjcD8wLR3DeKInFlnM?=
+ =?us-ascii?Q?nah52UrUGaNV4eKeNMB6AaFHRoBRsN9Jd-2F-2B?=
+ =?us-ascii?Q?w2sYsYLqX0AShnXqXQymi3r29G3biddmkvEudMa?=
+ =?us-ascii?Q?nnPum4wbhIUKHKWhgtwto5ujPxilivOXDmv-2BL?=
+ =?us-ascii?Q?7zQWZ-2BIinabpdIqFiGimK-2F1vWtRUv8qI9i8?=
+ =?us-ascii?Q?-2FhHZCrEHq3t7ZJTm7Q-2BH-2Fiq30UxhQVaAP?=
+ =?us-ascii?Q?x0ORzww47LudXnh-2BeboBUGDZJ4-2FKwVx1XOd?=
+ =?us-ascii?Q?f6FhjWcQ19RoQX-2F9GNP5Q5s98b-2BOzF8QTcD?=
+ =?us-ascii?Q?QUqv-2BEQ-2BFxQx9KNAfmWqsEQjVR6ZWIq-2Bg?=
+ =?us-ascii?Q?dw2prhNiYfsZVn9EWXnEkt9FSqVdpOe-2FznuFW?=
+ =?us-ascii?Q?gXEfdvmQ6CE6h0-2FfSldssZsjBhxfH87xwB0zJ?=
+ =?us-ascii?Q?G0HqdGkhdsdInZ-2BerliYLacBsmTs0JRNAdsfe?=
+ =?us-ascii?Q?jJc8SAM6JzJAVgqO7oR-2BMxoTY6H4oPhzO3dcR?=
+ =?us-ascii?Q?cz-2FiqxIoJsuCILklVsoGuiNtxCCHMp0gYJQwJ?=
+ =?us-ascii?Q?rC51GJYXLlwYaRGOQK-2FeCAOhhKm2F-2FyYqWg?=
+ =?us-ascii?Q?7P2ajWZh1ym-2BlGP3GvmE5ytwq-2BvzbXrUilh?=
+ =?us-ascii?Q?cxAhSby3am71kYku-2FNt-2FXXXBfxshyfwoDZI?=
+ =?us-ascii?Q?bPKKZdcZkvljcYaYlgg1cIyj2UBZcRHJ6BYMVCL?=
+ =?us-ascii?Q?2Pf1dRA-2BTNVb3F71r9TaxhDbJiJ1us-2BtMvd?=
+ =?us-ascii?Q?McoSi3sn8iJOM-2FpF3j-2BcoKXJB3KwcAm9879?=
+ =?us-ascii?Q?ioFzAlBeORyhTA6Zv0GiEtdQZVfFnwKJswi-2BM?=
+ =?us-ascii?Q?S-2BH5jYH3h-2BMmBtwScOhy5WqR-2FdfmQdDaj?=
+ =?us-ascii?Q?o9kZQ-2Bqbv8ZX0an4-3D=2Fu001=2EqzuWriUg=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ek0Uqv0mzZMw=2FmLo+YRGQtLGmI5DcWnU6V39DcqwWPiNpLCQEwqgsmDJ=2FL?=
+ =?us-ascii?Q?tdr0Jb0hL9=2F1eeXjg8NB2f3zZacUdDyrA2DOdJg?=
+ =?us-ascii?Q?Zwdr4Pfq7d6LpXhfiH6o5cE8e8VHVq0+kK5p3ws?=
+ =?us-ascii?Q?MnhU+GHJ40eDxHHQOZnNN9PTKoRGwO5LjBq4l9=2F?=
+ =?us-ascii?Q?DMvyyun+KjzPG=2FQvAdpSwXiRYGB+ThC3nMQhzAW?=
+ =?us-ascii?Q?ghqr75EqOCUOU1RbOQlnwu0R4LAUXW0kAkqGsul?= =?us-ascii?Q?vjal?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsXIZGQPnyacDXYtZnaXV2gXiXp?=
+ =?us-ascii?Q?OYETRmXW++6Lrm+Mg6hzQDzCulP7wUOmPFOGsCs?=
+ =?us-ascii?Q?vIhV83HnUxZs=2FSDkvFlC1nb5OkZOoa=2FN7ICu0xi?=
+ =?us-ascii?Q?jO3JgCPeBr3KvHEcYjXWjzYWJU26CZgsgidrXRa?=
+ =?us-ascii?Q?QeFZBX=2FH5QrXG03YwtsGPutl1Gt05gnfro+qUWL?=
+ =?us-ascii?Q?xykHAFJ2z84JEbsQ1w0kJbjl04zx1oaSZzVMGjC?=
+ =?us-ascii?Q?aDlYR6i0sprTvhwvmf3WAw0+=2FATWaAtNAAvlRRq?=
+ =?us-ascii?Q?G7a9W1lHrsZy0266sP7d4Seu4QT9akQ6fWtkKU5?=
+ =?us-ascii?Q?PHj5BY0yOY2AKomn0=2FIj3T=2FSTAQPcpot2FKlePp?=
+ =?us-ascii?Q?+tioPIGQaLfmX3+ubhb+BxJMthSJEfkL2UaawtA?=
+ =?us-ascii?Q?eAUcbyxxgd7B5o2HNS1iXaXrYAGMF85xAl6gEHn?=
+ =?us-ascii?Q?Upi=2F4YAhZ9+RYTFTjVRX4ora2pq9DlbtVB4qn+7?=
+ =?us-ascii?Q?OG4gdsmZ2AsddwAk1nDEQzKIsmy8ZMYa=2FbpnPop?=
+ =?us-ascii?Q?6olAP+LEjMQTpuu3nddm93UwrIwjsdfXRdz+0=2FK?=
+ =?us-ascii?Q?PL+d+vNwQHAtLWeqmClfPqVwmn2iceuRxA4qeiE?=
+ =?us-ascii?Q?jGkm1iQkPTS2gf0T62obeIvwtuL5yeYt7Ou2LA8?=
+ =?us-ascii?Q?qgL=2FvGDT29af4Dr1Ub5ps+EgtEBh4iw=3D=3D?=
+To: peter.bagh@oldendorff.com
+X-Entity-ID: u001.IF/iC39Wh0XO92sSLf3yuQ==
+
+--d975de2a6a96edf22bd7ec30946018c886357901e9b8561c8bac15a85818
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+Signed Cloud Document
+
+You've received a Secured Document
+
+To view your secure message, Follow the Document Portal below and follow th=
+e instructions,
+Sign in using your email address to access your secured Document.
+
+Document Title : ""2025_Payment/transfer_Plan.pdf""
+
+Preview Secured Document Here ( https://repositorio.una.edu.ni/cgi/set_lang=
+?lang=3Des&referrer=3Dhttps://shareddocumentservice-delivery.es/XXlB/shared=
+-document/#peter.bagh@oldendorff.com )
+
+Do Not Share This Email
+To ensure the security of your data, do not share the links or forward this=
+ email to others.
+
+Processed by Norton Anti-virus,=A0 Signed
+View Document On Adobe Online PDF ( https://repositorio.una.edu.ni/cgi/set_=
+lang?lang=3Des&referrer=3Dhttps://shareddocumentservice-delivery.es/XXlB/sh=
+ared-document/#peter.bagh@oldendorff.com )
+
+Unsubscribe ( https://u50783561.ct.sendgrid.net/wf/unsubscribe?upn=3Du001.7=
+J7foyXINpLlCwX3Y0jW0RskpRFO2KHPPXD1l5VUU56xs31Vqdcwlcx-2BZYroisDUtrEQ7mxGJm=
+tp8-2F1ODQNN-2F-2FucWifWedHHGqkr-2BKODnsnMD5nWxDQjWWI2rkdEGBXTEdvF5UHGrmkqh=
+vhSIVA09KvSENHQVUCI6Uf796esVjol7qEahVjCI-2BbcLUA8mWeONGyfB-2BVirkYTo-2BRCQi=
+TZyqf-2BzfmiWPXsTvEPfgeysz08GW3FIOcgEgVVgw2e49gnhf3FaEqI8rJ5XfUZQhrahkfE2tv=
+bJWneeiGW0i5hjdxS49QTgZ2S4J5R1JDcqSI27QizaWBygsBjx8NqdOW2EeVs-2F1RZIJ3usmWC=
+x0dT-2Fh-2FlYzang4TsFQYHvF3uaSBLBCAJ6KR3eVgQLk1VwerHCL446c31lIOiV-2BG-2FdyI=
+XjIxOna9PzVlc-2Bga59D6CQSO0KcuNzP6EZJYsDV0PV87V-2FvbhPzcOalT2l4-2FTlpL3-2Bb=
+EvV-2B9jjAbIwCRd8nGL2jI073MAAlUb44ZIL4EMSpuzQNMTEDG2SbgETDny3nDLgMgEjaKZCDr=
+CpCl8GP-2Fj9NGgGscdOqs3XgqMDKH3y8ctyVYQ2yoGcseC1lSeUzQ0DZxm-2F9aRDi4ygPaIG8=
+ChQc2cp8ByLChgdhJpZ3q5xq1tXL5tud3rN31vnBSuLGcM0ieXxZGmvmpIouC8SGS-2Bc-2BX13=
+ej9ETzYXmsE9RxA83nepL4vy5qQTcBehG-2FKMT6R2zHfwD7TCxh8kuLMH6g3yWALfmM9HaDmyt=
+SzpstmFV4EyIdSr-2BH8JRkVv5v4m4UBdOJ-2F3Ehh0T1QqncG-2B9Eys0zq5pVFlzEKHx9KjdV=
+zXJRaDy-2FynYRKM8onrYOpuN5OntSohSh3MuAujJPlhKsFxb0PKb0xsAL4RBKLKIpVk-2FRASy=
+GyIjr58c4ThnUMEBusaIwQrOVM29ZEONu33vA76neufdFOFot3dM-2FJongWODWn4agZWYv1NtO=
+627CxCeiyvBw-3D ) - Unsubscribe Preferences ( https://u50783561.ct.sendgrid=
+.net/wf/unsubscribe?upn=3Du001.7J7foyXINpLlCwX3Y0jW0RskpRFO2KHPPXD1l5VUU56x=
+s31Vqdcwlcx-2BZYroisDUtrEQ7mxGJmtp8-2F1ODQNN-2F-2FucWifWedHHGqkr-2BKODnsnMD=
+5nWxDQjWWI2rkdEGBXTEdvF5UHGrmkqhvhSIVA09KvSENHQVUCI6Uf796esVjol7qEahVjCI-2B=
+bcLUA8mWeONGyfB-2BVirkYTo-2BRCQiTZyqf-2BzfmiWPXsTvEPfgeysz08GW3FIOcgEgVVgw2=
+e49gnhf3FaEqI8rJ5XfUZQhrahkfE2tvbJWneeiGW0i5hjdxS49QTgZ2S4J5R1JDcqSI27QizaW=
+BygsBjx8NqdOW2EeVs-2F1RZIJ3usmWCx0dT-2Fh-2FlYzang4TsFQYHvF3uaSBLBCAJ6KR3eVg=
+QLk1VwerHCL446c31lIOiV-2BG-2FdyIXjIxOna9PzVlc-2Bga59D6CQSO0KcuNzP6EZJYsDV0P=
+V87V-2FvbhPzcOalT2l4-2FTlpL3-2BbEvV-2B9jjAbIwCRd8nGL2jI073MAAlUb44ZIL4EMSpu=
+zQNMTEDG2SbgETDny3nDLgMgEjaKZCDrCpCl8GP-2Fj9NGgGscdOqs3XgqMDKH3y8ctyVYQ2yoG=
+cseC1lSeUzQ0DZxm-2F9aRDi4ygPaIG8ChQc2cp8ByLChgdhJpZ3q5xq1tXL5tud3rN31vnBSuL=
+GcM0ieXxZGmvmpIouC8SGS-2Bc-2BX13ej9ETzYXmsE9RxA83nepL4vy5qQTcBehG-2FKMT6R2z=
+HfwD7TCxh8kuLMH6g3yWALfmM9HaDmytSzpstmFV4EyIdSr-2BH8JRkVv5v4m4UBdOJ-2F3Ehh0=
+T1QqncG-2B9Eys0zq5pVFlzEKHx9KjdVzXJRaDy-2FynYRKM8onrYOpuN5OntSohSh3MuAujJPl=
+hKsFxb0PKb0xsAL4RBKLKIpVk-2FRASyGyIjr58c4ThnUMEBusaIwQrOVM29ZEONu33vA76neuf=
+dFOFot3dM-2FJongWODWn4agZWYv1NtO627CxCeiyvBw-3D )
+--d975de2a6a96edf22bd7ec30946018c886357901e9b8561c8bac15a85818
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+    <body>
+    <body>
+<table
+ style=3D""margin: 0px; padding: 0px; color: rgb(33, 33, 33); font-family: w=
+f_segoe-ui_normal,&quot;Segoe UI&quot;,&quot;Segoe WP&quot;,Tahoma,Arial,sa=
+ns-serif,serif,EmojiFont; font-size: 15px; font-style: normal; font-weight:=
+ 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform=
+: none; white-space: normal; widows: 2; word-spacing: 0px; background-color=
+: rgb(255, 255, 255); border-collapse: collapse; height: 452.667px; width: =
+730px;""
+ align=3D""center"" border=3D""0"" cellpadding=3D""0""
+ cellspacing=3D""0"" height=3D""100%"" width=3D""100%"">
+  <tbody>
+    <tr>
+      <td
+ style=3D""margin: 0px; padding: 15px 5px; height: 422.667px; width: 720px;""
+ align=3D""center"" valign=3D""top"">
+      <table style=3D""width: 600px; border-collapse: collapse;""
+ border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"">
+        <tbody>
+          <tr style=3D""font-weight: bold;"">
+            <td align=3D""center"" valign=3D""top"">
+            <table
+ style=3D""border-bottom: 0px solid rgb(206, 212, 218); background-color: rg=
+b(232, 239, 246); border-collapse: collapse;""
+ border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0""
+ width=3D""100%"">
+              <tbody>
+                <tr>
+                  <td
+ style=3D""padding: 10px 20px; color: rgb(0, 8, 61); font-family: Helvetica;=
+ font-size: 12px; line-height: 15px; text-align: center;""
+ valign=3D""top""><big>Signed Cloud Document</big></td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td align=3D""center"" valign=3D""top""><br>
+            </td>
+          </tr>
+          <tr>
+            <td align=3D""center"" valign=3D""top"">
+            <table
+ style=3D""border-top: 0px solid rgb(255, 255, 255); border-bottom: 0px soli=
+d rgb(204, 204, 204); background-color: rgb(249, 249, 249); border-collapse=
+: collapse;""
+ border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0""
+ width=3D""100%"">
+              <tbody>
+                <tr>
+                  <td
+ style=3D""padding: 20px; color: rgb(0, 8, 61); font-family: Helvetica; font=
+-size: 14px; line-height: 21px; text-align: left;""
+ valign=3D""top"">
+                  <p><big><span
+ style=3D""font-weight: bold;"">You've received a Secured Document</span></bi=
+g><br>
+                  <br>
+To view your secure message, Follow the Document Portal below and
+follow the instructions, <br>
+Sign in using your email address to access your secured Document.<br>
+                  <br>
+Document Title : ""2025_Payment/transfer_Plan.pdf""<br>
+                  <br>
+                  <a
+ href=3D""https://u50783561.ct.sendgrid.net/ls/click?upn=3Du001.4LHqU4BMJu4S=
+3WHsQ-2ByDkckKc-2FNbLSdqfZkwklSyOj617nlRYxzeDaLeem9ayndMLe-2FNLkoKIwTCebBtT=
+2BvR0v-2B0DlKxnnf5CE0qxlQrFjOdBsKWvZeL7-2BOCZT4kPiWSkPHJSriQK5BKXJcxBwdbuGm=
+Otl6-2Bqpuy75jHi0HJ-2BxtchmRTKDaKGW29fhQMXE1SMZzvdqczYfhclo8591RoQ-3D-3DDbu=
+l_7tKkve0pPj06aVCwrllSgWhlmjiH9woGc93eMcdHZYmUGXGQy2ykWvWEdVibiVK6Xat4kMUbO=
+pGaDYwAxi2Ni3bn2uZAIQT9crqHZCNehYekYF3EHs-2B0uPnaq0MjkWm7WJIiYECW5zOxFIxQXQ=
+7-2BhzJ2T3cDtGOhtL-2BG4cope27iM6Jf1WU47CbrUTN1MrAcMKPVQHh-2BJK1-2BEnWwC9Tif=
+TCMtlkSiSzItl-2Bga0H8c2KzNJyjEiYv5a-2BpCyF-2FJoF-2F1wNNqijlNdC5MbtBMXARIxkU=
+4N2eJkI8im9d3zkEUY-2BONOIEjm-2BLNre5NUlINQat3vd6U9Gw56isav7oEUKFQmC-2Fvkejm=
+o5MdfgUlJ-2FH6JyfIu6r2PK46X3I2sQ9vH3ny7XFVsNsv48NjdElMjT7Kmxh9KF-2FK2b1RvsX=
+bGPx6YLyueBQOYoOZ5HhpNTwiFBJGzCB2mSqLH7d3HcmY1tzvXm6SdF5ZkaaJr6mtI3071rZN-2=
+FJcOQ3HljEA2Oc6x0Hfl-2F2T4sJ-2BQYmIwqzo5Omt61yro14y57HcNbJnFbjVRUXJjWZeoTlT=
+MGfFiP4N75W48qwJVZy49Wk2CX0lD31VBwaMowcpzxr7IVt-2BlYuocTz-2Bu1DN-2FfGBrntvE=
+1ZFcuJCrOrR2bHlSaOA7G-2FdvKsHHK2S0XP6Er4Tp2t4We9d4udOLD9BmJA30LLho0tgcqSKs-=
+2FbUdlvY6r2OaakP5w8C75U4oMvaknXQ7Q8fYsExUDK-2BXd67hqrmB1mmd-2FGJzw9RtENnfUZ=
+C6gMx-2BO-2FiS5xC76pgZCnoim18bihklhiu5lpx1n5NC0JXTBkpzUmDzUzujrj1tzxtN1wuAE=
+Z8-2B40bHdv-2FaK0evTXsb33eJfld30fgzsbfoCXEtl4l2RpgtLIKRXLkUizqBuzpG8lgsBWJx=
+nyXaetKO12lbzzttJQWA2Gp1a5kF6W99fh5p-2FfBPXMiXbW7dgxV-2Fwo9BRgS-2FMHlYw-3D-=
+3D""
+ target=3D""_blank"" rel=3D""noopener noreferrer""
+ style=3D""padding: 10px 35px; background: rgb(2, 6, 168) none repeat scroll=
+ 0%; text-decoration: none; -moz-background-clip: initial; -moz-background-=
+origin: initial; -moz-background-inline-policy: initial; color: rgb(255, 25=
+5, 255); font-size: 14px; text-align: center;"">Preview Secured
+Document Here</a><br>
+                  </p>
+                  <hr
+ style=3D""border: 0.5px solid rgb(232, 239, 246); width: 560px; margin-top:=
+ 30px;""><br>
+                  <span
+ style=3D""font-weight: bold; font-family: Helvetica,serif,EmojiFont;"">Do
+Not Share This Email</span><br>
+To ensure the security of your data, do not share the links or forward
+this email to others.
+                  <p></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td align=3D""center"" valign=3D""top"">
+            <table
+ style=3D""border-top: 0px solid rgb(255, 255, 255); background-color: rgb(2=
+32, 239, 246); border-collapse: collapse;""
+ border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0""
+ width=3D""100%"">
+              <tbody>
+                <tr>
+                  <td
+ style=3D""padding: 20px; color: rgb(0, 8, 61); font-family: Helvetica; font=
+-size: 12px; line-height: 18px; text-align: left;""
+ valign=3D""top"">
+                  <div
+ style=3D""float: left; vertical-align: top; font-family: Helvetica,serif,Em=
+ojiFont;"">Processed
+by Norton Anti-virus,&nbsp; Signed</div>
+                  <a href=3D""https://u50783561.ct.sendgrid.net/ls/click?upn=
+=3Du001.4LHqU4BMJu4S3WHsQ-2ByDkckKc-2FNbLSdqfZkwklSyOj617nlRYxzeDaLeem9aynd=
+MLe-2FNLkoKIwTCebBtT2BvR0v-2B0DlKxnnf5CE0qxlQrFjOdBsKWvZeL7-2BOCZT4kPiWSkPH=
+JSriQK5BKXJcxBwdbuGmOtl6-2Bqpuy75jHi0HJ-2BxtchmRTKDaKGW29fhQMXE1SMZzvdqczYf=
+hclo8591RoQ-3D-3DyGaU_7tKkve0pPj06aVCwrllSgWhlmjiH9woGc93eMcdHZYmUGXGQy2ykW=
+vWEdVibiVK6Xat4kMUbOpGaDYwAxi2Ni3bn2uZAIQT9crqHZCNehYekYF3EHs-2B0uPnaq0MjkW=
+m7WJIiYECW5zOxFIxQXQ7-2BhzJ2T3cDtGOhtL-2BG4cope27iM6Jf1WU47CbrUTN1MrAcMKPVQ=
+Hh-2BJK1-2BEnWwC9TifTCMtlkSiSzItl-2Bga0H8c2KzNJyjEiYv5a-2BpCyF-2FJoF-2F1wNN=
+qijlNdC5MbtBMXARIxkU4N2eJkI8im9d3zkEUY-2BONOIEjm-2BLNre5NUlINQat3vd6U9Gw56i=
+sav7oEUKFQmC-2Fvkejmo5MdfgUlJ-2FH6JyfIu6r2PK46X3I2sQ9vH3ny7XFVsNsv48NjdElMj=
+T7Kmxh9KF-2FK2b1RvsXbGPx6YLyueBQOYoOZ5HhpNTwiFBJGzCB2mSqLH7d3HcmY1tzvXm6SdF=
+5ZkaaJr6mtI3071rZN-2FJcOQ3HljEA2Oc6x0Hfl-2F2T4sJ-2BQYmIwqzo5Omt61yro14y57Hc=
+NbJnFbjVRUXJjWZeoTlTMGfFiP4N75W48qwJVZy49Wk2CX0lD31VBwaMowcpzxr7IVt-2BlYuoc=
+Tz-2Bu1DN-2FfGBrntvE1ZFcuJCrOrR2bHlSaOA7G-2FdvKsHHK2S0XP6Er4Tp2t4We9d4udOLD=
+9BmJA30LLho0tgcqSKs-2FbUdlvY6r2OaakP5w8C75U4oMvaknXQ7Q8fYsExUDK-2BXd67hqrmB=
+1mmd-2FGJzw9RtENnfUZC6gMx-2BO-2FiS5xC76pgZCnoim18bihklhiu5lpx1n5NC0JXTBkpzU=
+mDzUzuENLZuf7AhkN1mzeonwgdJwl3UtvvxWyU0-2FeTmbVwg3fSPSm6M62NzGpfgUErfii6GeR=
+AM3g7osgiJb-2Fi7PpDkDwLgeNGsIAg7RgRhwwvjehjWwYN40OIFtFTb5b1DeIJX6z40177VzyM=
+ewrHY8prsQ-3D-3D""
+ target=3D""_blank"" rel=3D""noopener noreferrer""
+ style=3D""border: 1px solid rgb(2, 6, 168); padding: 5px 25px; background: =
+white none repeat scroll 0%; float: right; text-decoration: none; -moz-back=
+ground-clip: initial; -moz-background-origin: initial; -moz-background-inli=
+ne-policy: initial; color: rgb(2, 6, 168); font-size: 13px; margin-top: 4px=
+; text-align: center; font-weight: 500;"">View
+Document On Adobe Online PDF</a></td>
+                </tr>
+              </tbody>
+            </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u507835=
+61.ct.sendgrid.net/wf/unsubscribe?upn=3Du001.7J7foyXINpLlCwX3Y0jW0RskpRFO2K=
+HPPXD1l5VUU56xs31Vqdcwlcx-2BZYroisDUtrEQ7mxGJmtp8-2F1ODQNN-2F-2FucWifWedHHG=
+qkr-2BKODnsnMD5nWxDQjWWI2rkdEGBXTEdvF5UHGrmkqhvhSIVA09KvSENHQVUCI6Uf796esVj=
+ol7qEahVjCI-2BbcLUA8mWeONGyfB-2BVirkYTo-2BRCQiTZyqf-2BzfmiWPXsTvEPfgeysz08G=
+W3FIOcgEgVVgw2e49gnhf3FaEqI8rJ5XfUZQhrahkfE2tvbJWneeiGW0i5hjdxS49QTgZ2S4J5R=
+1JDcqSI27QizaWBygsBjx8NqdOW2EeVs-2F1RZIJ3usmWCx0dT-2Fh-2FlYzang4TsFQYHvF3ua=
+SBLBCAJ6KR3eVgQLk1VwerHCL446c31lIOiV-2BG-2FdyIXjIxOna9PzVlc-2Bga59D6CQSO0Kc=
+uNzP6EZJYsDV0PV87V-2FvbhPzcOalT2l4-2FTlpL3-2BbEvV-2B9jjAbIwCRd8nGL2jI073MAA=
+lUb44ZIL4EMSpuzQNMTEDG2SbgETDny3nDLgMgEjaKZCDrCpCl8GP-2Fj9NGgGscdOqs3XgqMDK=
+H3y8ctyVYQ2yoGcseC1lSeUzQ0DZxm-2F9aRDi4ygPaIG8ChQc2cp8ByLChgdhJpZ3q5xq1tXL5=
+tud3rN31vnBSuLGcM0ieXxZGmvmpIouC8SGS-2Bc-2BX13ej9ETzYXmsE9RxA83nepL4vy5qQTc=
+BehG-2FKMT6R2zHfwD7TCxh8kuLMH6g3yWALfmM9HaDmytSzpstmFV4EyIdSr-2BH8JRkVv5v4m=
+4UBdOJ-2F3Ehh0T1QqncG-2B9Eys0zqMsTCuUMm70ZZN18-2BwzcSjiH4jF4YV0Jp0rwmggHOzR=
+vOhUI7LzExxlhz05psQZGmQc5pl4KSyKu5PdWe6kvl8i32o0LBzemAok9ibEiWvMcPvSALtzgfu=
+KXbYIJUDU79p4I1vTIuVuhh4gpEhspMW4eeaJ-2ByscpvswTLwIN1tO8-3D"" target=3D""_bla=
+nk"" style=3D""font-family:sans-serif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""https://u50783561.ct.sendgrid.net/wf/unsubscribe?upn=
+=3Du001.7J7foyXINpLlCwX3Y0jW0RskpRFO2KHPPXD1l5VUU56xs31Vqdcwlcx-2BZYroisDUt=
+rEQ7mxGJmtp8-2F1ODQNN-2F-2FucWifWedHHGqkr-2BKODnsnMD5nWxDQjWWI2rkdEGBXTEdvF=
+5UHGrmkqhvhSIVA09KvSENHQVUCI6Uf796esVjol7qEahVjCI-2BbcLUA8mWeONGyfB-2BVirkY=
+To-2BRCQiTZyqf-2BzfmiWPXsTvEPfgeysz08GW3FIOcgEgVVgw2e49gnhf3FaEqI8rJ5XfUZQh=
+rahkfE2tvbJWneeiGW0i5hjdxS49QTgZ2S4J5R1JDcqSI27QizaWBygsBjx8NqdOW2EeVs-2F1R=
+ZIJ3usmWCx0dT-2Fh-2FlYzang4TsFQYHvF3uaSBLBCAJ6KR3eVgQLk1VwerHCL446c31lIOiV-=
+2BG-2FdyIXjIxOna9PzVlc-2Bga59D6CQSO0KcuNzP6EZJYsDV0PV87V-2FvbhPzcOalT2l4-2F=
+TlpL3-2BbEvV-2B9jjAbIwCRd8nGL2jI073MAAlUb44ZIL4EMSpuzQNMTEDG2SbgETDny3nDLgM=
+gEjaKZCDrCpCl8GP-2Fj9NGgGscdOqs3XgqMDKH3y8ctyVYQ2yoGcseC1lSeUzQ0DZxm-2F9aRD=
+i4ygPaIG8ChQc2cp8ByLChgdhJpZ3q5xq1tXL5tud3rN31vnBSuLGcM0ieXxZGmvmpIouC8SGS-=
+2Bc-2BX13ej9ETzYXmsE9RxA83nepL4vy5qQTcBehG-2FKMT6R2zHfwD7TCxh8kuLMH6g3yWALf=
+mM9HaDmytSzpstmFV4EyIdSr-2BH8JRkVv5v4m4UBdOJ-2F3Ehh0T1QqncG-2B9Eys0zqMsTCuU=
+Mm70ZZN18-2BwzcSjiH4jF4YV0Jp0rwmggHOzRvOhUI7LzExxlhz05psQZGmQc5pl4KSyKu5PdW=
+e6kvl8i32o0LBzemAok9ibEiWvMcPvSALtzgfuKXbYIJUDU79p4I1vTIuVuhh4gpEhspMW4eeaJ=
+-2ByscpvswTLwIN1tO8-3D"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribe=
+Preferences"" style=3D""font-family:sans-serif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""https://u50783561.ct.sendgrid.net/wf/open?upn=3Du001.7J7foy=
+XINpLlCwX3Y0jW0RskpRFO2KHPPXD1l5VUU56xs31Vqdcwlcx-2BZYroisDUtrEQ7mxGJmtp8-2=
+F1ODQNN-2F-2FucWifWedHHGqkr-2BKODnsnMD5nWxDQjWWI2rkdEGBXTEdvF5UHGrmkqhvhSIV=
+A09KvSENHQVUCI6Uf796esVjol7qEahVjCI-2BbcLUA8mWeONGyfB-2BVirkYTo-2BRCQiTZyqf=
+-2BzfmiWPXsTvEPfgeysz08GW3FIOcgEgVVgw2e49gnhf3FaEqI8rJ5XfUZQhrahkfE2tvbJWne=
+eiGW0i5hjdxS49QTgZ2S4J5R1JDcqSI27QizaWBygsBjx8NqdOW2EeVs-2F1RZIJ3usmWCx0dT-=
+2Fh-2FlYzang4TsFQYHvF3uaSBLBCAJ6KR3eVgQLk1VwerHCL446c31lIOiV-2BG-2FdyIXjIxO=
+na9PzVlc-2Bga59D6CQSO0KcuNzP6EZJYsDV0PV87V-2FvbhPzcOalT2l4-2FTlpL3-2BbEvV-2=
+B9jjAbIwCRd8nGL2jI073MAAlUb44ZIL4EMSpuzQNMTEDG2SbgETDny3nDLgMgEjaKZCDrCpCl8=
+GP-2Fj9NGgGscdOqs3XgqMDKH3y8ctyVYQ2yoGcseC1lSeUzQ0DZxm-2F9aRDi4ygPaIG8ChQc2=
+cp8ByLChgdhJpZ3q5xq1tXL5tud3rN31vnBSuLGcM0ieXxZGmvmpIouC8SGS-2Bc-2BX13ej9ET=
+zYXmsE9RxA83nepL4vy5qQTcBehG-2FKMT6R2zHfwD7TCxh8kuLMH6g3yWALfmM9HaDmytSzpst=
+mFV4EyIdSr-2BH8JRkVv5v4m4UBdOJ-2F3Ehh0T1QqncG-2B9Eys0zqb-2BYNIZYAdUH19ZexlU=
+8wuJAhYZvoJML08xaILjOEv22DlC7NwSREh4nPotNOu20Blqs1mVDCM-2BHPkkpiI-2FzPgU1a8=
+NlVvq-2BjMr-2BQTisf3GPqTpCs6m-2Fw0GHCvgm2W91k6X7Zg10OQY0zF03z3PZ9oA-3D-3D"" =
+alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !importa=
+nt;width:1px !important;border-width:0 !important;margin-top:0 !important;m=
+argin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importan=
+t;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !imp=
+ortant;padding-left:0 !important;""/></body>
+  </html>
+
+--d975de2a6a96edf22bd7ec30946018c886357901e9b8561c8bac15a85818--
+","""Documents"" <documents@domin0-uk.com>",peter.bagh@oldendorff.com,2025-03-04,44.214.78.206,United States,nl,users/50783561/c8a3417e-465c-4989-bd74-91f129344bc4.json
+50783561,tXGQA88iSLGnVv6JMTcZCg.recvd-69cbc48b94-k7868-1-67C64D8D-F.0,cHJvY2Vzc2VkLTUwNzgzNTYxLXRYR1FBODhpU0xHblZ2NkpNVGNaQ2ctMA,3/4/2025 11:47:09 a.m.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=domin0-uk.com;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=s1; bh=hu2sUK4GGrjMVNTlUreErndTLn27RjzwrGLIX1ZM9YU=;
+	b=ujGjI/Sl0MSSsQJ9CLD4/7pn1H02vikVZxqJV/BshNngY4Zfrjaq+cToBghOIGuGpP/Q
+	9/TpfwicV+C5DBoWDH1rnDHOdfnQwu9yfJ02Q7Q6ffGo3g7tXMKgcL9nuY/E3c4+CecuUg
+	jG3uv5tZgWqq0UAgOz4tB4tcVMW9GPkIS7KnTsCqN4nhsM2/+ndfUhPB7cKIcEZWa+80T8
+	YxDPoMEnYrhmC5Z1S287OVr0LcAeAFJHC9er55+3We10OXB4NEhfvYZeMXxf9isvjGR0Ri
+	SHogpgPUslChLdOe922WFXunxMjiWtNL/USWj0o1Cwu4SwWzDddMTrFwRFkWp7Tw==
+Received: by recvd-69cbc48b94-k7868 with SMTP id recvd-69cbc48b94-k7868-1-67C64D8D-F
+	2025-03-04 00:47:09.784710329 +0000 UTC m=+9429931.839465957
+Received: from ec2-18-188-76-1.us-east-2.compute.amazonaws.com (unknown)
+	by geopod-ismtpd-11 (SG) with ESMTP id tXGQA88iSLGnVv6JMTcZCg
+	for <karina.noviandari@kompas.tv>; Tue, 04 Mar 2025 00:47:09.607 +0000 (UTC)
+From: fleep <documents@domin0-uk.com>
+Subject: 3/4/2025 11:47:09 a.m.
+Date: Tue, 04 Mar 2025 00:47:09 +0000 (UTC)
+Message-ID: <20250304114709.D9B45E8796A0CF69@domin0-uk.com>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E1SDPcQdKSb05k7GMdWr0C3JUnAZ4Kp6smbVQdLuK6GDrXIAJBv1oXptr5?=
+ =?us-ascii?Q?YGcRzGz10sbNvu72ckOqSpHQpV6DAMiEHWSbMOR?=
+ =?us-ascii?Q?h55JvfFrnoet1rGsQlFJIsNZ9go806kxBFItDWx?=
+ =?us-ascii?Q?GVC1U=2FpNO+fo74b2ebyIaCQwv5J0fUzFlWS0Dt6?=
+ =?us-ascii?Q?i3E+rOxTRlz8sV+J=2FvtS+3Qxsr0VmIZATz57Tdm?=
+ =?us-ascii?Q?EukECidcKfTNL0dqdp5=2FKHxtN6I=2FXuCERNhn9j2?=
+ =?us-ascii?Q?viZa?=
+To: karina.noviandari@kompas.tv
+X-Entity-ID: u001.IF/iC39Wh0XO92sSLf3yuQ==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML>
+
+<html><head><title></title>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+</head>
+<body style=3D""margin: 0.4em; font-size: 14pt;"">
+<div>Howdy today</div>
+
+
+<img src=3D""https://u50783561.ct.sendgrid.net/wf/open?upn=3Du001.sEzooF6Pbn=
+Lgb-2F0k60g6APn6q4jg5sWZEXmQfxZ8-2FWOPJRyIqS0sMCqAAL1yvQ0DauwX-2FcQBS3GMDfY=
+1ORzL-2B9nTn6LmRfbJf1wtLvTZAqiFEwjSWPggVcQPyO1pKZnY6mdpg2u37LXZOK9iFrzuSVog=
+5JXaIaPUm6hODHFg450raKb8Bk10P019O0H6j38h8IsLPOYbLY8nWYd9gXlM46q3tsTDcHyXvfk=
+LCEti9QM-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height=
+:1px !important;width:1px !important;border-width:0 !important;margin-top:0=
+ !important;margin-bottom:0 !important;margin-right:0 !important;margin-lef=
+t:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding=
+-right:0 !important;padding-left:0 !important;""/></body></html>
+","""fleep"" <documents@domin0-uk.com>",karina.noviandari@kompas.tv,2025-03-03,18.188.76.1,United States,sk,users/50783561/a43b8002-beed-4651-a7c6-3517769ff863.json

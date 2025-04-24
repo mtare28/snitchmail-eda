@@ -1,0 +1,1026 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51381317,0zrtz9lLSnmHxF-z8WthJA.recvd-69cbc48b94-2tgq2-1-67DACDC2-20.0,cHJvY2Vzc2VkLTUxMzgxMzE3LTB6cnR6OWxMU25tSHhGLXo4V3RoSkEtMA,L'assurance de dix ans de tranquillité pour vos constructions,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=prodeals.ebookszen.fr;
+	h=subject:from:mime-version:reply-to:to:content-type:cc:content-type:
+	from:subject:to;
+	s=s1; bh=J/z8bsarzoRNS/t79+TUUkr3rRPY/GX3NtAZXqbQcXI=;
+	b=UkfLTORY7qiPQiDd+uTiAi6Jyg+0JK5vSmPis78hXcbrkNbbFkwZju6KrsB+TBhp4o06
+	sCiu1lnWLemO7NyNyKQmcGl0UR2+/9fZmiAhKcPnt3H3kWeNhnI0s9UpHLX8N1dNWiZs9f
+	gBNRus50PB1vjLhKTtVKRsiPbSNm3NkU2FUJoSWF8j2E8olcwcbAgSLeXbNbcM2REqFVEA
+	l8OTI6ae2Rhn/v5VyohaFx7ObtOadg+zOg/c9VIjNsVqwkOrJMeSqEk/JC/OWPKWwqVa4E
+	RQwWsIqZX6GefA5DIBCFS30QXzNdWd73RYuayBVYTtzPGJ6gAPkrmkbxAiXnGQrA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=subject:from:mime-version:reply-to:to:content-type:cc:content-type:
+	from:subject:to;
+	s=smtpapi; bh=J/z8bsarzoRNS/t79+TUUkr3rRPY/GX3NtAZXqbQcXI=;
+	b=Y4zSh8oee2aW9Lk/FQ26QziV2IKtXch2a6f47UZapskYTA5PfqgHXw15EgIUExsDtzys
+	qTQN7jzXjNmpQNL394/mIlc4250DBHNO9ZTFFn2l/V3gV12aAZ217RdWXKCO6QGs5FJ6E3
+	w/oEYTjQIG3HbHtNBE+XD1i1pOH7R9gR8=
+Received: by recvd-69cbc48b94-2tgq2 with SMTP id recvd-69cbc48b94-2tgq2-1-67DACDC2-20
+	2025-03-19 13:59:30.982932963 +0000 UTC m=+10773494.312665971
+Received: from mail (unknown)
+	by geopod-ismtpd-3 (SG) with ESMTP
+	id 0zrtz9lLSnmHxF-z8WthJA
+	for <samy_guenifi@yahoo.fr>;
+	Wed, 19 Mar 2025 13:59:30.901 +0000 (UTC)
+Subject: L'assurance de dix ans de =?UTF-8?Q?tranquillit=C3=A9?= pour vos
+ constructions
+From: Alice <Michel@prodeals.ebookszen.fr>
+Message-ID: <d144b6d39ed22c34454a14ae70bdb41e1f2d99ff@prodeals.ebookszen.fr>
+MIME-Version: 1.0
+Date: Wed, 19 Mar 2025 13:59:31 +0000 (UTC)
+Reply-To: Alice <Michel@prodeals.ebookszen.fr>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EkCKdf24gqumx9CvMH9WsLtyaMaKDyPOC86p8oGjtv7YMYRdjTbzzYT5Ke?=
+ =?us-ascii?Q?6YTc0SUZ8vND21VjOXYy+45rTSKOQgk4t+xYcHq?=
+ =?us-ascii?Q?e0fSA19bC8RJVndanG5GxCaDFZ4ndtljEn4atSJ?=
+ =?us-ascii?Q?EQS3FtvzAm9c7Mu4lNvgvwnhknaaneeJS93ztwH?=
+ =?us-ascii?Q?1zOXTvu135fboxlvmU9=2FA5p8z0l60QJoO=2F3mh85?=
+ =?us-ascii?Q?kdg84GYnkAv3orYux9eUOY2uYmwuoNg3XxuSwEb?= =?us-ascii?Q?ptnd?=
+To: ""samy_guenifi@yahoo.fr"" <samy_guenifi@yahoo.fr>
+X-Entity-ID: u001.NUo6SaYrCOg6ZAotvX7k3A==
+Content-Type: multipart/alternative; boundary=Z5s3kihR
+
+--Z5s3kihR
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+Vous avez le droit de vous d=C3=A9sabonner de nos newsletters =C3=A0 tout
+moment. Se d=C3=A9sabonner
+Vous ne souhaitez plus recevoir d'emails de ce type ?
+Un contenu vous semble inappropri=C3=A9 ?=C2=A0Cliquez ici
+[https://t.economisezplus.site/index.php/campaigns/ze682qpwcfa80/track-url/=
+ah212xhjv8231/3e246da2450d96a8f7b2dbf9d21f0cab05b7fd95]
+=C2=A0pour nous le signaler.=20
+
+[LOGO-SIMULATION]
+[https://t.economisezplus.site/index.php/campaigns/ze682qpwcfa80/track-url/=
+ah212xhjv8231/c7ca4706ac9d739145c31ea01ca6cddc93a81337]
+
+, NE LAISSEZ PAS LES IMPR=C3=89VUS COMPROMETTRE VOTRE ACTIVIT=C3=89 !
+PROT=C3=89GEZ VOTRE SAVOIR-FAIRE AVEC LA BONNE ASSURANCE D=C3=89CENNALE
+
+ 		=C2=A0
+
+ =C2=A0=20
+
+Un sinistre peut mettre en p=C3=A9ril des ann=C3=A9es de travail.
+L=E2=80=99assurance d=C3=A9cennale vous permet de travailler l=E2=80=99espr=
+it
+tranquille et de garantir la solidit=C3=A9 de vos r=C3=A9alisations.
+
+Acc=C3=A9dez aux meilleures solutions en quelques instants.
+[https://t.economisezplus.site/index.php/campaigns/ze682qpwcfa80/track-url/=
+ah212xhjv8231/c7ca4706ac9d739145c31ea01ca6cddc93a81337]
+
+GARANTIE OBLIGATOIRE POUR LE BTP, L=E2=80=99ASSURANCE D=C3=89CENNALE COUVRE=
+ LES
+D=C3=89FAUTS STRUCTURELS ET ASSURE LA P=C3=89RENNIT=C3=89 DES ENTREPRISES F=
+ACE AUX
+RISQUES LI=C3=89S AUX CONSTRUCTIONS.
+=C2=A0
+
+ 		=C3=89valuez les meilleures formules selon votre m=C3=A9tier !
+[https://t.economisezplus.site/index.php/campaigns/ze682qpwcfa80/track-url/=
+ah212xhjv8231/c7ca4706ac9d739145c31ea01ca6cddc93a81337]
+
+ Merci de votre confiance,=C2=A0
+L'=C3=89QUIPE ECONOMISEZPLUS
+
+=C2=A0=20
+
+, en tant qu'abonn=C3=A9, vous recevez nos e-mails =C3=A0 l'adresse
+samy_guenifi@yahoo.fr.
+
+Cliquez sur le lien Se d=C3=A9sabonner
+[https://t.economisezplus.site/index.php/campaigns/ze682qpwcfa80/track-url/=
+ah212xhjv8231/0a9d9d872bc9228a07227c39bf234b7a1eeecfa5]=C2=A0pour
+vous d=C3=A9sinscrire.
+
+ =C2=A9 2025 -=C2=A0ah212xhjv8231- AssurerMonAvenir=C2=A0
+=C2=A0
+110 Rue de Rivoli=C2=A0
+Paris - 75001=C2=A0
+=C2=A0
+Vous ne souhaitez plus recevoir d'emails de ce type ?
+Cliquez ici
+[https://t.economisezplus.site/index.php/campaigns/ze682qpwcfa80/track-url/=
+ah212xhjv8231/3e246da2450d96a8f7b2dbf9d21f0cab05b7fd95]=C2=A0pour
+nous le signaler.=20
+
+=20=
+
+--Z5s3kihR
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""https://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" lang=3D""fr"" xmlns=3D""https://www.w3.org/1999/xhtml"" xmlns=
+:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><meta charset=3D""UTF-8""><meta content=3D""width=3Ddevice-width, initia=
+l-scale=3D1"" name=3D""viewport""><meta name=3D""x-apple-disable-message-reform=
+atting""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><meta co=
+ntent=3D""telephone=3Dno"" name=3D""format-detection"">
+	<title>L'assurance de dix ans de tranquillit=C3=A9 pour vos constructions<=
+/title>
+	<!--[if (mso 16)]><style type=3D""text/css"">     a {text-decoration: none;}=
+     </style><![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !i=
+mportant; }</style><![endif]--><!--[if gte mso 9]><xml> <o:OfficeDocumentSe=
+ttings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o=
+:OfficeDocumentSettings> </xml>
+<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css2?family=3DOswald:wght@500&d=
+isplay=3Dswap"" rel=3D""stylesheet"" /><!--<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css?family=3DOpen+Sans:400,400i=
+,700,700i"" rel=3D""stylesheet"" /><!--<![endif]-->
+	<style type=3D""text/css"">#outlook a { padding:0;}.es-button { mso-style-pr=
+iority:100!important; text-decoration:none!important;}a[x-apple-data-detect=
+ors] { color:inherit!important; text-decoration:none!important; font-size:i=
+nherit!important; font-family:inherit!important; font-weight:inherit!import=
+ant; line-height:inherit!important;} .es-desk-hidden { display:none; float:=
+left; overflow:hidden; width:0; max-height:0; line-height:0; mso-hide:all;}=
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:=
+150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important =
+} h1 { font-size:24px!important; text-align:center!important }
+ h2 { font-size:20px!important; text-align:center!important } h3 { font-siz=
+e:18px!important; text-align:center!important } .es-header-body h1 a, .es-c=
+ontent-body h1 a, .es-footer-body h1 a { font-size:24px!important; text-ali=
+gn:center!important } .es-header-body h2 a, .es-content-body h2 a, .es-foot=
+er-body h2 a { font-size:20px!important; text-align:center!important } .es-=
+header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:1=
+8px!important; text-align:center!important } .es-menu td a { font-size:16px=
+!important } .es-header-body p, .es-header-body ul li, .es-header-body ol l=
+i, .es-header-body a { font-size:16px!important } .es-content-body p, .es-c=
+ontent-body ul li, .es-content-body ol li, .es-content-body a { font-size:1=
+6px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body o=
+l li, .es-footer-body a { font-size:16px!important }
+ .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a=
+ { font-size:16px!important } *[class=3D""gmail-fix""] { display:none!importa=
+nt } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-ali=
+gn:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-tx=
+t-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-tx=
+t-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m=
+-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border =
+{ display:inline-block!important } a.es-button, button.es-button { font-siz=
+e:16px!important; display:inline-block!important } .es-adaptive table, .es-=
+left, .es-right { width:100%!important } .es-content table, .es-header tabl=
+e, .es-footer table, .es-content, .es-footer, .es-header { width:100%!impor=
+tant; max-width:600px!important } .es-adapt-td { display:block!important; w=
+idth:100%!important }
+ .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padd=
+ing:0!important } .es-m-p0r { padding-right:0!important } .es-m-p0l { paddi=
+ng-left:0!important } .es-m-p0t { padding-top:0!important } .es-m-p0b { pad=
+ding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-=
+mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.=
+es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visib=
+le!important; float:none!important; max-height:inherit!important; line-heig=
+ht:inherit!important } tr.es-desk-hidden { display:table-row!important } ta=
+ble.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { dis=
+play:table-cell!important } .es-menu td { width:1%!important } table.es-tab=
+le-not-adapt, .esd-block-html table { width:auto!important } table.es-socia=
+l { display:inline-block!important } table.es-social td { display:inline-bl=
+ock!important }
+ .es-desk-hidden { display:table-row!important; width:auto!important; overf=
+low:visible!important; max-height:inherit!important } .es-m-p5 { padding:5p=
+x!important } .es-m-p5t { padding-top:5px!important } .es-m-p5b { padding-b=
+ottom:5px!important } .es-m-p5r { padding-right:5px!important } .es-m-p5l {=
+ padding-left:5px!important } .es-m-p10 { padding:10px!important } .es-m-p1=
+0t { padding-top:10px!important } .es-m-p10b { padding-bottom:10px!importan=
+t } .es-m-p10r { padding-right:10px!important } .es-m-p10l { padding-left:1=
+0px!important } .es-m-p15 { padding:15px!important } .es-m-p15t { padding-t=
+op:15px!important } .es-m-p15b { padding-bottom:15px!important } .es-m-p15r=
+ { padding-right:15px!important } .es-m-p15l { padding-left:15px!important =
+} .es-m-p20 { padding:20px!important } .es-m-p20t { padding-top:20px!import=
+ant } .es-m-p20r { padding-right:20px!important } .es-m-p20l { padding-left=
+:20px!important }
+ .es-m-p25 { padding:25px!important } .es-m-p25t { padding-top:25px!importa=
+nt } .es-m-p25b { padding-bottom:25px!important } .es-m-p25r { padding-righ=
+t:25px!important } .es-m-p25l { padding-left:25px!important } .es-m-p30 { p=
+adding:30px!important } .es-m-p30t { padding-top:30px!important } .es-m-p30=
+b { padding-bottom:30px!important } .es-m-p30r { padding-right:30px!importa=
+nt } .es-m-p30l { padding-left:30px!important } .es-m-p35 { padding:35px!im=
+portant } .es-m-p35t { padding-top:35px!important } .es-m-p35b { padding-bo=
+ttom:35px!important } .es-m-p35r { padding-right:35px!important } .es-m-p35=
+l { padding-left:35px!important } .es-m-p40 { padding:40px!important } .es-=
+m-p40t { padding-top:40px!important } .es-m-p40b { padding-bottom:40px!impo=
+rtant } .es-m-p40r { padding-right:40px!important } .es-m-p40l { padding-le=
+ft:40px!important } }@media screen and (max-width:384px) {.mail-message-con=
+tent { width:414px!important } }
+	</style>
+</head>
+<body style=3D""width:100%;font-family:'open sans', 'helvetica neue', helvet=
+ica, arial, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1=
+00%;padding:0;Margin:0"">
+<div class=3D""es-wrapper-color"" dir=3D""ltr"" lang=3D""fr"" style=3D""background=
+-color:#F5F5F5"">
+<h3 style=3D""color:#aaaaaa;font-style:italic;""><!--[if gte mso 9]><v:backgr=
+ound xmlns:v=3D""urn:schemas-microsoft-com:vml"" fill=3D""t"" target=3D""_blank""=
+> <v:fill type=3D""tile"" color=3D""#f5f5f5"" origin=3D""0.5, 0"" position=3D""0.5=
+, 0"" target=3D""_blank""></v:fill> </v:background><![endif]--></h3>
+
+<div style=3D""text-align: center;""><sup><sub>Vous avez le droit de vous d=
+=C3=A9sabonner de nos newsletters =C3=A0 tout moment</sub></sup>. <a href=
+=3D""mailto:unsubscrube@economisezplus.fr?subject=3Dunsubscrube&body=3DSe%20=
+d%C3%A9sabonner%20"">Se d=C3=A9sabonner</a><br />
+Vous ne souhaitez plus recevoir d'emails de ce type ?<br />
+<sub>Un contenu vous semble inappropri=C3=A9 ?=C2=A0<a href=3D""https://t.ec=
+onomisezplus.site/index.php/campaigns/ze682qpwcfa80/track-url/ah212xhjv8231=
+/3e246da2450d96a8f7b2dbf9d21f0cab05b7fd95"">Cliquez ici</a> =C2=A0pour nous =
+le signaler.</sub></div>
+
+<table cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-wrapper"" role=3D""non=
+e"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:colla=
+pse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background=
+-repeat:repeat;background-position:center top;background-color:#F5F5F5"" wid=
+th=3D""100%"">
+	<tbody>
+		<tr>
+			<td style=3D""padding:0;Margin:0"" valign=3D""top"">
+			<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-=
+content"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;b=
+order-collapse:collapse;border-spacing:0px;table-layout:fixed !important;wi=
+dth:100%"">
+				<tbody>
+					<tr>
+						<td align=3D""center"" style=3D""padding:0;Margin:0"">
+						<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""=
+es-content-body"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspa=
+ce:0pt;border-collapse:collapse;border-spacing:0px;background-color:transpa=
+rent;width:600px"">
+							<tbody>
+								<tr>
+									<td bgcolor=3D""#ffffff"" class=3D""es-m-p15t es-m-p30b es-m-p20r es-=
+m-p20l"" style=3D""margin: 0px; padding: 25px 30px 40px; border-radius: 0px 0=
+px 20px 20px; background-color: rgb(255, 255, 255); text-align: center;"">
+									<h3 style=3D""color:#aaaaaa;font-style:italic;""><br />
+									<a href=3D""https://t.economisezplus.site/index.php/campaigns/ze682=
+qpwcfa80/track-url/ah212xhjv8231/c7ca4706ac9d739145c31ea01ca6cddc93a81337"">=
+<img alt=3D""logo-simulation"" src=3D""https://www.economisezplus.fr/wp-conten=
+t/uploads/2024/04/simulation.png"" title=3D""Logo"" /></a><br />
+									<br />
+									, ne laissez pas les impr=C3=A9vus compromettre votre activit=C3=
+=A9 !<br />
+									<span style=3D""color:#f39c12;""><code><kbd>Prot=C3=A9gez votre savo=
+ir-faire avec la bonne assurance d=C3=A9cennale</kbd></code></span></h3>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" class=3D""es-m-p20r es-m-p20l"" style=3D""padding:=
+0;Margin:0;padding-left:30px;padding-right:30px"">=C2=A0</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" bgcolor=3D""#ffffff"" class=3D""es-m-p30t es-m-p15=
+b es-m-p20r es-m-p20l"" style=3D""Margin:0;padding-bottom:20px;padding-left:3=
+0px;padding-right:30px;padding-top:40px;background-color:#ffffff;border-rad=
+ius:20px 20px 0px 0px"">=C2=A0
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0"">
+															<p style=3D""Margin:0;-webkit-text-size-adjust:none;-ms-text-=
+size-adjust:none;mso-line-height-rule:exactly;font-family:'open sans', 'hel=
+vetica neue', helvetica, arial, sans-serif;color:#333333;font-size:25px""><s=
+up>Un sinistre peut mettre en p=C3=A9ril des ann=C3=A9es de travail. L=E2=
+=80=99assurance d=C3=A9cennale vous permet de travailler l=E2=80=99esprit t=
+ranquille et de garantir la solidit=C3=A9 de vos r=C3=A9alisations.</sup><b=
+r />
+															<br />
+															<br />
+															<span class=3D""msohide es-button-border"" style=3D""background=
+:#b50000; border-style:solid; border-color:#2cb543; border-width:0px; borde=
+r-radius:15px; width:auto""><span style=3D""display:inline-block""><a class=3D=
+""es-button"" href=3D""https://t.economisezplus.site/index.php/campaigns/ze682=
+qpwcfa80/track-url/ah212xhjv8231/c7ca4706ac9d739145c31ea01ca6cddc93a81337"" =
+style=3D""text-decoration:none; -webkit-text-size-adjust:none; -ms-text-size=
+-adjust:none; color:#ffffff; font-size:18px; display:inline-block; backgrou=
+nd:#fda326; border-radius:10px; font-family:'open sans', 'helvetica neue', =
+helvetica, arial, sans-serif; font-weight:normal; font-style:normal; line-h=
+eight:22px; width:auto; text-align:center; padding:10px 40px 10px 40px"" tar=
+get=3D""_blank"">Acc=C3=A9dez aux meilleures solutions en quelques instants.<=
+/a></span></span><br />
+															<br />
+															<span style=3D""font-size:25px""><span style=3D""-webkit-text-s=
+ize-adjust:none""><span style=3D""-ms-text-size-adjust:none""><span style=3D""f=
+ont-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif""><sp=
+an style=3D""line-height:38px""><span style=3D""color:#333333""><strong>Garanti=
+e obligatoire pour le BTP, l=E2=80=99assurance d=C3=A9cennale couvre les d=
+=C3=A9fauts structurels et assure la p=C3=A9rennit=C3=A9 des entreprises fa=
+ce aux risques li=C3=A9s aux constructions.</strong></span></span></span></=
+span></span></span><br />
+															=C2=A0</p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""Margin:0;padding-bottom:0px;padding-=
+left:30px;padding-right:30px;padding-top:0px;background-color:#ffffff;borde=
+r-radius:0px 0px 0px 0px""><span class=3D""msohide es-button-border"" style=3D=
+""border-style:solid;border-color:#2CB543;background:#B50000;border-width:0p=
+x;display:inline-block;border-radius:15px;width:auto;mso-hide:all""><a class=
+=3D""es-button"" href=3D""https://t.economisezplus.site/index.php/campaigns/ze=
+682qpwcfa80/track-url/ah212xhjv8231/c7ca4706ac9d739145c31ea01ca6cddc93a8133=
+7"" style=3D""text-decoration:none; -webkit-text-size-adjust:none; -ms-text-s=
+ize-adjust:none; color:#ffffff; font-size:18px; display:inline-block; backg=
+round:#fda326; border-radius:10px; font-family:'open sans', 'helvetica neue=
+', helvetica, arial, sans-serif; font-weight:normal; font-style:normal; lin=
+e-height:22px; width:auto; text-align:center; padding:10px 40px 10px 40px"" =
+target=3D""_blank"">=C3=89valuez les meilleures formules selon votre m=C3=A9t=
+ier !</a></span></td>
+								</tr>
+								<tr>
+									<td align=3D""left"" style=3D""Margin:0;padding-top:30px;padding-bott=
+om:30px;padding-left:20px;padding-right:20px"">Merci de votre confiance,=C2=
+=A0<br />
+									<strong>L'=C3=A9quipe economisezplus</strong><br />
+									<br />
+									=C2=A0
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0""><br />
+															, en tant qu'abonn=C3=A9, vous recevez nos e-mails =C3=A0 l'=
+adresse samy_guenifi@yahoo.fr.<br />
+															<br />
+															Cliquez sur le lien <a data-unsubtag=3D""_UNSUBSCRIBE_URL_"" h=
+ref=3D""https://t.economisezplus.site/index.php/campaigns/ze682qpwcfa80/trac=
+k-url/ah212xhjv8231/0a9d9d872bc9228a07227c39bf234b7a1eeecfa5"">Se d=C3=A9sab=
+onner</a>=C2=A0pour vous d=C3=A9sinscrire.</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<sub>=C2=A9 2025 -=C2=A0ah212xhjv8231- AssurerMonAvenir=C2=A0<br />
+						=C2=A0<br />
+						110 Rue de Rivoli=C2=A0<br />
+						Paris - 75001=C2=A0<br />
+						=C2=A0</sub><br />
+						Vous ne souhaitez plus recevoir d'emails de ce type ?<br />
+						<sub><a href=3D""https://t.economisezplus.site/index.php/campaigns/ze6=
+82qpwcfa80/track-url/ah212xhjv8231/3e246da2450d96a8f7b2dbf9d21f0cab05b7fd95=
+"">Cliquez ici </a>=C2=A0pour nous le signaler.</sub></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<!-- Do not remove --><img width=3D""1"" height=3D""1"" src=3D""https://t.econom=
+isezplus.site/index.php/campaigns/ze682qpwcfa80/track-opening/ah212xhjv8231=
+"" alt=3D"""" />
+</body>
+</html>
+--Z5s3kihR--
+
+","""Alice"" <Michel@prodeals.ebookszen.fr>",samy_guenifi@yahoo.fr,2025-03-19,51.178.94.72,France,fr,users/51381317/f44ba178-cb2c-480b-b261-1c3d1d1d48cb.json
+51381317,Zp8iEQj9TlW2UMB9jJtGQQ.recvd-7cf7589bf9-w7r4m-1-67DC274A-49.0,cHJvY2Vzc2VkLTUxMzgxMzE3LVpwOGlFUWo5VGxXMlVNQjlqSnRHUVEtMA,"France, protégez votre avenir avec une mutuelle santé adaptée","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=prodeals.ebookszen.fr;
+	h=subject:from:mime-version:reply-to:to:content-type:cc:content-type:
+	from:subject:to;
+	s=s1; bh=SlmgtVfTCzVa1lA6IO4XSZOQOp2pCxGODCi2aaSBFQs=;
+	b=SlGXVIVvspU2n5q7zQkcUc/C5stmkFm6zLBb+sTcmcMzKh9h3Lrt/MNmqdREU6xouqN7
+	sqBdv+oRCdrO8BqmLN7hvDmNbfpsYLpgyyMpv3db5LDPIITcenEKExhy/qZU9bp2GhVFIR
+	EgKMkFGxm8X+NHirQ2ZSpzfpGFcMiGhyvC2PqZaC+sCDyzRdulQjgQ29aCQAac4wo32tV0
+	V1WKZM2sgDD+67QfftZwFLxzZTgxLCI5855bivqEM5dCbi4XdIFh+2Jy5YUS6NeL5iYmA7
+	YThVLfxvEmSSmbBWDTlLDZH+zjCYKUDoFWvPS7b1IzQoquSIprbFG2XcQzMR1LQA==
+Received: by recvd-7cf7589bf9-w7r4m with SMTP id recvd-7cf7589bf9-w7r4m-1-67DC274A-49
+	2025-03-20 14:33:46.624307908 +0000 UTC m=+10861830.164527660
+Received: from mail (unknown)
+	by geopod-ismtpd-8 (SG) with ESMTP
+	id Zp8iEQj9TlW2UMB9jJtGQQ
+	for <benoitleo@hotmail.com>;
+	Thu, 20 Mar 2025 14:33:46.542 +0000 (UTC)
+Subject: France, =?UTF-8?B?cHJvdMOpZ2V6?= votre avenir avec une mutuelle
+ =?UTF-8?B?c2FudMOpIGFkYXB0w6ll?=
+From: AssurSimu <Michel@prodeals.ebookszen.fr>
+Message-ID: <6436b21a27b33c31c86b3fe5e20b7d14c9b4742e@prodeals.ebookszen.fr>
+MIME-Version: 1.0
+Date: Thu, 20 Mar 2025 14:33:46 +0000 (UTC)
+Reply-To: AssurSimu <Michel@prodeals.ebookszen.fr>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ECw++AgM1jhmQkQONXQK+YdSUv6b1=2FwflJN2K3h=2FoyEtk7ZKLxsj5blacW?=
+ =?us-ascii?Q?ZbyoU1QXDQA5RGS7+7bYWPfe=2FF75CidMfQxt6Fr?=
+ =?us-ascii?Q?+qapx3eSq1w8Y8WQ5JWkS8WjYEb9h+Yf02n=2FwWK?=
+ =?us-ascii?Q?Dbl6NPlBce7jlMJYMycjZ2RsW3ruQsHCUi77053?=
+ =?us-ascii?Q?8VijCT9DEJqqkE5Y3=2FPs8jXoKI1H9XY0x+kAMGl?=
+ =?us-ascii?Q?NoHvrQGbk33xp1V3vFo++kfzBDQ3BqvWpZBxkiw?= =?us-ascii?Q?fOqq?=
+To: ""benoitleo@hotmail.com"" <benoitleo@hotmail.com>
+X-Entity-ID: u001.NUo6SaYrCOg6ZAotvX7k3A==
+Content-Type: multipart/alternative; boundary=2ZUDGNm1
+
+--2ZUDGNm1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+Vous avez le droit de vous d=E9sabonner de nos newsletters =E0 tout
+moment. Se d=E9sabonner
+Un contenu vous semble inappropri=E9 ?=A0Cliquez ici
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/458f78ad1cb2618be1f0690651db9a5ec3a79eb8]
+=A0pour nous le signaler.=20
+
+ 		[logo-simulation]
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/5b510943565e4896d10847647c21be238a11bb36]
+
+=A0
+
+=A0VOTRE BIEN-=CATRE AVANT TOUT.
+
+ 		=A0
+
+ =A0=20
+
+France, Des solutions adapt=E9es =E0 tous vos besoins.
+
+Simulez votre assurance Mutuelle sant=E9s
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/5b510943565e4896d10847647c21be238a11bb36]
+
+Avec notre Assurance Mutuelle Sant=E9, b=E9n=E9ficiez d'une couverture
+compl=E8te pour vous et votre famille. Nous offrons des remboursements
+avantageux pour les consultations m=E9dicales, les m=E9dicaments, et les
+soins hospitaliers, tout en vous permettant de choisir les options qui
+conviennent le mieux =E0 vos besoins et =E0 votre budget.=A0
+=A0=20
+-------------------------
+
+DEMANDEZ UNE SIMULATION GRATUITE POUR D=C9COUVRIR L'OFFRE QUI VOUS
+CONVIENT.=20
+
+ 		=A0
+
+OBTENEZ=A0UN DEVIS PERSONNALIS=C9.
+
+ 		D=E9couvrez tous les d=E9tails de notre Mutuelle Sant=E9 d=E8s
+maintenant.
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/5b510943565e4896d10847647c21be238a11bb36]
+
+ Merci de votre confiance,=A0
+L'=C9QUIPE COMPARATEURASSURANCEFACILE
+=A0=20
+
+ 		-
+France, en tant qu'abonn=E9, vous recevez nos e-mails =E0 l'adresse
+benoitleo@hotmail.com.
+
+DES SERVICES DE SIMULATION SIMPLE, RAPIDE ET PRATIQUE
+Visitez notre page de services
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/5b510943565e4896d10847647c21be238a11bb36]
+
+DES QUESTIONS ? NOS EXPERTS SONT DISPONIBLE POUR VOUS R=C9PONDRE
+Visitez notre page FAQ
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/5b510943565e4896d10847647c21be238a11bb36]
+
+Cliquez sur le lien Se d=E9sabonner
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/d674a5a6e8219e66e0f523eaae9aaca053adb3ef]=A0pour
+vous d=E9sinscrire.
+
+ =A9 2025 - iMARCKET=A0
+https://www.comparateurassurancefacile.fr/=A0
+=A0=A0 =A0=A0=A0 =A0-=A0
+1 Place Massena=A0
+Nice - 06000=A0
+=A0=A0 =A0=A0=A0 =A0-=A0
+Vous avez rep=E9r=E9 un probl=E8me ?=A0Cliquez ici
+[https://t.simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-u=
+rl/kr383mw0yfe4c/458f78ad1cb2618be1f0690651db9a5ec3a79eb8]=A0pour
+nous le signaler.
+mailwizz=20
+
+=20=
+
+--2ZUDGNm1
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""https://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" lang=3D""fr"" xmlns=3D""https://www.w3.org/1999/xhtml"" xmlns=
+:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><meta charset=3D""UTF-8""><meta content=3D""width=3Ddevice-width, initia=
+l-scale=3D1"" name=3D""viewport""><meta name=3D""x-apple-disable-message-reform=
+atting""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><meta co=
+ntent=3D""telephone=3Dno"" name=3D""format-detection"">
+	<title>France, prot=E9gez votre avenir avec une mutuelle sant=E9 adapt=E9e=
+</title>
+	<!--[if (mso 16)]><style type=3D""text/css"">     a {text-decoration: none;}=
+     </style><![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !i=
+mportant; }</style><![endif]--><!--[if gte mso 9]><xml> <o:OfficeDocumentSe=
+ttings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o=
+:OfficeDocumentSettings> </xml>
+<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css2?family=3DOswald:wght@500&d=
+isplay=3Dswap"" rel=3D""stylesheet"" /><!--<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css?family=3DOpen+Sans:400,400i=
+,700,700i"" rel=3D""stylesheet"" /><!--<![endif]-->
+	<style type=3D""text/css"">#outlook a { padding:0;}.es-button { mso-style-pr=
+iority:100!important; text-decoration:none!important;}a[x-apple-data-detect=
+ors] { color:inherit!important; text-decoration:none!important; font-size:i=
+nherit!important; font-family:inherit!important; font-weight:inherit!import=
+ant; line-height:inherit!important;} .es-desk-hidden { display:none; float:=
+left; overflow:hidden; width:0; max-height:0; line-height:0; mso-hide:all;}=
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:=
+150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important =
+} h1 { font-size:24px!important; text-align:center!important }
+ h2 { font-size:20px!important; text-align:center!important } h3 { font-siz=
+e:18px!important; text-align:center!important } .es-header-body h1 a, .es-c=
+ontent-body h1 a, .es-footer-body h1 a { font-size:24px!important; text-ali=
+gn:center!important } .es-header-body h2 a, .es-content-body h2 a, .es-foot=
+er-body h2 a { font-size:20px!important; text-align:center!important } .es-=
+header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:1=
+8px!important; text-align:center!important } .es-menu td a { font-size:16px=
+!important } .es-header-body p, .es-header-body ul li, .es-header-body ol l=
+i, .es-header-body a { font-size:16px!important } .es-content-body p, .es-c=
+ontent-body ul li, .es-content-body ol li, .es-content-body a { font-size:1=
+6px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body o=
+l li, .es-footer-body a { font-size:16px!important }
+ .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a=
+ { font-size:16px!important } *[class=3D""gmail-fix""] { display:none!importa=
+nt } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-ali=
+gn:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-tx=
+t-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-tx=
+t-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m=
+-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border =
+{ display:inline-block!important } a.es-button, button.es-button { font-siz=
+e:16px!important; display:inline-block!important } .es-adaptive table, .es-=
+left, .es-right { width:100%!important } .es-content table, .es-header tabl=
+e, .es-footer table, .es-content, .es-footer, .es-header { width:100%!impor=
+tant; max-width:600px!important } .es-adapt-td { display:block!important; w=
+idth:100%!important }
+ .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padd=
+ing:0!important } .es-m-p0r { padding-right:0!important } .es-m-p0l { paddi=
+ng-left:0!important } .es-m-p0t { padding-top:0!important } .es-m-p0b { pad=
+ding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-=
+mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.=
+es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visib=
+le!important; float:none!important; max-height:inherit!important; line-heig=
+ht:inherit!important } tr.es-desk-hidden { display:table-row!important } ta=
+ble.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { dis=
+play:table-cell!important } .es-menu td { width:1%!important } table.es-tab=
+le-not-adapt, .esd-block-html table { width:auto!important } table.es-socia=
+l { display:inline-block!important } table.es-social td { display:inline-bl=
+ock!important }
+ .es-desk-hidden { display:table-row!important; width:auto!important; overf=
+low:visible!important; max-height:inherit!important } .es-m-p5 { padding:5p=
+x!important } .es-m-p5t { padding-top:5px!important } .es-m-p5b { padding-b=
+ottom:5px!important } .es-m-p5r { padding-right:5px!important } .es-m-p5l {=
+ padding-left:5px!important } .es-m-p10 { padding:10px!important } .es-m-p1=
+0t { padding-top:10px!important } .es-m-p10b { padding-bottom:10px!importan=
+t } .es-m-p10r { padding-right:10px!important } .es-m-p10l { padding-left:1=
+0px!important } .es-m-p15 { padding:15px!important } .es-m-p15t { padding-t=
+op:15px!important } .es-m-p15b { padding-bottom:15px!important } .es-m-p15r=
+ { padding-right:15px!important } .es-m-p15l { padding-left:15px!important =
+} .es-m-p20 { padding:20px!important } .es-m-p20t { padding-top:20px!import=
+ant } .es-m-p20r { padding-right:20px!important } .es-m-p20l { padding-left=
+:20px!important }
+ .es-m-p25 { padding:25px!important } .es-m-p25t { padding-top:25px!importa=
+nt } .es-m-p25b { padding-bottom:25px!important } .es-m-p25r { padding-righ=
+t:25px!important } .es-m-p25l { padding-left:25px!important } .es-m-p30 { p=
+adding:30px!important } .es-m-p30t { padding-top:30px!important } .es-m-p30=
+b { padding-bottom:30px!important } .es-m-p30r { padding-right:30px!importa=
+nt } .es-m-p30l { padding-left:30px!important } .es-m-p35 { padding:35px!im=
+portant } .es-m-p35t { padding-top:35px!important } .es-m-p35b { padding-bo=
+ttom:35px!important } .es-m-p35r { padding-right:35px!important } .es-m-p35=
+l { padding-left:35px!important } .es-m-p40 { padding:40px!important } .es-=
+m-p40t { padding-top:40px!important } .es-m-p40b { padding-bottom:40px!impo=
+rtant } .es-m-p40r { padding-right:40px!important } .es-m-p40l { padding-le=
+ft:40px!important } }@media screen and (max-width:384px) {.mail-message-con=
+tent { width:414px!important } }
+	</style>
+</head>
+<body style=3D""width:100%;font-family:'open sans', 'helvetica neue', helvet=
+ica, arial, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1=
+00%;padding:0;Margin:0"">
+<div class=3D""es-wrapper-color"" dir=3D""ltr"" lang=3D""fr"" style=3D""background=
+-color:#F5F5F5""><!--[if gte mso 9]><v:background xmlns:v=3D""urn:schemas-mic=
+rosoft-com:vml"" fill=3D""t"" target=3D""_blank""> <v:fill type=3D""tile"" color=
+=3D""#f5f5f5"" origin=3D""0.5, 0"" position=3D""0.5, 0"" target=3D""_blank""></v:fi=
+ll> </v:background><![endif]-->
+<table cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-wrapper"" role=3D""non=
+e"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:colla=
+pse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background=
+-repeat:repeat;background-position:center top;background-color:#F5F5F5"" wid=
+th=3D""100%"">
+	<tbody>
+		<tr>
+			<td style=3D""padding:0;Margin:0"" valign=3D""top"">
+			<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-=
+header"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;bo=
+rder-collapse:collapse;border-spacing:0px;table-layout:fixed !important;wid=
+th:100%;background-color:transparent;background-repeat:repeat;background-po=
+sition:center top"">
+				<tbody>
+					<tr>
+						<td align=3D""center"" style=3D""padding:0;Margin:0""><br />
+						<sup><sub>Vous avez le droit de vous d=E9sabonner de nos newsletters =
+=E0 tout moment</sub></sup>. <a href=3D""mailto:unsubscrube@comparateurassur=
+ancefacile.fr?subject=3Dunsubscrube&body=3DSe%20d%C3%A9sabonner%20"">Se d=E9=
+sabonner</a><br />
+						<sub>Un contenu vous semble inappropri=E9 ?=A0<a href=3D""https://t.si=
+mulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-url/kr383mw0yf=
+e4c/458f78ad1cb2618be1f0690651db9a5ec3a79eb8"">Cliquez ici</a> =A0pour nous =
+le signaler.</sub>
+						<table align=3D""center"" bgcolor=3D""#ffffff"" cellpadding=3D""0"" cellspa=
+cing=3D""0"" class=3D""es-header-body"" role=3D""none"" style=3D""mso-table-lspace=
+:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;backg=
+round-color:#FFFFFF;border-radius:20px 20px 0 0;width:600px"">
+							<tbody>
+								<tr>
+									<td align=3D""left"" class=3D""es-m-p20r es-m-p20l"" style=3D""padding:=
+0;Margin:0;padding-top:25px;padding-left:30px;padding-right:30px"">
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" class=3D""es-m-p0r"" style=3D""padding:0;Marg=
+in:0;width:540px"" valign=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" style=3D""padding:0;Margin:0;font-size:0=
+px""><a href=3D""https://t.simulationsfacile.site/index.php/campaigns/cc11004=
+ebg3a6/track-url/kr383mw0yfe4c/5b510943565e4896d10847647c21be238a11bb36""><i=
+mg alt=3D""logo-simulation"" src=3D""https://www.comparateurassurancefacile.fr=
+/wp-content/uploads/2024/04/simulation.png"" style=3D""display: block; border=
+: 0px; outline: none; text-decoration: none; width: 607px; height: 160px;"" =
+title=3D""Logo"" /></a></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-=
+content"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;b=
+order-collapse:collapse;border-spacing:0px;table-layout:fixed !important;wi=
+dth:100%"">
+				<tbody>
+					<tr>
+						<td align=3D""center"" style=3D""padding:0;Margin:0"">
+						<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""=
+es-content-body"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspa=
+ce:0pt;border-collapse:collapse;border-spacing:0px;background-color:transpa=
+rent;width:600px"">
+							<tbody>
+								<tr>
+									<td align=3D""left"" bgcolor=3D""#ffffff"" class=3D""es-m-p15t es-m-p30=
+b es-m-p20r es-m-p20l"" style=3D""Margin:0;padding-top:25px;padding-left:30px=
+;padding-right:30px;padding-bottom:40px;border-radius:0px 0px 20px 20px;bac=
+kground-color:#ffffff"">
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" class=3D""es-m-p0r es-m-p20b"" style=3D""padd=
+ing:0;Margin:0;width:540px"" valign=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" style=3D""padding:0;Margin:0;font-size:0=
+px""><br />
+															=A0</td>
+														</tr>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-p15t es-m-p15b es-m-p0r e=
+s-m-p0l es-m-txt-c"" style=3D""Margin:0;padding-left:20px;padding-right:20px;=
+padding-top:25px;padding-bottom:25px"">
+															<h1 style=3D""Margin:0;line-height:36px;mso-line-height-rule:=
+exactly;font-family:'open sans', 'helvetica neue', helvetica, arial, sans-s=
+erif;font-size:30px;font-style:normal;font-weight:normal;color:#333333"">=A0=
+<strong>Votre bien-=EAtre avant tout.</strong></h1>
+															</td>
+														</tr>
+														<tr>
+															<td align=3D""center"" style=3D""padding:0;Margin:0""><!--[if ms=
+o]><a href=3D"""" target=3D""_blank"" hidden> <v:roundrect xmlns:v=3D""urn:schem=
+as-microsoft-com:vml"" xmlns:w=3D""urn:schemas-microsoft-com:office:word"" esd=
+evVmlButton href=3D"""" style=3D""height:41px; v-text-anchor:middle; width:359=
+px"" arcsize=3D""37%"" stroke=3D""f"" fillcolor=3D""#b50000"" target=3D""_blank""> <=
+w:anchorlock></w:anchorlock> <center style=3D'color:#ffffff; font-family:""o=
+pen sans"", ""helvetica neue"", helvetica, arial, sans-serif; font-size:15px; =
+font-weight:400; line-height:15px; mso-text-raise:1px'>Mon devis gratuit en=
+ 3 minutes</center> </v:roundrect></a>
+<![endif]--><!--[if !mso]><!-- --><!--<![endif]--></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" class=3D""es-m-p20r es-m-p20l"" style=3D""padding:=
+0;Margin:0;padding-left:30px;padding-right:30px"">
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">=A0</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" bgcolor=3D""#ffffff"" class=3D""es-m-p30t es-m-p15=
+b es-m-p20r es-m-p20l"" style=3D""Margin:0;padding-bottom:20px;padding-left:3=
+0px;padding-right:30px;padding-top:40px;background-color:#ffffff;border-rad=
+ius:20px 20px 0px 0px"">=A0
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0"">
+															<p style=3D""Margin:0;-webkit-text-size-adjust:none;-ms-text-=
+size-adjust:none;mso-line-height-rule:exactly;font-family:'open sans', 'hel=
+vetica neue', helvetica, arial, sans-serif;color:#333333;font-size:25px"">Fr=
+ance, Des solutions adapt=E9es =E0 tous vos besoins.<br />
+															<br />
+															<span class=3D""msohide es-button-border"" style=3D""background=
+:#b50000; border-style:solid; border-color:#2cb543; border-width:0px; borde=
+r-radius:15px; width:auto""><span style=3D""display:inline-block""><a class=3D=
+""es-button"" href=3D""https://t.simulationsfacile.site/index.php/campaigns/cc=
+11004ebg3a6/track-url/kr383mw0yfe4c/5b510943565e4896d10847647c21be238a11bb3=
+6"" style=3D""text-decoration:none; -webkit-text-size-adjust:none; -ms-text-s=
+ize-adjust:none; color:#ffffff; font-size:18px; display:inline-block; backg=
+round:#b50000; border-radius:10px; font-family:'open sans', 'helvetica neue=
+', helvetica, arial, sans-serif; font-weight:normal; font-style:normal; lin=
+e-height:22px; width:auto; text-align:center; padding:10px 40px 10px 40px"" =
+target=3D""_blank"">Simulez votre assurance Mutuelle sant=E9s</a></span></spa=
+n></p>
+
+															<table align=3D""center"" class=3D""es-content-body"" role=3D""no=
+ne"" style=3D""border-collapse:collapse; border-spacing:0px; width:600px; bor=
+der:undefined"">
+																<tbody>
+																	<tr>
+																		<td align=3D""left"" bgcolor=3D""#ffffff"" class=3D""es-m-p30t=
+ es-m-p15b es-m-p20r es-m-p20l"" style=3D""Margin:0; padding-bottom:20px; pad=
+ding-left:30px; padding-right:30px; padding-top:20px; background-color:#fff=
+fff; border-radius:0px 0px 0px 0px"">
+																		<table role=3D""none"" style=3D""border-collapse:collapse; b=
+order-spacing:0px; border:undefined"" width=3D""100%"">
+																			<tbody>
+																				<tr>
+																					<td align=3D""center"" style=3D""padding:0; Margin:0; wid=
+th:540px"" valign=3D""top"">
+																					<table role=3D""presentation"" style=3D""border-collapse:=
+collapse; border-spacing:0px; border:undefined"" width=3D""100%"">
+																						<tbody>
+																							<tr>
+																								<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""=
+padding:0; Margin:0""><br />
+																								Avec notre Assurance Mutuelle Sant=E9, b=E9n=E9fici=
+ez d'une couverture compl=E8te pour vous et votre famille. Nous offrons des=
+ remboursements avantageux pour les consultations m=E9dicales, les m=E9dica=
+ments, et les soins hospitaliers, tout en vous permettant de choisir les op=
+tions qui conviennent le mieux =E0 vos besoins et =E0 votre budget.=A0<br /=
+>
+																								=A0
+																								<hr /><br />
+																								<span style=3D""font-size:25px""><span style=3D""-webk=
+it-text-size-adjust:none""><span style=3D""-ms-text-size-adjust:none""><span s=
+tyle=3D""font-family:'open sans', 'helvetica neue', helvetica, arial, sans-s=
+erif""><span style=3D""line-height:38px""><span style=3D""color:#333333""><stron=
+g>Demandez une simulation gratuite pour d=E9couvrir l'offre qui vous convie=
+nt.</strong></span></span></span></span></span></span></td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																	<tr>
+																		<td align=3D""left"" bgcolor=3D""#ffffff"" class=3D""es-m-p15t=
+ es-m-p30b es-m-p20r es-m-p20l"" style=3D""Margin:0; padding-top:20px; paddin=
+g-left:30px; padding-right:30px; padding-bottom:40px; background-color:#fff=
+fff; border-radius:0px 0px 20px 20px"">=A0</td>
+																	</tr>
+																</tbody>
+															</table>
+
+															<p style=3D""Margin:0;-webkit-text-size-adjust:none;-ms-text-=
+size-adjust:none;mso-line-height-rule:exactly;font-family:'open sans', 'hel=
+vetica neue', helvetica, arial, sans-serif;color:#333333;font-size:25px""><s=
+trong><span style=3D""font-size:30px;color:#b50000"">Obtenez=A0un devis perso=
+nnalis=E9.</span></strong></p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""Margin:0;padding-bottom:0px;padding-=
+left:30px;padding-right:30px;padding-top:0px;background-color:#ffffff;borde=
+r-radius:0px 0px 0px 0px""><!--[if mso]><a href=3D"""" target=3D""_blank"" hidde=
+n> <v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:w=3D""urn:sc=
+hemas-microsoft-com:office:word"" esdevVmlButton href=3D"""" style=3D""height:4=
+1px; v-text-anchor:middle; width:359px"" arcsize=3D""37%"" stroke=3D""f"" fillco=
+lor=3D""#b50000"" target=3D""_blank""> <w:anchorlock></w:anchorlock> <center st=
+yle=3D'color:#ffffff; font-family:""open sans"", ""helvetica neue"", helvetica,=
+ arial, sans-serif; font-size:15px; font-weight:400; line-height:15px; mso-=
+text-raise:1px'>Mon devis gratuit en 3 minutes</center> </v:roundrect></a>
+<![endif]--><!--[if !mso]><!-- --><span class=3D""msohide es-button-border"" =
+style=3D""border-style:solid;border-color:#2CB543;background:#B50000;border-=
+width:0px;display:inline-block;border-radius:15px;width:auto;mso-hide:all"">=
+<a class=3D""es-button"" href=3D""https://t.simulationsfacile.site/index.php/c=
+ampaigns/cc11004ebg3a6/track-url/kr383mw0yfe4c/5b510943565e4896d10847647c21=
+be238a11bb36"" style=3D""mso-style-priority:100 !important;text-decoration:no=
+ne;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-=
+rule:exactly;color:#FFFFFF;font-size:18px;display:inline-block;background:#=
+B50000;border-radius:10px;font-family:'open sans', 'helvetica neue', helvet=
+ica, arial, sans-serif;font-weight:normal;font-style:normal;line-height:22p=
+x;width:auto;text-align:center;padding:10px 40px 10px 40px;mso-padding-alt:=
+0;mso-border-alt:10px solid #B50000"" target=3D""_blank"">D=E9couvrez tous les=
+ d=E9tails de notre Mutuelle Sant=E9 d=E8s maintenant.</a></span><!--<![end=
+if]--></td>
+								</tr>
+								<tr>
+									<td align=3D""left"" style=3D""Margin:0;padding-top:30px;padding-bott=
+om:30px;padding-left:20px;padding-right:20px"">
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0"">
+															<table align=3D""center"" class=3D""es-content-body"" role=3D""no=
+ne"" style=3D""border-collapse:collapse; border-spacing:0px; width:600px; bor=
+der:undefined"">
+																<tbody>
+																	<tr>
+																		<td align=3D""left"" style=3D""Margin:0; padding-top:30px; p=
+adding-bottom:30px; padding-left:20px; padding-right:20px"">Merci de votre c=
+onfiance,=A0<br />
+																		<strong>L'=E9quipe comparateurassurancefacile</strong><br=
+ />
+																		=A0
+																		<table role=3D""none"" style=3D""border-collapse:collapse; b=
+order-spacing:0px; border:undefined"" width=3D""100%"">
+																			<tbody>
+																				<tr>
+																					<td align=3D""center"" style=3D""padding:0; Margin:0; wid=
+th:540px"" valign=3D""top"">
+																					<table role=3D""presentation"" style=3D""border-collapse:=
+collapse; border-spacing:0px; border:undefined"" width=3D""100%"">
+																						<tbody>
+																							<tr>
+																								<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""=
+padding:0; Margin:0"">-<br />
+																								France, en tant qu'abonn=E9, vous recevez nos e-mai=
+ls =E0 l'adresse benoitleo@hotmail.com.<br />
+																								<br />
+																								<strong>Des Services de simulation Simple, Rapide e=
+t Pratique</strong><br />
+																								<a href=3D""https://t.simulationsfacile.site/index.p=
+hp/campaigns/cc11004ebg3a6/track-url/kr383mw0yfe4c/5b510943565e4896d1084764=
+7c21be238a11bb36"">Visitez notre page de services</a><br />
+																								<br />
+																								<strong>Des Questions ? Nos experts sont disponible=
+ pour vous r=E9pondre</strong><br />
+																								<a href=3D""https://t.simulationsfacile.site/index.p=
+hp/campaigns/cc11004ebg3a6/track-url/kr383mw0yfe4c/5b510943565e4896d1084764=
+7c21be238a11bb36"">Visitez notre page FAQ</a><br />
+																								<br />
+																								Cliquez sur le lien <a data-unsubtag=3D""_UNSUBSCRIB=
+E_URL_"" href=3D""https://t.simulationsfacile.site/index.php/campaigns/cc1100=
+4ebg3a6/track-url/kr383mw0yfe4c/d674a5a6e8219e66e0f523eaae9aaca053adb3ef"">S=
+e d=E9sabonner</a>=A0pour vous d=E9sinscrire.</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															<sub>=A9 2025 - iMARCKET=A0<br />
+															https://www.comparateurassurancefacile.fr/=A0<br />
+															=A0=A0 =A0=A0=A0 =A0-=A0<br />
+															1 Place Massena=A0<br />
+															Nice - 06000=A0<br />
+															=A0=A0 =A0=A0=A0 =A0-=A0<br />
+															Vous avez rep=E9r=E9 un probl=E8me ?=A0<a href=3D""https://t.=
+simulationsfacile.site/index.php/campaigns/cc11004ebg3a6/track-url/kr383mw0=
+yfe4c/458f78ad1cb2618be1f0690651db9a5ec3a79eb8"">Cliquez ici </a>=A0pour nou=
+s le signaler.<br />
+															mailwizz</sub></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<!-- Do not remove --><img width=3D""1"" height=3D""1"" src=3D""https://t.simula=
+tionsfacile.site/index.php/campaigns/cc11004ebg3a6/track-opening/kr383mw0yf=
+e4c"" alt=3D"""" />
+</body>
+</html>
+--2ZUDGNm1--
+
+","""AssurSimu"" <Michel@prodeals.ebookszen.fr>",benoitleo@hotmail.com,2025-03-20,51.178.94.72,France,fr,users/51381317/9dead6b3-8252-4a0b-8be4-d2e47910694e.json

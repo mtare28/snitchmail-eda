@@ -1,0 +1,468 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51717467,jy3pJAVXR_6OaotpSGrjvg.recvd-69cbc48b94-rsxdm-1-67ED3ABD-1C.0,cHJvY2Vzc2VkLTUxNzE3NDY3LWp5M3BKQVZYUl82T2FvdHBTR3JqdmctMA,"""📦 Your Walmart Purchase is Being Prepared! #WMT-982374""","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=smtpapi; bh=L6nJ/lEifezULaQUjyGgRyav6faDEFnlQ3Ti+1MBJOs=;
+	b=bSRS9nccwGVlK/KgNMArY6FGNIm0LPH8ih5R9UhBhJextfy7ZpYjXr2YuRsG2Vb4P8FT
+	G1YyjTONLJv6ecV3+2JbLWavkF8sRfpqZvz19I+jz/i3akFjwTs5rGL3GA539HVxcfMjcj
+	SS8hDRPS0oMJdoeYiFNa2qtYjBOAEZCek=
+Received: by recvd-69cbc48b94-rsxdm with SMTP id recvd-69cbc48b94-rsxdm-1-67ED3ABD-1C
+	2025-04-02 13:25:17.719732138 +0000 UTC m=+11980866.134827459
+Received: from NTE3MTc0Njc (unknown)
+	by geopod-ismtpd-12 (SG) with HTTP
+	id jy3pJAVXR_6OaotpSGrjvg
+	Wed, 02 Apr 2025 13:25:17.704 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=f74ad0a4da17130d9e836171624a1245b4f8724332f88a37ff9a31dfbb91
+Date: Wed, 02 Apr 2025 13:25:17 +0000 (UTC)
+From: Harry <harryjones3876@outlook.com>
+Mime-Version: 1.0
+Message-ID: <jy3pJAVXR_6OaotpSGrjvg@geopod-ismtpd-12>
+Subject: =?UTF-8?B?IvCfk6Y=?= Your Walmart Purchase is Being Prepared!
+ #WMT-982374""
+Reply-To: harryjones3876@outlook.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmebdyBH7tRWKe3dZ863Z1+NdTGs3gXzGS4puMYHsWkAsndvyQfqX=2FbEFt?=
+ =?us-ascii?Q?og+tZ34qkHnSaN8ZWFKqLdYSUoWe64JCWvPP78d?=
+ =?us-ascii?Q?KxxWEv3Cbn0bNkWPP4q9If=2FlsRvwgDgY2dCa2qL?=
+ =?us-ascii?Q?AF4lJPdyCkjT=2Fybdl9hBgUPRjygZ6nXVe17M+tc?=
+ =?us-ascii?Q?Ew8ZI+cpfJCopL0SUuT04yWvZiBUsMpVIAoPRRG?=
+ =?us-ascii?Q?JK96WZaR+alV5CaTYa9oWSagVCg98x7zf6lBIKZ?= =?us-ascii?Q?GykZ?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfYvdpUjnNFXBD0tNiC8oJZt29Y?=
+ =?us-ascii?Q?9u31uHUZ4nDKw4yHB2OsseaxJU8VwdN5lN15AzA?=
+ =?us-ascii?Q?OqjAJLc0ayVG5USh5Fzuk45QjInpEs5D9tKaFeQ?=
+ =?us-ascii?Q?c9E0HJ2iZhG5RXv+DLwEGSdgpo8cngGcb=2FCpFsc?=
+ =?us-ascii?Q?S6cZ6RHmL5F0JtKrUHVbq5MUn+6crioBPDb7xSl?=
+ =?us-ascii?Q?btPTBmbYBx9rznGvwid+1Mhuulenp7gQ3iDgPyj?=
+ =?us-ascii?Q?qAmNSn=2FVOHe7dUGLk+zNG3bU4oU+SG6JSjBhhuG?=
+ =?us-ascii?Q?oZFI4A9Hbbhw=2F9B7YteOmRbdz2ZYd48bj1HyBKj?=
+ =?us-ascii?Q?CEVXzsBnln74MuBxHJ+sf5BIL5u4B0vjYP=2FpFa0?=
+ =?us-ascii?Q?Okyt1EK8Lp4cogD7GJtaeA5Awzkcxh4pzS2gjN8?=
+ =?us-ascii?Q?emtvgePXXlRORXsKTFxURFQKE0mREkDxLVkpDdZ?=
+ =?us-ascii?Q?sTXsiHiFT47CbJpPLn7umUQdH5toZdR2Ae7b7po?=
+ =?us-ascii?Q?U=2FRheYb8FScfyuhHaEgL=2FjtxMmhgoUyVoXsHdUZ?=
+ =?us-ascii?Q?OuTQg08MLRuHEqaU2zLVD6qYq+IlS8PEQxqdAAP?=
+ =?us-ascii?Q?h3l58MDTGzY+K8+1hu8Hm0P?=
+To: becraftr@verizon.net
+X-Entity-ID: u001.GbKVlScDC3TUKLIyaNvC5w==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51717467=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EPaF2?=
+ =?us-ascii?Q?p9Kv3uNMJ7OmLMFr5FNyM6XeNH=5FMGojxm73Sb7v?=
+ =?us-ascii?Q?cxC9xHgjpkj79XCtjVg3EdnevCMS3Dp=5Fm8-8D1W?=
+ =?us-ascii?Q?LPizcJw=5F6uvQH9MfOwBtZPlEunzBJrpsueYaMvg?=
+ =?us-ascii?Q?v9tTsZxb7eaycv-HvaDNK4g4NZbuTAXctFFYJ=5Fz?=
+ =?us-ascii?Q?EmfaMY8ksSKgLCh4e=5F3BmiZG29htZH=5FsZfk1PLS?=
+ =?us-ascii?Q?Ou8I3nLujw8Ud4uvscctkfSevqyOxU5rp8cJDyQ?=
+ =?us-ascii?Q?3IzQJRf-Wz5gOMaYbU64JpYlIrCLCYPRMgiJpO8?=
+ =?us-ascii?Q?=5FdUXAKAEgdt=5FoYX6SMdk2hpW-7jvBtiIPy4wdMy?=
+ =?us-ascii?Q?wLL-W5V8jBxe3aNOm8ty0ppw3HRbnICfKbFudw-?=
+ =?us-ascii?Q?BG0sojJL31Gwyw-AOGEz6jIjAMTskn=5F=5F4AsWYn5?=
+ =?us-ascii?Q?YVTFFrSHFbO6AWTJO5aeruI7dyFydnLRZbosqQ1?=
+ =?us-ascii?Q?SBv3w81Wa3NrtMjVWeb36HQPIvV2SpUHxcn0MLB?=
+ =?us-ascii?Q?DI3FfCUya7=5FC2OFXsJG829mngaK7oJ4PCCCgk8F?=
+ =?us-ascii?Q?rsMt4T7fexsiyQGucOPdWtfXJoMUIJhcnqzwH00?=
+ =?us-ascii?Q?a8l-zNAXthuWRXN=5Fr5bmionAb7urH4d1v5N64DM?=
+ =?us-ascii?Q?cuIojJ0vhgRAWJFW1w1ydrdOrb8UND3AQA8z-tO?=
+ =?us-ascii?Q?-VWjpp8MiScr3Rc7tfsPSVjRitMIqKdzHYeEeUN?=
+ =?us-ascii?Q?crS4saPc0zx7BF2SWX9lemNCxFODBG2aHKR-mzt?=
+ =?us-ascii?Q?iv9YwlGxgPucyHJcRwG1otskFg3HWSOnOkoKhP1?=
+ =?us-ascii?Q?Gkdb9S6EExTkcEAktnplq3hkkyJ09SzWn7q00tB?=
+ =?us-ascii?Q?wucl18yHKX61XiDaq6PNmju-Lg8Go7JCpZTqWHG?=
+ =?us-ascii?Q?TAusEwUlhkqZgcsZSJEihWn-ko9qh5UQl519lfh?=
+ =?us-ascii?Q?czMJtE=5FlyLAB4H01ZAtTUUM5fOe4WUblOzgAuXI?=
+ =?us-ascii?Q?1jVoJ-TtczNblRAuuTouS251CrJ2o3Rv6pDdlMB?=
+ =?us-ascii?Q?ANPMdmYxRIKcF7kMyS=5FiVNNk2=5FJ1qiztFqN5-jZ?=
+ =?us-ascii?Q?LY74L5rDFzwj6pbaLwVApxfrZVlwp8uqVcBRQOz?=
+ =?us-ascii?Q?zz4WPyV-BFRnk1tWZUlAHgzhca22fU7KOtkW=5FhC?=
+ =?us-ascii?Q?SHqBtlf6RKykJ1xPlwFlucJON2HmN92h1lL4Jvn?=
+ =?us-ascii?Q?YrkY5c9mzrs9yMDhl2UclgJISmoIlmx4CmQIX3t?=
+ =?us-ascii?Q?DRXWwDasPEdKTjt8x5M0iq4zgtzVaHNghXpbsZQ?=
+ =?us-ascii?Q?48o0MhtRWsrnWRmVhRuL1Ofc451qap6sauS5Lnc?=
+ =?us-ascii?Q?mAOJ5AOH40OE0bbXcDOLA2MME8F8qcEie0wTs2t?=
+ =?us-ascii?Q?xRqmba0hZYkwK9sNKlqo8BmIRfm5LiCpB1NckUS?=
+ =?us-ascii?Q?GK2vJX=5FT=5FfkgLxRr=5FcHukex0CDYF43TxKkTGVx8?=
+ =?us-ascii?Q?guJTkKxEz0K098IWX9eTh8vfF-OopwdWzTW5wuL?=
+ =?us-ascii?Q?LsQ6HDJjUQzdRFhGyuTpIlKzGhteNcJJGnvL3Q3?=
+ =?us-ascii?Q?9a7BdluTQ37VFltJoRMRPxIyxg4OVaFLUTwWBlV?=
+ =?us-ascii?Q?8lz5cnzzYB1bNSOg46knvAuOI1NuyWD=5FqZjNENA?=
+ =?us-ascii?Q?5LBuIe7laidvxMCPxSL0fjS8jS23-0gQxiyNQxd?=
+ =?us-ascii?Q?niWiJobiOc8dqlVG5FkS7rdJmP0rXuzEkBAgSmh?=
+ =?us-ascii?Q?yKMaMalVvipqOBMRb8z6yt0mjut5uhycWd0r=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3D51717467=2EQaTsrO-nizY56KFxY6jibzVt5QUSU?=
+ =?us-ascii?Q?7FnNsRZ3=5F2d0D5oMDAwdTAwMJ7bF9MZYlwgSxkD?=
+ =?us-ascii?Q?vm33c3TOheBKoT3qcWFH=5Foh6sLfro9D4Iwg6Id2?=
+ =?us-ascii?Q?ut93UEIgALYFFJAB27ZpHpDzFNmO2cUMLv8aEaG?=
+ =?us-ascii?Q?bXloAgxt32IJ8k7cGMjzaeUSwADBaJtEgwmA=3D=3D=2E?=
+ =?us-ascii?Q?oCkeu4qG57lGgPyNCdjoNy62GGBnURKeu0A8RhH?=
+ =?us-ascii?Q?4HktoMDAwdTAwMGwzi7hvXbcpdLKkd0bfWWi6J0?=
+ =?us-ascii?Q?rkmeAO2Y8mQQwwp=5F9yQf1mga2XbZipWDNdIpXbV?=
+ =?us-ascii?Q?P07Wj=5FjWQ9rP1GSpQR=5FNODSrrrZTPgr9OvwFxcB?=
+ =?us-ascii?Q?zTpJDHg92RgrJSo73jJD4wvW1EP-nWjTyjnvJi0?=
+ =?us-ascii?Q?ghVwnAcmryyga1KIl36LdmLpo-wcIHQi4nmCo3G?=
+ =?us-ascii?Q?jxG06aW0JrS5e5zmN6G56gUckIqqxrLlc476RQp?=
+ =?us-ascii?Q?vPqDtiGdaHuqwLZa-eSHs6MczBuHbi5TjChtarE?=
+ =?us-ascii?Q?-72GLJGP2vLqixg0XslwWCado=5F4A6qHvJ3qAbM3?=
+ =?us-ascii?Q?rmRYeo3Jqc4lbWAsXTmPvtjruavEhTYdWF21yrK?=
+ =?us-ascii?Q?2hEtNRJtowQYd4ld2aY4RV8Qq9IEnU5HjkaUWgo?=
+ =?us-ascii?Q?-dtLyZkEhy15Np=5FpgKL0ipiH8qBelW6mBLZ4GTf?=
+ =?us-ascii?Q?AeZx7xTFX5TUDPMpTdyoK7pWPPoUzuf4y0JtUR9?=
+ =?us-ascii?Q?5YePGj2Hic2aZGQ6oZl9AwYQlUgdqPJq3qsdeVY?=
+ =?us-ascii?Q?o3YQsuSez3CnG=5Fa6IGAamo7WDEU2FQ22Nz-L0iV?=
+ =?us-ascii?Q?o05H33ZlYjhLveLt0StyLiXfPbHcCl5sL=5F3RpsX?=
+ =?us-ascii?Q?NSSWQ4ZX5NLAf7MXj5vxL2gcHPqyRcBNyMhvYi8?=
+ =?us-ascii?Q?h7bPmrpBgb0XAVyqVWpRw8xS40Jsh-ammIHewi5?=
+ =?us-ascii?Q?VSYHqMiNTzSS2AmzNwuskK47Kmgdyf1eBrF2V0m?=
+ =?us-ascii?Q?nR4kEEn1PzEfi7PRZsXPUOnHZhiGqGjBj-iiOzU?=
+ =?us-ascii?Q?bdk1K70X40-3REKGppwqM6f9psWXIHP-4C7UGzW?=
+ =?us-ascii?Q?iOTXW4QImFrOuSQ8OTmoRyQnvA7qRb0UjXo4hzy?=
+ =?us-ascii?Q?ZuZiVKI=5FmooVKReZeLuQnmR1xnjH3GMUGRh8qTz?=
+ =?us-ascii?Q?mKVAB2whIg1r3WqJZ-lvPGEzTxKzA9=5FV8LVina-?=
+ =?us-ascii?Q?344sejIAVlkssQ=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--f74ad0a4da17130d9e836171624a1245b4f8724332f88a37ff9a31dfbb91
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+************************
+Your Order is Confirmed!
+************************
+
+Dear becraftr@verizon.net,
+
+Thank you for shopping with Walmart! We're delighted to let you know that y=
+our order has been successfully processed and is now being prepared for shi=
+pment.
+
+-------------
+Order Details
+-------------
+
+Order Number: *WMT-982374*
+Product: *Apple MacBook Pro (M3, 16GB RAM, 512GB SSD)*
+Total Amount: $1,999.00
+Shipping: *FREE Standard Shipping*
+
+We'll send you a tracking number as soon as your package ships. You can exp=
+ect delivery within 3-5 business days.
+
+--------------------------
+Need Immediate Assistance?
+--------------------------
+
+If you didn't place this order or need to make changes, please contact us r=
+ight away:
+
+=F0=9F=93=9E Call Customer Support ( tel:8884231943 )
+
+Or dial directly: 888-423-1943
+
+We appreciate your business and look forward to serving you again soon!
+
+Thank you for choosing Walmart
+
+*Walmart Customer Support*
+
+Need help? Call us anytime: 888-423-1943 ( tel:8884231943 )
+
+=C2=A9 2023 Walmart Inc. All rights reserved.
+Unsubscribe From This List https://u51717467.ct.sendgrid.net/asm/unsubscrib=
+e/?user_id=3D51717467&data=3DjSksBme_xBrCCckF_hhZbsuGbuJQm6YtPS9NJQMQqFRoMD=
+AwdTAwMKGiguq74dLVUrR0jDkdcMJLav8Qza01r4pELJtoVcqeJBDu1mIaMGAY_pdtWsiLcFRcH=
+rxkDfBBBbPQEzm64cm_cXom3PWEDyFbuJFoJ-t0Ulf7PwLB_IFu6fIaQhhZfNwrQyuBkHIaLrGc=
+t3O9DZnqs8q6NSb5expsrmmuZtKgWUoe6s1Ige5Ddz1sehzpshHVZd7xE48FOYMsqcqNSDZglEB=
+uv5c-iV7ABcjYpu8SWWaehLWT0QPrMm9IR_5JpPAR7BLFy8mggYrKbd-WvVIxVYlpk927vz34LR=
+KmJZdQyJO6GnyaNxxcFfJTUQyzYcQYq7Q7XIrQCu6PvcXGcFtR45XmBIw9GV2hiY9TcqqCCKXAz=
+8lgcs6IYddX7oCx7I_fbp6aUGMxghJ6m4Dg9-rHYdc51ldx8HsPiDagVpDtbqIE9F6hEBtWsh6Q=
+mor70KgbLIWZwgufKxI8TdmCA6X4apqzdkL7Sn3ScjVDX3nqt8NcgdX7jLrB2MPMCGD-6CR-4Mi=
+2-5TK-CPGOHjRP39myQEXNc9GEyLtxqUEyHgRGzBwBjrjBoi0MP6e0r8RyyYMc9npbzuTHG8nPg=
+Ig9K-uIB9rWG0XaJ2Jd0nS9A2XywNwvJ3BoiD3_Z4Fzv6PEUBRRVdYZP8gx_a5TNPgG8GjFVDPv=
+HK6p2FEarNu02EQ46thuT0HneOaqraJh38h1oNfepNMKU5MvL19mZf4QxSBY7QnCh2_tab-gHi6=
+wKOT-kIDlv1P1Xf5qMgidbxa93LDyIIuRwacRj8AN9il2qQUYMBlOzhveuIsPE9nNyLN9mXVQCg=
+6OJoM9W880ndu37QnhpfiOc9R9v8aoC1MfKuaWUzJE-C3AdcU8Q-rO1TutP0HBZKVeDcl0-AU_T=
+qoUzbAFBZH7WSeXCPgGG-3QGPNgbhRBKnZURYB9mu2H1joFUniYtSdv8vcVJdJGRzqHf-Smp3NC=
+sD-HuZreJIoaNVRqz4NbEOz8sl7GI78YorXV1vjMvmZP8imY3qTNFGQ8-nNkJlBJQ34xCL3ompA=
+7mNHlfXPC3D-PIRCHTxhJZBK | Manage Email Preferences https://u51717467.ct.se=
+ndgrid.net/asm/?user_id=3D51717467&data=3D9VhXmzgWRupsAaGKj1OQYeXAWlhs-BY2A=
+bDa6poF3DRoMDAwdTAwMBZO4fCFu1N-ygHNW8nZGdOYdGtY1fpR6krSCgHEdfeU2EuRfL4S4jCJ=
+S32oJFXbk0E4glQXQs3PBp76qjTEB0UsbbKb1G8wllyAVsIKVfwiOcmg7WhZeHJzHN7b_wChwTE=
+q0Zsy3B9wOT7aNJ48ATva2LOYChd1moLS3T7PAr6IbCBPRJAQ1urL649tnGV9jb0Y22PovB11Xr=
+w8ivsc4AnVFYYGRwAL9-FMOi6sYchyH0MJgXo687EeSHmIU88E1OR36u3Ae7XCUzCWoTdqJL_wk=
+kuGIsOe0eOYMR6jSyCphOwieB-7eIw11R6si8d8by3_Rgz4FIvtCt58BjY3hugzaBa7RCVqmf6k=
+87DU-IQ0uSb-HyuBEaIXtEFnpnEfwiaIuk1uPIlnuf7FObP2pFWjvyFX0YqACAS3fd-fDTKeBkt=
+N1KP2on9_e3epi7MPeCgDQV6aZd48cSAmHcix5Dl1pS3mXkHTdK9zkoUinbU8oloplYiWUV19xd=
+xGFBMJa7_OQVcdyq3KIpdl1UNW5cC_Y3kem4ju3q7mSyzu5VwtvVziOWaILcRiL_7N9j5TFn1kv=
+2qKp_VZB46qAvzlQ0ZWfZftNvz86I6Di_yys0COHuoYAkcvvlBmWBtC52_66Q9-kQSuO_aORvrJ=
+R8xYFiP5Z_qbrdsqomuH7ESGWBnhEMdYSUR-DRirXN0aq2QyItfQNGUl0atKKROEZIVlEVqcS5x=
+ASAOPOySx-Xw4FUYL-D6Iavl6j-ivsurAzbKpEFfwAYnlByIa_uVUsUbFxBNEQ_guP5i9_PzbTQ=
+ytne3KTU1iv3Y8jxUVD_vxLinV66xFbeH3bEslwTS-quOqV0IWArx15GSn0drcipvbZeWBYeHQl=
+pSev7rgF8ojA5m-prz4SvVXJhq-G6eKk0cF-T_LjYVTt9xG9wZwOXaNkIUO2RuLzalTjADdamTK=
+Vio7ISa_hBebDW89IFC5iXgtvAhAzrf28X-IdUZEo7eM5I8W8lyw8a8Uvvv3jfGYwNW8ejh7R9G=
+Sdq2tagSGZpfvztk=3D
+--f74ad0a4da17130d9e836171624a1245b4f8724332f88a37ff9a31dfbb91
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D""en"">
+<head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>Your Walmart Order Confirmation</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=3DPoppins:wgh=
+t@300;400;600;700&display=3Dswap');
+       =20
+        body {
+            font-family: 'Poppins', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+        }
+        .email-container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #ffffff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background: linear-gradient(135deg, #0071ce 0%, #004b8d 100%);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        .logo {
+            width: 120px;
+            margin-bottom: 15px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 26px;
+            font-weight: 700;
+        }
+        .content {
+            padding: 30px;
+        }
+        h2 {
+            color: #0071ce;
+            font-size: 20px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 8px;
+        }
+        h2:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 50px;
+            height: 3px;
+            background: #ffc220;
+        }
+        .order-card {
+            background: #f8fafc;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            border-left: 4px solid #0071ce;
+        }
+        .order-detail {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .order-detail strong {
+            color: #0071ce;
+        }
+        .highlight {
+            font-weight: 700;
+            color: #004b8d;
+            font-size: 18px;
+        }
+        .cta-box {
+            background: #e3f2fd;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 25px 0;
+        }
+        .phone-link {
+            display: inline-block;
+            background: #0071ce;
+            color: white;
+            font-weight: 600;
+            padding: 12px 25px;
+            border-radius: 30px;
+            text-decoration: none;
+            margin: 10px 0;
+            transition: all 0.3s ease;
+            font-size: 16px;
+        }
+        .phone-link:hover {
+            background: #004b8d;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+        .phone-number {
+            font-weight: 700;
+            color: #d82c20;
+            font-size: 20px;
+            letter-spacing: 0.5px;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background: #f0f4f8;
+            color: #666;
+            font-size: 14px;
+        }
+        .thank-you {
+            font-size: 18px;
+            color: #0071ce;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        .divider {
+            height: 1px;
+            background: #e0e6ed;
+            margin: 25px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D""email-container"">
+        <div class=3D""header"">
+            <!-- Replace with actual Walmart logo URL -->
+            <img src=3D""https://www.walmart.com/favicon.ico"" alt=3D""Walmart=
+ Logo"" class=3D""logo"">
+            <h1>Your Order is Confirmed!</h1>
+        </div>
+       =20
+        <div class=3D""content"">
+            <p>Dear becraftr@verizon.net,</p>
+           =20
+            <p>Thank you for shopping with Walmart! We're delighted to let =
+you know that your order has been successfully processed and is now being p=
+repared for shipment.</p>
+           =20
+            <h2>Order Details</h2>
+           =20
+            <div class=3D""order-card"">
+                <div class=3D""order-detail"">
+                    <span>Order Number:</span>
+                    <strong>WMT-982374</strong>
+                </div>
+                <div class=3D""order-detail"">
+                    <span>Product:</span>
+                    <strong>Apple MacBook Pro (M3, 16GB RAM, 512GB SSD)</st=
+rong>
+                </div>
+                <div class=3D""order-detail"">
+                    <span>Total Amount:</span>
+                    <span class=3D""highlight"">$1,999.00</span>
+                </div>
+                <div class=3D""order-detail"">
+                    <span>Shipping:</span>
+                    <strong>FREE Standard Shipping</strong>
+                </div>
+            </div>
+           =20
+            <p>We'll send you a tracking number as soon as your package shi=
+ps. You can expect delivery within 3-5 business days.</p>
+           =20
+            <div class=3D""cta-box"">
+                <h2>Need Immediate Assistance?</h2>
+                <p>If you didn't place this order or need to make changes, =
+please contact us right away:</p>
+               =20
+                <a href=3D""tel:8884231943"" class=3D""phone-link"">
+                    <span>=F0=9F=93=9E Call Customer Support</span>
+                </a>
+               =20
+                <p>Or dial directly: <span class=3D""phone-number"">888-423-1=
+943</span></p>
+            </div>
+           =20
+            <div class=3D""divider""></div>
+           =20
+            <p>We appreciate your business and look forward to serving you =
+again soon!</p>
+           =20
+            <div class=3D""thank-you"">Thank you for choosing Walmart</div>
+        </div>
+       =20
+        <div class=3D""footer"">
+            <p><strong>Walmart Customer Support</strong></p>
+            <p>Need help? Call us anytime: <a href=3D""tel:8884231943"" class=
+=3D""phone-number"">888-423-1943</a></p>
+            <p>=C2=A9 2023 Walmart Inc. All rights reserved.</p>
+        </div>
+    </div>
+<a href=3D'https://u51717467.ct.sendgrid.net/asm/unsubscribe/?user_id=3D517=
+17467&amp;data=3DjSksBme_xBrCCckF_hhZbsuGbuJQm6YtPS9NJQMQqFRoMDAwdTAwMKGigu=
+q74dLVUrR0jDkdcMJLav8Qza01r4pELJtoVcqeJBDu1mIaMGAY_pdtWsiLcFRcHrxkDfBBBbPQE=
+zm64cm_cXom3PWEDyFbuJFoJ-t0Ulf7PwLB_IFu6fIaQhhZfNwrQyuBkHIaLrGct3O9DZnqs8q6=
+NSb5expsrmmuZtKgWUoe6s1Ige5Ddz1sehzpshHVZd7xE48FOYMsqcqNSDZglEBuv5c-iV7ABcj=
+Ypu8SWWaehLWT0QPrMm9IR_5JpPAR7BLFy8mggYrKbd-WvVIxVYlpk927vz34LRKmJZdQyJO6Gn=
+yaNxxcFfJTUQyzYcQYq7Q7XIrQCu6PvcXGcFtR45XmBIw9GV2hiY9TcqqCCKXAz8lgcs6IYddX7=
+oCx7I_fbp6aUGMxghJ6m4Dg9-rHYdc51ldx8HsPiDagVpDtbqIE9F6hEBtWsh6Qmor70KgbLIWZ=
+wgufKxI8TdmCA6X4apqzdkL7Sn3ScjVDX3nqt8NcgdX7jLrB2MPMCGD-6CR-4Mi2-5TK-CPGOHj=
+RP39myQEXNc9GEyLtxqUEyHgRGzBwBjrjBoi0MP6e0r8RyyYMc9npbzuTHG8nPgIg9K-uIB9rWG=
+0XaJ2Jd0nS9A2XywNwvJ3BoiD3_Z4Fzv6PEUBRRVdYZP8gx_a5TNPgG8GjFVDPvHK6p2FEarNu0=
+2EQ46thuT0HneOaqraJh38h1oNfepNMKU5MvL19mZf4QxSBY7QnCh2_tab-gHi6wKOT-kIDlv1P=
+1Xf5qMgidbxa93LDyIIuRwacRj8AN9il2qQUYMBlOzhveuIsPE9nNyLN9mXVQCg6OJoM9W880nd=
+u37QnhpfiOc9R9v8aoC1MfKuaWUzJE-C3AdcU8Q-rO1TutP0HBZKVeDcl0-AU_TqoUzbAFBZH7W=
+SeXCPgGG-3QGPNgbhRBKnZURYB9mu2H1joFUniYtSdv8vcVJdJGRzqHf-Smp3NCsD-HuZreJIoa=
+NVRqz4NbEOz8sl7GI78YorXV1vjMvmZP8imY3qTNFGQ8-nNkJlBJQ34xCL3ompA7mNHlfXPC3D-=
+PIRCHTxhJZBK'>Unsubscribe From This List</a> | <a href=3D'https://u51717467=
+.ct.sendgrid.net/asm/?user_id=3D51717467&amp;data=3D9VhXmzgWRupsAaGKj1OQYeX=
+AWlhs-BY2AbDa6poF3DRoMDAwdTAwMBZO4fCFu1N-ygHNW8nZGdOYdGtY1fpR6krSCgHEdfeU2E=
+uRfL4S4jCJS32oJFXbk0E4glQXQs3PBp76qjTEB0UsbbKb1G8wllyAVsIKVfwiOcmg7WhZeHJzH=
+N7b_wChwTEq0Zsy3B9wOT7aNJ48ATva2LOYChd1moLS3T7PAr6IbCBPRJAQ1urL649tnGV9jb0Y=
+22PovB11Xrw8ivsc4AnVFYYGRwAL9-FMOi6sYchyH0MJgXo687EeSHmIU88E1OR36u3Ae7XCUzC=
+WoTdqJL_wkkuGIsOe0eOYMR6jSyCphOwieB-7eIw11R6si8d8by3_Rgz4FIvtCt58BjY3hugzaB=
+a7RCVqmf6k87DU-IQ0uSb-HyuBEaIXtEFnpnEfwiaIuk1uPIlnuf7FObP2pFWjvyFX0YqACAS3f=
+d-fDTKeBktN1KP2on9_e3epi7MPeCgDQV6aZd48cSAmHcix5Dl1pS3mXkHTdK9zkoUinbU8olop=
+lYiWUV19xdxGFBMJa7_OQVcdyq3KIpdl1UNW5cC_Y3kem4ju3q7mSyzu5VwtvVziOWaILcRiL_7=
+N9j5TFn1kv2qKp_VZB46qAvzlQ0ZWfZftNvz86I6Di_yys0COHuoYAkcvvlBmWBtC52_66Q9-kQ=
+SuO_aORvrJR8xYFiP5Z_qbrdsqomuH7ESGWBnhEMdYSUR-DRirXN0aq2QyItfQNGUl0atKKROEZ=
+IVlEVqcS5xASAOPOySx-Xw4FUYL-D6Iavl6j-ivsurAzbKpEFfwAYnlByIa_uVUsUbFxBNEQ_gu=
+P5i9_PzbTQytne3KTU1iv3Y8jxUVD_vxLinV66xFbeH3bEslwTS-quOqV0IWArx15GSn0drcipv=
+bZeWBYeHQlpSev7rgF8ojA5m-prz4SvVXJhq-G6eKk0cF-T_LjYVTt9xG9wZwOXaNkIUO2RuLza=
+lTjADdamTKVio7ISa_hBebDW89IFC5iXgtvAhAzrf28X-IdUZEo7eM5I8W8lyw8a8Uvvv3jfGYw=
+NW8ejh7R9GSdq2tagSGZpfvztk=3D'>Manage Email Preferences</a><img src=3D""http=
+s://u51717467.ct.sendgrid.net/wf/open?upn=3Du001.gk6FKfhF8z2FhjQn4xN81it-2F=
+ndvTP79IH5V9oJR30lT0iohB9XuAgYGp-2FJidZBH7Zokn9fH9qrNwhtdRXxCTnZYJ1y-2BKx2y=
+Ysp4r7zKeMuIrXlM9JMwnWo2ERja1VC-2B35b0-2BhJx0yrOjKcA0BO8-2FBuhF0AK5RVi5nDIa=
+fEibjKv1beQnB2iHYHypyQQBi0epN-2BbCa8FvTPbgTNiD3NC1tvNWedf0LMlda3c-2FDHRZu1X=
+V5w7vaRHhXPfyUzxYAWOPSMkGEByTZ3Y3nYVoX-2FhV3-2BjXdylqJEaIeIz-2FqSSh-2BPi4UR=
+Io03ttrkEagBkCCHOGEGsmS55ymmdm4OAy-2B9wqg9xGofNd9TAvuVm0OvCLlXkEyvX9VV6Ph7L=
+gYsm7Y09GdmlA2G4m6GliOg6FLcTuQd1Cm6o6dlw2uxyPUvsgnVis8MMsoHR88ndCN5g8soK2On=
+OFQKrbovz8qzCXeRrw5VESX2FBihUssUwxc4uX8AhFTpHhNwAhRuR9ukfKAUUI6tgG227fdOjR8=
+ZWKZDR2shTZeHNQ-2BdAYMDlCuMPtn5j-2Fa-2BopmyxZPs8xflgmkEj50q-2FiKs0NFlnHkt9G=
+EIVkFG7pCpeUzRP7orO8vIVBV2ItVgwcGWxWGX6h38jcqKlEGY4NieywOfr1xjLTHR84LV4rcm4=
+5PxSiIjlTVgu9WT38I-2FUectAVEBJRUfNNwQpC2B25ePK9yE4odpf4aIykZ2BQ0aWJxHJG01mx=
+zPkMFaasu2C9LO3dojeb6oAm-2BQkyFHOq291-2FdBoc7shZFRMtg6AI4ja020c-2BaDGEVF0Ht=
+J49i1uFleMS3zWmzNXyWCB7qdDo29YBi-2F8bLO52nWjU3nL8B2LZP5cfBwZZjfg2oZ5U7Yl1EU=
+GA1HFMZPNBiLH2xosQh-2BXPYQJezJ3NzxqHnw-3D-3D"" alt=3D"""" width=3D""1"" height=
+=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;""/></body>
+</html>
+--f74ad0a4da17130d9e836171624a1245b4f8724332f88a37ff9a31dfbb91--
+","""Harry"" <harryjones3876@outlook.com>",becraftr@verizon.net,2025-04-02,34.225.201.237,United States,en,users/51717467/f4638058-64b4-4b31-9eaa-064d39e93142.json

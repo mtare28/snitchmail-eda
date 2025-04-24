@@ -1,0 +1,423 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50893438,JJiotuR_RayMz8ycGFE-DQ.recvd-69cbc48b94-ftnkf-1-67BEEDAF-6.0,cHJvY2Vzc2VkLTUwODkzNDM4LUpKaW90dVJfUmF5TXo4eWNHRkUtRFEtMA,PENGU Distribution - You've unlocked a special PENGU Voucher Card,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=QoEGxpQVX0VTS7i3UoGHkC2DoWeWRMdzdghITAAQJcc=;
+	b=wMIYGFaXmwlEgqs2PXg7Oa3UWgbIGFH21mtOa7EKy7XtDVQBl4QibkH9oUmq7Ehed7JG
+	DBLP/Ti0q5yknmqNGmxTRdXqcBkrMFpM+U9MUgw6Bt2P7nM/fJbvb1qkQm/Nb1ct1VajgV
+	Eo6ZAbpw7JJjU+rgh+/oHK5iYTQh/CLIo=
+Received: by recvd-69cbc48b94-ftnkf with SMTP id recvd-69cbc48b94-ftnkf-1-67BEEDAF-6
+	2025-02-26 10:32:15.165306871 +0000 UTC m=+8946621.817524899
+Received: from NTA4OTM0Mzg (unknown)
+	by geopod-ismtpd-16 (SG) with HTTP
+	id JJiotuR_RayMz8ycGFE-DQ
+	Wed, 26 Feb 2025 10:32:15.134 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=17407174896ea6af24100a02281c4883e1ae856d69a005f8bada24c99a92
+Date: Wed, 26 Feb 2025 10:32:15 +0000 (UTC)
+From: PENGU Distribution <fatjl9s4@k.zjfzjzd.org>
+Mime-Version: 1.0
+Message-ID: <JJiotuR_RayMz8ycGFE-DQ@geopod-ismtpd-16>
+Subject: PENGU Distribution - You've unlocked a special PENGU Voucher Card
+Reply-To: fatjl9s4@k.zjfzjzd.org
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu50893438=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2ETbfa?=
+ =?us-ascii?Q?eVWPwnAxBlgiNk1TvQhGyDMg6Q=5FEhFA=5FkObD2Bz?=
+ =?us-ascii?Q?gQNjz2DqVKH3aKy0YoBazTqVWF8ttmddEIjxLBo?=
+ =?us-ascii?Q?0mVuV2N=5FF=5FREKh4y1mhxVmv25H-eJUThZbBNnUQ?=
+ =?us-ascii?Q?vI5rgwBTu3rd24kr2MWbUM2X7t1IFCfq7i4GsOF?=
+ =?us-ascii?Q?nF9L=5FQHCMZIY1xYxAigrkiVH-wkOydX6e3BMZA=5F?=
+ =?us-ascii?Q?DUeNrTe9izwxhkvvlRQWB-Gju707x7faVhfJTWT?=
+ =?us-ascii?Q?hjgxf1vCtCZn3thZry3E3LpziHn9TecmF66t3px?=
+ =?us-ascii?Q?fWZMGnjspxBjY6gc3eSkzjyV-FlEdfChBDxuQVB?=
+ =?us-ascii?Q?yhnNVzIisQLLPnbatfn4sMdJgOhBw1VJHqYW2Uc?=
+ =?us-ascii?Q?t-k=5FEHpGCgIFDjQlbxsLn4RRSVtcyLS3SZZkA8o?=
+ =?us-ascii?Q?P1a=5FunI7ThkjmE5vxsP868gF2qIe-SeTs2TgLN0?=
+ =?us-ascii?Q?ujJ6Uyfb5HHtpOLJUvvJtt8e6GbbSwEwuH1d=5FVb?=
+ =?us-ascii?Q?7GHcpJH9824fqJuSA2IC0PpTOsAqb6PU3lljO8L?=
+ =?us-ascii?Q?sf3CfeF6miUsMKyggsayFFOccyQ24Nnp2OF1Hwr?=
+ =?us-ascii?Q?zoSiIXli5fn5sJ4s5RIVnzmdtz0H5YCnvgHSNIc?=
+ =?us-ascii?Q?0PV2VljcCGkjWmS3FDI1QgYSO-lNmyd-MtLlb=5Fd?=
+ =?us-ascii?Q?-Nui6yd4TWPnxZf5D0OWE3Ha0VbPTWOP0wAg8-D?=
+ =?us-ascii?Q?KxWNZ9nVCuV4BEt28u2h0KH8wretZQxzLzv5BYp?=
+ =?us-ascii?Q?Xq6AERfAl1Be1gps7QDzb5cfYJrGnNb3NBzJ6fB?=
+ =?us-ascii?Q?33z=5Fmq8f7n9Zpp1gJ-4XVHmYWp=5FgExgRN-lBINT?=
+ =?us-ascii?Q?Ch-s1sLv9dnx=5FHNbcFYYrCddfxOmxZ5cRmwIds1?=
+ =?us-ascii?Q?9nG2-ZvhU71fwx1njPpjH6ZYYXupxDDx3kqAoUb?=
+ =?us-ascii?Q?EmYxu2TWITSH-ZyoZmCMBo6PWz50arPNv9qTO=5Fu?=
+ =?us-ascii?Q?vmHxM=5Fbm=5FOztakjHary5Pv8IjJnSuVzCF7cvg5M?=
+ =?us-ascii?Q?hIzKPYdClKIUgjEV5mkkiznPP2yeQmFdPhSpdft?=
+ =?us-ascii?Q?E44lSub71XSo=5FJ7-vY9Od9DMIa5ivcfct3wIQie?=
+ =?us-ascii?Q?kii0kbPSNB9IBdkiTIjUoxlV0tcp5iu55zYoUYo?=
+ =?us-ascii?Q?vR6nop4JBwWU2Ivcr4QfUrX17vHhPBtCW2Md1ol?=
+ =?us-ascii?Q?RQbRrX4Tk=5FjpmFYxEI2aVp1SvNkfntpfPMOP399?=
+ =?us-ascii?Q?luPtZSeRtlBhIWov6148OxGC1zr7Uii=5F9vWkC1s?=
+ =?us-ascii?Q?H-nB84JJ4lwJLq1KY9=5FUA-Dg1rW=5FFi8FIKIpdHr?=
+ =?us-ascii?Q?ZOX6HdcU6Mz68xoRvfq85HB0e3Gi=5FjgMmakG4po?=
+ =?us-ascii?Q?i1ZaUK9ej-=5FFVV9ORS0eMxGPF3PSRp99Qc6xpc3?=
+ =?us-ascii?Q?2MiSsFv=5F9ASHR7tVzfWwm7bLZy1K9Yq-63j1uWk?=
+ =?us-ascii?Q?LFSgf134ZFDcDN=3E=2C=3Cmailto=3Aunsubscribe=40sen?=
+ =?us-ascii?Q?dgrid=2Enet=3Fsubject=3Dhttps=3A=2F=2Fu50893438=2Ect=2E?=
+ =?us-ascii?Q?sendgrid=2Enet=2Fmt=2Fu=2Fu001=2E2urY0Y84lUgLlhmb?=
+ =?us-ascii?Q?YR4v5CvRTkXrdey0EZRn4Jct7EE=2F4ec=2Fu001=2EiK?=
+ =?us-ascii?Q?xjtUZ8=2Fu001=2EDszzrUjpW5VgNyjBOiEUUMl-2Fx?=
+ =?us-ascii?Q?c6ZfeQ-2FH-2F1kM1wLpBRb77ww9pYTAK94W0-2?=
+ =?us-ascii?Q?BlTPydyHzOTjIvXwMCu8oBd-2B2-2BEICJc31Xp?=
+ =?us-ascii?Q?75uhjn7-2F7Eq9sONs-2Bz09-2B2RsNwpkj8dyg?=
+ =?us-ascii?Q?HfFEDYaypFBZSxQE-2FlNF8sjDkKSNrbn1NgVRa?=
+ =?us-ascii?Q?J3-2FMcyCiFdq4dfKzRlyPa-2B-2Bdz6SpplqRd?=
+ =?us-ascii?Q?LnEbDwSgANCr8wKirREg3EBZ2lx2Dy-2BU2amU7?=
+ =?us-ascii?Q?5N8Ildst-2B0FDnYWfiARq0IqNrNAr7Nr2iONQM?=
+ =?us-ascii?Q?sB7OQtHZIvWbrDI24VUW0-2B3563FTXCyO3miC7?=
+ =?us-ascii?Q?ck31FKPy4PAUaaH3Q50PXinoMVpqCH4IUVl-2BU?=
+ =?us-ascii?Q?mAJQ9DiNqm38q-2FwFEdqjXy0a0jdjzM4W1G54e?=
+ =?us-ascii?Q?DOYgRCnE-2Bl2iP-2BrUMyD0oRfKdMUARIVsZqU?=
+ =?us-ascii?Q?jTdQco9610-2B15YGuDxHSG9Y3J3EjIsxdkRAAU?=
+ =?us-ascii?Q?EKJmvqz47ClfPu8R5RtmV3Qmp-2F0Xi7KFoR5Xg?=
+ =?us-ascii?Q?N56jsbcblayp6w3x8mAWvNAjeVW9g54QWJ8TaLJ?=
+ =?us-ascii?Q?hpWxQWrtTjBfgASMGWpJGCEVVecK81pMb-2BJWL?=
+ =?us-ascii?Q?RYm9n2QufVznXSl5acL7UjDjPkYBrlkaIozqgB9?=
+ =?us-ascii?Q?uImb2rNsEpb5ZSAA-2F4MNgYLC9LBg6uhwqTkun?=
+ =?us-ascii?Q?L7se1lCpvZierO7wmvAiMfH6PoFYFlzCwddy6EU?=
+ =?us-ascii?Q?jYc57RHrOQnldFj25KdBMkBaLHPnJ8owTTNeg2X?=
+ =?us-ascii?Q?d0-2FFOpTsbK7zASSu3EZ5tu-2Fwi5Ugo1MDPSI?=
+ =?us-ascii?Q?UWDd540U2SoFQfrsVS3D7L7PgppI8DZt09I5Wuf?=
+ =?us-ascii?Q?WDXaiZTOZM33JFDWj4B8R7VcQ7JTTBPkeZZmmDB?=
+ =?us-ascii?Q?5TchAntN-2BwHcm6ke-2FGdOyRONCCJu-2BEt7d?=
+ =?us-ascii?Q?y1oO4W7ClGpmHcqxDvIpUELCKNK-2BDn=2Fu001=2EA?=
+ =?us-ascii?Q?JoT9Jxo=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EF+Cqc60lrUzODyWvW61a2EXFNADFhBGoUom0O1uWS097Xaq7U+hhbu1bD?=
+ =?us-ascii?Q?HMBmHa28qcqQC33k0xCR=2FLA+e3Wl=2FuNoNAKtcSH?=
+ =?us-ascii?Q?EyKLlJkvpK661PFanQX8DHml2sAZ7Z+kImVGjmr?=
+ =?us-ascii?Q?q6eiAdUs1rqAixHN64o1pLpqHmY63y6lw3tIdrW?=
+ =?us-ascii?Q?YPmIClxiTY2VpICv+QfmpqNuc2FmtYfsHYsn7RS?=
+ =?us-ascii?Q?uBUCh2zNuni6AyppjCCBfUFulFufCFZs=2FIKoqfr?= =?us-ascii?Q?DMHa?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FWDI=2FiEd?=
+ =?us-ascii?Q?7XMFqppfDKfGUDkpedF4RmKyLLYKtTmLscJT1eq?=
+ =?us-ascii?Q?KAPjHuAHhw69GmgArJxfAJZ97Yc0V5fwJkMOykm?=
+ =?us-ascii?Q?lm55tAccz3ztsgAGMLSGO6a=2FSdxMzsrTpGF0lXQ?=
+ =?us-ascii?Q?jTSc8MIWDN8w0kktuOsf9JDu+2nYhXGcc+6AhM5?=
+ =?us-ascii?Q?G9YBgyWTR0JBdXmz5+mckbsjLyNmt4E1H9N6q7c?=
+ =?us-ascii?Q?rgvrSXXUwe=2FOGNrKXHPOz9Zi89NrElxGFjoXgWp?=
+ =?us-ascii?Q?hfJedfGIdO7Rf79iTF2tRbsF8H9FiH73zaw5Mz0?=
+ =?us-ascii?Q?vsk6VkQ5r+P+eTXTHp79T7PksgflnDFz0omZ8nj?=
+ =?us-ascii?Q?vfRoGJ2OuJsVhGxvMNhOMQ2XkMLtDK6Css27Mda?=
+ =?us-ascii?Q?WmtcqHSCVK08ACPUdTng4fFaAqRDIWcr9w1QAfI?=
+ =?us-ascii?Q?qpb8JZTplebmosK1NtumIlLvawwr2iELQ8n6wyF?=
+ =?us-ascii?Q?wrVhDH8GkpDIOpPqv79v9+=2FhZ7zJ7eGmZaqAXHX?=
+ =?us-ascii?Q?ef0ttjF5wqfrXIsPV92s+XVHzWJqajELJ2O1qLk?=
+ =?us-ascii?Q?5=2FfeW8MNF+VcPwgu2ZOIW=2F0McS3PvsgE81caWQo?=
+ =?us-ascii?Q?MWMYmadwaoHPltCbXnR=2FLoX?=
+To: kemal61@hotmail.com
+X-Entity-ID: u001.Y9soCq92W2tAMKWldBJ3Aw==
+
+--17407174896ea6af24100a02281c4883e1ae856d69a005f8bada24c99a92
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+**********************
+Pudgy Penguins #065146
+**********************
+
+*Congratulations* *!* You=E2=80=99ve unlocked a special *Pudgy Penguins* Ca=
+rd reward!
+
+Exchange=C2=A0it now and claim *100,000 $PENGU* Tokens.
+
+Exchange Card ( https://comunidadefarol.org/incontrovertible/minis/ )
+
+228 Park Ave South #22014, New York, NY 10003
+
+=C2=A92018 - 2025 Pudgy Penguins ( https://google.com )
+--17407174896ea6af24100a02281c4883e1ae856d69a005f8bada24c99a92
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<table align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" =
+role=3D""presentation"" style=3D""color: rgb(34, 34, 34); font-size: small; wi=
+dth: 540px; font-family: Inter, Helvetica, Arial; table-layout: fixed; back=
+ground-color: rgb(229, 232, 235); border-collapse: collapse !important;"" wi=
+dth=3D""540"">
+			<tbody>
+				<tr>
+					<td align=3D""center"" style=3D""margin: 0px; border-collapse: collapse; =
+background-color: rgb(254, 255, 255); box-sizing: border-box !important;"" v=
+align=3D""top"">
+						<table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""prese=
+ntation"" style=3D""width: 460px; table-layout: fixed; border-collapse: colla=
+pse !important;"" width=3D""460"">
+							<tbody>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; border-collapse: collap=
+se; box-sizing: border-box !important;"" valign=3D""top"">
+										<font color=3D""#1155cc""><span style=3D""box-sizing: border-box !im=
+portant;""><img alt=3D"""" class=3D""CToWUd a6T"" data-bit=3D""iit"" src=3D""https:=
+//ci3.googleusercontent.com/meips/ADKq_NZC6YtSTGvF4KXQ9SWf0Zo70xgYxZ15onO8C=
+C589vX7VLxK44BIejZOaTcqPBddCfOXxduUp0CELTZcKjiUqIf65J9fTJUUa-Uso1FvdussiN9n=
+s6XFXWhXzO5pS0fFiTM=3Ds0-d-e1-ft#https://upload.wikimedia.org/wikipedia/com=
+mons/5/5b/Pudgy_Penguins_Logo.jpg"" style=3D""cursor: pointer; outline: 0px; =
+width: 200px; height: 105px;"" tabindex=3D""0"" /></span></font></td>
+								</tr>
+								<tr>
+									<td height=3D""20"" style=3D""margin: 0px; height: 20px; line-height:=
+ 0px; font-size: 0px; border-collapse: collapse; box-sizing: border-box !im=
+portant;"">
+										&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table align=3D""center"" bgcolor=3D""rgb(254,255,255)"" border=3D""0"" cellpad=
+ding=3D""0"" cellspacing=3D""0"" role=3D""presentation"" style=3D""color: rgb(34, =
+34, 34); font-size: small; width: 540px; font-family: Inter, Helvetica, Ari=
+al; table-layout: fixed; background-color: rgb(254, 255, 255); border-colla=
+pse: collapse !important;"" width=3D""540"">
+			<tbody>
+				<tr>
+					<td align=3D""center"" style=3D""margin: 0px; border-collapse: collapse; =
+box-sizing: border-box !important;"" valign=3D""top"">
+						<table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""prese=
+ntation"" style=3D""width: 460px; table-layout: fixed; border-collapse: colla=
+pse !important;"" width=3D""460"">
+							<tbody>
+								<tr>
+									<td align=3D""left"" style=3D""margin: 0px; padding: 25px 0px 0px; bo=
+rder-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top""=
+>
+										<h1 style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); l=
+ine-height: 32px; font-family: Poppins, Helvetica, Arial; font-size: 24px;""=
+>
+											<span class=3D""il"">Pudgy</span>&nbsp;Penguins #065146</h1>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" style=3D""margin: 0px; padding: 15px 0px 0px; bo=
+rder-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top""=
+>
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 28px; font-size: 18px;"">
+											<strong>Congratulations</strong><span style=3D""color: rgb(105, 1=
+05, 105);""><strong>!</strong></span>&nbsp;You&rsquo;ve unlocked a special&n=
+bsp;<span style=3D""color: rgb(0, 0, 0);""><strong><span class=3D""il"">Pudgy</=
+span>&nbsp;Penguins</strong></span>&nbsp;Card reward!</p>
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 28px; font-size: 18px;"">
+											&nbsp;</p>
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 28px; font-size: 18px;"">
+											Exchange&nbsp;it now and claim&nbsp;<strong>100,000 $PENGU</stro=
+ng>&nbsp;Tokens.</p>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; padding: 25px 0px 0px; =
+border-collapse: collapse; box-sizing: border-box !important;"" valign=3D""to=
+p"">
+										<font color=3D""#111111""><span style=3D""box-sizing: border-box !im=
+portant;""><img alt=3D"""" src=3D""https://bantuchain.io/audio/pug.png"" style=
+=3D""width: 122px; height: 181px;"" /></span></font></td>
+								</tr>
+								<tr>
+									<td align=3D""left"" style=3D""margin: 0px; padding: 25px 0px 0px; bo=
+rder-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top""=
+>
+										<a data-saferedirecturl=3D""https://comunidadefarol.org/incontrove=
+rtible/minis/"" href=3D""https://u50893438.ct.sendgrid.net/ls/click?upn=3Du00=
+1.jtUZgitNxgD7e0k8zq-2BuOcTqow7qES0-2FfFCi5wRhbqraTyW694soAq6D1aQcwHTlEDGV2=
+8pxlzAkdH45ypsbtA-3D-3D0imu_gAEmUiQgQYnFtWuOO1PloWZdf5gd71B6TahdwfhBwkdFkGX=
+9BVqZ1deHxhC1V8AilzbfhlVATyTML-2Bb1PRSGHSF0CDXt6ZMirdwhFC2cwx5G5kxhsfxQtDRU=
+BVNUV4WUbNtuNGTEsuqC2guKOmwZDAO45v5awLg4uho33IaUbBFqnbCfD-2B6yJdMffLEPWxjOY=
+OG0C1QuTX5V-2FfbSqb03nBPJRzo12nw7AawuMJ9aaocuaHFlXxIY9wTd9xkPQPf-2FwD-2FB62=
+lqjtamOiQzP4Lq4oSqzesEgbYGaQNbcV3yUo028ABwSwoo-2BJyNHZbzv7-2F05v92uYfqDJzMs=
+PLfFsENfjRi5Tl4RiudfYi2EK5wpG2gROehAuI4Mmh59qrFmSwNfJsDjrzlXgzwWehlR62YoIdC=
+SuFPAMP9I6-2BSr0Oi6PoapdJ9uZMrkk1AXX5bDlTMYqJGjaIwRuyQNQREBPdQtGzQbj2qPdezN=
+8-2B2WUL9zetuQdOMYD1VpuCq5fRHQEswRhV6c-2Bn2us3fRuJ1-2FOkuTBTYYcqBqpM9lZl4Qb=
+hZG09-2Fb96OhIdySF-2B3Pl-2FyVHMZQHgjRyGGEn9s3DbJYFLuyVV4V-2Fw96cBvUXfhhGTOp=
+tdSqHrqRRDRN-2F9CyIK6BcTWhKHxGsvXxVxbqgvYhch1Z8Q2VVm88wUooJ5Qd019JhNV7iiJmu=
+CAljlVr1g-2F1A1pKEecPa03gP5d83hZlcgtf8id3H37dIx1ckTArKrQ-2BIFOXJ3o4pxdG05Eb=
+dZKT0mCma9g2msbhPFNW7I6Pam8YOVrGI7gT-2BYrf-2BG1QncjkKT8dWh9qznK7z4SbDzMi35N=
+4XNSCVfB0o-2BnQDb1cakjr0oj9wg7nZT9fWCK-2FIVZ0yA-3D"" rel=3D""noopener"" style=
+=3D""color: rgb(255, 255, 255); border-radius: 12px; border: 1px solid rgb(2=
+55, 255, 255); width: 460px; text-align: center; line-height: 55px; font-fa=
+mily: Poppins, Helvetica, Arial; font-size: 18px; font-weight: 600; display=
+: inline-block; border-collapse: collapse; background-color: rgb(32, 129, 2=
+26); text-decoration-line: none; box-sizing: border-box !important;"" target=
+=3D""_blank"">Exchange Card</a></td>
+								</tr>
+								<tr>
+									<td align=3D""left"" style=3D""margin: 0px; padding: 12px 0px 0px; bo=
+rder-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top""=
+>
+										&nbsp;</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<table align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" =
+role=3D""presentation"" style=3D""color: rgb(34, 34, 34); font-size: small; wi=
+dth: 540px; font-family: Inter, Helvetica, Arial; table-layout: fixed; back=
+ground-color: rgb(229, 232, 235); border-collapse: collapse !important;"" wi=
+dth=3D""540"">
+			<tbody>
+				<tr>
+					<td align=3D""center"" style=3D""margin: 0px; border-collapse: collapse; =
+background-color: rgb(254, 255, 255); box-sizing: border-box !important;"" v=
+align=3D""top"">
+						<table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""prese=
+ntation"" style=3D""width: 460px; table-layout: fixed; border-collapse: colla=
+pse !important;"" width=3D""460"">
+							<tbody>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; border-collapse: collap=
+se; box-sizing: border-box !important;"" valign=3D""top"">
+										<font color=3D""#1155cc""><span style=3D""box-sizing: border-box !im=
+portant;""><img alt=3D"""" class=3D""CToWUd a6T"" data-bit=3D""iit"" src=3D""https:=
+//ci3.googleusercontent.com/meips/ADKq_NZC6YtSTGvF4KXQ9SWf0Zo70xgYxZ15onO8C=
+C589vX7VLxK44BIejZOaTcqPBddCfOXxduUp0CELTZcKjiUqIf65J9fTJUUa-Uso1FvdussiN9n=
+s6XFXWhXzO5pS0fFiTM=3Ds0-d-e1-ft#https://upload.wikimedia.org/wikipedia/com=
+mons/5/5b/Pudgy_Penguins_Logo.jpg"" style=3D""cursor: pointer; outline: 0px; =
+width: 100px; height: 52px;"" tabindex=3D""0"" /></span></font></td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; padding-top: 15px; bord=
+er-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top"">
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 18px; font-size: 12px;"">
+											&nbsp;</p>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; padding-top: 15px; bord=
+er-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top"">
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 18px; font-size: 12px;"">
+											&nbsp;</p>
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 18px; font-size: 12px;"">
+											228 Park Ave South #22014, New York, NY 10003</p>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; padding-top: 35px; bord=
+er-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top"">
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 18px; font-size: 12px; font-weight: 700;"">
+											&nbsp;</p>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; padding-top: 15px; bord=
+er-collapse: collapse; box-sizing: border-box !important;"" valign=3D""top"">
+										<table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""p=
+resentation"" style=3D""border-collapse: collapse !important; table-layout: f=
+ixed;"">
+											<tbody>
+												<tr>
+													<td align=3D""left"" style=3D""margin: 0px; padding-right: 25px; =
+border-collapse: collapse; box-sizing: border-box !important;"" valign=3D""to=
+p"">
+														<font color=3D""#1155cc""><span style=3D""box-sizing: border-box=
+ !important;""><img alt=3D""iOS App Store"" class=3D""CToWUd"" data-bit=3D""iit"" =
+src=3D""https://ci3.googleusercontent.com/meips/ADKq_Nbv1SfrVhu5qqHlPURBE8ev=
+Lv-CcAjc3UoqDGo1k4V25aRm62H2wVDDTm2CjgGeKknGMh-sfcUuo4HwO52Akl-2fwdswLzHYKr=
+-NY1iyxaEBNcvEzx7dPOmCk24JLK9_aaoDA6_CuFCRv6HDl7K0ztuBS-xRlrVRhVGzVDgHLO_Sa=
+aD-o7FD6VeyzhbW0W9Ywl28MknukvLo-EVGdBqNYnraHpSCAtAgiLF__xL9jrwiIz6FKI4=3Ds0=
+-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669=
+d5713-9b6a-46bb-bd7e-c542cff6dd6a/79321cd9dcd645da85fea8d0a49bebde/editor_i=
+mages/AppStore.png"" style=3D""width: 120px; display: block; max-width: 120px=
+; border: 0px currentcolor !important;"" /></span></font></td>
+													<td align=3D""left"" style=3D""margin: 0px; border-collapse: coll=
+apse; box-sizing: border-box !important;"" valign=3D""top"">
+														<font color=3D""#1155cc""><span style=3D""box-sizing: border-box=
+ !important;""><img alt=3D""GooglePlay"" border=3D""0"" class=3D""CToWUd"" data-bi=
+t=3D""iit"" src=3D""https://ci3.googleusercontent.com/meips/ADKq_NZgav5VmchdwD=
+4wpgv2DOwe8wYpyqIbRbIwhPPJm6SWLRb_3TesiZ4IZVCQ64u7jXElHa_BcSXDCLYhPQuIoVZ7F=
+78yHILYzwgnvyauA1FhxKreV8GTcPncPbVad2U8lchwELTjWsECQNO1aqPVzBP36k0cHwhHQnFa=
+DqQKxnkVOh8vvSJ4V5qK3s9mVtD3dMEa0DBfoEzxqbelPW5l4-hdv-t5CZMswfpSW5PX8y6-ahw=
+z74r4dQ4=3Ds0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/In=
+tegrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/79321cd9dcd645da85fea8d0a49b=
+ebde/editor_images/GooglePlay.png"" style=3D""width: 135px; display: block; m=
+ax-width: 135px; border: 0px currentcolor !important;"" width=3D""135"" /></sp=
+an></font></td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; padding: 30px 80px 0px =
+0px; border-collapse: collapse; box-sizing: border-box !important;"" valign=
+=3D""top"">
+										&nbsp;</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""margin: 0px; padding: 25px 0px 0px; =
+border-collapse: collapse; box-sizing: border-box !important;"" valign=3D""to=
+p"">
+										<p style=3D""margin: 0px; padding: 0px; color: rgb(17, 17, 17); li=
+ne-height: 18px; font-size: 12px;"">
+											&copy;2018 - 2025&nbsp;<a href=3D""https://u50893438.ct.sendgrid.=
+net/ls/click?upn=3Du001.jtUZgitNxgD7e0k8zq-2BuOTrIsRq-2B-2FTSleoRYxuNsfFs-3=
+DGBXM_gAEmUiQgQYnFtWuOO1PloWZdf5gd71B6TahdwfhBwkdFkGX9BVqZ1deHxhC1V8Ailzbfh=
+lVATyTML-2Bb1PRSGHSF0CDXt6ZMirdwhFC2cwx5G5kxhsfxQtDRUBVNUV4WUbNtuNGTEsuqC2g=
+uKOmwZDAO45v5awLg4uho33IaUbBFqnbCfD-2B6yJdMffLEPWxjOYOG0C1QuTX5V-2FfbSqb03n=
+BPJRzo12nw7AawuMJ9aaocuaHFlXxIY9wTd9xkPQPf-2FwD-2FB62lqjtamOiQzP4Lq4oSqzesE=
+gbYGaQNbcV3yUo028ABwSwoo-2BJyNHZbzv7-2F05v92uYfqDJzMsPLfFsENfjRi5Tl4RiudfYi=
+2EK5wpG2gROehAuI4Mmh59qrFmSwNfJsDjrzlXgzwWehlR62YoIdCSuFPAMP9I6-2BSr0Oi6Poa=
+pdJ9uZMrkk1AXX5bDlTMYqJGjaIwRuyQNQREBPdQtGzQbj2qPdezN8-2B2WUL9zetuQdOMYD1Vp=
+uCq5fRHQEswRhV6c-2Bn2us3fRuJ1-2FOkuTBTYYcqBqpM9lZl4QbhZG09-2Fb96OhIdySF-2B3=
+Pl-2FyVHMZQHgjRyGGEn9s3DbJYFLuyVV4V-2Fw96cBvUXfhhGTOptdSqHrqRRDRN-2F9CyIK6B=
+cTWhKHxGsvXxVxbqgvYhch1Z8Q2VVm88wUooJ5Qd019JhNV7iiJmuCAljlVr1g-2F1A1pKEecPa=
+03gP5d83hZlcgtf8id3H37dIx1ckTArKrQ-2BIG-2B0vaSVobecqoGOBPkGlaX5LqhOYWyLJd5k=
+ROOFjBJiOKMb-2BuB6oi7KH-2BgfcHPCzb2auOXzt9YWq8brsMuG09cGAUwOq2fJtgqDv-2FQEO=
+6J8cOSsLTfeBKv2P4SCQ3w6bk-3D"" style=3D""color: rgb(17, 85, 204);"" target=3D""=
+_blank""><span class=3D""il"">Pudgy</span>&nbsp;Penguins</a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	=09
+	<img src=3D""https://u50893438.ct.sendgrid.net/wf/open?upn=3Du001.o27Ad9ySp=
+7Xv-2Be9ZMcX6t0AHSRuUlHC1gdDvyG-2FIxVy83zDjnA1P5NSBhJsuj5ErtYLhQgHkFZJxTmSY=
+zL3ZIMDIiWot9kJlKc-2Bj8N0gJc69cw8MqMhE6XklDuRYJQIKBFvdrOiMVfUA5237XDitSSRpH=
+-2BX4loKFE6fXYZU98dF-2Bn-2BrmPy6dJ0gh5csnlH4yNgzdto2JhIpBXp6jBi2LAHdUuRbfVX=
+1zGTJBw8s7pjyZZEnIrU933ppNaUYmJ7XwOPzxQdvcSZepX45aKLP9WNYYQct804p5IgSof1MkD=
+l-2BEa8FEvyAVnsub7xRi98MnvGQTepbPTzxG-2B76oxy3hVkC2phRjKF51e1q5bUo1flZmMty3=
+FRQRKK-2BosH28QSD7J7R3vbZY0borAs2u96cRLJYnZqrx1dRUFBnEVRQs7t9eCJz3sr2m9Xjuo=
+G9zTN5n3hFrwVUZu43U8vHodK-2F29zOexmZaxNAV56B-2B0-2FBgCBT347MkpzIelcfS-2FZIy=
+DsOMlsO-2Bf5nghESYNza5MPeVcFpPXbQv8rCQRuqNUMELj3LLhGdY8qBAZsAqnH8plcXvemQx2=
+TS8j3M0OODHbSLTq4LSSZOQ5TBPXmUjxvYJuVpfmc3DSY6KerHfvNJ0E7WNfl4M8MIVbDU35PRy=
+uxKGzKLwuodg-2FvODg028EDWcNEgTv-2B-2BSE-2Bz1ntsy70yR-2FKCxj7dcvozsverdpE6Qx=
+NzFlFM8EYscRsLfRXMStMqNo1dQVJCkFo0eut2Wvh6VpkOZ-2FVMcb4vNV-2FboxbbBjIOgO-2F=
+glpasyI1RVod9-2F1VqRqcQCHX-2Bek5TedZFMPkmMxPBIPRRWxaDe9rofx35TjW-2BNMsYaC8R=
+X423LM6IrvuWfkcB8V1T25CKj8hLfOkstneU9"" alt=3D"""" width=3D""1"" height=3D""1"" bo=
+rder=3D""0"" style=3D""height:1px !important;width:1px !important;border-width=
+:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-rig=
+ht:0 !important;margin-left:0 !important;padding-top:0 !important;padding-b=
+ottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/>=
+</body>
+</html>
+
+--17407174896ea6af24100a02281c4883e1ae856d69a005f8bada24c99a92--
+","""PENGU Distribution"" <fatjl9s4@k.zjfzjzd.org>",kemal61@hotmail.com,2025-02-26,44.198.45.247,United States,en,users/50893438/7226b672-ab44-439e-9c9f-63bf171deb6b.json

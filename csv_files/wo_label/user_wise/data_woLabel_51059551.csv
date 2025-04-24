@@ -1,0 +1,200 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51059551,3Q0QCLJMQZWdP6GAhQf0JA.recvd-69cbc48b94-26k88-1-67C85F0D-3.0,cHJvY2Vzc2VkLTUxMDU5NTUxLTNRMFFDTEpNUVpXZFA2R0FoUWYwSkEtMA,🎉 Welcome to AT&T! Your DSL Service is Now Active ✅,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=mVOgZegdtbEXM2YuU02QOQArGDgmJSkYsmbUi0OhYGE=;
+	b=Zmd4gKzPimJnL4GvB5n4+YtgK3MUVH8GAqijJhyaEGesfW4wSTalpSpcCtOijS/UDcBX
+	ZWzWzANyO7svysxxKHcqMJg1MHMksLFP5m8r6icyJ5FVAqiwijhI5SOuQLl3hypLvlORWH
+	lreqRjBA1ptczDKkjUxscGS25bkW6HxYw=
+Received: by recvd-69cbc48b94-26k88 with SMTP id recvd-69cbc48b94-26k88-1-67C85F0D-3
+	2025-03-05 14:26:21.428846875 +0000 UTC m=+9565438.645987977
+Received: from NTEwNTk1NTE (unknown)
+	by geopod-ismtpd-17 (SG) with HTTP
+	id 3Q0QCLJMQZWdP6GAhQf0JA
+	Wed, 05 Mar 2025 14:26:21.387 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=1262867863bf8b06a0002faed6f125c374da542ac28c41f39dc354da3662
+Date: Wed, 05 Mar 2025 14:26:21 +0000 (UTC)
+From: Sierra <sienafinkb973@hotmail.com>
+Mime-Version: 1.0
+Message-ID: <3Q0QCLJMQZWdP6GAhQf0JA@geopod-ismtpd-17>
+Subject: =?UTF-8?B?8J+OiQ==?= Welcome to AT&T! Your DSL Service is Now Active
+ =?UTF-8?B?4pyF?=
+Reply-To: sienafinkb973@hotmail.com
+List-Unsubscribe: <https://www.att.net>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EkMcVIWuCLmDRZfrY4h5VbNViyxBn5I=2FjrdM4y4JthsNqoVlxcUokJwMz8?=
+ =?us-ascii?Q?BVYF4xmVV3wHFmmWDG3M7QN23P4ZdsLxnae0MAX?=
+ =?us-ascii?Q?1Wj5avoIDH9I4d+VZRSCTPJscDslOJzYILHCvWV?=
+ =?us-ascii?Q?a8gyZiVGj6ZFBJZ5WaV7=2FNEaBpe7lM05+ESqSgc?=
+ =?us-ascii?Q?FqbM3tbISsbcAhrR8CrOkpDqN1=2F1LRYhikW3kid?=
+ =?us-ascii?Q?KK4hN2FmygQWH3sn3BSyfA=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsRaISkv=2Fjk37+zaKnWIeJFc6sR?=
+ =?us-ascii?Q?cwcJQ1gF6O41bKYDrEjy0eD+zzeu0xqn+FfEU+B?=
+ =?us-ascii?Q?VWoBz6XK4X0hrnpimxXJN1BGKYFKVdtCS7gWxay?=
+ =?us-ascii?Q?PKfSqTJ21U0m7s22ITo62g6zU4rjtOmp5yfAKMd?=
+ =?us-ascii?Q?Ow52Enzt1M8WwUYNLyfV6MSEKENsoCBYaLRIxye?=
+ =?us-ascii?Q?UascQqlOx6bBgKNpxdpz0sQBnIEG6PstnvhbwK9?=
+ =?us-ascii?Q?hh=2F5SZLukytYOFWnpont7WkMIKocuPSz2e44e2K?=
+ =?us-ascii?Q?aDJio4EaIEU9NCK5c1GeeibJtiRTjnzMbKGVszw?=
+ =?us-ascii?Q?R2jdwDW1mPIRMe7hWHk34u=2FJ2HVzeH93Wg4MuNo?=
+ =?us-ascii?Q?AlLE1g5Ua2NvAQMnTtlaZA82k3wRU8ZkieOxweG?=
+ =?us-ascii?Q?t2VG0kKYn+KJppxZTXTWE9G5oeh=2FReVtTFt3Icq?=
+ =?us-ascii?Q?xsa+fStnX5WISjk3rF4WDQ0ywTOP7EBXdht828L?=
+ =?us-ascii?Q?jPLzb=2FxtZFuc2pH1RSFlX3pxfQuzzXo4r13aaD9?=
+ =?us-ascii?Q?t=2FGJUYoMPpIdfYr9sS+T0XAp4Ti1+U+MIKWx=2FQc?=
+ =?us-ascii?Q?tXsMrPmo+w0fjEM4hwtvJUJ?=
+To: yanetyean@aol.com
+X-Entity-ID: u001.cMXxFrpSyRgAw1PqoL6y6A==
+
+--1262867863bf8b06a0002faed6f125c374da542ac28c41f39dc354da3662
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+********************
+=F0=9F=8E=89 Welcome to AT&T! =F0=9F=8E=89
+********************
+
+Dear yanetyean@aol.com,
+
+We are excited to welcome you to AT&T! As per your request, your DSL servic=
+e has been successfully transferred. Below are the details of your service:
+
+*Processing Charge:* $289.00 (one-time fee) *Monthly Charge:* $125.00 (auto=
+matically deducted from your checking account) *Activation Date:* March 5, =
+2025 *System-Generated File Number:* AT&T-DSL-20250305-XYZ123
+
+If you did not request this service, please contact us immediately to cance=
+l.
+
+=F0=9F=93=9E Call Us: 1-808-663-1380 ( tel:18086631380 )
+
+We=E2=80=99re here to assist you 24/7!
+
+Thank you for choosing AT&T! =F0=9F=92=99
+--1262867863bf8b06a0002faed6f125c374da542ac28c41f39dc354da3662
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Welcome to AT&T</title>
+</head>
+<body style=3D""margin: 0; padding: 0; font-family: Arial, sans-serif; backg=
+round-color: #f4f4f4;"">
+    <table width=3D""100%"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+        <tr>
+            <td align=3D""center"">
+                <table width=3D""600"" cellpadding=3D""20"" cellspacing=3D""0"" b=
+order=3D""0"" style=3D""background: #ffffff; border-radius: 10px; box-shadow: =
+0px 0px 10px rgba(0, 0, 0, 0.1);"">
+                   =20
+                    <!-- Header Section -->
+                    <tr>
+                        <td align=3D""center"" style=3D""background: #0057B8; =
+color: #ffffff; padding: 15px; border-radius: 10px 10px 0 0;"">
+                            <h1 style=3D""margin: 0;"">=F0=9F=8E=89 Welcome t=
+o AT&T! =F0=9F=8E=89</h1>
+                        </td>
+                    </tr>
+                   =20
+                    <!-- Content Section -->
+                    <tr>
+                        <td>
+                            <p style=3D""font-size: 16px; color: #333;"">Dear=
+ yanetyean@aol.com</strong>,</p>
+
+                            <p style=3D""font-size: 16px; color: #333;"">We a=
+re excited to welcome you to AT&T! As per your request, your DSL service ha=
+s been successfully transferred. Below are the details of your service:</p>
+                           =20
+                            <table width=3D""100%"" cellpadding=3D""10"" cellsp=
+acing=3D""0"" border=3D""0"" style=3D""background: #f9f9f9; border-radius: 5px;""=
+>
+                                <tr>
+                                    <td><strong>Processing Charge:</strong>=
+</td>
+                                    <td>$289.00 (one-time fee)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Monthly Charge:</strong></t=
+d>
+                                    <td>$125.00 (automatically deducted fro=
+m your checking account)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Activation Date:</strong></=
+td>
+                                    <td>March 5, 2025</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>System-Generated File Numbe=
+r:</strong></td>
+                                    <td><em>AT&T-DSL-20250305-XYZ123</em></=
+td>
+                                </tr>
+                            </table>
+
+                            <p style=3D""font-size: 16px; color: #333;"">If y=
+ou did not request this service, please contact us immediately to cancel.</=
+p>
+
+                            <!-- Click to Call Section -->
+                            <p style=3D""text-align: center; margin-top: 20p=
+x;"">
+                                <a href=3D""tel:18086631380"" style=3D""backgr=
+ound: #0057B8; color: #ffffff; text-decoration: none; font-size: 18px; padd=
+ing: 12px 20px; border-radius: 5px; display: inline-block;"">
+                                    =F0=9F=93=9E Call Us: 1-808-663-1380
+                                </a>
+                            </p>
+
+                            <p style=3D""font-size: 16px; text-align: center=
+; color: #555;"">We=E2=80=99re here to assist you 24/7!</p>
+                        </td>
+                    </tr>
+
+                    <!-- Footer Section -->
+                    <tr>
+                        <td align=3D""center"" style=3D""background: #0057B8; =
+color: #ffffff; padding: 10px; border-radius: 0 0 10px 10px;"">
+                            <p style=3D""margin: 0;"">Thank you for choosing =
+AT&T! =F0=9F=92=99</p>
+                        </td>
+                    </tr>
+
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D""https://u51059551.ct.sendgrid.net/wf/open?upn=3Du001.Oc6vVbpdX8=
+W18zPv-2BbuA36OPZe9-2FIGmUmbifPqqlepDkKQz7jg9e-2BXLD5VTQ0MQ7e6LDuCy7gRc2-2F=
+wdMNoKm5g0vVhcc9ll5MYad6y-2BMgTXbN-2BdTtllHei3cZx3yPwVI9gsp2lXlwclqpfa5lu8F=
+YS-2BQRuGBTQrcdy3vXhnQyf4annIDlzHssREYglk5kx8FrR2CtqZpoBUPwDBvtQQM8IMwlj-2F=
+RXCkaHiGs3n98M2Sc-2Bp0pdQndxBfB-2FnaPhSsB73UucPCJN3YrdM4uc-2BVfoP-2BxuddW3a=
+dxMlj2qIqkWBi4pjA4wZUDXxLCTWjNs-2FrcLEAfGX3awOsTlK1eLnFWjUwfj4i3DRO2BjgKZyM=
+iFmVNwjJVOMHhX4ixsaZpxQCAvdBI4g0Z8sY0oqf5bXxpFCmB5OcnA5x6FImr6ebq52-2F3i3LK=
+l5cyERZ5REl0OZ8fBS1pItHOGsLh5EZwAVrDdl9IAPVBr-2FMpZyrvNVEUzfbMybUtGP6fYHv-2=
+FPrgOEcXyVEkIOsrToWH2M2s8uOhl8hjJXgt3LDvGuHuVGklYMNOKgPYGh3xCE2p9RQrEvkRxFm=
+3uqMFnLkz-2BPaIwyL9vHr-2FHIvyJkxbFuKsd6Gcfjn2TBqcYJgRoN751FF-2F9v-2F-2BWorm=
+dQvol1aKnjD3Jdigo7wKSMMdmwrb-2FntpGXWjqhOUlJe0VLB95Yoawy9xliUYzja16lzIhgybi=
+n5wUXxA5cJC29PPCLM-2Fv94sdgrH9w9C2pT9FPy5Q77AzS9w54P1WrSXRZJQWf11-2FLv1fucY=
+D09i81r-2Bdxzsv3b4BBnkRgJwq0WeTXkneMLA513k1cerLZayFe-2Fxt3sUIulX6fHlWgNjO5W=
+dHpaIM7vJcm51KVS4mOkBLzXbF-2B-2B3thKlAuuCL"" alt=3D"""" width=3D""1"" height=3D""=
+1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;border-=
+width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margi=
+n-right:0 !important;margin-left:0 !important;padding-top:0 !important;padd=
+ing-bottom:0 !important;padding-right:0 !important;padding-left:0 !importan=
+t;""/></body>
+</html>
+
+--1262867863bf8b06a0002faed6f125c374da542ac28c41f39dc354da3662--
+","""Sierra"" <sienafinkb973@hotmail.com>",yanetyean@aol.com,2025-03-05,44.198.45.247,United States,en,users/51059551/2146cb4c-12b3-46bf-beb7-8f8066f4bbad.json

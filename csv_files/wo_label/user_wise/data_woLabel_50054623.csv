@@ -1,0 +1,181 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50054623,cpfMMOBBTvGaoIyO1UD57A.recvd-69cbc48b94-5dtvb-1-67C99F6B-13.31,cHJvY2Vzc2VkLTUwMDU0NjIzLWNwZk1NT0JCVHZHYW9JeU8xVUQ1N0EtMzE,Could you provide a quotation for the items listed in the attached document,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=LFZlwNjdbmSHKVLc/aCWeylRahsHoZHx5pPz3Us7NbA=;
+	b=s4tbtG+dak+OO2V/6WrqAT8pFZSxFrk3mHYzlaBwo2fyF68bYrjUnDtQVE6TNIGdCn+K
+	pokJ1ZV01nspT4BD5NMgmtdujXQIBDV4xYu/LSVsEpPjxw37cAX472B0AhUdrQAf68H/7W
+	FLg1ybympstRdldeWZnhXzHUOWAcZjn2k=
+Received: by recvd-69cbc48b94-5dtvb with SMTP id recvd-69cbc48b94-5dtvb-1-67C99F6B-13
+	2025-03-06 13:13:15.642378038 +0000 UTC m=+9647353.870471513
+Received: from NTAwNTQ2MjM (unknown)
+	by geopod-ismtpd-32 (SG) with HTTP
+	id cpfMMOBBTvGaoIyO1UD57A
+	Thu, 06 Mar 2025 13:13:15.623 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=9da9c9f87d103038b68502817f3e39d33c3a92948722ad6abe3fdf880094
+Date: Thu, 06 Mar 2025 13:13:16 +0000 (UTC)
+From: CLAIRE STARLING <procurement_clairestarling@mail.com>
+Mime-Version: 1.0
+Message-ID: <cpfMMOBBTvGaoIyO1UD57A@geopod-ismtpd-32>
+Subject: Could you provide a quotation for the items listed in the attached
+ document
+Reply-To: purchase@valeloenergy.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu50054623=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2E-qpK?=
+ =?us-ascii?Q?=5FhtjH423oqUVn2DS8x1OOAEIxnHKZC3PKP6T8gZ?=
+ =?us-ascii?Q?dyXwn1uswskmQxJsZAAyjzf=5F5NbKgt-ifDB8RJm?=
+ =?us-ascii?Q?884UwTjlNC3pvactIs3HxLkOPRIDXQPvGpZCJ7V?=
+ =?us-ascii?Q?F01V8Tzac4-N4a7vmywDZcoAQgdn7J91iCayDIi?=
+ =?us-ascii?Q?Hns6CDFWYoTO4dz-uEqqsMQSmHv19LScK8CEGUf?=
+ =?us-ascii?Q?lTzhffyK0qoNSRAR3idttl6jEHp3d9l5GLoH3s-?=
+ =?us-ascii?Q?Dhn8XFs5or6Fe0=5FT5RPVn0pv6jYSu-88ak9w4LI?=
+ =?us-ascii?Q?Zr9kYTcPp62J3OBXHfuBpYukfHhEnfOqpNnnzP=5F?=
+ =?us-ascii?Q?Id1rf3gNwnQ65FoKOQ3AHiMiMCElbJc76zGStNu?=
+ =?us-ascii?Q?H2eV0urQdQtQbXKP=5FAc3FpgA6ChirfoG4Ov0OiE?=
+ =?us-ascii?Q?KTUVmZHoOeiK4eYd6Z7qt0Hdzpt69Q4Cz=5Fc0iBg?=
+ =?us-ascii?Q?u1YvZLA5=5FwM6avI-QRSba2FRQAOkdNqS1RwC5fc?=
+ =?us-ascii?Q?ZIo1XveEjKiItu2ekZVRNPH8Tth06DRr8iFroQ7?=
+ =?us-ascii?Q?Vnk91qleZAgZXfy-JhE7lzhEPqvcBQ9i1oLp9uW?=
+ =?us-ascii?Q?OJ8pEfHSOym1n3E5iXO1lM-2s9ZK5zQ-G8V3DSv?=
+ =?us-ascii?Q?eKygY1VAsd-QPhuY9TslaVCbkbjiLfAE6SL7J78?=
+ =?us-ascii?Q?8WRNhPajHt4F308Xp7nnK3nDCjqyDW1QTCwn52f?=
+ =?us-ascii?Q?o6OyH9UQ1S3PNg=5F2toBCreWKtdDhI7Ko0HmLmar?=
+ =?us-ascii?Q?n2OYDxUbdngtNzTd2BfcnWVUgawsQ0H4aqXpeQ9?=
+ =?us-ascii?Q?7soCEozNYAjC0T8d6ZZahPyi7jqHtLVSGpAv1d9?=
+ =?us-ascii?Q?remqnLU5vqhmapbK-nNyiCegvkaSWtZk8zINiRo?=
+ =?us-ascii?Q?P2Wj-sZ9QQUxYOutEq-7e3PqybjntvCQ7ImFSt7?=
+ =?us-ascii?Q?XCZFA8ikEbXLx86RbjVYqAyU55ug-=5Fgzvb=5FEXdc?=
+ =?us-ascii?Q?30nQCr3I=5F77A0YLvuiwEBQhLqJjQAdF=5FN-u=5F1FU?=
+ =?us-ascii?Q?y8qv2ewLVeMKn73zzYP9C2RDLx7lS1ocd1Ju7TM?=
+ =?us-ascii?Q?kzI4BHG8ZNLgKGNBdDYDA6kodPkGlgXayQ=5FxeoG?=
+ =?us-ascii?Q?Er1RYk0NiVTN9NoqsBEppzYZOzDis562uDwON07?=
+ =?us-ascii?Q?bK0zImw354I6Xq8Hlidq8JulaVQvw-DgPHWcwqd?=
+ =?us-ascii?Q?Pymtc3jWfur7Fla7OLBZJ0hdYcQX-nC3S=5FK2M7J?=
+ =?us-ascii?Q?NjyRMuTl5pFlZ8td4RknZjbQZdHhkwc8OXBLqlE?=
+ =?us-ascii?Q?hvy7-Tf=5FRUR1cqRkhOnK8SePt-Hgg1L14zad1Wj?=
+ =?us-ascii?Q?rUPwQZJtSeehACVoH2DqkWtF7yUFkNhnR3ANXeQ?=
+ =?us-ascii?Q?bv6LqZNWFW8F3U2rHpw48E2VSccgjQtHbi7uPLP?=
+ =?us-ascii?Q?Duqquq23jXaeSSaNXPvHPeoYwCUxCkiyeOrkXHG?=
+ =?us-ascii?Q?mbgL-PRlnhUOPylz2MSza9Fp7Ez5s-Tamb0A=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3Dhttps=3A=2F=2Fu50054623=2Ect=2Esendgrid=2Enet=2Fmt=2Fu?=
+ =?us-ascii?Q?=2Fu001=2ELE0OdT5mAbnvQ1tIoNNnTCGQJPT3dCx5-?=
+ =?us-ascii?Q?f1WoJ5t43h4hYVjXR7v8sUCbDLHSiq-=2F4ek=2Fu00?=
+ =?us-ascii?Q?1=2EkR703SUa=2Fu001=2ENWVw7VhhFJETbSDXIP8Is4O?=
+ =?us-ascii?Q?E-2Bm9XSd8vWMcZch-2BcMSThUl2DHNukKe6K4w?=
+ =?us-ascii?Q?uTqTQb8A6xZFEBwHWJ37nKWoeF-2BUj5MR853Z1?=
+ =?us-ascii?Q?lz56vE-2BHPD41l31A6mlJ39I9bXf-2BEeskJF7?=
+ =?us-ascii?Q?mceLGhKcV3kDZLn9wR07BSd1kqvgIQdRaLVOI0w?=
+ =?us-ascii?Q?Ott-2FqXLBW7jEHmMSkghnrtAh5FBnD-2FxF2C-?=
+ =?us-ascii?Q?2FpUvEW8ie-2FUHgHUnmxo-2FquOutyznPVWONF?=
+ =?us-ascii?Q?kanIaRGDWh37QUeKQYSn25d9PlwboCfAlr5m06c?=
+ =?us-ascii?Q?XtEUpM7Q3EzzHCoMElOi0f3ERPj1FI7Ji32RzTC?=
+ =?us-ascii?Q?ByykXWGxbFXHOJbHEGn2vj7sdEjn5lrDvFEiRJU?=
+ =?us-ascii?Q?fgLJzigm3M4RYpN-2F43sBGMUmNuAVXQ-2BstbO?=
+ =?us-ascii?Q?taLkmat7tHkqclY5JmnGB-2F5L4kLFFwlC9Kq1-?=
+ =?us-ascii?Q?2FjC3V9HaU5CygOznvT83pEu35fSw5AnLyX7TGu?=
+ =?us-ascii?Q?VZW-2B65uwtnHw5gvAJpSW8BFW4fqF2-2FJdlGf?=
+ =?us-ascii?Q?5aqUIB5r-2FDY4i9aLePdxeSx6-2BlLtfowrxjF?=
+ =?us-ascii?Q?sUWHGYko5U38dElhrvQ-2FmdXeDE2-2F3H1GM-2?=
+ =?us-ascii?Q?BuYl-2B5Yt-2BBO4cllZyeTJS0bMgf7jF9NkJv1?=
+ =?us-ascii?Q?At5ve3IR09AjS25GzRSE8Bn45r4QI3Y4kzIFUCl?=
+ =?us-ascii?Q?nKhfVwRDEDY4Yvk-2BtQXJ3UK9uV9GFt7S-2FH3?=
+ =?us-ascii?Q?LMbmrVzYaATapdtrKdLGvN8VLZ5d-2Bo8EATmWZ?=
+ =?us-ascii?Q?ZXN24JDeR6wrjPhLCUwYls7eLLIrTnjrqbLcZ4Y?=
+ =?us-ascii?Q?T-2BJPGMTTC6ixhmBgnht22c-2FZEGsSWAa3H0c?=
+ =?us-ascii?Q?v1XdpmaZQ1ND-2BVqu0emHxxwGMcipqSPCg5a7b?=
+ =?us-ascii?Q?VgJP9sUHhOfcXNuXX8dXbVseYo01tUbcqywSRU-?=
+ =?us-ascii?Q?2BMh7BTLylSotvFZwAgFLiy55jZbxunwRHxM=2Fu0?=
+ =?us-ascii?Q?01=2ENJXK0ppR=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ET0kAPJJ1vYMoPn6sohs1Id3v1KHlnalHOhvYEKxW4qdo6GZN5GvtKPY08?=
+ =?us-ascii?Q?E0D69thnDWQHZWHciyPa2Hv=2FOCWkqzRTFq9SeAr?=
+ =?us-ascii?Q?x6V4ZVZQ0efcBEhnxTBilFLZfcnauwHJltre1sz?=
+ =?us-ascii?Q?ADEEhFQ+xYFasEd+TaJDp1alAj=2F+n19WOMqySAO?=
+ =?us-ascii?Q?ntGI7roWx7SITvSL6J6r2GIeWuoyQSxO6GxYgoA?=
+ =?us-ascii?Q?NrrTCMoEVf5jeGW0m+bevtNkzeKxLXPBgF2ltNj?=
+ =?us-ascii?Q?uRct5xEutEwhqF4c3WO9rOGKEg=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsT4Qv=2FTECNhQOraim=2FFfxvPBVS?=
+ =?us-ascii?Q?ZG8HE+=2FWBv0UrFjexSJLfUqJaQ79R7Va2UX6VCj?=
+ =?us-ascii?Q?0413q19j8Aexw9wOTN9PSRGnstrn4Dg+khfi5BT?=
+ =?us-ascii?Q?8500UiLYe2CbPNXwJJdh1+tavfu6B6=2FOqyISQY8?=
+ =?us-ascii?Q?e1YAmCXyXrG2m7AtfoyW6ubhB6Ii8EuZD7JonRW?=
+ =?us-ascii?Q?5b3pHocRT9jh9MJ4wXZBAkMDHavfmKqdMZlgA24?=
+ =?us-ascii?Q?Pm=2FmTsuJR1JdmEoZHjCdKOOfrsk+9eP6t+Vnbhn?=
+ =?us-ascii?Q?DmRYYEhPPDI8YQ=2FS9fFWSOUKt27CfuQhqWnkeTw?=
+ =?us-ascii?Q?ywdvmM8aUQQ4ShqmTslfb8NsoB6x=2FgT+HNRx6xh?=
+ =?us-ascii?Q?qhnJN3F4=2F7id3bTwl8viXlu3c6QN06XkZ1GtmAn?=
+ =?us-ascii?Q?wOMPTWeug7Xq6MOb7fzlGaWxRGNAnTvfa9gUzY8?=
+ =?us-ascii?Q?gLL3JFP5U1J2NBgmbYPvZNLZAF7QTT36hWnUC=2Fg?=
+ =?us-ascii?Q?P2wiblPFd6HyimyPf6EImefLPoNHDIOKLhomlmb?=
+ =?us-ascii?Q?6xOPfhlccDFZObhkPrIabMnmCuhY3jeOfsi5avz?= =?us-ascii?Q?YE=3D?=
+To: suman.sen@saudifal.com.sa
+X-Entity-ID: u001.LKP5tgJadbT9bPGdfamvww==
+
+--9da9c9f87d103038b68502817f3e39d33c3a92948722ad6abe3fdf880094
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hello Dear
+
+Could you provide a quotation for the items listed in the attached document=
+.
+
+I look forward to your response.
+
+Kind regards
+
+CLAIRE STARLING
+Sales Director
+--9da9c9f87d103038b68502817f3e39d33c3a92948722ad6abe3fdf880094
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p>Hello Dear&nbsp;</p>
+
+<p><br />
+Could you provide a quotation for the items listed in the attached document=
+.</p>
+
+<p>I look forward to your response.</p>
+
+<p><br />
+Kind regards&nbsp;</p>
+
+<p>CLAIRE STARLING<br />
+Sales Director</p>
+<img src=3D""https://u50054623.ct.sendgrid.net/wf/open?upn=3Du001.j4FpJYVDKT=
+7WEbeaIIvM8HC6h5uqUP0YPK-2B7PooyVyXBrQPgBLePzHuCX96nxR5NZmagFngyIPC7OFhj-2F=
+eTDId51X4sm0yYTtQg4AJ1Q7Qvr41-2BP4o7cFIxrMVAHIuEV9-2BIsV8WbiKxAQw9Jy2nlbsEm=
+ANweck1EWaLL-2BN1dhjIl0ugJS-2Fg-2B2YfFE1EdcxIiOMOrG-2Fs0qJ6Y4ySMZJiZIdFuXqD=
+xBBNETHCsI6G1Vtw-2BLvQYFOwGbREXaYxzwqdWsAkzI5WFjPHs3S72XKwZjB-2BQvh0l3MBaP1=
+hQDJCiUNaUc-2BorjClykSyz7jjECj-2BwzI6a3aibm7E5ZapBHrypaCFHuydfmkuQJa47xDndi=
+1OBmr-2BnEDhSLHLSeksJQH5olufzv5jPQyKD8r-2BSzQUfmypSBBhg8UIBLazxBdGRUOOql7EX=
+rebeynU9CVhgtlFaSwybgZBCZCx9Xx167tr0kb09EMFvovCBcsg2xq-2FBV15nWZpnKZoqHOZpX=
+0A8VG6C5CK-2BJjj9eo8wl-2FqRZlcVsUzzDc6GLjnFFRYTU2TSTkHyxFzZNKD9ERcxLeWswPKG=
+iKFGjl2nCzKm2dcCpwjzq668RwOJyF2CZVSTlbP91vMhFbIqiIRjA4EDi47eYIp8MF2MJ-2FsUQ=
+TGKPRt9-2F-2Bs3bAFEhixJk714BGtf6KU9F-2BlPl8aHiQdT6nZWYnMpJrMtt1GxNUw1PJ6z0d=
+MVaHsDX5Awe-2FBvSBk11NQNbJhUpwOyGvCy7Ukcm4ZWScqqzc7b04rwtaK-2F2blBy0cm0aIr0=
+dYay7XpYOSK7B8ibby3n6zZlGeLhuHzQ7JR6S2BATQNy4dz-2FmQa6ArKFHx5MnUMXagnQ8CnPv=
+jQUOyBxEDr5-2BFC2Ge-2FhmjUfBi4e5j6Gx4B"" alt=3D"""" width=3D""1"" height=3D""1"" b=
+order=3D""0"" style=3D""height:1px !important;width:1px !important;border-widt=
+h:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-ri=
+ght:0 !important;margin-left:0 !important;padding-top:0 !important;padding-=
+bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/=
+></body>
+</html>
+
+--9da9c9f87d103038b68502817f3e39d33c3a92948722ad6abe3fdf880094--
+","""CLAIRE STARLING"" <procurement_clairestarling@mail.com>",suman.sen@saudifal.com.sa,2025-03-06,34.225.201.237,United States,en,users/50054623/bdc0e22d-956f-411b-8a16-25ed311e7fc4.json

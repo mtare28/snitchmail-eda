@@ -1,0 +1,235 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50845791,2ZVW7_7LSL2x5P7ZZ-YVIg.recvd-69cbc48b94-2tgq2-1-67BDBE2E-28.10,cHJvY2Vzc2VkLTUwODQ1NzkxLTJaVlc3XzdMU0wyeDVQN1paLVlWSWctMTA,Asset Transfer Request,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=RmxZM8b3UukkXRIBLwpzQmw3iUOajOLJts45I/JWpx0=;
+	b=fFrq5p3Am2BZoF/k8IF3IT85yr2E2JcoFTM9gop5rmfN8o6e4sYLGPWNSe/ymUpXa3xE
+	WlkWUCy/o3RBdMIcWy5QmLHMHNzrYtDxX1rgHwlUvMtlD0DjIOiLlgdSvB5uJq1VN2GU5z
+	GGGIjnARnI8zMh8pEyV74nYWbj52eFnGg=
+Received: by recvd-69cbc48b94-2tgq2 with SMTP id recvd-69cbc48b94-2tgq2-1-67BDBE2E-28
+	2025-02-25 12:57:18.967986998 +0000 UTC m=+8868962.297719973
+Received: from NTA4NDU3OTE (unknown)
+	by geopod-ismtpd-10 (SG) with HTTP
+	id 2ZVW7_7LSL2x5P7ZZ-YVIg
+	Tue, 25 Feb 2025 12:57:18.942 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=f645b881425ce06f21e751160593fec96327353dcd3585253e5fcc9448d7
+Date: Tue, 25 Feb 2025 12:57:19 +0000 (UTC)
+From: Charles S <richardgleeson78u@proton.me>
+Mime-Version: 1.0
+Message-ID: <2ZVW7_7LSL2x5P7ZZ-YVIg@geopod-ismtpd-10>
+Subject: Asset Transfer Request
+Reply-To: richardgleeson78u@proton.me
+List-Unsubscribe: <https://mc.sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EL5nzw57KInMZVrSU4JapL01yyR9e2zdVsqGLl4HvDG4LzsY=2F=2FvGkOFsPb?=
+ =?us-ascii?Q?w0Zy0=2Fpu6vjqKCVt=2FewFAHWyK9VTV7TguUIn0WK?=
+ =?us-ascii?Q?MjILd1DkqPr8syhjoTx6EX8Ms9ZPh6B4XQMCzs9?=
+ =?us-ascii?Q?2G2v+a27REXBWtzjJc6VX7UMbwTK=2FzSz1k99uQC?=
+ =?us-ascii?Q?7A3ViIe7swuEFER5LizsCW3xS+lMbmvY4AQe9m0?=
+ =?us-ascii?Q?wB+aOgx+7naICltry65W+CfHEON39c1INLsGKcj?= =?us-ascii?Q?1xad?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FWDI=2FiEd?=
+ =?us-ascii?Q?7XMFqppfDKfGUDv6Urm8pVYKwsu0p+nc5TDhEoW?=
+ =?us-ascii?Q?IbSxYR7vbxYX4e1MGFAOl5JDEHHn5s0k53NwwR5?=
+ =?us-ascii?Q?dXG2ocbt9Rl9dLjr66L+xh=2F=2F64ISLpAWayMPRF7?=
+ =?us-ascii?Q?TTWNiIsDBV4EUGMyzoQF9pbFDoCpvzvQJl14+K0?=
+ =?us-ascii?Q?T309GrFWuOg51tcewlPLM9DAPvpxCo824it7XLJ?=
+ =?us-ascii?Q?52OeI22BU77PswHRmfMDIWDYzxrklZGPkUTwSHU?=
+ =?us-ascii?Q?zikmRssbBo1+N8Q58xwcyEUAOW5XkB7Wjcyq2Ck?=
+ =?us-ascii?Q?jSXCGQOKTM=2FwWDCzY9z187305J0eRjltBEOTD5b?=
+ =?us-ascii?Q?SBbtlxBMaNwUNKH57PoAzmw3JuMClY9kKu4o+kx?=
+ =?us-ascii?Q?NcW1WwQrFi1jdx3NcaInZF97ULgIkLh5qg=2FgzrB?=
+ =?us-ascii?Q?aZZwH5W3oUSj6bm=2FVt3CFgNuQxXJNJfexWwLsEV?=
+ =?us-ascii?Q?bs01e7TOQFPtd3Cjj28tj01FT7PNJwncmKlcR3=2F?=
+ =?us-ascii?Q?cZlwWOTeBncTyo9bgF9sWHbyKSMfOzw+8vRSnx8?=
+ =?us-ascii?Q?hIwSRMegQRbOpBV2nXbW+DuG2TfRRoahwKNneJC?=
+ =?us-ascii?Q?gCoiCqbVa17I=2FAnTtksq2ZA?=
+To: alicia.schaeffer@ymail.com
+X-Entity-ID: u001.F9P+JMV64xU78MGQWH5WWA==
+
+--f645b881425ce06f21e751160593fec96327353dcd3585253e5fcc9448d7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+*******************************************
+Confirmation of Your Asset Transfer Request
+*******************************************
+
+Dear alicia.schaeffer@ymail.com,
+
+We are pleased to inform you that your asset transfer request has been succ=
+essfully processed.
+
+*Details of the Transfer:*
+
+*Transfer Reference Number:* SCHWAB-TRF-8973-2025
+
+*Transfer Date:* February 25, 2025
+
+*Amount Transferred:* $4800.00
+
+*Transfer Type:* Online
+
+Please allow 3-5 business days for the transferred assets to reflect in you=
+r Charles Schwab account. If you have any questions or need further assista=
+nce, feel free to reach out to our customer service team.
+
+***************************************************************************=
+********************
+*Customer Service Contact Information:*
+
+---------------------------------------------------------------------------=
+--------------------
+Phone: 1-828-457-9103
+
+Email: support@schwab.com
+
+Thank you for choosing Charles Schwab for your investment needs. We appreci=
+ate your trust in us.
+
+---------------------------------------------------------------------------=
+--------------------
+
+Best regards,
+
+Charles Schwab
+Charles Schwab Corporation
+Website: www.schwab.com ( https://www.schwab.com )
+
+***************************************************************************=
+********************
+--f645b881425ce06f21e751160593fec96327353dcd3585253e5fcc9448d7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D""en"">
+<head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>Asset Transfer Confirmation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 8px 8px 0 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 0 0 8px 8px;
+        }
+        .details {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .details p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D""container"">
+        <div class=3D""header"">
+            <h1>Confirmation of Your Asset Transfer Request</h1>
+        </div>
+        <div class=3D""content"">
+            <p>Dear alicia.schaeffer@ymail.com,</p>
+            <p>We are pleased to inform you that your asset transfer reques=
+t has been successfully processed.</p>
+            <div class=3D""details"">
+                <p><strong>Details of the Transfer:</strong></p>
+               =20
+                <p><strong>Transfer Reference Number:</strong> SCHWAB-TRF-8=
+973-2025</p>
+                <p><strong>Transfer Date:</strong> February 25, 2025</p>
+                <p><strong>Amount Transferred:</strong> $4800.00</p>
+                <p><strong>Transfer Type:</strong> Online</p>
+            </div>
+            <p>Please allow 3-5 business days for the transferred assets to=
+ reflect in your Charles Schwab account. If you have any questions or need =
+further assistance, feel free to reach out to our customer service team.</p=
+>
+          <div><h1 <p><strong>Customer Service Contact Information:</strong=
+></p>
+            <div><h2 <p>Phone: 1-828-457-9103</p>
+            <p>Email: support@schwab.com</p>
+            <p>Thank you for choosing Charles Schwab for your investment ne=
+eds. We appreciate your trust in us.</p>
+        </div>
+        <div class=3D""footer"">
+            <p>Best regards,</p>
+            <p>Charles Schwab<br>
+           =20
+            Charles Schwab Corporation<br>
+            Website: <a href=3D""https://u50845791.ct.sendgrid.net/ls/click?=
+upn=3Du001.ba7sAXTR-2B-2Fm0fKqsZEuu0abU1QvTEYMSF8spFIvO4-2Bo-3DFJ7b_ke-2FeX=
+zLLpzvoR8xgufWT2yjQZkEgbKN8qOPnYUPqq-2Fwxou4EWhp6WSiD3BgWYYDxAcq1UgCeI-2FCO=
+a5Uk0a2Gve3gthR1G-2B9G6jJaRXoWtGnP2hXbA7dI0U9LmG23d0DV-2BADvsun3gJkTBZtHLif=
+3Y5Fc43ksQSCT6sCoQnsiDkLjc-2BuKrhJkMV-2FJV1lKBZDLtZrK650mbBm8Zg39jwy0-2B7VJ=
+T4DEK7LHIlkFPXW8dKU9yStaSPARnWpskcVco7m-2BaXIDvk5BWEOub5MNKBa1KkAlJZmdNKMbA=
+J4LuwGuTgncSNkADA34Kp78EQ9HYm8Oblngioz7D6Aro3UUoXnUFG7XyTrObM3HDbGgUwvwlvQZ=
+yXCLgl3jMZ6GLV5upGvRkeLTqaB-2F8-2FGCthf71ZP9zUH43G850RD1Xl0-2B-2BiqqmMiGvFB=
+XVVg73CViJ6NiFxrMQ6iJ8oMhTV-2BLFzSzxEFeUEhx0tb83HevE8S1Ka-2BOfoz9EDju9awFFE=
+vWAjsyjxCDF38IjWgeM-2BwpAC5IGA-2B4UH6rjZZ1ozDUi3AEnqzk4XywDyu6P0m8EAKMAHD-2=
+BowCdyae55o-2FyOsLWZyIj88Q053F-2BBWcmWhhmaC3xFTluZpnMQEUCznmSChMqElvKNw5rSk=
+MeJBCmzywt9TXhTduyY2EVvCsNWOVEaOWWS9PkaLOBY0ihlQXV5sPYG4Qf1rpquxyWM9XI36tWG=
+TtuXiH9AlO6RJLvSEPuH-2FqZfD3JwifzE8-2FK4PdN2NdxWY-2B1LdkOf9SfyhCv5oIz9Nb-2B=
+DOfT4Q5LN4Bygi-2FW6F5KaruckknuEf3v-2FndrrYfZ7iO7QUvuAiKYc7dgbfgOzjdbCPanm-2=
+BPqLFhLpgIMWxNnSiJ3IMuRB8T-2BlI-2FJII7MbgZoomkn"" style=3D""color: white; tex=
+t-decoration: underline;"">www.schwab.com</a></p>
+        </div<img src=3D""https://u50845791.ct.sendgrid.net/wf/open?upn=3Du0=
+01.7-2Brr-2F5MyA0pENde6b-2B2-2BbIcba6p4wb7KFFG0MnKkO42F5BaOAIVXxI2KWyuGILci=
+tQ-2FuQlox8yqzjRQ1Plw1bYssp-2FVcGtpV515pzgmXaOfVElMRKORig5-2Fe8jWED9vWlrLlm=
+RMHDfR-2B3fzLpcMcbgPZAyNvJ8aRjhXn-2BI39NY-2F1vr0oIXZRmfyzblPOALp915-2BgZTfE=
+ZCipAKlRkZrjtHc54ngZTzlLk1n-2FnE6ZOSHdJwm6J-2FmY98fdrhEq5FQYTX357ybbnxliL8R=
+yYHppkapEgLZD-2Bjvr7-2BjWBZ9pMLPWJBWZFs0bVMz3K-2FLhACPfXZW4NGAtL0E-2BXML7HA=
+gbAIpWAnIV4nGu51jTJDijs6bXMM7m6oCGQ6RcyoYqtnnUM848lwewpmB98zJHShCw5dW3XcpyS=
+GKcVHcJWR0mpSmtV-2FH2O7KU7BPaR8IgeX5p40M4vsFk-2BG5PwyZoYxulKVk9tX2F0Y5KZuBo=
+um-2BEajQXV-2BVnS1FIoy0Kvc1-2B4eCsjC8dxU-2FjCZGSQFFOHcoVqCNbluScS8M27eJX1eJ=
+NtYyANSv-2F4hWawcw5M04yAfItqwhfMLwRVOLuCFQO76EJbor1psG0TkE6EnuY80RG4eEJIt8I=
+zur-2F63bK6ErTiKsrDuMHBpGTrhvg5yKaWGefvPPSgci6haraRUhJ1VXNBW2GmM941-2FIyReI=
+bjriIBy8nQuU-2Fdf6uwAtbQdvnODjMmWd7by1O1vJCVYN9-2FvbK3dTEUBR1yGyN9pBQ33-2F7=
+8uDLgii3d3eiU0jUc97HKrChb1r3gLJcaW2sV2UqnlUBVZz-2FdIG1GY33fJNzXTicMF59oPq5z=
+huLb4-2FhutDaVvnmcJu6lET6UPXOHJSHH6DPgcHZae5KC50dMexUctV7FLs5"" alt=3D"""" wid=
+th=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px=
+ !important;border-width:0 !important;margin-top:0 !important;margin-bottom=
+:0 !important;margin-right:0 !important;margin-left:0 !important;padding-to=
+p:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddi=
+ng-left:0 !important;""/>
+--f645b881425ce06f21e751160593fec96327353dcd3585253e5fcc9448d7--
+","""Charles S"" <richardgleeson78u@proton.me>",alicia.schaeffer@ymail.com,2025-02-25,44.214.78.206,United States,fr,users/50845791/83a35b4a-9e5c-46c8-afea-6ba0761236cb.json

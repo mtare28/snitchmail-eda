@@ -1,0 +1,485 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51521385,BQBMz2aLQ0uvXalc7LbE-w.recvd-69cbc48b94-g9g4n-1-67E2D1A1-6.0,cHJvY2Vzc2VkLTUxNTIxMzg1LUJRQk16MmFMUTB1dlhhbGM3TGJFLXctMA,Test - Galxe LP Rewards,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=secure.customer-galxe.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=k934Ni4iR63qruPMwUz0cgAGoGfxrnrW/aSCJ/2ygPs=;
+	b=jav+MEbAxVfnZZRCOUwPmalw3+S/ScYTQWS3jn44GGcTv4m3e5DZVnokgZ38v5J6PAPb
+	44gcNidmROwXC/N9EwYNVzIk0CHlUBBMAjSlFIfzQI+bZLNXj2Q4hbWgMW9nMYcWJP0b9l
+	SxLeN2fAaMe1NPljscce221HmoZztJEpqPBP15br39dBep9mutqj1UTkWRJVq5cJgCUau6
+	s2k1AoHV8/ly4aU49BjEbtnj9mO1i3y+TjsZcEXEmi45DUfmdH+6Fto80yF2JoUtXyQg/4
+	oTG1znG6s99MFaOLFJtqIQ8iTKpDBNoU1dfbR+AocLE/rCdQ5tsPUPNLsdikOy+w==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=k934Ni4iR63qruPMwUz0cgAGoGfxrnrW/aSCJ/2ygPs=;
+	b=lLst9Scc151kT9S10Ssqxsrj6SxeNhYPABF8KSHoSR7wzf64d0FZmh+fX6HLThsQHZxu
+	LEg/35aqLuQlbonCRk0G0nfJhdQyLl4dsaKXCkAoANy+rb9xnXMqfEkNiVcp/kq9QqqpiU
+	eIL8fAEHqpzYS9TKm8UR5HZM6+gLoX50g=
+Received: by recvd-69cbc48b94-g9g4n with SMTP id recvd-69cbc48b94-g9g4n-1-67E2D1A1-6
+	2025-03-25 15:54:09.067061858 +0000 UTC m=+11298725.753245496
+Received: from NTE1MjEzODU (unknown)
+	by geopod-ismtpd-17 (SG) with HTTP
+	id BQBMz2aLQ0uvXalc7LbE-w
+	Tue, 25 Mar 2025 15:54:09.047 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=e86563c6fc7c1c4557753a8de902a56d3a48a52c9ef43c80cb9ea831fb77
+Date: Tue, 25 Mar 2025 15:54:09 +0000 (UTC)
+From: Galxe <info@secure.customer-galxe.com>
+Mime-Version: 1.0
+Message-ID: <BQBMz2aLQ0uvXalc7LbE-w@geopod-ismtpd-17>
+Subject: Test - Galxe LP Rewards
+Reply-To: info@secure.customer-galxe.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51521385=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EWIcI?=
+ =?us-ascii?Q?vpAg8lFBIlFY4wF-=5Fo-74QKJmjzkXxTOX8mz1c4?=
+ =?us-ascii?Q?H9Z6PnFEx0gFmPT-sMQ9LmWWGtgnJJksfLHZaV5?=
+ =?us-ascii?Q?4YaZQwooRhpN4pRr8G4DqGDTBkwU808=5Fv0Uw=5Fkj?=
+ =?us-ascii?Q?zGo9VomcxQrjmGnhdV9cBvlTYh8pYutgvNVCAHQ?=
+ =?us-ascii?Q?H3b6NiOrQ-yvRPTp05yESSwRAGbnm3ZXzADRuSV?=
+ =?us-ascii?Q?VrCYqB65ow2n0g5Bhb1KXWy7m6NyX6T-iRs7BpK?=
+ =?us-ascii?Q?U9tXI=5FslRR-EuncMg-yUG0IgZFxOmnxlkDAisye?=
+ =?us-ascii?Q?1m8adqok2rIruCaJntGugwDOnTPncAhGIZ80i5H?=
+ =?us-ascii?Q?eIzFMphLOEmXPMEAhRxHZjtl1iY1PoSBdiGOTs2?=
+ =?us-ascii?Q?RqorsJUGON1Ol3YT3=5Fw5jxLuInDtQcsOxWSi9Kz?=
+ =?us-ascii?Q?uJtDUUKYPyf99c94FwFqzfhOYsx96EwwgTHZ2vm?=
+ =?us-ascii?Q?2iYpTsDq7ubumNH7-XjoHLX2cshkmqkgU9XWDBa?=
+ =?us-ascii?Q?WaIohm8fs9wEZTCZRn32gXd9AZErnaWWBNI2El5?=
+ =?us-ascii?Q?W2A3-bF5mjaZXbkRm=5Fa8QG5MUH46gAxlwv9Ainw?=
+ =?us-ascii?Q?utind9BYPvU5Wb-6A0nXX3uyT-usEVFMsciMhwV?=
+ =?us-ascii?Q?o2Pep5mMomBOuhUkwvSmbeViM=5FVhfEh=5FB-CQRFs?=
+ =?us-ascii?Q?e3DepITf6EUCnqZi2vp6K2r0vwIHpdp6Zb2OIAd?=
+ =?us-ascii?Q?uXq1sLwio5DbAjRLOej2ITuZHao69lG32oav1Ke?=
+ =?us-ascii?Q?Mdo0K3tjJwWfwRCyaHkOo7GD-lP0SWsfx3UZ7J6?=
+ =?us-ascii?Q?nwLJDUISUoRub-heUwdXEQ5l6k1YOV2cHNi=5FxOF?=
+ =?us-ascii?Q?47QjN9T=5FuWNnw=5F26OFE1vhTFKcLvx6IO8DQyRHt?=
+ =?us-ascii?Q?xF3XP2mbEFDSb-Eo4hdBi04OYY8y91wUtTQxnBm?=
+ =?us-ascii?Q?xMivqKDraNnVrIptjM5ZjXrlBjCwQeG2hv6kw0p?=
+ =?us-ascii?Q?Wr2PIDhceWe0mT5nT81RxpTLJKbksi8ttE9ohc=3E?=
+ =?us-ascii?Q?=2C=3Cmailto=3Aunsubscribe=40em3715=2Esecure=2Ecust?=
+ =?us-ascii?Q?omer-galxe=2Ecom=3Fsubject=3Dhttps=3A=2F=2Fu5152138?=
+ =?us-ascii?Q?5=2Ect=2Esendgrid=2Enet=2Fmt=2Fu=2Fu001=2E9-PojYFLP7E?=
+ =?us-ascii?Q?QFUAIlElLtO-HfSaY1l2=5Faqv4InwHGxeiM5OWYC?=
+ =?us-ascii?Q?Sie8ynQ7XOALZ1=2F4f3=2Fu001=2E6HSX4HHZ=2Fu001=2EK?=
+ =?us-ascii?Q?ZLbaB9-2FU8QY9RarGP2zzJZDz5i2IE4WDDo3Vf?=
+ =?us-ascii?Q?Knw3fynqW-2FUQyu1PidwwOIWeTZCg08OnYZUQk?=
+ =?us-ascii?Q?X6ThsDPiK1QQnVTSP8NRukEuIG5nNFMojqMdT-2?=
+ =?us-ascii?Q?BGwVn9UWgG0kXIwPFPHyWv-2FqFq-2BlA-2Bfxr?=
+ =?us-ascii?Q?N29Zifq5AriyPzgugkNkiII727HJ2pcplQUusV4?=
+ =?us-ascii?Q?xQSBTPTMaYRxNfWW8LL-2BPU9rCYE98kNZFWnW2?=
+ =?us-ascii?Q?IMFTr6HBU-2B-2BAT4bY0L9jtYUuuEAbEeE6UnM?=
+ =?us-ascii?Q?1h5tufOqi6-2FPc6KRv2pKiEQqD76e-2BWQCRlk?=
+ =?us-ascii?Q?Kqgt45z-2B0zFteNPioAtZsbNlaiKMgMxWvQLet?=
+ =?us-ascii?Q?1YwMIROMvP2lqbz-2FbdWNxzU8OMhlH0IxFKY4g?=
+ =?us-ascii?Q?g2jfV8J2pKHl3ScPAG4SuieJuUXNKWTuW-2FQXm?=
+ =?us-ascii?Q?WmOe-2Bvk9f1PCCB1DDVb4138Uq5J8xivGjx5Kn?=
+ =?us-ascii?Q?2zasU6oxWkNOD2zYw-2FxN7hOl7MIaBDFiwuh-2?=
+ =?us-ascii?Q?B548mfVUCHw2nYkT3dzrX-2BLdsR89O6WMFEBn5?=
+ =?us-ascii?Q?6SLM-2FE-2FzQlCycvmWdS3jkwO0t0fkgdzZ8Fd?=
+ =?us-ascii?Q?CS8x8cMtmNc53sAIAnQWMu-2BeInGe4Uo3zcYOl?=
+ =?us-ascii?Q?5sifFJwZD-2FEeBFA-3D-3D=2Fu001=2Eu8FHzHy7=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ELYTkES7zNomImWePA5UT7Ax71hCYiFC8ZdKUx=2FgDADYtfW2f7S9QGXDv7?=
+ =?us-ascii?Q?2j52bCUV1yZyUOud550brev=2FnOIoq5X9zEE5MtX?=
+ =?us-ascii?Q?Dxcn5+rySbvEoAbgTK6xk5rbKApI0RlpSKgTPGZ?=
+ =?us-ascii?Q?CNfuGPpMzS6UtVzHynPmeaWm5rcTt2AQ=2FlIqYI7?=
+ =?us-ascii?Q?KKSkx1fZN6EWdOCllccbk715AvMZ9he0crDM2Jp?=
+ =?us-ascii?Q?EvjmU7MuwveU22Hir0WaQujcpY8no7CBUSMrWbU?= =?us-ascii?Q?VnL6?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLAz3s9vYXwUd?=
+ =?us-ascii?Q?sLhMRaVNljdDo6Ffvy+H0sX0n3=2F8rvK7NTW8lxz?=
+ =?us-ascii?Q?YrzwwSdkoXdmwywsKsd5SaJ9uuZkkH33irlUqNa?=
+ =?us-ascii?Q?cEjHzqFapQ0GEiw0G69dkKl8rDTSY4PhQ5PjQG=2F?=
+ =?us-ascii?Q?a5j7S4Lra8pvuMVEWNxyA3K4sGOnQeQ41qjN9=2FP?=
+ =?us-ascii?Q?fmQQr642xJah7mtXNKboHSHRy2+5flCsh=2F=2FU5VL?=
+ =?us-ascii?Q?Q0FZDdxziFRZFliII0HLcxv3ErqjLW0eBVoh5JI?=
+ =?us-ascii?Q?a2mL4=2FGAr+eXbSGZqKYIV58x6cptBP3lC+So5te?=
+ =?us-ascii?Q?Kf9M4X7ECbK10xJEENw8zMkjalPrLt=2FXiSGjg=3D=3D?=
+To: brandonhuff42312@gmail.com
+X-Entity-ID: u001.nPArz3I1hxgwMfAXQsKkyg==
+
+--e86563c6fc7c1c4557753a8de902a56d3a48a52c9ef43c80cb9ea831fb77
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+=E2=9A=A0=EF=B8=8F URGENT: Your GAL rewards will expire in 24 hours. Take i=
+mmediate action to claim your tokens before they burn. | Galxe Network
+
+GAL Rewards Expiring
+
+Dear Valued Community Member, This is an important notification regarding y=
+our unclaimed GAL rewards in your account. Our system has detected that you=
+ have pending rewards that will expire in 24 hours according to the network=
+'s token distribution policy. The Galxe protocol requires all participants =
+to actively claim their rewards within the designated timeframe. Unclaimed =
+tokens are automatically returned to the ecosystem treasury after the expir=
+ation period.
+
+What you can do with your GAL tokens: =E2=80=A2 Stake - Earn passive reward=
+s through staking =E2=80=A2 Governance - Participate in protocol decisions =
+=E2=80=A2 Liquidity - Provide liquidity for additional rewards =E2=80=A2 Ac=
+cess - Unlock premium features and opportunities
+
+To claim your tokens before expiration: 1. Visit the Galxe rewards platform=
+ 2. Connect your wallet 3. Navigate to the Rewards section 4. Click ""Claim""=
+ for claim your GAL tokens
+
+Claim Tokens Now ( http://95.163.152.163/ )
+
+Don't miss this opportunity to secure your GAL tokens. The token claiming p=
+rocess only takes a few minutes. Thank you for being part of our ecosystem!
+
+This is an automated message. Please do not reply to this email. You receiv=
+ed this email because you have registered on Galxe.
+To unsubscribe or change notification settings, update your email preferenc=
+es ( http://95.163.152.163/ ). =C2=A9 2025 Galxe Network. All rights reserv=
+ed.
+Terms of Service ( http://95.163.152.163/ ) | Privacy Policy ( http://95.16=
+3.152.163/ )
+--e86563c6fc7c1c4557753a8de902a56d3a48a52c9ef43c80cb9ea831fb77
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"">
+<head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"" />
+    <title>URGENT: Only 1 Day Left to Claim Your GAL Rewards | Action Requi=
+red</title>
+    <style type=3D""text/css"">
+        @media only screen and (max-width: 480px) {
+            .mobile-wrapper {
+                width: 100% !important;
+                padding: 0 !important;
+            }
+            .mobile-content {
+                padding: 15px !important;
+            }
+            .logo-img {
+                max-width: 120px !important;
+            }
+            .main-heading {
+                font-size: 24px !important;
+            }
+            .mobile-button {
+                width: 200px !important;
+            }
+            .rewards-info {
+                padding: 12px !important;
+            }
+        }
+    </style>
+</head>
+<body style=3D""margin: 0; padding: 0; min-width: 100%; background-color: #0=
+f0f12; font-family: 'Segoe UI', Arial, sans-serif;"">
+    <div style=3D""display: none; max-height: 0; overflow: hidden;"">=E2=9A=
+=A0=EF=B8=8F URGENT: Your GAL rewards will expire in 24 hours. Take immedia=
+te action to claim your tokens before they burn. | Galxe Network</div>
+   =20
+    <!-- Main Table -->
+    <table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" =
+style=3D""border-collapse: collapse; background-color: #0f0f12;"">
+        <tr>
+            <td align=3D""center"" style=3D""padding: 20px 10px;"">
+                <!-- Email Container -->
+                <table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" wid=
+th=3D""600"" class=3D""mobile-wrapper"" style=3D""border-collapse: collapse; bac=
+kground: linear-gradient(135deg, #0f1528 0%, #181342 100%); border-radius: =
+12px; overflow: hidden;"">
+                    <!-- Main Content Area -->
+                    <tr>
+                        <td class=3D""mobile-content"" style=3D""padding: 30px=
+ 40px 40px 40px;"">
+                            <!-- Heading -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse;"">
+                                <tr>
+                                    <td class=3D""main-heading"" style=3D""col=
+or: #ffffff; font-size: 32px; font-weight: bold; padding-bottom: 20px; text=
+-align: center;"">
+                                        GAL Rewards Expiring
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""padding-bottom: 30px; text=
+-align: center;"">
+                                        <table border=3D""0"" cellpadding=3D""=
+0"" cellspacing=3D""0"" style=3D""margin: 0 auto; border-collapse: collapse;"">
+                                            <tr>
+                                                <td style=3D""background-col=
+or: #5d5dff; height: 4px; width: 60px;""></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+
+                           =20
+                            <!-- Content Text -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse;"">
+                                <tr>
+                                    <td style=3D""padding-bottom: 20px; colo=
+r: #cccccc; font-size: 16px; line-height: 1.6;"">
+                                        Dear Valued Community Member,
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""padding-bottom: 20px; colo=
+r: #cccccc; font-size: 16px; line-height: 1.6;"">
+                                        This is an important notification r=
+egarding your <span style=3D""color: #ffffff; font-weight: bold;"">unclaimed =
+GAL rewards</span> in your account. Our system has detected that you have p=
+ending rewards that will expire in 24 hours according to the network's toke=
+n distribution policy.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""padding-bottom: 25px; colo=
+r: #cccccc; font-size: 16px; line-height: 1.6;"">
+                                        The Galxe protocol requires all par=
+ticipants to actively claim their rewards within the designated timeframe. =
+Unclaimed tokens are automatically returned to the ecosystem treasury after=
+ the expiration period.
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Benefits Box -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; margin: 15px 0 =
+25px 0; background-color: rgba(93, 93, 255, 0.1); border-radius: 8px;"">
+                                <tr>
+                                    <td class=3D""rewards-info"" style=3D""pad=
+ding: 20px;"">
+                                        <table border=3D""0"" cellpadding=3D""=
+0"" cellspacing=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse;"">
+                                            <tr>
+                                                <td style=3D""color: #ffffff=
+; font-weight: bold; font-size: 16px; padding-bottom: 10px;"">
+                                                    What you can do with yo=
+ur GAL tokens:
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style=3D""color: #cccccc=
+; font-size: 14px; line-height: 1.6; padding-bottom: 10px;"">
+                                                    =E2=80=A2 <span style=
+=3D""color: #ffffff;"">Stake</span> - Earn passive rewards through staking
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style=3D""color: #cccccc=
+; font-size: 14px; line-height: 1.6; padding-bottom: 10px;"">
+                                                    =E2=80=A2 <span style=
+=3D""color: #ffffff;"">Governance</span> - Participate in protocol decisions
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style=3D""color: #cccccc=
+; font-size: 14px; line-height: 1.6; padding-bottom: 10px;"">
+                                                    =E2=80=A2 <span style=
+=3D""color: #ffffff;"">Liquidity</span> - Provide liquidity for additional re=
+wards
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style=3D""color: #cccccc=
+; font-size: 14px; line-height: 1.6;"">
+                                                    =E2=80=A2 <span style=
+=3D""color: #ffffff;"">Access</span> - Unlock premium features and opportunit=
+ies
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Action Steps -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; margin-bottom: =
+30px;"">
+                                <tr>
+                                    <td style=3D""color: #ffffff; font-size:=
+ 16px; line-height: 1.6; padding-bottom: 15px; font-weight: bold;"">
+                                        To claim your tokens before expirat=
+ion:
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""color: #cccccc; font-size:=
+ 15px; line-height: 1.6; padding-bottom: 10px; padding-left: 15px;"">
+                                        1. Visit the Galxe rewards platform
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""color: #cccccc; font-size:=
+ 15px; line-height: 1.6; padding-bottom: 10px; padding-left: 15px;"">
+                                        2. Connect your wallet
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""color: #cccccc; font-size:=
+ 15px; line-height: 1.6; padding-bottom: 10px; padding-left: 15px;"">
+                                        3. Navigate to the Rewards section
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""color: #cccccc; font-size:=
+ 15px; line-height: 1.6; padding-left: 15px;"">
+                                        4. Click ""Claim"" for claim your GAL=
+ tokens
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Button -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; margin: 30px 0;=
+"">
+                                <tr>
+                                    <td align=3D""center"">
+                                        <table border=3D""0"" cellpadding=3D""=
+0"" cellspacing=3D""0"" class=3D""mobile-button"" style=3D""border-collapse: sepa=
+rate; border-radius: 8px; overflow: hidden;"">
+                                            <tr>
+                                                <td align=3D""center"" bgcolo=
+r=3D""#5d5dff"" style=3D""padding: 0;"">
+                                                    <a href=3D""https://u515=
+21385.ct.sendgrid.net/ls/click?upn=3Du001.wwBX1IWH0Xq1F-2FE-2Bl0g4DibWwYccg=
+-2BK9JdkOAKowqIc-3DE5FF_NPcpJPYuoMhAmvgMGEbLfmnrfngfxQD5X0uVmSxV06ka1etqHjo=
+DUIuJaasr7XQngilOD97KfbxqZLqGfqJ1aj2x645rzCqW6dktfCioQxDX7pZtuKeIzAxhvRsk2T=
+mgWrD-2FPxL-2FFMOpvb1nLwmFsDVGz3WhMahmQZ6OLSGGgP7vMSmCVolsgQs-2BxuU2legEv0z=
+8772GqqtN-2F2Xtg9hjOc-2BQXHP8z8XwLcH5DHXsCDA1H-2FpVn3noifDnNVDW6mLcrvNhqfKB=
+6LeJP7x2DELhzuwAd-2BXg1ARwfdnYDZgqm4E7491QDkdq9Yy-2Fc39ptYHdB1QxLF2Z-2F0eC1=
+CXZ5KYqQUKsrFJvanQT2PmbcPT-2BU-2BSINaQFbiwQFsh5m12TRh0axd7Twz5eRcamjjBtiYae=
+jSoR4xAuiUy4kH8fsfvbfSM8AozpOTCvRyJvpR8p92vW5S-2FVUSI5bSAqe9KHCiU69u9-2BcP1=
+6d5hcV4A6Y8rNhX7YwTf-2BY69R-2BOvJtB0ROEi4beBa-2ByKtfVNjTEqBXScnZXHPOEfYNm20=
+0gGW-2F9MZtp8q6XA0hZupp-2FguODG0P45-2F"" target=3D""_blank"" style=3D""display:=
+ inline-block; padding: 16px 36px; font-size: 16px; color: #ffffff; font-we=
+ight: bold; text-decoration: none; font-family: 'Segoe UI', Arial, sans-ser=
+if; border-radius: 8px;"">
+                                                        Claim Tokens Now
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Final Message -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse;"">
+                                <tr>
+                                    <td style=3D""color: #cccccc; font-size:=
+ 15px; line-height: 1.6; padding-bottom: 10px;"">
+                                        Don't miss this opportunity to secu=
+re your GAL tokens. The token claiming process only takes a few minutes.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""color: #cccccc; font-size:=
+ 15px; line-height: 1.6;"">
+                                        Thank you for being part of our eco=
+system!
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                   =20
+                    <!-- Footer -->
+                    <tr>
+                        <td style=3D""background-color: rgba(0,0,0,0.3); pad=
+ding: 30px 40px; text-align: center; color: #666666; font-size: 12px; line-=
+height: 1.5;"">
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse;"">
+                                <tr>
+                                    <td style=3D""padding-bottom: 20px; colo=
+r: #888888; font-size: 12px;"">
+                                        This is an automated message. Pleas=
+e do not reply to this email.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style=3D""padding-bottom: 20px;"">
+                                        You received this email because you=
+ have registered on Galxe.<br />
+                                        To unsubscribe or change notificati=
+on settings, <a href=3D""https://u51521385.ct.sendgrid.net/ls/click?upn=3Du0=
+01.wwBX1IWH0Xq1F-2FE-2Bl0g4DibWwYccg-2BK9JdkOAKowqIc-3De62E_NPcpJPYuoMhAmvg=
+MGEbLfmnrfngfxQD5X0uVmSxV06ka1etqHjoDUIuJaasr7XQngilOD97KfbxqZLqGfqJ1aj2x64=
+5rzCqW6dktfCioQxDX7pZtuKeIzAxhvRsk2TmgWrD-2FPxL-2FFMOpvb1nLwmFsDVGz3WhMahmQ=
+Z6OLSGGgP7vMSmCVolsgQs-2BxuU2legEv0z8772GqqtN-2F2Xtg9hjOc-2BQXHP8z8XwLcH5DH=
+XsCDA1H-2FpVn3noifDnNVDW6mLcrvNhqfKB6LeJP7x2DELhzuwAd-2BXg1ARwfdnYDZgqm4E74=
+91QDkdq9Yy-2Fc39ptYHdB1QxLF2Z-2F0eC1CXZ5KYqQUKsrFJvanQT2PmbcPT-2BU-2BSINaQF=
+biwQFsh5m12TRh0axd7Twz5eRcamjjBtiYaejSoR4xAuiUy4kH8fsfvbfSM8AozpOTCvRyJvpR8=
+p92vWDgKe4AyzF3NnWEzaoz29ptrPJRQhgDzLMdRgmWGlgjXE-2F-2Fam1DIzVCfppuWwRx4zOW=
+sVg9kFhu01oyXp49A4ljG80ZwVcUV0GAHJKq6xJ2kdBvzNSc8exbqDeIXwghwf"" style=3D""co=
+lor: #5d5dff; text-decoration: none;"">update your email preferences</a>.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        &copy; 2025 Galxe Network. All righ=
+ts reserved.<br />
+                                        <a href=3D""https://u51521385.ct.sen=
+dgrid.net/ls/click?upn=3Du001.wwBX1IWH0Xq1F-2FE-2Bl0g4DibWwYccg-2BK9JdkOAKo=
+wqIc-3DAcI0_NPcpJPYuoMhAmvgMGEbLfmnrfngfxQD5X0uVmSxV06ka1etqHjoDUIuJaasr7XQ=
+ngilOD97KfbxqZLqGfqJ1aj2x645rzCqW6dktfCioQxDX7pZtuKeIzAxhvRsk2TmgWrD-2FPxL-=
+2FFMOpvb1nLwmFsDVGz3WhMahmQZ6OLSGGgP7vMSmCVolsgQs-2BxuU2legEv0z8772GqqtN-2F=
+2Xtg9hjOc-2BQXHP8z8XwLcH5DHXsCDA1H-2FpVn3noifDnNVDW6mLcrvNhqfKB6LeJP7x2DELh=
+zuwAd-2BXg1ARwfdnYDZgqm4E7491QDkdq9Yy-2Fc39ptYHdB1QxLF2Z-2F0eC1CXZ5KYqQUKsr=
+FJvanQT2PmbcPT-2BU-2BSINaQFbiwQFsh5m12TRh0axd7Twz5eRcamjjBtiYaejSoR4xAuiUy4=
+kH8fsfvbfSM8AozpOTCvRyJvpR8p92vW7bs0lJm-2BXwCTYykCWHYyspjILw1FKhOBXQyFzW8HX=
+bZI7-2B9lphPpfNg1S-2Fy7bXrvB2eh8ndqEf0un2UCPnwiVryIaCx7cwu1MEfPyCXHBv59FQxl=
+hU-2BJw6wjwgOyhE0o"" style=3D""color: #5d5dff; text-decoration: none;"">Terms =
+of Service</a> |=20
+                                        <a href=3D""https://u51521385.ct.sen=
+dgrid.net/ls/click?upn=3Du001.wwBX1IWH0Xq1F-2FE-2Bl0g4DibWwYccg-2BK9JdkOAKo=
+wqIc-3D3KIA_NPcpJPYuoMhAmvgMGEbLfmnrfngfxQD5X0uVmSxV06ka1etqHjoDUIuJaasr7XQ=
+ngilOD97KfbxqZLqGfqJ1aj2x645rzCqW6dktfCioQxDX7pZtuKeIzAxhvRsk2TmgWrD-2FPxL-=
+2FFMOpvb1nLwmFsDVGz3WhMahmQZ6OLSGGgP7vMSmCVolsgQs-2BxuU2legEv0z8772GqqtN-2F=
+2Xtg9hjOc-2BQXHP8z8XwLcH5DHXsCDA1H-2FpVn3noifDnNVDW6mLcrvNhqfKB6LeJP7x2DELh=
+zuwAd-2BXg1ARwfdnYDZgqm4E7491QDkdq9Yy-2Fc39ptYHdB1QxLF2Z-2F0eC1CXZ5KYqQUKsr=
+FJvanQT2PmbcPT-2BU-2BSINaQFbiwQFsh5m12TRh0axd7Twz5eRcamjjBtiYaejSoR4xAuiUy4=
+kH8fsfvbfSM8AozpOTCvRyJvpR8p92vW6L2teWeY91vp6FciKdz8LlVF6PK4oPsN2e8RRZXNlRN=
+-2Fg-2BpJ-2FvTn1kibGCrm8ZCE29gKaR6euwY4dMFsngFx4JJVB7TmdgvZHRxYSIERJ63AtdQ7=
+AbwdVn9XLMcM1-2FMZ"" style=3D""color: #5d5dff; text-decoration: none;"">Privac=
+y Policy</a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D""https://u51521385.ct.sendgrid.net/wf/open?upn=3Du001.B1kOCgfpJ3=
+Hx-2BR7CShsmgWsRsC1cAGPpw5UkzMg8r3620h5QFdE-2Fgl6XZ1T0Mwc3wPYqRSPGlvuQCRZXZ=
+HXsBjFb1ef4sX-2B4Vuzn9KasDmJujrEFlJtWl-2FsCP7hcWHKZv7EkjDaY3PP-2BmNI-2F082x=
+BLWCnIvqFmxallWveWtn6BqEaeouIN-2FC7RxUIL4JZuUZMos8-2F7U6P8-2FhDJ2fAq5ffnHwK=
+ete52ZD34SCI1e5r9QXzDSBJgJgwRveFlGQimYXyMAaZlmnqJklzUa5GmiewAh1zGd4yKQRIbUb=
+RJPnCYkji3YS67HaGp0CSkISIfXmm36WplHdp7h5d5xQsDI2GYHkMmSsfXigfhwtN0-2BATTNJp=
+hZickOllA9tkNzJV-2BuJUzT3xDDtxb7KNWw9LYq5LHS2BFqjd7xoQ-2FDwVHch0F7Byu0Xu3Ri=
+WSxcvfT3lPO1Qj7Yx-2BWQQRQMQuLCGUJDonaf-2B8KVnwhKMR0l8k9jOLklfhr-2BwVJaRVWJI=
+2XfghfDiAgphHNbLUWNhu29b4EdiBV4n5oy6kamB5jnquX-2FM2YFuSy92HWd0QFIMlbyJu6VQ1=
+PuQr7wEFADCP1p7-2F5FvA-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0=
+"" style=3D""height:1px !important;width:1px !important;border-width:0 !impor=
+tant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !imp=
+ortant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !=
+important;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+--e86563c6fc7c1c4557753a8de902a56d3a48a52c9ef43c80cb9ea831fb77--
+","""Galxe"" <info@secure.customer-galxe.com>",brandonhuff42312@gmail.com,2025-03-25,34.225.201.237,United States,en,users/51521385/2af28404-8312-4136-9972-524a858635bf.json

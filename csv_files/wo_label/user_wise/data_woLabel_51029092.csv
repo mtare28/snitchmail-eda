@@ -1,0 +1,402 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51029092,RNQF1EBRRVex76hVHKySEQ.recvd-69cbc48b94-mls98-1-67C7EF7E-18.0,cHJvY2Vzc2VkLTUxMDI5MDkyLVJOUUYxRUJSUlZleDc2aFZIS3lTRVEtMA,tr,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tfvb.wackyjac.in.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=9iGwg63QIMfcxw9+B7PWhVVGL3p5zCRMaKtBeMX+H1k=;
+	b=ncUPFXaFLlug0hxh6oTZx5ei9HZ1qVM0axdU7cdyYSrAFqZnre/lgvyVoZsitTxP/o54
+	+2dooZlztrfQSoTzvEJmpaaQGrBYq79LlfptGyv62v26gD5s/X1HRan2ZVCnljZ5zspWIE
+	gQORHN6iTDCpL24OrxB8BnIiu8M47zvCfyqXSFaYmnUdMD1DhS/fjSUwraYzU1+eQVUezp
+	kvON6icYp19Q+UwZJtwB6xIBnnA6qR+sLCZJWqm0hoTE8IyhaFS38CyiRqI2seZnKbv54G
+	00hNqAJfmNxBaTS7LRnoNqWKqM1bIezoHcylQQo4ZSiYTrLO/wqSRIUuASd2g3bQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=9iGwg63QIMfcxw9+B7PWhVVGL3p5zCRMaKtBeMX+H1k=;
+	b=QLChR2XASCawIABJvWkg0KJdfZl/OpocaZv0XZp4DJHag9NVqf4G82WcaPP8QpS6Keds
+	jm69K+ZfUjuWA+LemO0OfNrOvCKDVc7PZiAHkoGLuY2p6cEF6KLT7DXIFIN6qlj9gDROH3
+	t39ReKBqHiYj9bL/dqMdz1tO+wZzyXFdQ=
+Received: by recvd-69cbc48b94-mls98 with SMTP id recvd-69cbc48b94-mls98-1-67C7EF7E-18
+	2025-03-05 06:30:22.524425513 +0000 UTC m=+9536911.958421057
+Received: from NTEwMjkwOTI (unknown)
+	by geopod-ismtpd-6 (SG) with HTTP
+	id RNQF1EBRRVex76hVHKySEQ
+	Wed, 05 Mar 2025 06:30:22.268 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Wed, 05 Mar 2025 06:30:22 +0000 (UTC)
+From: gy <travismathew@tfvb.wackyjac.in.net>
+Mime-Version: 1.0
+Message-ID: <RNQF1EBRRVex76hVHKySEQ@geopod-ismtpd-6>
+Subject: tr
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E9DomCi1KaoYITeR0jQfhPql9hRYaX1QQ4xMZznoXRrxHU0PeUwQI9SEOi?=
+ =?us-ascii?Q?FALVg6wslyqZ=2FnHIStCtmYYp8FHMzcapC4Gsz0c?=
+ =?us-ascii?Q?Wkg=2FCxPCruTZv6hKQIvYt1kvzM117oPfsUTVUx2?=
+ =?us-ascii?Q?vOq6DjvB0q=2FG5LX4fcZk3dJ2=2Fh2mCa8kEwRWGFR?=
+ =?us-ascii?Q?oVZrC13xQzsgx7EmuyGjJ=2Fiyjqmbh97lmNJn2zt?=
+ =?us-ascii?Q?BUniCgN=2FLgGd+7f9WgPXnALV6KU3oku89N1n=2Ftc?=
+ =?us-ascii?Q?4FdS?=
+To: dragonlufafa9007@yahoo.com
+X-Entity-ID: u001.mPdxODfYyUhzJVKxyhm+8g==
+
+<!DOCTYPE html> <html lang=3D""en""> <!--[if (gte mso 9)|(IE)]><html xmlns=3D=
+""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xm=
+lns:o=3D""urn:schemas-microsoft-com:office:office""/><![endif]--> <head> <tit=
+le>Your Lucky Charm? Dark Olive.</title> <meta http-equiv=3D""Content-Type"" =
+content=3D""text/html;"" charset=3D""utf-8""/>
+<meta name=3D""viewport"" content=3D""width=EF=BF=BDvice-width, initial-scale=
+=3D1"">
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=EF=BF=BDge""/> <!--[if !m=
+so]><!-- --> <link href=3D""https://fonts.googleapis.com/css?family=3DMontse=
+rrat:400,700|"" rel=3D""stylesheet"">
+<link href=3D""https://mediacdn.espssl.com/9662/__fonts__/GothamBook/GothamB=
+ook.css"" rel=3D""stylesheet""><link href""https://mediacdn.espssl.com/9662/__f=
+onts__/GothamBold/GothamBold.css"" rel=3D""stylesheet""><!--<![endif]--> <styl=
+e type""text/css"">   img {    border: 0;    line-height: 100%;    outline: n=
+one;    text-decoration: none;   }   table {    border-collapse: collapse !=
+important;    table-layout: fixed;    overflow-wrap: break-word;    word-wr=
+ap: break-word;    -ms-word-break: break-all;    word-break: break-word;   =
+}   table table table {    table-layout: auto;   }   .image table, .social =
+table, .divider table {    table-layout: auto;   }   body {    height: 100%=
+ !important;    margin: 0 !important; =20
+  padding: 0 !important;    width: 100% !important;    font-family: Arial, =
+'Helvetica Neue', Helvetica, sans-serif;    font-size: 12px;    color: #222=
+222;   }   img {    -ms-interpolation-mode: bicubic;   }   div, button {   =
+ vertical-align: top;    margin: 0;   }    a[x-apple-data-detectors] {    c=
+olor: inherit !important;    text-decoration: none !important;    font-size=
+: inherit !important;    font-family: inherit !important;    font-weight: i=
+nherit !important;    line-height: inherit !important;   }   ul, ol {    ma=
+rgin-top:
+ 0;    margin-bottom: 0;   }   li {    margin: 0;   }   ol li > ol, ol li >=
+ ol li > ol li > ol li > ol {    list-style-type: lower-alpha;   }   ol li =
+> ol li > ol, ol li > ol li > ol li > ol li > ol li > ol {    list-style-ty=
+pe: lower-roman;   }   ol li > ol li > ol li > ol {    list-style-type: dec=
+imal;   }   .ExternalClass {    width:100%; =20
+ }   .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass =
+font, .ExternalClass td, .ExternalClass div {    line-height: 100%;   }   h=
+1 {    font-size: 32px;   }   h2 {    font-size: 24px;   }   h3 {    font-s=
+ize: 18px;   }   h1, h2, h3, h4, h5, h6 {    font-weight: normal;    line-h=
+eight: 100%;   }   p {    margin:0;    padding:0;    margin-bottom:0;   }  =
+ @media only screen and (max-width: 480px) {    .mobile-hide, .mobile-hide.=
+desktop-hide {
+    display: none !important;    }    .mobile-align-center td {    text-ali=
+gn: center !important;    }    .mobile-align-left td {    text-align: left =
+!important;    }    .mobile-align-right td {    text-align: right !importan=
+t;    }    .mobile-align-center img, .mobile-align-left img, .mobile-align-=
+right img {    display: inline-block !important;    margin: 0;    vertical-=
+align: top;    }    .Column-2 div, .Column-3 div, .Column-4 div {    displa=
+y: block !important;    width: 100% !important;    max-width:
+ 100% !important;    }    .Column-3 div.half-width {    display: inline-blo=
+ck !important;    width: 50% !important;    max-width: 50% !important;    }=
+    .nav.stack a {    display: block !important;    width: 100% !important;=
+    border: 0 !important;    padding: 15px 0 !important;    }    .desktop-h=
+ide, .desktop-hide tr, .desktop-hide td {    width: 100% !important;    max=
+-height: inherit !important;    overflow: visible !important;    display: b=
+lock !important;    float: none !important;    } =20
+  .desktop-hide {    display: table !important;    width: 100% !important; =
+   }    .desktop-hide tr {    display: table-row !important;    }    .deskt=
+op-hide td {    display: table-cell !important;    }   }   @media screen an=
+d (min-width: 481px) {    .Column-2 div {    max-width: 50% !important;    =
+}    .Column-2 div.column-25 {    max-width: 25% !important;    }    .Colum=
+n-2 div.column-33 {    max-width: 33.334% !important;    }    .Column-2
+ div.column-66 {    max-width: 66.667% !important;    }    .Column-2 div.co=
+lumn-75 {    max-width: 75% !important;    }    .Column-3 div {    max-widt=
+h: 33.334% !important;    }    .Column-4 div {    max-width: 25% !important=
+;    }   }    div[style*=3D""margin: 16px 0;""] {    margin: 0 !important;   =
+} </style> <!--[if gte mso 9]><style>    ul li {    text-indent: -1em;    }=
+ </style><![endif]--> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <=
+o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettin=
+gs> </xml><![endif]--> </head>
+<!DOCTYPE html> <html lang=3D""en""> <!--[if (gte mso 9)|(IE)]><html xmlns=3D=
+""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xm=
+lns:o=3D""urn:schemas-microsoft-com:office:office""/><![endif]--> <head> <tit=
+le>Your Lucky Charm? Dark Olive.</title> <meta http-equiv=3D""Content-Type"" =
+content=3D""text/html;"" charset=3D""utf-8""/>
+<meta name=3D""viewport"" content=3D""width=EF=BF=BDvice-width, initial-scale=
+=3D1"">
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=EF=BF=BDge""/> <!--[if !m=
+so]><!-- --> <link href=3D""https://fonts.googleapis.com/css?family=3DMontse=
+rrat:400,700|"" rel=3D""stylesheet"">
+<link href=3D""https://mediacdn.espssl.com/9662/__fonts__/GothamBook/GothamB=
+ook.css"" rel=3D""stylesheet""><link href""https://mediacdn.espssl.com/9662/__f=
+onts__/GothamBold/GothamBold.css"" rel=3D""stylesheet""><!--<![endif]--> <styl=
+e type""text/css"">   img {    border: 0;    line-height: 100%;    outline: n=
+one;    text-decoration: none;   }   table {    border-collapse: collapse !=
+important;    table-layout: fixed;    overflow-wrap: break-word;    word-wr=
+ap: break-word;    -ms-word-break: break-all;    word-break: break-word;   =
+}   table table table {    table-layout: auto;   }   .image table, .social =
+table, .divider table {    table-layout: auto;   }   body {    height: 100%=
+ !important;    margin: 0 !important; =20
+  padding: 0 !important;    width: 100% !important;    font-family: Arial, =
+'Helvetica Neue', Helvetica, sans-serif;    font-size: 12px;    color: #222=
+222;   }   img {    -ms-interpolation-mode: bicubic;   }   div, button {   =
+ vertical-align: top;    margin: 0;   }    a[x-apple-data-detectors] {    c=
+olor: inherit !important;    text-decoration: none !important;    font-size=
+: inherit !important;    font-family: inherit !important;    font-weight: i=
+nherit !important;    line-height: inherit !important;   }   ul, ol {    ma=
+rgin-top:
+ 0;    margin-bottom: 0;   }   li {    margin: 0;   }   ol li > ol, ol li >=
+ ol li > ol li > ol li > ol {    list-style-type: lower-alpha;   }   ol li =
+> ol li > ol, ol li > ol li > ol li > ol li > ol li > ol {    list-style-ty=
+pe: lower-roman;   }   ol li > ol li > ol li > ol {    list-style-type: dec=
+imal;   }   .ExternalClass {    width:100%; =20
+ }   .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass =
+font, .ExternalClass td, .ExternalClass div {    line-height: 100%;   }   h=
+1 {    font-size: 32px;   }   h2 {    font-size: 24px;   }   h3 {    font-s=
+ize: 18px;   }   h1, h2, h3, h4, h5, h6 {    font-weight: normal;    line-h=
+eight: 100%;   }   p {    margin:0;    padding:0;    margin-bottom:0;   }  =
+ @media only screen and (max-width: 480px) {    .mobile-hide, .mobile-hide.=
+desktop-hide {
+    display: none !important;    }    .mobile-align-center td {    text-ali=
+gn: center !important;    }    .mobile-align-left td {    text-align: left =
+!important;    }    .mobile-align-right td {    text-align: right !importan=
+t;    }    .mobile-align-center img, .mobile-align-left img, .mobile-align-=
+right img {    display: inline-block !important;    margin: 0;    vertical-=
+align: top;    }    .Column-2 div, .Column-3 div, .Column-4 div {    displa=
+y: block !important;    width: 100% !important;    max-width:
+ 100% !important;    }    .Column-3 div.half-width {    display: inline-blo=
+ck !important;    width: 50% !important;    max-width: 50% !important;    }=
+    .nav.stack a {    display: block !important;    width: 100% !important;=
+    border: 0 !important;    padding: 15px 0 !important;    }    .desktop-h=
+ide, .desktop-hide tr, .desktop-hide td {    width: 100% !important;    max=
+-height: inherit !important;    overflow: visible !important;    display: b=
+lock !important;    float: none !important;    } =20
+  .desktop-hide {    display: table !important;    width: 100% !important; =
+   }    .desktop-hide tr {    display: table-row !important;    }    .deskt=
+op-hide td {    display: table-cell !important;    }   }   @media screen an=
+d (min-width: 481px) {    .Column-2 div {    max-width: 50% !important;    =
+}    .Column-2 div.column-25 {    max-width: 25% !important;    }    .Colum=
+n-2 div.column-33 {    max-width: 33.334% !important;    }    .Column-2
+ div.column-66 {    max-width: 66.667% !important;    }    .Column-2 div.co=
+lumn-75 {    max-width: 75% !important;    }    .Column-3 div {    max-widt=
+h: 33.334% !important;    }    .Column-4 div {    max-width: 25% !important=
+;    }   }    div[style*=3D""margin: 16px 0;""] {    margin: 0 !important;   =
+} </style> <!--[if gte mso 9]><style>    ul li {    text-indent: -1em;    }=
+ </style><![endif]--> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <=
+o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettin=
+gs> </xml><![endif]--> </head>
+<!DOCTYPE html> <html lang=3D""en""> <!--[if (gte mso 9)|(IE)]><html xmlns=3D=
+""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xm=
+lns:o=3D""urn:schemas-microsoft-com:office:office""/><![endif]--> <head> <tit=
+le>Your Lucky Charm? Dark Olive.</title> <meta http-equiv=3D""Content-Type"" =
+content=3D""text/html;"" charset=3D""utf-8""/>
+<meta name=3D""viewport"" content=3D""width=EF=BF=BDvice-width, initial-scale=
+=3D1"">
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=EF=BF=BDge""/> <!--[if !m=
+so]><!-- --> <link href=3D""https://fonts.googleapis.com/css?family=3DMontse=
+rrat:400,700|"" rel=3D""stylesheet"">
+<link href=3D""https://mediacdn.espssl.com/9662/__fonts__/GothamBook/GothamB=
+ook.css"" rel=3D""stylesheet""><link href""https://mediacdn.espssl.com/9662/__f=
+onts__/GothamBold/GothamBold.css"" rel=3D""stylesheet""><!--<![endif]--> <styl=
+e type""text/css"">   img {    border: 0;    line-height: 100%;    outline: n=
+one;    text-decoration: none;   }   table {    border-collapse: collapse !=
+important;    table-layout: fixed;    overflow-wrap: break-word;    word-wr=
+ap: break-word;    -ms-word-break: break-all;    word-break: break-word;   =
+}   table table table {    table-layout: auto;   }   .image table, .social =
+table, .divider table {    table-layout: auto;   }   body {    height: 100%=
+ !important;    margin: 0 !important; =20
+  padding: 0 !important;    width: 100% !important;    font-family: Arial, =
+'Helvetica Neue', Helvetica, sans-serif;    font-size: 12px;    color: #222=
+222;   }   img {    -ms-interpolation-mode: bicubic;   }   div, button {   =
+ vertical-align: top;    margin: 0;   }    a[x-apple-data-detectors] {    c=
+olor: inherit !important;    text-decoration: none !important;    font-size=
+: inherit !important;    font-family: inherit !important;    font-weight: i=
+nherit !important;    line-height: inherit !important;   }   ul, ol {    ma=
+rgin-top:
+ 0;    margin-bottom: 0;   }   li {    margin: 0;   }   ol li > ol, ol li >=
+ ol li > ol li > ol li > ol {    list-style-type: lower-alpha;   }   ol li =
+> ol li > ol, ol li > ol li > ol li > ol li > ol li > ol {    list-style-ty=
+pe: lower-roman;   }   ol li > ol li > ol li > ol {    list-style-type: dec=
+imal;   }   .ExternalClass {    width:100%; =20
+ }   .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass =
+font, .ExternalClass td, .ExternalClass div {    line-height: 100%;   }   h=
+1 {    font-size: 32px;   }   h2 {    font-size: 24px;   }   h3 {    font-s=
+ize: 18px;   }   h1, h2, h3, h4, h5, h6 {    font-weight: normal;    line-h=
+eight: 100%;   }   p {    margin:0;    padding:0;    margin-bottom:0;   }  =
+ @media only screen and (max-width: 480px) {    .mobile-hide, .mobile-hide.=
+desktop-hide {
+    display: none !important;    }    .mobile-align-center td {    text-ali=
+gn: center !important;    }    .mobile-align-left td {    text-align: left =
+!important;    }    .mobile-align-right td {    text-align: right !importan=
+t;    }    .mobile-align-center img, .mobile-align-left img, .mobile-align-=
+right img {    display: inline-block !important;    margin: 0;    vertical-=
+align: top;    }    .Column-2 div, .Column-3 div, .Column-4 div {    displa=
+y: block !important;    width: 100% !important;    max-width:
+ 100% !important;    }    .Column-3 div.half-width {    display: inline-blo=
+ck !important;    width: 50% !important;    max-width: 50% !important;    }=
+    .nav.stack a {    display: block !important;    width: 100% !important;=
+    border: 0 !important;    padding: 15px 0 !important;    }    .desktop-h=
+ide, .desktop-hide tr, .desktop-hide td {    width: 100% !important;    max=
+-height: inherit !important;    overflow: visible !important;    display: b=
+lock !important;    float: none !important;    } =20
+  .desktop-hide {    display: table !important;    width: 100% !important; =
+   }    .desktop-hide tr {    display: table-row !important;    }    .deskt=
+op-hide td {    display: table-cell !important;    }   }   @media screen an=
+d (min-width: 481px) {    .Column-2 div {    max-width: 50% !important;    =
+}    .Column-2 div.column-25 {    max-width: 25% !important;    }    .Colum=
+n-2 div.column-33 {    max-width: 33.334% !important;    }    .Column-2
+ div.column-66 {    max-width: 66.667% !important;    }    .Column-2 div.co=
+lumn-75 {    max-width: 75% !important;    }    .Column-3 div {    max-widt=
+h: 33.334% !important;    }    .Column-4 div {    max-width: 25% !important=
+;    }   }    div[style*=3D""margin: 16px 0;""] {    margin: 0 !important;   =
+} </style> <!--[if gte mso 9]><style>    ul li {    text-indent: -1em;    }=
+ </style><![endif]--> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <=
+o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettin=
+gs> </xml><![endif]--> </head>
+<!DOCTYPE html> <html lang=3D""en""> <!--[if (gte mso 9)|(IE)]><html xmlns=3D=
+""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xm=
+lns:o=3D""urn:schemas-microsoft-com:office:office""/><![endif]--> <head> <tit=
+le>Your Lucky Charm? Dark Olive.</title> <meta http-equiv=3D""Content-Type"" =
+content=3D""text/html;"" charset=3D""utf-8""/>
+<meta name=3D""viewport"" content=3D""width=EF=BF=BDvice-width, initial-scale=
+=3D1"">
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=EF=BF=BDge""/> <!--[if !m=
+so]><!-- --> <link href=3D""https://fonts.googleapis.com/css?family=3DMontse=
+rrat:400,700|"" rel=3D""stylesheet"">
+<link href=3D""https://mediacdn.espssl.com/9662/__fonts__/GothamBook/GothamB=
+ook.css"" rel=3D""stylesheet""><link href""https://mediacdn.espssl.com/9662/__f=
+onts__/GothamBold/GothamBold.css"" rel=3D""stylesheet""><!--<![endif]--> <styl=
+e type""text/css"">   img {    border: 0;    line-height: 100%;    outline: n=
+one;    text-decoration: none;   }   table {    border-collapse: collapse !=
+important;    table-layout: fixed;    overflow-wrap: break-word;    word-wr=
+ap: break-word;    -ms-word-break: break-all;    word-break: break-word;   =
+}   table table table {    table-layout: auto;   }   .image table, .social =
+table, .divider table {    table-layout: auto;   }   body {    height: 100%=
+ !important;    margin: 0 !important; =20
+  padding: 0 !important;    width: 100% !important;    font-family: Arial, =
+'Helvetica Neue', Helvetica, sans-serif;    font-size: 12px;    color: #222=
+222;   }   img {    -ms-interpolation-mode: bicubic;   }   div, button {   =
+ vertical-align: top;    margin: 0;   }    a[x-apple-data-detectors] {    c=
+olor: inherit !important;    text-decoration: none !important;    font-size=
+: inherit !important;    font-family: inherit !important;    font-weight: i=
+nherit !important;    line-height: inherit !important;   }   ul, ol {    ma=
+rgin-top:
+ 0;    margin-bottom: 0;   }   li {    margin: 0;   }   ol li > ol, ol li >=
+ ol li > ol li > ol li > ol {    list-style-type: lower-alpha;   }   ol li =
+> ol li > ol, ol li > ol li > ol li > ol li > ol li > ol {    list-style-ty=
+pe: lower-roman;   }   ol li > ol li > ol li > ol {    list-style-type: dec=
+imal;   }   .ExternalClass {    width:100%; =20
+ }   .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass =
+font, .ExternalClass td, .ExternalClass div {    line-height: 100%;   }   h=
+1 {    font-size: 32px;   }   h2 {    font-size: 24px;   }   h3 {    font-s=
+ize: 18px;   }   h1, h2, h3, h4, h5, h6 {    font-weight: normal;    line-h=
+eight: 100%;   }   p {    margin:0;    padding:0;    margin-bottom:0;   }  =
+ @media only screen and (max-width: 480px) {    .mobile-hide, .mobile-hide.=
+desktop-hide {
+    display: none !important;    }    .mobile-align-center td {    text-ali=
+gn: center !important;    }    .mobile-align-left td {    text-align: left =
+!important;    }    .mobile-align-right td {    text-align: right !importan=
+t;    }    .mobile-align-center img, .mobile-align-left img, .mobile-align-=
+right img {    display: inline-block !important;    margin: 0;    vertical-=
+align: top;    }    .Column-2 div, .Column-3 div, .Column-4 div {    displa=
+y: block !important;    width: 100% !important;    max-width:
+ 100% !important;    }    .Column-3 div.half-width {    display: inline-blo=
+ck !important;    width: 50% !important;    max-width: 50% !important;    }=
+    .nav.stack a {    display: block !important;    width: 100% !important;=
+    border: 0 !important;    padding: 15px 0 !important;    }    .desktop-h=
+ide, .desktop-hide tr, .desktop-hide td {    width: 100% !important;    max=
+-height: inherit !important;    overflow: visible !important;    display: b=
+lock !important;    float: none !important;    } =20
+  .desktop-hide {    display: table !important;    width: 100% !important; =
+   }    .desktop-hide tr {    display: table-row !important;    }    .deskt=
+op-hide td {    display: table-cell !important;    }   }   @media screen an=
+d (min-width: 481px) {    .Column-2 div {    max-width: 50% !important;    =
+}    .Column-2 div.column-25 {    max-width: 25% !important;    }    .Colum=
+n-2 div.column-33 {    max-width: 33.334% !important;    }    .Column-2
+ div.column-66 {    max-width: 66.667% !important;    }    .Column-2 div.co=
+lumn-75 {    max-width: 75% !important;    }    .Column-3 div {    max-widt=
+h: 33.334% !important;    }    .Column-4 div {    max-width: 25% !important=
+;    }   }    div[style*=3D""margin: 16px 0;""] {    margin: 0 !important;   =
+} </style> <!--[if gte mso 9]><style>    ul li {    text-indent: -1em;    }=
+ </style><![endif]--> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <=
+o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettin=
+gs> </xml><![endif]--> </head>
+<!DOCTYPE html> <html lang=3D""en""> <!--[if (gte mso 9)|(IE)]><html xmlns=3D=
+""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xm=
+lns:o=3D""urn:schemas-microsoft-com:office:office""/><![endif]--> <head> <tit=
+le>Your Lucky Charm? Dark Olive.</title> <meta http-equiv=3D""Content-Type"" =
+content=3D""text/html;"" charset=3D""utf-8""/>
+<meta name=3D""viewport"" content=3D""width=EF=BF=BDvice-width, initial-scale=
+=3D1"">
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=EF=BF=BDge""/> <!--[if !m=
+so]><!-- --> <link href=3D""https://fonts.googleapis.com/css?family=3DMontse=
+rrat:400,700|"" rel=3D""stylesheet"">
+<link href=3D""https://mediacdn.espssl.com/9662/__fonts__/GothamBook/GothamB=
+ook.css"" rel=3D""stylesheet""><link href""https://mediacdn.espssl.com/9662/__f=
+onts__/GothamBold/GothamBold.css"" rel=3D""stylesheet""><!--<![endif]--> <styl=
+e type""text/css"">   img {    border: 0;    line-height: 100%;    outline: n=
+one;    text-decoration: none;   }   table {    border-collapse: collapse !=
+important;    table-layout: fixed;    overflow-wrap: break-word;    word-wr=
+ap: break-word;    -ms-word-break: break-all;    word-break: break-word;   =
+}   table table table {    table-layout: auto;   }   .image table, .social =
+table, .divider table {    table-layout: auto;   }   body {    height: 100%=
+ !important;    margin: 0 !important; =20
+  padding: 0 !important;    width: 100% !important;    font-family: Arial, =
+'Helvetica Neue', Helvetica, sans-serif;    font-size: 12px;    color: #222=
+222;   }   img {    -ms-interpolation-mode: bicubic;   }   div, button {   =
+ vertical-align: top;    margin: 0;   }    a[x-apple-data-detectors] {    c=
+olor: inherit !important;    text-decoration: none !important;    font-size=
+: inherit !important;    font-family: inherit !important;    font-weight: i=
+nherit !important;    line-height: inherit !important;   }   ul, ol {    ma=
+rgin-top:
+ 0;    margin-bottom: 0;   }   li {    margin: 0;   }   ol li > ol, ol li >=
+ ol li > ol li > ol li > ol {    list-style-type: lower-alpha;   }   ol li =
+> ol li > ol, ol li > ol li > ol li > ol li > ol li > ol {    list-style-ty=
+pe: lower-roman;   }   ol li > ol li > ol li > ol {    list-style-type: dec=
+imal;   }   .ExternalClass {    width:100%; =20
+ }   .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass =
+font, .ExternalClass td, .ExternalClass div {    line-height: 100%;   }   h=
+1 {    font-size: 32px;   }   h2 {    font-size: 24px;   }   h3 {    font-s=
+ize: 18px;   }   h1, h2, h3, h4, h5, h6 {    font-weight: normal;    line-h=
+eight: 100%;   }   p {    margin:0;    padding:0;    margin-bottom:0;   }  =
+ @media only screen and (max-width: 480px) {    .mobile-hide, .mobile-hide.=
+desktop-hide {
+    display: none !important;    }    .mobile-align-center td {    text-ali=
+gn: center !important;    }    .mobile-align-left td {    text-align: left =
+!important;    }    .mobile-align-right td {    text-align: right !importan=
+t;    }    .mobile-align-center img, .mobile-align-left img, .mobile-align-=
+right img {    display: inline-block !important;    margin: 0;    vertical-=
+align: top;    }    .Column-2 div, .Column-3 div, .Column-4 div {    displa=
+y: block !important;    width: 100% !important;    max-width:
+ 100% !important;    }    .Column-3 div.half-width {    display: inline-blo=
+ck !important;    width: 50% !important;    max-width: 50% !important;    }=
+    .nav.stack a {    display: block !important;    width: 100% !important;=
+    border: 0 !important;    padding: 15px 0 !important;    }    .desktop-h=
+ide, .desktop-hide tr, .desktop-hide td {    width: 100% !important;    max=
+-height: inherit !important;    overflow: visible !important;    display: b=
+lock !important;    float: none !important;    } =20
+  .desktop-hide {    display: table !important;    width: 100% !important; =
+   }    .desktop-hide tr {    display: table-row !important;    }    .deskt=
+op-hide td {    display: table-cell !important;    }   }   @media screen an=
+d (min-width: 481px) {    .Column-2 div {    max-width: 50% !important;    =
+}    .Column-2 div.column-25 {    max-width: 25% !important;    }    .Colum=
+n-2 div.column-33 {    max-width: 33.334% !important;    }    .Column-2
+ div.column-66 {    max-width: 66.667% !important;    }    .Column-2 div.co=
+lumn-75 {    max-width: 75% !important;    }    .Column-3 div {    max-widt=
+h: 33.334% !important;    }    .Column-4 div {    max-width: 25% !important=
+;    }   }    div[style*=3D""margin: 16px 0;""] {    margin: 0 !important;   =
+} </style> <!--[if gte mso 9]><style>    ul li {    text-indent: -1em;    }=
+ </style><![endif]--> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <=
+o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettin=
+gs> </xml><![endif]--> </head>
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://theraportal.site/509c432e3c7b35fe8c88/f064ca1=
+c3bcda12076"" target=3D""_blank""><img alt=3D""im"" src=3D""https://assets.unlaye=
+r.com/projects/266562/1741068326501-Screenshot 2025-03-04 113215.png"" style=
+=3D""width: 433px; height: 673px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://theraportal.site/509c432e3c7b35fe8c88/f064ca1=
+c3bcda12076un"" target=3D""_blank""><img alt=3D""im"" src=3D""https://assets.unla=
+yer.com/projects/266562/1740480990944-eedd4141864e8ff54d6027c5a3cf9d8a92486=
+5.png"" style=3D""width: 433px; height: 71px;"" /></a></p>
+    <img src=3D""https://u51029092.ct.sendgrid.net/wf/open?upn=3Du001.hdksHU=
+xzD05dq6dF6RnFx-2FoDsLAHGSuYWU54tiPj1XFvMSgCuxhsgl-2FE33-2BfKyeU3WEuYhceTFr=
+W9Jo7TBAoXxG7Y98ZCUq2EWBJwSotPSx4PO5qZX3oYJSDW9DljVzX62g3ALB0kBn15bpsCA6h2h=
+qVJDwNk4uMpyZzM-2BKhnXHC1U8-2F-2FA5u4hEQUWKzQ-2FUeXVcW-2BvLJVsy4kzdOAe6D9lw=
+WfjevEH0cSf0fbf60BQA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" sty=
+le=3D""height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""gy"" <travismathew@tfvb.wackyjac.in.net>",dragonlufafa9007@yahoo.com,2025-03-05,144.91.107.30,Germany,vi,users/51029092/87137484-b218-4c81-9002-b4ec6e126fd5.json

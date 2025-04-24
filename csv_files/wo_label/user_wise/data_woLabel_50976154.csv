@@ -1,0 +1,64 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50976154,JRnx_fNwSPuk889KS09zPQ.recvd-69cbc48b94-ncz84-1-67C97CDD-5F.0,cHJvY2Vzc2VkLTUwOTc2MTU0LUpSbnhfZk53U1B1azg4OUtTMDl6UFEtMA,【重要】アカウントの一時停止と本人確認のお願い,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:content-type:content-transfer-encoding:
+	list-unsubscribe:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=jCmHisWso8ekOzNgHerXBGqyJOYON2C5qKtln0y4ZwI=;
+	b=cnZgllwQPoNaiowfmLviJ9bhr7AwpPLH/p1j9MSEN7HTYETwu63D3CSokqF8hH2jBGqx
+	ylKCS6abC50SPeFluvLop/CHha0T90HPg2mAijQU+rJXns+M0dmBeejCe48BEN/ft+dS7Y
+	/r8cwU+81v7UX9tZC0NelIviTgJVrQzHo=
+Received: by recvd-69cbc48b94-ncz84 with SMTP id recvd-69cbc48b94-ncz84-1-67C97CDD-5F
+	2025-03-06 10:45:49.796034783 +0000 UTC m=+9638683.212310127
+Received: from warinsko.com (unknown)
+	by geopod-ismtpd-13 (SG) with ESMTP
+	id JRnx_fNwSPuk889KS09zPQ
+	for <ritzko.sp.3-8@ezweb.ne.jp>;
+	Thu, 06 Mar 2025 10:45:49.144 +0000 (UTC)
+Message-ID: <5ebc24816b8a21b381a52df80100ce59@fuchson.com>
+From: =?UTF-8?b?5qCq5byP5Lya56S+QW1hem9u?= <d@fuchson.com>
+Subject: 
+ =?UTF-8?B?44CQ6YeN6KaB44CR44Ki44Kr44Km44Oz44OI44Gu5LiA5pmC5YGc5q2i44Go5pys5Lq656K66KqN44Gu44GK6aGY44GE?=
+Date: Thu, 06 Mar 2025 10:45:49 +0000 (UTC)
+X-Priority: 3
+X-Mailer: Pvyomtwq Bhmkrqb 36.71
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+List-Unsubscribe: <mailto:ChristGalek@gmail.com>, <https://www.deepseek.com/>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmlagNYh=2FCTt8hLRLCMHtcdB2sB4WSdKTNBhj5F8pQllzHB0v+hMZHt2Kp?=
+ =?us-ascii?Q?2vu1JKy7hKLIkGm59s6WCvlOH6=2F9nR9IcpOVW=2FG?=
+ =?us-ascii?Q?bs3M=2FPA8DEvZ0MFsv7hfALP+bm+ttKgCoCDORSs?=
+ =?us-ascii?Q?CACx5itzcwKdS2j0q7bW+u9DG3nspBgf9Gftb+8?=
+ =?us-ascii?Q?3XiIwCKOxxij2VfwgUbyUE532=2FynicBOCUOBJN9?=
+ =?us-ascii?Q?0tCQyz1lQptIgzXE4PHayS3x7fWr2vQpGvEoLoT?= =?us-ascii?Q?NtCi?=
+To: ""ritzko.sp.3-8"" <ritzko.sp.3-8@ezweb.ne.jp>
+X-Entity-ID: u001.WT4qwyUMoD37wia8oJTVgQ==
+
+株式会社Amazon Japan
+お客様各位
+
+平素よりAmazonをご利用いただき、誠にありがとうございます。
+この度、お客様のアカウントにつきまして、不正使用または第三者による不正アクセスの可能性が確認されたため、セキュリティ保護の観点から、一時的にアカウントの
+利用を停止させていただきました。また、アカウントに登録されているお支払い方法についても、一時的に利用停止とさせていただいております。
+
+つきましては、お客様ご本人によるアカウントの確認を行っていただくため、下記のリンクからAmazonの公式ページにアクセスし、本人確認手続きを完了いただけ
+ますようお願い申し上げます。
+
+【アカウント確認リンク】
+https://u50976154.ct.sendgrid.net/ls/click?upn=u001.lNeyUFqK4p7DIw3VIbyiNyZ5mR1JnXOVsAg0Q6H8CvC-2FnX6s-2BhFwjXVMSpbx11yhah_0_97xFrJg56ZOESgQaRhG658uZn1zx4hoP3WDePpgE4shSMLnEdWNyginRXtb85VqPEpEa7XVFZ10PgQh-2BZS216CfxiY-2BAlm8AUbuelxCpcAGweNWkh-2F0rSKI5buUn2UcF-2Fp2bmCj-2FUhrV-2FJiQQ7RaG0uaj3OInJZraaKGitRmwmFcp16LfgfSvk5bY4UeBPb2WAPLffjwY6oJx-2BHuPqgIBA-3D-3D
+
+本人確認が完了しましたら、アカウントの安全性をさらに強化させていただくとともに、通常通りご利用いただけるよう対応させていただきます。
+
+なお、確認手続きが24時間以内に完了されない場合、セキュリティ保護のため、アカウントおよび登録されているお支払い方法を一時的に凍結させていただく場合がご
+ざいます。お手数をおかけいたしますが、何卒ご理解とご協力を賜りますようお願い申し上げます。
+
+今回の措置により、お客様にはご不便をおかけいたしますこと、心よりお詫び申し上げます。お客様のアカウントを迅速に保護させていただくためにも、早急なご対応を
+いただけますと幸いです。
+
+ご不明な点がございましたら、お気軽にお問い合わせください。
+何卒よろしくお願い申し上げます。
+
+株式会社Amazon Japan
+カスタマーサポート部
+
+","""株式会社Amazon"" <d@fuchson.com>",ritzko.sp.3-8@ezweb.ne.jp,2025-03-06,34.84.216.206,Japan,ja,users/50976154/5704a6eb-8d43-48f4-b2ce-714e5e1641ef.json

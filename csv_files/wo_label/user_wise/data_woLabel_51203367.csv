@@ -1,0 +1,354 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51203367,rLMN0IaXRKqHXZxlr5PnLg.recvd-69cbc48b94-vw7cs-1-67D07817-1C.49,cHJvY2Vzc2VkLTUxMjAzMzY3LXJMTU4wSWFYUktxSFhaeGxyNVBuTGctNDk,order on the way,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=+7MXV+jdZVl867N2wOE/Nm6iERFw7YVJLKXWGvtwTlw=;
+	b=vG2HPHepHQpMX8wvHqUjKARYZaT75OLCntM4jp/OAxRYytQpMHNm1EfSZ1lKmosVmIRi
+	EYNL4g/ABU0WaW+7QQpDMi6/YzKCoXPR9PoypIK1Ao9K6TII2YgRmXLr/27yA9Fwwst3Do
+	JZyIH0HrjuaEPq57FbWPZwKioYD+A0jhM=
+Received: by recvd-69cbc48b94-vw7cs with SMTP id recvd-69cbc48b94-vw7cs-1-67D07817-1C
+	2025-03-11 17:51:19.827845474 +0000 UTC m=+10096132.184620199
+Received: from NTEyMDMzNjc (unknown)
+	by geopod-ismtpd-35 (SG) with HTTP
+	id rLMN0IaXRKqHXZxlr5PnLg
+	Tue, 11 Mar 2025 17:51:19.810 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=a4aee138d4f808a4ba9c103f620659db519b30084a7c285118bd4d6c3acc
+Date: Tue, 11 Mar 2025 17:51:21 +0000 (UTC)
+From: Samuel <samuelparker@dsiflooring.com>
+Mime-Version: 1.0
+Message-ID: <rLMN0IaXRKqHXZxlr5PnLg@geopod-ismtpd-35>
+Subject: order on the way
+Reply-To: samuelparker@dsiflooring.com
+List-Unsubscribe: <https://mc.sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EeeQF1sqN5KWkgejXi6HO8qRwAaDOS9Wq5WsU46XSHl0EppaJxQ6Ygk2y6?=
+ =?us-ascii?Q?9rlDeGpkj=2FeQG1wbuyCvgJKotCcZn=2FISKtgz3xP?=
+ =?us-ascii?Q?acUL8fDNvcorxsqF49UJB2X2ydYwUXIXEKnkIcS?=
+ =?us-ascii?Q?EVhDvmExeroXD5+1MSJxeTG21sLBRObZzEWvs14?=
+ =?us-ascii?Q?2dGGwonoFKFEICu0BSKD7krl8bXBWoMomDMOzIH?=
+ =?us-ascii?Q?GhIBm9WrJn0W5yru0RI6q2J+eOXEdLg56jDFojd?= =?us-ascii?Q?xoDb?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsZsS9S8Z9OpOT2SCy9OKE6bgaH?=
+ =?us-ascii?Q?hYWwHLwOCzNdyRI9sQvoB0SnZ2EX=2FWNOQMUq1sL?=
+ =?us-ascii?Q?Tux3z1FYRcOqr+EcxOHkPv3rZhlufRmYcIL7VM2?=
+ =?us-ascii?Q?a6EeDBOG9IPM+SX88CzJ0LFj3xjXaAXvFDhNtxv?=
+ =?us-ascii?Q?MlqrfoNhbRRMYXc1EMWDVWuPyqVL6tBwWauKQYo?=
+ =?us-ascii?Q?IQHReJfi3ou1dAb0uv4uMfWfu35Bjt+mbREq19I?=
+ =?us-ascii?Q?QpBgsJuGFxgwhoGV=2FA2cv+3H4icSDnqg54P62Fh?=
+ =?us-ascii?Q?PYEuI077kuytkbwWkiI5BAAXIpam9kfK+dyrYMD?=
+ =?us-ascii?Q?A0P2+1kmRCj8ofZ16Vwn9VJlyYX8jcu=2FbB3Myca?=
+ =?us-ascii?Q?NmmW0pTwqVhYgx8h4ueBTuQtZ1xzx8Y0=2FLXbpWp?=
+ =?us-ascii?Q?xe+QkRC7M4KbrRsSgDhJY0et8+PbJWuVsos18T8?=
+ =?us-ascii?Q?XE9D5m9utW3asza6jsD1DPi12CSb4Fj7WqaBJMs?=
+ =?us-ascii?Q?lHTGiVLOFdiIr+MjE8=2Fdh5KpUVQ3p+ARKeVDb=2F5?=
+ =?us-ascii?Q?taStQSZOL5Ae1qHKP8SfaBGka1RGBg9ls0cxcJv?=
+ =?us-ascii?Q?xdAES7yzisuqlpqCteqI6bf?=
+To: burtmadine@rocketmail.com
+X-Entity-ID: u001.fCdQV6jUmqlQTUlI2yd1xw==
+
+--a4aee138d4f808a4ba9c103f620659db519b30084a7c285118bd4d6c3acc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Thank you for your order! We=E2=80=99ve successfully processed your purchas=
+e of the Canon Printer S Series (S47840) for $524.85, and it is scheduled f=
+or delivery by March 12, 2025. We=E2=80=99ll send you a shipping update onc=
+e your order is on its way. If you placed this order, no further action is =
+needed. However, if you do not recognize this transaction, please contact u=
+s immediately at 1-808-647-6608 so we can investigate and block it if neces=
+sary. We appreciate your business and are here to help if you have any ques=
+tions! Best regards, Walmart Customer Support =F0=9F=93=9E 1-808-647-6608
+
+Samuel
+
+samuelparker@dsiflooring.com , Houston , =20
+
+Unsubscribe ( https://mc.sendgrid.com/ ) - Unsubscribe Preferences ( https:=
+//mc.sendgrid.com/ )
+--a4aee138d4f808a4ba9c103f620659db519b30084a7c285118bd4d6c3acc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""=
+module"" data-role=3D""module-button"" data-type=3D""button"" role=3D""module"" st=
+yle=3D""table-layout:fixed;"" width=3D""100%"" data-muid=3D""de0b834d-e00c-48f4-=
+be88-4f187b99d7ef"">
+      <tbody>
+        <tr>
+          <td align=3D""center"" bgcolor=3D"""" class=3D""outer-td"" style=3D""pad=
+ding:0px 0px 0px 0px;"">
+            <table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=
+=3D""wrapper-mobile"" style=3D""text-align:center;"">
+              <tbody>
+                <tr>
+                <td align=3D""center"" bgcolor=3D""#333333"" class=3D""inner-td""=
+ style=3D""border-radius:6px; font-size:16px; text-align:center; background-=
+color:inherit;"">
+                  <a href=3D"""" style=3D""background-color:#333333; border:1p=
+x solid #333333; border-color:#333333; border-radius:60px; border-width:1px=
+; color:#ffffff; display:inline-block; font-size:18px; font-weight:normal; =
+letter-spacing:0px; line-height:50px; padding:12px 18px 12px 18px; text-ali=
+gn:center; text-decoration:none; border-style:solid;"" target=3D""_blank"">Tha=
+nk you for your order! We=E2=80=99ve successfully processed your purchase o=
+f the Canon Printer S Series (S47840) for $524.85, and it is scheduled for =
+delivery by March 12, 2025. We=E2=80=99ll send you a shipping update once y=
+our order is on its way. If you placed this order, no further action is nee=
+ded. However, if you do not recognize this transaction, please contact us i=
+mmediately at 1-808-647-6608 so we can investigate and block it if necessar=
+y. We appreciate your business and are here to help if you have any questio=
+ns!  Best regards, Walmart Customer Support =F0=9F=93=9E 1-808-647-6608</a>
+                </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""=
+module"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; l=
+ine-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Samuel</p><p style=3D""font-size:12px; line-height:20px;""><span=
+ class=3D""Unsubscribe--senderAddress"">samuelparker@dsiflooring.com</span>, =
+<span class=3D""Unsubscribe--senderCity"">Houston</span>, <span class=3D""Unsu=
+bscribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span=
+></p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsub=
+scribe--unsubscribeLink"" href=3D""https://u51203367.ct.sendgrid.net/ls/click=
+?upn=3Du001.ynfT8k8-2FUMWWChX9KqcXjaFJW2MwgJqMOLcFrU9JbBiqRpKNYY9muCyHiGDhn=
+bX7x5KM_muiiliB4RXpZsDXwddfPEk6pRgu-2BFIMr986bdTbUDtqK-2B2aC1YJRASQ2mV68CCM=
+oSl7bTTDNMNQFW5K-2FoVeOblxNbCIOcmM6OxYQ0XupbxcJowvD0BrpMWBmnx1MLaDUBpvbBeAQ=
+6-2BwfTornoCvuMxE15WuyGlppL3XlW9dUZp9RiT2-2FHoRaN9BKri253Bfd-2B2uKxjsQ6JnAi=
+pV0qYlp5t7LxEq5pWhGxo-2BuF28aw0KY5dK2eILOHsbg-2FGIi37y9SBYlx7O-2FctfoI1Nh1e=
+Epbke9n86w1UOXfUFUxiVM8Ixkuqno67g6smZ9uOHHzyTa53hKlwbHZ2OQXO-2FMWaui1dqlbFX=
+kaC7NB8M6xI670ZRal-2FLnT-2FeiUYpwSfbuFVVpffQKsKk7RNwmrjhSBRN4xfePxUugcVZhRv=
+F1n-2Fjp4424I4ps1m7xkFViZUJmCxFYSbSL7n3VE3CEmJuqhzDXTt2kHkzkOpvp-2FViDUegiC=
+X3Q2tr8Lj1xGAU809Iq4lwgNvHjEIeN6i4Na0uM1XMHyaTP4-2B-2BjTjMrYXA-2Bkfm-2FnzTQ=
+wQAJgMAnuvMbe9KIL84rmKf-2BUKRl80qkCg2MLCT6diez5sYjy65trXpT8lLc-2FiE8PID8U69=
+Mm667Dfo-2Fxy0f5fU9mff421HZ2HYjAAb8kDNqe0KLDCspqAse5VGDkkRfl3FU2jxCt7pD79KH=
+wqMpZtN0NF8L-2BMGIr-2FxIhDdtwjCZKWw-2F3lAMlYT0hYOmr-2FsGY3j-2FJnRppJFt-2Fj3=
+7jBEBIfzGgZzuUHy5YJuakDcHwIlynuOSpy-2FK-2FjlmWh1MsNFPtxlFeJ7LXnDa-2Fv6NdPAc=
+Big73HPkimXOSmMCur-2F7wz2PNz267ZlGlHAuqigXCyEME6Gs6T5-2F0gnEs6IXH-2BMb"" tar=
+get=3D""_blank"" style=3D"""">Unsubscribe</a> - <a href=3D""https://u51203367.ct=
+.sendgrid.net/ls/click?upn=3Du001.ynfT8k8-2FUMWWChX9KqcXjaFJW2MwgJqMOLcFrU9=
+JbBiqRpKNYY9muCyHiGDhnbX7cLXI_muiiliB4RXpZsDXwddfPEk6pRgu-2BFIMr986bdTbUDtq=
+K-2B2aC1YJRASQ2mV68CCMoSl7bTTDNMNQFW5K-2FoVeOblxNbCIOcmM6OxYQ0XupbxcJowvD0B=
+rpMWBmnx1MLaDUBpvbBeAQ6-2BwfTornoCvuMxE15WuyGlppL3XlW9dUZp9RiT2-2FHoRaN9BKr=
+i253Bfd-2B2uKxjsQ6JnAipV0qYlp5t7LxEq5pWhGxo-2BuF28aw0KY5dK2eILOHsbg-2FGIi37=
+y9SBYlx7O-2FctfoI1Nh1eEpbke9n86w1UOXfUFUxiVM8Ixkuqno67g6smZ9uOHHzyTa53hKlwb=
+HZ2OQXO-2FMWaui1dqlbFXkaC7NB8M6xI670ZRal-2FLnT-2FeiUYpwSfbuFVVpffQKsKk7RNwm=
+rjhSBRN4xfePxUugcVZhRvF1n-2Fjp4424I4ps1m7xkFViZUJmCxFYSbSL7n3VE3CEmJuqhzDXT=
+t2kHkzkOpvp-2FViDUegiCX3Q2tr8Lj1xGAU809Iq4lwgNvHjEIeN6i4Na0uM1XMHyaTP4-2B-2=
+BjTjMrYXA-2Bkfm-2FnzTQwQAJgMAnuvMbe9KIL84rmKf-2BUKRl80qkCg2MLCT6diez5sYjy65=
+trXpT8lLc-2FiE8PID8U69Mm667Dfo-2Fxy0f5fU9mff421HZ2HYjAAb8kDNqe0KLDCspqAse5V=
+GDkkRfl3FU2jxCt7pD79KHwqMpZtN0NF8L-2BMGIr-2FxIhDdtwjCZKWw-2F3lAMlYT0hYOmr-2=
+FsNtqTYupzpgHzSJRub2TkDOzV09qdRI8hzKYZbuDKkDB-2FBCfYIi5nVZQgTer-2FBHvGF3Us9=
+gGK0W58wmANG8b1M350tFDgZGoO2a8sZyJNDHjy-2BR5-2F4qL4c9zTrholb1rtij3vnlF4orWG=
+mfXxBuKO3"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" =
+style=3D"""">Unsubscribe Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51203367.ct.sendgrid.net/wf/open?upn=3Du001.0dF3xy=
+Y33vSezbVFKjfypYeU-2FoSafjC6AIJbq-2BDsQR15hlnuPyCag0Ft-2BzZ60ZQva95vRDYxseM=
+Iwt5SGCik5JdLTCDb5q6rO19XBNf3IpU8BD5KqQJnkYyxLMCLUU66NEZnDaGJcH8MQ3i4-2FkNL=
+nKurNx3WHwNtk6EkrT6VBGONNOnr0iHfrsIR-2BHkV8k9VwPiv0EgQsMkOxPxN7LIuDIHZSKiOb=
+CDYvlckRcGN2bGpnCGuc8J8ANfjLa9GlYWs4aGyHueQOPSjo-2FOuPpTIal1mYv83DxQaF-2BkR=
+amhtNEiKV8C8RaXhCov-2FK5GWgsJVTP6j0tlp0oLCbyFfv1pZAzvzYyBlKXz-2B6ldwOyu2Lbw=
+xYeKvEQXHiVffr8uxBtowdoIyWGrOg-2FKeJbqO2wy5oFB0Q-2Fe1HOYDpecBLizISwpZgGYs9C=
+nPM3dJx-2BXHO-2FRAE-2F67YBz0Nyfwp4b7QhmKq6KOr6zyFlbcv7CW8-2B5dOIZFLhrHuJhqg=
+CsiWBiK0qpciQaL2EsgkAcw0wMPSPAOW0IQBjZsPuST9KMu8CnSW19mVs0y9ulOpuZKtkrcqHa0=
+ANBwccHYDDq3zCeZYzhfdUIj4oOb77ftznPKgh2jY5xYj11PDqnjPng63un-2BST6j1EKM1hib9=
+KTjJpBanpdtZkmFLncgPqHawxTei5rcHslnMBOWxE-2Bv-2ByD4VaW7pvkPU4ZZT3qvZKeK-2FU=
+I-2BxpNKoFhxqlXM8XPPk-2B8U2hlEjLz65WX1lYMnDa1icp3kqcDIx6PzoB-2F8v3WsoRRNFKW=
+gHhtfmjyAfzmyj61-2FFvtL1v-2FjnnDCAXfPlLBBBlMSNwnrxW5UlsGr2lwulxY8dExbeKvX6j=
+arQWFGDs91t2aCgG-2BXtKWTwHoaSxBkgWXjIQks"" alt=3D"""" width=3D""1"" height=3D""1""=
+ border=3D""0"" style=3D""height:1px !important;width:1px !important;border-wi=
+dth:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-=
+right:0 !important;margin-left:0 !important;padding-top:0 !important;paddin=
+g-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;=
+""/></body>
+  </html>
+--a4aee138d4f808a4ba9c103f620659db519b30084a7c285118bd4d6c3acc--
+","""Samuel"" <samuelparker@dsiflooring.com>",burtmadine@rocketmail.com,2025-03-11,44.214.78.206,United States,en,users/51203367/a3123f79-ed3a-4f79-afa6-7b5863cc9345.json

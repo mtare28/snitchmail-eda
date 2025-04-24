@@ -1,0 +1,1542 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+23017485,5BOr23G3RAK3RETGdUzFaA.recvd-7cf7589bf9-ttrpl-1-67DFB756-13.0,cHJvY2Vzc2VkLTIzMDE3NDg1LTVCT3IyM0czUkFLM1JFVEdkVXpGYUEtMA,Looks like you forgot something!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=weebly.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:to:cc:
+	content-type:from:subject:to;
+	s=m1; bh=Cz23c0TMLZiK6Gm6oBBmXWAYysGkl+NTAJ5zEAPTndM=;
+	b=K0/MuI40ubwOpyvbfEGPoqEq+I24UMxPi+nrMAi8BEXWyskiGBXKFShOu6VG+nVWnsKH
+	6xgXY6yYlqgpI6RceyfM96lz5FoEB04i+XO6W4Z5kYhopvrbKU1hN9uEpoELcwOBxDce3x
+	EatJQPB7y0BJ1bWCsflUQCnjDvFr+cfhE=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:to:cc:
+	content-type:from:subject:to;
+	s=smtpapi; bh=Cz23c0TMLZiK6Gm6oBBmXWAYysGkl+NTAJ5zEAPTndM=;
+	b=hmT6/kxAfaB/1kV7PENqmY5Z5qgcxAn+bG/0+AZjV1PbUuK3Q+uRzCRIFmQWm66gE5Gi
+	bQRgi3K8JLw/PgrJz2hu6qSbqQie08nwbtlw60Zg62q3rZF9bBUNPX/DZD0j4WHjJPPvYR
+	3vuckt1Yq2DUeqN+68XgaSKuOZi8wSct4=
+Received: by recvd-7cf7589bf9-ttrpl with SMTP id recvd-7cf7589bf9-ttrpl-1-67DFB756-13
+	2025-03-23 07:25:10.685364144 +0000 UTC m=+11095254.364256104
+Received: from MjMwMTc0ODU (unknown)
+	by geopod-ismtpd-6 (SG) with HTTP
+	id 5BOr23G3RAK3RETGdUzFaA
+	Sun, 23 Mar 2025 07:25:10.588 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=520f747e7e979b440345813edd3dd80831e9e07d2e8cacfe9bc18d8683f0
+Date: Sun, 23 Mar 2025 07:25:10 +0000 (UTC)
+From: SMA Website Order <info@stockmasteragri.com>
+Mime-Version: 1.0
+Message-ID: <5BOr23G3RAK3RETGdUzFaA@geopod-ismtpd-6>
+Subject: Looks like you forgot something!
+List-Unsubscribe: 
+ <mailto:d3415f06-be6b-428d-993b-359f44fc4758@feedback-promote.weebly.com>,
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fwww=2Eweebly=2Ecom=2Fapp=2Fmarketing=2Funsubscribe=2FODg2MzU2MzB8?=
+ =?us-ascii?Q?ZDM0MTVmMDYtYmU2Yi00MjhkLTk5M2ItMzU5ZjQ?=
+ =?us-ascii?Q?0ZmM0NzU4fDMyODE3MTRjLTljZTYtNDM4ZC1hNT?=
+ =?us-ascii?Q?hkLTBhODczNjI5ODJjNA=3D=3D=3E?=
+X-Recipient-Id: d3415f06-be6b-428d-993b-359f44fc4758
+X-Rendered-By: prod-promote-laravel-framework-web-8655cb665f-wtc72
+X-Trumpet-Id: 3281714c-9ce6-438d-a58d-0a87362982c4
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Er5EVeYeJZhIQ+eBghIbwsxIyxCORWMSw2=2FNufPVEajfj8t1q0tHqfaDny?=
+ =?us-ascii?Q?Ufmg8osOUA70o8m5FpTWI14wKlxlLS1D3OGLJPu?=
+ =?us-ascii?Q?fmaWmkBE+Hd7Kj+t7hvxi46qxyluOerK0TE2JRI?=
+ =?us-ascii?Q?SXZsnP5J1IVeLE+GccFnZOIYQZepCa8J3QQ9Iqi?=
+ =?us-ascii?Q?1c63gYpNq+w5Io+C1a5=2FzuEuhByOIt6wdzIINGD?=
+ =?us-ascii?Q?9t4m7riL+a5dt8rhLg4XA9xndjEwCrdkI6=2FcgWJ?= =?us-ascii?Q?sA6y?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAupDtFt0MFt634w?=
+ =?us-ascii?Q?=2F9z7pQU7L0uxccqCaenVfapj9lNtGSBOg0Klien?=
+ =?us-ascii?Q?L8C8ComaNK4pk8HX2EqFKOxvVPFlDjr52ywKeKj?=
+ =?us-ascii?Q?FmgMM8hrStaJE4b6ZcelFZ+XG5X7UBvYrGUaLBm?=
+ =?us-ascii?Q?eYX2wzGA6+TAy6wB7RsaGcQdymgLZMC+jwK5Cvo?=
+ =?us-ascii?Q?HbQM7ppSVCzrEr9iWEHWtFy+LuWRz1LfAaBRxSs?=
+ =?us-ascii?Q?XnxQAmGDupPsSpt0Yn1dCb3rgu8jWl7VYuZlgRt?=
+ =?us-ascii?Q?v2nxcaWYzIwC+RnRqHFpedZV7yEwa7v4UNx8psU?=
+ =?us-ascii?Q?ZZqfeeyP6TecDKXpd67H+z3fgWgeCqdIWG0CMZW?=
+ =?us-ascii?Q?bbGhFfbBi=2F3aN8C+gb65Ie56WTUexOGSanHEw=3D=3D?=
+To: Adrian O'Kane <aok24a@gmail.com>
+X-Entity-ID: u001.VWMmvI6+XxDlvfQfBZ+83g==
+
+--520f747e7e979b440345813edd3dd80831e9e07d2e8cacfe9bc18d8683f0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+My Logo - http://click.promote.weebly.com/ls/click?upn=3Du001.OwYvcFSZPrzQY=
+nOZWQYFBHrlghftyGXjBi-2B-2Bf1jwCEyYGX2rGn1wS-2B-2FNAY1K2OGQSar6_gXWCXLUvXAk=
+EaNz2-2Fnr9xqZvtXER7Tou6Ga61t072deVcaVfTW1lDBLsIeSJPnmtsIVldXmrd6yDInZqB0K6=
+cLvcwyF2JCaDxpYZEa7FLxgoXKUgAe4KcPrcJfC3ehLFIdXBCOfkS7XF-2F4OaaApkQaBdQ9XjK=
+QvWc4aIYb37XE21CtW2t3pOqdnB-2BASf5aRxi41cOqtceQVry3w-2BIMiWXWhBP2EBDkI688Fr=
+BHALZ1X-2B-2Bq2kEO-2BFix0KD3Tb03qhUzN-2Bl7i3wVkIEciKiZz6dl8Z16YhGh7uXUiVFg2=
+zLOPs2oqnBxUCsCx1y0ZeAeMC7hTJUWP3K-2BV-2FNfuaMfQ-2BrcxiX0l3fakDH5O02eQQ0sXc=
+-2BDJ6iM4hk5ixm1eyDR2O57tYGmsMJv7OXCOtBTXpy5Ktgfv6JHTTPu5K13pfkK4KAb27N9vtW=
+Q-2Fbq7An0BscPvFJOsnkXfo66PysbnclmKRzFS15RxCv8WMG-2Bk7Vc-2FIbYbmNg9YyGs-2Bq=
+fhQ9GA29Hviyio-2BUP6aOWMZlPskWvfL4Smu4ZmtYw-2Ba83Zx8I-2BI-3D
+
+-------
+
+-------
+
+
+--520f747e7e979b440345813edd3dd80831e9e07d2e8cacfe9bc18d8683f0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE HTML>
+<html xmlns:v=3D""urn:schemas-microsoft-com:vml"" style=3D""font-size: 16px;"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8"">
+<meta property=3D""og:image"" content=3D""/img/editor/elements/na-logo.png"">
+<meta property=3D""og:title"" content=3D""%subject%"">
+<style> /* Force hotmail/outlook.com to display at full width (outer div) *=
+/ .ReadMsgBody { width:100%; } /* Force hotmail/outlook.com to display at f=
+ull width (inner div) */ .ExternalClass { width:100%; } /* Force outlook.co=
+m to render at 600px */ [owa] .t-theme { width: 600px !important; } /* Stop=
+ Wekbit and Windows Phone changing the font size */ body { -webkit-text-siz=
+e-adjust: 100%; -ms-text-size-adjust: 100%; } /* iOS Links - Prevent color =
+of certain content being changed (ie: dates/times) */ a[x-apple-data-detect=
+ors] { color: inherit !important; text-decoration: none !important; font-si=
+ze: inherit !important; font-family: inherit !important; font-weight: inher=
+it !important; line-height: inherit !important; } /* Yahoo overrides */ div=
+.t-commerce-mobile, table.t-commerce-mobile, table.t-product-mobile, table.=
+t-coupon-mobile, table.t-instagram-mobile, table.t-spacer-mobile, table.t-s=
+ocial-mobile { display:none; } /* Mobile devices */ @media screen and (min-=
+width:320px) and (max-width:480px), screen and (min-device-width:320px) and=
+ (max-device-width:480px) { .t-theme .t-title p.t-font-style--headline, .t-=
+theme .t-paragraph p.t-font-style--headline { font-size: 1.75em !important;=
+ line-height: 1.25 !important; } .t-blog-mosaic > tbody > tr:not(.tr-spacer=
+) > td:not(.is-editing) { background-size: auto 100%; height: auto !importa=
+nt; } .t-blog-element .t-blog-info .t-blog-title p { font-size: 1.1em !impo=
+rtant; } .t-coupon-desktop { display: none !important; } table.t-coupon-mob=
+ile { display: table !important; } .t-commerce-element.t-commerce-desktop, =
+.t-divider-element.t-commerce-desktop { display: none !important; } div.t-c=
+ommerce-element.t-commerce-mobile { display: block !important; } table.t-co=
+mmerce-element.t-commerce-mobile { display: table !important; } .t-navigati=
+on-desktop.has-mobile-menu { display: none !important; } .mobile-menu-expan=
+dable { display: block !important; width: auto !important; overflow: visibl=
+e !important; max-height: inherit !important; line-height: inherit !importa=
+nt; position: relative; } .mobile-menu-container { position: relative; over=
+flow: hidden; width: 100%; z-index: 99; } .t-mulitcol .mobile-menu-containe=
+r { position: absolute; } .mobile-menu-expandable label { display: block !i=
+mportant; max-height: none !important; min-height: 26px; } .mobile-menu-exp=
+andable table, .mobile-menu-expandable tbody, .mobile-menu-expandable tr, .=
+mobile-menu-expandable td { width: 100% !important; } .mobile-menu-expandab=
+le table { margin-top:-500px; -ms-transition: margin-top .5s ease-in-out; -=
+webkit-transition: margin-top .5s ease-in-out; } .mobile-menu-expandable td=
+ { border-bottom: 1px solid #ffffff; padding: 10px 0px; } .mobile-checkbox:=
+checked ~ .mobile-menu-container > table { margin-top: 0%; } .mobile-menu-e=
+xpandable .nav-under { display: block !important; max-height :none !importa=
+nt; } .nav-over img, .nav-under img { display:block; float:right; } *[class=
+].mobile-checkbox { display: none; } .mobile-checkbox:checked ~ label > .na=
+v-over { opacity: 1 !important; display: block !important; max-height: none=
+ !important; } .mobile-checkbox:checked ~ label > .nav-under { opacity: 0 !=
+important; display: none !important; max-height: 0 !important; } .t-product=
+-element .t-product-info p { font-size: 0.9em !important; } .t-product-desc=
+ { display: none !important; } .t-product-element.t-product-minimal > tbody=
+ > tr:not(.tr-spacer) > td, .t-product-element.t-product-minimal > tbody > =
+tr:not(.tr-spacer) > td > table { height: auto !important; min-height: 235p=
+x !important; } } /*end media query*/ /* Everything but desktop */ @media s=
+creen and (min-width:320px) and (max-width:599px), screen and (min-device-w=
+idth:320px) and (max-device-width:599px) { .t-element-section.no-bg-image, =
+.t-element-section.t-main-section.no-bg-image, .t-element-section.no-bg-ima=
+ge > tbody > tr { height: auto !important; } .t-product-element.t-product-s=
+napshot > tbody > tr > td:not(.td-spacer), .t-product-element.t-product-det=
+ailed > tbody > tr > td:not(.td-spacer) { width: 50% !important; } .t-produ=
+ct-snapshot .t-product-image-container, .t-product-detailed .t-product-imag=
+e-container { max-width: 50% !important; } .t-product-mobile .t-product-ima=
+ge-container, .t-instagram-mobile .t-instagram-image-container{ max-width: =
+100% !important; } .t-product-snapshot a.responsive-img-link, .t-product-de=
+tailed a.responsive-img-link, .t-product-mobile a.responsive-img-link, .t-i=
+nstagram-mobile a.responsive-img-link, .t-product-image-placeholder { width=
+: 100% !important; } .t-product-desktop { display: none !important; } .t-pr=
+oduct-mobile { display: table !important; } .t-instagram-desktop { display:=
+ none !important; } .t-instagram-mobile { display: table !important; } .t-s=
+pacer-desktop { display: none !important; } table.t-spacer-mobile { display=
+: table !important; } .t-social-desktop { display: none !important; } table=
+.t-social-mobile { display: table !important; } } /*end media query*/ /* Tr=
+ansactional email overrides */ table.t-theme.t-transactional-theme .t-eleme=
+nt-section, table.t-theme.t-transactional-theme .t-element-section.t-main-s=
+ection, table.t-theme.t-transactional-theme .t-element-section > tbody > tr=
+ { height: auto !important; } /* Desktop overrides */ @media screen and (mi=
+n-width:600px), screen and (min-device-width:600px) { .t-email-wrapper { ma=
+rgin:0 auto!important; padding:0 0 35px!important; } } /* Gmail overrides *=
+/ u + .body .gmail { display: none !important; } </style> <!--[if gte mso 9=
+]> <style> table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; } img =
+{ -ms-interpolation-mode: bicubic; } </style> <![endif]-->
+</head>
+<body class=3D""body"" style=3D""font-size: 16px; width: 100% !important; heig=
+ht: 100% !important; margin: 0 !important; padding: 0 !important; -webkit-f=
+ont-smoothing: antialised; background: #f8f8f8; -webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%;""> <!-- Outlook only styles --> <!--[if gte=
+ mso 9]> <style> table.t-theme { width: 600px !important; } /* Outlook Back=
+ground Image Fix */ v:* { behavior: url(#default#VML); display: block; } </=
+style> <![endif]--> <table class=3D""t-theme t-transactional-theme"" align=3D=
+""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""600"" sty=
+le=3D""max-width: 600px; min-width: 320px; width: calc(100%); height: 100%; =
+font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; font-size:=
+ 1em;""> <tr> <td style=3D""padding: 0px;""> <div class=3D""preview-text"" style=
+=3D""display: none; font-size: 1px; color: #333333; line-height: 1px; max-he=
+ight: 0px; max-width: 0px; opacity: 0; overflow: hidden;""> Stockmaster Agri=
+ Left something behind? Complete Order Order Summary Sheep Marking Numbers =
+0-8 SKU: SH51-000-00 Quantity: 1 Order Summary Item Desc Quantity Sheep Mar=
+king Numbers 0-8 SKU: SH51-000-00 1 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C </div> </td> </tr> <tr> <td class=3D""=
+show-in-browser-link"" style=3D""text-align: right; padding: 35px 0; font-siz=
+e: 14px;""> </td> </tr> <tr> <td style=3D""padding: 0px;""> <table class=3D""t-=
+email-wrapper"" align=3D""center"" border=3D""0"" cellpaddsing=3D""0"" cellspacing=
+=3D""0"" width=3D""100%"" style=3D""max-width: 600px; position: relative; width:=
+ 100%; margin: 0; padding: 0; line-height: 1.5; letter-spacing: 0.03em;""> <=
+tr> <td class=3D""t-content-inner"" style=3D""padding: 0px;"">
+<table class=3D""t-element-section no-bg-image"" style=3D""max-width: 600px; p=
+osition: relative; width: 100%; min-width: 100%; margin: 0; background: #ff=
+f; line-height: 1.5; letter-spacing: 0.03em; height: auto !important; borde=
+r: 1px solid #c9cdcf;"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cell=
+spacing=3D""0"" width=3D""100%"" background=3D""""><tbody style=3D""height: inheri=
+t;""><tr style=3D""height: auto !important;""><td class=3D""t-element-list weeb=
+ly-content-area section-td"" style=3D""padding: 1.25em 0; vertical-align: top=
+; max-width: 558px;""><table width=3D""100%"" border=3D""0"" cellpadding=3D""0"" c=
+ellspacing=3D""0"" style=3D""max-width: 600px; line-height: 1.5; letter-spacin=
+g: 0.03em; width: 100%; height: 100%; min-width: 100%;""><tr><td class=3D""se=
+ction-list list-container"" valign=3D""top"" style=3D""padding: 0px; width: 100=
+%; height: 100%; max-width: 558px;"">
+<table class=3D""t-element t-type-logo"" cellpadding=3D""0"" cellspacing=3D""0"" =
+border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; le=
+tter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; padd=
+ing-left: 1.25em; padding-right: 1.25em;"">
+<table align=3D""left"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" widt=
+h=3D""100%"" class=3D""t-logo-element"" style=3D""max-width: 600px; line-height:=
+ 1.5; letter-spacing: 0.03em;""> <tbody> <tr> <td width=3D""100%"" align=3D""le=
+ft"" style=3D""padding: 0px;""> <table align=3D""left"" cellpadding=3D""0"" cellsp=
+acing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-logo-element image-eleme=
+nt-table image-wrapper-table"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em;""> <tbody> <tr> <td class=3D""t-upload-target"" width=
+=3D""100%"" align=3D""left"" style=3D""padding: 0px; padding-top: 10px; padding-=
+bottom: 10px;""> <a class=3D""t-logo-text"" href=3D""http://click.promote.weebl=
+y.com/ls/click?upn=3Du001.OwYvcFSZPrzQYnOZWQYFBHrlghftyGXjBi-2B-2Bf1jwCEyYG=
+X2rGn1wS-2B-2FNAY1K2OGQjh9B_gXWCXLUvXAkEaNz2-2Fnr9xqZvtXER7Tou6Ga61t072deVc=
+aVfTW1lDBLsIeSJPnmtsIVldXmrd6yDInZqB0K6cLvcwyF2JCaDxpYZEa7FLxgoXKUgAe4KcPrc=
+JfC3ehLFIdXBCOfkS7XF-2F4OaaApkQaBdQ9XjKQvWc4aIYb37XE21CtW2t3pOqdnB-2BASf5aR=
+xi41cOqtceQVry3w-2BIMiWXWhBP2EBDkI688FrBHALZ1X-2B-2Bq2kEO-2BFix0KD3Tb03qhUz=
+N-2Bl7i3wVkIEciKiZz6dl8Z16YhGh7uXUiVFg2zLOPs2oqnBxUCsCx1y0ZeAeMC7hTJUWP3K-2=
+BV-2FNfuaMfQ-2BrcxiX0l3fakDH5O02eQQ0sXc-2BDJ6iM4hk5ixm1eyDR2O57tYGmsMJv7OXC=
+OtBTXpy5Ktgfv6JHTTPu5K13pfkK6xxB1c4pmsOghuivHdqf-2Fu2HHLSq6vhZ9KG6l7YiQCMGZ=
+j7cATaYEw3GFJQpCN4yDQi-2Bw4zoBDE-2Frww3b-2FUPn9gioUMPJxpx2LtJ-2BLCKvbhXX1x6=
+ianhCdHxked7ywCvc-3D"" style=3D""text-decoration: none; font-size: 22px; line=
+-height: 33px; font-weight: 700; color: #2990ea;"">Stockmaster Agri</a> </td=
+> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td></tr></table>
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+</td></tr></table></td></tr></tbody></table>
+<table class=3D""t-element-section no-bg-image"" style=3D""max-width: 600px; p=
+osition: relative; width: 100%; min-width: 100%; margin: 0; background: #ff=
+f; line-height: 1.5; letter-spacing: 0.03em; border: 1px solid #c9cdcf; bor=
+der-top-width: 0px; height: 102px;"" align=3D""center"" border=3D""0"" cellpaddi=
+ng=3D""0"" cellspacing=3D""0"" width=3D""100%"" height=3D""102"" background=3D""""><t=
+body style=3D""height: inherit;""><tr style=3D""height: 102px;""><td class=3D""t=
+-element-list weebly-content-area section-td"" style=3D""padding: 1.25em 0; v=
+ertical-align: top; max-width: 558px;""><table width=3D""100%"" border=3D""0"" c=
+ellpadding=3D""0"" cellspacing=3D""0"" style=3D""max-width: 600px; line-height: =
+1.5; letter-spacing: 0.03em; width: 100%; height: 100%; min-width: 100%;""><=
+tr><td class=3D""section-list list-container"" valign=3D""top"" style=3D""paddin=
+g: 0px; width: 100%; height: 100%; max-width: 558px;"">
+<table class=3D""t-element t-type-commerce-confirmation"" cellpadding=3D""0"" c=
+ellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; lin=
+e-height: 1.5; letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""p=
+adding: 0px; padding-left: 1.25em; padding-right: 1.25em;""> <table cellpadd=
+ing=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-commerce=
+-element t-commerce-confirmation-element theme_default"" style=3D""max-width:=
+ 600px; min-width: 100%; line-height: 1.5; letter-spacing: 0.03em;""> <tbody=
+> <tr> <td width=3D""100%"" valign=3D""top"" align=3D""center"" style=3D""padding:=
+ 0px; font-size: 1em; font-weight: 400; line-height: 1.5em; color: #58585e;=
+""> <div class=3D""t-commerce-heading t-font-style--title"" style=3D""font-size=
+: 22px; line-height: 33px; font-weight: 400; color: #666c70;""><span>Left so=
+mething behind?</span></div> </td> </tr> <tr class=3D""tr-spacer""><td colspa=
+n=3D"""" height=3D""10"" style=3D""padding: 0px; font-weight: 400; color: #58585=
+e; height: 10px; font-size: 0; line-height: 0;""><br></td></tr> <tr> <td wid=
+th=3D""100%"" align=3D""center"" class=3D""t-commerce-description"" style=3D""padd=
+ing: 0px; font-size: 1em; font-weight: 400; line-height: 1.5em; color: #585=
+85e;""> <p class=3D"" t-font-style--text"" style=3D""margin: 0; padding-bottom:=
+ 0; font-size: 16px; line-height: 24px; font-weight: 400; color: #666c70;"">=
+<span></span></p> </td> </tr> <tr class=3D""tr-spacer""><td colspan=3D"""" heig=
+ht=3D""30"" style=3D""padding: 0px; font-weight: 400; color: #58585e; height: =
+30px; font-size: 0; line-height: 0;""><br></td></tr> <tr> <td width=3D""100%""=
+ align=3D""center"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; =
+line-height: 1.5em; color: #58585e;""> <table align=3D""center"" cellpadding=
+=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 60=
+0px; line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td width=3D""100%"" al=
+ign=3D""center"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; lin=
+e-height: 1.5em; color: #58585e;""> <table align=3D""center"" cellpadding=3D""0=
+"" cellspacing=3D""0"" border=3D""0"" class=3D""t-default-button t-button t-butto=
+n-small t-button-normal"" style=3D""max-width: 600px; display: inline-block; =
+line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td class=3D""t-button-td"" =
+align=3D""center"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; l=
+ine-height: 1.5em; color: #58585e; border: 2px solid #323b43; border-color:=
+ #2990ea; background-color: #2990ea;""> <a class=3D""t-button-inner"" href=3D""=
+http://click.promote.weebly.com/ls/click?upn=3Du001.42Ar3TOyLr5ff5-2FKVJQc5=
+KQDxw04JeQhHh7tRjGOOHwM4Jdhp-2FaQZjMCoHgcqbKL7QN8IY4iH7drYWhPt6OqM5Ux5mLWpp=
+SEjqLwfe2wfMlKIVJQ1Ny7JNFWPGKkF5prj0sD_gXWCXLUvXAkEaNz2-2Fnr9xqZvtXER7Tou6G=
+a61t072deVcaVfTW1lDBLsIeSJPnmtsIVldXmrd6yDInZqB0K6cLvcwyF2JCaDxpYZEa7FLxgoX=
+KUgAe4KcPrcJfC3ehLFIdXBCOfkS7XF-2F4OaaApkQaBdQ9XjKQvWc4aIYb37XE21CtW2t3pOqd=
+nB-2BASf5aRxi41cOqtceQVry3w-2BIMiWXWhBP2EBDkI688FrBHALZ1X-2B-2Bq2kEO-2BFix0=
+KD3Tb03qhUzN-2Bl7i3wVkIEciKiZz6dl8Z16YhGh7uXUiVFg2zLOPs2oqnBxUCsCx1y0ZeAeMC=
+7hTJUWP3K-2BV-2FNfuaMfQ-2BrcxiX0l3fakDH5O02eQQ0sXc-2BDJ6iM4hk5ixm1eyDR2O57t=
+YGmsMJv7OXCOtBTXpy5Ktgfv6JHTTPu5K13pfkK5yOenRYqvUwi4bT2Q3b2ITQ2MjhO9OFQ0Xp5=
+aw-2FLmYQYQQatjXmVEPS-2FuMZ1MvRsK329GuLoVy0Qmac0zesZpbO3P5SlmNiDp2AxVK-2BFM=
+IRBx91tq6VqYkBEwthdlgrtI-3D"" target=3D""_blank"" style=3D""display: block; ver=
+tical-align: middle; cursor: pointer; height: auto; border: none; text-alig=
+n: center; text-decoration: none !important; letter-spacing: 1px; backgroun=
+d-color: #2990ea; border-color: #2990ea; border-radius: 0; color: #fff; fon=
+t-size: 16px; line-height: 24px; font-weight: 400;""> <span class=3D""t-butto=
+n-text "" style=3D""display: inline-block !important; text-decoration: none; =
+min-width: 60px; border-top: 10px solid #323b43; border-bottom: 10px solid =
+#323b43; border-left: 20px solid #323b43; border-right: 20px solid #323b43;=
+ border-color: #2990ea; color: #fff;"">Complete Order</span> </a> </td> <td =
+class=3D""td-spacer"" width=3D""20"" style=3D""padding: 0px; font-size: 1em; fon=
+t-weight: 400; line-height: 1.5em; color: #58585e; min-width: 20px;""><table=
+ cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""20"" style=3D""max=
+-width: 600px; line-height: 1.5; letter-spacing: 0.03em;""><tr><td style=3D""=
+padding: 0px; font-size: 1em; font-weight: 400; line-height: 1.5em; color: =
+#58585e;""><br></td></tr></table></td> <td class=3D""t-commerce-check-balance=
+"" align=3D""center"" style=3D""padding: 0px; font-size: 1em; font-weight: 400;=
+ line-height: 1.5em; color: #58585e;""> <a href=3D"""" style=3D""color: inherit=
+; text-decoration: none;""></a> </td> </tr> </table> </td> </tr> </table> </=
+td> </tr> </tbody> </table> <!-- [if gte mso 9]> <v:background fill=3D""t""> =
+<v:fill type=3D""tile"" src=3D""https://www.weebly.com/siteEmail/open/88635630=
+/257871330816469214/1803"" /> </v:background> <![endif]--> <!--[if t]><![end=
+if]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[if !mso]> <!-- --=
+> <img src=3D""https://www.weebly.com/siteEmail/open/88635630/25787133081646=
+9214/1803"" class=3D""t-commerce-open-url"" style=3D""border: none; line-height=
+: 100%; outline: none; text-decoration: none; opacity: 0.1; width: 1px; hei=
+ght: 1px; display: none;""> <!--<![endif]--> </td></tr></table>
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+</td></tr></table></td></tr></tbody></table>
+<table class=3D""t-element-section t-main-section no-bg-image"" style=3D""max-=
+width: 600px; position: relative; width: 100%; min-width: 100%; margin: 0; =
+background: #fff; line-height: 1.5; letter-spacing: 0.03em; border: 1px sol=
+id #c9cdcf; border-top-width: 0px; height: 501px;"" align=3D""center"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" height=3D""501"" ba=
+ckground=3D""""><tbody style=3D""height: inherit;""><tr style=3D""height: 501px;=
+""><td class=3D""t-element-list weebly-content-area section-td"" style=3D""padd=
+ing: 1.25em 0; vertical-align: top; max-width: 558px;""><table width=3D""100%=
+"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""max-width: 600p=
+x; line-height: 1.5; letter-spacing: 0.03em; width: 100%; height: 100%; min=
+-width: 100%;""><tr><td class=3D""section-list list-container"" valign=3D""top""=
+ style=3D""padding: 0px; width: 100%; height: 100%; max-width: 558px;"">
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+<table class=3D""t-element t-type-commerce-items"" cellpadding=3D""0"" cellspac=
+ing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-heigh=
+t: 1.5; letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding:=
+ 0px; padding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" =
+width=3D""100%"" class=3D""t-commerce-element t-commerce-items-element theme_d=
+efault t-commerce-mobile"" style=3D""max-width: 600px; min-width: 100%; line-=
+height: 1.5; letter-spacing: 0.03em; table-layout: auto !important; display=
+: none;""> <tbody> <tr> <td align=3D""left"" width=3D""100%"" valign=3D""top"" col=
+span=3D""1"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; line-he=
+ight: 1.5em; color: #58585e;""> <p class=3D"" t-font-style--subtitle"" style=
+=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-=
+weight: 700; color: #666c70;""><span>Order Summary</span></p> </td> </tr> <t=
+r class=3D""tr-spacer""><td colspan=3D""1"" height=3D""20"" style=3D""padding: 0px=
+; font-weight: 400; color: #58585e; height: 20px; font-size: 0; line-height=
+: 0;""><br></td></tr> <tr> <td colspan=3D""1"" style=3D""padding: 0px; font-siz=
+e: 1em; font-weight: 400; line-height: 1.5em; color: #58585e;""> <table cell=
+padding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-comm=
+erce-item-table"" style=3D""max-width: 600px; line-height: 1.5; letter-spacin=
+g: 0.03em; border: 1px solid #e5e5e5;""> <tr> <td valign=3D""top"" class=3D""t-=
+commerce-item"" style=3D""font-size: 1em; font-weight: 400; line-height: 1.5e=
+m; color: #58585e; padding: 10px 20px;""> <p class=3D""t-commerce-bold t-comm=
+erce-name t-font-style--subtitle"" style=3D""margin: 0; padding-bottom: 0; fo=
+nt-size: 16px; line-height: 24px; font-weight: 700; color: #666c70;""><span>=
+Sheep Marking Numbers 0-8</span></p> <p class=3D""t-commerce-note t-font-sty=
+le--text"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-heig=
+ht: 24px; font-weight: 400; color: #666c70;""><span style=3D""font-size: 0.85=
+em;"">SKU: SH51-000-00</span></p> <p class=3D""t-commerce-note t-font-style--=
+text"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: =
+24px; font-weight: 400; color: #666c70;""><span style=3D""font-size: 0.85em;""=
+>Quantity: 1</span></p> </td> </tr> </table> </td> </tr> </tbody> </table> =
+<table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" clas=
+s=3D""t-commerce-element t-commerce-items-subtotal-element theme_default t-c=
+ommerce-mobile"" style=3D""max-width: 600px; min-width: 100%; line-height: 1.=
+5; letter-spacing: 0.03em; display: none;""> <tbody> <tr> <td class=3D""t-com=
+merce-item-total"" width=3D""100%"" style=3D""padding: 0px; font-size: 1em; fon=
+t-weight: 400; line-height: 1.5em; color: #58585e;""> </td> </tr> <tr class=
+=3D""tr-spacer""><td colspan=3D""1"" height=3D""20"" style=3D""padding: 0px; font-=
+weight: 400; color: #58585e; height: 20px; font-size: 0; line-height: 0;""><=
+br></td></tr> </tbody> </table> <!--<![endif]--><table cellpadding=3D""0"" ce=
+llspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-commerce-element t-c=
+ommerce-items-element theme_default t-commerce-desktop"" style=3D""max-width:=
+ 600px; min-width: 100%; line-height: 1.5; letter-spacing: 0.03em; table-la=
+yout: auto !important;""> <tbody> <tr> <td align=3D""left"" width=3D""100%"" val=
+ign=3D""top"" colspan=3D""2"" style=3D""padding: 0px; font-size: 1em; font-weigh=
+t: 400; line-height: 1.5em; color: #58585e;""> <p class=3D"" t-font-style--su=
+btitle"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height=
+: 24px; font-weight: 700; color: #666c70;""><span>Order Summary</span></p> <=
+/td> </tr> <tr class=3D""tr-spacer""><td colspan=3D""2"" height=3D""20"" style=3D=
+""padding: 0px; font-weight: 400; color: #58585e; height: 20px; font-size: 0=
+; line-height: 0;""><br></td></tr> <tr> <td colspan=3D""2"" style=3D""padding: =
+0px; font-size: 1em; font-weight: 400; line-height: 1.5em; color: #58585e;""=
+> <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" cl=
+ass=3D""t-commerce-item-table"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; border: 1px solid #e5e5e5;""> <tr> <th align=3D""left=
+"" width=3D""60%"" style=3D""line-height: 1.5em; font-size: 0.85em; font-weight=
+: 400; color: #58585e; text-transform: uppercase; background-color: #f5f6f7=
+; border-bottom: 1px solid #e5e5e5; padding: 10px 20px;""> Item Desc </th> <=
+th align=3D""left"" style=3D""line-height: 1.5em; font-size: 0.85em; font-weig=
+ht: 400; color: #58585e; text-transform: uppercase; background-color: #f5f6=
+f7; border-bottom: 1px solid #e5e5e5; padding: 10px 20px; padding-left: 0;""=
+>Quantity</th> </tr> <tr> <td valign=3D""top"" class=3D""t-commerce-item"" styl=
+e=3D""font-size: 1em; font-weight: 400; line-height: 1.5em; color: #58585e; =
+padding: 10px 20px;""> <p class=3D""t-commerce-bold t-commerce-name t-font-st=
+yle--subtitle"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line=
+-height: 24px; font-weight: 700; color: #666c70;""><span>Sheep Marking Numbe=
+rs 0-8</span></p> <p class=3D""t-commerce-note t-font-style--text"" style=3D""=
+margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-weig=
+ht: 400; color: #666c70;""><span style=3D""font-size: 0.85em;""><b>SKU:</b> <s=
+pan>SH51-000-00</span></span></p> </td> <td valign=3D""top"" align=3D""left"" s=
+tyle=3D""font-size: 1em; font-weight: 400; line-height: 1.5em; color: #58585=
+e; padding: 10px 20px; padding-left: 0;"">
+<span class=3D"" t-font-style--text"" style=3D""font-size: 16px; line-height: =
+24px; font-weight: 400; color: #666c70;""><span>1</span></span> </td> </tr> =
+</table> </td> </tr> </tbody> </table> <table cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-commerce-element t-commerce-i=
+tems-subtotal-element theme_default t-commerce-desktop"" style=3D""max-width:=
+ 600px; min-width: 100%; line-height: 1.5; letter-spacing: 0.03em;""> <tbody=
+> <tr class=3D""tr-spacer""><td colspan=3D""2"" height=3D""20"" style=3D""padding:=
+ 0px; font-weight: 400; color: #58585e; height: 20px; font-size: 0; line-he=
+ight: 0;""><br></td></tr> </tbody> </table> </td></tr></table>
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+</td></tr></table></td></tr></tbody></table>
+</td> </tr> <tr><td class=3D""t-email-footer-cell"" style=3D""padding: 0px;"">
+<div class=3D""t-email-footer"" style=3D""width: 100%; padding: 0.75em 0; marg=
+in: 0 auto; text-align: center; color: #70767c; font-size: 0.75em;""> This e=
+mail was sent to you by <span class=3D""company-name"">SMA Website Order</spa=
+n> <div class=3D""address"" style=3D""line-height: 1.4em; margin: 0.5em 0 1.25=
+em;""> <span>8 Steeple Ind Est</span> <br> <span>Antrim, County Antrim, BT41=
+ 1AB</span> <br> <span>United Kingdom</span> <br> </div> <div class=3D""addr=
+ess"" style=3D""line-height: 1.4em; margin: 0.5em 0 1.25em;""> 028 2501 3555 =
+=C2=A0|=C2=A0 <a href=3D""http://click.promote.weebly.com/ls/click?upn=3Du00=
+1.OwYvcFSZPrzQYnOZWQYFBHrlghftyGXjBi-2B-2Bf1jwCEyYGX2rGn1wS-2B-2FNAY1K2OGQG=
+5te_gXWCXLUvXAkEaNz2-2Fnr9xqZvtXER7Tou6Ga61t072deVcaVfTW1lDBLsIeSJPnmtsIVld=
+Xmrd6yDInZqB0K6cLvcwyF2JCaDxpYZEa7FLxgoXKUgAe4KcPrcJfC3ehLFIdXBCOfkS7XF-2F4=
+OaaApkQaBdQ9XjKQvWc4aIYb37XE21CtW2t3pOqdnB-2BASf5aRxi41cOqtceQVry3w-2BIMiWX=
+WhBP2EBDkI688FrBHALZ1X-2B-2Bq2kEO-2BFix0KD3Tb03qhUzN-2Bl7i3wVkIEciKiZz6dl8Z=
+16YhGh7uXUiVFg2zLOPs2oqnBxUCsCx1y0ZeAeMC7hTJUWP3K-2BV-2FNfuaMfQ-2BrcxiX0l3f=
+akDH5O02eQQ0sXc-2BDJ6iM4hk5ixm1eyDR2O57tYGmsMJv7OXCOtBTXpy5Ktgfv6JHTTPu5K13=
+pfkK54tI7IlqXKnVo4D4luKbUAu73Dw0S81jNW-2B81asHg7vML0Q86gypUI2cOJEjC2l-2F8YZ=
+UAMh4M4y1-2BH6-2BWmSirA-2BqG-2B7DquyiCVAEbDqO5C7R8OELlOHy-2BCaWldUNGc1lM-3D=
+"" target=3D""_blank"" style=3D""text-decoration: none; color: #2990ea;"">www.st=
+ockmasteragri.com</a> </div> <div class=3D""address"" style=3D""line-height: 1=
+.4em; margin: 0.5em 0 1.25em;"">info@stockmasteragri.com</div> </div> </td><=
+/tr> </table> </td> </tr> </table> <img src=3D""http://click.promote.weebly.=
+com/wf/open?upn=3Du001.NtZUIDWa4m2kVdrCZCK4dv3AIh7hUU2Ms6LRUGSYDyjOYCLK-2F9=
+YY7WR45j2zy-2Fhm4bgGR2UZom4M9WlMw9NHu10YWG0l1mucS9WszozwNfgTXhlkJ3y8q-2Fmx7=
+r8sgkft2HcW8h-2FVpJQoUuXpDcNGkLo89xqed5zhCicdHHjSkhNd0jG160V6e-2FEOBPhSxIyc=
+A6t3OLrzrqw-2FxBYRHUVvQLTk0DWT1Irh1FiTeQ1l-2Bx7hZfN2DXnS9YZttR-2FE0Dz-2FiR0=
+AmgY6cm-2Bkv0IPsrYO-2BSvGmG81ZqDpJeFi1PtMgyhr11Oq0h3UijXST9AV-2BnaF0xoqSvsH=
+0jLhA8T2ikAWA6EUSWRgf5b6prQuYglEp9HiPXy5WtWpt8poJC0QjJUrek1XSyoI7tYBkT5ETh8=
+NoQcycwlpeUifkc75HR4PSt8cl7qfPowIKMn6vIVrifrVi60hNAVoxSC8zvhC6qI2BwLMeVHFlu=
+F46CNjodXPG1wlWNpB1e1QkyBddUVGpwOgSUY64fFCLs7lRc2k-2FjqH6Ch2D44S4Vq-2FIYCvz=
+FolyS1vbxnYdyYKdpg7-2BQzXAPHs"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""=
+0"" style=3D""height:1px !important;width:1px !important;border-width:0 !impo=
+rtant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !im=
+portant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 =
+!important;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+--520f747e7e979b440345813edd3dd80831e9e07d2e8cacfe9bc18d8683f0--
+","""SMA Website Order"" <info@stockmasteragri.com>",aok24a@gmail.com,2025-03-23,185.148.181.12,United States,no,users/23017485/5e9e202a-91bf-486f-9ab5-f90c3aa64aaa.json
+23017485,Zxcd9XaAS6Shkndiq_sQ1g.recvd-578d769b87-6qlj2-1-67BC98DA-19.0,cHJvY2Vzc2VkLTIzMDE3NDg1LVp4Y2Q5WGFBUzZTaGtuZGlxX3NRMWctMA,Your items have been shipped!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=weebly.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=m1; bh=t99cH8zq0EsQuOjHYB/QDGw3O2biHjFxMarEeP8RWeg=;
+	b=LSWetpxIgM7ZdMqJ2QnDDI8QHeZQbNLcjd68qVpDLwkISS2SWcuWjqYT7DtWHIIoihrY
+	E1H/syENSjJVC+Y17ztfZpWp4rXzcv4HkcVDydGxTkOeQA283EvP9H5YBZiZ2ohOOivSDb
+	f9c1vrw9UkqjffAi2ZZZRJwfOKf/yP0ec=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:list-unsubscribe:x-feedback-id:
+	to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=t99cH8zq0EsQuOjHYB/QDGw3O2biHjFxMarEeP8RWeg=;
+	b=XhXxdsLoUQmocRFpprAh1LPsCrDy/ub11oFhd/kl4pOPoxvvYzW1vlXXArPjMB/H62i+
+	5VKn3eGg/j963Wphq8G9dBIB9zuoCesZ1xGVQUBmYb3vZtDJMhTeVwPXa7tP9LKDsceAR0
+	XX58wwaaie3V4Tc3ghsMZOOQk08UP2I5w=
+Received: by recvd-578d769b87-6qlj2 with SMTP id recvd-578d769b87-6qlj2-1-67BC98DA-19
+	2025-02-24 16:05:46.11007584 +0000 UTC m=+8793761.796347481
+Received: from MjMwMTc0ODU (unknown)
+	by geopod-ismtpd-6 (SG) with HTTP
+	id Zxcd9XaAS6Shkndiq_sQ1g
+	Mon, 24 Feb 2025 16:05:46.073 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=69c05ed5e6136d03960523ec5c5d0ee1d36ae2bfc9d1b6d3a9aeaf4ce5d0
+Date: Mon, 24 Feb 2025 16:05:46 +0000 (UTC)
+From: SSA-Statement-Desk <info@stockmasteragri.com>
+Mime-Version: 1.0
+Message-ID: <Zxcd9XaAS6Shkndiq_sQ1g@geopod-ismtpd-6>
+Subject: Your items have been shipped!
+List-Unsubscribe: 
+ <mailto:b3a53b85-3c10-45ad-8fd1-2234dd35c088@feedback-promote.weebly.com>,
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fwww=2Eweebly=2Ecom=2Fapp=2Fmarketing=2Funsubscribe=2FODg2MzU2MzB8?=
+ =?us-ascii?Q?YjNhNTNiODUtM2MxMC00NWFkLThmZDEtMjIzNGR?=
+ =?us-ascii?Q?kMzVjMDg4fDIzOGExZWMxLWZkMjItNDk2NC05NW?=
+ =?us-ascii?Q?FjLTk3MTA0NTU5ZjllMw=3D=3D=3E?=
+X-Recipient-Id: b3a53b85-3c10-45ad-8fd1-2234dd35c088
+X-Rendered-By: prod-promote-laravel-framework-web-5db5c9f6fb-2fskp
+X-Trumpet-Id: 238a1ec1-fd22-4964-95ac-97104559f9e3
+X-Feedback-ID: 23017485:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ETlEsWhvtBhIWK+xBFqYLKw8AhdOZgisObelSxPwSOhF=2Fm3uCXgTjnAmEv?=
+ =?us-ascii?Q?A3Y9QyKWrKouwg614En0EOLUEwOWaAruc2Wqog9?=
+ =?us-ascii?Q?QgUcXVZKEAilkeaMK03UZgCJDoa0yZUviMory4g?=
+ =?us-ascii?Q?1CFUPheSj5t543W7ZeMlw6qEHJc0gAZgmoEcHZu?=
+ =?us-ascii?Q?AKg2vfo60IIrYwBdKZG2D0tXTXgtGXYvsrsZRX3?=
+ =?us-ascii?Q?vX7LsR6+jbbyIT3V8p+mUqTIJJBea=2FU1UC0PlqO?= =?us-ascii?Q?Pi2I?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAupDtFt0MFt634w?=
+ =?us-ascii?Q?=2F9z7pQUQaTMjJMdFg9dK09K4auhjamdd8=2FRoznH?=
+ =?us-ascii?Q?QnHlg3CkDyWQOTkGP1odQQgZ0ad4KqvPXiyqNAm?=
+ =?us-ascii?Q?auPcNyqh9MHb6zwkbNdXeOsftc=2FCpASVOXZRHxc?=
+ =?us-ascii?Q?p0on=2Fn1VL=2FobpM9aSxW=2FvijmL+LGxqAN1DMAxWC?=
+ =?us-ascii?Q?XLjVYim++5GWWCbdeiXXgWQzIwrHdhBtZNrV1CE?=
+ =?us-ascii?Q?t1XPXOdJ7lyGYwHCTnhcn6MaSJm+HNxmiKQMBvQ?=
+ =?us-ascii?Q?d6DQjREITisCw1LEyjyH0GntVS5vkj0rpbR0BQI?=
+ =?us-ascii?Q?N1cqt2lEKlKLlqnOMWRMGifCusRwcwKugmfiJzd?=
+ =?us-ascii?Q?a6KG3ie+GTURk9MJRKqwLqv8nKOMf5g8Vc5EA=3D=3D?=
+To: Jill McMaw <jillmcmaw444@gmail.com>
+X-Entity-ID: u001.VWMmvI6+XxDlvfQfBZ+83g==
+
+--69c05ed5e6136d03960523ec5c5d0ee1d36ae2bfc9d1b6d3a9aeaf4ce5d0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+My Logo - http://click.promote.weebly.com/ls/click?upn=3Du001.OwYvcFSZPrzQY=
+nOZWQYFBHrlghftyGXjBi-2B-2Bf1jwCEyYGX2rGn1wS-2B-2FNAY1K2OGQBIYL_W4Sj9O1007v=
+q-2FtxXPLfh68F1ou-2BZrS-2Fxjd2evFVb6PfTfdKszXvUm0SOqwpD2SE9p3ZnvfFP0-2BlrIC=
+LH9HcDQMSzuKxL768PH4rKZ2hFSV7X6bBuw0iHOTcYh07XS9yqBSQNkFDRPb-2B6Zjn9iWYJNvT=
+RPvYXmSmX-2FITJGRdru5qqcuKyOWP0qVprEW7sbH52Ok5ASvCfqt4gxAgVdd6K-2FVd8UsygWW=
+VAneHtKnjLzkKVtGumtqPMLZOmJlsMXgXMvSH2CY4YS5H5Yd5z6eLA4pDvfxQWeEk3Cn1XMEtjn=
+uJvUMHQdI7T9ksTsPyVZQ2t66CoBVfjwhj2BX5Kox2Lbfoffas3s5Tcx77EkYn-2FT0AczKiUuF=
+08LoMT04jxaSJut69oHGMCci5WcFRHk9QjQQAf8SJI04fJ596X7zylbhlRkh1hG8aZ-2BNhZv0T=
+tngHf4abaueitQh0Lxw8z17PNy0GNIYmS28snuz-2F0JyLfKBruJd4qi7aUQ8VBiruYNc21zRIc=
+CTgkelHbbC7xXrL-2B2Gf1j-2FS-2FgfZWxFeKfJoJq70aGyn344QH9eJc7FDo-2Buu2
+
+-------
+
+-------
+
+
+
+-------
+
+
+--69c05ed5e6136d03960523ec5c5d0ee1d36ae2bfc9d1b6d3a9aeaf4ce5d0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE HTML>
+<html xmlns:v=3D""urn:schemas-microsoft-com:vml"" style=3D""font-size: 16px;"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8"">
+<meta property=3D""og:image"" content=3D""/img/editor/elements/na-logo.png"">
+<meta property=3D""og:title"" content=3D""%subject%"">
+<style> /* Force hotmail/outlook.com to display at full width (outer div) *=
+/ .ReadMsgBody { width:100%; } /* Force hotmail/outlook.com to display at f=
+ull width (inner div) */ .ExternalClass { width:100%; } /* Force outlook.co=
+m to render at 600px */ [owa] .t-theme { width: 600px !important; } /* Stop=
+ Wekbit and Windows Phone changing the font size */ body { -webkit-text-siz=
+e-adjust: 100%; -ms-text-size-adjust: 100%; } /* iOS Links - Prevent color =
+of certain content being changed (ie: dates/times) */ a[x-apple-data-detect=
+ors] { color: inherit !important; text-decoration: none !important; font-si=
+ze: inherit !important; font-family: inherit !important; font-weight: inher=
+it !important; line-height: inherit !important; } /* Yahoo overrides */ div=
+.t-commerce-mobile, table.t-commerce-mobile, table.t-product-mobile, table.=
+t-coupon-mobile, table.t-instagram-mobile, table.t-spacer-mobile, table.t-s=
+ocial-mobile { display:none; } /* Mobile devices */ @media screen and (min-=
+width:320px) and (max-width:480px), screen and (min-device-width:320px) and=
+ (max-device-width:480px) { .t-theme .t-title p.t-font-style--headline, .t-=
+theme .t-paragraph p.t-font-style--headline { font-size: 1.75em !important;=
+ line-height: 1.25 !important; } .t-blog-mosaic > tbody > tr:not(.tr-spacer=
+) > td:not(.is-editing) { background-size: auto 100%; height: auto !importa=
+nt; } .t-blog-element .t-blog-info .t-blog-title p { font-size: 1.1em !impo=
+rtant; } .t-coupon-desktop { display: none !important; } table.t-coupon-mob=
+ile { display: table !important; } .t-commerce-element.t-commerce-desktop, =
+.t-divider-element.t-commerce-desktop { display: none !important; } div.t-c=
+ommerce-element.t-commerce-mobile { display: block !important; } table.t-co=
+mmerce-element.t-commerce-mobile { display: table !important; } .t-navigati=
+on-desktop.has-mobile-menu { display: none !important; } .mobile-menu-expan=
+dable { display: block !important; width: auto !important; overflow: visibl=
+e !important; max-height: inherit !important; line-height: inherit !importa=
+nt; position: relative; } .mobile-menu-container { position: relative; over=
+flow: hidden; width: 100%; z-index: 99; } .t-mulitcol .mobile-menu-containe=
+r { position: absolute; } .mobile-menu-expandable label { display: block !i=
+mportant; max-height: none !important; min-height: 26px; } .mobile-menu-exp=
+andable table, .mobile-menu-expandable tbody, .mobile-menu-expandable tr, .=
+mobile-menu-expandable td { width: 100% !important; } .mobile-menu-expandab=
+le table { margin-top:-500px; -ms-transition: margin-top .5s ease-in-out; -=
+webkit-transition: margin-top .5s ease-in-out; } .mobile-menu-expandable td=
+ { border-bottom: 1px solid #ffffff; padding: 10px 0px; } .mobile-checkbox:=
+checked ~ .mobile-menu-container > table { margin-top: 0%; } .mobile-menu-e=
+xpandable .nav-under { display: block !important; max-height :none !importa=
+nt; } .nav-over img, .nav-under img { display:block; float:right; } *[class=
+].mobile-checkbox { display: none; } .mobile-checkbox:checked ~ label > .na=
+v-over { opacity: 1 !important; display: block !important; max-height: none=
+ !important; } .mobile-checkbox:checked ~ label > .nav-under { opacity: 0 !=
+important; display: none !important; max-height: 0 !important; } .t-product=
+-element .t-product-info p { font-size: 0.9em !important; } .t-product-desc=
+ { display: none !important; } .t-product-element.t-product-minimal > tbody=
+ > tr:not(.tr-spacer) > td, .t-product-element.t-product-minimal > tbody > =
+tr:not(.tr-spacer) > td > table { height: auto !important; min-height: 235p=
+x !important; } } /*end media query*/ /* Everything but desktop */ @media s=
+creen and (min-width:320px) and (max-width:599px), screen and (min-device-w=
+idth:320px) and (max-device-width:599px) { .t-element-section.no-bg-image, =
+.t-element-section.t-main-section.no-bg-image, .t-element-section.no-bg-ima=
+ge > tbody > tr { height: auto !important; } .t-product-element.t-product-s=
+napshot > tbody > tr > td:not(.td-spacer), .t-product-element.t-product-det=
+ailed > tbody > tr > td:not(.td-spacer) { width: 50% !important; } .t-produ=
+ct-snapshot .t-product-image-container, .t-product-detailed .t-product-imag=
+e-container { max-width: 50% !important; } .t-product-mobile .t-product-ima=
+ge-container, .t-instagram-mobile .t-instagram-image-container{ max-width: =
+100% !important; } .t-product-snapshot a.responsive-img-link, .t-product-de=
+tailed a.responsive-img-link, .t-product-mobile a.responsive-img-link, .t-i=
+nstagram-mobile a.responsive-img-link, .t-product-image-placeholder { width=
+: 100% !important; } .t-product-desktop { display: none !important; } .t-pr=
+oduct-mobile { display: table !important; } .t-instagram-desktop { display:=
+ none !important; } .t-instagram-mobile { display: table !important; } .t-s=
+pacer-desktop { display: none !important; } table.t-spacer-mobile { display=
+: table !important; } .t-social-desktop { display: none !important; } table=
+.t-social-mobile { display: table !important; } } /*end media query*/ /* Tr=
+ansactional email overrides */ table.t-theme.t-transactional-theme .t-eleme=
+nt-section, table.t-theme.t-transactional-theme .t-element-section.t-main-s=
+ection, table.t-theme.t-transactional-theme .t-element-section > tbody > tr=
+ { height: auto !important; } /* Desktop overrides */ @media screen and (mi=
+n-width:600px), screen and (min-device-width:600px) { .t-email-wrapper { ma=
+rgin:0 auto!important; padding:0 0 35px!important; } } /* Gmail overrides *=
+/ u + .body .gmail { display: none !important; } </style> <!--[if gte mso 9=
+]> <style> table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; } img =
+{ -ms-interpolation-mode: bicubic; } </style> <![endif]-->
+</head>
+<body class=3D""body"" style=3D""font-size: 16px; width: 100% !important; heig=
+ht: 100% !important; margin: 0 !important; padding: 0 !important; -webkit-f=
+ont-smoothing: antialised; background: #f8f8f8; -webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%;""> <!-- Outlook only styles --> <!--[if gte=
+ mso 9]> <style> table.t-theme { width: 600px !important; } /* Outlook Back=
+ground Image Fix */ v:* { behavior: url(#default#VML); display: block; } </=
+style> <![endif]--> <table class=3D""t-theme t-transactional-theme"" align=3D=
+""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""600"" sty=
+le=3D""max-width: 600px; min-width: 320px; width: calc(100%); height: 100%; =
+font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; font-size:=
+ 1em;""> <tr> <td style=3D""padding: 0px;""> <div class=3D""preview-text"" style=
+=3D""display: none; font-size: 1px; color: #333333; line-height: 1px; max-he=
+ight: 0px; max-width: 0px; opacity: 0; overflow: hidden;""> Stockmaster Agri=
+ Order No. 960643342 Your items have been shipped. View Order Details Billi=
+ng Information ...6512 =E2=80=94 Mastercard , NIR, BT38 8QH GB jillmcmaw444=
+@gmail.com 4407341907807 Shipping Information Jill McMaw 40 Slievetrue Road=
+ Carrickfergus Co Antrim, NIR, BT38 8QH GB jillmcmaw444@gmail.com 073419068=
+07 Billing Information ...6512 =E2=80=94 Mastercard , NIR, BT38 8QH GB jill=
+mcmaw444@gmail.com 4407341907807 Shipping Information Jill McMaw 40 Slievet=
+rue Road Carrickfergus Co Antrim, NIR, BT38 8QH GB jillmcmaw444@gmail.com 0=
+7341906807 Order Summary Natural Stockcare Aqua Lamb - 100ml &amp; 250ml Si=
+ze: 250ml SKU: SC210-250-00 Quantity: 1 Turbo Colostrum 2.25kg SKU: SH99-PP=
+7-164 Quantity: 1 Order Summary Item Desc Quantity Natural Stockcare Aqua L=
+amb - 100ml &amp; 250ml Size: 250ml SKU: SC210-250-00 1 Turbo Colostrum 2.2=
+5kg SKU: SH99-PP7-164 1 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=
+=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =
+=C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =
+=E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=
+=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=
+=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 =E2=80=8C =C2=A0 </div> </td> </tr> <=
+tr> <td class=3D""show-in-browser-link"" style=3D""text-align: right; padding:=
+ 35px 0; font-size: 14px;""> </td> </tr> <tr> <td style=3D""padding: 0px;""> <=
+table class=3D""t-email-wrapper"" align=3D""center"" border=3D""0"" cellpaddsing=
+=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""max-width: 600px; position=
+: relative; width: 100%; margin: 0; padding: 0; line-height: 1.5; letter-sp=
+acing: 0.03em;""> <tr> <td class=3D""t-content-inner"" style=3D""padding: 0px;""=
+>
+<table class=3D""t-element-section no-bg-image"" style=3D""max-width: 600px; p=
+osition: relative; width: 100%; min-width: 100%; margin: 0; background: #ff=
+f; line-height: 1.5; letter-spacing: 0.03em; border: 1px solid #c9cdcf; hei=
+ght: 102px;"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D=
+""0"" width=3D""100%"" height=3D""102"" background=3D""""><tbody style=3D""height: i=
+nherit;""><tr style=3D""height: 102px;""><td class=3D""t-element-list weebly-co=
+ntent-area section-td"" style=3D""padding: 1.25em 0; vertical-align: top; max=
+-width: 558px;""><table width=3D""100%"" border=3D""0"" cellpadding=3D""0"" cellsp=
+acing=3D""0"" style=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.=
+03em; width: 100%; height: 100%; min-width: 100%;""><tr><td class=3D""section=
+-list list-container"" valign=3D""top"" style=3D""padding: 0px; width: 100%; he=
+ight: 100%; max-width: 558px;"">
+<table class=3D""t-element t-type-column"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px;"">
+<table class=3D""t-mulitcol spacing-medium"" width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""max-width: 600px; line-height: 1.5=
+; letter-spacing: 0.03em; margin-left: 0; margin-right: 0;""><tr><td style=
+=3D""padding: 0px; padding-left: 0.3125em; padding-right: 0.3125em;""> <table=
+ class=3D""t-multicol-table"" width=3D""100%"" border=3D""0"" cellpadding=3D""0"" c=
+ellspacing=3D""0"" style=3D""position: relative; border-collapse: collapse; ta=
+ble-layout: fixed; margin: 0 !important; border: 0 !important; padding: 0 !=
+important; max-width: 600px; width: 100%; line-height: 1.5; letter-spacing:=
+ 0.03em;""> <tbody class=3D""t-multicol-body""> <tr class=3D""t-multicol-tr""> <=
+td class=3D""t-multicol-col"" style=3D""vertical-align: top; margin: 0 !import=
+ant; border: 0 !important; padding: 0 0.9375em; width: 50%;""><table class=
+=3D""t-element t-type-logo"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0""=
+ width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; letter-spacing=
+: 0.03em;""><tr><td style=3D""padding: 0px;"">
+<table align=3D""left"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" widt=
+h=3D""100%"" class=3D""t-logo-element"" style=3D""max-width: 600px; line-height:=
+ 1.5; letter-spacing: 0.03em;""> <tbody> <tr> <td width=3D""100%"" align=3D""le=
+ft"" style=3D""padding: 0px;""> <table align=3D""left"" cellpadding=3D""0"" cellsp=
+acing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-logo-element image-eleme=
+nt-table image-wrapper-table"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em;""> <tbody> <tr> <td class=3D""t-upload-target"" width=
+=3D""100%"" align=3D""left"" style=3D""padding: 0px; padding-top: 10px; padding-=
+bottom: 10px;""> <a class=3D""t-logo-text"" href=3D""http://click.promote.weebl=
+y.com/ls/click?upn=3Du001.OwYvcFSZPrzQYnOZWQYFBHrlghftyGXjBi-2B-2Bf1jwCEyYG=
+X2rGn1wS-2B-2FNAY1K2OGQMIQB_W4Sj9O1007vq-2FtxXPLfh68F1ou-2BZrS-2Fxjd2evFVb6=
+PfTfdKszXvUm0SOqwpD2SE9p3ZnvfFP0-2BlrICLH9HcDQMSzuKxL768PH4rKZ2hFSV7X6bBuw0=
+iHOTcYh07XS9yqBSQNkFDRPb-2B6Zjn9iWYJNvTRPvYXmSmX-2FITJGRdru5qqcuKyOWP0qVprE=
+W7sbH52Ok5ASvCfqt4gxAgVdd6K-2FVd8UsygWWVAneHtKnjLzkKVtGumtqPMLZOmJlsMXgXMvS=
+H2CY4YS5H5Yd5z6eLA4pDvfxQWeEk3Cn1XMEtjnuJvUMHQdI7T9ksTsPyVZQ2t66CoBVfjwhj2B=
+X5Kox2Lbfoffas3s5Tcx77EkYn-2FT0AczKiUuF08LoMT04jxaSJut69oHGMCci5WcFRHk9QjQQ=
+Af8SJI04fJ596X7zylbhnlLjtFsu1rhGw-2BMAcp5-2FrXeWZ8InPmAL7uE-2BkCBAplP8w59tX=
+EA5-2B2LfHBdCxvcUs89t7tfki1Hc57PXGrCH4S56FaKmj6L-2BZpkfATJFLH1D19CiBPujVGsn=
+66R1hB2A4605aSFOxTwNr0LZ3-2Ff3jj"" style=3D""text-decoration: none; font-size=
+: 22px; line-height: 33px; font-weight: 700; color: #2990ea;"">Stockmaster A=
+gri</a> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td></=
+tr></table></td> <td class=3D""t-multicol-col"" style=3D""vertical-align: top;=
+ margin: 0 !important; border: 0 !important; padding: 0 0.9375em; width: 50=
+%;""><table class=3D""t-element t-type-commerce-order-number"" cellpadding=3D""=
+0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px;=
+ line-height: 1.5; letter-spacing: 0.03em;""><tr><td style=3D""padding: 0px;""=
+> <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" cl=
+ass=3D""t-commerce-element t-commerce-order-number-element theme_default"" st=
+yle=3D""max-width: 600px; min-width: 100%; line-height: 1.5; letter-spacing:=
+ 0.03em;""> <tbody> <tr> <td align=3D""right"" width=3D""100%"" valign=3D""top"" s=
+tyle=3D""padding: 0px; font-size: 1em; font-weight: 400; line-height: 1.5em;=
+ color: #58585e;""> <p class=3D""t-commerce-text t-font-style--text"" style=3D=
+""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-wei=
+ght: 400; color: #666c70;""><span>Order No. 960643342</span></p> </td> </tr>=
+ </tbody> </table> </td></tr></table></td> </tr> </tbody> </table> </td></t=
+r></table> </td></tr></table>
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+</td></tr></table></td></tr></tbody></table>
+<table class=3D""t-element-section no-bg-image"" style=3D""max-width: 600px; p=
+osition: relative; width: 100%; min-width: 100%; margin: 0; background: #ff=
+f; line-height: 1.5; letter-spacing: 0.03em; border: 1px solid #c9cdcf; bor=
+der-top-width: 0px; height: 102px;"" align=3D""center"" border=3D""0"" cellpaddi=
+ng=3D""0"" cellspacing=3D""0"" width=3D""100%"" height=3D""102"" background=3D""""><t=
+body style=3D""height: inherit;""><tr style=3D""height: 102px;""><td class=3D""t=
+-element-list weebly-content-area section-td"" style=3D""padding: 1.25em 0; v=
+ertical-align: top; max-width: 558px;""><table width=3D""100%"" border=3D""0"" c=
+ellpadding=3D""0"" cellspacing=3D""0"" style=3D""max-width: 600px; line-height: =
+1.5; letter-spacing: 0.03em; width: 100%; height: 100%; min-width: 100%;""><=
+tr><td class=3D""section-list list-container"" valign=3D""top"" style=3D""paddin=
+g: 0px; width: 100%; height: 100%; max-width: 558px;"">
+<table class=3D""t-element t-type-commerce-confirmation"" cellpadding=3D""0"" c=
+ellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; lin=
+e-height: 1.5; letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""p=
+adding: 0px; padding-left: 1.25em; padding-right: 1.25em;""> <table cellpadd=
+ing=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-commerce=
+-element t-commerce-confirmation-element theme_default"" style=3D""max-width:=
+ 600px; min-width: 100%; line-height: 1.5; letter-spacing: 0.03em;""> <tbody=
+> <tr> <td width=3D""100%"" valign=3D""top"" align=3D""center"" style=3D""padding:=
+ 0px; font-size: 1em; font-weight: 400; line-height: 1.5em; color: #58585e;=
+""> <div class=3D""t-commerce-heading t-font-style--title"" style=3D""font-size=
+: 22px; line-height: 33px; font-weight: 400; color: #666c70;""><span>Your it=
+ems have been shipped.</span></div> </td> </tr> <tr class=3D""tr-spacer""><td=
+ colspan=3D"""" height=3D""10"" style=3D""padding: 0px; font-weight: 400; color:=
+ #58585e; height: 10px; font-size: 0; line-height: 0;""><br></td></tr> <tr> =
+<td width=3D""100%"" align=3D""center"" class=3D""t-commerce-description"" style=
+=3D""padding: 0px; font-size: 1em; font-weight: 400; line-height: 1.5em; col=
+or: #58585e;""> <p class=3D"" t-font-style--text"" style=3D""margin: 0; padding=
+-bottom: 0; font-size: 16px; line-height: 24px; font-weight: 400; color: #6=
+66c70;""><span></span></p> </td> </tr> <tr class=3D""tr-spacer""><td colspan=
+=3D"""" height=3D""30"" style=3D""padding: 0px; font-weight: 400; color: #58585e=
+; height: 30px; font-size: 0; line-height: 0;""><br></td></tr> <tr> <td widt=
+h=3D""100%"" align=3D""center"" style=3D""padding: 0px; font-size: 1em; font-wei=
+ght: 400; line-height: 1.5em; color: #58585e;""> <table align=3D""center"" cel=
+lpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-w=
+idth: 600px; line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td width=3D""=
+100%"" align=3D""center"" style=3D""padding: 0px; font-size: 1em; font-weight: =
+400; line-height: 1.5em; color: #58585e;""> <table align=3D""center"" cellpadd=
+ing=3D""0"" cellspacing=3D""0"" border=3D""0"" class=3D""t-default-button t-button=
+ t-button-small t-button-normal"" style=3D""max-width: 600px; display: inline=
+-block; line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td class=3D""t-but=
+ton-td"" align=3D""center"" style=3D""padding: 0px; font-size: 1em; font-weight=
+: 400; line-height: 1.5em; color: #58585e; border: 2px solid #323b43; borde=
+r-color: #2990ea; background-color: #2990ea;""> <a class=3D""t-button-inner"" =
+href=3D""http://click.promote.weebly.com/ls/click?upn=3Du001.42Ar3TOyLr5ff5-=
+2FKVJQc5JkHawNPUqVSWzG8gwhCU6rFU4EDBtzCNL3As4VOa0PaVIGB87ffaYhR7JqBAuMdGyoc=
+EQNarkcG2npOo7OdoJs-3D69HB_W4Sj9O1007vq-2FtxXPLfh68F1ou-2BZrS-2Fxjd2evFVb6P=
+fTfdKszXvUm0SOqwpD2SE9p3ZnvfFP0-2BlrICLH9HcDQMSzuKxL768PH4rKZ2hFSV7X6bBuw0i=
+HOTcYh07XS9yqBSQNkFDRPb-2B6Zjn9iWYJNvTRPvYXmSmX-2FITJGRdru5qqcuKyOWP0qVprEW=
+7sbH52Ok5ASvCfqt4gxAgVdd6K-2FVd8UsygWWVAneHtKnjLzkKVtGumtqPMLZOmJlsMXgXMvSH=
+2CY4YS5H5Yd5z6eLA4pDvfxQWeEk3Cn1XMEtjnuJvUMHQdI7T9ksTsPyVZQ2t66CoBVfjwhj2BX=
+5Kox2Lbfoffas3s5Tcx77EkYn-2FT0AczKiUuF08LoMT04jxaSJut69oHGMCci5WcFRHk9QjQQA=
+f8SJI04fJ596X7zylbhmR7Jpwd-2B8U3l93cGcIa8-2BqwxvmBDib1jHP8iwQHSF25Cq-2BSEAW=
+EojmSUZxijCYf8gnX52wvwk1XHAB3L3PC2hI3JeOMTtQ2n3PGYYUwsdUC4EFBnkT2GJF21aTV2o=
+LYBopnUsiFKf1bi6Wl3eGp4IM"" target=3D""_blank"" style=3D""display: block; verti=
+cal-align: middle; cursor: pointer; height: auto; border: none; text-align:=
+ center; text-decoration: none !important; letter-spacing: 1px; background-=
+color: #2990ea; border-color: #2990ea; border-radius: 0; color: #fff; font-=
+size: 16px; line-height: 24px; font-weight: 400;""> <span class=3D""t-button-=
+text "" style=3D""display: inline-block !important; text-decoration: none; mi=
+n-width: 60px; border-top: 10px solid #323b43; border-bottom: 10px solid #3=
+23b43; border-left: 20px solid #323b43; border-right: 20px solid #323b43; b=
+order-color: #2990ea; color: #fff;"">View Order Details</span> </a> </td> </=
+tr> </table> </td> </tr> </table> </td> </tr> </tbody> </table> </td></tr><=
+/table>
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+</td></tr></table></td></tr></tbody></table>
+<table class=3D""t-element-section t-main-section no-bg-image"" style=3D""max-=
+width: 600px; position: relative; width: 100%; min-width: 100%; margin: 0; =
+background: #fff; line-height: 1.5; letter-spacing: 0.03em; border: 1px sol=
+id #c9cdcf; border-top-width: 0px; height: 501px;"" align=3D""center"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" height=3D""501"" ba=
+ckground=3D""""><tbody style=3D""height: inherit;""><tr style=3D""height: 501px;=
+""><td class=3D""t-element-list weebly-content-area section-td"" style=3D""padd=
+ing: 1.25em 0; vertical-align: top; max-width: 558px;""><table width=3D""100%=
+"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""max-width: 600p=
+x; line-height: 1.5; letter-spacing: 0.03em; width: 100%; height: 100%; min=
+-width: 100%;""><tr><td class=3D""section-list list-container"" valign=3D""top""=
+ style=3D""padding: 0px; width: 100%; height: 100%; max-width: 558px;"">
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+<table class=3D""t-element t-type-commerce-address"" cellpadding=3D""0"" cellsp=
+acing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-hei=
+ght: 1.5; letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""paddin=
+g: 0px; padding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" =
+width=3D""100%"" class=3D""t-commerce-element t-commerce-address-element theme=
+_default t-commerce-mobile"" style=3D""max-width: 600px; min-width: 100%; lin=
+e-height: 1.5; letter-spacing: 0.03em; display: none;""> <tr>
+<td valign=3D""top"" width=3D""100%"" style=3D""padding: 0px; font-size: 1em; fo=
+nt-weight: 400; line-height: 1.5em; color: #58585e;""> <table cellpadding=3D=
+""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px=
+; line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td width=3D""100%"" class=
+=3D""t-commerce-heading-container"" style=3D""padding: 0px; font-size: 1em; fo=
+nt-weight: 400; line-height: 1.5em; color: #58585e; padding-bottom: 10px; b=
+order-bottom: 1px solid #e5e5e5;""> <p class=3D""t-commerce-address-label t-f=
+ont-style--subtitle"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px=
+; line-height: 24px; font-weight: 700; color: #666c70;""><span>Billing Infor=
+mation</span></p> </td> </tr> <tr> <td width=3D""100%"" class=3D""t-commerce-c=
+c-container"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; line-=
+height: 1.5em; color: #58585e; padding-top: 10px;""> <table cellpadding=3D""0=
+"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; =
+line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td valign=3D""top"" width=
+=3D""46px"" class=3D""t-commerce-cc"" style=3D""padding: 0px; font-size: 1em; fo=
+nt-weight: 400; line-height: 1.5em; color: #58585e;""> <img width=3D""36"" hei=
+ght=3D""23"" style=3D""border: none; line-height: 100%; outline: none; text-de=
+coration: none; width: 36px; height: 23px;"" src=3D""https://cdn-promote.weeb=
+ly.com/img/common/credit-cards/mastercard.png""> </td> <td valign=3D""top"" st=
+yle=3D""padding: 0px; font-size: 1em; font-weight: 400; line-height: 1.5em; =
+color: #58585e;""> <span class=3D""t-commerce-text t-font-style--text"" style=
+=3D""padding-bottom: 0; font-size: 16px; line-height: 24px; font-weight: 400=
+; color: #666c70;"">...6512 =E2=80=94 Mastercard</span> </td> </tr> </table>=
+ </td> </tr> <tr> <td width=3D""100%"" class=3D""t-commerce-address-container""=
+ style=3D""padding: 0px; font-size: 1em; font-weight: 400; line-height: 1.5e=
+m; color: #58585e; padding-top: 10px;""> <span class=3D""t-commerce-address t=
+-font-style--text"" style=3D""padding-bottom: 0; font-size: 16px; line-height=
+: 24px; font-weight: 400; color: #666c70;""> <p style=3D""margin: 0; padding-=
+bottom: 0; color: inherit; font-size: 0.9em; line-height: inherit;""> </p> <=
+p style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size: 0.9em; =
+line-height: inherit;"">, NIR, BT38 8QH</p> <p style=3D""margin: 0; padding-b=
+ottom: 0; color: inherit; font-size: 0.9em; line-height: inherit;"">GB</p> <=
+p style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size: 0.9em; =
+line-height: inherit;"">jillmcmaw444@gmail.com</p> <p style=3D""margin: 0; pa=
+dding-bottom: 0; color: inherit; font-size: 0.9em; line-height: inherit;"">4=
+407341907807</p> </span> </td> </tr> </table> </td> </tr> <tr class=3D""tr-s=
+pacer""><td colspan=3D""1"" height=3D""30"" style=3D""padding: 0px; font-weight: =
+400; color: #58585e; height: 30px; font-size: 0; line-height: 0;""><br></td>=
+</tr> <tr>
+<td valign=3D""top"" width=3D""100%"" style=3D""padding: 0px; font-size: 1em; fo=
+nt-weight: 400; line-height: 1.5em; color: #58585e;""> <table cellpadding=3D=
+""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px=
+; line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td width=3D""100%"" class=
+=3D""t-commerce-heading-container"" style=3D""padding: 0px; font-size: 1em; fo=
+nt-weight: 400; line-height: 1.5em; color: #58585e; padding-bottom: 10px; b=
+order-bottom: 1px solid #e5e5e5;""> <p class=3D""t-commerce-address-label t-f=
+ont-style--subtitle"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px=
+; line-height: 24px; font-weight: 700; color: #666c70;""><span>Shipping Info=
+rmation</span></p> </td> </tr> <tr> <td width=3D""100%"" class=3D""t-commerce-=
+address-container"" style=3D""padding: 0px; font-size: 1em; font-weight: 400;=
+ line-height: 1.5em; color: #58585e; padding-top: 10px;""> <span class=3D""t-=
+commerce-address t-font-style--text"" style=3D""padding-bottom: 0; font-size:=
+ 16px; line-height: 24px; font-weight: 400; color: #666c70;""> <p style=3D""m=
+argin: 0; padding-bottom: 0; color: inherit; font-size: 0.9em; line-height:=
+ inherit;"">Jill McMaw</p> <p style=3D""margin: 0; padding-bottom: 0; color: =
+inherit; font-size: 0.9em; line-height: inherit;"">40 Slievetrue Road</p> <p=
+ style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size: 0.9em; l=
+ine-height: inherit;"">Carrickfergus</p> <p style=3D""margin: 0; padding-bott=
+om: 0; color: inherit; font-size: 0.9em; line-height: inherit;"">Co Antrim, =
+NIR, BT38 8QH</p> <p style=3D""margin: 0; padding-bottom: 0; color: inherit;=
+ font-size: 0.9em; line-height: inherit;"">GB</p> <p style=3D""margin: 0; pad=
+ding-bottom: 0; color: inherit; font-size: 0.9em; line-height: inherit;"">ji=
+llmcmaw444@gmail.com</p> <p style=3D""margin: 0; padding-bottom: 0; color: i=
+nherit; font-size: 0.9em; line-height: inherit;"">07341906807</p> </span> </=
+td> </tr> </table> </td> </tr> </table> <!--<![endif]--> <table cellpadding=
+=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-commerce-el=
+ement t-commerce-address-element theme_default t-commerce-desktop"" style=3D=
+""max-width: 600px; min-width: 100%; line-height: 1.5; letter-spacing: 0.03e=
+m;""> <tr> <td valign=3D""top"" width=3D""50%"" style=3D""padding: 0px; font-size=
+: 1em; font-weight: 400; line-height: 1.5em; color: #58585e;""> <table cellp=
+adding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-wid=
+th: 600px; line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td width=3D""10=
+0%"" class=3D""t-commerce-heading-container"" style=3D""padding: 0px; font-size=
+: 1em; font-weight: 400; line-height: 1.5em; color: #58585e; padding-bottom=
+: 10px; border-bottom: 1px solid #e5e5e5;""> <p class=3D""t-commerce-address-=
+label t-font-style--subtitle"" style=3D""margin: 0; padding-bottom: 0; font-s=
+ize: 16px; line-height: 24px; font-weight: 700; color: #666c70;""><span>Bill=
+ing Information</span></p> </td> </tr> <tr> <td width=3D""100%"" class=3D""t-c=
+ommerce-cc-container"" style=3D""padding: 0px; font-size: 1em; font-weight: 4=
+00; line-height: 1.5em; color: #58585e; padding-top: 10px;""> <table cellpad=
+ding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width=
+: 600px; line-height: 1.5; letter-spacing: 0.03em;""> <tr> <td valign=3D""top=
+"" width=3D""46px"" class=3D""t-commerce-cc"" style=3D""padding: 0px; font-size: =
+1em; font-weight: 400; line-height: 1.5em; color: #58585e;""> <img width=3D""=
+36"" height=3D""23"" style=3D""border: none; line-height: 100%; outline: none; =
+text-decoration: none; width: 36px; height: 23px;"" src=3D""https://cdn-promo=
+te.weebly.com/img/common/credit-cards/mastercard.png""> </td> <td valign=3D""=
+top"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; line-height: =
+1.5em; color: #58585e;""> <span class=3D""t-commerce-text t-font-style--text""=
+ style=3D""padding-bottom: 0; font-size: 16px; line-height: 24px; font-weigh=
+t: 400; color: #666c70;"">...6512 =E2=80=94 Mastercard</span> </td> </tr> </=
+table> </td> </tr> <tr> <td width=3D""100%"" class=3D""t-commerce-address-cont=
+ainer"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; line-height=
+: 1.5em; color: #58585e; padding-top: 10px;""> <span class=3D""t-commerce-add=
+ress t-font-style--text"" style=3D""padding-bottom: 0; font-size: 16px; line-=
+height: 24px; font-weight: 400; color: #666c70;""> <p style=3D""margin: 0; pa=
+dding-bottom: 0; color: inherit; font-size: 0.9em; line-height: inherit;""> =
+</p> <p style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size: 0=
+.9em; line-height: inherit;"">, NIR, BT38 8QH</p> <p style=3D""margin: 0; pad=
+ding-bottom: 0; color: inherit; font-size: 0.9em; line-height: inherit;"">GB=
+</p> <p style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size: 0=
+.9em; line-height: inherit;"">jillmcmaw444@gmail.com</p> <p style=3D""margin:=
+ 0; padding-bottom: 0; color: inherit; font-size: 0.9em; line-height: inher=
+it;"">4407341907807</p> </span> </td> </tr> </table> </td> <td valign=3D""top=
+"" width=3D""50%"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; li=
+ne-height: 1.5em; color: #58585e;""> <table cellpadding=3D""0"" cellspacing=3D=
+""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5=
+; letter-spacing: 0.03em;""> <tr> <td width=3D""100%"" class=3D""t-commerce-hea=
+ding-container"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; li=
+ne-height: 1.5em; color: #58585e; padding-bottom: 10px; border-bottom: 1px =
+solid #e5e5e5;""> <p class=3D""t-commerce-address-label t-font-style--subtitl=
+e"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24p=
+x; font-weight: 700; color: #666c70;""><span>Shipping Information</span></p>=
+ </td> </tr> <tr> <td width=3D""100%"" class=3D""t-commerce-address-container""=
+ style=3D""padding: 0px; font-size: 1em; font-weight: 400; line-height: 1.5e=
+m; color: #58585e; padding-top: 10px;""> <span class=3D""t-commerce-address t=
+-font-style--text"" style=3D""padding-bottom: 0; font-size: 16px; line-height=
+: 24px; font-weight: 400; color: #666c70;""> <p style=3D""margin: 0; padding-=
+bottom: 0; color: inherit; font-size: 0.9em; line-height: inherit;"">Jill Mc=
+Maw</p> <p style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size=
+: 0.9em; line-height: inherit;"">40 Slievetrue Road</p> <p style=3D""margin: =
+0; padding-bottom: 0; color: inherit; font-size: 0.9em; line-height: inheri=
+t;"">Carrickfergus</p> <p style=3D""margin: 0; padding-bottom: 0; color: inhe=
+rit; font-size: 0.9em; line-height: inherit;"">Co Antrim, NIR, BT38 8QH</p> =
+<p style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size: 0.9em;=
+ line-height: inherit;"">GB</p> <p style=3D""margin: 0; padding-bottom: 0; co=
+lor: inherit; font-size: 0.9em; line-height: inherit;"">jillmcmaw444@gmail.c=
+om</p> <p style=3D""margin: 0; padding-bottom: 0; color: inherit; font-size:=
+ 0.9em; line-height: inherit;"">07341906807</p> </span> </td> </tr> </table>=
+ </td> </tr> </table> </td></tr></table>
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+<table class=3D""t-element t-type-commerce-items"" cellpadding=3D""0"" cellspac=
+ing=3D""0"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-heigh=
+t: 1.5; letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding:=
+ 0px; padding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" =
+width=3D""100%"" class=3D""t-commerce-element t-commerce-items-element theme_d=
+efault t-commerce-mobile"" style=3D""max-width: 600px; min-width: 100%; line-=
+height: 1.5; letter-spacing: 0.03em; table-layout: auto !important; display=
+: none;""> <tbody> <tr> <td align=3D""left"" width=3D""100%"" valign=3D""top"" col=
+span=3D""1"" style=3D""padding: 0px; font-size: 1em; font-weight: 400; line-he=
+ight: 1.5em; color: #58585e;""> <p class=3D"" t-font-style--subtitle"" style=
+=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-=
+weight: 700; color: #666c70;""><span>Order Summary</span></p> </td> </tr> <t=
+r class=3D""tr-spacer""><td colspan=3D""1"" height=3D""20"" style=3D""padding: 0px=
+; font-weight: 400; color: #58585e; height: 20px; font-size: 0; line-height=
+: 0;""><br></td></tr> <tr> <td colspan=3D""1"" style=3D""padding: 0px; font-siz=
+e: 1em; font-weight: 400; line-height: 1.5em; color: #58585e;""> <table cell=
+padding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-comm=
+erce-item-table"" style=3D""max-width: 600px; line-height: 1.5; letter-spacin=
+g: 0.03em; border: 1px solid #e5e5e5;""> <tr> <td valign=3D""top"" class=3D""t-=
+commerce-item"" style=3D""font-size: 1em; font-weight: 400; line-height: 1.5e=
+m; color: #58585e; padding: 10px 20px; border-bottom: 1px solid #e5e5e5;""> =
+<p class=3D""t-commerce-bold t-commerce-name t-font-style--subtitle"" style=
+=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-=
+weight: 700; color: #666c70;""><span>Natural Stockcare Aqua Lamb - 100ml &am=
+p; 250ml</span></p> <p class=3D""t-commerce-note t-font-style--text"" style=
+=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-=
+weight: 400; color: #666c70;""><span style=3D""font-size: 0.85em;"">Size: 250m=
+l</span></p> <p class=3D""t-commerce-note t-font-style--text"" style=3D""margi=
+n: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-weight: 4=
+00; color: #666c70;""><span style=3D""font-size: 0.85em;"">SKU: SC210-250-00</=
+span></p> <p class=3D""t-commerce-note t-font-style--text"" style=3D""margin: =
+0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-weight: 400;=
+ color: #666c70;""><span style=3D""font-size: 0.85em;"">Quantity: 1</span></p>=
+ </td> </tr> <tr class=3D""tr-spacer""><td colspan=3D""1"" height=3D""20"" style=
+=3D""padding: 0px; font-weight: 400; color: #58585e; height: 20px; font-size=
+: 0; line-height: 0;""><br></td></tr> <tr> <td valign=3D""top"" class=3D""t-com=
+merce-item"" style=3D""font-size: 1em; font-weight: 400; line-height: 1.5em; =
+color: #58585e; padding: 10px 20px;""> <p class=3D""t-commerce-bold t-commerc=
+e-name t-font-style--subtitle"" style=3D""margin: 0; padding-bottom: 0; font-=
+size: 16px; line-height: 24px; font-weight: 700; color: #666c70;""><span>Tur=
+bo Colostrum 2.25kg</span></p> <p class=3D""t-commerce-note t-font-style--te=
+xt"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24=
+px; font-weight: 400; color: #666c70;""><span style=3D""font-size: 0.85em;"">S=
+KU: SH99-PP7-164</span></p> <p class=3D""t-commerce-note t-font-style--text""=
+ style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px;=
+ font-weight: 400; color: #666c70;""><span style=3D""font-size: 0.85em;"">Quan=
+tity: 1</span></p> </td> </tr> </table> </td> </tr> </tbody> </table> <tabl=
+e cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""=
+t-commerce-element t-commerce-items-subtotal-element theme_default t-commer=
+ce-mobile"" style=3D""max-width: 600px; min-width: 100%; line-height: 1.5; le=
+tter-spacing: 0.03em; display: none;""> <tbody> <tr> <td class=3D""t-commerce=
+-item-total"" width=3D""100%"" style=3D""padding: 0px; font-size: 1em; font-wei=
+ght: 400; line-height: 1.5em; color: #58585e;""> </td> </tr> <tr class=3D""tr=
+-spacer""><td colspan=3D""1"" height=3D""20"" style=3D""padding: 0px; font-weight=
+: 400; color: #58585e; height: 20px; font-size: 0; line-height: 0;""><br></t=
+d></tr> </tbody> </table> <!--<![endif]--><table cellpadding=3D""0"" cellspac=
+ing=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-commerce-element t-commerc=
+e-items-element theme_default t-commerce-desktop"" style=3D""max-width: 600px=
+; min-width: 100%; line-height: 1.5; letter-spacing: 0.03em; table-layout: =
+auto !important;""> <tbody> <tr> <td align=3D""left"" width=3D""100%"" valign=3D=
+""top"" colspan=3D""2"" style=3D""padding: 0px; font-size: 1em; font-weight: 400=
+; line-height: 1.5em; color: #58585e;""> <p class=3D"" t-font-style--subtitle=
+"" style=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px=
+; font-weight: 700; color: #666c70;""><span>Order Summary</span></p> </td> <=
+/tr> <tr class=3D""tr-spacer""><td colspan=3D""2"" height=3D""20"" style=3D""paddi=
+ng: 0px; font-weight: 400; color: #58585e; height: 20px; font-size: 0; line=
+-height: 0;""><br></td></tr> <tr> <td colspan=3D""2"" style=3D""padding: 0px; f=
+ont-size: 1em; font-weight: 400; line-height: 1.5em; color: #58585e;""> <tab=
+le cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" class=3D=
+""t-commerce-item-table"" style=3D""max-width: 600px; line-height: 1.5; letter=
+-spacing: 0.03em; border: 1px solid #e5e5e5;""> <tr> <th align=3D""left"" widt=
+h=3D""60%"" style=3D""line-height: 1.5em; font-size: 0.85em; font-weight: 400;=
+ color: #58585e; text-transform: uppercase; background-color: #f5f6f7; bord=
+er-bottom: 1px solid #e5e5e5; padding: 10px 20px;""> Item Desc </th> <th ali=
+gn=3D""left"" style=3D""line-height: 1.5em; font-size: 0.85em; font-weight: 40=
+0; color: #58585e; text-transform: uppercase; background-color: #f5f6f7; bo=
+rder-bottom: 1px solid #e5e5e5; padding: 10px 20px; padding-left: 0;"">Quant=
+ity</th> </tr> <tr> <td valign=3D""top"" class=3D""t-commerce-item"" style=3D""f=
+ont-size: 1em; font-weight: 400; line-height: 1.5em; color: #58585e; paddin=
+g: 10px 20px; border-bottom: 1px solid #e5e5e5;""> <p class=3D""t-commerce-bo=
+ld t-commerce-name t-font-style--subtitle"" style=3D""margin: 0; padding-bott=
+om: 0; font-size: 16px; line-height: 24px; font-weight: 700; color: #666c70=
+;""><span>Natural Stockcare Aqua Lamb - 100ml &amp; 250ml</span></p> <p clas=
+s=3D""t-commerce-note t-font-style--text"" style=3D""margin: 0; padding-bottom=
+: 0; font-size: 16px; line-height: 24px; font-weight: 400; color: #666c70;""=
+><span style=3D""font-size: 0.85em;""><b>Size:</b> 250ml</span></p> <p class=
+=3D""t-commerce-note t-font-style--text"" style=3D""margin: 0; padding-bottom:=
+ 0; font-size: 16px; line-height: 24px; font-weight: 400; color: #666c70;"">=
+<span style=3D""font-size: 0.85em;""><b>SKU:</b> <span>SC210-250-00</span></s=
+pan></p> </td> <td valign=3D""top"" align=3D""left"" style=3D""font-size: 1em; f=
+ont-weight: 400; line-height: 1.5em; color: #58585e; padding: 10px 20px; pa=
+dding-left: 0; border-bottom: 1px solid #e5e5e5;"">
+<span class=3D"" t-font-style--text"" style=3D""font-size: 16px; line-height: =
+24px; font-weight: 400; color: #666c70;""><span>1</span></span> </td> </tr> =
+<tr> <td valign=3D""top"" class=3D""t-commerce-item"" style=3D""font-size: 1em; =
+font-weight: 400; line-height: 1.5em; color: #58585e; padding: 10px 20px;"">=
+ <p class=3D""t-commerce-bold t-commerce-name t-font-style--subtitle"" style=
+=3D""margin: 0; padding-bottom: 0; font-size: 16px; line-height: 24px; font-=
+weight: 700; color: #666c70;""><span>Turbo Colostrum 2.25kg</span></p> <p cl=
+ass=3D""t-commerce-note t-font-style--text"" style=3D""margin: 0; padding-bott=
+om: 0; font-size: 16px; line-height: 24px; font-weight: 400; color: #666c70=
+;""><span style=3D""font-size: 0.85em;""><b>SKU:</b> <span>SH99-PP7-164</span>=
+</span></p> </td> <td valign=3D""top"" align=3D""left"" style=3D""font-size: 1em=
+; font-weight: 400; line-height: 1.5em; color: #58585e; padding: 10px 20px;=
+ padding-left: 0;"">
+<span class=3D"" t-font-style--text"" style=3D""font-size: 16px; line-height: =
+24px; font-weight: 400; color: #666c70;""><span>1</span></span> </td> </tr> =
+</table> </td> </tr> </tbody> </table> <table cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"" width=3D""100%"" class=3D""t-commerce-element t-commerce-i=
+tems-subtotal-element theme_default t-commerce-desktop"" style=3D""max-width:=
+ 600px; min-width: 100%; line-height: 1.5; letter-spacing: 0.03em;""> <tbody=
+> <tr class=3D""tr-spacer""><td colspan=3D""2"" height=3D""20"" style=3D""padding:=
+ 0px; font-weight: 400; color: #58585e; height: 20px; font-size: 0; line-he=
+ight: 0;""><br></td></tr> </tbody> </table> </td></tr></table>
+</td></tr></table></td></tr></tbody></table>
+<table class=3D""t-element-section no-bg-image"" style=3D""max-width: 600px; p=
+osition: relative; width: 100%; min-width: 100%; margin: 0; background: #ff=
+f; line-height: 1.5; letter-spacing: 0.03em; height: auto !important; borde=
+r: 1px solid #c9cdcf; border-top-width: 0px;"" align=3D""center"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" background=3D""""><tbody =
+style=3D""height: inherit;""><tr style=3D""height: auto !important;""><td class=
+=3D""t-element-list weebly-content-area section-td"" style=3D""padding: 1.25em=
+ 0; vertical-align: top; max-width: 558px;""><table width=3D""100%"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""max-width: 600px; line-hei=
+ght: 1.5; letter-spacing: 0.03em; width: 100%; height: 100%; min-width: 100=
+%;""><tr><td class=3D""section-list list-container"" valign=3D""top"" style=3D""p=
+adding: 0px; width: 100%; height: 100%; max-width: 558px;"">
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+<table class=3D""t-element t-type-text"" cellpadding=3D""0"" cellspacing=3D""0"" =
+border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; le=
+tter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; padd=
+ing-left: 1.25em; padding-right: 1.25em;"">
+<table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""100%"" clas=
+s=3D""t-text-element t-text-footer-element"" style=3D""max-width: 600px; min-w=
+idth: 100%; line-height: 1.5; letter-spacing: 0.03em;""> <tbody> <tr> <td cl=
+ass=3D""t-upload-target"" style=3D""padding: 0px; padding-top: 0px; padding-bo=
+ttom: 0px;""> <p class=3D""t-paragraph t-font-style--text"" style=3D""margin: 0=
+; padding-bottom: 12px; font-size: 16px; line-height: 24px; font-weight: 40=
+0; color: #666c70;""></p> </td> </tr> </tbody> </table> </td></tr></table>
+<table class=3D""t-element t-type-spacer"" cellpadding=3D""0"" cellspacing=3D""0=
+"" border=3D""0"" width=3D""100%"" style=3D""max-width: 600px; line-height: 1.5; =
+letter-spacing: 0.03em; min-width: 100%;""><tr><td style=3D""padding: 0px; pa=
+dding-left: 1.25em; padding-right: 1.25em;"">
+<!--[if t]><![endif]--><!--[if t]><![endif]--><!--[if t]><![endif]--> <!--[=
+if !mso]> <!-- --> <table class=3D""element t-spacer t-spacer-mobile"" style=
+=3D""max-width: 600px; line-height: 1.5; letter-spacing: 0.03em; display: no=
+ne;""> <tbody> <tr> <td style=3D""padding: 0px; height: 0.5em;"" height=3D""8"">=
+</td> </tr> </tbody> </table> <!--<![endif]--> <table class=3D""element t-sp=
+acer t-spacer-desktop"" style=3D""max-width: 600px; line-height: 1.5; letter-=
+spacing: 0.03em;""> <tbody> <tr> <td style=3D""padding: 0px; height: 1em;"" he=
+ight=3D""16""></td> </tr> </tbody> </table>
+</td></tr></table>
+</td></tr></table></td></tr></tbody></table>
+</td> </tr> <tr><td class=3D""t-email-footer-cell"" style=3D""padding: 0px;"">
+<div class=3D""t-email-footer"" style=3D""width: 100%; padding: 0.75em 0; marg=
+in: 0 auto; text-align: center; color: #70767c; font-size: 0.75em;""> This e=
+mail was sent to you by <span class=3D""company-name"">SSA-Statement-Desk</sp=
+an> <div class=3D""address"" style=3D""line-height: 1.4em; margin: 0.5em 0 1.2=
+5em;""> <span>8 Steeple Ind Est</span> <br> <span>Antrim, County Antrim, BT4=
+1 1AB</span> <br> <span>United Kingdom</span> <br> </div> <div class=3D""add=
+ress"" style=3D""line-height: 1.4em; margin: 0.5em 0 1.25em;""> 028 2501 3555 =
+=C2=A0|=C2=A0 <a href=3D""http://click.promote.weebly.com/ls/click?upn=3Du00=
+1.OwYvcFSZPrzQYnOZWQYFBHrlghftyGXjBi-2B-2Bf1jwCEyYGX2rGn1wS-2B-2FNAY1K2OGQ1=
+Bgf_W4Sj9O1007vq-2FtxXPLfh68F1ou-2BZrS-2Fxjd2evFVb6PfTfdKszXvUm0SOqwpD2SE9p=
+3ZnvfFP0-2BlrICLH9HcDQMSzuKxL768PH4rKZ2hFSV7X6bBuw0iHOTcYh07XS9yqBSQNkFDRPb=
+-2B6Zjn9iWYJNvTRPvYXmSmX-2FITJGRdru5qqcuKyOWP0qVprEW7sbH52Ok5ASvCfqt4gxAgVd=
+d6K-2FVd8UsygWWVAneHtKnjLzkKVtGumtqPMLZOmJlsMXgXMvSH2CY4YS5H5Yd5z6eLA4pDvfx=
+QWeEk3Cn1XMEtjnuJvUMHQdI7T9ksTsPyVZQ2t66CoBVfjwhj2BX5Kox2Lbfoffas3s5Tcx77Ek=
+Yn-2FT0AczKiUuF08LoMT04jxaSJut69oHGMCci5WcFRHk9QjQQAf8SJI04fJ596X7zylbhmPZ2=
+ALkYcTrKhUHO7x0j-2FkxwskIGJC-2BlmFguUDFQEMe8TcxBfCsxhVw-2FjOPl1W2Lf9ULe5zaX=
+-2BaMaG9Sm0H5LZXn8-2FsNFznIsImjov0dqW1Exnrkes7pWTJLadXMzR8PbchS70-2FqHUeu3r=
+SjcPQVEz"" target=3D""_blank"" style=3D""text-decoration: none; color: #2990ea;=
+"">www.stockmasteragri.com</a> </div> <div class=3D""address"" style=3D""line-h=
+eight: 1.4em; margin: 0.5em 0 1.25em;"">info@stockmasteragri.com</div> </div=
+> </td></tr> </table> </td> </tr> </table> <img src=3D""http://click.promote=
+.weebly.com/wf/open?upn=3Du001.Aut7R1II30kiZNOLJfWd2faMzFMaSTe-2BEGvOfRdvvm=
+7hWZGrp4O7syXqzyhiZPTe4lEvdKX883QNhqiv8V5fByRJe18N01lhkOitTUY-2BmYNsH5OYpjN=
+VQk9rxdEwIuzu5wGLaYvei1eomgBPzBOcjJ0FY3uTG47D1YuPWbAi8d3tbNHG6Xe8RS6cYPTZvV=
+45-2Ft7OsRIjsSfiSEVYa6-2FH-2FbwrbOJu3DLV87nm00mmdDs0qqY1mdG4JTFXBHQsMAw0-2F=
+eha86EVMoWuuRPFTKxG-2BwbJ5gt0CMZbt1a9UowQzE2R0r60bMv4ozsmeYZG6bjyL8H6ygplO-=
+2FNuzynxngOxN5glGyKQnLHAERnQpZpaJ4KAkt-2BoXFjeEKGQa9PW3-2BsWPd-2BopzN1NxsZL=
+vOquA-2BHcEooeKMccU5FBJNyH9211YoxOGWwn3r3cc8E6Y0tbNc0xjSR3N3CM8ZjkE6yHVGBTx=
+AzoJqi9O8cehocZSuS4GYSVgz-2F-2BnPxBgLKoELA-2FtNBlV0K1BqkERErtP-2FafvJ1aATTZ=
+l-2Fa5-2Fs0vn8CXg28rV7A5hUm7beS9NzzJqpB2cJV"" alt=3D"""" width=3D""1"" height=3D=
+""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;border=
+-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;marg=
+in-right:0 !important;margin-left:0 !important;padding-top:0 !important;pad=
+ding-bottom:0 !important;padding-right:0 !important;padding-left:0 !importa=
+nt;""/></body>
+</html>
+--69c05ed5e6136d03960523ec5c5d0ee1d36ae2bfc9d1b6d3a9aeaf4ce5d0--
+","""SSA-Statement-Desk"" <info@stockmasteragri.com>",jillmcmaw444@gmail.com,2025-02-24,185.148.181.3,United States,en,users/23017485/1c9ba6d2-a0a6-4012-a7bd-86ef56d73b82.json

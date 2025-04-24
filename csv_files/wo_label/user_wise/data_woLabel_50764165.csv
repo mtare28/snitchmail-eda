@@ -1,0 +1,906 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50764165,2MHfNh-9Q2O6lPeVgpsKdQ.recvd-69cbc48b94-f5rdb-1-67BD6C68-D.0,cHJvY2Vzc2VkLTUwNzY0MTY1LTJNSGZOaC05UTJPNmxQZVZncHNLZFEtMA,h,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yuew.carolecarlao.us;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=72b9A4sPn6diHkeAuH207g5VWOMYQbMxptrNErMsuCo=;
+	b=nc1fEuqiJBTde4U8N3THuhNQx9PH+AbnH8Tc7hjzSiC9UZD86TOJHyoC4IrtITJD01Pf
+	dO+ZlNYRP3kKb6NdKx3y8kaT5+kQwt+2ilk4NdZZawk/gYnOlYRpx/5ZBTg18v/Ws/kNcA
+	2Z934rsN10vJvbh12q4NRzJpiBYu7L0vxnsOmEzXB8/v6TvuHd8hNZHmu62VT+8ITDJ9X0
+	6w/0VTseE8sbrGYBtANWW0fTsu7zdlIjPZd6bxG+Wf/8NX2+dFSVz8ZEWGGJsTOr1myQfL
+	lMDww0CKiEEh0pW99XJE0olJxck+KSM9+YE4DhTYLPoRE4E33oNIT2jZ0K4hSgAg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=72b9A4sPn6diHkeAuH207g5VWOMYQbMxptrNErMsuCo=;
+	b=zOjaLIWCHSV8yg6EZdyrtQttuz8AVqfu9n9u4ZTFmpI51Eew48McSx/a41aEDK7azPxu
+	Fg1IDqRKMXGu7hAOQeScCquyUM6Wy5FoVvZzI7g9M5VaWnaSAKg+nH3yThCUTeVpGGTz98
+	SQCegPcyRl2Q40fEjhpbdMYC2Kli7m4XI=
+Received: by recvd-69cbc48b94-f5rdb with SMTP id recvd-69cbc48b94-f5rdb-1-67BD6C68-D
+	2025-02-25 07:08:24.306365304 +0000 UTC m=+8848017.501559217
+Received: from NTA3NjQxNjU (unknown)
+	by geopod-ismtpd-0 (SG) with HTTP
+	id 2MHfNh-9Q2O6lPeVgpsKdQ
+	Tue, 25 Feb 2025 07:08:23.959 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Tue, 25 Feb 2025 07:08:24 +0000 (UTC)
+From: h <Horchow@yuew.carolecarlao.us>
+Mime-Version: 1.0
+Message-ID: <2MHfNh-9Q2O6lPeVgpsKdQ@geopod-ismtpd-0>
+Subject: h
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ElNh+33LAMuNJnBvsFAZoZAwus0xoKkutc2Dng60lnOi9c7jt4b0+kTRnO?=
+ =?us-ascii?Q?eUdTAJyIce2iq+fzH9B0SQchgeIdfdzCyFStBoV?=
+ =?us-ascii?Q?Pjpx2okhOGniOCGGO5TIn59w+Pn5Y8QK5OpfJNa?=
+ =?us-ascii?Q?hr4owxPdHGRhU+BWN4Gfo88lNVVL01WlEggjUUa?=
+ =?us-ascii?Q?13yZ7KvPGLIxjt8I0+Zbrx340drmEW7jN+cIZY6?=
+ =?us-ascii?Q?r9CwOrx6k2ROw+8un9Y82sQbgUhacexleWLDq=2F0?= =?us-ascii?Q?NxAN?=
+To: derrickdeleon123@aol.com
+X-Entity-ID: u001.VVDYH3fHIn+7m3YXxrENNQ==
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"" lang=3D""en""=
+>
+  <head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D5"" />
+    <meta name=3D""format-detection"" content=3D""date=3Dno"">
+    <meta name=3D""format-detection"" content=3D""telephone=3Dno"">
+    <meta name=3D""x-apple-disable-message-reformatting"">
+    <title>Horchow</title>
+    <style type=3D""text/css"">
+
+      body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; margin:0 auto!important; padding:0!important; max-width:5=
+50px!important;}
+
+      .ReadMsgBody {width: 100%;}
+      .ExternalClass {line-height: 100% !important;}
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td
+      {line-height: 100% !important;}
+
+
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; padding:0;}
+      table td {border-collapse: collapse;}
+	 =20
+	  .preheader {
+ display: none !important;
+ visibility: hidden;
+ opacity: 0;
+ color: transparent;
+ height: 0;
+ width: 0;
+}
+
+      @media only screen and (max-width: 600px){
+        .font16{font-size:16px!important;line-height:18px!important}.conten=
+ttable{width:414px!important;min-width:inherit!important}.produtcs1{width:1=
+38px!important;height:auto!important}.mobile4{width:100%!important;height:a=
+uto!important;}.produtcs{width:128px!important;height:auto!important}.spcr1=
+0{width:10%!important;height:auto!important}.hide{display:none!important}.l=
+ogo{width:253px!important;height:77px!important}.mobile{width:100%!importan=
+t;height:auto!important;}.footerbrd{width:12px!important;height:200px!impor=
+tant}
+      }
+
+    </style>
+    <style type=3D""text/css"">
+      @media only screen and (max-width: 600px){
+        /*Hamburguer fix IOS9*/
+        body { -webkit-animation: bugfix infinite 1s; }=20
+        @-webkit-keyframes bugfix { from { padding: 0; } to { padding: 0; }=
+ }
+        /*Hamburguer fix IOS9*/
+
+        .turnOnMobile{
+          display: block !important;
+          width: 70px !important;
+          height: auto !important;
+          padding: 0;
+          max-height: inherit !important;
+          overflow: visible !important;
+          position: relative !important;
+        }
+
+        /*Hamburger_nav*/
+        *[class].abs {position:absolute !important;right:0 !important; }
+        *[class].right0 { right:0 !important; }
+        *[class].hauto {height:auto !important;}
+        *[class].top0 {top: 0 !important;}
+        *[class].show {display: block !important; width: auto !important; o=
+verflow: visible !important; float: none !important; max-height: inherit !i=
+mportant; line-height: inherit !important; width:278px;}
+        *[class].navbar-checkbox { display: none; }
+        *[class].hamburger, *[class].hamburger > img{ display: block;}
+        *[class].close, *[class].close > img{ display: none;}
+        *[class].menu {
+          visibility: hidden;
+          opacity: 0;
+          height: auto !important;
+          position: absolute !important;
+          top: 77px !important;
+          left: 0px !important;
+          transition: opacity .25s ease-in-out;
+          -moz-transition: opacity .25s ease-in-out;
+          -webkit-transition: opacity .25s ease-in-out;
+
+          border-top: none;
+          background-color:#ffffff;
+          box-shadow: 4px 4px 5px -4px #999999 !important;
+          display:none;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].hamburger {
+          display: none !important;
+
+        }
+        *[class].navbar-checkbox:checked ~ *[class].close, *[class].navbar-=
+checkbox:checked ~ *[class].close > img {
+          display: block !important; width: auto !important; overflow: visi=
+ble !important; float: none !important; max-height: inherit !important; lin=
+e-height: inherit !important;
+          position: absolute !important;
+          top:0px !important;
+          z-index: 11 !important;
+          left: 0px !important;
+          visibility: visible !important;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].menu {
+          visibility: visible !important;
+          opacity: 1;
+          z-index: 10 !important;
+          transition-delay: 0s;
+          display:block;
+        }
+
+        *[class].hamburger,  *[class].close{
+          cursor:pointer !important;
+
+        }
+        /*Hamburger_nav*/
+
+      }
+
+    </style>=09
+
+    <style type=3D""text/css"">
+      .gmailfix {
+        display:none;
+        display:none!important;
+      }
+    </style>
+  </head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"" lang=3D""en""=
+>
+  <head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D5"" />
+    <meta name=3D""format-detection"" content=3D""date=3Dno"">
+    <meta name=3D""format-detection"" content=3D""telephone=3Dno"">
+    <meta name=3D""x-apple-disable-message-reformatting"">
+    <title>Horchow</title>
+    <style type=3D""text/css"">
+
+      body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; margin:0 auto!important; padding:0!important; max-width:5=
+50px!important;}
+
+      .ReadMsgBody {width: 100%;}
+      .ExternalClass {line-height: 100% !important;}
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td
+      {line-height: 100% !important;}
+
+
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; padding:0;}
+      table td {border-collapse: collapse;}
+	 =20
+	  .preheader {
+ display: none !important;
+ visibility: hidden;
+ opacity: 0;
+ color: transparent;
+ height: 0;
+ width: 0;
+}
+
+      @media only screen and (max-width: 600px){
+        .font16{font-size:16px!important;line-height:18px!important}.conten=
+ttable{width:414px!important;min-width:inherit!important}.produtcs1{width:1=
+38px!important;height:auto!important}.mobile4{width:100%!important;height:a=
+uto!important;}.produtcs{width:128px!important;height:auto!important}.spcr1=
+0{width:10%!important;height:auto!important}.hide{display:none!important}.l=
+ogo{width:253px!important;height:77px!important}.mobile{width:100%!importan=
+t;height:auto!important;}.footerbrd{width:12px!important;height:200px!impor=
+tant}
+      }
+
+    </style>
+    <style type=3D""text/css"">
+      @media only screen and (max-width: 600px){
+        /*Hamburguer fix IOS9*/
+        body { -webkit-animation: bugfix infinite 1s; }=20
+        @-webkit-keyframes bugfix { from { padding: 0; } to { padding: 0; }=
+ }
+        /*Hamburguer fix IOS9*/
+
+        .turnOnMobile{
+          display: block !important;
+          width: 70px !important;
+          height: auto !important;
+          padding: 0;
+          max-height: inherit !important;
+          overflow: visible !important;
+          position: relative !important;
+        }
+
+        /*Hamburger_nav*/
+        *[class].abs {position:absolute !important;right:0 !important; }
+        *[class].right0 { right:0 !important; }
+        *[class].hauto {height:auto !important;}
+        *[class].top0 {top: 0 !important;}
+        *[class].show {display: block !important; width: auto !important; o=
+verflow: visible !important; float: none !important; max-height: inherit !i=
+mportant; line-height: inherit !important; width:278px;}
+        *[class].navbar-checkbox { display: none; }
+        *[class].hamburger, *[class].hamburger > img{ display: block;}
+        *[class].close, *[class].close > img{ display: none;}
+        *[class].menu {
+          visibility: hidden;
+          opacity: 0;
+          height: auto !important;
+          position: absolute !important;
+          top: 77px !important;
+          left: 0px !important;
+          transition: opacity .25s ease-in-out;
+          -moz-transition: opacity .25s ease-in-out;
+          -webkit-transition: opacity .25s ease-in-out;
+
+          border-top: none;
+          background-color:#ffffff;
+          box-shadow: 4px 4px 5px -4px #999999 !important;
+          display:none;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].hamburger {
+          display: none !important;
+
+        }
+        *[class].navbar-checkbox:checked ~ *[class].close, *[class].navbar-=
+checkbox:checked ~ *[class].close > img {
+          display: block !important; width: auto !important; overflow: visi=
+ble !important; float: none !important; max-height: inherit !important; lin=
+e-height: inherit !important;
+          position: absolute !important;
+          top:0px !important;
+          z-index: 11 !important;
+          left: 0px !important;
+          visibility: visible !important;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].menu {
+          visibility: visible !important;
+          opacity: 1;
+          z-index: 10 !important;
+          transition-delay: 0s;
+          display:block;
+        }
+
+        *[class].hamburger,  *[class].close{
+          cursor:pointer !important;
+
+        }
+        /*Hamburger_nav*/
+
+      }
+
+    </style>=09
+
+    <style type=3D""text/css"">
+      .gmailfix {
+        display:none;
+        display:none!important;
+      }
+    </style>
+  </head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"" lang=3D""en""=
+>
+  <head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D5"" />
+    <meta name=3D""format-detection"" content=3D""date=3Dno"">
+    <meta name=3D""format-detection"" content=3D""telephone=3Dno"">
+    <meta name=3D""x-apple-disable-message-reformatting"">
+    <title>Horchow</title>
+    <style type=3D""text/css"">
+
+      body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; margin:0 auto!important; padding:0!important; max-width:5=
+50px!important;}
+
+      .ReadMsgBody {width: 100%;}
+      .ExternalClass {line-height: 100% !important;}
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td
+      {line-height: 100% !important;}
+
+
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; padding:0;}
+      table td {border-collapse: collapse;}
+	 =20
+	  .preheader {
+ display: none !important;
+ visibility: hidden;
+ opacity: 0;
+ color: transparent;
+ height: 0;
+ width: 0;
+}
+
+      @media only screen and (max-width: 600px){
+        .font16{font-size:16px!important;line-height:18px!important}.conten=
+ttable{width:414px!important;min-width:inherit!important}.produtcs1{width:1=
+38px!important;height:auto!important}.mobile4{width:100%!important;height:a=
+uto!important;}.produtcs{width:128px!important;height:auto!important}.spcr1=
+0{width:10%!important;height:auto!important}.hide{display:none!important}.l=
+ogo{width:253px!important;height:77px!important}.mobile{width:100%!importan=
+t;height:auto!important;}.footerbrd{width:12px!important;height:200px!impor=
+tant}
+      }
+
+    </style>
+    <style type=3D""text/css"">
+      @media only screen and (max-width: 600px){
+        /*Hamburguer fix IOS9*/
+        body { -webkit-animation: bugfix infinite 1s; }=20
+        @-webkit-keyframes bugfix { from { padding: 0; } to { padding: 0; }=
+ }
+        /*Hamburguer fix IOS9*/
+
+        .turnOnMobile{
+          display: block !important;
+          width: 70px !important;
+          height: auto !important;
+          padding: 0;
+          max-height: inherit !important;
+          overflow: visible !important;
+          position: relative !important;
+        }
+
+        /*Hamburger_nav*/
+        *[class].abs {position:absolute !important;right:0 !important; }
+        *[class].right0 { right:0 !important; }
+        *[class].hauto {height:auto !important;}
+        *[class].top0 {top: 0 !important;}
+        *[class].show {display: block !important; width: auto !important; o=
+verflow: visible !important; float: none !important; max-height: inherit !i=
+mportant; line-height: inherit !important; width:278px;}
+        *[class].navbar-checkbox { display: none; }
+        *[class].hamburger, *[class].hamburger > img{ display: block;}
+        *[class].close, *[class].close > img{ display: none;}
+        *[class].menu {
+          visibility: hidden;
+          opacity: 0;
+          height: auto !important;
+          position: absolute !important;
+          top: 77px !important;
+          left: 0px !important;
+          transition: opacity .25s ease-in-out;
+          -moz-transition: opacity .25s ease-in-out;
+          -webkit-transition: opacity .25s ease-in-out;
+
+          border-top: none;
+          background-color:#ffffff;
+          box-shadow: 4px 4px 5px -4px #999999 !important;
+          display:none;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].hamburger {
+          display: none !important;
+
+        }
+        *[class].navbar-checkbox:checked ~ *[class].close, *[class].navbar-=
+checkbox:checked ~ *[class].close > img {
+          display: block !important; width: auto !important; overflow: visi=
+ble !important; float: none !important; max-height: inherit !important; lin=
+e-height: inherit !important;
+          position: absolute !important;
+          top:0px !important;
+          z-index: 11 !important;
+          left: 0px !important;
+          visibility: visible !important;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].menu {
+          visibility: visible !important;
+          opacity: 1;
+          z-index: 10 !important;
+          transition-delay: 0s;
+          display:block;
+        }
+
+        *[class].hamburger,  *[class].close{
+          cursor:pointer !important;
+
+        }
+        /*Hamburger_nav*/
+
+      }
+
+    </style>=09
+
+    <style type=3D""text/css"">
+      .gmailfix {
+        display:none;
+        display:none!important;
+      }
+    </style>
+  </head><!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""ht=
+tp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"" lang=3D""en""=
+>
+  <head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D5"" />
+    <meta name=3D""format-detection"" content=3D""date=3Dno"">
+    <meta name=3D""format-detection"" content=3D""telephone=3Dno"">
+    <meta name=3D""x-apple-disable-message-reformatting"">
+    <title>Horchow</title>
+    <style type=3D""text/css"">
+
+      body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; margin:0 auto!important; padding:0!important; max-width:5=
+50px!important;}
+
+      .ReadMsgBody {width: 100%;}
+      .ExternalClass {line-height: 100% !important;}
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td
+      {line-height: 100% !important;}
+
+
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; padding:0;}
+      table td {border-collapse: collapse;}
+	 =20
+	  .preheader {
+ display: none !important;
+ visibility: hidden;
+ opacity: 0;
+ color: transparent;
+ height: 0;
+ width: 0;
+}
+
+      @media only screen and (max-width: 600px){
+        .font16{font-size:16px!important;line-height:18px!important}.conten=
+ttable{width:414px!important;min-width:inherit!important}.produtcs1{width:1=
+38px!important;height:auto!important}.mobile4{width:100%!important;height:a=
+uto!important;}.produtcs{width:128px!important;height:auto!important}.spcr1=
+0{width:10%!important;height:auto!important}.hide{display:none!important}.l=
+ogo{width:253px!important;height:77px!important}.mobile{width:100%!importan=
+t;height:auto!important;}.footerbrd{width:12px!important;height:200px!impor=
+tant}
+      }
+
+    </style>
+    <style type=3D""text/css"">
+      @media only screen and (max-width: 600px){
+        /*Hamburguer fix IOS9*/
+        body { -webkit-animation: bugfix infinite 1s; }=20
+        @-webkit-keyframes bugfix { from { padding: 0; } to { padding: 0; }=
+ }
+        /*Hamburguer fix IOS9*/
+
+        .turnOnMobile{
+          display: block !important;
+          width: 70px !important;
+          height: auto !important;
+          padding: 0;
+          max-height: inherit !important;
+          overflow: visible !important;
+          position: relative !important;
+        }
+
+        /*Hamburger_nav*/
+        *[class].abs {position:absolute !important;right:0 !important; }
+        *[class].right0 { right:0 !important; }
+        *[class].hauto {height:auto !important;}
+        *[class].top0 {top: 0 !important;}
+        *[class].show {display: block !important; width: auto !important; o=
+verflow: visible !important; float: none !important; max-height: inherit !i=
+mportant; line-height: inherit !important; width:278px;}
+        *[class].navbar-checkbox { display: none; }
+        *[class].hamburger, *[class].hamburger > img{ display: block;}
+        *[class].close, *[class].close > img{ display: none;}
+        *[class].menu {
+          visibility: hidden;
+          opacity: 0;
+          height: auto !important;
+          position: absolute !important;
+          top: 77px !important;
+          left: 0px !important;
+          transition: opacity .25s ease-in-out;
+          -moz-transition: opacity .25s ease-in-out;
+          -webkit-transition: opacity .25s ease-in-out;
+
+          border-top: none;
+          background-color:#ffffff;
+          box-shadow: 4px 4px 5px -4px #999999 !important;
+          display:none;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].hamburger {
+          display: none !important;
+
+        }
+        *[class].navbar-checkbox:checked ~ *[class].close, *[class].navbar-=
+checkbox:checked ~ *[class].close > img {
+          display: block !important; width: auto !important; overflow: visi=
+ble !important; float: none !important; max-height: inherit !important; lin=
+e-height: inherit !important;
+          position: absolute !important;
+          top:0px !important;
+          z-index: 11 !important;
+          left: 0px !important;
+          visibility: visible !important;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].menu {
+          visibility: visible !important;
+          opacity: 1;
+          z-index: 10 !important;
+          transition-delay: 0s;
+          display:block;
+        }
+
+        *[class].hamburger,  *[class].close{
+          cursor:pointer !important;
+
+        }
+        /*Hamburger_nav*/
+
+      }
+
+    </style>=09
+
+    <style type=3D""text/css"">
+      .gmailfix {
+        display:none;
+        display:none!important;
+      }
+    </style>
+  </head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"" lang=3D""en""=
+>
+  <head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D5"" />
+    <meta name=3D""format-detection"" content=3D""date=3Dno"">
+    <meta name=3D""format-detection"" content=3D""telephone=3Dno"">
+    <meta name=3D""x-apple-disable-message-reformatting"">
+    <title>Horchow</title>
+    <style type=3D""text/css"">
+
+      body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; margin:0 auto!important; padding:0!important; max-width:5=
+50px!important;}
+
+      .ReadMsgBody {width: 100%;}
+      .ExternalClass {line-height: 100% !important;}
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td
+      {line-height: 100% !important;}
+
+
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; padding:0;}
+      table td {border-collapse: collapse;}
+	 =20
+	  .preheader {
+ display: none !important;
+ visibility: hidden;
+ opacity: 0;
+ color: transparent;
+ height: 0;
+ width: 0;
+}
+
+      @media only screen and (max-width: 600px){
+        .font16{font-size:16px!important;line-height:18px!important}.conten=
+ttable{width:414px!important;min-width:inherit!important}.produtcs1{width:1=
+38px!important;height:auto!important}.mobile4{width:100%!important;height:a=
+uto!important;}.produtcs{width:128px!important;height:auto!important}.spcr1=
+0{width:10%!important;height:auto!important}.hide{display:none!important}.l=
+ogo{width:253px!important;height:77px!important}.mobile{width:100%!importan=
+t;height:auto!important;}.footerbrd{width:12px!important;height:200px!impor=
+tant}
+      }
+
+    </style>
+    <style type=3D""text/css"">
+      @media only screen and (max-width: 600px){
+        /*Hamburguer fix IOS9*/
+        body { -webkit-animation: bugfix infinite 1s; }=20
+        @-webkit-keyframes bugfix { from { padding: 0; } to { padding: 0; }=
+ }
+        /*Hamburguer fix IOS9*/
+
+        .turnOnMobile{
+          display: block !important;
+          width: 70px !important;
+          height: auto !important;
+          padding: 0;
+          max-height: inherit !important;
+          overflow: visible !important;
+          position: relative !important;
+        }
+
+        /*Hamburger_nav*/
+        *[class].abs {position:absolute !important;right:0 !important; }
+        *[class].right0 { right:0 !important; }
+        *[class].hauto {height:auto !important;}
+        *[class].top0 {top: 0 !important;}
+        *[class].show {display: block !important; width: auto !important; o=
+verflow: visible !important; float: none !important; max-height: inherit !i=
+mportant; line-height: inherit !important; width:278px;}
+        *[class].navbar-checkbox { display: none; }
+        *[class].hamburger, *[class].hamburger > img{ display: block;}
+        *[class].close, *[class].close > img{ display: none;}
+        *[class].menu {
+          visibility: hidden;
+          opacity: 0;
+          height: auto !important;
+          position: absolute !important;
+          top: 77px !important;
+          left: 0px !important;
+          transition: opacity .25s ease-in-out;
+          -moz-transition: opacity .25s ease-in-out;
+          -webkit-transition: opacity .25s ease-in-out;
+
+          border-top: none;
+          background-color:#ffffff;
+          box-shadow: 4px 4px 5px -4px #999999 !important;
+          display:none;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].hamburger {
+          display: none !important;
+
+        }
+        *[class].navbar-checkbox:checked ~ *[class].close, *[class].navbar-=
+checkbox:checked ~ *[class].close > img {
+          display: block !important; width: auto !important; overflow: visi=
+ble !important; float: none !important; max-height: inherit !important; lin=
+e-height: inherit !important;
+          position: absolute !important;
+          top:0px !important;
+          z-index: 11 !important;
+          left: 0px !important;
+          visibility: visible !important;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].menu {
+          visibility: visible !important;
+          opacity: 1;
+          z-index: 10 !important;
+          transition-delay: 0s;
+          display:block;
+        }
+
+        *[class].hamburger,  *[class].close{
+          cursor:pointer !important;
+
+        }
+        /*Hamburger_nav*/
+
+      }
+
+    </style>=09
+
+    <style type=3D""text/css"">
+      .gmailfix {
+        display:none;
+        display:none!important;
+      }
+    </style>
+  </head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"" lang=3D""en""=
+>
+  <head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1, maximum-scale=3D5"" />
+    <meta name=3D""format-detection"" content=3D""date=3Dno"">
+    <meta name=3D""format-detection"" content=3D""telephone=3Dno"">
+    <meta name=3D""x-apple-disable-message-reformatting"">
+    <title>Horchow</title>
+    <style type=3D""text/css"">
+
+      body {width:100% !important; -webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; margin:0 auto!important; padding:0!important; max-width:5=
+50px!important;}
+
+      .ReadMsgBody {width: 100%;}
+      .ExternalClass {line-height: 100% !important;}
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td
+      {line-height: 100% !important;}
+
+
+      table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rsp=
+ace:0pt; padding:0;}
+      table td {border-collapse: collapse;}
+	 =20
+	  .preheader {
+ display: none !important;
+ visibility: hidden;
+ opacity: 0;
+ color: transparent;
+ height: 0;
+ width: 0;
+}
+
+      @media only screen and (max-width: 600px){
+        .font16{font-size:16px!important;line-height:18px!important}.conten=
+ttable{width:414px!important;min-width:inherit!important}.produtcs1{width:1=
+38px!important;height:auto!important}.mobile4{width:100%!important;height:a=
+uto!important;}.produtcs{width:128px!important;height:auto!important}.spcr1=
+0{width:10%!important;height:auto!important}.hide{display:none!important}.l=
+ogo{width:253px!important;height:77px!important}.mobile{width:100%!importan=
+t;height:auto!important;}.footerbrd{width:12px!important;height:200px!impor=
+tant}
+      }
+
+    </style>
+    <style type=3D""text/css"">
+      @media only screen and (max-width: 600px){
+        /*Hamburguer fix IOS9*/
+        body { -webkit-animation: bugfix infinite 1s; }=20
+        @-webkit-keyframes bugfix { from { padding: 0; } to { padding: 0; }=
+ }
+        /*Hamburguer fix IOS9*/
+
+        .turnOnMobile{
+          display: block !important;
+          width: 70px !important;
+          height: auto !important;
+          padding: 0;
+          max-height: inherit !important;
+          overflow: visible !important;
+          position: relative !important;
+        }
+
+        /*Hamburger_nav*/
+        *[class].abs {position:absolute !important;right:0 !important; }
+        *[class].right0 { right:0 !important; }
+        *[class].hauto {height:auto !important;}
+        *[class].top0 {top: 0 !important;}
+        *[class].show {display: block !important; width: auto !important; o=
+verflow: visible !important; float: none !important; max-height: inherit !i=
+mportant; line-height: inherit !important; width:278px;}
+        *[class].navbar-checkbox { display: none; }
+        *[class].hamburger, *[class].hamburger > img{ display: block;}
+        *[class].close, *[class].close > img{ display: none;}
+        *[class].menu {
+          visibility: hidden;
+          opacity: 0;
+          height: auto !important;
+          position: absolute !important;
+          top: 77px !important;
+          left: 0px !important;
+          transition: opacity .25s ease-in-out;
+          -moz-transition: opacity .25s ease-in-out;
+          -webkit-transition: opacity .25s ease-in-out;
+
+          border-top: none;
+          background-color:#ffffff;
+          box-shadow: 4px 4px 5px -4px #999999 !important;
+          display:none;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].hamburger {
+          display: none !important;
+
+        }
+        *[class].navbar-checkbox:checked ~ *[class].close, *[class].navbar-=
+checkbox:checked ~ *[class].close > img {
+          display: block !important; width: auto !important; overflow: visi=
+ble !important; float: none !important; max-height: inherit !important; lin=
+e-height: inherit !important;
+          position: absolute !important;
+          top:0px !important;
+          z-index: 11 !important;
+          left: 0px !important;
+          visibility: visible !important;
+        }
+        *[class].navbar-checkbox:checked ~ *[class].menu {
+          visibility: visible !important;
+          opacity: 1;
+          z-index: 10 !important;
+          transition-delay: 0s;
+          display:block;
+        }
+
+        *[class].hamburger,  *[class].close{
+          cursor:pointer !important;
+
+        }
+        /*Hamburger_nav*/
+
+      }
+
+    </style>=09
+
+    <style type=3D""text/css"">
+      .gmailfix {
+        display:none;
+        display:none!important;
+      }
+    </style>
+  </head>
+
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://junctionwood.pics/93da34d72bcab891e740/5c40db=
+bb2d7bcfea23"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unla=
+yer.com/projects/264875/1740464557982-Screenshot 2025-02-25 115119.png"" sty=
+le=3D""width: 399px; height: 635px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://junctionwood.pics/93da34d72bcab891e740/5c40db=
+bb2d7bcfea23"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unla=
+yer.com/projects/264875/1740464564017-Screenshot 2025-02-25 115208.png"" sty=
+le=3D""width: 402px; height: 270px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://junctionwood.pics/93da34d72bcab891e740/5c40db=
+bb2d7bcfea23un"" target=3D""_blank""><img alt=3D""unsub"" src=3D""https://assets.=
+unlayer.com/projects/264875/1740287356069-unnamed (1).png"" style=3D""width: =
+400px; height: 66px;"" /></a></p>
+    <img src=3D""https://u50764165.ct.sendgrid.net/wf/open?upn=3Du001.Ad4ca2=
+yDq5fBh8wkzUHsuzqvcrAsWBn4o5Nk02gPlZc0U6c6Q4vBmTu8ldyuvxigbJUeXecZ-2BPDnZ3m=
+P6kmx0S9KjPDLRQ3wuu5-2FbRYId3XgGNegLrPegagyMciNI4BX96UyAmz9s7IbHTz5YmGRfyWn=
+Yny-2BGYzP4K1HSuQVuhdJ4rZLuK-2By-2FviwVjLv-2F1LJJeGtR2qI5zbQAkR-2FgE1jSFn0K=
+O5UDLvHFX8VJl68AHg-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""h"" <Horchow@yuew.carolecarlao.us>",derrickdeleon123@aol.com,2025-02-25,62.171.158.57,Germany,vi,users/50764165/79023bef-8ad5-41b2-89a9-58e0f9b89faa.json

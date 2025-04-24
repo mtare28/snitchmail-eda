@@ -1,0 +1,328 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51717757,2dRn6nxxRw-tK9VAE-i67g.recvd-69cbc48b94-2tgq2-1-67ED41C6-15.21,cHJvY2Vzc2VkLTUxNzE3NzU3LTJkUm42bnh4UnctdEs5VkFFLWk2N2ctMjE,Order #WMT-982374 is Confirmed!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=KbZvkdvuADI9zUAFWXDqdINa9wvsvWVVT7f1KPtXRGo=;
+	b=nj7T5OXgbCTF5N2jUlj2I9hhDoxRV4m7N+6daNDNYFJ/05RW3/7Yliy0gxVix1JH2R5K
+	o6TTiNU/LMdYJoTn9MjNbfpSuLsypYNj04MFs972Yw3sKt0rJMeT4j/DXWjqD8yj4an2Z8
+	9XmCfF7xRk2G+VqBWX4hO0o1HnuIGgXD4=
+Received: by recvd-69cbc48b94-2tgq2 with SMTP id recvd-69cbc48b94-2tgq2-1-67ED41C6-15
+	2025-04-02 13:55:18.242022939 +0000 UTC m=+11982841.571755897
+Received: from NTE3MTc3NTc (unknown)
+	by geopod-ismtpd-37 (SG) with HTTP
+	id 2dRn6nxxRw-tK9VAE-i67g
+	Wed, 02 Apr 2025 13:55:18.199 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=3388355c1658ad9c0db2489d6d008343d6aa7725d2373a16241ea0d99aef
+Date: Wed, 02 Apr 2025 13:55:18 +0000 (UTC)
+From: Terry <teresac67787@gmail.com>
+Mime-Version: 1.0
+Message-ID: <2dRn6nxxRw-tK9VAE-i67g@geopod-ismtpd-37>
+Subject: Order #WMT-982374 is Confirmed!
+Reply-To: teresac67787@gmail.com
+List-Unsubscribe: <https://mc.sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EjkPFx7gC2EoL0XnziYHvp2ykks6r+MN5p4q7iw4sUoYzprkYmRzjjUuqW?=
+ =?us-ascii?Q?EQPySufpj8y6lez047zq5z5GrTbDE1sAf3BH2rB?=
+ =?us-ascii?Q?6KQIkQVPBcKBEdBjjvGyr23FPhFlLaJPabZ61h+?=
+ =?us-ascii?Q?=2F50WggFGMV7w=2FBQiF6AqFnZvkg3zkr5sgOKJWw0?=
+ =?us-ascii?Q?tIrGSqPtndL7boOd0j4B=2FHtd6it4TPm1SMeL6iY?=
+ =?us-ascii?Q?XIT0L5+F0j+O6164gpIvcYWFwNj78thyulBiGpg?= =?us-ascii?Q?8dj0?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfcqzGH2LUedpVv9FFHcTJInnfo?=
+ =?us-ascii?Q?TO0ac=2FDqvHJhEENPHC9gDgTj6YaMyBnD0KAw5X8?=
+ =?us-ascii?Q?h+Y8IKRpxopn8WVnVTHBTHCJoluXU7Y8BF=2Fv8LH?=
+ =?us-ascii?Q?DCbO5SnAYU33AxaS4D6adpxkbmMEgiq2jUv+9bU?=
+ =?us-ascii?Q?9IUTPTmg1fAahVkdEUMBZCkAXRrZefzaks=2FI3Z=2F?=
+ =?us-ascii?Q?Gp1qgvWUs46dzes1wpzkjmGzTLnTPS9k7TkNLr+?=
+ =?us-ascii?Q?JHwupSXtYdbc4rIsmmfbiexmFoeru6Y0345huD5?=
+ =?us-ascii?Q?uAO+oR0HwMoTRX301q5y1Kn75xDq0nryHweaKsr?=
+ =?us-ascii?Q?f+xWSgjWwZ5pg04qS6WLIDeqPcLs2AAKxM0N+c=2F?=
+ =?us-ascii?Q?txx+5kJiQo5EUazXvAE5MoudpqITlOCR3gy1Q9z?=
+ =?us-ascii?Q?tb2AnK4JNTPnFkoXbBedVEQuHUYBVA8XU65XOJR?=
+ =?us-ascii?Q?3kvrVhbYvAZD6HO0cP8ydxVSQwspvTVa1b7Ly8y?=
+ =?us-ascii?Q?y3=2FB+xm=2Fb1yru9eewNtojjBll4ClWj1DP8j20p3?=
+ =?us-ascii?Q?HAH6WDKIZ1gp1SCCrasTxKKKaN=2FbJC2Z3R2SwZ4?=
+ =?us-ascii?Q?2krla7GRNV3S94DH+KvMn3U?=
+To: 3lawtonkj@apps.harpercreek.net
+X-Entity-ID: u001.7/8oezxeGKlsBQShywhElw==
+
+--3388355c1658ad9c0db2489d6d008343d6aa7725d2373a16241ea0d99aef
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+************************
+Your Order is Confirmed!
+************************
+
+Dear Valued Customer,
+
+Thank you for shopping with Walmart! We're delighted to let you know that y=
+our order has been successfully processed and is now being prepared for shi=
+pment.
+
+-------------
+Order Details
+-------------
+
+Order Number: *WMT-982374*
+Product: *Apple MacBook Pro (M3, 16GB RAM, 512GB SSD)*
+Total Amount: $1,999.00
+Shipping: *FREE Standard Shipping*
+
+We'll send you a tracking number as soon as your package ships. You can exp=
+ect delivery within 3-5 business days.
+
+--------------------------
+Need Immediate Assistance?
+--------------------------
+
+If you didn't place this order or need to make changes, please contact us r=
+ight away:
+
+=F0=9F=93=9E Call Customer Support ( tel:8883504667 )
+
+Or dial directly: 888-350-4667
+
+We appreciate your business and look forward to serving you again soon!
+
+Thank you for choosing Walmart
+
+*Walmart Customer Support*
+
+Need help? Call us anytime: 888-350-4667 ( tel:8883504667 )
+
+=C2=A9 2023 Walmart Inc. All rights reserved.
+--3388355c1658ad9c0db2489d6d008343d6aa7725d2373a16241ea0d99aef
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D""en"">
+<head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>Your Walmart Order Confirmation</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=3DPoppins:wgh=
+t@300;400;600;700&display=3Dswap');
+       =20
+        body {
+            font-family: 'Poppins', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f7fa;
+            margin: 0;
+            padding: 0;
+        }
+        .email-container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #ffffff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background: linear-gradient(135deg, #0071ce 0%, #004b8d 100%);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+        .logo {
+            width: 120px;
+            margin-bottom: 15px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 26px;
+            font-weight: 700;
+        }
+        .content {
+            padding: 30px;
+        }
+        h2 {
+            color: #0071ce;
+            font-size: 20px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-weight: 600;
+            position: relative;
+            padding-bottom: 8px;
+        }
+        h2:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 50px;
+            height: 3px;
+            background: #ffc220;
+        }
+        .order-card {
+            background: #f8fafc;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            border-left: 4px solid #0071ce;
+        }
+        .order-detail {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .order-detail strong {
+            color: #0071ce;
+        }
+        .highlight {
+            font-weight: 700;
+            color: #004b8d;
+            font-size: 18px;
+        }
+        .cta-box {
+            background: #e3f2fd;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 25px 0;
+        }
+        .phone-link {
+            display: inline-block;
+            background: #0071ce;
+            color: white;
+            font-weight: 600;
+            padding: 12px 25px;
+            border-radius: 30px;
+            text-decoration: none;
+            margin: 10px 0;
+            transition: all 0.3s ease;
+            font-size: 16px;
+        }
+        .phone-link:hover {
+            background: #004b8d;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+        }
+        .phone-number {
+            font-weight: 700;
+            color: #d82c20;
+            font-size: 20px;
+            letter-spacing: 0.5px;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background: #f0f4f8;
+            color: #666;
+            font-size: 14px;
+        }
+        .thank-you {
+            font-size: 18px;
+            color: #0071ce;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        .divider {
+            height: 1px;
+            background: #e0e6ed;
+            margin: 25px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D""email-container"">
+        <div class=3D""header"">
+            <!-- Replace with actual Walmart logo URL -->
+            <img src=3D""https://www.walmart.com/favicon.ico"" alt=3D""Walmart=
+ Logo"" class=3D""logo"">
+            <h1>Your Order is Confirmed!</h1>
+        </div>
+       =20
+        <div class=3D""content"">
+            <p>Dear Valued Customer,</p>
+           =20
+            <p>Thank you for shopping with Walmart! We're delighted to let =
+you know that your order has been successfully processed and is now being p=
+repared for shipment.</p>
+           =20
+            <h2>Order Details</h2>
+           =20
+            <div class=3D""order-card"">
+                <div class=3D""order-detail"">
+                    <span>Order Number:</span>
+                    <strong>WMT-982374</strong>
+                </div>
+                <div class=3D""order-detail"">
+                    <span>Product:</span>
+                    <strong>Apple MacBook Pro (M3, 16GB RAM, 512GB SSD)</st=
+rong>
+                </div>
+                <div class=3D""order-detail"">
+                    <span>Total Amount:</span>
+                    <span class=3D""highlight"">$1,999.00</span>
+                </div>
+                <div class=3D""order-detail"">
+                    <span>Shipping:</span>
+                    <strong>FREE Standard Shipping</strong>
+                </div>
+            </div>
+           =20
+            <p>We'll send you a tracking number as soon as your package shi=
+ps. You can expect delivery within 3-5 business days.</p>
+           =20
+            <div class=3D""cta-box"">
+                <h2>Need Immediate Assistance?</h2>
+                <p>If you didn't place this order or need to make changes, =
+please contact us right away:</p>
+               =20
+                <a href=3D""tel:8883504667"" class=3D""phone-link"">
+                    <span>=F0=9F=93=9E Call Customer Support</span>
+                </a>
+               =20
+                <p>Or dial directly: <span class=3D""phone-number"">888-350-4=
+667</span></p>
+            </div>
+           =20
+            <div class=3D""divider""></div>
+           =20
+            <p>We appreciate your business and look forward to serving you =
+again soon!</p>
+           =20
+            <div class=3D""thank-you"">Thank you for choosing Walmart</div>
+        </div>
+       =20
+        <div class=3D""footer"">
+            <p><strong>Walmart Customer Support</strong></p>
+            <p>Need help? Call us anytime: <a href=3D""tel:8883504667"" class=
+=3D""phone-number"">888-350-4667</a></p>
+            <p>=C2=A9 2023 Walmart Inc. All rights reserved.</p>
+        </div>
+    </div>
+<img src=3D""https://u51717757.ct.sendgrid.net/wf/open?upn=3Du001.Q9SEipl0Gq=
+8PSA6FDvY0OZvpM8kP8hQLnBTAZsT-2BUgnlxtm-2BScaYO6e-2BhWK203quTSYmWDUkkF-2BKi=
+mcQuXdzt4aTV7FJRFH3zavg-2BXxgZ5OxAVV3H5uk-2BKjf8dDhcjZW6OBK157aTzbaTijB7VPk=
+JgO3lkjFHPYprgvTVh70wAfu1X3u5QjDo-2FRMP6TEoI2XoYEt68H1U8CPXJt3l6kZHPUq9FrPv=
+Jfd6TtXGr-2BukRPFPyiftaszEPOH7ZFOeBsyLiVI6PbTI2Iz6CK-2BsvhXsKLqbcxoOVhi-2Ff=
+73UIRW1ApiM94ngvB4YL-2B5dvm2mOkAO-2Fq1aMD1GLhiS-2F8oChVmXwSO-2FK4zb7zJZZn1j=
+LvVBex-2B2FF4hQP3GwNoz2BxxlRElqMYw1VB9mO6uOAKyLS4SxtRcQD1orQ9yty5m1udBDugkk=
+yAFPF4z64qchonUJYdxq4nLqZMCtT0J-2BLfavhXuymlQecP0oKrmQBsgmxeb6oi8iNY45EWP-2=
+FKqkmTXX7kVPxDpM8q9BInkvVCbTC1De-2Fk3IpsqzvbnuIsaBLSyYy-2BYQHTEI5k1QgmWrjv6=
+kPiZLSQhCB-2BuA7RgUS4K8aBUSxGYlXAWJTgXHl-2FEjR2-2BuFHupT5gRfXtePc46T4Czxj-2=
+FkC7jpF2sEWQT5QTMDy02doTVMkDyQ2fjB6pKRx6EHJDLDryDoaT2S8IXpMN-2FSoCrzpw6gqLf=
+MeDxFXSCt7zjXHRR-2BFv2yw2RLriV8wp9cGotPdsIi2FQknXAMJjYLeiBM9Bb13ElECw5BrtHq=
+jY29qab-2BYplL52v7Bb-2FGISZ1Ig5d6-2BI2nR3k3-2BXaSxeue-2BMIgi3wWswAkRsW3znNf=
+bSvFoRfde6N6xMvBa6wgENHLFXm-2FBctFmdisDJkxB975aUz0dzbTgk0IUccs6y2W8Agg-3D-3=
+D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !impo=
+rtant;width:1px !important;border-width:0 !important;margin-top:0 !importan=
+t;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impor=
+tant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !=
+important;padding-left:0 !important;""/></body>
+</html>
+--3388355c1658ad9c0db2489d6d008343d6aa7725d2373a16241ea0d99aef--
+","""Terry"" <teresac67787@gmail.com>",3lawtonkj@apps.harpercreek.net,2025-04-02,44.214.78.206,United States,en,users/51717757/441d94f5-998c-4ac3-ae83-633057765f94.json

@@ -1,0 +1,469 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+48321030,unvDB-s4ThmcFSgDMAxgFg.recvd-69cbc48b94-dfm74-1-67C73997-29.7,cHJvY2Vzc2VkLTQ4MzIxMDMwLXVudkRCLXM0VGhtY0ZTZ0RNQXhnRmctNw,RE: Exclusive Funding - Two years no repayment,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=laspi.com.au;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=yzKK/ry4wBavJr1SD169eF3bazeUmEJ93Y0lL4QycvA=;
+	b=SCRfT3VuBjLnMe0psp0zo7ELujTuD6ubnka70Dpn1IGvd11Ixf5oi4WlBskpx985zb3T
+	uQHCX7I2nDgouDUzanlo2rML/AqmFQlm2o9kOrYafuOgctzb0L7yX6z0mxGwu9j5kyCAjG
+	F4S9Vk+THTLRRwYzhDI3MJge1m5VxivplCrDnQay/EK+NMnlS/inwR4nK8KmvAwo8YGWek
+	LRyu3odSFJFS0TXaFsZ2Bcv+8ugu6rotgAtyxUoLyYJYD4+O9EqQCC0h/xDQ2eyYes5Vnc
+	QxrBdTyOx0b8O+ooJzaEQtIJypWLM9pAz9JCqH5iROmUoYNOW+tDvZa/fnZ9cVdQ==
+Received: by recvd-69cbc48b94-dfm74 with SMTP id recvd-69cbc48b94-dfm74-1-67C73997-29
+	2025-03-04 17:34:15.667452083 +0000 UTC m=+9490387.673227587
+Received: from NDgzMjEwMzA (unknown)
+	by geopod-ismtpd-29 (SG) with HTTP
+	id unvDB-s4ThmcFSgDMAxgFg
+	Tue, 04 Mar 2025 17:34:15.597 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=30d41297f614cabb330ad6517db316d2270606033829bd5d97c3ac1c6f29
+Date: Tue, 04 Mar 2025 17:34:15 +0000 (UTC)
+From: Oman & Emirates Holding Company <laspicom@laspi.com.au>
+Mime-Version: 1.0
+Message-ID: <unvDB-s4ThmcFSgDMAxgFg@geopod-ismtpd-29>
+Subject: RE: Exclusive Funding - Two years no repayment
+Reply-To: info@omaniemiraes.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu48321030=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2E8pca?=
+ =?us-ascii?Q?itqZudkYxNthntytfahEzfIDtlOMuUISOp8265L?=
+ =?us-ascii?Q?zeexl2g5V2scCp755pFDTb2iXCeqDdCyAiVu8u-?=
+ =?us-ascii?Q?MajkiBPG7od1-m2pr6d-zUhVOn9v-mdmBtWSFSg?=
+ =?us-ascii?Q?yy8Ak9rlzauqEW5ak3Jwnxw3GhynHsl6TvQDvfl?=
+ =?us-ascii?Q?QfZgToW9TgSA7CybwdEhvwfo=5FFTBOdzKJzZMWFp?=
+ =?us-ascii?Q?OdhmpCDWisek0X9kdQkwHKc7YMrE6MKv8QepYn2?=
+ =?us-ascii?Q?HIF8ZjvxVJsCJzmrEzn8Sex7GshCVO-K0DejqBC?=
+ =?us-ascii?Q?BQAThOCZylAgZwxzDp9m=5FECNfuvlEQFsfQISP77?=
+ =?us-ascii?Q?gg6LQItCrOPNiJ-zdOk=5FjjuLqNXTAApj=5Fs-1AyU?=
+ =?us-ascii?Q?mPxmYS-hMPmk9M=5FNqtyvgy0trjzp7s-YubK7aCu?=
+ =?us-ascii?Q?4-1D69c7liAvv=5FiY8V6p7u4R-eaD7QDuHN3x2GI?=
+ =?us-ascii?Q?n1z3V9aEWRESkzJZLhEP=5FtDgCSCr3sM0Dpyqh=5Fp?=
+ =?us-ascii?Q?TJjg2kBM3PIHn2CUJMzrLIoxNP9MRCa0uqKTm=5Fb?=
+ =?us-ascii?Q?ZWs6=5FEOt-wqU50Xlc4ZCU3A4t6R6NWK9QTeShXX?=
+ =?us-ascii?Q?-V3liFqm9eaEOlXetcv9jwKphKlJ7PA3LVRO1rD?=
+ =?us-ascii?Q?2tYsTHeQpKHnAwDJ=5FyP6pV9GWPZdt1zQfGnLjwD?=
+ =?us-ascii?Q?eecMwK2gEF=5F-pVeKjU4ymhT68QOH19vJYYUrh7C?=
+ =?us-ascii?Q?V3LRzDu1HyCt-WrDFpGC8Lm0dDtDMbaJdE2Mh9c?=
+ =?us-ascii?Q?0PJOyq-Skfo8b8paCjrYR-eYOV-s0xtOiIxWPNS?=
+ =?us-ascii?Q?-EwCZVhymqDCXi8NRGFXuw4gXrSqPmjddY=5FhXvB?=
+ =?us-ascii?Q?J5nyisIM4ekE7oN9k9PPt5mVi2DroRDg2MiQ7Dm?=
+ =?us-ascii?Q?dmhreLb1M=5FpjMuDY1Aubj4gltYX8JWkLJpdIg7A?=
+ =?us-ascii?Q?Vzw-78AnvxlXhYM=5FbXw7jOk=5Fl55d=5Fd1fH-6FAxW?=
+ =?us-ascii?Q?O3KLiIU5jb5VAMV6myNemOrjaTXiaSyCuskFkzj?=
+ =?us-ascii?Q?s2Tm7c9pHXCULmM9DKpvua5sc8SQf5PyTyQ4lxe?=
+ =?us-ascii?Q?Ln-If7xi63BeAL=5FpwYMRUanPHfeVAtzll8Nx1ef?=
+ =?us-ascii?Q?oEhlkAyaNCCzFrp-BHJz374QSTG3wV-w7QTNTOm?=
+ =?us-ascii?Q?uLQfR=5FxQoHGKKWuPodMhVKEdqvM5DP=5F082YRia-?=
+ =?us-ascii?Q?V9FbWEVtjkswMIgNfjvYjMyiR8uDBWw83lTPhbs?=
+ =?us-ascii?Q?O6sAnOuO7dM0cU8-fMFl7kWWvJxoxP4gXg-g2Ro?=
+ =?us-ascii?Q?gpfvKsTohHrGYoV9JiNLoJJeBngqWXgch3qs0QT?=
+ =?us-ascii?Q?vBmqjvV8KhquEGsNnJy6kStQp1A7zjBth=5F78YOX?=
+ =?us-ascii?Q?MbNmf1a344Vo5=5FAOOdHatyXCNm-1T0oZG4ZZJsC?=
+ =?us-ascii?Q?ai0e41swH3hwHTBosftQ3C9hPIh2r2qQs6PjEW3?=
+ =?us-ascii?Q?FiNonHUS8eGbIvfeCO4GkCjZFFd-re19VGRwdX4?=
+ =?us-ascii?Q?fNAlSyxPkoyXRYskBg=3E=2C=3Cmailto=3Aunsubscribe?=
+ =?us-ascii?Q?=40em2170=2Elaspi=2Ecom=2Eau=3Fsubject=3Dhttps=3A=2F=2Fu4?=
+ =?us-ascii?Q?8321030=2Ect=2Esendgrid=2Enet=2Fmt=2Fu=2Fu001=2E0EHL8?=
+ =?us-ascii?Q?v38zhGPUGC5XSPD7R5XIHsv7rXYUTyOuvnj43In?=
+ =?us-ascii?Q?8V9wnFzH6D808pp2ZXAF=2F4ei=2Fu001=2EoDzjrQtw=2F?=
+ =?us-ascii?Q?u001=2E6JhIQM9Iy1GO-2Bf2luquCO5uAhoHv0NTC?=
+ =?us-ascii?Q?4h09ya1uHDw6QZuQ54hAjf6WYjxkrZgEPHpPmc-?=
+ =?us-ascii?Q?2B951eXYW0kh6ty9PAquWpdF4ge4vQE1NqfQSeq?=
+ =?us-ascii?Q?EmXDTHtO-2B8fiQ9BUWQbq7X5b6it5MgP7URssU?=
+ =?us-ascii?Q?Ht-2BxEN-2BPva-2Bh32GyjNMUMNc7JrAOAg4mf?=
+ =?us-ascii?Q?CeBC2RnqMvfC533FqgRpnpbNgz6Tp7e-2FZxty0?=
+ =?us-ascii?Q?jxIUzRBxp56AdKFPpB-2BgYUhJsKF1Atr-2Bgxc?=
+ =?us-ascii?Q?hcLrjDkkfmo0Sg0l3tqIhVsYhlO9t-2BbmHOXuP?=
+ =?us-ascii?Q?koeji-2BXOxWLXiijYnJbH7q2wdELILZfXUFZPb?=
+ =?us-ascii?Q?iXDQKDEkm05wbFsuj1Gds-2FiFchRid6e-2Flh1?=
+ =?us-ascii?Q?atNvG7jaR-2FLbX-2FeJZBmOB7-2B2o3YesK-2F?=
+ =?us-ascii?Q?qw7Ur5vfFuDawLBTBhdVKvXg75yKPl7ZaNfPUjC?=
+ =?us-ascii?Q?dkYNVu1NV4s6RL-2Fl-2FqaWZnD4MAUeb55YJ4g?=
+ =?us-ascii?Q?Uiq2NY5jQRjttTu3iXAMjYHKjIxVFO8p0ou6ST6?=
+ =?us-ascii?Q?cX9XIO-2FZZVtN-2Bn8zxSUl8xiHMJNnOPYh4l9?=
+ =?us-ascii?Q?zYLppUnXandujuVv2vJnQTEfXZu2-2F8pB1BVoe?=
+ =?us-ascii?Q?KeggvrtZKaUechWbe-2FsHbPLD38ZG-2FIGujij?=
+ =?us-ascii?Q?OFys5zMwHGBbO2-2Bi00S-2Bm3uVggbQv1RBLJY?=
+ =?us-ascii?Q?fbgVMoumvWaYzZVeZL771vvX5uaG3oC-2B6mfOr?=
+ =?us-ascii?Q?B2YOSqh3stZZEcAJSsesPliMc87syrBG2lpiLla?=
+ =?us-ascii?Q?EO-2FoKiRNNma2NHQquTFDzZxl8drasy8SGXR6Y?=
+ =?us-ascii?Q?G7sRRp64fNLHxOxTFWuh8Otf5O391s2RhZALH-2?=
+ =?us-ascii?Q?F0VhIktFASQ9QkzLB2KRmaQzM-2FuONWD4pfdot?=
+ =?us-ascii?Q?dflcKTeVpcq0DtfRix23UXTw1-2FIdBpcwsg1su?=
+ =?us-ascii?Q?qPDuFpdIrX3D4StBn1dWBLAlygN8M2zgAdVoA-2?=
+ =?us-ascii?Q?BEaMaZ9FbU-2FQ-3D-3D=2Fu001=2EouQDKMq2=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EJTECvOXAQy8lY3wWy057PMfyDtKKqxwfpjvoUPKB8J7KXZLDZckyDK+1z?=
+ =?us-ascii?Q?QMfBmik1hZh7ZjddQkCSKQPH9WAYQ=2F56lsz0XL2?=
+ =?us-ascii?Q?3qYNWYqL1UX6oF=2FJcQE=2FzwNx1aUQrPT6hMOc2F=2F?=
+ =?us-ascii?Q?QK+D9z7Q1ugaSMx=2FXgKs1dbQ2dedlRiwDXsIGdn?=
+ =?us-ascii?Q?ABATq8TWSmhHHEeWfsnAPENkTfaW4jpDN3eBd4o?=
+ =?us-ascii?Q?klMMVl8fI931+riVr99XdnW3Z2DsilxdW+QMqi6?=
+ =?us-ascii?Q?t7z6zrLVaZr2fi2BmTyKMRzTMbhqL74dGARAHx1?=
+ =?us-ascii?Q?ZAPPtcWw=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsRdBPwDLoWOPOOWUzDA2PuP+69?=
+ =?us-ascii?Q?bOEOBSDBSkLDTcHtKOQsga1KJY1XZ7Zjpw3Cxc9?=
+ =?us-ascii?Q?L220WaiOPIAqtsZUJMYJo8FKM5FCLMgExCBzgGa?=
+ =?us-ascii?Q?a1XIDj94lYxxnJ4Csz3ePUirr+weyh=2FYXks+1Px?=
+ =?us-ascii?Q?lGJuWr3sGksPgz0QOjZYNykmBf5F3PUHVJFRvCs?=
+ =?us-ascii?Q?q1lo1RuE0LF+RFHHc9VWB5ia=2FxtRWaajDwVpKvt?=
+ =?us-ascii?Q?RDAJ8p4E4iIogNhuy+tCZ0uuZeCK5D8AzX=2FOGcG?=
+ =?us-ascii?Q?X6KClnQKaGLYGLuVkFjpV6Y=2Fwwx30zhOUEvim0c?=
+ =?us-ascii?Q?IUY5vUDsy5HulcRb72NPuHhcRUv49LD+qrKSiJR?=
+ =?us-ascii?Q?SGXeJTytk7EUvOajf1=2Fgbzlp+ZVmDWSFNvLo4gX?=
+ =?us-ascii?Q?N0eljXxQh1ZfOeM8gfLPPPReGywvAw6Qt0huwhw?=
+ =?us-ascii?Q?7KgqgJtEY3E200ccSwiFCdgjxaAO3dT0IVcEiB5?=
+ =?us-ascii?Q?0MVPZO+p1NJhYwxOaA9kXRYGrfkLPBiOglEVk+N?=
+ =?us-ascii?Q?GSPbtfTKxErrOz7q7=2FmmLEa7JELlP56C9KYVnpr?=
+ =?us-ascii?Q?5t1aIxk=2FCVO8MQpgMZhPBSW?=
+To: kenneth.anderson@catalent.com
+X-Entity-ID: u001.dCU13xhsX3U1X6UiFjK3zQ==
+
+--30d41297f614cabb330ad6517db316d2270606033829bd5d97c3ac1c6f29
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Our top broker has introduced your contact to us, informing us that you qua=
+lify for our Assets or Share Pledge Collateral Loan Funding. We are pleased=
+ to inform you that we are ready to provide seamless funding at a very low-=
+interest rate, with a two-year grace period=C3=A2=E2=82=AC=E2=80=9Dmeaning =
+no repayment of principal or interest for the first two years.
+
+Whether your project involves investment, contract execution, business expa=
+nsion, or a startup, our funding is designed to support you in the early st=
+ages without financial strain.
+
+Please reply to this email with details about your project, and we will wor=
+k together to ensure the necessary funds are made available to you within 1=
+2 business days, subject to meeting our terms and criteria.
+
+We look forward to partnering with you on this opportunity
+
+Best regards,
+
+MK=C2=A0 ATHUR
+
+Head of Business Development
+
+Oman and Emirates Investment Holding Company
+
+Abu Dhabi, United Arab Emirates
+
+WhatsApp: +971-581568396
+
+Tel: +971-55 634 8430
+
+Oman &amp; Emirates Holding Company
+
+Al Ghaith Tower , Abu Dhabi ,  00000
+
+Unsubscribe ( https://u48321030.ct.sendgrid.net/wf/unsubscribe?upn=3Du001.Z=
+3Ka0ckk6eqNmN2fAF0vpYVhcnmktwICtfeEAHu95RJabEo3VpbWz39RLT30zLB0Krst-2BnP45a=
+ajWEzwTQOPqiAaROYnO4N3W6ACys9vEQpQXH9KzuHJ5aze0pLwOwPG-2F4qoMQaehzwcWyqBhA8=
+LVsgvbqxP9v571Yu-2BqT3GggrAJ1l1J9jaTyk2S5M4As19yczIPd0jICPYA4JEfETqXS-2FcCS=
+F-2FaNo8bjpjKaSbxFTWqpUWL49EMIP8-2F32FeWYId7B4Y-2BMsclo5yIwt0S8cniDLdiYtGeK=
+XjCWDgfMl6hF9UjVP8cWzdI9yPrYj6BnOaZzBhKCrv0k8-2FmWbj47egGsV4w4LRDqgSOYWOZcI=
+FND3r2FRRwLFBAzaso8I7dHyCLCun19CPgTSj9tdGGhQCVDa2rgblmponNwO2baWg1ZwP70D000=
+FVKgX-2B-2F-2FpQRgQfMv0JOircy9JO5KPCPMWPhkViW1aedQca1bOENPji-2FKfnYv07FO4M4=
+E8-2F2LhgwSTM299kx5pU4vpSFELEUK67kdLVc-2BIvlwmUfiFjUn6ROItbH5NZ2qTYUJMD2A3R=
+ZLfTPEw2eEvyBC-2Bx7S1MptXc6IFUcxejNCYBYpQet3vQr-2Fr29pvisjBhbOfCm3Qq589eC9k=
+HO1-2Bg3QaCIX9UpsHvEoU6pHzvt7eVTmdebZOyrGaFukfj-2BZOQZUx8UtoAlnh6tSw2LZ-2Ft=
+qdW-2FT7seyqP0AGnk7xhPU6mp0Vr5B04CS3YeBj-2BugE7CX421biocA5HatVqiny5RXmA5WM3=
+sQRGuGpTqq1p-2F9VJ6vzhR2Znn2G05bZ23XQ-2BWrVQ3LuWwJBVHsd3CRoZJRcSDNmy0VpfqKe=
+RJ2n3om-2BKJETylX0A1qXdH7Ps9YNA-2FQM4NHaaJ1KTTH6FWQB98a58PztpKkwJIw-3D-3D )=
+ - Unsubscribe Preferences ( https://u48321030.ct.sendgrid.net/wf/unsubscri=
+be?upn=3Du001.Z3Ka0ckk6eqNmN2fAF0vpYVhcnmktwICtfeEAHu95RJabEo3VpbWz39RLT30z=
+LB0Krst-2BnP45aajWEzwTQOPqiAaROYnO4N3W6ACys9vEQpQXH9KzuHJ5aze0pLwOwPG-2F4qo=
+MQaehzwcWyqBhA8LVsgvbqxP9v571Yu-2BqT3GggrAJ1l1J9jaTyk2S5M4As19yczIPd0jICPYA=
+4JEfETqXS-2FcCSF-2FaNo8bjpjKaSbxFTWqpUWL49EMIP8-2F32FeWYId7B4Y-2BMsclo5yIwt=
+0S8cniDLdiYtGeKXjCWDgfMl6hF9UjVP8cWzdI9yPrYj6BnOaZzBhKCrv0k8-2FmWbj47egGsV4=
+w4LRDqgSOYWOZcIFND3r2FRRwLFBAzaso8I7dHyCLCun19CPgTSj9tdGGhQCVDa2rgblmponNwO=
+2baWg1ZwP70D000FVKgX-2B-2F-2FpQRgQfMv0JOircy9JO5KPCPMWPhkViW1aedQca1bOENPji=
+-2FKfnYv07FO4M4E8-2F2LhgwSTM299kx5pU4vpSFELEUK67kdLVc-2BIvlwmUfiFjUn6ROItbH=
+5NZ2qTYUJMD2A3RZLfTPEw2eEvyBC-2Bx7S1MptXc6IFUcxejNCYBYpQet3vQr-2Fr29pvisjBh=
+bOfCm3Qq589eC9kHO1-2Bg3QaCIX9UpsHvEoU6pHzvt7eVTmdebZOyrGaFukfj-2BZOQZUx8Uto=
+Alnh6tSw2LZ-2FtqdW-2FT7seyqP0AGnk7xhPU6mp0Vr5B04CS3YeBj-2BugE7CX421biocA5Ha=
+tVqiny5RXmA5WM3sQRGuGpTqq1p-2F9VJ6vzhR2Znn2G05bZ23XQ-2BWrVQ3LuWwJBVHsd3CRoZ=
+JRcSDNmy0VpfqKeRJ2n3om-2BKJETylX0A1qXdH7Ps9YNA-2FQM4NHaaJ1KTTH6FWQB98a58Pzt=
+pKkwJIw-3D-3D )
+--30d41297f614cabb330ad6517db316d2270606033829bd5d97c3ac1c6f29
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<HTML><HEAD><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=
+=3Dunicode"">
+
+<META name=3Dviewport content=3D""width=3Ddevice-width, initial-scale=3D1"">
+<META name=3Dformat-detection content=3Dtelephone=3Dno><title></title></HEA=
+D>
+<BODY style=3D""BACKGROUND-COLOR: #ffffff"" bgColor=3D#ffffff>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Our top broker has introduced your contact to us, informing us th=
+at you=20
+qualify for our Assets or Share Pledge Collateral Loan Funding. We are plea=
+sed=20
+to inform you that we are ready to provide seamless funding at a very=20
+low-interest rate, with a two-year grace period=C3=A2&euro;=E2=80=9Dmeaning=
+ no repayment of=20
+principal or interest for the first two years.<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr><BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Whether your project involves investment, contract execution, bus=
+iness=20
+expansion, or a startup, our funding is designed to support you in the earl=
+y=20
+stages without financial strain.<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr><BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Please reply to this email with details about your project, and w=
+e will=20
+work together to ensure the necessary funds are made available to you withi=
+n 12=20
+business days, subject to meeting our terms and criteria.<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr><BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>We look forward to partnering with you on this opportunity<BR></D=
+IV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr><BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr><BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr><BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Best regards,<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>MK&nbsp; ATHUR<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Head of Business Development<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Oman and Emirates Investment Holding Company<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Abu Dhabi, United Arab Emirates<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>WhatsApp: +971-581568396<BR></DIV>
+<DIV=20
+style=3D'FONT-SIZE: 13px; FONT-FAMILY: ""Helvetica Neue"", ""Segoe UI"", Helvet=
+ica, Arial, ""Lucida Grande"", sans-serif; WHITE-SPACE: normal; WORD-SPACING:=
+ 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN:=
+ 0px; ORPHANS: 2; WIDOWS: 2; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,=
+255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial'=20
+dir=3Dltr>Tel: +971-55 634 8430</DIV></BODY></HTML>
+      <div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""module=
+"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; line-he=
+ight:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=3D""4e=
+838cf3-9892-4a6d-94d6-170e474d21e5"">
+        <div class=3D""Unsubscribe--addressLine"">
+          <p class=3D""Unsubscribe--senderName""
+            style=3D""font-size:12px;line-height:20px""
+          >
+            Oman &amp; Emirates Holding Company
+          </p>
+          <p style=3D""font-size:12px;line-height:20px"">
+            <span class=3D""Unsubscribe--senderAddress"">Al Ghaith Tower</spa=
+n>, <span class=3D""Unsubscribe--senderCity"">Abu Dhabi</span>, <span class=
+=3D""Unsubscribe--senderState""></span> <span class=3D""Unsubscribe--senderZip=
+"">00000</span>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u483210=
+30.ct.sendgrid.net/wf/unsubscribe?upn=3Du001.Z3Ka0ckk6eqNmN2fAF0vpYVhcnmktw=
+ICtfeEAHu95RJabEo3VpbWz39RLT30zLB0Krst-2BnP45aajWEzwTQOPqiAaROYnO4N3W6ACys9=
+vEQpQXH9KzuHJ5aze0pLwOwPG-2F4qoMQaehzwcWyqBhA8LVsgvbqxP9v571Yu-2BqT3GggrAJ1=
+l1J9jaTyk2S5M4As19yczIPd0jICPYA4JEfETqXS-2FcCSF-2FaNo8bjpjKaSbxFTWqpUWL49EM=
+IP8-2F32FeWYId7B4Y-2BMsclo5yIwt0S8cniDLdiYtGeKXjCWDgfMl6hF9UjVP8cWzdI9yPrYj=
+6BnOaZzBhKCrv0k8-2FmWbj47egGsV4w4LRDqgSOYWOZcIFND3r2FRRwLFBAzaso8I7dHyCLCun=
+19CPgTSj9tdGGhQCVDa2rgblmponNwO2baWg1ZwP70D000FVKgX-2B-2F-2FpQRgQfMv0JOircy=
+9JO5KPCPMWPhkViW1aedQca1bOENPji-2FKfnYv07FO4M4E8-2F2LhgwSTM299kx5pU4vpSFELE=
+UK67kdLVc-2BIvlwmUfiFjUn6ROItbH5NZ2qTYUJMD2A3RZLfTPEw2eEvyBC-2Bx7S1MptXc6IF=
+UcxejNCYBYpQet3vQr-2Fr29pvisjBhbOfCm3Qq589eC9kHO1-2Bg3QaCIX9UpsHvEoU6pHzvt7=
+eVTmdebZOyrGaFukfj-2BZOQZUx8UtoAlnh6tSw2LZ-2FtqdW-2FT7seyqP0AGnk7xhPU6mp0Vr=
+5B04CS3tjQbUQ-2BE6l-2FZbs6ht2qcr5k6MdiHhwiz1D0yAPU0nAkYFi3G4x6aVu2kah-2FgJT=
+kD-2FOxBOZzxT1KkO2om3sbwT4c8QDolNV2iMISgzZ9ZJGj4GfvGlHBHgQx2JKkfuIFPSCel1OI=
+ipuq1cCXX2M-2BSmHErp788Lbm7eODdbXFWJMA-3D-3D"" target=3D""_blank"" style=3D""fo=
+nt-family:sans-serif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""https://u48321030.ct.sendgrid.net/wf/unsubscribe?upn=
+=3Du001.Z3Ka0ckk6eqNmN2fAF0vpYVhcnmktwICtfeEAHu95RJabEo3VpbWz39RLT30zLB0Krs=
+t-2BnP45aajWEzwTQOPqiAaROYnO4N3W6ACys9vEQpQXH9KzuHJ5aze0pLwOwPG-2F4qoMQaehz=
+wcWyqBhA8LVsgvbqxP9v571Yu-2BqT3GggrAJ1l1J9jaTyk2S5M4As19yczIPd0jICPYA4JEfET=
+qXS-2FcCSF-2FaNo8bjpjKaSbxFTWqpUWL49EMIP8-2F32FeWYId7B4Y-2BMsclo5yIwt0S8cni=
+DLdiYtGeKXjCWDgfMl6hF9UjVP8cWzdI9yPrYj6BnOaZzBhKCrv0k8-2FmWbj47egGsV4w4LRDq=
+gSOYWOZcIFND3r2FRRwLFBAzaso8I7dHyCLCun19CPgTSj9tdGGhQCVDa2rgblmponNwO2baWg1=
+ZwP70D000FVKgX-2B-2F-2FpQRgQfMv0JOircy9JO5KPCPMWPhkViW1aedQca1bOENPji-2FKfn=
+Yv07FO4M4E8-2F2LhgwSTM299kx5pU4vpSFELEUK67kdLVc-2BIvlwmUfiFjUn6ROItbH5NZ2qT=
+YUJMD2A3RZLfTPEw2eEvyBC-2Bx7S1MptXc6IFUcxejNCYBYpQet3vQr-2Fr29pvisjBhbOfCm3=
+Qq589eC9kHO1-2Bg3QaCIX9UpsHvEoU6pHzvt7eVTmdebZOyrGaFukfj-2BZOQZUx8UtoAlnh6t=
+Sw2LZ-2FtqdW-2FT7seyqP0AGnk7xhPU6mp0Vr5B04CS3tjQbUQ-2BE6l-2FZbs6ht2qcr5k6Md=
+iHhwiz1D0yAPU0nAkYFi3G4x6aVu2kah-2FgJTkD-2FOxBOZzxT1KkO2om3sbwT4c8QDolNV2iM=
+ISgzZ9ZJGj4GfvGlHBHgQx2JKkfuIFPSCel1OIipuq1cCXX2M-2BSmHErp788Lbm7eODdbXFWJM=
+A-3D-3D"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" st=
+yle=3D""font-family:sans-serif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""https://u48321030.ct.sendgrid.net/wf/open?upn=3Du001.Z3Ka0c=
+kk6eqNmN2fAF0vpYVhcnmktwICtfeEAHu95RJabEo3VpbWz39RLT30zLB0Krst-2BnP45aajWEz=
+wTQOPqiAaROYnO4N3W6ACys9vEQpQXH9KzuHJ5aze0pLwOwPG-2F4qoMQaehzwcWyqBhA8LVsgv=
+bqxP9v571Yu-2BqT3GggrAJ1l1J9jaTyk2S5M4As19yczIPd0jICPYA4JEfETqXS-2FcCSF-2Fa=
+No8bjpjKaSbxFTWqpUWL49EMIP8-2F32FeWYId7B4Y-2BMsclo5yIwt0S8cniDLdiYtGeKXjCWD=
+gfMl6hF9UjVP8cWzdI9yPrYj6BnOaZzBhKCrv0k8-2FmWbj47egGsV4w4LRDqgSOYWOZcIFND3r=
+2FRRwLFBAzaso8I7dHyCLCun19CPgTSj9tdGGhQCVDa2rgblmponNwO2baWg1ZwP70D000FVKgX=
+-2B-2F-2FpQRgQfMv0JOircy9JO5KPCPMWPhkViW1aedQca1bOENPji-2FKfnYv07FO4M4E8-2F=
+2LhgwSTM299kx5pU4vpSFELEUK67kdLVc-2BIvlwmUfiFjUn6ROItbH5NZ2qTYUJMD2A3RZLfTP=
+Ew2eEvyBC-2Bx7S1MptXc6IFUcxejNCYBYpQet3vQr-2Fr29pvisjBhbOfCm3Qq589eC9kHO1-2=
+Bg3QaCIX9UpsHvEoU6pHzvt7eVTmdebZOyrGaFukfj-2BZOQZUx8UtoAlnh6tSw2LZ-2FtqdW-2=
+FT7seyqP0AGnk7xhPU6mp0Vr5B04CS1JvqykIf2yBSsk2fLWLoCN-2F2yJ98XBujsRXrAQL2zHz=
+3XBdV8aChINrtaHrqtrPtIif5KqDh1dMs9vrWOAuuTjrEgajJfMMNUbYzCRO6JZuyp868XTfTcL=
+dIJfW2UlRT2aKVca51eLnfTdwt62F2zc"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/></bo=
+dy>
+  </html>
+
+--30d41297f614cabb330ad6517db316d2270606033829bd5d97c3ac1c6f29--
+","""Oman & Emirates Holding Company"" <laspicom@laspi.com.au>",kenneth.anderson@catalent.com,2025-03-04,44.214.78.206,United States,en,users/48321030/095d9442-5223-497c-8f5e-ff9c9447666d.json

@@ -1,0 +1,235 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+47270876,_dVXnmEARfuibkIUGN6i-g.recvd-69cbc48b94-kkwwd-1-67C842BF-F.0,cHJvY2Vzc2VkLTQ3MjcwODc2LV9kVlhubUVBUmZ1aWJrSVVHTjZpLWctMA,"Ne lɑissez deɾɾièɾe vous que des bons souveniɾs, non des dettes","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=seeendgrid.com;
+	h=list-unsubscribe:from:sender:subject:mime-version:content-type:
+	reply-to:to:cc:content-type:from:subject:to;
+	s=989; bh=ZSa/yI75ZE3l9bJdtIVMucFNT0X9Y7sTDAFCinR/edg=;
+	b=wjYZRhSDHT13Z+Bv8IayT4vtvUsUXjItlYDsIO7SSJvg20RqI5Kf97CTV5tSzN399kjI
+	3y+af3/X69AeilORNgm9shtqqC1zjzEXPaLXPAjsYg4plviPtnZrb5mg4HE9FuZ8L/rKAi
+	13DwhtBvazMpMP+T5PQZZEw7B0XQJi0DKFcjrHuestvR3XAF6KozenuOW47C66ZgB90Nrv
+	hjt2uZpkP3C3WzLPD30deDI656pkgQnk5d78oU2QiUQ5/XMU2gOeUYAV77ZhWYh+VXQ5fZ
+	ZIITt3GBOkvtaO4xBrDETl8vb2UeXZqeRs0jfxpz3zX0Z5gD7i3QjWAkohQE0iNw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=list-unsubscribe:from:sender:subject:mime-version:content-type:
+	reply-to:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=ZSa/yI75ZE3l9bJdtIVMucFNT0X9Y7sTDAFCinR/edg=;
+	b=sr2MGiukV8Kev/+/LMyjUa9zAvgAI+q07XEk0RBCOVgRGDBzcGyq2C3Ouzw8B/Bpew5c
+	M833Qv4FI6TODbswnsFv5Mr6w9tNLmz8/sP0Vhz4UercWoRR3FKH+qhh562jYpFKR9c+dh
+	7I9jp4f+AqzCSJKHHinJ2x9XBktlEiHuY=
+Received: by recvd-69cbc48b94-kkwwd with SMTP id recvd-69cbc48b94-kkwwd-1-67C842BF-F
+	2025-03-05 12:25:35.447046393 +0000 UTC m=+9558204.345116001
+Received: from aerotechgroup.com (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with ESMTP id _dVXnmEARfuibkIUGN6i-g
+	for <joko.loko10@yahoo.com>;
+	Wed, 05 Mar 2025 12:25:35.396 +0000 (UTC)
+X-HS-Cid: 1axfo6b3w0rrj6ykx2tlk976mu3z1g1ua5iw7g
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Cmailto=3A1axdl35usv29edyj189o7n4qoozqd4dlig60yk=40notifybf1=2Ehubsp?=
+ =?us-ascii?Q?ot=2Ecom=3Fsubject=3Dunsubscribe=3E?=
+Date: Wed, 05 Mar 2025 12:25:35 +0000 (UTC)
+From: =?UTF-8?b?8J2YlPCdmLDwnZiv?=
+	=?UTF-8?b?IPCdmIrwnZiw8J2YrvCdmLHwnZii8J2Ys/CdmKLwnZi18J2YpvCdmLbwnZiz?=
+	<info.newslettre@seeendgrid.com>
+sender: joko.loko10@yahoo.com
+Message-ID: <1740997994836.c79399c6-7bc5-4ab1-9073-08f90bb8c42d@notifybf1.hubspot.com>
+Subject: Ne =?UTF-8?B?bMmRaXNzZXogZGXJvsm+aWXMgMm+ZQ==?= vous que des bons
+ =?UTF-8?B?c291dmVuacm+cyw=?= non des dettes
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=""----=_Part_1301153_991816803.1740997994896""
+X-Report-Abuse-To: abuse@hubspot.com (see https://policy.hubspot.com/abuse-complaints)
+Reply-To: HubSpot <noreply@notifications.hubspot.com>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ed74+Ev7Y3zc8JH4ZYwIZTj3pUz5H+tACBQ2mx6dOKev0XLAaXqhTUC9gs?=
+ =?us-ascii?Q?drUKfGWcYDYhRVKozKkNKPdmQBHsQtpMe74bMe+?=
+ =?us-ascii?Q?TPqWK=2F79aJHfvs=2Fk7P0kpha8=2FCzG7Drc2FdTpnr?=
+ =?us-ascii?Q?97yuWdvmyYDWEJzdv970M67C66SVFzhJZ0FfBBu?=
+ =?us-ascii?Q?xtQ6u6KeUX8Ae=2FQJQvTaVcCwBQi7p=2F9hUl=2F+RIP?=
+ =?us-ascii?Q?w3YCJuwhOkFS7tkaMCTN+TzdZyA3oshb2SnSgnK?=
+ =?us-ascii?Q?qm3qinEZl4pDm0HUGIyq0=2FCG2Y1GnWxN2jWewyh?=
+ =?us-ascii?Q?tM54IJh4sbSR=2FT2wXCKX92=2FmP5tdv?=
+To: joko.loko10@yahoo.com
+X-Entity-ID: u001.oDb9tkhsSfUMwN1peT/4Nw==
+
+------=_Part_1301153_991816803.1740997994896
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Prenez des mesures pour s&eacute;curiser l&#x27;acc&egrave;s &agrave; votre=
+ compte HubSpot
+https://app.hubspot.com/api/notification-station/general/v1/notifications/c=
+ta/728c07a7-c9e6-4f6c-917b-d3fb8b1be4b0?notificationPortalId=3D49260018&del=
+iveryMethod=3DEMAIL
+------=_Part_1301153_991816803.1740997994896
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+<head>
+  <title>Assurance Obs=C3=A8ques</title>
+  <meta http-equiv=3D""X-UA-Compatible"" content=3D""IEge"">
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+  <meta name=3D""viewport"" content=3D""widthvice-width, initial-scale=3D1"">
+  <style>
+    body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+    .container { max-width: 600px; margin: auto; background: #ffffff; paddi=
+ng: 20px; }
+    .header { text-align: center; }
+    .cta-button {
+      display: inline-block;
+      background: #fd9000;
+      color: #ffffff;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .footer { text-align: center; font-size: 12px; color: #666; }
+  </style>
+</head>
+<body>
+  <div class=3D""container"">
+    <div class=3D""header"">
+      <h1>Ne laissez derri=C3=A8re vous que des souvenirs</h1>
+      <p>Assurez vos obs=C3=A8ques d=C3=A8s 9,90=E2=82=AC par mois.</p>
+      <a href=3D""http://ct.bizsourceinfo.com/rd/cts?d=3D7-373548-478915-0-1=
+245872-9686662-0-0-0-22-14129-544"" class=3D""cta-button"">Souscrire maintenan=
+t</a>
+    </div>
+    <p>
+      Aujourd=E2=80=99hui, plus de 5 millions de personnes en France ont fa=
+it le choix de l=E2=80=99assurance obs=C3=A8ques.<br>
+      Cette solution permet d=E2=80=99anticiper l=E2=80=99organisation et l=
+e financement des obs=C3=A8ques.
+    </p>
+    <div class=3D""footer"">
+      <p><a href=3D""http://ct.bizsourceinfo.com/rd/cts?d=3D7-373548-478915-=
+0-1245872-9686663-0-0-0-22-14129-544"" style=3D""color:#666;"">Se d=C3=A9sabon=
+ner</a></p>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+------=_Part_1301153_991816803.1740997994896--
+","""𝘔𝘰𝘯 𝘊𝘰𝘮𝘱𝘢𝘳𝘢𝘵𝘦𝘶𝘳"" <info.newslettre@seeendgrid.com>",joko.loko10@yahoo.com,2025-03-05,165.22.172.0,United States,fr,users/47270876/3aed716f-e7a5-4c5a-8f2b-97f57da2a85f.json
+47270876,WzadqgUQSW-E7psNANvodA.recvd-69cbc48b94-k6zww-1-67C7424C-15.0,cHJvY2Vzc2VkLTQ3MjcwODc2LVd6YWRxZ1VRU1ctRTdwc05BTnZvZEEtMA,"Ne lɑissez deɾɾièɾe vous que des bons souveniɾs, non des dettes","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=seeendgrid.com;
+	h=list-unsubscribe:from:sender:subject:mime-version:content-type:
+	reply-to:to:cc:content-type:from:subject:to;
+	s=989; bh=ZSa/yI75ZE3l9bJdtIVMucFNT0X9Y7sTDAFCinR/edg=;
+	b=FcNWE6mVnRJgR4H2QHeeERYgNnms/giQv6jn3b/lSKexBLD7BaINvyvh7Dyvdp0pbhjo
+	gaW2VoDdiRPJISRyJzcGB0+73HGiqOQgO8+GiyL7P7gxzkfFefKBuL60yDB/USr3LKDabR
+	A7NnesotWCYKh12JN/umO8TQ2P/fHdCcNAChgVnqoEQoOgiSzZ/L6xFRsIP75KZqH4I6vW
+	03kovM/jxlkY2zGW2kKGzgp+LaQ80aBmGruccic1S5N37y1+np85K6NlmgnSJ1j1+tA9WO
+	wAxgbh+rYaQBksMkyfHy2w4is8psxHlc3skDAJKe7+6zpQdJRgtca1ERc0sZvUpg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=list-unsubscribe:from:sender:subject:mime-version:content-type:
+	reply-to:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=ZSa/yI75ZE3l9bJdtIVMucFNT0X9Y7sTDAFCinR/edg=;
+	b=qYMIWlPmag6a6SEW53a8zO2BpEw4oFnh4aU7kkblqicL1pcCzZJB1t8Md8cRSlV4s0mh
+	ceHmYUWqWyv+BW7BM0cT+M2hwyepxcskWwt8OCj0iIDFgETEwdioHgdD55K6H6G+pieaoU
+	snwjiZ4FRIQrs32oJNkMC+bj3Km9xlbbA=
+Received: by recvd-69cbc48b94-k6zww with SMTP id recvd-69cbc48b94-k6zww-1-67C7424C-15
+	2025-03-04 18:11:24.600677415 +0000 UTC m=+9492490.585223018
+Received: from aerotechgroup.com (unknown)
+	by geopod-ismtpd-10 (SG)
+	with ESMTP id WzadqgUQSW-E7psNANvodA
+	for <chclosont@yahoo.fr>;
+	Tue, 04 Mar 2025 18:11:24.553 +0000 (UTC)
+X-HS-Cid: 1axfo6b3w0rrj6ykx2tlk976mu3z1g1ua5iw7g
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Cmailto=3A1axdl35usv29edyj189o7n4qoozqd4dlig60yk=40notifybf1=2Ehubsp?=
+ =?us-ascii?Q?ot=2Ecom=3Fsubject=3Dunsubscribe=3E?=
+Date: Tue, 04 Mar 2025 18:11:24 +0000 (UTC)
+From: =?UTF-8?b?8J2YlPCdmLDwnZiv?=
+	=?UTF-8?b?IPCdmIrwnZiw8J2YrvCdmLHwnZii8J2Ys/CdmKLwnZi18J2YpvCdmLbwnZiz?=
+	<info.newslettre@seeendgrid.com>
+sender: chclosont@yahoo.fr
+Message-ID: <1740997994836.c79399c6-7bc5-4ab1-9073-08f90bb8c42d@notifybf1.hubspot.com>
+Subject: Ne =?UTF-8?B?bMmRaXNzZXogZGXJvsm+aWXMgMm+ZQ==?= vous que des bons
+ =?UTF-8?B?c291dmVuacm+cyw=?= non des dettes
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=""----=_Part_1301153_991816803.1740997994896""
+X-Report-Abuse-To: abuse@hubspot.com (see https://policy.hubspot.com/abuse-complaints)
+Reply-To: HubSpot <noreply@notifications.hubspot.com>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ed74+Ev7Y3zc8JH4ZYwIZTj3pUz5H+tACBQ2mx6dOKev0XLAaXqhTUC9gs?=
+ =?us-ascii?Q?drUKfGWcYDYhRVKozKkNKPdmQBHsQtpMe74bMe+?=
+ =?us-ascii?Q?TPqWK=2F79aJHfvs=2Fk7P0kpha8=2FCzG7Drc2FdTpnr?=
+ =?us-ascii?Q?97yuWdvmyYDWEJ8IeheAuFTcSevLq7R8vAKDJ4v?=
+ =?us-ascii?Q?O2q0JAE0GzsiLSa5X7yYND8yjfAq4NLnnXqYpL7?=
+ =?us-ascii?Q?J6dDkiDJEMjfSHtrept=2FG8HtMsKYefiA=2FC16j3P?=
+ =?us-ascii?Q?UFPz30gRqmZonW4L+Q5OBg7bB=2Fvi3nLiUI7tUA5?=
+ =?us-ascii?Q?IFZzdaPi+hvbEocrKiQJsq459V8OS?=
+To: chclosont@yahoo.fr
+X-Entity-ID: u001.oDb9tkhsSfUMwN1peT/4Nw==
+
+------=_Part_1301153_991816803.1740997994896
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Prenez des mesures pour s&eacute;curiser l&#x27;acc&egrave;s &agrave; votre=
+ compte HubSpot
+https://app.hubspot.com/api/notification-station/general/v1/notifications/c=
+ta/728c07a7-c9e6-4f6c-917b-d3fb8b1be4b0?notificationPortalId=3D49260018&del=
+iveryMethod=3DEMAIL
+------=_Part_1301153_991816803.1740997994896
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html>
+<head>
+  <title>Assurance Obs=C3=A8ques</title>
+  <meta http-equiv=3D""X-UA-Compatible"" content=3D""IEge"">
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+  <meta name=3D""viewport"" content=3D""widthvice-width, initial-scale=3D1"">
+  <style>
+    body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+    .container { max-width: 600px; margin: auto; background: #ffffff; paddi=
+ng: 20px; }
+    .header { text-align: center; }
+    .cta-button {
+      display: inline-block;
+      background: #fd9000;
+      color: #ffffff;
+      font-size: 18px;
+      font-weight: bold;
+      padding: 12px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .footer { text-align: center; font-size: 12px; color: #666; }
+  </style>
+</head>
+<body>
+  <div class=3D""container"">
+    <div class=3D""header"">
+      <h1>Ne laissez derri=C3=A8re vous que des souvenirs</h1>
+      <p>Assurez vos obs=C3=A8ques d=C3=A8s 9,90=E2=82=AC par mois.</p>
+      <a href=3D""http://ct.bizsourceinfo.com/rd/cts?d=3D7-373548-478915-0-1=
+245872-9686662-0-0-0-22-14129-544"" class=3D""cta-button"">Souscrire maintenan=
+t</a>
+    </div>
+    <p>
+      Aujourd=E2=80=99hui, plus de 5 millions de personnes en France ont fa=
+it le choix de l=E2=80=99assurance obs=C3=A8ques.<br>
+      Cette solution permet d=E2=80=99anticiper l=E2=80=99organisation et l=
+e financement des obs=C3=A8ques.
+    </p>
+    <div class=3D""footer"">
+      <p><a href=3D""http://ct.bizsourceinfo.com/rd/cts?d=3D7-373548-478915-=
+0-1245872-9686663-0-0-0-22-14129-544"" style=3D""color:#666;"">Se d=C3=A9sabon=
+ner</a></p>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+------=_Part_1301153_991816803.1740997994896--
+","""𝘔𝘰𝘯 𝘊𝘰𝘮𝘱𝘢𝘳𝘢𝘵𝘦𝘶𝘳"" <info.newslettre@seeendgrid.com>",chclosont@yahoo.fr,2025-03-04,165.22.172.0,United States,fr,users/47270876/f067529c-ea67-407c-b0c6-f8d3c33e872b.json

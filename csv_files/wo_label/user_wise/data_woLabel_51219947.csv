@@ -1,0 +1,278 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51219947,aNqLoZXkTbihGDW_s--c-g.recvd-69cbc48b94-k7868-1-67D13CDB-2.0,cHJvY2Vzc2VkLTUxMjE5OTQ3LWFOcUxvWlhrVGJpaEdEV19zLS1jLWctMA,r,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=qgty.tirednotbroke.us;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=vBQL0hhml7kpPtDUEhUcxalQvEk5V7OUHo/Qbklr738=;
+	b=LpGVqAObhnD7nWDVZa3Bd7qJSNuHc7aBJg3sKpxKkJFeGu7T7DsdDuHApKvBZDuXEJr5
+	uMK3zWiVN7+rP3RgxSM/+YF9GijKkhN35FdCat9WbkynKdZKYz2hBWV26e0P01WH8HSyvO
+	n02mafiY5Cb1e46XxF/Muc3i2FYPRDrKquRhNDDMlT12ksAVS3OtNjPz+ytM4cL8LzBhNm
+	f5WPvnuaLGlrj9H9KiylJQItkmVjaWiWNOenQiW4LDsk0Uxvq/U4+2MutHlEciAlvJ8mHF
+	ie7MAFn5Aqzb2lmo0mHbJhXuaSQkuun96idiL3I6F4VjnEPEhncuUPAkxbC8dLQg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=vBQL0hhml7kpPtDUEhUcxalQvEk5V7OUHo/Qbklr738=;
+	b=pKyNZ8zvQBKhnkwE63jbyLyhyZKcXMrZ85gpWHFTNvzbMPtGROOGqCDqhW5GAMlazB4K
+	LZlKw9iETUDNFuwYjLfPwMgSFsWsRpwhCxwdA8kHxOpSeCXYbG55xbjPCxAyslE6bpXtqn
+	eJJ+V7X5gOFBHidXamBgKViBy13758WJo=
+Received: by recvd-69cbc48b94-k7868 with SMTP id recvd-69cbc48b94-k7868-1-67D13CDB-2
+	2025-03-12 07:50:51.129543436 +0000 UTC m=+10146553.184299062
+Received: from NTEyMTk5NDc (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id aNqLoZXkTbihGDW_s--c-g
+	Wed, 12 Mar 2025 07:50:51.029 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Wed, 12 Mar 2025 07:50:51 +0000 (UTC)
+From: u <newsletter@qgty.tirednotbroke.us>
+Mime-Version: 1.0
+Message-ID: <aNqLoZXkTbihGDW_s--c-g@geopod-ismtpd-2>
+Subject: r
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EgNDX1PqaK6uIuV5d7G+OT=2FlmQnEnsWBog32yRzNnvnjevBrC0uZuLZVA7?=
+ =?us-ascii?Q?Nz4+kkbiY5l8hUsToLSqss06C5twOTq2d3QHzDT?=
+ =?us-ascii?Q?Slq83bpKi=2FOol9+qxixNQugsuVwBLOtaGJkR0K6?=
+ =?us-ascii?Q?gYsdxp5kzt2AexDKdheUmajBM0s3Vy2Vi0P+k8W?=
+ =?us-ascii?Q?BAosCWC71r8UW3WO8SCqJakZyPW=2FFb2PoNT1Ggx?=
+ =?us-ascii?Q?Iq6S4mqkGwWPoQMTl+UnJ5X179juajRodcbnWtI?= =?us-ascii?Q?zZ1l?=
+To: abhayameher@att.net
+X-Entity-ID: u001.fOCOYnj6Toad7csGlVoFRQ==
+
+<!doctype html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce""><head><title>Rendez-vous =C3=A0 Cannes ! =E2=98=80=EF=B8=8F</title><!--=
+[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><=
+!--<![endif]--><meta http-equiv=3D""Content-Type"" content=3D""text/html; char=
+set=3DUTF-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initia=
+l-scale=3D1""><style type=3D""text/css"">#outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D""text/css"">@media only screen and (min-width:=
+480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important; max-width: 50%; }
+      }</style><style media=3D""screen and (min-width:480px)"">.moz-text-html=
+ .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-50 { width:50% !important; max-width: 50%; }<=
+/style><style type=3D""text/css"">[owa] .mj-column-per-100 { width:100% !impo=
+rtant; max-width: 100%; }
+[owa] .mj-column-per-50 { width:50% !important; max-width: 50%; }</style><s=
+tyle type=3D""text/css"">@media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }</style><style type=3D""text/css"">:root {
+      color-scheme: light dark;
+    }</style><div><meta name=3D""supported-color-scheme"" value=3D""light dark=
+""></div></head>
+<!doctype html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce""><head><title>Rendez-vous =C3=A0 Cannes ! =E2=98=80=EF=B8=8F</title><!--=
+[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><=
+!--<![endif]--><meta http-equiv=3D""Content-Type"" content=3D""text/html; char=
+set=3DUTF-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initia=
+l-scale=3D1""><style type=3D""text/css"">#outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D""text/css"">@media only screen and (min-width:=
+480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important; max-width: 50%; }
+      }</style><style media=3D""screen and (min-width:480px)"">.moz-text-html=
+ .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-50 { width:50% !important; max-width: 50%; }<=
+/style><style type=3D""text/css"">[owa] .mj-column-per-100 { width:100% !impo=
+rtant; max-width: 100%; }
+[owa] .mj-column-per-50 { width:50% !important; max-width: 50%; }</style><s=
+tyle type=3D""text/css"">@media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }</style><style type=3D""text/css"">:root {
+      color-scheme: light dark;
+    }</style><div><meta name=3D""supported-color-scheme"" value=3D""light dark=
+""></div></head>
+<!doctype html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce""><head><title>Rendez-vous =C3=A0 Cannes ! =E2=98=80=EF=B8=8F</title><!--=
+[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><=
+!--<![endif]--><meta http-equiv=3D""Content-Type"" content=3D""text/html; char=
+set=3DUTF-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initia=
+l-scale=3D1""><style type=3D""text/css"">#outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D""text/css"">@media only screen and (min-width:=
+480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important; max-width: 50%; }
+      }</style><style media=3D""screen and (min-width:480px)"">.moz-text-html=
+ .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-50 { width:50% !important; max-width: 50%; }<=
+/style><style type=3D""text/css"">[owa] .mj-column-per-100 { width:100% !impo=
+rtant; max-width: 100%; }
+[owa] .mj-column-per-50 { width:50% !important; max-width: 50%; }</style><s=
+tyle type=3D""text/css"">@media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }</style><style type=3D""text/css"">:root {
+      color-scheme: light dark;
+    }</style><div><meta name=3D""supported-color-scheme"" value=3D""light dark=
+""></div></head>
+<!doctype html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce""><head><title>Rendez-vous =C3=A0 Cannes ! =E2=98=80=EF=B8=8F</title><!--=
+[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><=
+!--<![endif]--><meta http-equiv=3D""Content-Type"" content=3D""text/html; char=
+set=3DUTF-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initia=
+l-scale=3D1""><style type=3D""text/css"">#outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D""text/css"">@media only screen and (min-width:=
+480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important; max-width: 50%; }
+      }</style><style media=3D""screen and (min-width:480px)"">.moz-text-html=
+ .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-50 { width:50% !important; max-width: 50%; }<=
+/style><style type=3D""text/css"">[owa] .mj-column-per-100 { width:100% !impo=
+rtant; max-width: 100%; }
+[owa] .mj-column-per-50 { width:50% !important; max-width: 50%; }</style><s=
+tyle type=3D""text/css"">@media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }</style><style type=3D""text/css"">:root {
+      color-scheme: light dark;
+    }</style><div><meta name=3D""supported-color-scheme"" value=3D""light dark=
+""></div></head>
+<!doctype html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce""><head><title>Rendez-vous =C3=A0 Cannes ! =E2=98=80=EF=B8=8F</title><!--=
+[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><=
+!--<![endif]--><meta http-equiv=3D""Content-Type"" content=3D""text/html; char=
+set=3DUTF-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initia=
+l-scale=3D1""><style type=3D""text/css"">#outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }</style><!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]--><!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]--><style type=3D""text/css"">@media only screen and (min-width:=
+480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important; max-width: 50%; }
+      }</style><style media=3D""screen and (min-width:480px)"">.moz-text-html=
+ .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-50 { width:50% !important; max-width: 50%; }<=
+/style><style type=3D""text/css"">[owa] .mj-column-per-100 { width:100% !impo=
+rtant; max-width: 100%; }
+[owa] .mj-column-per-50 { width:50% !important; max-width: 50%; }</style><s=
+tyle type=3D""text/css"">@media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }</style><style type=3D""text/css"">:root {
+      color-scheme: light dark;
+    }</style><div><meta name=3D""supported-color-scheme"" value=3D""light dark=
+""></div></head>
+
+	<body>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://theraportal.site/9b5688095a908180a37f/e2d1649290727757=
+fe"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.com/pr=
+ojects/266824/1741761127805-ss2.png"" style=3D""width: 600px; height: 753px;""=
+ /></a></p>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://theraportal.site/9b5688095a908180a37f/e2d1649290727757=
+feun"" target=3D""_blank""><img alt=3D""unsub"" src=3D""https://assets.unlayer.co=
+m/projects/266824/1741068816652-uns2.png"" style=3D""width: 523px; height: 86=
+px;"" /></a></p>
+	<img src=3D""https://u51219947.ct.sendgrid.net/wf/open?upn=3Du001.plPOKvuBv=
+FcRWP21O7nxfO0PTdDyYK6oZuJBCbCysLL-2BddPVbyzG-2FXYF536aAotuj3deiCVzuF-2FRly=
+S1MLGJ1CX5xTTdvz2-2BmldCtu096EWeQ6dcoT2PoFTzvkLgTyXpDcCYL04Z5eK3agZCJckI2FM=
+waSkaY02LZuMyV6N2mL3vx7Z736JQTLHaaoT0SzXRtApaiymqrp3KauJ35DEmww-3D-3D"" alt=
+=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;""/></body>
+</html>
+","""u"" <newsletter@qgty.tirednotbroke.us>",abhayameher@att.net,2025-03-12,155.138.211.84,United States,cy,users/51219947/22d1a544-2b70-4cf0-bce7-68942b275ff4.json

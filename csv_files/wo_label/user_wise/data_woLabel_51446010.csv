@@ -1,0 +1,435 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51446010,FUMydkO0Q4W3Os7xsyqOWA.recvd-69cbc48b94-8fhm8-1-67DDB291-23.18,cHJvY2Vzc2VkLTUxNDQ2MDEwLUZVTXlka08wUTRXM09zN3hzeXFPV0EtMTg,thank you for your order,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=smtpapi; bh=cIV/CDHfhnGMyWZ/E9slPirPKYTdxDos9aG+QSfW6Sk=;
+	b=zcUfns+pb5n9Q9Qy/SemFOEOJ1nugEx0ob07Dsw4pRgjTfvccvFELPHl6T+k4nyxDYZC
+	OMwHOKPaEObsG8nrO26m/TMBqllb6I+B1UPIrmpccvSLFya34/YbessbYXel3PlwgckF63
+	p0VJ6BKhffS66lZNuwwnrJIpaBNuoUveE=
+Received: by recvd-69cbc48b94-8fhm8 with SMTP id recvd-69cbc48b94-8fhm8-1-67DDB291-23
+	2025-03-21 18:40:17.706113079 +0000 UTC m=+10963127.672139541
+Received: from NTE0NDYwMTA (unknown)
+	by geopod-ismtpd-3 (SG) with HTTP
+	id FUMydkO0Q4W3Os7xsyqOWA
+	Fri, 21 Mar 2025 18:40:17.692 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=1baf6dc81ee8124530a6b7e71b23858e8c155a9912a013b2841fb57aad2a
+Date: Fri, 21 Mar 2025 18:40:18 +0000 (UTC)
+From: Mike <miketyson@professionneldubatiment-tahiti.com>
+Mime-Version: 1.0
+Message-ID: <FUMydkO0Q4W3Os7xsyqOWA@geopod-ismtpd-3>
+Subject: thank you for your order
+Reply-To: miketyson@professionneldubatiment-tahiti.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ElxTqIF+HxWbjDm2Hkkl7YShY7hbeUju+9XAS3G=2FPkfAj5Suy51xKONP?=
+ =?us-ascii?Q?9QOEY+U3PERpzepPvoi3LLeN=2FpJ0YHM4dDj6tUT?=
+ =?us-ascii?Q?78X=2FljB4tAIPB1ikrlfkDO0+QW5C3ooRNgkw7id?=
+ =?us-ascii?Q?jLsZRv3V8OqRYqDF51=2FOOkcx77ou1F1irYxxlou?=
+ =?us-ascii?Q?RjzM3S813Gcuyqe+SxSzFADgTJsSMQYaQtvAwjH?=
+ =?us-ascii?Q?H2ndGUy0o6+qnXeFbgWtKxkTOJyTKmdsNYMYHbl?=
+ =?us-ascii?Q?qztMyUWp3mQEIpcUqrcqZS8HUw=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOuvnQ8acaF2vZ2CIbDljLlY0ru?=
+ =?us-ascii?Q?fislaBz5NRsmyhU0WcLcLTrpxld5loO+NTBcJ+U?=
+ =?us-ascii?Q?vM0CB+cPCIW5nNRPwIjZGOyoaCDWDe3VoRRwlhz?=
+ =?us-ascii?Q?JZohCH2qb04EvFKWyTHecURwMsZK+EjytgCs533?=
+ =?us-ascii?Q?5PoKNxSok7gcHFy4ZxnZgmgHp9eM1kAK0c0x0AK?=
+ =?us-ascii?Q?AUo=2Ft2flCSpv+DYDoRPL7J66GgDIYuZeYTfggYG?=
+ =?us-ascii?Q?FcJaJJ9Ag0WvGhNYqCEUaAbgfgMutg89rxrfAHX?=
+ =?us-ascii?Q?TRS20Z5wvprLvz1Dpuj00SDNPQRdferMcFE5R0w?=
+ =?us-ascii?Q?nRdsZoP8PtjVQUXAH1CD8rwJCkzYg7=2F6hw7mt9s?=
+ =?us-ascii?Q?mF7zJ=2FgFK+ksn8+cfs1XJv+ri3rHw7FAdRydj6g?=
+ =?us-ascii?Q?RluaY2+CdaK+VHHKHdCfTPI+Hwj4arnw7Lljq52?=
+ =?us-ascii?Q?zPcZ7ACd2DcHQStd+GYVQHL4ECWYULaGPbvgWo7?=
+ =?us-ascii?Q?kKhUcTHj19AqzGNrCH9RlABLHIxTDUiwy8+OJVs?=
+ =?us-ascii?Q?ENhhuKpFn9KZt=2FVN940Epe9hPvXKvhQoliBOmXR?=
+ =?us-ascii?Q?L9HhlXhsG1gybvy2gqmv6T=2F?=
+To: sands731@charter.net
+X-Entity-ID: u001.aJmSYdbb8JNcMpUgij2hxA==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51446010=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EvGe4?=
+ =?us-ascii?Q?mJkmdqF=5FfEfvN-YBcl-mOpePGs36L=5F5=5Fsj6qkYF?=
+ =?us-ascii?Q?eNfU15XicP032bM8wWxzsJ5JWLuLXgPWcM0pnSG?=
+ =?us-ascii?Q?24v3FmMDqg=5FHhcOWsibEfUQiQLNXC04xK49O8a9?=
+ =?us-ascii?Q?Tn6Koc-FJUUfxjDW-9Tl0685TA7VX5vlsOrZJ5=5F?=
+ =?us-ascii?Q?FdBL8SF=5FbK1XJ7E=5FZ68FO2N2O-yT4IXroeIPXaQ?=
+ =?us-ascii?Q?=5FsFKM-JGBe8eIIO3grRjIpYJIon=5FAGSlf3HU08T?=
+ =?us-ascii?Q?2cR0UEGPggZ3ebCq4CxNncg5mTEkWutmm5uwCnG?=
+ =?us-ascii?Q?dg=5FNX3UZma=5FtqqSHzagnuMmHlLrgBFqR6qGFqVR?=
+ =?us-ascii?Q?oRIsvotdau5ph2ZpJsq14eHhQtlEpTzHuvfbXrj?=
+ =?us-ascii?Q?E5pnlTJVhOh6UdkyP10w5jkEjys6CEpbD32Bc9l?=
+ =?us-ascii?Q?4hM-bte=5FZa2gQbHWQF3mghPDXzvg268tDI-zDfD?=
+ =?us-ascii?Q?wuAQFbCv8s6FFEFGKyjYIV89=5FVATJL1WgzpVIVr?=
+ =?us-ascii?Q?x1abP9M9i2BTIvopbk1yD9OgpgavcWgzWMfIaQe?=
+ =?us-ascii?Q?fh-WvaGG4URhy6fWFWiJshO0iHeapb76YOfwDHi?=
+ =?us-ascii?Q?ATLZcZemJY967PnUVSmPh8dmrkx=5FMuv=5Fd-3ewxB?=
+ =?us-ascii?Q?GXa51TqfuI4yXPgwtYF1=5FoVQRX2-QFWxBP2CeLe?=
+ =?us-ascii?Q?AUHMvQ9hBOU9HEzVQ69FYaMpzMUXH9PTetCDWIg?=
+ =?us-ascii?Q?VsmAzxUjPtFWttQVwZf=5FBy4ik7VyLrbCbytSNXt?=
+ =?us-ascii?Q?KyJRyPVoCQaI-Ps-y7RhktDITgM4lR8ePuIuR5u?=
+ =?us-ascii?Q?rLoplo1sAVk59EXRUPhoSHK8qFYV7aXH0dnqP54?=
+ =?us-ascii?Q?sc3dOE-dW4F709--0u-KFk-nUNBLRjH8Eb-HY0l?=
+ =?us-ascii?Q?7IjHd103a0WAHBo-kXwXBfFcnWfDXpYAqr-rusz?=
+ =?us-ascii?Q?ofCt9PfW2O1zbMx4JoNQCnRjmVuYmireLheohVB?=
+ =?us-ascii?Q?fqwKq9adiUF52OaOgIPNSs4tjPLLh8-I86hnChO?=
+ =?us-ascii?Q?Gb3CW-CfUo7nGNWPhElQstQKEzE0QzalTeZH4Cb?=
+ =?us-ascii?Q?v9KVxIcZ1wBhTI1duaAl255TGhjD1k3j1y2WjPx?=
+ =?us-ascii?Q?RtZnJQDoxVntrIXkNxJar5Z4AYIR14ya=5FQkZhoa?=
+ =?us-ascii?Q?Xe9=5FWNmwXLrCBtWMLqiRt44GodSl8TCGuRScluY?=
+ =?us-ascii?Q?4YKuncaUanJessl3fNGx4wtXeoHTmjwsWv0NeAZ?=
+ =?us-ascii?Q?nCBEXVN6WTYMYhPXV5gv6WsTJdwVloURRv6PsZc?=
+ =?us-ascii?Q?-Nn0QCQ-tQfrFJbdz8WEh1cCsRdljWrXH=5FGpNQ=5F?=
+ =?us-ascii?Q?5jLygwK7RB3mmci=5F9-D0NLs1=5FYYOiW6UpK0DRma?=
+ =?us-ascii?Q?p-5fXWMUsbjcU5NPelNG8aBZ=5FArUU4RF0GoWx5h?=
+ =?us-ascii?Q?=5F5oq6IMNPIG8d7FElUFArTmI-=5FI13PmuyqC5015?=
+ =?us-ascii?Q?T2EzDySTnPUCODdOoEa2S0CsE25eFlwSsDa9PGx?=
+ =?us-ascii?Q?9FioCJQhE9gPhXrBjt0eBgdWkJab1dYHdIKSB1v?=
+ =?us-ascii?Q?Ukm=5FAS1d4qE50stF9HrxdScxjvWWSxK02lNtdX2?=
+ =?us-ascii?Q?JccAkFdtnld0Xq-LFtrH9t0jDGk-Jltfr4F4wq5?=
+ =?us-ascii?Q?SGMUxSS5mwKHAjrFm6NocnCGJTPlD-DTmkTHUVV?=
+ =?us-ascii?Q?0oCp8eLFnouJIwmn3Gvo7k2s4icSDZVerg8zvMu?=
+ =?us-ascii?Q?GwbOltOxu04hvrwid8=5FVZl7fimDJydAYd8jB=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3D51446010=2Eo5dFiwXJrLANwFmqWGSpUdNU96CVt?=
+ =?us-ascii?Q?UEPAYxS7m-aAmRoMDAwdTAwMN2AQYbZVpFQYMRv?=
+ =?us-ascii?Q?cCLGz9sjHs1-7udeH2GPw1aQySbBlhhnMqmvxtR?=
+ =?us-ascii?Q?uZORqB2vT9Mp6JsAbcXKCrTiAkC1ZfRGCDZpPp7?=
+ =?us-ascii?Q?rZTkQ08UlDVFLB=5FW-3DJbrmc0iwOZim9KTJw=3D=3D=2E?=
+ =?us-ascii?Q?IoYtjpODn-j7TPKnaVflwINM9VWImAlfkY8qJ-R?=
+ =?us-ascii?Q?h30loMDAwdTAwMBodVYHwpR71REiJy6vP6Tv12Z?=
+ =?us-ascii?Q?pLVZ4YyM0QB49v5GyRBKd7UJGVm3=5FxWqSRbtYHi?=
+ =?us-ascii?Q?NcwOrUjlL1rwdnG9uHnmmS32mlANpVEtp6ymbkI?=
+ =?us-ascii?Q?rz=5FthGACfOWyB8hLlcSFN2f3j7cURCzWwsDIOpz?=
+ =?us-ascii?Q?MD2KCiWdXj-uIkK5aJ4YMEpGJ5kOlRge-zKgFt6?=
+ =?us-ascii?Q?8BYLrAT3vFBchsUfxNMXR7l93qF9pSJVSpZfoWw?=
+ =?us-ascii?Q?o8T3jHrDIEIv3pgZZk2eMcfZWnrpPJztia3j6eP?=
+ =?us-ascii?Q?wzIJlYtkJj5XylbOQb7Dr84ikC979a5xlaT6et4?=
+ =?us-ascii?Q?ixkjEGv2AP2AnkPAIZUJG1JdswiXLQGjy8bq0zS?=
+ =?us-ascii?Q?St11s5tbnhjuC6Jhlj37=5FNy78nV9zWfEjggG8HZ?=
+ =?us-ascii?Q?xqUyflBMZkWwJRHIx3=5FfLnKlMpD6SvHqP0ofGPD?=
+ =?us-ascii?Q?TtIquxq1Deadccr0Cc2U57mIpyTVqa33JQEn4kQ?=
+ =?us-ascii?Q?maj9nWevzP-he=5FGIx8SRTbMYXfuXZ2MQ4AffyXo?=
+ =?us-ascii?Q?2ZUMv6r6GVlL5svEXhiUp2HFNVKj9MzArQjr3eO?=
+ =?us-ascii?Q?rIB1fr1ohNuNARGbF6biy1c1-sD6n6=5FpVkcB4PP?=
+ =?us-ascii?Q?YPmQbQipcsik1etR=5F=5FQAeZ4IE4n2jb8utc-qCbq?=
+ =?us-ascii?Q?Dk21=5F1dcTd0Mkk4mEakwGkK=5FX-i=5FOVOZbZzcbOQ?=
+ =?us-ascii?Q?293KuPa=5F0MxYsvn6PLMkbnEN3XX5nB43Auntuvp?=
+ =?us-ascii?Q?GSWy0uPgZpK1vOdPMklMtZSbqDnfhTHuwccZCtT?=
+ =?us-ascii?Q?HBGI6q18KSWxRNgNF3Fq0T8htFBzxzkSJ49xzn2?=
+ =?us-ascii?Q?A1m7vGBD4tt5iZLPHt=5F1UcS-kijbBl3LSHVU-jW?=
+ =?us-ascii?Q?-qwRxCHhhlvbT8ymE=5FgPx=5FMIdH-7nfIC-sZz73T?=
+ =?us-ascii?Q?TTJidJSZ7jo5PriLnwF4S5aAAIb2mn9utvJLrgo?=
+ =?us-ascii?Q?BsjxYg-ly1h6CQ=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--1baf6dc81ee8124530a6b7e71b23858e8c155a9912a013b2841fb57aad2a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+PAY-PAL Alert! |Order of $376.45 placed successfully for Farmhouse TV Stand=
+ 21 Mar 2025, If you didn=E2=80=99t placed this order then call on | 818 96=
+6 1173=C2=A0immediately.
+
+Mike
+
+miketyson@professionneldubatiment-tahiti.com , Austin , =20
+
+Unsubscribe ( https://u51446010.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+51446010&data=3DLbKUXumNbd8j7zToE9ofPXs3FcRR7ieB6zwGUQLN6NhoMDAwdTAwMHbxeFY=
+afu-JttkKLc2vUqwwzspwD6WLiP6eZ1vXQGfme5nA4ni66UOgPOi9godejl9Vp0sMmdW1gIlo8F=
+r5eDWKVfM1NqLSIlmzsKWK2YeMqv9hkyZYkAdzLCOqUP_XE3TiEWD4mmVnP9prF7tYAMlaT6k_a=
+i0D8Ecd_WoyvFhf0HgzLbOj0NmHA2nap01mQlDXCU3gdewHRBz6lVbZFgu7YSy0bhfWBZI54NfQ=
+8FwRGQOuGZ7N_r13MqEdsEAdYmCSGCnxrzQKcCHZTrngfj-d8SdbrY9luVYy7A_ckxsTNXzUHr3=
+NwDrJiB28Pg6YaQz_5wWSTE83QJbkqsovZEAZIBx1RezdVlU2ySrZIdUnP71ITlAOX8tJhlt2Hw=
+jekrpwXtmamHkGC6roq3Soi6D0P0HivICMHztDClBvLKCQOkd0a_joPAX8rIAoEXeac8n7RVwxq=
+mUlarkleLjIhIYdSdfK5XlmfyuPsENCIlnMrokjT65k4zWTCKD9QTmM01S1JEpS6iqAv-B9eJch=
+z4lEnQZL4p0RPPxy9GqyhBZHje0pv2_bBu4_Rk4rrqMJ6D46mQrhC4moOGelD-4PMSiqTbG4SZZ=
+WymD_sXCN6NQsEzzn5gRbDZzwpwDI6CBNIaGuL4Kt8EofWlmW11qOFjo84NPABz-o3jq495lJXB=
+0prp7a0xpbTvkZNeXjvayzrk1KpYFvxcz8ziC_XCOh8YufXll0IZ7KAW3yo5OdMpf769ZjpZOUI=
+vQOqjgCBWj0t9QFT4k8zjaNu0iHO17QB5I5DVYvCNulv2KcISOzd4yf8TChbyfTLlb-wzCvxR0u=
+Gd9JDBPD8X1LsiN3bu1OktZs5LkYLxsN4DVl5t3QdzPxFbyjQtF7pzJOKd-_RhLj6AGw-vxNwM-=
+d_7X6nDzPBOiiJ8VyZDeochwKBLmbZr6I26v6wb6wZJhy_0GVNOXwSUuwbaINSLCQmAXVfnlzCW=
+T4YFh4A1QJgJrRToWrzK_WQ8HQfKvqcuKEZcOaS841mVJ0PlbQ5UN1o5xPjn8YnsyUTfP90tTTj=
+YE9rrqphYHM ) - Unsubscribe Preferences ( https://u51446010.ct.sendgrid.net=
+/asm/?user_id=3D51446010&data=3DcAbd45k8Z6wvKq_ADXpyGDC15qIRDaOkmlaSigknRdF=
+oMDAwdTAwMLTzUNzg-1dp_Nc9lgxUURzqLTL4Oi9hcv5fUPCPGuw8f2T0BmVVALDDefu9g_4G4H=
+ySSn1BcgxFUpyhp9Q7y28iBG95g5L7IQO3ca10CbRsLQ_RRoxPZdvpDwLw6td7PF0TN23HfWd7H=
+xJPzrfZaf20CfarRTWVSVwlChW2a3MSQNLwN2ItX0oaFQAUykoAO5FLgW8E4S0Eqhijy2ucsdXQ=
+ENr8bnm19x1kwqRjtqPnU16dUnS-CJZk7J0bEGHLRyeuP03ghWZ1mp7MI0DsidO_oCvNFszeZSo=
+BGRKg8HbHXZJlazALkH81bFYMSfUH10QBzkHaMwLTu2koCcoaswiqharplUndUS2lXeHnY1dqWx=
+TQvzLUIg2CG-KP_7BxT3Ad48N51O9eSU6K2GXYl6jQVxE9IQwso88JkPEvWmvB5eBRRyvLx_6tb=
+mdm3o6PbMzVmjhnT4ys-AsKiH2wuQeTa6FFSA13-abd2u8oDK6Ulk2oscpZuwr5WJp5YQ1MyBcJ=
+6G1dhBTbhc4xuhhwTxiL53f0dyoLkM54zwc8yISxp3cYzYjGJddv_ANXZmqdoaQxzHLVNIbXTQ6=
+6rD4YAY8ZIU2_mr3qW-dKncjsINhAgEF5yDDBlsePgh-DkxrcbudftYFh2mfIunpKG67TbxiMfa=
+_I1VTzDOvBI07vzrkK-ZjmPipH5IWMayZlERdMeG0mNQrBYq-gxeis71PFYGuX4wU-9WdqOXBiU=
+OGzao2-chERD1iaiQdin78K2_eD5IuAsnCFPgqNgMk2fc1BY5ppS5Vjba4mifrphfxL6ICuUrgQ=
+KqqyO3Tn3nCnYYFpuHHd-trZXe2VVkOtJ5eaBNxlJwmfF-znjhin04bqmIjlXZmBK6kxZ2SsJjC=
+myS3oWrqCscXamCfCVIXUlQAogcNoPCZTKn1N4-dmvYnOJCw18MCjUbNAdRH1gpA2m2sWonPaqW=
+o0k6tQtGn5cQoXDgrM_ur5N22fBwvk3sstIafzswCpV5KwHfHvqsxFjCcSgbu-Vsa35AvvbUIbh=
+cBm2SA=3D )
+--1baf6dc81ee8124530a6b7e71b23858e8c155a9912a013b2841fb57aad2a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""c922e4dc-c6ff-4a71-bb07-c400aa16ddd6"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 24p=
+x"">PAY-PAL Alert! |Order of $376.45 placed successfully for Farmhouse TV St=
+and 21 Mar 2025, If you didn=E2=80=99t placed this order then call on | 818=
+ 966 1173&nbsp;immediately.</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Mike</p><p style=3D""font-size:12px; line-height:20px;""><span c=
+lass=3D""Unsubscribe--senderAddress"">miketyson@professionneldubatiment-tahit=
+i.com</span>, <span class=3D""Unsubscribe--senderCity"">Austin</span>, <span =
+class=3D""Unsubscribe--senderState""></span> <span class=3D""Unsubscribe--send=
+erZip""></span></p></div><p style=3D""font-size:12px; line-height:20px;""><a c=
+lass=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u51446010.ct.sendgrid=
+.net/asm/unsubscribe/?user_id=3D51446010&amp;data=3DLbKUXumNbd8j7zToE9ofPXs=
+3FcRR7ieB6zwGUQLN6NhoMDAwdTAwMHbxeFYafu-JttkKLc2vUqwwzspwD6WLiP6eZ1vXQGfme5=
+nA4ni66UOgPOi9godejl9Vp0sMmdW1gIlo8Fr5eDWKVfM1NqLSIlmzsKWK2YeMqv9hkyZYkAdzL=
+COqUP_XE3TiEWD4mmVnP9prF7tYAMlaT6k_ai0D8Ecd_WoyvFhf0HgzLbOj0NmHA2nap01mQlDX=
+CU3gdewHRBz6lVbZFgu7YSy0bhfWBZI54NfQ8FwRGQOuGZ7N_r13MqEdsEAdYmCSGCnxrzQKcCH=
+ZTrngfj-d8SdbrY9luVYy7A_ckxsTNXzUHr3NwDrJiB28Pg6YaQz_5wWSTE83QJbkqsovZEAZIB=
+x1RezdVlU2ySrZIdUnP71ITlAOX8tJhlt2HwjekrpwXtmamHkGC6roq3Soi6D0P0HivICMHztDC=
+lBvLKCQOkd0a_joPAX8rIAoEXeac8n7RVwxqmUlarkleLjIhIYdSdfK5XlmfyuPsENCIlnMrokj=
+T65k4zWTCKD9QTmM01S1JEpS6iqAv-B9eJchz4lEnQZL4p0RPPxy9GqyhBZHje0pv2_bBu4_Rk4=
+rrqMJ6D46mQrhC4moOGelD-4PMSiqTbG4SZZWymD_sXCN6NQsEzzn5gRbDZzwpwDI6CBNIaGuL4=
+Kt8EofWlmW11qOFjo84NPABz-o3jq495lJXB0prp7a0xpbTvkZNeXjvayzrk1KpYFvxcz8ziC_X=
+COh8YufXll0IZ7KAW3yo5OdMpf769ZjpZOUIvQOqjgCBWj0t9QFT4k8zjaNu0iHO17QB5I5DVYv=
+CNulv2KcISOzd4yf8TChbyfTLlb-wzCvxR0uGd9JDBPD8X1LsiN3bu1OktZs5LkYLxsN4DVl5t3=
+QdzPxFbyjQtF7pzJOKd-_RhLj6AGw-vxNwM-d_7X6nDzPBOiiJ8VyZDeochwKBLmbZr6I26v6wb=
+6wZJhy_0GVNOXwSUuwbaINSLCQmAXVfnlzCWT4YFh4A1QJgJrRToWrzK_WQ8HQfKvqcuKEZcOaS=
+841mVJ0PlbQ5UN1o5xPjn8YnsyUTfP90tTTjYE9rrqphYHM"" target=3D""_blank"" style=3D=
+"""">Unsubscribe</a> - <a href=3D""https://u51446010.ct.sendgrid.net/asm/?user=
+_id=3D51446010&amp;data=3DcAbd45k8Z6wvKq_ADXpyGDC15qIRDaOkmlaSigknRdFoMDAwd=
+TAwMLTzUNzg-1dp_Nc9lgxUURzqLTL4Oi9hcv5fUPCPGuw8f2T0BmVVALDDefu9g_4G4HySSn1B=
+cgxFUpyhp9Q7y28iBG95g5L7IQO3ca10CbRsLQ_RRoxPZdvpDwLw6td7PF0TN23HfWd7HxJPzrf=
+Zaf20CfarRTWVSVwlChW2a3MSQNLwN2ItX0oaFQAUykoAO5FLgW8E4S0Eqhijy2ucsdXQENr8bn=
+m19x1kwqRjtqPnU16dUnS-CJZk7J0bEGHLRyeuP03ghWZ1mp7MI0DsidO_oCvNFszeZSoBGRKg8=
+HbHXZJlazALkH81bFYMSfUH10QBzkHaMwLTu2koCcoaswiqharplUndUS2lXeHnY1dqWxTQvzLU=
+Ig2CG-KP_7BxT3Ad48N51O9eSU6K2GXYl6jQVxE9IQwso88JkPEvWmvB5eBRRyvLx_6tbmdm3o6=
+PbMzVmjhnT4ys-AsKiH2wuQeTa6FFSA13-abd2u8oDK6Ulk2oscpZuwr5WJp5YQ1MyBcJ6G1dhB=
+Tbhc4xuhhwTxiL53f0dyoLkM54zwc8yISxp3cYzYjGJddv_ANXZmqdoaQxzHLVNIbXTQ66rD4YA=
+Y8ZIU2_mr3qW-dKncjsINhAgEF5yDDBlsePgh-DkxrcbudftYFh2mfIunpKG67TbxiMfa_I1VTz=
+DOvBI07vzrkK-ZjmPipH5IWMayZlERdMeG0mNQrBYq-gxeis71PFYGuX4wU-9WdqOXBiUOGzao2=
+-chERD1iaiQdin78K2_eD5IuAsnCFPgqNgMk2fc1BY5ppS5Vjba4mifrphfxL6ICuUrgQKqqyO3=
+Tn3nCnYYFpuHHd-trZXe2VVkOtJ5eaBNxlJwmfF-znjhin04bqmIjlXZmBK6kxZ2SsJjCmyS3oW=
+rqCscXamCfCVIXUlQAogcNoPCZTKn1N4-dmvYnOJCw18MCjUbNAdRH1gpA2m2sWonPaqWo0k6tQ=
+tGn5cQoXDgrM_ur5N22fBwvk3sstIafzswCpV5KwHfHvqsxFjCcSgbu-Vsa35AvvbUIbhcBm2SA=
+=3D"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=
+=3D"""">Unsubscribe Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51446010.ct.sendgrid.net/wf/open?upn=3Du001.oezeQi=
+DnNDjGinJdX2-2F33yj7hgQQt3Z2rTWrzgDqYSwSfpaNnYyAXCjb9GzRI0lUrqSADnK0IWiN0Kl=
+ldHSIZe4whAwnUrMV3LEOTEnADhTNrvk9Mhalz3bN3E-2F2glxLZX0BWcbjSp-2FxrPGsdbCg4a=
+6akNWc2W4veY5rewdb2jNKDOo-2BK-2Ff9P0IgIVSJt4rZ5leaiPL0-2B0tfnmHyptcSGrce-2F=
+aWTrPdj355Oa2kJm1zInyeikx1Fa1sp4OBp36jkgJatBWWA7Q35iK7Xev2HUp2gYiUEBquhO8aJ=
+NHlmWsqAVkGK919qr-2BE3GOcKMKR3Ewv8jPp4eQZltdJXXKJ9J-2Bm4o26v-2FAQquBxnGlGVT=
+-2FKu3mxW57G-2BFvPrSs5TSOMUJVBV8ha5FtGwA0hXL83T25K6Md6DpQyMgZ4Yw4JdrBvA8SqY=
+zuKDDERFERk8Cl3OSI1f7iWBYuF70-2FVcmwZp8ityR4iIbanoNVlGSzLXXDdo-2FeOlzxeUPmL=
+fvvndvLqZc6ncdIKTH-2B52SM3TVWNGcS1uif7zTVr-2BrlP4YqWZbTHIcZ7nKRKOYC9tovHFOd=
+8-2F6IBS5d36fS-2FsBpkzzWNw-2Fps5zEh7avUBywlWD7gea28yai-2FOW-2Fv1-2FQNf-2B6u=
+pXX0wpJJvbL5bpxylt7umVDZua0wwTOkwrHOl8a2We-2FGifc4J4G5Nz-2FeqqzG-2FimjZUfkj=
+lOEpxGViCioqChIA2mknaV4IPzaqpfvM3fsKqS1fWqiJo3k67TS0ezFq0If24Z6ZZvAzf8Mnyj8=
+aC5kOvjyXsZRn3OqSfc0Fh1fGReeeufxasTtcw9eaeiOxdmSt9CvbA5l9J4Vpdz04h8aRb3VtJk=
+OkVp7SU8ZED30PaeldtJpiyKwoT4xHxIn3T8RW6ApleSGBvDv9Q4mfKsTUBY3HpA-3D-3D"" alt=
+=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;""/></body>
+  </html>
+--1baf6dc81ee8124530a6b7e71b23858e8c155a9912a013b2841fb57aad2a--
+","""Mike"" <miketyson@professionneldubatiment-tahiti.com>",sands731@charter.net,2025-03-21,44.214.78.206,United States,en,users/51446010/aec3dab9-64e0-4515-b51b-554c0e69db02.json

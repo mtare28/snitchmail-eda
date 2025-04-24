@@ -1,0 +1,809 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51633965,B5hVuEokTF6eEClK7fx3xw.recvd-8575c86f9d-ndblx-1-67EF6298-15.0,cHJvY2Vzc2VkLTUxNjMzOTY1LUI1aFZ1RW9rVEY2ZUVDbEs3ZngzeHctMA,Burgan Drilling shared an Order,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=V9ZTMtvS1Ba83eh9QUsX94otG4dXiu/OuSS6bjgk/HA=;
+	b=ho6sllrGICoJbI0dP1Qx82hJQC7RwX6gUY6g9LgO3ZTN15UGv2zN4JR326alIP6iwkxO
+	nlFwj09hJc8Bl5lX0i+MN+m196LULRLcaSypLeZoLbO5B8H0itAW4Ny3Mw84bcpHN/4lt8
+	DqIb6PJEV5/RmtD+c7dUlAdq7EkGCUucs=
+Received: by recvd-8575c86f9d-ndblx with SMTP id recvd-8575c86f9d-ndblx-1-67EF6298-15
+	2025-04-04 04:39:52.691745231 +0000 UTC m=+12122281.245502765
+Received: from 162.108.106.34.bc.googleusercontent.com (unknown)
+	by geopod-ismtpd-11 (SG) with ESMTP id B5hVuEokTF6eEClK7fx3xw
+	for <aruveetila@ndtv.com>; Fri, 04 Apr 2025 04:39:52.573 +0000 (UTC)
+From: Burgan Drilling Company <mail_protect_oprion@mail.com>
+Subject: Burgan Drilling shared an Order
+Date: Fri, 04 Apr 2025 04:39:52 +0000 (UTC)
+Message-ID: <20250404043952.E85EAF7AB7FD7B03@mail.com>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E=2FFMqWEoFSEwCttT1cBbhfSo26YRayqAYCifLuSa1gQ6BkVCKIiY5WWPR3?=
+ =?us-ascii?Q?jki8XbJrMAhu8ZL+J2iM0Q7LWjB6dz+hvibk=2FH3?=
+ =?us-ascii?Q?PihwoYz=2F3jKlMyCnRkt10DrmjqTz0m8NMDkJ7ff?=
+ =?us-ascii?Q?FZDvunRQIv=2FlyXaEPxHxACnuCmNVQHr29oAro8r?=
+ =?us-ascii?Q?9iOmUMlnC+cTWYLQ34Tie5OM4Q3q9zfO89rUTN5?=
+ =?us-ascii?Q?wY+N8l6GuohXngXXEcmY4ym=2FEmYyFWxHFQ2yGQi?=
+ =?us-ascii?Q?yT0srUnN=2FsVeKIalWTCVk5fWRQ=3D=3D?=
+To: aruveetila@ndtv.com
+X-Entity-ID: u001.L2GuFuTREWhcLSA3KkB4fg==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+
+<html><head>
+    <title></title>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+</head>
+<body style=3D""margin: 0px; padding: 0px; font-family: Arial, Helvetica, sa=
+ns-serif;"" dir=3D""auto"">
+    <table role=3D""presentation"" style=3D""width: 100%; text-align: center; =
+color: rgb(34, 34, 34); border-collapse: collapse; background-color: white;=
+"">
+        <tbody><tr>
+            <td style=3D""padding: 24px 0px 16px;"">
+                <table role=3D""presentation"" style=3D""margin: 0px auto; wid=
+th: 700px; text-align: left; border-collapse: collapse; min-width: 280px; m=
+ax-width: 700px;"">
+                    <tbody><tr>
+                        <td style=3D""padding: 0px;"">
+                            <table role=3D""presentation"" style=3D""border-ra=
+dius: 8px; border: 1px solid rgb(218, 220, 224); border-image: none; width:=
+ 100%;"">
+                                <tbody><tr>
+                                    <td style=3D""padding: 31px;"">
+                                        <div style=3D""color: rgb(60, 64, 67=
+); line-height: 36px; font-size: 28px; margin-bottom: 32px;"">Burgan Drillin=
+g shared an Order</div>
+                                        <table role=3D""presentation"" style=
+=3D""width: 100%; color: rgb(32, 33, 36); line-height: 24px; font-size: 16px=
+;"">
+                                            <tbody><tr>
+                                                <td style=3D""width: 50px; v=
+ertical-align: top;"">
+                                                    <img width=3D""50"" heigh=
+t=3D""50"" style=3D""border-radius: 50%; display: block;"" alt=3D""Profile"" src=
+=3D""https://ssl.gstatic.com/s2/profiles/images/silhouette64.png"">
+                                                </td>
+                                                <td style=3D""padding-left: =
+12px; vertical-align: top;"">
+                                                    <div>Burgan Drilling ha=
+s sent a message regarding the following spreadsheet for the list of items =
+needed and the paid ones.</div>
+                                                    <div style=3D""color: rg=
+b(95, 99, 104); margin-top: 24px;"">Item List.pdf #ME-6339 is here</div>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                        <table role=3D""presentation"" style=
+=3D""width: 100%; margin-top: 16px; border-spacing: 0 4px;"">
+                                            <tbody><tr>
+                                                <td>
+                                                    <div style=3D""padding: =
+6px 12px; -ms-text-overflow: ellipsis;"">
+                                                        <a style=3D""padding=
+: 6px 12px; border-radius: 16px; border: 1px solid rgb(218, 220, 224); bord=
+er-image: none; color: rgb(60, 64, 67); text-decoration: none; display: inl=
+ine-block;""=20
+href=3D""https://u51633965.ct.sendgrid.net/ls/click?upn=3Du001.U-2FSIvYBjGnQ=
+fzwHYfoVEz3eFmXcxZP4SJlSw2AC3js-2F0drNCZUxLx2rh6uIuOXaibl5Jm-2BBA2wVLlgs5Xb=
+Gah5mUEQ9xOBp2Jjj1Mmg2Ufef40lEk077eLCO0-2BqQC9Q58nwvX5S0tVqSwNTdVuQxkDGKUj-=
+2F0Bxrz7PhfWWcANluwekhSTiz8kKP5r9-2BCSJ0UEutPiqSswPQkqLkmDhER7EXfRRl4mZJy4x=
+ldCwJ5fXSffpQEAiuB0quU4KUzWx1xY3UalHM0JL2nrUcdJ5dzdiaykXU8YSBUW2lVbbtsHcdaJ=
+W9cjKmFkoI5O3hIrz2Fxyi1DwivEpwqxaXdtvjVYEbhvBO7gj2uiIF5hsraus6kxTZOsTCv-2F1=
+Lm96GlL-2Bd7e0aV9e9WXy0dbuNCp1nXT4SIUb5o9AwU1H67-2FbmDZzzARO5zv4mniJfpc7u0S=
+T0BxuOQ-2BlPGALOQ3jCsYMQJJQjaFkezGtVIZqB7pz1PseeOiwhV602uYNYOhZQDRkV4LqFayp=
+jZYJkvdRb6at52hVXh5MuIB7Bu8rcXWGuqDQr-2BKMjWO5SPiLaN9lrIoiWNYphtk2B1WRhxboH=
+mRF4TId3dpgdeVOX6Vd0cz44nIbsP-2BZYWdLLJ4h4POlA-2BCwE-2F8QBARHrLniDVVedlqbhn=
+ak0pAtODPXeeMjBzMKwCT-2FTrvyp8LbqL1SOOwuQIbknvhl87fpVju142egEgtNVw2L78zz974=
+xJEk91defU83FNsm8mHC7ZRRsg91-2Fj-2BJ1gVQk1n6zXnqN-2Ban025xgZxfzZQ49TdIBbD64=
+-2BhNDVdcXaT8AnKYKagtzWLOt9LeiLdkA980QQZqjYAc0PVNLCVbT7FlvHP9ec-2B5mWHnrL50=
+pdZqs4MTsM-2FE5k-2F5E2PxSdmFLh59U4EuFy5F3tvPoz99qVz34lthWGxg3YsOuc3zbvRJbZf=
+x-2BvWtHE5gAHpM3A81KQeF0R0I0-2BJ0USzFkJzGw7-2F1asx0PFAg3Dcw6NPgA9ZcpXJtU2kO=
+bW2D-2B-2FSQjGux-2BgsdSqoPcV-2FgW1YRJoJBlvkadC4KoFV-2FcghYc9UfpRKPwjHF-2By9=
+Z8FESnWlzAvIikAk57s75qMJ-2BlFPp2oco-2Fl3GRKIlQavr4d42ylOLicotGW82XWSClQNntn=
+J6YfAxVpkHXJ1VEUUcIv2mKmXbcZh6UobIx5do6XUcOtMoT37l-2FBuG8Jd79UvjB8dRj55Ueyp=
+uKmolX0EVHzByWo9cy9cKxnugC2Wo63fGlakkjcEwUBCDJKC0QpXjAJ1nrfGtHTmmL-2FjNlcpd=
+FXr0VuWWsjMlrt1EU50O6b6zU-2Fc1iU-2BTU85xnMgKyAlgXuVDjNnOhYc7P6W6lHUyrTzs9s0=
+-2BjOSdSRpC-2F17XBI2XJJAncCp9NIwSABHtFJmyFf5D-2BW0emzFgyIzYlZvC0pfIkTaKnFGy=
+NRZTTtVWEoE9siHyXsxx-2BPvaLzNOdaAZtZnfsncfm6-2BtBZQOKsNbBTOkgr3baL9iDYNBI-2=
+BSrrO5GOrMYQok2qNdC4TLVIIjljoEnMsBUsWVyR7eSHMDjL-2Bpuq9Bj86jv-2BGhoqK0H7-2B=
+kQ325WAqzCF-2BBJBNdy-2Bup9r7JenEN5LNicLbiDKNWz5VPI8D2iXZYNG3VeYIPepsAShuJAg=
+RK0qSTeCHtZKCoMJ30-2BgWhYSX3GNWJVOGX6KHWLJ3tc6udFd3hCzv2IR2-2F87tGI6gKcC-2F=
+iVp-2F8kHAgKzVFVQutyq1-2BvXkGF79lq9MpaeT71Hq7kPpXzDLeDtOwIx55TU05XnNNQx2qTs=
+qvs9bmTyTqdGk8IKGRvq8HcXYLb8yPKXU-2BSPjp5JYjAUWsmeWuFMZCpX1DqFtLxig0FEdKyZE=
+fMN4P4uT26bhVF8-2Bm6bc-2BDQrqQGNzxJA8cXeH2yHxmk8DU2ZvhXskyc-2BMKrE6Ry-2Fl1a=
+n2y-2FETiuQOjGU6Zmb88nAKumH504eDGzJjKHGDLBxap7kaGU-2Fvnd6G3LMoRzBFplbh6BagN=
+EUZqyIGhLGrjPLcRE-2F8bUhxDl-2BPpK5tv0-2Bsv9zd6n7jA7JV2mm-2BMtbhvk54F4Hs2Kcq=
+1vuXfa9ci4STD30eLRamu-2Fl8tMuTaUvaGRv5d9KNTLvab85zJZsmtheg3LYivBuyD3w-2Ff1I=
+4pUwlTIfXZvq7-2FhI1xBFH0Oy6aM2RQOLVt4WZPDVBxLiJZrH8i3wBLA8mM-2F8CZ1JLp5LqVv=
+uRGEHXDiaNRZx1y3clL6YMgIVCBkqMtYvSbkdcjngJj2B-2BDu6chgMgNe3PUfgJqiHWH2XCQnc=
+fIO7rtbMmf1QrPcV-2FGKHdAk52vYL40nc5e0Zo9cDWIGfLmqpH-2BapXJg7081GgiU-2FOkdrA=
+324TeRVLP7qFHMn8oUpAYZToM640laqL8teLCcUBu2EyD44OPfQSQZa9QxBxHTDGSVmuaLYm-2B=
+XNBHMDk9QquyA70Y-2B-2F62FjKVKmz4I-2BDOHChcR8Y7rcTi-2FAkec64TmDqarFpHSsoPd7y=
+hsCnRToJIGWZfQ7WHJBnSGul8qeRs6iedabf9IhQWTRPpsJ5MS6SRkSfKcmpc43OQerXoYs2Gys=
+1HGrYFaN3-2FCr37s74QSrfIa-2Fl-2BL9mC-2BZYwCbVfMacbey0Pl62AJjJiQdGtrsf4dEPvo=
+xlxrMODCP1bGYOCj4K7X9fJsrwCh0J5H0rUbsiO-2Fg5p2ieCEB2bvWOXsYfuCFoyzk-2FRglU-=
+2FbQv5xZ5Gn8Hu9xQO-2FNWUomtIPtU-2B-2Bhc2tP6GX0kHS203IfS-2B7R2zoSV0yKfvRm69O=
+eDxyfZz-2BlUhv9NsxdKqsZm8Te-2F-2Fse-2BuiFtgHWKe28tIJakGyE4dk8alHo1py2mfx2ZZ=
+L6mRhPR-2Bh2RWVinTzQu59IccpedaaHweTJX5SbvQVvdjGv63XqXUatBQ3Qey0Atn-2F1zTulp=
+IJMihIZyWDHRsRQf-2FnDFCBsFkFkPhVT76aMe2-2BpA-2F1vkBWhL52Gjy6RJkSSuZWTZELpy4=
+9B-2B2rCva3GQDE9sFhyZB2dxLB-2FRDdCfX9SbZfxgZY6wQOZeq8Q0jO4T7VHsMgETIslP8jun=
+ht12OmABm8Fc0ffehj2nYk-2FG-2BCwFcL5kcoavdfBe9XmVX6xYz7rvU-2F-2FsECrBDnksAYR=
+lb-2ByIkSXvwzbkmDkgBwzDL0xnFPTlOQJIAQwZgAjkrbSJ9reCkq1wlKae-2FRa9nbInAmFzrB=
+AYUzEjEJ9pJYAWRIX9rin3KKM-2BT3W0jOJqZswSyXMORiXKxYN8TDcNSWRkENaozPjm-2B5Kd9=
+DWfxvvlg-2B2jNSfPNuFAP-2Fs1aqMN38mBCCVDBc7B-2Ftrw-2BnVVEoqSbTjvgVfKaQ3VICHi=
+AYpALowZuqtlof-2Fsd8NQHpzu99XELv332LQBjmPS5GMhLT3-2Bk2T6RO5uZBHXbmI5Gn237MM=
+Mp1LimOdo7L4BeZ-2FNDP7qaRicu82wFdu02mBe-2B3BtnaBmtouT4MV4hES0utC8lmChs2-2FO=
+q8fxox-2B8HumylX9A8kiSkjt4-2FIToCsKAGO9VvmHj7Bl9uhZqFORO5LKGuNjlYc1vSfEWNdM=
+IM9AOm7B-2BXq2Mgjz95WkmUDAYO-2F-2FfOO-2FMflf-2Fxq6woc0yqMuqw757cXCJ-2Fk27Z1=
+TTf0q9qhlit6iVoFIquyqxfCQOVILdu041kaFOkEVL4rHrktFKx5-2BWZXx2tc0csL4uZxzm6Kc=
+-2FF7O3KYfMBrR-2BTgBQS7JzHR3lh3yvLfFQSKkusofhexRTSHkIgx0tBbwIm5AfORYSOd4K8m=
+APor8hoMOp1EQW696GW4scH-2BeVjCaWy5beOi5gmQyNSwb8QQ6Gb8KUYzUqz34MCQPTzD0RDyg=
+tcKjnr28whZY64HObXAqW20-2BdLEeFN2OKuzAJg06Jhe7PmSGnkRw0AVsFO5LCmC20zou-2FFd=
+BleEnxA-2BqM3hs-2FtxLb-2BdV0-2B3-2Bqbyy5_KIYsAnHPtaFCdJoyP2y9b7wiTPaW8CGs4Q=
+5mHKDgWV1WaqVI2dEI6W0KyME6Z-2BlN-2Bt-2BBQrY6e5WuLP97QBKBS8J36Y8o6zPGTbCJ-2B=
+YqAqM32amW2JI6x5k2n4Xas8gtgOw7Fgmx5CORnbmuxR-2BWG-2FkcwMMY-2BGUQaa7gMZA-2BW=
+BRZzyf5CvEBFQb4NsH0XMlnCaXdi-2FYfl7f7o6oBn0LcTLQ-3D-3D"">
+                                                            <img width=3D""1=
+8"" height=3D""18"" style=3D""padding-right: 8px; vertical-align: middle;"" src=
+=3D""https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_spreadshee=
+t_x64.png"">
+                                                            View Purchase O=
+rder List; Payment Terms 100% TT
+                                                        </a>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                            <table role=3D""presentation"" style=3D""width: 70=
+0px; margin-top: 24px; border-collapse: collapse;"">
+                                <tbody><tr>
+                                    <td style=3D""padding: 24px 32px;"">
+                                        <table style=3D""width: 100%; border=
+-collapse: collapse;"">
+                                            <tbody><tr>
+                                                <td style=3D""color: rgb(95,=
+ 99, 104); padding-right: 20px; font-size: 12px;"">
+                                                    You have received this =
+email because <a style=3D""color: rgb(17, 85, 204);"" href=3D""mailto:{{email =
+| default}}"">{{email | default}}</a> shared a spreadsheet with you from Goo=
+gle Sheets.
+                                                </td>
+                                                <td style=3D""text-align: ri=
+ght;"">
+                                                    <a href=3D""https://u516=
+33965.ct.sendgrid.net/ls/click?upn=3Du001.U-2FSIvYBjGnQfzwHYfoVEzxA9Vu2Eg8C=
+cbNq6Xbyl99VaRy74XtD4MC9eB3ZiWe0q2pJp_KIYsAnHPtaFCdJoyP2y9b7wiTPaW8CGs4Q5mH=
+KDgWV1WaqVI2dEI6W0KyME6Z-2BlNQCtSGk2szJqSIF6gabyTMRiP8ehRR9b7a-2FY4DxSNcw6d=
+tOM5tjC0Ym3WAh1yWQ8Rv2aZ4kgvjZgng-2FJU-2B5u3KhZ4RO6IZQiRxJOb0aaGCRlp8GNNKKI=
+vr6JXUw3Sq-2FLDJ3J-2F18c0H-2FUcCYu3BFpNqg-3D-3D"" target=3D""_blank"">
+                                                        <img width=3D""96"" a=
+lt=3D""Google logo"" src=3D""https://www.gstatic.com/docs/documents/share/imag=
+es/googleworkspace_logo_192x80.png"" height=3D""40"">
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+ <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div>&nbsp;</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div>&nbsp;</div>
+
+
+
+<div dir=3D""ltr"">That works for me, I will go ahead and write in my schedul=
+e.&nbsp;</div>
+<div dir=3D""ltr""><br>
+</div>
+<div dir=3D""ltr"">Thanks Kaley, Happy Thanksgiving!&nbsp;</div>
+<div dir=3D""ltr""><br>
+<blockquote type=3D""cite"">On Nov 24, 2020, at 5:24 PM, KALEY KALLMAN &lt;KA=
+LEY.KALLMAN@ushadvisors.com&gt; wrote:<br>
+<br>
+</blockquote>
+</div>
+<blockquote type=3D""cite"">
+<div dir=3D""ltr"">&#65279; How about next Tuesday at 1pm?
+<div><br>
+<div>
+<div style=3D""margin: 0in 0in 0pt; color: rgb(0, 0, 0); text-transform: non=
+e; text-indent: 0px; letter-spacing: normal; font-family: Helvetica; font-s=
+ize: 11pt; font-style: normal; font-weight: normal; text-decoration: none; =
+word-spacing: 0px; white-space: normal; font-variant-caps: normal; -webkit-=
+text-stroke-width: 0px;"">
+<div style=3D""margin: 0in 0in 0pt; font-size: 11pt;""><span style=3D""font-si=
+ze: 12px;"">Sincerely,</span><font color=3D""#1f497d"" face=3D""Arial Narrow, s=
+ans-serif""><b><br class=3D""Apple-interchange-newline"">
+<br>
+</b></font></div>
+<div style=3D""margin: 0in 0in 0pt; font-size: 11pt;""><font color=3D""#1f497d=
+"" face=3D""Arial Narrow, sans-serif""><b>Kaley Kallman</b></font></div>
+<div style=3D""margin: 0in 0in 0pt; color: rgb(0, 0, 0); font-family: Calibr=
+i, sans-serif; font-size: 11pt; font-weight: normal;"">
+<b style=3D""font-size: 11pt;""><span style=3D'color: red; font-family: ""Aria=
+l Narrow"", sans-serif;'>US</span></b><b style=3D""font-size: 11pt;""><span st=
+yle=3D'color: rgb(0, 32, 96); font-family: ""Arial Narrow"", sans-serif;'>Hea=
+lth</span></b><span style=3D'color: rgb(31, 73, 125); font-family: ""Arial N=
+arrow"", sans-serif; font-size: 11pt;'>&nbsp;</span><b style=3D""font-size: 1=
+1pt;""><span style=3D'color: rgb(0, 32, 96); font-family: ""Arial Narrow"", sa=
+ns-serif;'>Advisors</span></b></div>
+<div style=3D""margin: 0in 0in 0pt; font-family: Calibri, sans-serif; font-s=
+ize: 11pt; font-weight: normal;"">
+<font color=3D""#0433ff""><a href=3D""https://u51633965.ct.sendgrid.net/ls/cli=
+ck?upn=3Du001.BUR9L1w0oXdS0Vk3ZIBtOB9Dx8jqn3rlFc5UqBo33yVjFZrStIJyLbhjGpWZn=
+xElAcST_KIYsAnHPtaFCdJoyP2y9b7wiTPaW8CGs4Q5mHKDgWV1WaqVI2dEI6W0KyME6Z-2BlN6=
+ams10O7FMf1qL379fqWYZ-2BvITJyjSgY6QTCefwkAtyIvspUDo5xpA1LdQqQ77P5ReVJgMr43p=
+VobgUP7fFl-2BkKqYSATgNqa7knkBTf7C-2Bru4C1aViQPuS009xhBLOvOQbOQ2nJrxH7XrPKI4=
+feSPg-3D-3D"">www.ushagent.com/kaleykallman</a></font></div>
+<div style=3D""margin: 0in 0in 0pt; color: rgb(0, 0, 0); font-family: Helvet=
+ica; font-size: 12px; font-weight: normal;"">
+<span style=3D'font-family: ""Arial Narrow"", sans-serif; font-size: 11pt;'>C=
+ell: (407) 562-6403</span></div>
+</div>
+</div>
+<div><br>
+<div>On Nov 24, 2020, at 1:28 PM, Tara Wolf &lt;<a href=3D""mailto:tara@tara=
+darling.com"">tara@taradarling.com</a>&gt; wrote:</div>
+<br class=3D""Apple-interchange-newline"">
+<div>
+<div dir=3D""auto"">
+<div><br class=3D""webkit-block-placeholder"">
+</div>
+<div style=3D""padding: 2pt; border: 1pt solid rgb(156, 101, 0); border-imag=
+e: none; width: 100%; text-align: left; line-height: 12pt; font-family: Cal=
+ibri; font-size: 10pt; background-color: rgb(255, 235, 156);"">
+<span style=3D""color: rgb(156, 101, 0);"" ;font-weight:bold;=3D"""">CAUTION:</=
+span> This email originated from outside of the organization. Do not click =
+links or open attachments unless you recognize the sender and know the cont=
+ent is safe.</div>
+<br>
+<div><br class=3D""webkit-block-placeholder"">
+</div>
+<div>
+<div dir=3D""ltr"">Hi Kaley,&nbsp;</div>
+<div dir=3D""ltr""><br>
+</div>
+<div dir=3D""ltr"">Thank you for reaching out. Yes, that would be great! I ha=
+ve some availability next week if that works with you. I am open on Tuesday=
+ and Wednesday before the meeting. Let me know if those work with you.&nbsp=
+;</div>
+<div dir=3D""ltr""><br>
+</div>
+<div dir=3D""ltr"">Happy Thanksgiving to you as well!&nbsp;</div>
+<div dir=3D""ltr"">Thank you,&nbsp;</div>
+<div dir=3D""ltr""><br>
+</div>
+<div dir=3D""ltr"">Tara Wolf&nbsp;</div>
+<div dir=3D""ltr""><br>
+<blockquote type=3D""cite"">On Nov 24, 2020, at 8:41 AM, KALEY KALLMAN &lt;<a=
+ href=3D""mailto:KALEY.KALLMAN@ushadvisors.com"">KALEY.KALLMAN@ushadvisors.co=
+m</a>&gt; wrote:<br>
+<br>
+</blockquote>
+</div>
+<blockquote type=3D""cite"">
+<div dir=3D""ltr"">&#65279;
+<div>Good morning Tara,</div>
+<div><br>
+</div>
+<div>As you probably know, I&#8217;m a member mentor for our BNI chapter. I=
+&#8217;d like to set up a 1:1 with you to check in and see how you are doin=
+g.&nbsp;</div>
+<div><br>
+</div>
+<div>Let me know if you have any availability this week or after the holida=
+y weekend.</div>
+<div><br>
+</div>
+<div>Happy Thanksgiving!</div>
+<br>
+<div>
+<div style=3D""margin: 0in 0in 0pt; text-transform: none; text-indent: 0px; =
+letter-spacing: normal; font-family: Helvetica; font-size: 11pt; font-style=
+: normal; font-weight: normal; text-decoration: none; word-spacing: 0px; wh=
+ite-space: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0p=
+x;"">
+<div style=3D""margin: 0in 0in 0pt; font-size: 11pt;""><span style=3D""font-si=
+ze: 12px;"">Sincerely,</span><font color=3D""#1f497d"" face=3D""Arial Narrow, s=
+ans-serif""><b><br class=3D""Apple-interchange-newline"">
+<br>
+</b></font></div>
+<div style=3D""margin: 0in 0in 0pt; font-size: 11pt;""><font color=3D""#1f497d=
+"" face=3D""Arial Narrow, sans-serif""><b>Kaley Kallman</b></font></div>
+<div style=3D""margin: 0in 0in 0pt; font-family: Calibri, sans-serif; font-s=
+ize: 11pt; font-weight: normal;"">
+<b style=3D""font-size: 11pt;""><span style=3D'color: red; font-family: ""Aria=
+l Narrow"", sans-serif;'>US</span></b><b style=3D""font-size: 11pt;""><span st=
+yle=3D'color: rgb(0, 32, 96); font-family: ""Arial Narrow"", sans-serif;'>Hea=
+lth</span></b><span style=3D'color: rgb(31, 73, 125); font-family: ""Arial N=
+arrow"", sans-serif; font-size: 11pt;'>&nbsp;</span><b style=3D""font-size: 1=
+1pt;""><span style=3D'color: rgb(0, 32, 96); font-family: ""Arial Narrow"", sa=
+ns-serif;'>Advisors</span></b></div>
+<div style=3D""margin: 0in 0in 0pt; font-family: Calibri, sans-serif; font-s=
+ize: 11pt; font-weight: normal;"">
+<font color=3D""#0433ff""><a href=3D""https://u51633965.ct.sendgrid.net/ls/cli=
+ck?upn=3Du001.BUR9L1w0oXdS0Vk3ZIBtOB9Dx8jqn3rlFc5UqBo33yVjFZrStIJyLbhjGpWZn=
+xElsm7W_KIYsAnHPtaFCdJoyP2y9b7wiTPaW8CGs4Q5mHKDgWV1WaqVI2dEI6W0KyME6Z-2BlNK=
+mM4K-2Bs2H8ttUDpa6Oph7u2TWQuddvFIj5GitORwGDMrtAW70MoESeCwpQkUvXkd0S7UIjLpCN=
+mb-2Ft4rwXQYnWG-2Fd6yC6D5ii8LuBmdpQSPl6hAklo9ncHHWeJgEb3hyycdniFfEsLGAwerDq=
+kcQnQ-3D-3D"">www.ushagent.com/kaleykallman</a></font></div>
+<div style=3D""margin: 0in 0in 0pt; font-family: Helvetica; font-size: 12px;=
+ font-weight: normal;"">
+<span style=3D'font-family: ""Arial Narrow"", sans-serif; font-size: 11pt;'>C=
+ell: (407) 562-6403</span></div>
+</div>
+</div>
+<br>
+<br>
+<hr>
+<font color=3D""gray"" face=3D""Arial"" size=3D""1""><br>
+This transmission is intended only for the person(s) named above. The infor=
+mation contained in this transmission may contain privileged and confidenti=
+al information. It is intended only for review and/or use by the person(s) =
+named above. If you are not the
+ intended recipient, you are hereby notified that any review, dissemination=
+, distribution or duplication of this communication is strictly prohibited.=
+ If you are not the intended recipient, please contact the sender by reply =
+email and destroy all copies of
+ the original message.<br>
+
+<p class=3D""MsoNormal"" style=3D""background: white;""><span style=3D'color: b=
+lack; font-family: ""Verdana"",sans-serif; font-size: 11pt; mso-ligatures: st=
+andardcontextual;'>21451 SW 108<sup>th</sup>&nbsp;Avenue<o:p></o:p></span><=
+/p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><span style=3D'color: b=
+lack; font-family: ""Verdana"",sans-serif; font-size: 11pt; mso-ligatures: st=
+andardcontextual;'>Tualatin, OR 97062<o:p></o:p></span></p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><span style=3D'color: b=
+lack; font-family: ""Verdana"",sans-serif; font-size: 11pt; mso-ligatures: st=
+andardcontextual;'>O: (503)-885-9494<o:p></o:p></span></p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><span style=3D'color: b=
+lack; font-family: ""Verdana"",sans-serif; font-size: 11pt; mso-ligatures: st=
+andardcontextual;'>F: (503)-692-9875<o:p></o:p></span></p>
+<p class=3D""MsoNormal""><span style=3D'color: black; font-family: ""Verdana"",=
+sans-serif; font-size: 11pt; mso-ligatures: standardcontextual;'><a href=3D=
+""https://u51633965.ct.sendgrid.net/ls/click?upn=3Du001.U-2FSIvYBjGnQfzwHYfo=
+VEzxPc1hs8fyi48eH02gqFSGuSrNZTJRvzhS35VCoSs-2B46sgHsQxvyqgSG8uSTl4xDIqFUyZv=
+u2yhhbzSyG1N4tbg-3D4G-x_KIYsAnHPtaFCdJoyP2y9b7wiTPaW8CGs4Q5mHKDgWV1WaqVI2dE=
+I6W0KyME6Z-2BlN-2FKlJmX-2BzLzdLWo7B3LbRE03hzL7vcqzwdZep4YIHOeozhWbF2ZxZOrJD=
+jZ0Fbwp6t9bXfjta8dbJ-2FByFhmWeMxnUpEfudBIw0Yo-2BRcGn0csDObw-2FOcrIoo3emByrh=
+O6ywfsaNIxT5gHBTqRFh8IhWA-3D-3D"" target=3D""_blank""><span style=3D""color: bl=
+ack; text-decoration: none;"">www.avalonint.com</span></a></span><span style=
+=3D'color: rgb(31, 73, 125); font-family: ""Calibri"",sans-serif; font-size: =
+11pt; mso-ligatures: standardcontextual;'><o:p></o:p></span></p>
+<p class=3D""MsoNormal""><span style=3D""font-size: 11pt; mso-ligatures: stand=
+ardcontextual;""><o:p>&nbsp;</o:p></span></p>
+</font></div><font color=3D""gray"" face=3D""Arial"" size=3D""1"">
+<p class=3D""MsoNormal""><span style=3D'font-family: ""Bookman Old Style"",seri=
+f; font-size: 16pt;'><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style=3D""border-width: 1pt medium medium; border-style: solid none non=
+e; border-color: rgb(225, 225, 225) currentColor currentColor; padding: 3pt=
+ 0in 0in; border-image: none;"">
+<p class=3D""MsoNormal""><b><span style=3D'font-family: ""Calibri"",sans-serif;=
+ font-size: 11pt;'>From:</span></b><span style=3D'font-family: ""Calibri"",sa=
+ns-serif; font-size: 11pt;'> John Carleton &lt;<a href=3D""mailto:john@jcarl=
+co.com"">john@jcarlco.com</a>&gt;
+<br>
+<b>Sent:</b> Friday, May 10, 2024 8:36 AM<br>
+<b>To:</b> Avalon Quotes &lt;<a href=3D""mailto:quotes@avalon.solutions"">quo=
+tes@avalon.solutions</a>&gt;<br>
+<b>Cc:</b> Shelby Miller &lt;<a href=3D""mailto:Shelby@avalon.solutions"">She=
+lby@avalon.solutions</a>&gt;<br>
+<b>Subject:</b> FW: FW: Quote #16982-1 Indeed - Level 19<o:p></o:p></span><=
+/p>
+</div>
+</div>
+<p class=3D""MsoNormal""><o:p>&nbsp;</o:p></p>
+<p class=3D""MsoNormal""><span style=3D""font-size: 11pt;""><o:p>&nbsp;</o:p></=
+span></p>
+<p class=3D""MsoNormal""><span style=3D""font-size: 11pt;""><o:p>&nbsp;</o:p></=
+span></p>
+<div>
+<p class=3D""MsoNormal"" style=3D""background: white;""><b><span style=3D'color=
+: black; font-family: ""Bookman Old Style"",serif; font-size: 13pt;'>Thanks,<=
+/span></b><span style=3D'color: rgb(32, 31, 30); font-family: ""Calibri"",san=
+s-serif; font-size: 11pt;'><o:p></o:p></span></p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><b><span style=3D'color=
+: black; font-family: ""Lucida Calligraphy""; font-size: 13pt;'>John Carleton=
+</span></b><span style=3D'color: black; font-family: ""Monotype Corsiva""; fo=
+nt-size: 17pt;'>,</span><span style=3D'color: black; font-family: ""Monotype=
+ Corsiva""; font-size: 16pt;'>&nbsp;</span><span style=3D'color: black; font=
+-family: ""Bookman Old Style"",serif; font-size: 9pt;'>GM</span>
+<span style=3D'color: rgb(32, 31, 30); font-family: ""Calibri"",sans-serif; f=
+ont-size: 11pt;'><o:p></o:p></span></p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><span style=3D'color: b=
+lack; font-family: ""Bookman Old Style"",serif; font-size: 1pt;'>&nbsp;</span=
+><span style=3D'color: rgb(32, 31, 30); font-family: ""Calibri"",sans-serif; =
+font-size: 11pt;'><o:p></o:p></span></p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><b><i><span style=3D'co=
+lor: black; font-family: ""BankGothic Md BT""; font-size: 22pt;'>&nbsp; &nbsp=
+; JCarleton CO.</span></i></b><span style=3D'color: rgb(32, 31, 30); font-f=
+amily: ""Calibri"",sans-serif; font-size: 11pt;'><o:p></o:p></span></p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><b><span style=3D'color=
+: rgb(31, 73, 125); font-family: ""Bookman Old Style"",serif; font-size: 4pt;=
+'>&nbsp;</span></b><span style=3D'color: rgb(32, 31, 30); font-family: ""Cal=
+ibri"",sans-serif; font-size: 11pt;'><o:p></o:p></span></p>
+<p class=3D""MsoNormal"" style=3D""background: white;""><span style=3D'color: r=
+gb(34, 34, 34); font-family: ""Calibri"",sans-serif; font-size: 11pt;'>Phone:=
+ 530-925-0122</span><o:p></o:p></p>
+</div>
+<p class=3D""MsoNormal""><span style=3D'color: rgb(34, 34, 34); font-family: =
+""Calibri"",sans-serif; font-size: 11pt;'>E-Mail:&nbsp;</span><a href=3D""mail=
+to:baron.carleton@avalonint.com"" target=3D""_blank""><b><span style=3D'color:=
+ rgb(17, 85, 204); font-family: ""Bookman Old Style"",serif;'>john@jcarlco.co=
+m</span></b></a><span style=3D""font-size: 11pt;""><o:p></o:p></span></p>
+<div style=3D""border-width: 1pt medium medium; border-style: solid none non=
+e; border-color: rgb(225, 225, 225) currentColor currentColor; padding: 3pt=
+ 0in 0in; border-image: none;"">
+<p class=3D""MsoNormal""><b><span style=3D'font-family: ""Calibri"",sans-serif;=
+ font-size: 11pt;'>From:</span></b><span style=3D'font-family: ""Calibri"",sa=
+ns-serif; font-size: 11pt;'> Jadd Carleton &lt;<a href=3D""mailto:jaddcarlet=
+on@gmail.com"">jaddcarleton@gmail.com</a>&gt;
+<br>
+<b>Sent:</b> Thursday, May 9, 2024 3:18 PM<br>
+<b>To:</b> John Carleton &lt;<a href=3D""mailto:john@jcarlco.com"">john@jcarl=
+co.com</a>&gt;<br>
+<b>Subject:</b> Re: FW: Quote #16982-1 Indeed - Level 19<o:p></o:p></span><=
+/p>
+</div>
+<p class=3D""MsoNormal""><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class=3D""MsoNormal"">Add $1111&nbsp; to price<o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal""><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"">change all SL to 7' <o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"">And include note that says :Includes 2' Scribe<o:p><=
+/o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal""><o:p>&nbsp;</o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"">Alt Add:&nbsp; Custom Color $3500 and 2 weeks lead t=
+ime.<o:p></o:p></p>
+</div>
+</div>
+<p class=3D""MsoNormal""><o:p>&nbsp;</o:p></p>
+<div>
+<div>
+<p class=3D""MsoNormal"">On Thu, May 9, 2024 at 6:09<span style=3D'font-famil=
+y: ""Arial"",sans-serif;'>&#8239;</span>PM John Carleton &lt;<a href=3D""mailt=
+o:john@jcarlco.com"" target=3D""_blank"">john@jcarlco.com</a>&gt; wrote:<o:p><=
+/o:p></p>
+</div>
+<blockquote style=3D""border-width: medium medium medium 1pt; border-style: =
+none none none solid; border-color: currentColor currentColor currentColor =
+rgb(204, 204, 204); margin: 5pt 0in 5pt 4.8pt; padding: 0in 0in 0in 6pt; bo=
+rder-image: none;"">
+<div>
+<div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""font-size: 11pt;"">&nbsp;</span><o:p></o:p></p>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""font-size: 11pt;"">&nbsp;</span><o:p></o:p></p>
+<div>
+<div>
+<p class=3D""MsoNormal"" style=3D""background: white; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto;"">
+<b><span style=3D'color: black; font-family: ""Bookman Old Style"",serif; fon=
+t-size: 13pt;'>Thanks,</span></b><o:p></o:p></p>
+<p class=3D""MsoNormal"" style=3D""background: white; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto;"">
+<b><span style=3D'color: black; font-family: ""Lucida Calligraphy""; font-siz=
+e: 13pt;'>John Carleton</span></b><span style=3D'color: black; font-family:=
+ ""Monotype Corsiva""; font-size: 17pt;'>,</span><span style=3D'color: black;=
+ font-family: ""Monotype Corsiva""; font-size: 16pt;'>&nbsp;</span><span styl=
+e=3D'color: black; font-family: ""Bookman Old Style"",serif; font-size: 9pt;'=
+>GM</span><o:p></o:p></p>
+<p class=3D""MsoNormal"" style=3D""background: white; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto;"">
+<span style=3D'color: black; font-family: ""Bookman Old Style"",serif; font-s=
+ize: 1pt;'>&nbsp;</span><o:p></o:p></p>
+<p class=3D""MsoNormal"" style=3D""background: white; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto;"">
+<b><i><span style=3D'color: black; font-family: ""BankGothic Md BT""; font-si=
+ze: 22pt;'>&nbsp; &nbsp; JCarleton CO.</span></i></b><o:p></o:p></p>
+<p class=3D""MsoNormal"" style=3D""background: white; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto;"">
+<b><span style=3D'color: rgb(31, 73, 125); font-family: ""Bookman Old Style""=
+,serif; font-size: 4pt;'>&nbsp;</span></b><o:p></o:p></p>
+<p class=3D""MsoNormal"" style=3D""background: white; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto;"">
+<span style=3D'color: rgb(34, 34, 34); font-family: ""Calibri"",sans-serif; f=
+ont-size: 11pt;'>Phone: 530-925-0122</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D'color: rgb(34, 34, 34); font-family: ""Calibri"",=
+sans-serif; font-size: 11pt;'>E-Mail:&nbsp;</span><a href=3D""mailto:baron.c=
+arleton@avalonint.com"" target=3D""_blank""><b><span style=3D'color: rgb(17, 8=
+5, 204); font-family: ""Bookman Old Style"",serif;'>john@jcarlco.com</span></=
+b></a><o:p></o:p></p>
+<div>
+<div style=3D""border-width: 1pt medium medium; border-style: solid none non=
+e; border-color: currentColor; padding: 3pt 0in 0in; border-image: none;"">
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><b><span style=3D'font-family: ""Calibri"",sans-serif; font-size=
+: 11pt;'>From:</span></b><span style=3D'font-family: ""Calibri"",sans-serif; =
+font-size: 11pt;'> Melissa York &lt;<a href=3D""mailto:myork@walshdoor.com"" =
+target=3D""_blank"">myork@walshdoor.com</a>&gt;
+<br>
+<b>Sent:</b> Thursday, May 9, 2024 12:50 PM<br>
+<b>To:</b> Avalon Quotes &lt;<a href=3D""mailto:quotes@avalon.solutions"">quo=
+tes@avalon.solutions</a>&gt;<br>
+<b>Cc:</b> Rick Carleton &lt;<a href=3D""mailto:gm@avalon.solutions"">gm@aval=
+on.solutions</a>&gt;; John Carleton &lt;<a href=3D""mailto:john@jcarlco.com""=
+ target=3D""_blank"">john@jcarlco.com</a>&gt;; Kelly Swaab &lt;<a href=3D""mai=
+lto:kswaab@walshdoor.com"" target=3D""_blank"">kswaab@walshdoor.com</a>&gt;<br=
+>
+<b>Subject:</b> Re: Quote #16982-1 Indeed - Level 19</span><o:p></o:p></p>
+</div>
+</div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;"">&nbsp;<o:p></o:p></p>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">Thank you very much!</span><o:p>=
+</o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">&nbsp;</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">I spoke w/ the project manager.&=
+nbsp; Would we be able to make 2 minor adjustments?</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">&nbsp;</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">Could we add a 2"" scribe to the =
+frames?</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">&nbsp;</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">Also, could we make the finish a=
+ custom finish so they can color match?</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">&nbsp;</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">For the sidelites, we took a clo=
+ser look at the dimensions on the floor plan, and are wondering if we can g=
+et a quote w/ 7' sidelites instead of 6'?</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">&nbsp;</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">Thank you so much for your help,=
+</span><o:p></o:p></p>
+</div>
+<div>
+<p class=3D""MsoNormal"" style=3D""mso-margin-top-alt: auto; mso-margin-bottom=
+-alt: auto;""><span style=3D""color: black;"">&nbsp;</span><o:p></o:p></p>
+</div>
+<div id=3D""m_930201756796809569m_8225033550133881064Signature"">
+<p><b><span style=3D'font-family: ""Calibri"",sans-serif;'>Melissa York </spa=
+n></b><span style=3D'font-family: ""Calibri"",sans-serif; font-size: 10pt;'>|=
+ Outside Sales Consultant</span><span style=3D'font-family: ""Calibri"",sans-=
+serif; font-size: 11pt;'>&nbsp;</span><o:p></o:p></p>
+<p><b><span style=3D'font-family: ""Calibri"",sans-serif; font-size: 2pt;'>&n=
+bsp;</span></b><span style=3D'font-family: ""Calibri"",sans-serif; font-size:=
+ 11pt;'>&nbsp;</span><o:p></o:p></p>
+<p><b><span style=3D'font-family: ""Calibri"",sans-serif; font-size: 10pt;'>W=
+alsh Door &amp; Security</span></b><span style=3D'color: rgb(0, 112, 192); =
+font-family: ""Calibri"",sans-serif; font-size: 10pt;'>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; </b></span><span style=3D'font-family: ""Calibri"",sans-se=
+rif; font-size: 11pt;'>&nbsp;</span><o:p></o:p></p>
+<p><span style=3D'font-family: ""Calibri"",sans-serif; font-size: 10pt;'>1606=
+ Burlington Street, North Kansas City, MO 64116</span><span style=3D'font-f=
+amily: ""Calibri"",sans-serif; font-size: 11pt;'>&nbsp;</span><o:p></o:p></p>
+<p style=3D""margin-bottom: 2pt;""><span style=3D'font-family: ""Calibri"",sans=
+-serif; font-size: 10pt;'>p. 816.474.4500 &nbsp;</span><o:p></o:p></p>
+<p><span style=3D'color: blue; font-family: ""Calibri"",sans-serif; font-size=
+: 10pt;'><a href=3D""mailto:bcollins@WalshDoor.com"" target=3D""_blank"">myork@=
+WalshDoor.com</a></span><span style=3D'color: rgb(18, 91, 131); font-family=
+: ""Calibri"",sans-serif; font-size: 10pt;'>
+</span><span style=3D'font-family: ""Calibri"",sans-serif; font-size: 10pt;'>=
+| WalshDoor.com</span><span style=3D'font-family: ""Calibri"",sans-serif; fon=
+t-size: 11pt;'>&nbsp;</span><o:p></o:p></p>
+<p><b><span style=3D'font-family: ""Calibri"",sans-serif; font-size: 2pt;'>&n=
+bsp;</span></b><span style=3D'font-family: ""Calibri"",sans-serif; font-size:=
+ 11pt;'>&nbsp;</span><o:p></o:p></p>
+<p style=3D""margin-bottom: 2pt;""><b><span style=3D'font-family: ""Calibri"",s=
+ans-serif; font-size: 10pt;'>&nbsp;</span></b><o:p></o:p></p>
+</div>
+Be advised that ship dates are subject to change as noted in our Terms and =
+Conditions. Factors that may impact the ship dates include, but are not lim=
+ited to: delays in transportation, lack of or inability to obtain raw mater=
+ials/components, orders placed within part lead times, and natural events. =
+Confidential Information: This email message (including any attachments) co=
+ntains information that may be confidential, or constitute non-public infor=
+mation. It is intended only for the designated=20
+recipient. If you are not the named addressee, you should not disseminate, =
+distribute, or copy this email. If you have received this email by mistake,=
+ please notify the sender immediately by replying to this message and delet=
+ing this email from your system. Use, dissemination, distribution, or repro=
+duction of this message by unintended recipients is not authorized and may =
+be unlawful.
+
+
+<div style=3D""padding: 0px 0px 10px; text-align: center; font-weight: 700;""=
+>&Ecirc;&uacute;&#8747;&Aacute;&#8226;&reg;&Euml;&AElig;&cent;&Acirc;&ccedi=
+l;&iuml;&Acirc;&aacute;&#8747;&Euml;&deg;&aring;&Acirc;&ccedil;&iuml;</div>=
+<div align=3D""left""><div style=3D""padding: 5px 0px;"">&Acirc;&#8734;&auml;&E=
+circ;&iuml;&uml;&Aacute;&ouml;&Ntilde;&Aacute;&icirc;&reg;&Ecirc;&agrave;&#=
+8721;&Ecirc;&Ccedil;&reg;&Acirc;&#8226;&#937;&Ocirc;&ordm;&ouml;</div><div =
+style=3D""padding: 5px 0px; text-indent: 2em;"">
+&Ecirc;&uml;&cent;&Euml;&oslash;&eacute;&#8240;&#937;&oslash;&Aacute;&icirc=
+;&reg;&Acirc;&eacute;&ordf;&Acirc;&igrave;&#8482;&Acirc;&Ntilde;&oslash;&Aa=
+cute;&#937;&euml;&Ocirc;&ordm;&aring;&Ecirc;&Ccedil;&reg;&Aacute;&ouml;&Nti=
+lde;&Acirc;&aacute;&#8747;&Euml;&deg;&aring;&Acirc;&ccedil;&iuml;&Acirc;&#8=
+721;&#8804;&Aacute;&icirc;&uuml;&Ecirc;&agrave;&ecirc;&Ocirc;&ordm;&aring;&=
+Egrave;&ocirc;&Ntilde;&#8240;&ordf;&#8706;&#8240;&#8719;&#8800;&Acirc;&Ouml=
+;&plusmn;&Ecirc;&uacute;&acirc;1&#8240;&#937;&amp;
+cced
+il;&#8240;&#960;&ograve;&Ecirc;&uacute;&#8747;&#8240;&#8747;&#8747;&Acirc;&=
+aacute;&#8747;&Euml;&deg;&aring;&Acirc;&ccedil;&iuml;&#8240;&oslash;&deg;&E=
+circ;&Aring;&Oslash;&Ocirc;&ordm;&aring;&Euml;&Oslash;&#8721;&Ecirc;&Ccedil=
+;&reg;&Aacute;&Ccedil;&#960;&Acirc;&aacute;&ordf;&Egrave;&ocirc;&Ntilde;&#8=
+240;&ordf;&#8706;&Ecirc;&uuml;&#8226;&Aacute;&uacute;&atilde;&Acirc;&#960;&=
+#8706;&#8240;&#8719;&atilde;&Euml;&#937;&#937;&#8222;&Auml;&Ccedil; </div><=
+div style=3D""padding: 5px 0px; text-indent: 2em;"">
+&Euml;&AElig;&cent;&Acirc;&ccedil;&iuml;&Acirc;&egrave;&#8721;&Ocirc;&ordm;=
+&ouml;<span style=3D""color: rgb(0, 188, 212);"">333728410189</span> </div><d=
+iv style=3D""padding: 5px 0px; text-indent: 2em;"">
+&Ecirc;&#8800;&sect;&Egrave;&Ccedil;&AElig;&#8240;&ordf;&#8706;&#8240;&#871=
+9;&#8747;&Aacute;&#8805;&ordf;&Aacute;&ordf;&uuml;&Euml;&aacute;&#8482;&Aci=
+rc;&auml;&reg;&Acirc;&egrave;&euml;&Egrave;&Auml;&Aring;&Ocirc;&ordm;&aring=
+;&Euml;&Oslash;&#8721;&Acirc;&atilde;&oslash;&Acirc;&otilde;&ucirc;&Acirc;&=
+sect;&ccedil;&Ocirc;&ordm;&aring;&Acirc;&para;&Ccedil;&Ecirc;&Ccedil;&reg;&=
+Acirc;&Oslash;&#960;&Acirc;&aacute;&#8747;&Euml;&deg;&aring;&Acirc;&ccedil;=
+&iuml;&Ecirc;&uacute;&acirc;&Aacute;&ntilde;&euml;
+&Egrave;&oacute;&AElig;&Ocirc;&ordm;&aring;&Euml;&Oslash;&#8721;&Ecirc;&Cce=
+dil;&reg;&Euml;&aacute;&yen;&Aacute;&icirc;&micro;&Acirc;&eacute;&ordf;&Aci=
+rc;&igrave;&#8482;&Acirc;&Ntilde;&oslash;&Aacute;&#937;&euml;&Acirc;&AElig;=
+&ograve;&Ecirc;&ntilde;&#960;&Acirc;&AElig;&cent;&Ecirc;&uacute;&ccedil;&Aa=
+cute;&icirc;&micro;&Euml;&Oslash;&ugrave;&Ocirc;&ordm;&ouml;&Acirc;&cent;&E=
+acute;&Acirc;&Uuml;&Ouml;95117&Ocirc;&ordm;&aring;&Acirc;&cent;&Eacute;&Aci=
+rc;&sect;&ntilde;&Ocirc;&ordm;&agrave;+8610&Ocirc;
+&ordm;&acirc;59606999&#8222;&Auml;&Ccedil; </div></div><div align=3D""left"">=
+<div align=3D""center"" style=3D""margin: 30px 0px 20px;"">FLIGHT INVOICE</div>=
+<div style=3D""padding: 5px 0px;"">Dear Customer,</div><div style=3D""padding:=
+ 5px 0px; text-indent: 2em;"">Thank you for booking your flight with Qunar!<=
+/div><div style=3D""padding: 5px 0px; text-indent: 2em;"">You have 1 passenge=
+rs listed in your order. To download invoices for each passenger, please fi=
+nd the PDF document attached. </div>
+<div style=3D""padding: 5px 0px; text-indent: 2em;"">Order ID&Ocirc;&ordm;&ou=
+ml;<span style=3D""color: rgb(0, 188, 212);"">333728410189</span> </div><div =
+style=3D""padding: 5px 0px; text-indent: 2em;"">This mail is a system generat=
+ed email, please do not reply to this email.If you have any questions or if=
+ any of the details appear incorrect, please contact the Qunar customer ser=
+vice hot line: 95117 (for those in China), (+8610) 59606999 (for those outs=
+ide of China). </div></div></div>
+<div align=3D""left"" style=3D""padding: 20px 32px 10px; border-top-color: rgb=
+(221, 221, 221); border-top-width: 1px; border-top-style: solid;""><div styl=
+e=3D""text-align: right; padding-top: 15px;"">&Acirc;&eacute;&ordf;&Acirc;&ig=
+rave;&#8482;&Acirc;&Ntilde;&oslash;&Aacute;&#937;&euml;</div>&Acirc;Microso=
+ft 365</div></div></div></blockquote></div></font></blockquote></div></div>=
+</div></div></div></div></blockquote><img src=3D""https://u51633965.ct.sendg=
+rid.net/wf/open?upn=3Du001.HqVXvYvx7bga0M8wJmUfjGdaF0vysZZzKpNn-2BTU-2Btu-2=
+BHGRoDiU57kGrwwNrdyVqb1Hc1F2Nnvtg77apy6DIKfLsyOt1kaaVZiHKlvrf9mmivijzvbpOvV=
+97V5dIgk8a2zQP1tCKiCmpC8Qf7xVf2jKcpitVch2cxh3hnxMBkxJDyJr1MoHlrvMUo3TeOCqq3=
+nk-2BbbY7OxkzvIqjTJZvhSw-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D=
+""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !imp=
+ortant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !i=
+mportant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0=
+ !important;padding-right:0 !important;padding-left:0 !important;""/></body>=
+</html>
+","""Burgan Drilling Company"" <mail_protect_oprion@mail.com>",aruveetila@ndtv.com,2025-04-03,34.106.108.162,United States,en,users/51633965/63b03dd0-ac10-45a4-808a-0f8580ed42bf.json

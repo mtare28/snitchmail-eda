@@ -1,0 +1,192 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50948717,7quy8KieRGuRDRZcIF7URA.recvd-69cbc48b94-n2vpp-1-67C67C09-1.0,cHJvY2Vzc2VkLTUwOTQ4NzE3LTdxdXk4S2llUkd1UkRSWmNJRjdVUkEtMA,hi myname.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:content-type:mime-version:to:cc:content-type:from:
+	subject:to;
+	s=smtpapi; bh=2ZG4hrPRg1NJiWl8VHkESxjEqGjDTVKGlqKIhS6+PWw=;
+	b=kENyHUxC7MjP/OahDggblP3SaN2JGgcmevqQOBVHJfQcMNwRneoUGrodQSbE3hUYlYpS
+	oFwkicNcPAhDY3VRUkFEYKVOEiJKoULxekOlniLFU3vKksIF4kPY0KZ8hD2a/VC9JTCcSs
+	rUMyzbDSfCjOz0PS8NZMAkSka+BkfsLFY=
+Received: by recvd-69cbc48b94-n2vpp with SMTP id recvd-69cbc48b94-n2vpp-1-67C67C09-1
+	2025-03-04 04:05:29.010296379 +0000 UTC m=+9441694.714463221
+Received: from FC (unknown)
+	by geopod-ismtpd-10 (SG) with ESMTP
+	id 7quy8KieRGuRDRZcIF7URA
+	for <752372295@qq.com>;
+	Tue, 04 Mar 2025 04:05:28.620 +0000 (UTC)
+X-GUID: D6FB8C53-9A8B-4AEB-A68C-C7C6234693D6
+X-Has-Attach: no
+From: Novia Alerander <john@jmakepeace.com>
+Subject: hi myname.
+Content-Type: multipart/alternative; charset=UTF-8; boundary=""----=_429_NextPart448875582798_=----""
+MIME-Version: 1.0
+Date: Tue, 04 Mar 2025 04:05:29 +0000 (UTC)
+Message-Id: <202503041205286807464@jmakepeace.com>
+X-Mailer: Foxmail 7, 2, 5, 140[cn]
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EziQn718N8PEmjM7AmNj2TXE2P6sF7rCi6CVdZbGMxrwcA3JjhLS22=2FfWh?=
+ =?us-ascii?Q?N=2FDpULWY6ssLwzpdf476hSnazXx+aB9=2Fzhbxkzw?=
+ =?us-ascii?Q?DkMj17YG5zs=2FU00nGiZOBNzr+I1iR+n9b848YAJ?=
+ =?us-ascii?Q?DbmpMaGCZDhvFWeEGqMRHxer8IfEWF611AiT4C1?=
+ =?us-ascii?Q?s59kZGmBcdMbjv20gGVoIG9iqiSqS9I6bZgqCgx?=
+ =?us-ascii?Q?cb762ziYp7fGg5ESh2fAjXfreJ0OeClHKW2fwW+?= =?us-ascii?Q?FPkC?=
+To: 752372295 <752372295@qq.com>
+X-Entity-ID: u001.ssEUCEklCtS8KqLPTWaOEA==
+
+This is a multi-part message in MIME format
+
+------=_429_NextPart448875582798_=----
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+hello.
+
+------=_429_NextPart448875582798_=----
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<p>hello.</p>
+<img src=3D""https://u50948717.ct.sendgrid.net/wf/open?upn=3Du001.-2ByitTLPM=
+xZi8R0GjUmjoVXfndP6rEKBuG2rxEYagjRweAkVB2hfnRgpEI5JAVBkIhly857y4Cwh7r-2FgmI=
+r0gHD1dUSk5oEAzFgIm8yMhCbahjk4r6CHTSKb3HWiLXxC7owMriT9t4ZXa2Q4nKMr7R0idwcnJ=
+D5pU2s-2BOCAwswokx3sMGxCN2y-2BDT0OrCqTuLHyPztft8SiLRqipE49gerw-3D-3D"" alt=
+=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;""/>
+------=_429_NextPart448875582798_=------
+
+","""Novia Alerander"" <john@jmakepeace.com>",752372295@qq.com,2025-03-03,113.133.201.66,China,sw,users/50948717/d7274701-c094-4d64-bec3-dc957e18a99b.json
+50948717,B1Br7BlyQWSf5dvlNQFffQ.recvd-69cbc48b94-cc5f7-1-67C87087-9.0,cHJvY2Vzc2VkLTUwOTQ4NzE3LUIxQnI3Qmx5UVdTZjVkdmxOUUZmZlEtMA,【重要】アカウントの一時停止と本人確認のお願い,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:content-type:content-transfer-encoding:
+	list-unsubscribe:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=lC3rSm86PXosgA0qu/gcDs6bGV0rDwpTaA7vBPAB/30=;
+	b=iVNoIQadlTRq31Z7HGNGqCHedczg+44/IxBYLo+U0OGmTIX9JWKjD7bOgf2JAcC4IQKm
+	OY0Y0i8mkjjPt9Ka+886m7iIrJ+r5llR/GkvG3+tZ3e+ea/6MQC29eZ8nquHKBTnbs67NQ
+	J0neU1VPf0s4T0bAYrG0raQ9OKi/LEJA8=
+Received: by recvd-69cbc48b94-cc5f7 with SMTP id recvd-69cbc48b94-cc5f7-1-67C87087-9
+	2025-03-05 15:40:55.196582005 +0000 UTC m=+9569792.476336242
+Received: from ma-diet-et-moi.fr (unknown)
+	by geopod-ismtpd-11 (SG)
+	with ESMTP id B1Br7BlyQWSf5dvlNQFffQ
+	for <higherjump0411@ezweb.ne.jp>;
+	Wed, 05 Mar 2025 15:40:54.558 +0000 (UTC)
+Message-ID: <53dc2085aadc7116a104cbce00ca01ff@esinc.net>
+From: =?UTF-8?b?5qCq5byP5Lya56S+QW1hem9u?= Japan <pwade@esinc.net>
+Subject: 
+ =?UTF-8?B?44CQ6YeN6KaB44CR44Ki44Kr44Km44Oz44OI44Gu5LiA5pmC5YGc5q2i44Go5pys5Lq656K66KqN44Gu44GK6aGY44GE?=
+Date: Wed, 05 Mar 2025 15:40:55 +0000 (UTC)
+X-Priority: 3
+X-Mailer: Inlofumlm Gcmanotgwu 76.31
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+List-Unsubscribe: <mailto:ChristGalek@gmail.com>, <https://www.deepseek.com/>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmlagNYh=2FCTt8hLRLCMHtcZKxVn6f1KzKSDYyk5YLoHCqD5sduHDxea9Un?=
+ =?us-ascii?Q?0iRY+hFaEPV5Otodc8rE5eUKjtcYDkdxBMd6zzR?=
+ =?us-ascii?Q?yEdmJpssEMESmEeC4q2f8mcXmO6Kv8u+XAToADq?=
+ =?us-ascii?Q?=2FHLH0wcRuaRTWf7ujLD=2FdVKNz4mB=2Fr6JMTKQVfT?=
+ =?us-ascii?Q?WnIImVWs8iO0MPwE57zfKgBXJWd4tEppOVFnkbZ?=
+ =?us-ascii?Q?G9PLV2N6x2I=2FM0SjO6nyUdiMWmNY6wP31vZYEn3?= =?us-ascii?Q?+Kzz?=
+To: higherjump0411 <higherjump0411@ezweb.ne.jp>
+X-Entity-ID: u001.ssEUCEklCtS8KqLPTWaOEA==
+
+5qCq5byP5Lya56S+QW1hem9uIEphcGFuDQrjgYrlrqLmp5jlkITkvY0NCg0K5bmz57Sg44KI44KK
+QW1hem9u44KS44GU5Yip55So44GE44Gf44Gg44GN44CB6Kqg44Gr44GC44KK44GM44Go44GG44GU
+44GW44GE44G+44GZ44CCDQrjgZPjga7luqbjgIHjgYrlrqLmp5jjga7jgqLjgqvjgqbjg7Pjg4jj
+gavjgaTjgY3jgb7jgZfjgabjgIHkuI3mraPkvb/nlKjjgb7jgZ/jga/nrKzkuInogIXjgavjgojj
+govkuI3mraPjgqLjgq/jgrvjgrnjga7lj6/og73mgKfjgYznorroqo3jgZXjgozjgZ/jgZ/jgoHj
+gIHjgrvjgq3jg6Xjg6rjg4bjgqPkv53orbfjga7oprPngrnjgYvjgonjgIHkuIDmmYLnmoTjgavj
+gqLjgqvjgqbjg7Pjg4jjga7liKnnlKjjgpLlgZzmraLjgZXjgZvjgabjgYTjgZ/jgaDjgY3jgb7j
+gZfjgZ/jgILjgb7jgZ/jgIHjgqLjgqvjgqbjg7Pjg4jjgavnmbvpjLLjgZXjgozjgabjgYTjgovj
+gYrmlK/miZXjgYTmlrnms5XjgavjgaTjgYTjgabjgoLjgIHkuIDmmYLnmoTjgavliKnnlKjlgZzm
+raLjgajjgZXjgZvjgabjgYTjgZ/jgaDjgYTjgabjgYrjgorjgb7jgZnjgIINCg0K44Gk44GN44G+
+44GX44Gm44Gv44CB44GK5a6i5qeY44GU5pys5Lq644Gr44KI44KL44Ki44Kr44Km44Oz44OI44Gu
+56K66KqN44KS6KGM44Gj44Gm44GE44Gf44Gg44GP44Gf44KB44CB5LiL6KiY44Gu44Oq44Oz44Kv
+44GL44KJQW1hem9u44Gu5YWs5byP44Oa44O844K444Gr44Ki44Kv44K744K544GX44CB5pys5Lq6
+56K66KqN5omL57aa44GN44KS5a6M5LqG44GE44Gf44Gg44GR44G+44GZ44KI44GG44GK6aGY44GE
+55Sz44GX5LiK44GS44G+44GZ44CCDQoNCuOAkOOCouOCq+OCpuODs+ODiOeiuuiqjeODquODs+OC
+r+OAkQ0KDQrmnKzkurrnorroqo3jgYzlrozkuobjgZfjgb7jgZfjgZ/jgonjgIHjgqLjgqvjgqbj
+g7Pjg4jjga7lronlhajmgKfjgpLjgZXjgonjgavlvLfljJbjgZXjgZvjgabjgYTjgZ/jgaDjgY/j
+gajjgajjgoLjgavjgIHpgJrluLjpgJrjgorjgZTliKnnlKjjgYTjgZ/jgaDjgZHjgovjgojjgYbl
+r77lv5zjgZXjgZvjgabjgYTjgZ/jgaDjgY3jgb7jgZnjgIINCg0K44Gq44GK44CB56K66KqN5omL
+57aa44GN44GMMjTmmYLplpPku6XlhoXjgavlrozkuobjgZXjgozjgarjgYTloLTlkIjjgIHjgrvj
+gq3jg6Xjg6rjg4bjgqPkv53orbfjga7jgZ/jgoHjgIHjgqLjgqvjgqbjg7Pjg4jjgYrjgojjgbPn
+mbvpjLLjgZXjgozjgabjgYTjgovjgYrmlK/miZXjgYTmlrnms5XjgpLkuIDmmYLnmoTjgavlh43n
+tZDjgZXjgZvjgabjgYTjgZ/jgaDjgY/loLTlkIjjgYzjgZTjgZbjgYTjgb7jgZnjgILjgYrmiYvm
+lbDjgpLjgYrjgYvjgZHjgYTjgZ/jgZfjgb7jgZnjgYzjgIHkvZXljZLjgZTnkIbop6PjgajjgZTl
+jZTlipvjgpLos5zjgorjgb7jgZnjgojjgYbjgYrpoZjjgYTnlLPjgZfkuIrjgZLjgb7jgZnjgIIN
+Cg0K5LuK5Zue44Gu5o6q572u44Gr44KI44KK44CB44GK5a6i5qeY44Gr44Gv44GU5LiN5L6/44KS
+44GK44GL44GR44GE44Gf44GX44G+44GZ44GT44Go44CB5b+D44KI44KK44GK6Kmr44Gz55Sz44GX
+5LiK44GS44G+44GZ44CC44GK5a6i5qeY44Gu44Ki44Kr44Km44Oz44OI44KS6L+F6YCf44Gr5L+d
+6K2344GV44Gb44Gm44GE44Gf44Gg44GP44Gf44KB44Gr44KC44CB5pep5oCl44Gq44GU5a++5b+c
+44KS44GE44Gf44Gg44GR44G+44GZ44Go5bm444GE44Gn44GZ44CCDQoNCuOBlOS4jeaYjuOBqueC
+ueOBjOOBlOOBluOBhOOBvuOBl+OBn+OCieOAgeOBiuawl+i7veOBq+OBiuWVj+OBhOWQiOOCj+OB
+m+OBj+OBoOOBleOBhOOAgg0K5L2V5Y2S44KI44KN44GX44GP44GK6aGY44GE55Sz44GX5LiK44GS
+44G+44GZ44CCDQoNCuagquW8j+S8muekvkFtYXpvbiBKYXBhbg0K44Kr44K544K/44Oe44O844K1
+44Od44O844OI6YOo
+","""株式会社Amazon Japan"" <pwade@esinc.net>",higherjump0411@ezweb.ne.jp,2025-03-05,34.97.244.129,Japan,ja,users/50948717/172501f4-0247-41e6-aa52-8eb1c3f2b7c5.json
+50948717,GDir5Q0_SHqvU17W9cqV1w.recvd-69cbc48b94-dfm74-1-67C9759A-B.0,cHJvY2Vzc2VkLTUwOTQ4NzE3LUdEaXI1UTBfU0hxdlUxN1c5Y3FWMXctMA,【重要】アカウントの一時停止と本人確認のお願い,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:content-type:content-transfer-encoding:
+	list-unsubscribe:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=sUbJf5ETp7HklBPK2xyfGoCAF4mbm+6atij7JEygX0o=;
+	b=WOG/vNGjH1wE4q/rQJIzuxJdcgZgknAHpOS8ufwWLsdqEKr+8zfUcxMytwCE81iJi7kh
+	jSaoaoUmdwXIDVWJ3z9z1Rv4Sg7BvjxRWcu+ZdSAum4UzfD3iuVe5kt4J75e9zTyOJLEpH
+	Ba/G03Pf9ubNmZkkYK9ivfQuJe9Xk7bLk=
+Received: by recvd-69cbc48b94-dfm74 with SMTP id recvd-69cbc48b94-dfm74-1-67C9759A-B
+	2025-03-06 10:14:50.471788259 +0000 UTC m=+9636822.477563787
+Received: from hierzo.be (unknown)
+	by geopod-ismtpd-0 (SG) with ESMTP
+	id GDir5Q0_SHqvU17W9cqV1w
+	for <pon.ponko2@ezweb.ne.jp>;
+	Thu, 06 Mar 2025 10:14:49.844 +0000 (UTC)
+Message-ID: <2ab736396b24f67d60aa412e3d967ee6@outlook.com>
+From: =?UTF-8?b?5qCq5byP5Lya56S+QW1hem9u?= <it5u4yg07v@outlook.com>
+Subject: 
+ =?UTF-8?B?44CQ6YeN6KaB44CR44Ki44Kr44Km44Oz44OI44Gu5LiA5pmC5YGc5q2i44Go5pys5Lq656K66KqN44Gu44GK6aGY44GE?=
+Date: Thu, 06 Mar 2025 10:14:50 +0000 (UTC)
+X-Priority: 3
+X-Mailer: Attkzfds Uheokl 77.42
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+List-Unsubscribe: <mailto:ChristGalek@gmail.com>, <https://www.deepseek.com/>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmlagNYh=2FCTt8hLRLCMHtcdB2sB4WSdKTNBhj5F8pQllfUhQyjaFAkQo1h?=
+ =?us-ascii?Q?hS1gMuDi=2FnZneOWprf4pkAbG73I8X6XN4B0kWTb?=
+ =?us-ascii?Q?fokz7ZcRkKx=2FdiGrxsvJj1h2kaxbUp6FiJC9VaV?=
+ =?us-ascii?Q?C5JshQS1z5ev61e2Zc7w9CVGw9N=2FYHHCDqzIfPS?=
+ =?us-ascii?Q?ghI+FA+Q80lx++mp5+QhoPTsH+i=2FY14MlmZuKb6?=
+ =?us-ascii?Q?zUSRK2SJSZmGR=2F5X0I0vY3TRQPvaqlAGawoWqm8?= =?us-ascii?Q?iv55?=
+To: pon.ponko2@ezweb.ne.jp
+X-Entity-ID: u001.ssEUCEklCtS8KqLPTWaOEA==
+
+株式会社Amazon Japan
+お客様各位
+
+平素よりAmazonをご利用いただき、誠にありがとうございます。
+この度、お客様のアカウントにつきまして、不正使用または第三者による不正アクセスの可能性が確認されたため、セキュリティ保護の観点から、一時的にアカウントの
+利用を停止させていただきました。また、アカウントに登録されているお支払い方法についても、一時的に利用停止とさせていただいております。
+
+つきましては、お客様ご本人によるアカウントの確認を行っていただくため、下記のリンクからAmazonの公式ページにアクセスし、本人確認手続きを完了いただけ
+ますようお願い申し上げます。
+
+【アカウント確認リンク】
+https://u50948717.ct.sendgrid.net/ls/click?upn=u001.lWMTDF6eamfHvMmjhio-2FLXBrm7kPGTSjbFjsn-2F-2Fc6ciSpG-2BOeEtYwMULXJTej9c28Sfp_JIzvFTh2JN7qUHkTntASQkJIbBPx7xtqmeZvhh4aoIfzK7QpDmuI5Yb0UnDbfdEkdqd5oOIz6jp3Nu-2Fblk3Rkmp0Qje9BLbgav7D6XwuNxfaf8VAMxLy7kWd4KdsP0jWWW4c2gauDKEILskKDESpOYQPiQzOS75tP6Pcy-2Fo7lv2B5MEi51KsV7imlc8qHlpvqLXvgYRROXfC4rPrrWb0sA-3D-3D
+
+本人確認が完了しましたら、アカウントの安全性をさらに強化させていただくとともに、通常通りご利用いただけるよう対応させていただきます。
+
+なお、確認手続きが24時間以内に完了されない場合、セキュリティ保護のため、アカウントおよび登録されているお支払い方法を一時的に凍結させていただく場合がご
+ざいます。お手数をおかけいたしますが、何卒ご理解とご協力を賜りますようお願い申し上げます。
+
+今回の措置により、お客様にはご不便をおかけいたしますこと、心よりお詫び申し上げます。お客様のアカウントを迅速に保護させていただくためにも、早急なご対応を
+いただけますと幸いです。
+
+ご不明な点がございましたら、お気軽にお問い合わせください。
+何卒よろしくお願い申し上げます。
+
+株式会社Amazon Japan
+カスタマーサポート部
+
+","""株式会社Amazon"" <it5u4yg07v@outlook.com>",pon.ponko2@ezweb.ne.jp,2025-03-06,34.84.216.206,Japan,ja,users/50948717/377df0c3-b91c-452b-83ad-b27f810e2a03.json

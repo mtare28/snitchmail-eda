@@ -1,0 +1,130 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50951640,4S-7UEFmTKm4tS0O2lNgkw.recvd-69cbc48b94-k6zww-1-67C8708D-8.0,cHJvY2Vzc2VkLTUwOTUxNjQwLTRTLTdVRUZtVEttNHRTME8ybE5na3ctMA,【重要】アカウントの一時停止と本人確認のお願い,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:content-type:content-transfer-encoding:
+	list-unsubscribe:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=lC3rSm86PXosgA0qu/gcDs6bGV0rDwpTaA7vBPAB/30=;
+	b=MGY3v9faJmLNrbGURwsjPg2+0OMHZdtrtYWgLkx/aHfQ9AAO5+KMBKG3IUk0xpSS0WnY
+	V9PzNyMEgvLzi6+We/AOVgMY/m7H9wB9UY/IBWLls2q3pQdcLYXp8b9rHOfuiCxpLIPGB8
+	LMdJ3zX7achRL5qcjVKzqKqW9m0azezBE=
+Received: by recvd-69cbc48b94-k6zww with SMTP id recvd-69cbc48b94-k6zww-1-67C8708D-8
+	2025-03-05 15:41:01.225802236 +0000 UTC m=+9569867.210347829
+Received: from formationparissportifs.com (unknown)
+	by geopod-ismtpd-6 (SG)
+	with ESMTP id 4S-7UEFmTKm4tS0O2lNgkw
+	for <higherjump0411@ezweb.ne.jp>;
+	Wed, 05 Mar 2025 15:41:00.626 +0000 (UTC)
+Message-ID: <105c8363c408118fb1acf7fb01362b11@trueclick.net>
+From: =?UTF-8?b?5qCq5byP5Lya56S+QW1hem9u?= Japan <pcsupply@trueclick.net>
+Subject: 
+ =?UTF-8?B?44CQ6YeN6KaB44CR44Ki44Kr44Km44Oz44OI44Gu5LiA5pmC5YGc5q2i44Go5pys5Lq656K66KqN44Gu44GK6aGY44GE?=
+Date: Wed, 05 Mar 2025 15:41:01 +0000 (UTC)
+X-Priority: 3
+X-Mailer: Jjiiflirw Vfiyv 32.85
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+List-Unsubscribe: <mailto:ChristGalek@gmail.com>, <https://www.deepseek.com/>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmlagNYh=2FCTt8hLRLCMHtcZKxVn6f1KzKSDYyk5YLoHDQkrQ9fI=2FQg5PJT?=
+ =?us-ascii?Q?Mm8FSivPf39wxhE+4g1mr2ZcLR4hXVQy2TKHAV7?=
+ =?us-ascii?Q?8g9qY+qqXgH4RUXYg4Xx8sE+JlTyuEc70QchfSl?=
+ =?us-ascii?Q?zlAdD7dZhD2HJMfb0VsKkKZoLBq3kGRRFBfORol?=
+ =?us-ascii?Q?GJdETcatl1FUVsASfpO9jTeFUfXkJdce9ehFF64?=
+ =?us-ascii?Q?72bqDNJVh5IH0A6g+YoCcRB6cBcYkemehqviVOw?=
+ =?us-ascii?Q?pwattu=2F4I9t8ExwcJRjVecoHZw=3D=3D?=
+To: higherjump0411 <higherjump0411@ezweb.ne.jp>
+X-Entity-ID: u001.wiGB+pxYRmxWMj+0s3fmkg==
+
+5qCq5byP5Lya56S+QW1hem9uIEphcGFuDQrjgYrlrqLmp5jlkITkvY0NCg0K5bmz57Sg44KI44KK
+QW1hem9u44KS44GU5Yip55So44GE44Gf44Gg44GN44CB6Kqg44Gr44GC44KK44GM44Go44GG44GU
+44GW44GE44G+44GZ44CCDQrjgZPjga7luqbjgIHjgYrlrqLmp5jjga7jgqLjgqvjgqbjg7Pjg4jj
+gavjgaTjgY3jgb7jgZfjgabjgIHkuI3mraPkvb/nlKjjgb7jgZ/jga/nrKzkuInogIXjgavjgojj
+govkuI3mraPjgqLjgq/jgrvjgrnjga7lj6/og73mgKfjgYznorroqo3jgZXjgozjgZ/jgZ/jgoHj
+gIHjgrvjgq3jg6Xjg6rjg4bjgqPkv53orbfjga7oprPngrnjgYvjgonjgIHkuIDmmYLnmoTjgavj
+gqLjgqvjgqbjg7Pjg4jjga7liKnnlKjjgpLlgZzmraLjgZXjgZvjgabjgYTjgZ/jgaDjgY3jgb7j
+gZfjgZ/jgILjgb7jgZ/jgIHjgqLjgqvjgqbjg7Pjg4jjgavnmbvpjLLjgZXjgozjgabjgYTjgovj
+gYrmlK/miZXjgYTmlrnms5XjgavjgaTjgYTjgabjgoLjgIHkuIDmmYLnmoTjgavliKnnlKjlgZzm
+raLjgajjgZXjgZvjgabjgYTjgZ/jgaDjgYTjgabjgYrjgorjgb7jgZnjgIINCg0K44Gk44GN44G+
+44GX44Gm44Gv44CB44GK5a6i5qeY44GU5pys5Lq644Gr44KI44KL44Ki44Kr44Km44Oz44OI44Gu
+56K66KqN44KS6KGM44Gj44Gm44GE44Gf44Gg44GP44Gf44KB44CB5LiL6KiY44Gu44Oq44Oz44Kv
+44GL44KJQW1hem9u44Gu5YWs5byP44Oa44O844K444Gr44Ki44Kv44K744K544GX44CB5pys5Lq6
+56K66KqN5omL57aa44GN44KS5a6M5LqG44GE44Gf44Gg44GR44G+44GZ44KI44GG44GK6aGY44GE
+55Sz44GX5LiK44GS44G+44GZ44CCDQoNCuOAkOOCouOCq+OCpuODs+ODiOeiuuiqjeODquODs+OC
+r+OAkQ0KDQrmnKzkurrnorroqo3jgYzlrozkuobjgZfjgb7jgZfjgZ/jgonjgIHjgqLjgqvjgqbj
+g7Pjg4jjga7lronlhajmgKfjgpLjgZXjgonjgavlvLfljJbjgZXjgZvjgabjgYTjgZ/jgaDjgY/j
+gajjgajjgoLjgavjgIHpgJrluLjpgJrjgorjgZTliKnnlKjjgYTjgZ/jgaDjgZHjgovjgojjgYbl
+r77lv5zjgZXjgZvjgabjgYTjgZ/jgaDjgY3jgb7jgZnjgIINCg0K44Gq44GK44CB56K66KqN5omL
+57aa44GN44GMMjTmmYLplpPku6XlhoXjgavlrozkuobjgZXjgozjgarjgYTloLTlkIjjgIHjgrvj
+gq3jg6Xjg6rjg4bjgqPkv53orbfjga7jgZ/jgoHjgIHjgqLjgqvjgqbjg7Pjg4jjgYrjgojjgbPn
+mbvpjLLjgZXjgozjgabjgYTjgovjgYrmlK/miZXjgYTmlrnms5XjgpLkuIDmmYLnmoTjgavlh43n
+tZDjgZXjgZvjgabjgYTjgZ/jgaDjgY/loLTlkIjjgYzjgZTjgZbjgYTjgb7jgZnjgILjgYrmiYvm
+lbDjgpLjgYrjgYvjgZHjgYTjgZ/jgZfjgb7jgZnjgYzjgIHkvZXljZLjgZTnkIbop6PjgajjgZTl
+jZTlipvjgpLos5zjgorjgb7jgZnjgojjgYbjgYrpoZjjgYTnlLPjgZfkuIrjgZLjgb7jgZnjgIIN
+Cg0K5LuK5Zue44Gu5o6q572u44Gr44KI44KK44CB44GK5a6i5qeY44Gr44Gv44GU5LiN5L6/44KS
+44GK44GL44GR44GE44Gf44GX44G+44GZ44GT44Go44CB5b+D44KI44KK44GK6Kmr44Gz55Sz44GX
+5LiK44GS44G+44GZ44CC44GK5a6i5qeY44Gu44Ki44Kr44Km44Oz44OI44KS6L+F6YCf44Gr5L+d
+6K2344GV44Gb44Gm44GE44Gf44Gg44GP44Gf44KB44Gr44KC44CB5pep5oCl44Gq44GU5a++5b+c
+44KS44GE44Gf44Gg44GR44G+44GZ44Go5bm444GE44Gn44GZ44CCDQoNCuOBlOS4jeaYjuOBqueC
+ueOBjOOBlOOBluOBhOOBvuOBl+OBn+OCieOAgeOBiuawl+i7veOBq+OBiuWVj+OBhOWQiOOCj+OB
+m+OBj+OBoOOBleOBhOOAgg0K5L2V5Y2S44KI44KN44GX44GP44GK6aGY44GE55Sz44GX5LiK44GS
+44G+44GZ44CCDQoNCuagquW8j+S8muekvkFtYXpvbiBKYXBhbg0K44Kr44K544K/44Oe44O844K1
+44Od44O844OI6YOo
+","""株式会社Amazon Japan"" <pcsupply@trueclick.net>",higherjump0411@ezweb.ne.jp,2025-03-05,34.97.244.129,Japan,ja,users/50951640/1fe2d15a-a239-400e-9d1f-f3f392445e48.json
+50951640,wku1NoaRQMeSE0XBarVjNg.recvd-69cbc48b94-mls98-1-67C6B964-3.0,cHJvY2Vzc2VkLTUwOTUxNjQwLXdrdTFOb2FSUU1lU0UwWEJhclZqTmctMA,hi myname.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:content-type:mime-version:to:cc:content-type:from:
+	subject:to;
+	s=smtpapi; bh=j9K4zK25fQ31EdKVJ6bgpPcr9K2OwCBOx6l4lXqB1es=;
+	b=AEMVz5C16MLB6BevWQ7xpJu2ktBUu4xh/Ap9hFcHBb7KDK27J2olMtpZXq4uQaTcqFbS
+	CHjSyOP180BnztgiyEvLWNPyIsydj6JjFJSW7jvKniOJ3iXGYOVOhORwaBEpE1pI/v51t1
+	zVsX5CXBLUn+u469XTWhatPdw/vngGfqc=
+Received: by recvd-69cbc48b94-mls98 with SMTP id recvd-69cbc48b94-mls98-1-67C6B964-3
+	2025-03-04 08:27:16.263737216 +0000 UTC m=+9457525.697732779
+Received: from FC (unknown)
+	by geopod-ismtpd-10 (SG) with ESMTP
+	id wku1NoaRQMeSE0XBarVjNg
+	for <752372295@qq.com>;
+	Tue, 04 Mar 2025 08:27:15.827 +0000 (UTC)
+X-GUID: 9E8D79A4-C9F6-4388-A580-4AC9CCBE8FC5
+X-Has-Attach: no
+From: Mandel Bronte <pcsupply@trueclick.net>
+Subject: hi myname.
+Content-Type: multipart/alternative; charset=UTF-8; boundary=""----=_850_NextPart139110091010_=----""
+MIME-Version: 1.0
+Date: Tue, 04 Mar 2025 08:27:16 +0000 (UTC)
+Message-Id: <202503041627152985475@trueclick.net>
+X-Mailer: Foxmail 7, 2, 5, 140[cn]
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Eyyy7DykGnV=2Fl3O92cEfG6fVzUJBq+w1qgViSGuxbR9cwWyjqwqyba2crB?=
+ =?us-ascii?Q?PyfwtRNU9K1CnXCj2+5gi5DuzOp=2FCquNCh0aiec?=
+ =?us-ascii?Q?iAQAl1A3=2Fpwf55HFzHcnHqmyvVkHQltY1YWLrU6?=
+ =?us-ascii?Q?L+=2FR6kyZXLVrVgvUFnpylzO0YGvcP1UP3KHEAFq?=
+ =?us-ascii?Q?GTF3PPZ6B5czdJ80qdJBcqHCgZy6NH8fEx+6Y9+?=
+ =?us-ascii?Q?oV19azcqvQRe1kuRUASnRfMC8Ej007KoMnKrdqE?= =?us-ascii?Q?aFP8?=
+To: 752372295 <752372295@qq.com>
+X-Entity-ID: u001.wiGB+pxYRmxWMj+0s3fmkg==
+
+This is a multi-part message in MIME format
+
+------=_850_NextPart139110091010_=----
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+hello.
+
+------=_850_NextPart139110091010_=----
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<p>hello.</p>
+<img src=3D""https://u50951640.ct.sendgrid.net/wf/open?upn=3Du001.-2ByitTLPM=
+xZi8R0GjUmjoVXfndP6rEKBuG2rxEYagjRw4RvbnyHlhbh5AaXGf6Vdxwn6gpl-2BSlHIjtBhn3=
+Fu-2BG2qfTn4pIo-2FToLZ2dfa7-2BrtRjJeA-2BfaiRXKN3mcCWUEu8I9t-2BtvQfOd8MXtNiv=
+v2q1W7RzA-2FKahtPU8yQCAv8ZG5C1hefa7nejGibe-2Bdx-2BrnAIvi-2Ba94PAhfJWOCsOpvK=
+A-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px=
+ !important;width:1px !important;border-width:0 !important;margin-top:0 !im=
+portant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 =
+!important;padding-top:0 !important;padding-bottom:0 !important;padding-rig=
+ht:0 !important;padding-left:0 !important;""/>
+------=_850_NextPart139110091010_=------
+
+","""Mandel Bronte"" <pcsupply@trueclick.net>",752372295@qq.com,2025-03-04,113.133.201.66,China,cy,users/50951640/6b33a6c3-f2e9-4815-8674-6a7fce611d0c.json

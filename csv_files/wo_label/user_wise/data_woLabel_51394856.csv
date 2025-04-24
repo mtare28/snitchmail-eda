@@ -1,0 +1,261 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51394856,AY80dLg3Tf2cWr5W9Zl0nA.recvd-69cbc48b94-q9zxj-1-67DAFE67-14.0,cHJvY2Vzc2VkLTUxMzk0ODU2LUFZODBkTGczVGYyY1dyNVc5WmwwbkEtMA,Test -,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:cc:content-type:
+	from:subject:to;
+	s=smtpapi; bh=8MG33K/7F5DckwEAW6iFX3xjZsdlTJfbZ2IwGRhYin8=;
+	b=YibC5Fwn5Vd54inY9bMbpakm3Fl3ho0XEK9BTSy8njxixkwMwSOHJJgZkg+j4xOBL1rj
+	XTZWlRHg4QbmCSmFa4PuYPlhXAXyVj9S9Bnw07fMhvbA+ZHyfoaHIEeUI3+4nsZBP6MBMz
+	e2/kAiZrKjNi51CvfYiLiUV7LgH5+66tU=
+Received: by recvd-69cbc48b94-q9zxj with SMTP id recvd-69cbc48b94-q9zxj-1-67DAFE67-14
+	2025-03-19 17:27:03.25634482 +0000 UTC m=+10785867.465575599
+Received: from NTEzOTQ4NTY (unknown)
+	by geopod-ismtpd-10 (SG) with HTTP
+	id AY80dLg3Tf2cWr5W9Zl0nA
+	Wed, 19 Mar 2025 17:27:03.205 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=0ae6c753a748f28a6c4588fe4a09946e6a4c366f41a964d3c3c1679824fe
+Date: Wed, 19 Mar 2025 17:27:03 +0000 (UTC)
+From: nomaan@zaascosnulting.com
+Mime-Version: 1.0
+Message-ID: <AY80dLg3Tf2cWr5W9Zl0nA@geopod-ismtpd-10>
+Subject: Test -
+Reply-To: nomaan@zaascosnulting.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Eto2tOJirXGcoCSPFNNkpywM2fbwq3StR1ckuXfjsFTGoRp9r17j0h8Sxd?=
+ =?us-ascii?Q?ca+rXxIt712oJbHd39XJ=2FfJcZRbhRzg4nbOVRkt?=
+ =?us-ascii?Q?MwXCTZj=2Fc58NZfeq=2F3LLd6GTKA6oKNfa2UJ9I57?=
+ =?us-ascii?Q?cz4YMey25UajmtuKs7GF4Oj5nVPyYXUY+QnjR9H?=
+ =?us-ascii?Q?xSvbfcRp9fno3cUlNlohn4Juq8r0qoxoTemgje9?=
+ =?us-ascii?Q?WORV5gxNjKBq4ccabJHQrM=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLAz3s9vYXwUd?=
+ =?us-ascii?Q?sLhMRaVNljdDo6Ffvy+H0sX0n3=2F8rvK7oHKNDeE?=
+ =?us-ascii?Q?U5j1ORBAc9yUD4ACu39cQ+qtceVZElYCQsa9NQQ?=
+ =?us-ascii?Q?fmG1F+vy8xPUUHtna3d75UZ7=2FUv9mTZLXzXOdK8?=
+ =?us-ascii?Q?Bhd+mWh4bf5hYY=2FndhTgGJpGqrx7b9mjJNX0yW8?=
+ =?us-ascii?Q?2VikwuULbAb0IVa22zD1x9HnTOPPOtCdZI5KFFo?=
+ =?us-ascii?Q?hAUxJSHaY3XnZuxagM48GmbbGKhpESkG5gIub50?=
+ =?us-ascii?Q?lZcrw62IzOy75sfpW89zdcFQM5+NhQU=2FuVwfqm6?=
+ =?us-ascii?Q?T7pQY4Yoqyf8IEU?=
+To: syed.imran@zaasconsulting.com
+X-Entity-ID: u001.7lmUPyycvF5lDGAXEHpuoQ==
+
+--0ae6c753a748f28a6c4588fe4a09946e6a4c366f41a964d3c3c1679824fe
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Unsubscribe ( <%asm_group_unsubscribe_raw_url%> ) - Unsubscribe Preferences=
+ ( <%asm_preferences_raw_url%> )
+--0ae6c753a748f28a6c4588fe4a09946e6a4c366f41a964d3c3c1679824fe
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.o=
+rg/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+  <html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://ww=
+w.w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"" />
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"" />
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"" />
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <style type=3D""text/css"">
+        body {width: 600px;margin: 0 auto;}
+        table {border-collapse: collapse;}
+        table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+        img {-ms-interpolation-mode: bicubic;}
+      </style>
+      <![endif]-->
+      <style type=3D""text/css"">
+        body, p, div {
+          font-family: arial,helvetica,sans-serif;
+          font-size: 14px;
+        }
+        body {
+          color: #000000;
+        }
+        body a {
+          color: #1188E6;
+          text-decoration: none;
+        }
+        p { margin: 0; padding: 0; }
+        table.wrapper {
+          width:100% !important;
+          table-layout: fixed;
+          -webkit-font-smoothing: antialiased;
+          -webkit-text-size-adjust: 100%;
+          -moz-text-size-adjust: 100%;
+          -ms-text-size-adjust: 100%;
+        }
+        img.max-width {
+          max-width: 100% !important;
+        }
+        .column.of-2 {
+          width: 50%;
+        }
+        .column.of-3 {
+          width: 33.333%;
+        }
+        .column.of-4 {
+          width: 25%;
+        }
+        @media screen and (max-width:480px) {
+          .preheader .rightColumnContent,
+          .footer .rightColumnContent {
+            text-align: left !important;
+          }
+          .preheader .rightColumnContent div,
+          .preheader .rightColumnContent span,
+          .footer .rightColumnContent div,
+          .footer .rightColumnContent span {
+            text-align: left !important;
+          }
+          .preheader .rightColumnContent,
+          .preheader .leftColumnContent {
+            font-size: 80% !important;
+            padding: 5px 0;
+          }
+          table.wrapper-mobile {
+            width: 100% !important;
+            table-layout: fixed;
+          }
+          img.max-width {
+            height: auto !important;
+            max-width: 480px !important;
+          }
+          a.bulletproof-button {
+            display: block !important;
+            width: auto !important;
+            font-size: 80%;
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+          }
+          .columns {
+            width: 100% !important;
+          }
+          .column {
+            display: block !important;
+            width: 100% !important;
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+            margin-left: 0 !important;
+            margin-right: 0 !important;
+          }
+        }
+      </style>
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px;font-family:arial,helvetica,sans-serif;color:#000000;bac=
+kground-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+                            <center>
+                              <table>
+                                <tr>
+                                  <td width=3D""600"">
+                                    <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px;color:#000000;text-align:left;"" bgcolor=3D""#FF=
+FFFF"" width=3D""100%"" align=3D""left"">
+                                          <table class=3D""module preheader =
+preheader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpa=
+dding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !import=
+ant; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; hei=
+ght: 0; width: 0;"">
+                                            <tr>
+                                              <td role=3D""module-content"">
+                                                <p>
+                                                </p>
+                                              </td>
+                                            </tr>
+                                          </table>
+                                          <div data-role=3D""module-unsubscr=
+ibe"" class=3D""module"" role=3D""module"" data-type=3D""unsubscribe"" style=3D""co=
+lor:#444444; font-size:12px; line-height:20px; padding:16px 16px 16px 16px;=
+ text-align:Center;"" data-muid=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5"">
+                                           =20
+                                            <p style=3D""font-size:12px; lin=
+e-height:20px;"">
+                                              <a class=3D""Unsubscribe--unsu=
+bscribeLink"" href=3D""<%asm_group_unsubscribe_raw_url%>"" target=3D""_blank"" s=
+tyle=3D"""">
+                                                Unsubscribe
+                                              </a>
+                                              -
+                                              <a href=3D""<%asm_preferences_=
+raw_url%>"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" =
+style=3D"""">
+                                                Unsubscribe Preferences
+                                              </a>
+                                            </p>
+                                          </div>
+                                        </td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51394856.ct.sendgrid.net/wf/open?upn=3Du001.KZX-2B=
+8pMnxZm59EhO83qNDBXHkxjoR9vxMSqwkf6yCeMPdt91hPaGTIrrjKL-2BXl9y-2B3DaOxiI85k=
+YeQPLznrWikwItIKJdU2F-2FF-2BlK4uX94xEVtsPpZd1OwdWJXL1JSQHXkpiuoG4PKiVRsUNl5=
+1GZv4lqrOdDgptSJCPkwAH1HiC4q2l0OMlCh-2BB4jRPbufc4pPCBQFesCq0WwPiJCzLcx0GVRr=
+673Gfe5W-2F0Gvj8bz5yx0kmkYajWzO2gQmrLmFFXfvkeg4dAf-2FgTI27Mtoz0Fhm343xx0-2B=
+nq5pVsiSli28XPtOfBbfRBHibmkp1UPfdU9bfvF0d1t0cfcSPbKpv98I21EwtWHxFtjmezuVcDl=
+-2Be2paNhSca7aDMgvHsWYYbxWelweT-2FIX2Lg7bjggQFlScEou9l9b5Wbz1QlFd9jy1m65VTH=
+-2BQ5hnuiv-2BQbI0uFpG4ex0XEUbVKE0zBR9f84fi2wmVXR2oGTrz9V1tn-2BJyD9lCjDJvZHf=
+Dibyrvzw8yl-2BCEoniCYz2GEjFX346Rt8-2B3Ap1SF0Eaqb7daQCYGknCmj8HH04mJDgwT4bPD=
+3-2F"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !i=
+mportant;width:1px !important;border-width:0 !important;margin-top:0 !impor=
+tant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !im=
+portant;padding-top:0 !important;padding-bottom:0 !important;padding-right:=
+0 !important;padding-left:0 !important;""/></body>
+  </html>
+
+--0ae6c753a748f28a6c4588fe4a09946e6a4c366f41a964d3c3c1679824fe--
+",nomaan@zaascosnulting.com,syed.imran@zaasconsulting.com,2025-03-19,44.198.45.247,United States,de,users/51394856/4d09e99f-68cb-4c3f-b2e1-6737e7b3ea99.json

@@ -1,0 +1,1588 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+49003550,NKDbBIbHQ8yYiV6AuoWhKA.recvd-578d769b87-28wxc-1-67BE8F51-1E.0,cHJvY2Vzc2VkLTQ5MDAzNTUwLU5LRGJCSWJIUTh5WWlWNkF1b1doS0EtMA,Mobile and Internet Banking Unauthorized Registration!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=B62t1BaB9OclNrcaERq9mXnmx959XNetqoVFLvTNcJ8=;
+	b=p/ydXHsYZCahCNXtgIR8NFQaLMyjh4ToSMOULVrEmlu9cAp3ApDclArpfrNv4jsPL4jB
+	oT1gw0USPWD/vf8OiD5KJUu3MtWezvvpdudO+ZO3oivG0UEeXbpI2WODEbdnmC/PKzldnE
+	yCgFl+VhwD5qs1hS2fkm5AFYes8Vw9Sh0=
+Received: by recvd-578d769b87-28wxc with SMTP id recvd-578d769b87-28wxc-1-67BE8F51-1E
+	2025-02-26 03:49:37.495757409 +0000 UTC m=+8922319.530667071
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-2 (SG) with ESMTP
+	id NKDbBIbHQ8yYiV6AuoWhKA
+	for <joel.enriquez@deped.gov.ph>;
+	Wed, 26 Feb 2025 03:49:37.227 +0000 (UTC)
+Content-Type: text/html; charset=utf-8
+From: ""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>
+Subject: Mobile and Internet Banking Unauthorized Registration!
+Message-ID: <84351061-4e58-3141-b591-06044344a451@deped.gov.ph>
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 26 Feb 2025 03:49:37 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ek3Ffycmo7NsJy3R1YVV3a8uHRj1fogE=2FgOmFiy0DInQzXgpq8ImZlLDEY?=
+ =?us-ascii?Q?9TdZ3s2UINYHCpJJLTvvrkgef2RHhTp1F1eGhzs?=
+ =?us-ascii?Q?RWLyS60VMO=2Fd7zHSNv2ehkvh1xh7JpUjVDvHZQM?=
+ =?us-ascii?Q?ix9Fbp8WogiKAaRv1SpjIbqlRnHayQvsiEc8iPw?=
+ =?us-ascii?Q?oL7CcBCtjiHv9JtpgbDEg4bqkrN62Gxi82kN475?=
+ =?us-ascii?Q?QQmMA9WPP+JWa7+CaFZCyv4XArcE9QsCc1QAsB2?=
+ =?us-ascii?Q?8VS1rZjVotfxv4aM2akDS=2F8Z+z4piVZHiZSn+1K?=
+ =?us-ascii?Q?Wlp6Vbxo=3D?=
+To: joel.enriquez@deped.gov.ph
+X-Entity-ID: u001.w4DFWig/x4b7yt/DmyZ0/g==
+
+<!DOCTYPE html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce"" lang=3D""en""><head><title>Mobile and Internet Banking Unauthorized Regis=
+tration</title>
+ =20
+  <!--[if !mso]><!-->
+  <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""/>
+  <!--<![endif]-->
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8""/>
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D1.=
+0""/>
+<style type=3D""text/css"">
+  #outlook a { padding: 0; }
+  .ReadMsgBody { width: 100%; }
+  .ExternalClass { width: 100%; }
+  .ExternalClass * { line-height:100%; }
+  body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-text-si=
+ze-adjust: 100%; }
+  table, td { border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; }
+  img { border: 0; height: auto; line-height: 100%; outline: none; text-dec=
+oration: none; -ms-interpolation-mode: bicubic; }
+  p { display: block; margin: 13px 0; }
+</style>
+<!--[if !mso]><!-->
+<style type=3D""text/css"">
+  @media only screen and (max-width:480px) {
+    @-ms-viewport { width:320px; }
+    @viewport { width:320px; }
+  }
+</style>
+<!--<![endif]-->
+<!--[if mso]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<!--[if lte mso 11]>
+<style type=3D""text/css"">
+  .outlook-group-fix {
+    width:100% !important;
+  }
+</style>
+<![endif]-->
+<style type=3D""text/css"">
+          *,
+          *::before,
+          *::after {
+            box-sizing: border-box;
+          }
+          body {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+          }
+          p,
+          .mj-page p{
+            margin: 0;
+            margin-block-start: 0;
+            margin-block-end: 0;
+            margin-inline-start: 0;
+            margin-inline-end: 0;
+          }
+          .mj-page a{
+            color: #b8b8b8;
+            text-decoration: none;
+          }
+          .is-underlined a{
+            text-decoration: underline;
+            text-underline-position: under;
+            text-underline-offset: calc(2px - 0.1em);
+          }
+          .mj-page a:hover{
+            color: #b8b8b8;
+          }
+          @media only screen and (max-width: 479px) {
+            .footer-center{
+              border: none !important;
+            }
+          }
+        </style><style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100%!important; }
+      }
+    </style>
+<style type=3D""text/css"">
+    .mj-column-padding--top-0 {padding-top: 0px;}
+.mj-column-padding--bottom-0 {padding-bottom: 0px;}
+.mj-column-padding--left-0 {padding-left: 0px;}
+.mj-column-padding--right-0 {padding-right: 0px;}
+  </style>
+</head>
+<body style=3D""background: rgb(255, 255, 255);""><span class=3D""preheader"" s=
+tyle=3D""color: transparent; display: none; height: 0; max-height: 0; max-wi=
+dth: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; wi=
+dth: 0;""></span>
+ =20
+  <div class=3D""mj-page"" style=3D""background-color:#ffffff;padding:0px 0 0p=
+x 0""><div class=3D""mj-container"" style=3D""max-width:600px;margin-left:auto;=
+margin-right:auto""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""600"" align=3D""center"" style=3D""width:600px;"">
+        <tr>
+          <td style=3D""line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+#ffffff;color:#333333""><table role=3D""presentation"" cellpadding=3D""0"" cells=
+pacing=3D""0"" style=3D""font-size:0px;width:100%;background:#ffffff;color:#33=
+3333"" align=3D""center"" border=3D""0""><tbody><tr><td style=3D""text-align:cent=
+er;vertical-align:top;border:0px solid #e9e9e9;direction:ltr;font-size:0px;=
+padding:0px""><div style=3D""display:block;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 10px 10px 10px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:20px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true""><strong>N=
+ew Device Registered</strong></div></div></td></tr></tbody></table></div></=
+div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-divider-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-divider""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:10px 0px 10px 0px""><div style=3D""display:bl=
+ock;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><p style=3D""font-size:1px;margin:0;border-top:10px solid #3e9b50;width:6=
+00px;max-width:100%""></p><!--[if mso | IE]><table role=3D""presentation"" ali=
+gn=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""fon=
+t-size:1px;margin:0;border-top:10px solid #3e9b50;width:600px;max-width:100=
+%"" width=3D""600""><tr><td style=3D""height:0;line-height:0;"">=C2=A0</td></tr>=
+</table><![endif]--></td></tr></tbody></table></div></div></div><!--[if mso=
+ | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">We have detected an account sign-in request=
+ from a device we don&#39;t recognize.</div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 When: <strong>2025-02-26=
+</strong></div><div data-paragraph=3D""true"">=C2=A0</div><div data-paragraph=
+=3D""true"">=E2=80=A2 Device: <strong>TECNO CAMON 30</strong></div><div data-=
+paragraph=3D""true"">=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 Locat=
+ion: <strong>Mandaluyong City</strong></div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">If you are aware of this update, t=
+here&#39;s no need for further action. If not, please secure your account b=
+y removing the device and reviewing your security settings</div><div data-p=
+aragraph=3D""true"">=C2=A0</div></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-button-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-button""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:20px 0px;padding-bottom:10px;padding-left:0=
+px;padding-right:0px;padding-top:10px""><div style=3D""display:block;margin:0=
+""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><table role=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=
+=3D""border-collapse:separate"" align=3D""center"" border=3D""0""><tbody><tr><td =
+style=3D""border-radius:24px;color:#ffffff;cursor:auto;text-align:center;let=
+ter-spacing:1.8px;background:#3e9b50"" align=3D""center"" valign=3D""middle""><a=
+ role=3D""button"" href=3D""https://u49003550.ct.sendgrid.net/ls/click?upn=3Du=
+001.HGvrQEh6oZ1MbvQKkRf8T9simIgAvR7a4PKIdXcLJhYlQpW-2FPOvtaDhWaxLA2a7Xw_b1_=
+b7KpgHVoy8WHsqvbj-2FxOcH9HRVcFXGShGzrebaSVLKAF8ezIpW-2BsQXdn-2F2lWpgAwzZmow=
+JTMpxg6qmxupD4zgaQ976xeoqvx7N7RSboFBUhyyfKWitm51YzMrdi-2ByFCw9BMusforJJQUop=
+z-2B7-2BlFN0s7kFkVvQ6QPPZ7xkqHR2alAYa3JwBABHllhJCFeV5Z6AM5RQXX5buE0Zi-2FI70=
+P1Q-3D-3D"" style=3D""text-decoration:none;display:block;color:#ffffff;font-f=
+amily:Helvetica, sans-serif;font-size:14px;font-weight:400;line-height:1;te=
+xt-transform:none;margin:0px;padding:15px 30px;border:2px solid #3e9b50;bor=
+der-radius:24px"" target=3D""_blank"">REMOVE DEVICE</a></td></tr></tbody></tab=
+le></td></tr></tbody></table></div></div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">Thank you for your trust, and rest assured =
+of our commitment to serving your banking needs.<br/><br/>Sincerely,<br/><b=
+r/>Land Bank of the Philippines</div></div></td></tr></tbody></table></div>=
+</div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-address-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-address""><table role=3D""presentation=
+"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;bac=
+kground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr=
+><td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-si=
+ze:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><=
+!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr><td style=3D""word-wrap:break-word;font-siz=
+e:0px;padding:0px"" align=3D""center""><div style=3D""cursor:auto;color:#797979=
+;font-family:Helvetica, sans-serif;font-size:11px;font-weight:400;line-heig=
+ht:1.8;letter-spacing:0px;text-align:center;text-transform:none"">A proud me=
+mber of BancNet<br/>Deposits are insured by PDIC up to P500,000 per deposit=
+or, Regulated by the Bangko Sentral ng Pilipinas, https://www.bsp.gov.ph/</=
+div></td></tr></tbody></table></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-footer-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-footer""><table role=3D""presentation""=
+ cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;back=
+ground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr>=
+<td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-siz=
+e:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><!=
+--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr class=3D""is-underlined""><td style=3D""word-=
+wrap:break-word;font-size:0px;padding:0px"" align=3D""center""><div style=3D""c=
+ursor:auto;color:#797979;font-family:Helvetica, sans-serif;font-size:11px;f=
+ont-weight:400;line-height:1.8;letter-spacing:0px;text-align:center;text-tr=
+ansform:none""><p></p></div></td></tr></tbody></table></div></td></tr></tbod=
+y></table></div></div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></div>
+","""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>",joel.enriquez@deped.gov.ph,2025-02-25,49.149.110.165,Philippines,en,users/49003550/df3ed00d-a787-48bb-ab1d-ba3419b25956.json
+49003550,PnGFAkpZTeaJ5NoZYp58Dg.recvd-578d769b87-kw9vv-1-67BE29F7-22.0,cHJvY2Vzc2VkLTQ5MDAzNTUwLVBuR0ZBa3BaVGVhSjVOb1pZcDU4RGctMA,Mobile and Internet Banking Unauthorized Registration!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=+9QAeg3XVHhf8bWxrDF3pJSuEza/wTJzR+NEhVptqUg=;
+	b=KmE3I3AxbX9gp66rExGoNa53JIaDTmMT1o0kgRKS26B2F9by6gU3T8eoVMbG6RzRhETT
+	g+FTqXYbaTaK0Av7EH1tgd3NEVSy0sG5GH7oqP0dYjmXxIwXuZnN1oRPN0jxhGx8MGjsDY
+	uQr9S64kqwI/2KAg73xU02kW3g3ZKA0vk=
+Received: by recvd-578d769b87-kw9vv with SMTP id recvd-578d769b87-kw9vv-1-67BE29F7-22
+	2025-02-25 20:37:11.611850991 +0000 UTC m=+8896492.189750267
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-14 (SG) with ESMTP
+	id PnGFAkpZTeaJ5NoZYp58Dg
+	for <aireen.dollopac@deped.gov.ph>;
+	Tue, 25 Feb 2025 20:37:11.373 +0000 (UTC)
+Content-Type: text/html; charset=utf-8
+From: ""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>
+Subject: Mobile and Internet Banking Unauthorized Registration!
+Message-ID: <84c727e9-c7f4-261e-08ce-750e602b5790@deped.gov.ph>
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 25 Feb 2025 20:37:11 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ek3Ffycmo7NsJy3R1YVV3a8uHRj1fogE=2FgOmFiy0DInQzXgpq8ImZlLDEY?=
+ =?us-ascii?Q?9TdZ3s2UINYHCpJJLTvvrkgef2RHhTp1F1eGhzs?=
+ =?us-ascii?Q?RWLyS60VMO=2Fd7zHSNv2ehkvh1xh7JpUjr9EnXu6?=
+ =?us-ascii?Q?7YHq3oJ3ESUXq67CteDrb1V5Krt3VvVYoTR=2FYlH?=
+ =?us-ascii?Q?Ax=2FluNK0ZCCT1CI+dNn40q9MhcYduR9hcZjOgv0?=
+ =?us-ascii?Q?H0DB7rhLjCUcz=2FYQEkm3aweQGVbXTEPuTnL7tFl?=
+ =?us-ascii?Q?OdnUW1F=2F9M0NX6FhX=2FlDKksaV7=2Fvzw+4NtyIYaE?=
+ =?us-ascii?Q?tCYDb4ZQ=3D?=
+To: aireen.dollopac@deped.gov.ph
+X-Entity-ID: u001.w4DFWig/x4b7yt/DmyZ0/g==
+
+<!DOCTYPE html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce"" lang=3D""en""><head><title>Mobile and Internet Banking Unauthorized Regis=
+tration</title>
+ =20
+  <!--[if !mso]><!-->
+  <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""/>
+  <!--<![endif]-->
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8""/>
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D1.=
+0""/>
+<style type=3D""text/css"">
+  #outlook a { padding: 0; }
+  .ReadMsgBody { width: 100%; }
+  .ExternalClass { width: 100%; }
+  .ExternalClass * { line-height:100%; }
+  body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-text-si=
+ze-adjust: 100%; }
+  table, td { border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; }
+  img { border: 0; height: auto; line-height: 100%; outline: none; text-dec=
+oration: none; -ms-interpolation-mode: bicubic; }
+  p { display: block; margin: 13px 0; }
+</style>
+<!--[if !mso]><!-->
+<style type=3D""text/css"">
+  @media only screen and (max-width:480px) {
+    @-ms-viewport { width:320px; }
+    @viewport { width:320px; }
+  }
+</style>
+<!--<![endif]-->
+<!--[if mso]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<!--[if lte mso 11]>
+<style type=3D""text/css"">
+  .outlook-group-fix {
+    width:100% !important;
+  }
+</style>
+<![endif]-->
+<style type=3D""text/css"">
+          *,
+          *::before,
+          *::after {
+            box-sizing: border-box;
+          }
+          body {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+          }
+          p,
+          .mj-page p{
+            margin: 0;
+            margin-block-start: 0;
+            margin-block-end: 0;
+            margin-inline-start: 0;
+            margin-inline-end: 0;
+          }
+          .mj-page a{
+            color: #b8b8b8;
+            text-decoration: none;
+          }
+          .is-underlined a{
+            text-decoration: underline;
+            text-underline-position: under;
+            text-underline-offset: calc(2px - 0.1em);
+          }
+          .mj-page a:hover{
+            color: #b8b8b8;
+          }
+          @media only screen and (max-width: 479px) {
+            .footer-center{
+              border: none !important;
+            }
+          }
+        </style><style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100%!important; }
+      }
+    </style>
+<style type=3D""text/css"">
+    .mj-column-padding--top-0 {padding-top: 0px;}
+.mj-column-padding--bottom-0 {padding-bottom: 0px;}
+.mj-column-padding--left-0 {padding-left: 0px;}
+.mj-column-padding--right-0 {padding-right: 0px;}
+  </style>
+</head>
+<body style=3D""background: rgb(255, 255, 255);""><span class=3D""preheader"" s=
+tyle=3D""color: transparent; display: none; height: 0; max-height: 0; max-wi=
+dth: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; wi=
+dth: 0;""></span>
+ =20
+  <div class=3D""mj-page"" style=3D""background-color:#ffffff;padding:0px 0 0p=
+x 0""><div class=3D""mj-container"" style=3D""max-width:600px;margin-left:auto;=
+margin-right:auto""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""600"" align=3D""center"" style=3D""width:600px;"">
+        <tr>
+          <td style=3D""line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+#ffffff;color:#333333""><table role=3D""presentation"" cellpadding=3D""0"" cells=
+pacing=3D""0"" style=3D""font-size:0px;width:100%;background:#ffffff;color:#33=
+3333"" align=3D""center"" border=3D""0""><tbody><tr><td style=3D""text-align:cent=
+er;vertical-align:top;border:0px solid #e9e9e9;direction:ltr;font-size:0px;=
+padding:0px""><div style=3D""display:block;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 10px 10px 10px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:20px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true""><strong>N=
+ew Device Registered</strong></div></div></td></tr></tbody></table></div></=
+div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-divider-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-divider""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:10px 0px 10px 0px""><div style=3D""display:bl=
+ock;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><p style=3D""font-size:1px;margin:0;border-top:10px solid #3e9b50;width:6=
+00px;max-width:100%""></p><!--[if mso | IE]><table role=3D""presentation"" ali=
+gn=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""fon=
+t-size:1px;margin:0;border-top:10px solid #3e9b50;width:600px;max-width:100=
+%"" width=3D""600""><tr><td style=3D""height:0;line-height:0;"">=C2=A0</td></tr>=
+</table><![endif]--></td></tr></tbody></table></div></div></div><!--[if mso=
+ | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">We have detected an account sign-in request=
+ from a device we don&#39;t recognize.</div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 When: <strong>2025-02-26=
+</strong></div><div data-paragraph=3D""true"">=C2=A0</div><div data-paragraph=
+=3D""true"">=E2=80=A2 Device: <strong>TECNO CAMON 30</strong></div><div data-=
+paragraph=3D""true"">=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 Locat=
+ion: <strong>Mandaluyong City</strong></div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">If you are aware of this update, t=
+here&#39;s no need for further action. If not, please secure your account b=
+y removing the device and reviewing your security settings</div><div data-p=
+aragraph=3D""true"">=C2=A0</div></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-button-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-button""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:20px 0px;padding-bottom:10px;padding-left:0=
+px;padding-right:0px;padding-top:10px""><div style=3D""display:block;margin:0=
+""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><table role=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=
+=3D""border-collapse:separate"" align=3D""center"" border=3D""0""><tbody><tr><td =
+style=3D""border-radius:24px;color:#ffffff;cursor:auto;text-align:center;let=
+ter-spacing:1.8px;background:#3e9b50"" align=3D""center"" valign=3D""middle""><a=
+ role=3D""button"" href=3D""https://u49003550.ct.sendgrid.net/ls/click?upn=3Du=
+001.HGvrQEh6oZ1MbvQKkRf8T9simIgAvR7a4PKIdXcLJhYlQpW-2FPOvtaDhWaxLA2a7Xwwo9_=
+KIvwIAmQyjEca8PsOH8t7AOk2n126nlznttMnHPjfk2gVKP6q75GyHHfzDgHSTntY02dOOF3fFm=
+VJrllHcTVKLDfiQB57gh-2FY-2BYrmDun77HgGHBGuyQjpD7LG0f-2FpyBB7DS2tN-2FgYF9g7R=
+RYVLJxQJKXD2PppEIDfSpx8bte0TFRH-2BKTiPPogsoiXCfSq8FLnmkTrKPW53rgXZmCAjnrNsN=
+wCX-2FXjii0wruobxCXdxg-3D"" style=3D""text-decoration:none;display:block;colo=
+r:#ffffff;font-family:Helvetica, sans-serif;font-size:14px;font-weight:400;=
+line-height:1;text-transform:none;margin:0px;padding:15px 30px;border:2px s=
+olid #3e9b50;border-radius:24px"" target=3D""_blank"">REMOVE DEVICE</a></td></=
+tr></tbody></table></td></tr></tbody></table></div></div></div><!--[if mso =
+| IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">Thank you for your trust, and rest assured =
+of our commitment to serving your banking needs.<br/><br/>Sincerely,<br/><b=
+r/>Land Bank of the Philippines</div></div></td></tr></tbody></table></div>=
+</div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-address-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-address""><table role=3D""presentation=
+"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;bac=
+kground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr=
+><td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-si=
+ze:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><=
+!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr><td style=3D""word-wrap:break-word;font-siz=
+e:0px;padding:0px"" align=3D""center""><div style=3D""cursor:auto;color:#797979=
+;font-family:Helvetica, sans-serif;font-size:11px;font-weight:400;line-heig=
+ht:1.8;letter-spacing:0px;text-align:center;text-transform:none"">A proud me=
+mber of BancNet<br/>Deposits are insured by PDIC up to P500,000 per deposit=
+or, Regulated by the Bangko Sentral ng Pilipinas, https://www.bsp.gov.ph/</=
+div></td></tr></tbody></table></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-footer-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-footer""><table role=3D""presentation""=
+ cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;back=
+ground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr>=
+<td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-siz=
+e:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><!=
+--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr class=3D""is-underlined""><td style=3D""word-=
+wrap:break-word;font-size:0px;padding:0px"" align=3D""center""><div style=3D""c=
+ursor:auto;color:#797979;font-family:Helvetica, sans-serif;font-size:11px;f=
+ont-weight:400;line-height:1.8;letter-spacing:0px;text-align:center;text-tr=
+ansform:none""><p></p></div></td></tr></tbody></table></div></td></tr></tbod=
+y></table></div></div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></div>
+","""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>",aireen.dollopac@deped.gov.ph,2025-02-25,49.149.110.165,Philippines,en,users/49003550/9e792467-1404-4184-a290-2a51269ed1ad.json
+49003550,hggzrKBbSeCtqGtw5hqnrg.recvd-578d769b87-vzdxr-1-67BD3776-9.0,cHJvY2Vzc2VkLTQ5MDAzNTUwLWhnZ3pyS0JiU2VDdHFHdHc1aHFucmctMA,Mobile and Internet Banking Unauthorized Registration!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=RMlVXNUREpGB3tyFHNrTFUJOKb1V2xg1EmlrVi90+rs=;
+	b=GD9ldgL4mEo34AgsKm5dkXA+IbLbe3gp3ZIyR2kD0Xz28BBRz+6u2zSk222DYss1ltP0
+	oI3XZHLYK1G6qJgRuoFq8Oon4KhhkEt5I2KIDKsloFfB2evkhthXfBHrhxCrUU2mS/AhWn
+	d7dbocF2n6Y5JCCDosXFeA3lbJVD2Yplc=
+Received: by recvd-578d769b87-vzdxr with SMTP id recvd-578d769b87-vzdxr-1-67BD3776-9
+	2025-02-25 03:22:30.408621595 +0000 UTC m=+8834307.587790803
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-17 (SG) with ESMTP
+	id hggzrKBbSeCtqGtw5hqnrg
+	for <alicia.delacerna002@deped.gov.ph>;
+	Tue, 25 Feb 2025 03:22:30.074 +0000 (UTC)
+Content-Type: text/html; charset=utf-8
+From: ""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>
+Subject: Mobile and Internet Banking Unauthorized Registration!
+Message-ID: <cd485c66-5a00-8145-f063-0097c56521f0@deped.gov.ph>
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 25 Feb 2025 03:22:30 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ek3Ffycmo7NsJy3R1YVV3a8uHRj1fogE=2FgOmFiy0DInQzXgpq8ImZlLDEY?=
+ =?us-ascii?Q?9TdZ3s2UINYHCpJJLTvvrkgef2RHhTp1F1eGhzs?=
+ =?us-ascii?Q?RWLyS60VMO=2Fd7zHSNv2ehkvh1xh7JpUjROW7Kvy?=
+ =?us-ascii?Q?swNAJ8PMbAjdCpBYAAlLt=2FdQ4WY8LyBfbgq7Hiq?=
+ =?us-ascii?Q?4lwA8blKH2rF53j5priAR1b3qY+1IdmRAH6L2Ua?=
+ =?us-ascii?Q?lqOkhpPXZtoyyNz8Kybpgh1CU=2Fh0Kq3URm0YgK=2F?=
+ =?us-ascii?Q?VzSVuonSnoT5ckR5qliXESNFEPCoQJ4xvxItDGR?=
+ =?us-ascii?Q?CZ1lQZ1c=3D?=
+To: alicia.delacerna002@deped.gov.ph
+X-Entity-ID: u001.w4DFWig/x4b7yt/DmyZ0/g==
+
+<!DOCTYPE html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce"" lang=3D""en""><head><title>Mobile and Internet Banking Unauthorized Regis=
+tration</title>
+ =20
+  <!--[if !mso]><!-->
+  <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""/>
+  <!--<![endif]-->
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8""/>
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D1.=
+0""/>
+<style type=3D""text/css"">
+  #outlook a { padding: 0; }
+  .ReadMsgBody { width: 100%; }
+  .ExternalClass { width: 100%; }
+  .ExternalClass * { line-height:100%; }
+  body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-text-si=
+ze-adjust: 100%; }
+  table, td { border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; }
+  img { border: 0; height: auto; line-height: 100%; outline: none; text-dec=
+oration: none; -ms-interpolation-mode: bicubic; }
+  p { display: block; margin: 13px 0; }
+</style>
+<!--[if !mso]><!-->
+<style type=3D""text/css"">
+  @media only screen and (max-width:480px) {
+    @-ms-viewport { width:320px; }
+    @viewport { width:320px; }
+  }
+</style>
+<!--<![endif]-->
+<!--[if mso]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<!--[if lte mso 11]>
+<style type=3D""text/css"">
+  .outlook-group-fix {
+    width:100% !important;
+  }
+</style>
+<![endif]-->
+<style type=3D""text/css"">
+          *,
+          *::before,
+          *::after {
+            box-sizing: border-box;
+          }
+          body {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+          }
+          p,
+          .mj-page p{
+            margin: 0;
+            margin-block-start: 0;
+            margin-block-end: 0;
+            margin-inline-start: 0;
+            margin-inline-end: 0;
+          }
+          .mj-page a{
+            color: #b8b8b8;
+            text-decoration: none;
+          }
+          .is-underlined a{
+            text-decoration: underline;
+            text-underline-position: under;
+            text-underline-offset: calc(2px - 0.1em);
+          }
+          .mj-page a:hover{
+            color: #b8b8b8;
+          }
+          @media only screen and (max-width: 479px) {
+            .footer-center{
+              border: none !important;
+            }
+          }
+        </style><style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100%!important; }
+      }
+    </style>
+<style type=3D""text/css"">
+    .mj-column-padding--top-0 {padding-top: 0px;}
+.mj-column-padding--bottom-0 {padding-bottom: 0px;}
+.mj-column-padding--left-0 {padding-left: 0px;}
+.mj-column-padding--right-0 {padding-right: 0px;}
+  </style>
+</head>
+<body style=3D""background: rgb(255, 255, 255);""><span class=3D""preheader"" s=
+tyle=3D""color: transparent; display: none; height: 0; max-height: 0; max-wi=
+dth: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; wi=
+dth: 0;""></span>
+ =20
+  <div class=3D""mj-page"" style=3D""background-color:#ffffff;padding:0px 0 0p=
+x 0""><div class=3D""mj-container"" style=3D""max-width:600px;margin-left:auto;=
+margin-right:auto""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""600"" align=3D""center"" style=3D""width:600px;"">
+        <tr>
+          <td style=3D""line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+#ffffff;color:#333333""><table role=3D""presentation"" cellpadding=3D""0"" cells=
+pacing=3D""0"" style=3D""font-size:0px;width:100%;background:#ffffff;color:#33=
+3333"" align=3D""center"" border=3D""0""><tbody><tr><td style=3D""text-align:cent=
+er;vertical-align:top;border:0px solid #e9e9e9;direction:ltr;font-size:0px;=
+padding:0px""><div style=3D""display:block;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 10px 10px 10px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:20px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true""><strong>N=
+ew Device Registered</strong></div></div></td></tr></tbody></table></div></=
+div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-divider-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-divider""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:10px 0px 10px 0px""><div style=3D""display:bl=
+ock;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><p style=3D""font-size:1px;margin:0;border-top:10px solid #3e9b50;width:6=
+00px;max-width:100%""></p><!--[if mso | IE]><table role=3D""presentation"" ali=
+gn=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""fon=
+t-size:1px;margin:0;border-top:10px solid #3e9b50;width:600px;max-width:100=
+%"" width=3D""600""><tr><td style=3D""height:0;line-height:0;"">=C2=A0</td></tr>=
+</table><![endif]--></td></tr></tbody></table></div></div></div><!--[if mso=
+ | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">We have detected an account sign-in request=
+ from a device we don&#39;t recognize.</div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 When: <strong>2025-02-25=
+</strong></div><div data-paragraph=3D""true"">=C2=A0</div><div data-paragraph=
+=3D""true"">=E2=80=A2 Device: <strong>TECNO CAMON 30</strong></div><div data-=
+paragraph=3D""true"">=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 Locat=
+ion: <strong>Mandaluyong City</strong></div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">If you are aware of this update, t=
+here&#39;s no need for further action. If not, please secure your account b=
+y removing the device and reviewing your security settings</div><div data-p=
+aragraph=3D""true"">=C2=A0</div></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-button-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-button""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:20px 0px;padding-bottom:10px;padding-left:0=
+px;padding-right:0px;padding-top:10px""><div style=3D""display:block;margin:0=
+""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><table role=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=
+=3D""border-collapse:separate"" align=3D""center"" border=3D""0""><tbody><tr><td =
+style=3D""border-radius:24px;color:#ffffff;cursor:auto;text-align:center;let=
+ter-spacing:1.8px;background:#3e9b50"" align=3D""center"" valign=3D""middle""><a=
+ role=3D""button"" href=3D""https://u49003550.ct.sendgrid.net/ls/click?upn=3Du=
+001.HGvrQEh6oZ1MbvQKkRf8T52N-2BTj9S51vov3pk5YV4LrUDeZSj0pDINLZwKV8SHkW6BW5_=
+ke-2FeXzLLpzvoR8xgufWT26SSa-2FgLzdCrFPP6mgKqvRnOlOHKC-2Foz9VhzCrcVKrkQesngv=
+ajyUBOkQkrR3VOCbyMuWqm2BI52mFRPv7h9Zl9JtMhwRobL5jbFFT6TZ1VCLp40BvnhuDy7AYdN=
+25cmyyOAEwhoMY1ffTNqbfNebz9yCrxCITY2hU3BCQMYTTaz50D4urSAQzRxaG214grwCDQ-2BL=
+JOW5jYVovz52GpzpDI-3D"" style=3D""text-decoration:none;display:block;color:#f=
+fffff;font-family:Helvetica, sans-serif;font-size:14px;font-weight:400;line=
+-height:1;text-transform:none;margin:0px;padding:15px 30px;border:2px solid=
+ #3e9b50;border-radius:24px"" target=3D""_blank"">REMOVE DEVICE</a></td></tr><=
+/tbody></table></td></tr></tbody></table></div></div></div><!--[if mso | IE=
+]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">Thank you for your trust, and rest assured =
+of our commitment to serving your banking needs.<br/><br/>Sincerely,<br/><b=
+r/>Land Bank of the Philippines</div></div></td></tr></tbody></table></div>=
+</div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-address-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-address""><table role=3D""presentation=
+"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;bac=
+kground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr=
+><td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-si=
+ze:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><=
+!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr><td style=3D""word-wrap:break-word;font-siz=
+e:0px;padding:0px"" align=3D""center""><div style=3D""cursor:auto;color:#797979=
+;font-family:Helvetica, sans-serif;font-size:11px;font-weight:400;line-heig=
+ht:1.8;letter-spacing:0px;text-align:center;text-transform:none"">A proud me=
+mber of BancNet<br/>Deposits are insured by PDIC up to P500,000 per deposit=
+or, Regulated by the Bangko Sentral ng Pilipinas, https://www.bsp.gov.ph/</=
+div></td></tr></tbody></table></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-footer-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-footer""><table role=3D""presentation""=
+ cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;back=
+ground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr>=
+<td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-siz=
+e:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><!=
+--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr class=3D""is-underlined""><td style=3D""word-=
+wrap:break-word;font-size:0px;padding:0px"" align=3D""center""><div style=3D""c=
+ursor:auto;color:#797979;font-family:Helvetica, sans-serif;font-size:11px;f=
+ont-weight:400;line-height:1.8;letter-spacing:0px;text-align:center;text-tr=
+ansform:none""><p></p></div></td></tr></tbody></table></div></td></tr></tbod=
+y></table></div></div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></div>
+","""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>",alicia.delacerna002@deped.gov.ph,2025-02-24,49.149.110.165,Philippines,en,users/49003550/0f389198-78ae-4cda-b267-193da1ecef0e.json
+49003550,r19TjS3sTc-F7W0vAHc7HA.recvd-578d769b87-qbqf5-1-67BA5DDB-9.0,cHJvY2Vzc2VkLTQ5MDAzNTUwLXIxOVRqUzNzVGMtRjdXMHZBSGM3SEEtMA,Mobile and Internet Banking Unauthorized Registration,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=vFdMJHwMQzXeDPUb5X4SzNxJAwlLHuGejrs5uFBbikI=;
+	b=M6WkJmE3hpR8Cb2UBLoqB6TUZoKeoHNmK9wByWk//QoTf/ABOUTsi5z7hJu0kz+dJBSB
+	KZIInZpWrZdoxuVPic1Y6sdojBd8PavA0uL/sbinvqWsL6EBXbhtoFYEnqZ93fkA4ZdbXw
+	q74hsmldn8AKrvIR4Ff5Cv6lcRRggVf4Q=
+Received: by recvd-578d769b87-qbqf5 with SMTP id recvd-578d769b87-qbqf5-1-67BA5DDB-9
+	2025-02-22 23:29:31.293010357 +0000 UTC m=+8647536.827019677
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-0 (SG) with ESMTP
+	id r19TjS3sTc-F7W0vAHc7HA
+	for <joebartlou.lacia@deped.gov.ph>;
+	Sat, 22 Feb 2025 23:29:31.073 +0000 (UTC)
+Content-Type: text/html; charset=utf-8
+From: ""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>
+Subject: Mobile and Internet Banking Unauthorized Registration
+Message-ID: <4803f76b-ff4c-885b-1309-cc1e51972538@deped.gov.ph>
+Content-Transfer-Encoding: quoted-printable
+Date: Sat, 22 Feb 2025 23:29:31 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ek3Ffycmo7NsJy3R1YVV3a8uHRj1fogE=2FgOmFiy0DInQzXgpq8ImZlLDEY?=
+ =?us-ascii?Q?9TdZ3s2UINYHCpJJLTvvrkgef2RHhTp1F1eGhzs?=
+ =?us-ascii?Q?RWLyS60VMO=2Fd7zHSNv2ehkvh1xh7JpUjJEmA6XZ?=
+ =?us-ascii?Q?APylo99VPpjKGKbPPxFh8KDw+fp4s8aCuartpIO?=
+ =?us-ascii?Q?mbI3MJ+1I+AO3buUCHkomORE7C2=2Fscm=2FzR2fCQy?=
+ =?us-ascii?Q?XmEdtJCyGzhvLqiCIvvE1ZowXVFfIFeqT4idxYx?=
+ =?us-ascii?Q?DcAO03V+NmprMrVn=2FjNVHW11kkQoZBGp5NmtkhS?=
+ =?us-ascii?Q?ZRc=2FJ69Y=3D?=
+To: joebartlou.lacia@deped.gov.ph
+X-Entity-ID: u001.w4DFWig/x4b7yt/DmyZ0/g==
+
+<!DOCTYPE html><html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:=
+schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:offi=
+ce"" lang=3D""en""><head><title>Mobile and Internet Banking Unauthorized Regis=
+tration</title>
+ =20
+  <!--[if !mso]><!-->
+  <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""/>
+  <!--<![endif]-->
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8""/>
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D1.=
+0""/>
+<style type=3D""text/css"">
+  #outlook a { padding: 0; }
+  .ReadMsgBody { width: 100%; }
+  .ExternalClass { width: 100%; }
+  .ExternalClass * { line-height:100%; }
+  body { margin: 0; padding: 0; -webkit-text-size-adjust: 100%; -ms-text-si=
+ze-adjust: 100%; }
+  table, td { border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; }
+  img { border: 0; height: auto; line-height: 100%; outline: none; text-dec=
+oration: none; -ms-interpolation-mode: bicubic; }
+  p { display: block; margin: 13px 0; }
+</style>
+<!--[if !mso]><!-->
+<style type=3D""text/css"">
+  @media only screen and (max-width:480px) {
+    @-ms-viewport { width:320px; }
+    @viewport { width:320px; }
+  }
+</style>
+<!--<![endif]-->
+<!--[if mso]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<!--[if lte mso 11]>
+<style type=3D""text/css"">
+  .outlook-group-fix {
+    width:100% !important;
+  }
+</style>
+<![endif]-->
+<style type=3D""text/css"">
+          *,
+          *::before,
+          *::after {
+            box-sizing: border-box;
+          }
+          body {
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+          }
+          p,
+          .mj-page p{
+            margin: 0;
+            margin-block-start: 0;
+            margin-block-end: 0;
+            margin-inline-start: 0;
+            margin-inline-end: 0;
+          }
+          .mj-page a{
+            color: #b8b8b8;
+            text-decoration: none;
+          }
+          .is-underlined a{
+            text-decoration: underline;
+            text-underline-position: under;
+            text-underline-offset: calc(2px - 0.1em);
+          }
+          .mj-page a:hover{
+            color: #b8b8b8;
+          }
+          @media only screen and (max-width: 479px) {
+            .footer-center{
+              border: none !important;
+            }
+          }
+        </style><style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100%!important; }
+      }
+    </style>
+<style type=3D""text/css"">
+    .mj-column-padding--top-0 {padding-top: 0px;}
+.mj-column-padding--bottom-0 {padding-bottom: 0px;}
+.mj-column-padding--left-0 {padding-left: 0px;}
+.mj-column-padding--right-0 {padding-right: 0px;}
+  </style>
+</head>
+<body style=3D""background: rgb(255, 255, 255);""><span class=3D""preheader"" s=
+tyle=3D""color: transparent; display: none; height: 0; max-height: 0; max-wi=
+dth: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; wi=
+dth: 0;""></span>
+ =20
+  <div class=3D""mj-page"" style=3D""background-color:#ffffff;padding:0px 0 0p=
+x 0""><div class=3D""mj-container"" style=3D""max-width:600px;margin-left:auto;=
+margin-right:auto""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""600"" align=3D""center"" style=3D""width:600px;"">
+        <tr>
+          <td style=3D""line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+#ffffff;color:#333333""><table role=3D""presentation"" cellpadding=3D""0"" cells=
+pacing=3D""0"" style=3D""font-size:0px;width:100%;background:#ffffff;color:#33=
+3333"" align=3D""center"" border=3D""0""><tbody><tr><td style=3D""text-align:cent=
+er;vertical-align:top;border:0px solid #e9e9e9;direction:ltr;font-size:0px;=
+padding:0px""><div style=3D""display:block;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 10px 10px 10px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:20px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true""><strong>N=
+ew Device Registered</strong></div></div></td></tr></tbody></table></div></=
+div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-divider-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-divider""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:10px 0px 10px 0px""><div style=3D""display:bl=
+ock;margin:0""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><p style=3D""font-size:1px;margin:0;border-top:10px solid #3e9b50;width:6=
+00px;max-width:100%""></p><!--[if mso | IE]><table role=3D""presentation"" ali=
+gn=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""fon=
+t-size:1px;margin:0;border-top:10px solid #3e9b50;width:600px;max-width:100=
+%"" width=3D""600""><tr><td style=3D""height:0;line-height:0;"">=C2=A0</td></tr>=
+</table><![endif]--></td></tr></tbody></table></div></div></div><!--[if mso=
+ | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">We have detected an account sign-in request=
+ from a device we don&#39;t recognize.</div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 When: <strong>2025-02-23=
+</strong></div><div data-paragraph=3D""true"">=C2=A0</div><div data-paragraph=
+=3D""true"">=E2=80=A2 Device: <strong>TECNO CAMON 30</strong></div><div data-=
+paragraph=3D""true"">=C2=A0</div><div data-paragraph=3D""true"">=E2=80=A2 Locat=
+ion: <strong>Mandaluyong City</strong></div><div data-paragraph=3D""true"">=
+=C2=A0</div><div data-paragraph=3D""true"">If you are aware of this update, t=
+here&#39;s no need for further action. If not, please secure your account b=
+y removing the device and reviewing your security settings</div><div data-p=
+aragraph=3D""true"">=C2=A0</div></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-button-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-button""><table role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0p=
+x;width:100%;background:transparent;color:#333333"" align=3D""center"" border=
+=3D""0""><tbody><tr><td style=3D""text-align:center;vertical-align:middle;dire=
+ction:ltr;font-size:0px;padding:20px 0px;padding-bottom:10px;padding-left:0=
+px;padding-right:0px;padding-top:10px""><div style=3D""display:block;margin:0=
+""><!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px;padding:0px"" align=3D""cente=
+r""><table role=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=
+=3D""border-collapse:separate"" align=3D""center"" border=3D""0""><tbody><tr><td =
+style=3D""border-radius:24px;color:#ffffff;cursor:auto;text-align:center;let=
+ter-spacing:1.8px;background:#3e9b50"" align=3D""center"" valign=3D""middle""><a=
+ role=3D""button"" href=3D""https://u49003550.ct.sendgrid.net/ls/click?upn=3Du=
+001.HGvrQEh6oZ1MbvQKkRf8T9simIgAvR7a4PKIdXcLJhYlQpW-2FPOvtaDhWaxLA2a7X0Z7u_=
+5H99EzAqWcq-2B-2FP-2BE82B0t4UUdvbb0Mk4HYW1qTW0wpmTNtk3yeu8JO3sotcKula3Ganyw=
+VEw7DCpQe-2Fq80SN3YQS8c0xSMpY43EI7crPbdGluHAcWpR9NDZ0WCfp-2FUMElxsLiLLuilIs=
+LOw8SdXWCk8ewPyMte9aY6gnjc-2BMq7ZmUwDdKYtzHvjZduNIR968KjEmsG0L8uDKPT-2Fq1R2=
+A3YkKdwteVMMq5iIxzNMU2QE-3D"" style=3D""text-decoration:none;display:block;co=
+lor:#ffffff;font-family:Helvetica, sans-serif;font-size:14px;font-weight:40=
+0;line-height:1;text-transform:none;margin:0px;padding:15px 30px;border:2px=
+ solid #3e9b50;border-radius:24px"" target=3D""_blank"">REMOVE DEVICE</a></td>=
+</tr></tbody></table></td></tr></tbody></table></div></div></div><!--[if ms=
+o | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-text-outlook""=
+>
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;overflow:hi=
+dden;background:transparent;color:#333333"" class=3D""fd-text""><table role=3D=
+""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;w=
+idth:100%;background:transparent;color:#333333"" align=3D""center"" border=3D""=
+0""><tbody><tr><td style=3D""text-align:center;vertical-align:top;direction:l=
+tr;font-size:0px;padding:0px""><div style=3D""display:block;margin:0""><!--[if=
+ mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""vertical-align:top;display:inline-block;direction:ltr;font-siz=
+e:13px;text-align:left;width:100%""><div class=3D""mj-column-padding mj-colum=
+n-padding--top-0 mj-column-padding--bottom-0 mj-column-padding--left-0 mj-c=
+olumn-padding--right-0""><div style=3D""overflow:hidden""><table role=3D""prese=
+ntation"" style=3D""color:inherit;vertical-align:top;table-layout:fixed;max-w=
+idth:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr><td style=
+=3D""word-wrap:break-word;font-size:0px;padding:10px 50px 10px 50px"" align=
+=3D""left""><div style=3D""cursor:auto;color:#333333;font-family:Helvetica, sa=
+ns-serif;font-size:17px;font-weight:400;line-height:1.8;letter-spacing:0px;=
+text-align:left;text-transform:none""><div data-paragraph=3D""true"">=C2=A0</d=
+iv><div data-paragraph=3D""true"">Thank you for your trust, and rest assured =
+of our commitment to serving your banking needs.<br/><br/>Sincerely,<br/><b=
+r/>Land Bank of the Philippines</div></div></td></tr></tbody></table></div>=
+</div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-address-outlo=
+ok"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-address""><table role=3D""presentation=
+"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;bac=
+kground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr=
+><td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-si=
+ze:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><=
+!--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr><td style=3D""word-wrap:break-word;font-siz=
+e:0px;padding:0px"" align=3D""center""><div style=3D""cursor:auto;color:#797979=
+;font-family:Helvetica, sans-serif;font-size:11px;font-weight:400;line-heig=
+ht:1.8;letter-spacing:0px;text-align:center;text-transform:none"">A proud me=
+mber of BancNet<br/>Deposits are insured by PDIC up to P500,000 per deposit=
+or, Regulated by the Bangko Sentral ng Pilipinas, https://www.bsp.gov.ph/</=
+div></td></tr></tbody></table></div></td></tr></tbody></table></div></div><=
+/div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+        </td>
+      </tr>
+      <tr>
+        <td style=3D""width:600px;"" class=3D""module-outlook fd-footer-outloo=
+k"">
+      <![endif]--><div style=3D""margin:0px auto;max-width:600px;background:=
+transparent;color:#333333"" class=3D""fd-footer""><table role=3D""presentation""=
+ cellpadding=3D""0"" cellspacing=3D""0"" style=3D""font-size:0px;width:100%;back=
+ground:transparent;color:#333333"" align=3D""center"" border=3D""0""><tbody><tr>=
+<td style=3D""text-align:center;vertical-align:middle;direction:ltr;font-siz=
+e:0px;padding:10px 10px 10px 10px""><div style=3D""display:block;margin:0""><!=
+--[if mso | IE]>
+      <table role=3D""presentation"" border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"">
+        <tr>
+          <td style=3D""width:600px;"">
+      <![endif]--><div class=3D""mj-column mj-column-per-100 outlook-group-f=
+ix"" style=3D""display:inline-block;direction:ltr;font-size:13px;text-align:l=
+eft;width:100%""><div class=3D""mj-column-padding mj-column-padding--top-0 mj=
+-column-padding--bottom-0 mj-column-padding--left-0 mj-column-padding--righ=
+t-0""><div><table role=3D""presentation"" style=3D""color:inherit;table-layout:=
+fixed;max-width:100%;width:100%"" cellpadding=3D""0"" border=3D""0""><tbody><tr>=
+<td style=3D""word-wrap:break-word;font-size:0px""><div><table role=3D""presen=
+tation"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" style=3D""table-lay=
+out:fixed;width:100%""><tbody><tr class=3D""is-underlined""><td style=3D""word-=
+wrap:break-word;font-size:0px;padding:0px"" align=3D""center""><div style=3D""c=
+ursor:auto;color:#797979;font-family:Helvetica, sans-serif;font-size:11px;f=
+ont-weight:400;line-height:1.8;letter-spacing:0px;text-align:center;text-tr=
+ansform:none""><p></p></div></td></tr></tbody></table></div></td></tr></tbod=
+y></table></div></div></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      <![endif]--></div></td></tr></tbody></table></div><!--[if mso | IE]>
+      </td></tr></table>
+      <![endif]--></div></div>
+","""lbpmobileapps@mail.landbank.com"" <cecille.gonzales003@deped.gov.ph>",joebartlou.lacia@deped.gov.ph,2025-02-22,49.149.110.165,Philippines,en,users/49003550/a078cef2-5047-447c-b43b-979569bdcc7c.json

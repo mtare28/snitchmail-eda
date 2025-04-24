@@ -1,0 +1,193 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51183910,zuh7JKMmSnGalMZ2n4a8SQ.recvd-69cbc48b94-5dtvb-1-67D11C9C-7.0,cHJvY2Vzc2VkLTUxMTgzOTEwLXp1aDdKS01tU25HYWxNWjJuNGE4U1EtMA,"提示：关键文档共享 - 您需要在 Wednesday, March 12, 2025 at 06:33:13 AM 前签署 harry@pisx.com","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=riaztex.com;
+	h=from:subject:content-transfer-encoding:mime-version:to:content-type:
+	cc:content-type:from:subject:to;
+	s=s1; bh=+84kD3nD59TCqXJSGoGCKeLpdbgMOFrnxHZVLHvloNk=;
+	b=HT2TBOBeH/zFzpkrZ3LvwzDAIJVVma8PL/TUvg5tT2hYMf7m34O9rBoQuKixn3iAi4nR
+	s+3NY1pJjb0+Kyn4lyB+zXhVi4hY5isoVUHUAEFkoMyoPe9K1eACHeXf0LW6kt9zL9iQVP
+	2cG31yKjjmxo/Up0mRoPQMx2l/7AASTKC1BtVy4ly1xQtTI591k2o6KD+jkxFjJYRiKAKS
+	2nbo9qVNckrD3c1YGMMUbHq9Ypu62Ov4JLmqQvdys1D3iyIMt8mNy1177828YosTYLVGMI
+	QC8Xb4eP8H2Sp+YnQXBssnJ+WXYn0ZfFgQEIeinunck2ist+lIipdqhar1uWq05g==
+Received: by recvd-69cbc48b94-5dtvb with SMTP id recvd-69cbc48b94-5dtvb-1-67D11C9C-7
+	2025-03-12 05:33:16.197008856 +0000 UTC m=+10138154.425102295
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-2 (SG) with ESMTP
+	id zuh7JKMmSnGalMZ2n4a8SQ
+	for <harry@pisx.com>;
+	Wed, 12 Mar 2025 05:33:15.885 +0000 (UTC)
+From: Pisx via E sign <C7d52oxp@riaztex.com>
+Subject: =?UTF-8?B?5o+Q56S677ya5YWz6ZSu5paH5qGj5YWx5Lqr?= -
+ =?UTF-8?B?5oKo6ZyA6KaB5Zyo?= Wednesday, March 12, 2025 at
+ =?UTF-8?B?MDY6MzM6MTPigK9BTSDliY3nrb7nvbI=?= harry@pisx.com
+Message-ID: <bdd40ad2-9b43-d9a3-f7c0-2aced2a5b12d@riaztex.com>
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 12 Mar 2025 05:33:16 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E00LDlX=2Fjdmu6wg9nkCzjdMDB5SPIU7hi+tIFOZg6=2F8VCWxiCfc286ULa2?=
+ =?us-ascii?Q?UETqoDOfbSQlXUfn0nMgNZ6F21jaXD=2Fze2BqTX4?=
+ =?us-ascii?Q?MybpIcMw1wGnqOv7+qGht7DBY53QxBe29BXl=2FTY?=
+ =?us-ascii?Q?DByReKauv1OCYAGZJivdxJwz94iKs34MTJyhdO0?=
+ =?us-ascii?Q?U73EMwcsT1Rc7r66+RVGxFurUW67jrHjJ=2Fwluif?=
+ =?us-ascii?Q?bog7Lcjqsun8YQ6u+OxXow=3D?=
+To: harry@pisx.com
+X-Entity-ID: u001.RbdP9bFiVvAC68Lwa2BKjA==
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html><html lang=3D""en""><head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+   =20
+<style>html {-webkit-print-color-adjust: exact} @media print {html, body {m=
+argin: 0; padding: 0; break-inside: avoid; page-break-inside: avoid}}</styl=
+e></head>
+<body>
+    <div style=3D""max-width: 600px; margin: auto; padding: 30px; border-top=
+: 6px solid #E1393D; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px=
+ 0 rgba(0, 0, 0, 0.19); background-color: #FFFFFF;"">
+        <table>
+            <tbody><tr>
+                <td style=3D""color: #333333; font-size: 22px; padding-botto=
+m: 30px; font-weight: bold;"">
+                    <table>
+                        <tbody><tr>
+                            <td align=3D""bottom""><img src=3D"""" alt=3D"""" hei=
+ght=3D""25"" style=3D""margin-top: 8px;""></td>
+                            <td align=3D""top"">=E9=98=BF=E9=87=8C=E9=82=AE=
+=E7=AE=B1</td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <tr>
+                <td style=3D""color: #333333; font-size: 22px;"">
+                    ##SHUFFLE(=E9=9C=80=E8=A6=81=E9=87=87=E5=8F=96=E5=B8=90=
+=E6=88=B7=E8=A1=8C=E5=8A=A8|=E9=9C=80=E8=A6=81=E6=82=A8=E7=9A=84=E6=B3=A8=
+=E6=84=8F|=E7=B4=A7=E6=80=A5=E9=80=9A=E7=9F=A5|=E8=AF=B7=E7=AB=8B=E5=8D=B3=
+=E9=87=87=E5=8F=96=E8=A1=8C=E5=8A=A8)##
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p>=E4=BA=B2=E7=88=B1=E7=9A=84 ##USERNAME##,</p>
+                    <p>
+                        ##SHUFFLE(=E6=88=91=E4=BB=AC=E7=9A=84=E7=B3=BB=E7=
+=BB=9F=E6=A3=80=E6=B5=8B=E5=88=B0|=E6=88=91=E4=BB=AC=E6=B3=A8=E6=84=8F=E5=
+=88=B0|=E5=AE=89=E5=85=A8=E5=8D=8F=E8=AE=AE=E8=A1=A8=E6=98=8E)##=E6=82=A8=
+=E7=9A=84##SHUFFLE(=E8=B4=A6=E6=88=B7|=E4=B8=AA=E4=BA=BA=E8=B5=84=E6=96=99|=
+=E7=94=A8=E6=88=B7=E5=87=AD=E6=8D=AE)####SHUFFLE(=E9=9C=80=E8=A6=81=E9=AA=
+=8C=E8=AF=81|=E9=9C=80=E8=A6=81=E7=A1=AE=E8=AE=A4|=E5=BF=85=E9=A1=BB=E8=BF=
+=9B=E8=A1=8C=E9=AA=8C=E8=AF=81)## ##SHUFFLE(=E7=AB=8B=E5=8D=B3|=E5=B0=BD=E5=
+=BF=AB|=E5=B0=BD=E6=97=A9)##=EF=BC=8C=E4=BB=A5##SHUFFLE(=E7=BB=A7=E7=BB=AD=
+=E8=AE=BF=E9=97=AE|=E7=A1=AE=E4=BF=9D=E4=B8=8D=E9=97=B4=E6=96=AD=E4=BD=BF=
+=E7=94=A8|=E4=BF=9D=E6=8C=81=E5=AE=8C=E6=95=B4=E5=8A=9F=E8=83=BD)##=E6=89=
+=80=E6=9C=89=E9=98=BF=E9=87=8C=E9=82=AE=E7=AE=B1##SHUFFLE(=E6=9C=8D=E5=8A=
+=A1|=E5=B9=B3=E5=8F=B0|=E5=8A=9F=E8=83=BD)##=E3=80=82
+                    </p>
+                </td>
+            </tr>
+            <!-- Emphasized Action Line -->
+            <tr>
+                <td style=3D""padding-left: 20px; padding-right: 20px;"">
+                    <table role=3D""presentation"" cellpadding=3D""0"" cellspac=
+ing=3D""0"" style=3D""width: 100%; margin: 5px 0; border-left: 4px solid #E139=
+3D; background-color: #f5f5f5;"">
+                        <tbody><tr>
+                            <td style=3D""padding: 15px;"">
+                                <p style=3D""margin: 0; color: rgba(0,0,0,0.=
+9); font-size: 16px; line-height: 1.5; font-family: -apple-system,system-ui=
+,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;"">
+                                    <strong>##SHUFFLE(=E9=87=8D=E8=A6=81=E6=
+=8F=90=E7=A4=BA|=E5=85=B3=E9=94=AE=E9=80=9A=E7=9F=A5|=E6=8F=90=E9=86=92)##:=
+</strong> ##SHUFFLE(=E4=B8=BA=E4=BA=86=E9=81=BF=E5=85=8D=E4=BB=BB=E4=BD=95=
+=E4=B8=AD=E6=96=AD=EF=BC=8C|=E4=B8=BA=E4=BA=86=E7=A1=AE=E4=BF=9D=E6=97=A0=
+=E7=BC=9D=E8=AE=BF=E9=97=AE=EF=BC=8C|=E5=87=BA=E4=BA=8E=E5=AE=89=E5=85=A8=
+=E8=80=83=E8=99=91=EF=BC=8C)##=E8=AF=B7##SHUFFLE(=E7=AB=8B=E5=8D=B3=E9=AA=
+=8C=E8=AF=81=E6=82=A8=E7=9A=84=E8=B4=A6=E6=88=B7|=E7=8E=B0=E5=9C=A8=E5=AE=
+=8C=E6=88=90=E6=82=A8=E7=9A=84=E9=AA=8C=E8=AF=81|=E5=B0=BD=E5=BF=AB=E7=A1=
+=AE=E8=AE=A4=E6=82=A8=E7=9A=84=E4=BF=A1=E6=81=AF)##=E3=80=82
+                                </p>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+            <!-- CTA Button -->
+            <tr>
+                <td style=3D""padding: 20px;"">
+                    <a href=3D""https://u51183910.ct.sendgrid.net/ls/click?u=
+pn=3Du001.M5tUhPoNLHi7BaMJJsFii9wJcchekWbL8hwADwMZBzSm4erNXpozR-2BJcJ-2BcNG=
+kEXI9bJmTSCmP1k-2BLBLaUriRoO7L-2FmbSYzngDovLSAEoVu7hhOIEylVzrkVn-2BHyYeSI2D=
+Yv_cnthJXI5-2BF7jtZ6AI-2B8qNpvE1MFuxdKgK-2BxdmTbaQrLT-2B6IcvkX0z5SC-2FTuqoM=
+pCNvkldsUz-2FrGQZHhDAn87clVJ9ijcZoSpN69SVWdb-2BNRBeyEtzySi5M-2F-2B5xpiWRCWe=
+sBpY3uGWD2PBWTHU6xYIWrf-2BQcq-2BYNqC3U68Fx8yPWfagol99cCrPGX2V70jH7DkEMttcsM=
+fXCSbuGePiNiGw-3D-3D"" style=3D""display: inline-block; background-color: #E1=
+393D; color: #ffffff; text-decoration: none; padding: 12px 20px; font-size:=
+ 14px; border-radius: 4px;"">
+                        <b>##SHUFFLE(=E7=AB=8B=E5=8D=B3=E9=AA=8C=E8=AF=81=
+=E8=B4=A6=E6=88=B7|=E7=AB=8B=E5=8D=B3=E9=AA=8C=E8=AF=81|=E7=A1=AE=E8=AE=A4=
+=E8=B4=A6=E6=88=B7|=E4=BF=9D=E6=8A=A4=E6=88=91=E7=9A=84=E8=B4=A6=E6=88=B7)#=
+#</b>
+                    </a>
+                </td>
+            </tr>
+            <!-- Additional Note -->
+            <tr>
+                <td style=3D""padding: 20px 0;"">
+                    ##SHUFFLE(=E6=82=A8=E7=9A=84=E5=AE=89=E5=85=A8=E6=98=AF=
+=E6=88=91=E4=BB=AC=E7=9A=84=E9=A6=96=E8=A6=81=E4=BB=BB=E5=8A=A1=E3=80=82|=
+=E6=88=91=E4=BB=AC=E9=87=8D=E8=A7=86=E6=82=A8=E7=9A=84=E8=B4=A6=E6=88=B7=E5=
+=AE=89=E5=85=A8=E3=80=82|=E4=BF=9D=E9=9A=9C=E6=82=A8=E7=9A=84=E8=B4=A6=E6=
+=88=B7=E5=AE=89=E5=85=A8=E6=98=AF=E6=88=91=E4=BB=AC=E7=9A=84=E8=B4=A3=E4=BB=
+=BB=E3=80=82)## ##SHUFFLE(=E6=AD=A4=E9=93=BE=E6=8E=A5=E5=B0=86=E5=9C=A824=
+=E5=B0=8F=E6=97=B6=E5=90=8E=E8=BF=87=E6=9C=9F=E3=80=82|=E8=AF=B7=E6=B3=A8=
+=E6=84=8F=EF=BC=9A=E6=AD=A4=E9=93=BE=E6=8E=A5=E4=BB=85=E6=9C=89=E6=95=8824=
+=E5=B0=8F=E6=97=B6=E3=80=82|=E8=AF=B7=E5=B0=BD=E5=BF=AB=E6=93=8D=E4=BD=9C=
+=EF=BC=8C=E8=AF=A5=E9=93=BE=E6=8E=A5=E5=B0=86=E5=9C=A824=E5=B0=8F=E6=97=B6=
+=E5=86=85=E5=A4=B1=E6=95=88=E3=80=82)## =20
+                    =E5=A6=82=E6=9E=9C=E6=82=A8=E5=B9=B6=E6=9C=AA=E5=8F=91=
+=E8=B5=B7=E6=AD=A4=E8=AF=B7=E6=B1=82=EF=BC=8C=E8=AF=B7##SHUFFLE(=E7=AB=8B=
+=E5=8D=B3=E9=87=8D=E7=BD=AE=E5=AF=86=E7=A0=81|=E6=9B=B4=E6=96=B0=E6=82=A8=
+=E7=9A=84=E5=87=AD=E6=8D=AE|=E6=9B=B4=E6=94=B9=E6=82=A8=E7=9A=84=E7=99=BB=
+=E5=BD=95=E4=BF=A1=E6=81=AF)## ##SHUFFLE(=E4=BB=A5=E9=98=B2=E6=AD=A2=E6=BD=
+=9C=E5=9C=A8=E9=A3=8E=E9=99=A9|=E7=A1=AE=E4=BF=9D=E8=B4=A6=E6=88=B7=E5=AE=
+=89=E5=85=A8|=E9=81=BF=E5=85=8D=E6=9C=AA=E7=BB=8F=E6=8E=88=E6=9D=83=E8=AE=
+=BF=E9=97=AE)##=E3=80=82
+                </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+                <td style=3D""padding: 20px 0; font-size: 12px; color: #6666=
+66;"">
+                    =E6=AD=A4=E5=A4=96=EF=BC=8C##SHUFFLE(=E5=90=AF=E7=94=A8=
+=E7=AC=AC=E4=B8=89=E6=96=B9=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=AE=89=E5=85=A8=E5=
+=AF=86=E7=A0=81=E5=8F=AF=E9=98=B2=E6=AD=A2=E7=BB=A7=E7=BB=AD=E6=94=B6=E5=88=
+=B0=E6=8F=90=E9=86=92=E9=82=AE=E4=BB=B6=E3=80=82|=E6=BF=80=E6=B4=BB=E7=AC=
+=AC=E4=B8=89=E6=96=B9=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=AE=89=E5=85=A8=E5=AF=86=
+=E7=A0=81=E5=B0=86=E6=8F=90=E9=AB=98=E6=82=A8=E7=9A=84=E8=B4=A6=E6=88=B7=E5=
+=AE=89=E5=85=A8=E6=80=A7=E3=80=82|=E8=AE=BE=E7=BD=AE=E7=AC=AC=E4=B8=89=E6=
+=96=B9=E5=AE=89=E5=85=A8=E5=AF=86=E7=A0=81=E5=90=8E=EF=BC=8C=E5=B0=86=E4=B8=
+=8D=E5=86=8D=E6=94=B6=E5=88=B0=E7=9B=B8=E5=85=B3=E6=8F=90=E9=86=92=E9=82=AE=
+=E4=BB=B6=E3=80=82)## =20
+                    =E5=A6=82=E9=9C=80=E5=B8=AE=E5=8A=A9=EF=BC=8C=E8=AF=B7=
+=E6=9F=A5=E7=9C=8B=E6=88=91=E4=BB=AC=E7=9A=84##SHUFFLE(=E5=B8=AE=E5=8A=A9=
+=E6=96=87=E6=A1=A3|=E6=94=AF=E6=8C=81=E4=B8=AD=E5=BF=83|=E6=8C=87=E5=AF=BC=
+=E9=A1=B5=E9=9D=A2)##
+                </td>
+            </tr>
+
+            <!-- Legal Footer -->
+            <tr>
+                <td style=3D""text-align: right; padding: 60px 10px 10px 10p=
+x; font-size: 12px; color: #666666;"">
+                    =E9=98=BF=E9=87=8C=E9=82=AE=E7=AE=B1=E5=9B=A2=E9=98=9F=
+=E3=80=82
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+
+</body></html>
+","""Pisx via E sign"" <C7d52oxp@riaztex.com>",harry@pisx.com,2025-03-12,31.57.166.84,Iran,en,users/51183910/3d64cf4e-a9bf-4547-8a52-31bc68eb998a.json

@@ -1,0 +1,411 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51204335,VaaEJFMyQ2yYB7kfjRrZHA.recvd-69cbc48b94-q4tz7-1-67D0808B-D.36,cHJvY2Vzc2VkLTUxMjA0MzM1LVZhYUVKRk15UTJ5WUI3a2ZqUnJaSEEtMzY,Your Order – LMXBDG4154ct,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=10MKb13Va1pwaCrI4fXHqKqtfnLn9jglqHw3UNmyr2A=;
+	b=kwU/s6NYfwowdKh4xNDvEevcmvL8i9DUhOD10TPyQyRQxZ+KVH4JuRUXG5T5oirax3UF
+	h0RUs/VYoBajw3BPYbtAbQJT0TyyuONefRRgD6BmeiyzJ0Pe39ckQtJp2cPuq1XSLI9i8A
+	5F3Jobb0fOVfxoz2G38MpBB626Wa5ViYA=
+Received: by recvd-69cbc48b94-q4tz7 with SMTP id recvd-69cbc48b94-q4tz7-1-67D0808B-D
+	2025-03-11 18:27:23.570159064 +0000 UTC m=+10098275.568875528
+Received: from NTEyMDQzMzU (unknown)
+	by geopod-ismtpd-34 (SG) with HTTP
+	id VaaEJFMyQ2yYB7kfjRrZHA
+	Tue, 11 Mar 2025 18:27:23.524 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=0b872ea5128a9bac753753815d206a6b1126c9b3e472b66df4ff5563d8ae
+Date: Tue, 11 Mar 2025 18:27:24 +0000 (UTC)
+From: Jason <jasonbricks@dsiflooring.com>
+Mime-Version: 1.0
+Message-ID: <VaaEJFMyQ2yYB7kfjRrZHA@geopod-ismtpd-34>
+Subject: Your Order =?UTF-8?B?4oCT?= LMXBDG4154ct
+Reply-To: jasonbricks@dsiflooring.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51204335=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Ex-DX?=
+ =?us-ascii?Q?pKqYbfMJMjxd1pQzYMaAh252R21p=5F6Wj5MMBOwp?=
+ =?us-ascii?Q?0DDC3445l=5FLaQZpwSFQG4571fHZDds=5FUgkcSVKy?=
+ =?us-ascii?Q?JSTIOg6qz9fBkyBooZZWjcHYFHgBDR7tm4xArmJ?=
+ =?us-ascii?Q?S96jYsVo35AE3ZcWUVrhhH3YcyDCNBRNUkrhgfq?=
+ =?us-ascii?Q?2mrBTYRdw7zO7pg=5FZnvEjds1dXYSs9kOwuVLmjB?=
+ =?us-ascii?Q?fyY3FPoVb3ynR3Y6a8Pmf0bokCC9--WJDOKMD=5Fs?=
+ =?us-ascii?Q?QJpPtny8VRkgJOEI8zW2njlamncrDaTkdOrX1DI?=
+ =?us-ascii?Q?IR7MSh2xE67YKI4wawEqVvMbIz6=5Fm4VY6FgxQye?=
+ =?us-ascii?Q?pnlNZUl3GCC7VEO1IQIUhWEP1NhLv9W8nEykUZZ?=
+ =?us-ascii?Q?Gz2Z04gu-J9Q7Rgo0eoIIMXWi-lWktx5ei156cO?=
+ =?us-ascii?Q?iHeGOvGFX00677=5FcMsScW4P1q4fAX7z1wDgtHqH?=
+ =?us-ascii?Q?C4eJuwqU4=5Fwg6f0v8BotCbktXaqi15Olsmr8-wK?=
+ =?us-ascii?Q?zqM5ARFXtS5Arrsm1wqP35JtVrYF3vZBnytd4BR?=
+ =?us-ascii?Q?oNlOivEZuKswnIlIGVl9iD6hszSDxqN07zP2HJN?=
+ =?us-ascii?Q?U5X1KEdWooYQwQWvI3FDmqyl-a92gvOh7uXAghh?=
+ =?us-ascii?Q?1JLpmvmZy6gW=5FtZTn4LwVM5WeQ=5FGsj44aLKCD3T?=
+ =?us-ascii?Q?=5FDwryzxCfexc12SwvYPuIVj-0S2Z4cVozmdNPon?=
+ =?us-ascii?Q?8w32DZdEvXD4v8q-rRxoDciMxY3Pyz-gkOkThUp?=
+ =?us-ascii?Q?mbcaesleP0X1wLouXXjxqsTt53pDT0x2O5DJuNb?=
+ =?us-ascii?Q?tWlpiTojytV7TJT3WZsXiEXhY8rVVQBFS8xEQ2H?=
+ =?us-ascii?Q?b3pZqKj30uHcku4a21ROfwyXaYQqMB-ieqQrvxS?=
+ =?us-ascii?Q?q24ZhqrW7ltMciMaFMrGnOg1Ssilzi1patNVkfg?=
+ =?us-ascii?Q?paRk6D0nyrFV=5FAxs6DczVCL86RiGXtcUsAxWd7v?=
+ =?us-ascii?Q?kb0ZdNKyfa9n8MPpSUaKZxunwOGI6jEmobAECom?=
+ =?us-ascii?Q?WVOqpbqrJ8kllyzWkEUhmoTy7035LI=5FuoP4vtd0?=
+ =?us-ascii?Q?NSfvmk2V9Q29HWfQ4tDSJCBFdvDUiaj-nv=5FAziw?=
+ =?us-ascii?Q?=5FZwsCbodino8VE6blSVsMIJmxE8aUPLYX-nGlFd?=
+ =?us-ascii?Q?rMZh743eaONNvwUYbHn1LTHHl4AUqY8=5FinfwLDH?=
+ =?us-ascii?Q?sJ0oqLKeLl1cXc0n9BI8pHzeM2srOER4rUESRaF?=
+ =?us-ascii?Q?5284z8eQmZgVd5AWOHPOTA8e5Qcw4AxYUQCKt0X?=
+ =?us-ascii?Q?rOpHoFxzyoC0RSclMtdOawZdRDz5AHv2wJ9oLtF?=
+ =?us-ascii?Q?dxmK1KyrNdSnV95-VMUIFhbWUyIQu-XEfMqmlKp?=
+ =?us-ascii?Q?dgoXj9aNCMrtlwk5GGrFS3HwcEw9ABphaj5paQG?=
+ =?us-ascii?Q?CGOlCXIsE=5F0w1K9RHrMBICU7uEgbmcXp74zEvUj?=
+ =?us-ascii?Q?Q2GDuZe1ZDMGta=3E=2C=3Cmailto=3Aunsubscribe=40sen?=
+ =?us-ascii?Q?dgrid=2Enet=3Fsubject=3Dhttps=3A=2F=2Fu51204335=2Ect=2E?=
+ =?us-ascii?Q?sendgrid=2Enet=2Fmt=2Fu=2Fu001=2E55xvXIBiBSYRz17I?=
+ =?us-ascii?Q?IRmDnrzGV-l5n6eq2Lw5RrICuHw=2F4ep=2Fu001=2EB9?=
+ =?us-ascii?Q?7Pav0Q=2Fu001=2Egh0oydjmbgbUqYcWnyUnEmtqh8l?=
+ =?us-ascii?Q?jdv2mrmrc4FqvRLpOzGvzCI3Y1b7y3F3SWnWtNR?=
+ =?us-ascii?Q?uwGSrpHYtEOegd6XbalufDX3tWAkB7MeF-2BoKW?=
+ =?us-ascii?Q?KU3cP65Ee04BP02-2BrZezukd2wg-2FMq1qL3ih?=
+ =?us-ascii?Q?urXrzb7mo-2F442X3aW9LET3OZVHTFGBjkUgR9u?=
+ =?us-ascii?Q?FFFG-2BZmPUtMSrZ2-2BC9K6ItVypr-2FmWVQla?=
+ =?us-ascii?Q?NgIVitTptZ14pXPpNdiVAZAmb0gYpILxLp1ApJn?=
+ =?us-ascii?Q?aD1xXEQpyrJnEpxmW4zCTP2QabvX2hH8yI3jpQ0?=
+ =?us-ascii?Q?qsCsuDfSvh-2BhVcgQJtyr2GnMR1IGvL-2FsufS?=
+ =?us-ascii?Q?-2FDwRX832oxeQFUUhdwJyc8yi2-2BmxCKw13k3?=
+ =?us-ascii?Q?-2FA9TKpxdY9h33rzuhQ4n89c4VE1y-2FE0N8Ri?=
+ =?us-ascii?Q?z2-2FNW1WFk0hFfOH8xV6mxa02bHp9Qo4N5eDml?=
+ =?us-ascii?Q?syjxTjOU-2F9-2Fa1YM-2BGWbchdfkmPA8OplHA?=
+ =?us-ascii?Q?sDpQ8hwcFx2nPy3SZwc34uqn-2BfhPKmu0HYx1M?=
+ =?us-ascii?Q?GUla9o5UsthtLes23-2BhMnrqvZdq2RXwhYdg8l?=
+ =?us-ascii?Q?iRNsHxpYAqAMdpwB-2FlV64Kzcz2cPwy55hEFTm?=
+ =?us-ascii?Q?7n3I6JamlbVN8YUvS-2BVvbnh70QAyxxiDHLo4o?=
+ =?us-ascii?Q?krIVpg7W1PNipLh62ffmaE-2FJNzOSx8LgYmsG8?=
+ =?us-ascii?Q?lhesJdKeX-2Fcoifwssy6PSGU-2Fx20JtPRB32j?=
+ =?us-ascii?Q?r-2BvNlHVr31jjInmWprIzPIPimdvbNdUyk6v6J?=
+ =?us-ascii?Q?-2FzpFpWY3u3teWMhvxbZAxSH2EngJqAqsk7IiJ?=
+ =?us-ascii?Q?1YfYmFvMa0n328klUNkSwpQZVIPuOtjP3UDX8L1?=
+ =?us-ascii?Q?zIisNC5VYkY2TD1cIMSMCvIaBah2WRpTKYxWWsQ?=
+ =?us-ascii?Q?t4sOiEuOVoaAryjEChVoZ1nh-2FHIejiosmTyIv?=
+ =?us-ascii?Q?U6yEWlY2IWPP1BNrqONusuePrQ=2Fu001=2EwX3xIWa?=
+ =?us-ascii?Q?b=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ECK6DdWMh3VXEyM1n24mMOjW1uqYxX9+uWlQFuTOfGpwMtNGOhaHsopgN6?=
+ =?us-ascii?Q?gGwDN+h1PW30CjX49P2BS9noC+EZQO3eeISqVLW?=
+ =?us-ascii?Q?BwMR8F=2FT109GviTOsJl9dOwn0WRUAtNOZBCkHIU?=
+ =?us-ascii?Q?tRRiDmpuxG5n8Ga3xfTHNSUBOD7jTCY62+hMO1j?=
+ =?us-ascii?Q?GGYG0YQEo4Bx=2F1+J7jXBoVaakuuabb696GDI8dR?=
+ =?us-ascii?Q?9P07CedO1AxXKmiqbrRur0=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsbeV19uqJ+fa9Wvd9N5yHq4=2FfU?=
+ =?us-ascii?Q?2oXXAPNWJ6hfcOdC6xhlUSqnmM4Vpwh+tunptkK?=
+ =?us-ascii?Q?yYWXyu3fGfDqc60RTYi3MYW1BsLUmOF5ZdYaW0=2F?=
+ =?us-ascii?Q?UWbZkuYWuMRZo=2Fws93JQgUi=2FuSjgowgudMqm2W0?=
+ =?us-ascii?Q?HzK4F78S+C5xJe0hh7jcJCBNne4baLyOrfzQtV8?=
+ =?us-ascii?Q?NMop7zNYzK7fx6s7OIAKLy6Ya4v4wQmZYzoqkU4?=
+ =?us-ascii?Q?RHVKUF4GeA5339RpF7DijNcPqHphowj9PN4mMqa?=
+ =?us-ascii?Q?tBMXDf+SI+8eKoqcSl3BO2bXMtht1yI+bWxqUac?=
+ =?us-ascii?Q?8TUkvSDjPyUNgLqOZm+J6LBZmnxBZrabwSFzIeq?=
+ =?us-ascii?Q?I2Lzyh96gXez4OJtHEzn=2Fua87TkLEsiztD2kEp1?=
+ =?us-ascii?Q?BAv9AdjvHAZsjnH0W=2Fn8rASvX6eEk47mHj=2FgXWm?=
+ =?us-ascii?Q?lgFZvfXCCTpQqpG07=2FXI7B0dD+Dl6o=2FpVNx8jUv?=
+ =?us-ascii?Q?aUXe0h0DVOQZbXv5drClYPsQvlBWMjuv8yB7RGf?=
+ =?us-ascii?Q?aTbtr20+rLkrporKZJpZPH=2F9=2FRM3JRZpSHi9EIb?=
+ =?us-ascii?Q?dCpLTTXU8DU7gR1qquNh4vH?=
+To: rj467@twc.com
+X-Entity-ID: u001.wsed0quXcNymff8IlqZfpA==
+
+--0b872ea5128a9bac753753815d206a6b1126c9b3e472b66df4ff5563d8ae
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Dear rj467@twc.com,
+
+Thank you for your order! We=E2=80=99ve successfully processed your purchas=
+e of the **Canon Printer S Series (S47840)** for **$524.85**, and it is sch=
+eduled for delivery by **March 12, 2025**. We=E2=80=99ll send you a shippin=
+g update once your order is on its way. If you placed this order, no furthe=
+r action is needed. However, if you do not recognize this transaction, plea=
+se contact us immediately at **1-808-647-6608** so we can investigate and b=
+lock it if necessary. We appreciate your business and are here to help if y=
+ou have any questions!
+
+***Best regards,**
+Walmart Customer Support
+=F0=9F=93=9E 1-808-647-6608*
+
+Jason
+
+jasonbricks@dsiflooring.com , Denver , =20
+
+Unsubscribe ( https://u51204335.ct.sendgrid.net/wf/unsubscribe?upn=3Du001.L=
+bwv2Yacqg-2BWCP7myyTi9DRr7nEhzyIJSbMSnGZj-2F15w1cCk15C9arNSyDLYF3hp7brgqCOi=
+sv8KSrTYJc7ofJNiWrlK24VpnUe1MX1Iszx4YCdrzGXhLroAVrHfVQNCAdGtweNWzJzaD1GKFy8=
+uUisofPhwKdnSDuJ6CZHHbu5Te6x4Rm-2BmChASywJp-2Bqzo-2F6KqaAjZlg0AhYaZLYSQntU4=
+1fDVKTVOoXY2o4GyT2zj4PAohlvyAnzzQRbHtFHhIS6mU-2BMbIuKOp-2Ff5hRunHypponJZiBx=
+IaY8rquIFyDJyMhtTWeB3aloqiN8qK2PNP85PNR08BSYX5geHhOPUADJfwVeaeXNjVZdTWl6qwK=
+IqFqwhkbJUjXataU-2Banh9Gt-2F98jAbuxPmNbt5kRVEbrOtNj0n-2B4qJ2rPMlmfynkjLNk2q=
+p7hyx0MnmMTx5KFkyp1x82ojjWvF6awM7QBRGaKd3uy35vo03JVukSkXFQgx2Gu78UMVxxct59P=
+YUc-2BWTI2vtc-2FMrcN0YAS1RB4NbJQUAC11grqLZkVWlhjm8lYo33O2duyTb8DrnCGfkl39Gi=
+zKNeYYfBemPUYwuKy9T3wbMdcIxnl9VTz59kyiJlAVOpgFPHuYEb5Cwpl8XFqY5BkaHDmxlj76D=
+SUT0P0E84Kb2B8-2BQL6TMKbfOYnQ8ACHqIdy8rGhx0IyfaO6gMull1wD3akUwFoXjNkXg6B35K=
+1bF6LJwE5l4MShFN8u-2FUlFxpho8lXkwfWcUbkGvwqHrFNY5NzUmzE1OAhc1fnVUeIVUhw4Uyc=
+Chfy-2B87GO2xBAzW0qf9d9KZNWQU6vzzEqmH25FG3ffm2Mp35qxGl1a1m-2BkaSofOhsjZcg-2=
+Ba-2Fy-2BgDzi62CaLsXTk8RuAt8tY5rN )
+--0b872ea5128a9bac753753815d206a6b1126c9b3e472b66df4ff5563d8ae
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""c4373b77-38db-435d-bb18-c71dc5f05c3f"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 18p=
+x""><br>
+Dear rj467@twc.com, &nbsp;<br>
+<br>
+Thank you for your order! We=E2=80=99ve successfully processed your purchas=
+e of the **Canon Printer S Series (S47840)** for **$524.85**, and it is sch=
+eduled for delivery by **March 12, 2025**. We=E2=80=99ll send you a shippin=
+g update once your order is on its way. If you placed this order, no furthe=
+r action is needed. However, if you do not recognize this transaction, plea=
+se contact us immediately at **1-808-647-6608** so we can investigate and b=
+lock it if necessary. We appreciate your business and are here to help if y=
+ou have any questions! &nbsp;<br>
+<br>
+</span><span style=3D""font-size: 18px""><u><strong>**Best regards,** &nbsp;<=
+br>
+Walmart Customer Support &nbsp;<br>
+=F0=9F=93=9E 1-808-647-6608 </strong></u></span><span style=3D""font-size: 1=
+8px"">&nbsp;</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Jason</p><p style=3D""font-size:12px; line-height:20px;""><span =
+class=3D""Unsubscribe--senderAddress"">jasonbricks@dsiflooring.com</span>, <s=
+pan class=3D""Unsubscribe--senderCity"">Denver</span>, <span class=3D""Unsubsc=
+ribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span></=
+p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsubscr=
+ibe--unsubscribeLink"" href=3D""https://u51204335.ct.sendgrid.net/wf/unsubscr=
+ibe?upn=3Du001.Lbwv2Yacqg-2BWCP7myyTi9DRr7nEhzyIJSbMSnGZj-2F15w1cCk15C9arNS=
+yDLYF3hp7brgqCOisv8KSrTYJc7ofJNiWrlK24VpnUe1MX1Iszx4YCdrzGXhLroAVrHfVQNCAdG=
+tweNWzJzaD1GKFy8uUisofPhwKdnSDuJ6CZHHbu5Te6x4Rm-2BmChASywJp-2Bqzo-2F6KqaAjZ=
+lg0AhYaZLYSQntU41fDVKTVOoXY2o4GyT2zj4PAohlvyAnzzQRbHtFHhIS6mU-2BMbIuKOp-2Ff=
+5hRunHypponJZiBxIaY8rquIFyDJyMhtTWeB3aloqiN8qK2PNP85PNR08BSYX5geHhOPUADJfwV=
+eaeXNjVZdTWl6qwKIqFqwhkbJUjXataU-2Banh9Gt-2F98jAbuxPmNbt5kRVEbrOtNj0n-2B4qJ=
+2rPMlmfynkjLNk2qp7hyx0MnmMTx5KFkyp1x82ojjWvF6awM7QBRGaKd3uy35vo03JVukSkXFQg=
+x2Gu78UMVxxct59PYUc-2BWTI2vtc-2FMrcN0YAS1RB4NbJQUAC11grqLZkVWlhjm8lYo33O2du=
+yTb8DrnCGfkl39GizKNeYYfBemPUYwuKy9T3wbMdcIxnl9VTz59kyiJlAVOpgFPHuYEb5Cwpl8X=
+FqY5BkaHDmxlj76DSUT0P0E84Kb2B8-2BQL6TMKbfOYnQ8ACHqIdy8rGhx0IyfaO6gMull1wD3a=
+kUwFoXjNkXg6B35K3rIguyg1F5roUA2TmUFLMyfvIM-2FRa5JkzB1jJ0jjRuTDqTuNrn9kottTg=
+xD9yTuzj05vCwQdis7zCPfF3F9YIsUoczvEw96lDcAx0dtioDC1wekEZCK2HzxAjU9I8v5kRgQI=
+tlNXcXiRliWRkeHuPe3skzq9vHwWidBp-2BFrBFV5"" target=3D""_blank"" style=3D"""">Uns=
+ubscribe</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51204335.ct.sendgrid.net/wf/open?upn=3Du001.Lbwv2Y=
+acqg-2BWCP7myyTi9DRr7nEhzyIJSbMSnGZj-2F15w1cCk15C9arNSyDLYF3hp7brgqCOisv8KS=
+rTYJc7ofJNiWrlK24VpnUe1MX1Iszx4YCdrzGXhLroAVrHfVQNCAdGtweNWzJzaD1GKFy8uUiso=
+fPhwKdnSDuJ6CZHHbu5Te6x4Rm-2BmChASywJp-2Bqzo-2F6KqaAjZlg0AhYaZLYSQntU41fDVK=
+TVOoXY2o4GyT2zj4PAohlvyAnzzQRbHtFHhIS6mU-2BMbIuKOp-2Ff5hRunHypponJZiBxIaY8r=
+quIFyDJyMhtTWeB3aloqiN8qK2PNP85PNR08BSYX5geHhOPUADJfwVeaeXNjVZdTWl6qwKIqFqw=
+hkbJUjXataU-2Banh9Gt-2F98jAbuxPmNbt5kRVEbrOtNj0n-2B4qJ2rPMlmfynkjLNk2qp7hyx=
+0MnmMTx5KFkyp1x82ojjWvF6awM7QBRGaKd3uy35vo03JVukSkXFQgx2Gu78UMVxxct59PYUc-2=
+BWTI2vtc-2FMrcN0YAS1RB4NbJQUAC11grqLZkVWlhjm8lYo33O2duyTb8DrnCGfkl39GizKNeY=
+YfBemPUYwuKy9T3wbMdcIxnl9VTz59kyiJlAVOpgFPHuYEb5Cwpl8XFqY5BkaHDmxlj76DSUT0P=
+0E84Kb2B8-2BQL6TMKbfOYnQ8ACHqIdy8rGhx0IyfaO6gMull1wD3akUwFoXjNkXg6B35Kz2OfP=
+lQhQfHjHIubZPdP4gF7IapZnYdUapSCPel0ypRhabjYUr6SlAryb3eW4UOC72e-2FdB6O3ja9sL=
+09hvTJbhEuuy0-2Bqt1CDgFTfG323xjDny0zWj-2BnRdAHhr5U1Nzc-2FTrBkiL99mumc-2FLXd=
+p2Il4-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1p=
+x !important;width:1px !important;border-width:0 !important;margin-top:0 !i=
+mportant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0=
+ !important;padding-top:0 !important;padding-bottom:0 !important;padding-ri=
+ght:0 !important;padding-left:0 !important;""/></body>
+  </html>
+--0b872ea5128a9bac753753815d206a6b1126c9b3e472b66df4ff5563d8ae--
+","""Jason"" <jasonbricks@dsiflooring.com>",rj467@twc.com,2025-03-11,44.214.78.206,United States,de,users/51204335/2077a885-9068-47d4-925a-58eedef923c9.json

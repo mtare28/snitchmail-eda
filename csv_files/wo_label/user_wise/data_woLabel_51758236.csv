@@ -1,0 +1,924 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51758236,_Hh7A28QQKaTNdESixEA-g.recvd-97d7ddb5-dqg2b-1-67EF0DA4-2.0,cHJvY2Vzc2VkLTUxNzU4MjM2LV9IaDdBMjhRUUthVE5kRVNpeEVBLWctMA,campaign 1,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=caxiason.com.br;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=qcP9Ve5LsWX98C8lha58BeZeuHZehAfvkwBtCulcrQ4=;
+	b=K4LofpJ4fVHLLkeGP2zjBXldujk4RcemSaa3Rh2ZLae4fYiQHDakWs+S5rkyLBZu69x9
+	a9TiQpsNHCa0o1OEPhGHEPJW47v7Nx76qAqnySMeztsULY46VHGFRDBkha0pneaH1iGAgL
+	N7kpd87wUl4f6Zdld1OUvIl5XqYPdlQOAX6Ei6A1OsVrVu/KvPoUMEuJ0mwC/cpLxavPaZ
+	MFjlHwa3klWoBCm/0svYsrvD54RXdjnRrDAT/XGVSXdm6sjbU9RCGtOMox+wbMRSPI+MEy
+	ZBPwDdlmbmreHT4uCStyqSKuR8fqb0HC5PEmIcxvt7k2Yk0pG+uSavZP5V4JDXjA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=qcP9Ve5LsWX98C8lha58BeZeuHZehAfvkwBtCulcrQ4=;
+	b=vyuVX1nItNA6ororJMdwXYLs3T0tjRwBHE6vUQ0A0KV+LUDpZtSlZT7Gbn2uAOicFGAX
+	B/LJilUqgDRaGinSlbaFTykAj6uviS0XmL0NYT2CIwbLvty4R4A0SwgDBIN7Xq7EQ3ZHs5
+	PATERNYXi9FVM4H6mgbx0nXxMVT5rE++0=
+Received: by recvd-97d7ddb5-dqg2b with SMTP id recvd-97d7ddb5-dqg2b-1-67EF0DA4-2
+	2025-04-03 22:37:24.045155608 +0000 UTC m=+12100478.908768195
+Received: from NTE3NTgyMzY (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id _Hh7A28QQKaTNdESixEA-g
+	Thu, 03 Apr 2025 22:37:24.002 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=35b492b4a06d6bbca4b0c0e1b3c3aac330732b8e675c3b386ca53d1d7514
+Date: Thu, 03 Apr 2025 22:37:24 +0000 (UTC)
+From: Manager <email@caxiason.com.br>
+Mime-Version: 1.0
+Message-ID: <f6053ade2513ad58869ff26654b27ba2@caxiason.com.br>
+Subject: campaign 1
+Reply-To: Manager <email@caxiason.com.br>
+List-ID: <f261bc3a-3571-4bbd-8988-8927278e6519@caxiason.com.br>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fstress=2Espunmail=2Enet=2Funsubscribe=2F521576fd-7c07-468a-90?=
+ =?us-ascii?Q?3b-5a34869c0fdb=2F225b6aab-0b48-4675-9f11?=
+ =?us-ascii?Q?-f282957e6d7d=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: 225b6aab-0b48-4675-9f11-f282957e6d7d
+mailcoach-send-uuid: 225b6aab-0b48-4675-9f11-f282957e6d7d
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzDcjOPk9QJBnV3d5LX6teRUTVCoNjqDqA3WOVzfSxX2MhwSNRne0eFlJR?=
+ =?us-ascii?Q?Bk3s9dEQIwWA3z+yRzx5rRK9puySbYkCYWMiavu?=
+ =?us-ascii?Q?ixUHE0pNEAjQClELvPOx1KLh2xGxrf6m0WF66uZ?=
+ =?us-ascii?Q?qWtfyqqnK9P6UTpo3jn97dVymUlOUZpsuBgMYwR?=
+ =?us-ascii?Q?2XYLNJmBXh+T4MbrNcPqw9RFyNyo0jSQ20VJX+q?=
+ =?us-ascii?Q?H9t0dAzSxF1Pm34npF5udU=3D?=
+To: rufusdixon777@gmail.com
+X-Entity-ID: u001.xgAWGkY/PSRASJmu6pEcGw==
+
+--35b492b4a06d6bbca4b0c0e1b3c3aac330732b8e675c3b386ca53d1d7514
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hey Rufus, =F0=9F=91=80
+
+Good news: based on your profile, **you=E2=80=99ve just been pre-qualified*=
+* for a credit card that checks *all* the right boxes.
+
+=F0=9F=92=B3 Fast approval. Big perks. Zero stress.
+
+This isn=E2=80=99t a generic offer. We analyzed your data and hand-picked a=
+ card that gives you **the best chance of approval right now**.
+
+=F0=9F=91=89 [Tap here to view your exclusive offer](https://u51758236.ct.s=
+endgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrLhjA=
+cl7CutcM9-2BRLv-2B-2FEq6wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo1kj=
+kf6pQqb3FqRRMFpfxc78-2FHQ5C74Tf0MriLeBivzwwA-3D-3DKVa4_WaXfKnVfVItpNu16w5CA=
+pWvXic8lUT4Hxl8Z7ZRJk-2F6pRetbHrzYcghA-2FKdwqAN4j3gkvE7Kk3Xl2Kl7Z1QUSpkqfz4=
+93-2Fvfx19-2FJ9sPCA3Ybop1Srsu0nhXPFu54DumWMXpIDIwf6SbSQn1ywcNUuqtcN4g9h6mFE=
+wOJklmbfIaLrmb8qnL3FnptRa8yWWmfoNNEmoIO5I-2Bmce3DXT9Cg-3D-3D
+
+=F0=9F=94=A5 **Here=E2=80=99s why it=E2=80=99s a big deal:**
+
+- Pre-qualified =3D High approval odds
+- Earn rewards like cashback or travel points
+- No hidden fees, no fine print
+- Entire process takes less than 2 minutes
+
+But heads up: this offer can disappear at any time. Don=E2=80=99t wait.
+
+=F0=9F=91=89 [See your match before it=E2=80=99s gone](https://u51758236.ct=
+.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrLh=
+jAcl7CutcM9-2BRLv-2B-2FEq6wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo1=
+kjkf6pQqb3FqRRMFpfxc78-2FHQ5C74Tf0MriLeBivzwwA-3D-3DL_WE_WaXfKnVfVItpNu16w5=
+CApWvXic8lUT4Hxl8Z7ZRJk-2F6pRetbHrzYcghA-2FKdwqAN4j3gkvE7Kk3Xl2Kl7Z1QUSnh-2=
+Ba2nBhbpQw4dmuj2dRKRlf4vzes8do5Y8YmdAMzIB986dA2EMBdI506cjTj3Q8igO0jQaX0swL8=
+l-2B-2FcMHydVBOwZjT1Dv45DKfZn5clTufbAZBsGeTtL4qKv-2Bc2C01w-3D-3D
+
+To better credit and better perks,
+
+=20
+
+                      **JN CONTENT MIDIA LTDA**
+
+Rua 20 de Setembro, 334, Sala 01, Centro, Piratini - RS [Privacy Polices](h=
+ttps://u51758236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2m=
+4kv7nHv-2BiHB1ivbjrKky2rCj5wsDNsKYYJZNx-2B8EiLtu01Q0J8Rwosl-2FMmJq4TO4U7ogV=
+HtrqmoGaQFRR9P1tdH85xGdrQ5xC7etn1PIM-2B4rK2JbelV-2BGpzjG3-2B-2BDrK9O-2F9Xnc=
+NWmiHcW2rS179pY-3Dm2ip_WaXfKnVfVItpNu16w5CApWvXic8lUT4Hxl8Z7ZRJk-2F6pRetbHr=
+zYcghA-2FKdwqAN4j3gkvE7Kk3Xl2Kl7Z1QUSkvVpkoZuYtEX5Hq6jaG2SDoSP5lpsK35SRPAgg=
+CYO9x-2FrR7wyn5-2F-2F5F2tAhKPENFfYB5DA2FcvKvtmrLtYYBEe1CrBmFt-2FZU8XLN-2BV4=
+c-2FehvJBvNt14oZGwGeWmQWWAlw-3D-3D
+
+[Unsubscribe](https://u51758236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnz=
+PSHa2nlDiViIk2nZipDX9uhPr6xLNXaFJeC0sS-2FSuW-2FCNjKFus-2F6dDEmChs5rRWoVlA3g=
+ags48j4NMQVTE4pmRXQJrM-2FjmxFUY51LGnx2-2FM29kxvkjQYSkviCzs6D6IXZIjrmcG5IFbb=
+-2FGToSSaCMok0x-2FdidRxMfG2Y-3Dymh7_WaXfKnVfVItpNu16w5CApWvXic8lUT4Hxl8Z7ZR=
+Jk-2F6pRetbHrzYcghA-2FKdwqAN4j3gkvE7Kk3Xl2Kl7Z1QUSuykP-2BVljeFvWrVry6yTfxXM=
+MBf-2Fav12YXzJgLT0eWH4DD9MFPWErS8rjiL6X-2Fya42xor-2BGmx-2Bb7sMtdsGSTwMdLeb5=
+aiJ0Up-2BvNan6j3-2FgxAIuQNin2klstUk3kTMWLLg-3D-3D
+
+--35b492b4a06d6bbca4b0c0e1b3c3aac330732b8e675c3b386ca53d1d7514
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+     =20
+      @media only screen and (min-width: 520px) {
+        .u-row {
+          width: 500px !important;
+        }
+
+        .u-row .u-col {
+          vertical-align: top;
+        }
+
+       =20
+            .u-row .u-col-100 {
+              width: 500px !important;
+            }
+         =20
+      }
+
+      @media only screen and (max-width: 520px) {
+        .u-row-container {
+          max-width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .u-row {
+          width: 100% !important;
+        }
+
+        .u-row .u-col {
+          display: block !important;
+          width: 100% !important;
+          min-width: 320px !important;
+          max-width: 100% !important;
+        }
+
+        .u-row .u-col > div {
+          margin: 0 auto;
+        }
+
+
+}
+   =20
+body{margin:0;padding:0}table,td,tr{border-collapse:collapse;vertical-align=
+:top}p{margin:0}.ie-container table,.mso-container table{table-layout:fixed=
+}*{line-height:inherit}a[x-apple-data-detectors=3Dtrue]{color:inherit!impor=
+tant;text-decoration:none!important}
+
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table role=3D""presentation"" id=3D""u_body"" style=3D""line-height: inherit;=
+ color: #000000; border-collapse: collapse; table-layout: fixed; border-spa=
+cing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top;=
+ min-width: 320px; Margin: 0 auto; background-color: #ffffff; width: 100%;""=
+ cellpadding=3D""0"" cellspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table role=3D""presentation"" width=3D""100%"" cellpad=
+ding=3D""0"" cellspacing=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D=
+""background-color: #ffffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table role=3D""presentation"" width=3D""100%"" cellp=
+adding=3D""0"" cellspacing=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;b=
+ackground-color: transparent;"" align=3D""center""><table role=3D""presentation=
+"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" style=3D""width:500px;""><=
+tr style=3D""background-color: transparent;""><![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&amp;(!IE)]><!--><div style=3D""line-height: inherit; box-si=
+zing: border-box; height: 100%; padding: 0px; border-top: 0px solid transpa=
+rent; border-left: 0px solid transparent; border-right: 0px solid transpare=
+nt; border-bottom: 0px solid transparent; border-radius: 0px; -webkit-borde=
+r-radius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; border-collapse: collapse; vertical-a=
+lign: top; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-=
+align: top;"">
+      <td style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"" dir=3D""ltr"">
+    <p style=3D""margin: 0; line-height: 140%;"" data-start=3D""358"" data-end=
+=3D""378"">Hey Rufus, =F0=9F=91=80</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""358"" data-end=3D""3=
+78"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""380"" data-end=3D""5=
+01"">Good news: based on your profile, <strong data-start=3D""414"" data-end=
+=3D""448"" style=3D""line-height: inherit;"">you=E2=80=99ve just been pre-quali=
+fied</strong> for a credit card that checks <em data-start=3D""479"" data-end=
+=3D""484"" style=3D""line-height: inherit;"">all</em> the right boxes.</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""380"" data-end=3D""5=
+01"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""503"" data-end=3D""5=
+46"">=F0=9F=92=B3 Fast approval. Big perks. Zero stress.</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""503"" data-end=3D""5=
+46"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""548"" data-end=3D""6=
+78"">This isn=E2=80=99t a generic offer. We analyzed your data and hand-pick=
+ed a card that gives you <strong data-start=3D""636"" data-end=3D""677"" style=
+=3D""line-height: inherit;"">the best chance of approval right now</strong>.<=
+/p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""548"" data-end=3D""6=
+78"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""680"" data-end=3D""7=
+25"">=F0=9F=91=89 <a href=3D""https://u51758236.ct.sendgrid.net/ls/click?upn=
+=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrLhjAcl7CutcM9-2BRLv-2B-2FEq6=
+wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo1kjkf6pQqb3FqRRMFpfxc78PfSG=
+jPhUnl-2FfHRrkCoXwPQ-3D-3DS5JL_WaXfKnVfVItpNu16w5CApWvXic8lUT4Hxl8Z7ZRJk-2F=
+6pRetbHrzYcghA-2FKdwqAN4aY20k3I1gqdxMA36IfLUGvUibIBKC6tCIYpx5Jo5Ef7W49qpWuz=
+lIgQrqPb7eTUdVW-2FHKqfrf5x1cy3PL2gqsv9KmUfhGWS6LpBWP5HudlqyhaNl8AZCpy7oMGXh=
+7PH4eRm0sVWq-2Fi11OEIYtZDIJA-3D-3D"" target=3D""_self"" data-start=3D""683"" dat=
+a-end=3D""725"" style=3D""line-height: inherit; color: #0000ee; text-decoratio=
+n: underline;"">Tap here to view your exclusive offer</a></p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""727"" data-end=3D""7=
+61"">=F0=9F=94=A5 <strong data-start=3D""730"" data-end=3D""761"" style=3D""line-=
+height: inherit;"">Here=E2=80=99s why it=E2=80=99s a big deal:</strong></p>
+<ul data-start=3D""763"" data-end=3D""928"" style=3D""line-height: inherit;"">
+<li style=3D""line-height: 19.6px;"" data-start=3D""763"" data-end=3D""801"">
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""765"" data-end=3D""8=
+01"">Pre-qualified =3D High approval odds</p>
+</li>
+<li style=3D""line-height: 19.6px;"" data-start=3D""802"" data-end=3D""849"">
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""804"" data-end=3D""8=
+49"">Earn rewards like cashback or travel points</p>
+</li>
+<li style=3D""line-height: 19.6px;"" data-start=3D""850"" data-end=3D""883"">
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""852"" data-end=3D""8=
+83"">No hidden fees, no fine print</p>
+</li>
+<li style=3D""line-height: 19.6px;"" data-start=3D""884"" data-end=3D""928"">
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""886"" data-end=3D""9=
+28"">Entire process takes less than 2 minutes</p>
+</li>
+</ul>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""930"" data-end=3D""9=
+93"">But heads up: this offer can disappear at any time. Don=E2=80=99t wait.=
+</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""930"" data-end=3D""9=
+93"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""995"" data-end=3D""1=
+034"">=F0=9F=91=89 <a href=3D""https://u51758236.ct.sendgrid.net/ls/click?upn=
+=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrLhjAcl7CutcM9-2BRLv-2B-2FEq6=
+wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo1kjkf6pQqb3FqRRMFpfxc78PfSG=
+jPhUnl-2FfHRrkCoXwPQ-3D-3D390I_WaXfKnVfVItpNu16w5CApWvXic8lUT4Hxl8Z7ZRJk-2F=
+6pRetbHrzYcghA-2FKdwqAN4aY20k3I1gqdxMA36IfLUGgBZ4LdjlWr8AxQeVPZ6-2BeWAgSoqI=
+Cmd6x9CYdh1f4-2BEMgbdrM7wN7oPTG-2FF2MW4EYqraeemP0dqd-2FkxRV0ZjoKZg86F2wa-2F=
+gfOCkLdxPspWROaouXMPXia1vXAg-2FrVcIA-3D-3D"" target=3D""_self"" data-start=3D""=
+998"" data-end=3D""1034"" style=3D""line-height: inherit; color: #0000ee; text-=
+decoration: underline;"">See your match before it=E2=80=99s gone</a></p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""995"" data-end=3D""1=
+034"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""1036"" data-end=3D""=
+1100"">To better credit and better perks,</p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; border-collapse: collapse; vertical-a=
+lign: top; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-=
+align: top;"">
+      <td style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table role=3D""presentation"" height=3D""0px"" align=3D""center"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""line-height: i=
+nherit; color: #000000; border-collapse: collapse; table-layout: fixed; bor=
+der-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; vertical-alig=
+n: top; border-top: 1px solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=C2=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; border-collapse: collapse; vertical-a=
+lign: top; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-=
+align: top;"">
+      <td style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 8px; line-height: 140%; text-align: left; word-w=
+rap: break-word;"" dir=3D""ltr"">
+    <p style=3D""line-height: 140%; margin: 0px; color: #000000; text-align:=
+ center; white-space: normal; background-color: #ffffff;""><strong style=3D""=
+line-height: inherit;"">JN CONTENT MIDIA LTDA</strong></p>
+<p style=3D""line-height: 140%; margin: 0px; color: #000000; text-align: cen=
+ter; white-space: normal; background-color: #ffffff;"">Rua 20 de Setembro, 3=
+34, Sala 01, Centro, Piratini - RS <a rel=3D""noopener"" href=3D""https://u517=
+58236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2m4kv7nHv-2Bi=
+HB1ivbjrKky2rCj5wsDNsKYYJZNx-2B8EiLtu01Q0J8Rwosl-2FMmJq4TO4U7ogVHtrqmoGaQFR=
+R9P1tdH85xGdrQ5xC7etn1PIM-2B4rK2JbelV-2BGpzjG3-2B-2BDrK2a7bpTNzi50hn7ObQpRT=
+f8-3DT_Ar_WaXfKnVfVItpNu16w5CApWvXic8lUT4Hxl8Z7ZRJk-2F6pRetbHrzYcghA-2FKdwq=
+AN4aY20k3I1gqdxMA36IfLUGp9lsNkToSELlTn9ddUZeoA5-2FNePBllnxbW47uDbFRgpcISUQP=
+8FF3iXNXhT1JFMx2bjObEaNPSQDozGAdvsVe7CwZ4mV-2FtC-2FBNbtNGaQp7I0YkK8KDKOotTv=
+V9g-2FxBaAA-3D-3D"" target=3D""_blank"" style=3D""text-decoration: underline; l=
+ine-height: inherit; color: #0000ee; text-decoration-line: underline;"">Priv=
+acy Polices</a></p>
+<p style=3D""line-height: 140%; margin: 0px; color: #000000; text-align: cen=
+ter; white-space: normal; background-color: #ffffff;""><a href=3D""https://u5=
+1758236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2nZipDX9uhP=
+r6xLNXaFJeC0sS-2FSuW-2FCNjKFus-2F6dDEmChs5rRWoVlA3gags48j4NMQVTE4pmRXQJrM-2=
+FjmxFUY51LGnx2-2FM29kxvkjQYSkviCzs6D6IXZIjrmcG5IFbb-2FGZ1TPXKz-2F6KUPd3K-2B=
+OBrNGE-3Ddn4T_WaXfKnVfVItpNu16w5CApWvXic8lUT4Hxl8Z7ZRJk-2F6pRetbHrzYcghA-2F=
+KdwqAN4aY20k3I1gqdxMA36IfLUGk-2B-2BBZmHYPo6cbz2x-2FucmRBS23ochvXUK9tZZPEbjX=
+9pCnJHv-2BrCtGxryLwtCnCrLhr1c18YY-2FGw87o1ckA2e4vY0BSIX2wfxSc2f-2BPk7RslHlF=
+q5t2thYyIFht-2B4rNt6w-3D-3D"" target=3D""_self"" style=3D""text-decoration: und=
+erline; line-height: inherit; color: #0000ee; text-decoration-line: underli=
+ne;"">Unsubscribe</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&amp;(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51758236.ct.sendgrid.net/wf/open?upn=3Du001.BTKlo1nkB0=
+8adfF7MpRkRixOPrdBsn1atkFI9ZtGUr2kK813qxFMZZW-2B6NOIXtDT1yXBf1ZyE3tJCfiS9pD=
+ha-2FrZyFpXAUIz8fypjYdwAgSGfLxfsR20w1DR-2Brgqwf8rXfq-2B0gV3djUd-2FKo3Y9TbX0=
+uJoFWh-2FGezs-2F0aHsMDbGA-2FR54H1Ajb-2BGKSdlDfZN5QoF5bVk1vEygMw21CNN-2BMlA-=
+3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !=
+important;width:1px !important;border-width:0 !important;margin-top:0 !impo=
+rtant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !i=
+mportant;padding-top:0 !important;padding-bottom:0 !important;padding-right=
+:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+
+--35b492b4a06d6bbca4b0c0e1b3c3aac330732b8e675c3b386ca53d1d7514--
+","""Manager"" <email@caxiason.com.br>",rufusdixon777@gmail.com,2025-04-03,37.27.238.148,Iran,ca,users/51758236/7f875138-db23-4a4f-b1a6-8a1fc9ca737d.json
+51758236,mC_ZKJ7nSwOk9YJQQoMFqw.recvd-97d7ddb5-h84k2-1-67EF7E8B-11.0,cHJvY2Vzc2VkLTUxNzU4MjM2LW1DX1pLSjduU3dPazlZSlFRb01GcXctMA,A personalized recommendation based on your profile,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=caxiason.com.br;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=x4teS4RXydTDmiGR0FQZLj3I6o/t8HzoYfbMyQgubqg=;
+	b=iafDPTp9SnRUtCB3XFRXCLvM320Daz9XW+uq+yCw+TCOiloi7sN1EcbLuEiFYBuzifzR
+	MGhz1N1+wt9D5n9/DQ3brRhA6scJVR8JDn7klih9+sDqP8j9NukUXpgVUuzVNLCTXkHGRv
+	fTCJVzbqEY/HOxyS6Qo0fD3Q/DDdhbVkWtSPKvxAzkMS8O+dUgmClwT2A3nJ38BdZ5YbgW
+	Hc0H0BZlneLCFAEofDYKhmlBz+HQ/gJPT09KHUUc1zbE3dmwrDt18IIi3cPOXKn1hPErNx
+	JE52ahZOKBKMqIzMFt6d+XCnZhjZVS6G5waXA2Hv9Z4s6XxYdSE29wWC7VUtiHKw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=x4teS4RXydTDmiGR0FQZLj3I6o/t8HzoYfbMyQgubqg=;
+	b=Izyy8WCymmBfyj/lFc4qR8pW3vxk9vRSYGTXHz9CiG7R0HMm67A54VrdOOqfg8zvuyfE
+	8puecp9HWZzU/1mX9goUyxlUvqohywFpkCUVtxAm8jzyHD/g89lnxS+sOqHeY9PzExhfpp
+	muvTdP5QXZNiNe5JdfibdEN70GBSkGA3Y=
+Received: by recvd-97d7ddb5-h84k2 with SMTP id recvd-97d7ddb5-h84k2-1-67EF7E8B-11
+	2025-04-04 06:39:07.489099767 +0000 UTC m=+12129448.775308553
+Received: from NTE3NTgyMzY (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id mC_ZKJ7nSwOk9YJQQoMFqw
+	Fri, 04 Apr 2025 06:39:07.425 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=e8863382e74a0fa815331ad42591d26b095e11864066bb5cd571391c365c
+Date: Fri, 04 Apr 2025 06:39:07 +0000 (UTC)
+From: Manager <email@caxiason.com.br>
+Mime-Version: 1.0
+Message-ID: <27a2909dd4767b177dae24e2a399e378@caxiason.com.br>
+Subject: A personalized recommendation based on your profile
+Reply-To: Manager <email@caxiason.com.br>
+List-ID: <73dba8d6-ff93-4b5d-bd1c-ca3b76dda4be@caxiason.com.br>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fstress=2Espunmail=2Enet=2Funsubscribe=2F108cd22d-8173-4797-bb?=
+ =?us-ascii?Q?a8-4b21cb9f6526=2F861d0cde-53c7-42ca-9a4e?=
+ =?us-ascii?Q?-afdd39746278=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: 861d0cde-53c7-42ca-9a4e-afdd39746278
+mailcoach-send-uuid: 861d0cde-53c7-42ca-9a4e-afdd39746278
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzDcjOPk9QJBnV3d5LX6teRUTVCoNjqDqA3WOVzfSxX2MhwSNRne0eFlJR?=
+ =?us-ascii?Q?Bk3s9dEQIwWA3z+yRzx5rRK9puySSqRejTfAGC6?=
+ =?us-ascii?Q?5ondokNl0BaiVojCGmz+za4za=2FAvMphHRAsczEW?=
+ =?us-ascii?Q?dllrCeRbuqcgByesep+F4bUdaouw3HO34+zQRhL?=
+ =?us-ascii?Q?ZrpoB6YKRQHN6vpxXIe8sq26=2FQjuaVgYqwL2enl?=
+ =?us-ascii?Q?ofNAsfoqabm9V6Sbt91HvaDJ8ACvUsDkH9Se7Qq?= =?us-ascii?Q?gSnj?=
+To: orlabiodun528@gmail.com
+X-Entity-ID: u001.xgAWGkY/PSRASJmu6pEcGw==
+
+--e8863382e74a0fa815331ad42591d26b095e11864066bb5cd571391c365c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Hi **Alabi**, =F0=9F=91=8B
+
+We just reviewed your profile and found a **credit card that fits you perfe=
+ctly**.
+
+=F0=9F=92=B3 **You have a high chance of getting approved** =E2=80=93 and t=
+he perks are amazing!
+
+We know how frustrating it can be to find the right card, so we did the wor=
+k for you.
+
+=F0=9F=91=89 [See your personalized recommendation now](https://u51758236.c=
+t.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrL=
+hjAcl7CutcM9-2BRLv-2B-2FEq6wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo=
+1kjkf6pQqb3FqRRMFpfxc78I7ahrbxL5tXEGI6K5RoTcA-3D-3DyDUs_pJMvFuMdzOwYRoUVGw7=
+CM7DVAPr-2BGTPLhrS2REjRty0pXmaHhc-2FPaTKtE2rwzfRxBEukkZE-2FqEuDosfFUch2wUPM=
+rTVHy-2F1V3eC4qrn4nBcbAscn0aar95iZ5C2LzHRnqvS9Cu-2F-2Foaaop14b4veb4Gb34k2OS=
+Z7eCtRIUf9lJmjTaAs2wF2zGLDMluX0seJg1eC9D-2FInhmnIyrxW6cLzVA-3D-3D
+
+=F0=9F=9A=80 **Why this card stands out:**
+
+- High approval odds based on your profile
+- Exclusive benefits like cashback, miles, or no annual fee
+- Fast approval process =E2=80=93 100% online
+
+=E2=9A=A0=EF=B8=8F This offer might not be available for long.
+
+Don=E2=80=99t miss your chance to grab the card that actually fits your lif=
+estyle.
+
+=F0=9F=91=89 [Check it out now](https://u51758236.ct.sendgrid.net/ls/click?=
+upn=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrLhjAcl7CutcM9-2BRLv-2B-2F=
+Eq6wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo1kjkf6pQqb3FqRRMFpfxc78I=
+7ahrbxL5tXEGI6K5RoTcA-3D-3DyfVE_pJMvFuMdzOwYRoUVGw7CM7DVAPr-2BGTPLhrS2REjRt=
+y0pXmaHhc-2FPaTKtE2rwzfRxBEukkZE-2FqEuDosfFUch2wfF8D02fMqT-2B7pf4xMsqjBZ3Uu=
+snwpZHz1r8yv83TuvluhsJLDnhf-2FnG6yjYWul8QM5vgzRi3ZCin0sHD01Tct8xQYT9OAcGxZ4=
+CDo28cWWPPqEJ-2BQx-2FSUjPlZmjp6Sq5w-3D-3D
+
+Talk soon
+
+=20
+
+                      **JN CONTENT MIDIA LTDA**
+
+Rua 20 de Setembro, 334, Sala 01, Centro, Piratini - RS [Privacy Polices](h=
+ttps://u51758236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2m=
+4kv7nHv-2BiHB1ivbjrKky2rCj5wsDNsKYYJZNx-2B8EiLtu01Q0J8Rwosl-2FMmJq4TO4U7ogV=
+HtrqmoGaQFRR9P1tdH85xGdrQ5xC7etn1PIM-2BqsY9r9g1-2FuDV4TVaEt9aedylhDVGAMHL1U=
+TXAxDiMh8-3DIMTh_pJMvFuMdzOwYRoUVGw7CM7DVAPr-2BGTPLhrS2REjRty0pXmaHhc-2FPaT=
+KtE2rwzfRxBEukkZE-2FqEuDosfFUch2wQzxDP3YCCzVprR5b0luBKvW9IWsuN5oPdfLP9FMZCj=
+VZq-2BAlI5hpO6TcHPsKehO0MdwSi1oxriEJhti-2B8YfbqK2Dud38VQXOKvqxGWV1HRaE5KkbM=
+-2Foxmjuc-2FBTlKCjvQ-3D-3D
+
+[Unsubscribe](https://u51758236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnz=
+PSHa2nlDiViIk2nZipDX9uhPr6xLNXaFJeC0sS-2FSuW-2FCNjKFus-2F6dDEmCYjGljoRGIK-2=
+BW6254TImlhDK35CPA1VZBDpAj-2BGDBZuaoYRwHHT4QM4yg2ZfiC0JvzOKrE3XoBg-2FiLdCeM=
+qm-2B5G-2BC3lseH9NGjoRU08IMly4-3DXEcJ_pJMvFuMdzOwYRoUVGw7CM7DVAPr-2BGTPLhrS=
+2REjRty0pXmaHhc-2FPaTKtE2rwzfRxBEukkZE-2FqEuDosfFUch2wYk9X-2Fy8SNllmnWJ0NwX=
+buVUZCZWsj3o4vVTU-2FRe986eQK6mqgFOMvs0SWGG2Ps8HEclDu0gEUwuXpzfep-2F8in1rSQW=
+z5lYi5iV8UDZYHEhKL39UtXf-2BJGjtvYS9OlQsYw-3D-3D
+
+--e8863382e74a0fa815331ad42591d26b095e11864066bb5cd571391c365c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+     =20
+      @media only screen and (min-width: 520px) {
+        .u-row {
+          width: 500px !important;
+        }
+
+        .u-row .u-col {
+          vertical-align: top;
+        }
+
+       =20
+            .u-row .u-col-100 {
+              width: 500px !important;
+            }
+         =20
+      }
+
+      @media only screen and (max-width: 520px) {
+        .u-row-container {
+          max-width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .u-row {
+          width: 100% !important;
+        }
+
+        .u-row .u-col {
+          display: block !important;
+          width: 100% !important;
+          min-width: 320px !important;
+          max-width: 100% !important;
+        }
+
+        .u-row .u-col > div {
+          margin: 0 auto;
+        }
+
+
+}
+   =20
+body{margin:0;padding:0}table,td,tr{border-collapse:collapse;vertical-align=
+:top}p{margin:0}.ie-container table,.mso-container table{table-layout:fixed=
+}*{line-height:inherit}a[x-apple-data-detectors=3Dtrue]{color:inherit!impor=
+tant;text-decoration:none!important}
+
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table role=3D""presentation"" id=3D""u_body"" style=3D""line-height: inherit;=
+ color: #000000; border-collapse: collapse; table-layout: fixed; border-spa=
+cing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top;=
+ min-width: 320px; Margin: 0 auto; background-color: #ffffff; width: 100%;""=
+ cellpadding=3D""0"" cellspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table role=3D""presentation"" width=3D""100%"" cellpad=
+ding=3D""0"" cellspacing=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D=
+""background-color: #ffffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table role=3D""presentation"" width=3D""100%"" cellp=
+adding=3D""0"" cellspacing=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;b=
+ackground-color: transparent;"" align=3D""center""><table role=3D""presentation=
+"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" style=3D""width:500px;""><=
+tr style=3D""background-color: transparent;""><![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&amp;(!IE)]><!--><div style=3D""line-height: inherit; box-si=
+zing: border-box; height: 100%; padding: 0px; border-top: 0px solid transpa=
+rent; border-left: 0px solid transparent; border-right: 0px solid transpare=
+nt; border-bottom: 0px solid transparent; border-radius: 0px; -webkit-borde=
+r-radius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; border-collapse: collapse; vertical-a=
+lign: top; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-=
+align: top;"">
+      <td style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"" dir=3D""ltr"">
+    <p style=3D""margin: 0; line-height: 140%;"" data-start=3D""275"" data-end=
+=3D""294"">Hi <strong style=3D""line-height: inherit;"">Alabi</strong>, =F0=9F=
+=91=8B</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""275"" data-end=3D""2=
+94"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""296"" data-end=3D""3=
+78"">We just reviewed your profile and found a <strong data-start=3D""338"" da=
+ta-end=3D""377"" style=3D""line-height: inherit;"">credit card that fits you pe=
+rfectly</strong>.</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""296"" data-end=3D""3=
+78"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""380"" data-end=3D""4=
+58"">=F0=9F=92=B3 <strong data-start=3D""383"" data-end=3D""429"" style=3D""line-=
+height: inherit;"">You have a high chance of getting approved</strong> =E2=
+=80=93 and the perks are amazing!</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""460"" data-end=3D""5=
+45"">We know how frustrating it can be to find the right card, so we did the=
+ work for you.</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""460"" data-end=3D""5=
+45"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""547"" data-end=3D""6=
+09"">=F0=9F=91=89 <a rel=3D""noopener"" href=3D""https://u51758236.ct.sendgrid.=
+net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrLhjAcl7CutcM=
+9-2BRLv-2B-2FEq6wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo1kjkf6pQqb3=
+FqRRMFpfxc784xdoPF-2BwqZkvOKmc2MxPeQ-3D-3DOSWL_pJMvFuMdzOwYRoUVGw7CM7DVAPr-=
+2BGTPLhrS2REjRty0pXmaHhc-2FPaTKtE2rwzfRxxYqk8x1fIPYwVYq3ioJjAq7HeFj3PvdjyvT=
+mXgKE-2BlV4Iwa-2FAqFFiyLpMXVPhnwng4p7WKGin5IjbXJze-2BkcIpZ6oDDBl8dur3z54bt7=
+YsZD6YeIUS2lZgHBRo9Gzjrc3wTJz0xxywgP5z4WfzD4XQ-3D-3D"" target=3D""_blank"" dat=
+a-start=3D""550"" data-end=3D""609"" style=3D""line-height: inherit; color: #000=
+0ee; text-decoration: underline;"">See your personalized recommendation now<=
+/a></p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""547"" data-end=3D""6=
+09"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""611"" data-end=3D""6=
+43"">=F0=9F=9A=80 <strong data-start=3D""614"" data-end=3D""643"" style=3D""line-=
+height: inherit;"">Why this card stands out:</strong></p>
+<ul data-start=3D""645"" data-end=3D""791"" style=3D""line-height: inherit;"">
+<li style=3D""line-height: 19.6px;"" data-start=3D""645"" data-end=3D""689"">
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""647"" data-end=3D""6=
+89"">High approval odds based on your profile</p>
+</li>
+<li style=3D""line-height: 19.6px;"" data-start=3D""690"" data-end=3D""751"">
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""692"" data-end=3D""7=
+51"">Exclusive benefits like cashback, miles, or no annual fee</p>
+</li>
+<li style=3D""line-height: 19.6px;"" data-start=3D""752"" data-end=3D""791"">
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""754"" data-end=3D""7=
+91"">Fast approval process =E2=80=93 100% online</p>
+</li>
+</ul>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""793"" data-end=3D""8=
+41"">=E2=9A=A0=EF=B8=8F This offer might not be available for long.</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""843"" data-end=3D""9=
+17"">Don=E2=80=99t miss your chance to grab the card that actually fits your=
+ lifestyle.</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""843"" data-end=3D""9=
+17"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""919"" data-end=3D""9=
+57"">=F0=9F=91=89 <a rel=3D""noopener"" href=3D""https://u51758236.ct.sendgrid.=
+net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2kRJ1aBxB-2BalPPPHrLhjAcl7CutcM=
+9-2BRLv-2B-2FEq6wsTW409ErnShdXmY9oFUMLBWCVZfAiWndNfqIxsZmA-2Fvvo1kjkf6pQqb3=
+FqRRMFpfxc784xdoPF-2BwqZkvOKmc2MxPeQ-3D-3DI-Ur_pJMvFuMdzOwYRoUVGw7CM7DVAPr-=
+2BGTPLhrS2REjRty0pXmaHhc-2FPaTKtE2rwzfRxxYqk8x1fIPYwVYq3ioJjArL6y6zyMvMy2hv=
+viXzhhKCVA2RnZ3nX-2B0dANZ7MOeLC788wmcyD3XBA95lpVsZTK-2ByMTvsNRf-2FGi7ID5Utn=
+9S6orKOjNyKJwZ3t2JuTLVl9ehLuL1DC7NuDmJaVzeUtaA-3D-3D"" target=3D""_blank"" dat=
+a-start=3D""922"" data-end=3D""957"" style=3D""line-height: inherit; color: #000=
+0ee; text-decoration: underline;"">Check it out now</a></p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""919"" data-end=3D""9=
+57"">=C2=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"" data-start=3D""959"" data-end=3D""9=
+97"">Talk soon</p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; border-collapse: collapse; vertical-a=
+lign: top; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-=
+align: top;"">
+      <td style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table role=3D""presentation"" height=3D""0px"" align=3D""center"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""line-height: i=
+nherit; color: #000000; border-collapse: collapse; table-layout: fixed; bor=
+der-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; vertical-alig=
+n: top; border-top: 1px solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=C2=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; border-collapse: collapse; vertical-a=
+lign: top; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-=
+align: top;"">
+      <td style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: left; word-w=
+rap: break-word;"" dir=3D""ltr"">
+    <p style=3D""line-height: 140%; margin: 0px; color: #000000; text-align:=
+ center; white-space: normal; background-color: #ffffff;""><strong style=3D""=
+line-height: inherit;"">JN CONTENT MIDIA LTDA</strong></p>
+<p style=3D""line-height: 140%; margin: 0px; color: #000000; text-align: cen=
+ter; white-space: normal; background-color: #ffffff;"">Rua 20 de Setembro, 3=
+34, Sala 01, Centro, Piratini - RS <a rel=3D""noopener"" href=3D""https://u517=
+58236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2m4kv7nHv-2Bi=
+HB1ivbjrKky2rCj5wsDNsKYYJZNx-2B8EiLtu01Q0J8Rwosl-2FMmJq4TO4U7ogVHtrqmoGaQFR=
+R9P1tdH85xGdrQ5xC7etn1PIM-2BqsY9r9g1-2FuDV4TVaEt9aeVHRLvl6W6dhTT2WN1-2Ff3YI=
+-3DvoI5_pJMvFuMdzOwYRoUVGw7CM7DVAPr-2BGTPLhrS2REjRty0pXmaHhc-2FPaTKtE2rwzfR=
+xxYqk8x1fIPYwVYq3ioJjArgrBnrE3G-2BrGx8r9jNUIU0MoSgUif8Aqi4jV39yG0b1XsqBHQCI=
+5Svotbv1vL6PmRoLaTsZoBaLeYi1Yf4usyG1f8CSV8A6XaqHqThF00YZnzqKp6TM4ru90c-2BuY=
+gHB8g-3D-3D"" target=3D""_blank"" style=3D""text-decoration: underline; line-he=
+ight: inherit; color: #0000ee; text-decoration-line: underline;"">Privacy Po=
+lices</a></p>
+<p style=3D""line-height: 140%; margin: 0px; color: #000000; text-align: cen=
+ter; white-space: normal; background-color: #ffffff;""><a href=3D""https://u5=
+1758236.ct.sendgrid.net/ls/click?upn=3Du001.05qTjnzPSHa2nlDiViIk2nZipDX9uhP=
+r6xLNXaFJeC0sS-2FSuW-2FCNjKFus-2F6dDEmCYjGljoRGIK-2BW6254TImlhDK35CPA1VZBDp=
+Aj-2BGDBZuaoYRwHHT4QM4yg2ZfiC0JvzOKrE3XoBg-2FiLdCeMqm-2B5Nv3V1V-2BY2sFId83y=
+AqEUiA-3DVzRB_pJMvFuMdzOwYRoUVGw7CM7DVAPr-2BGTPLhrS2REjRty0pXmaHhc-2FPaTKtE=
+2rwzfRxxYqk8x1fIPYwVYq3ioJjAl-2FxxldN9-2B06lhIe8YBAkTqAZUHddhuwq35giWHUdwtu=
+EomKOwZ0OtyF5ZpBTPdMaPNvkpxh4LTJM0nExZ8mE4-2FfEuW0VRjtS8XxJWniwirUbWG7MKZcT=
+-2Bmop-2BetBJKwwA-3D-3D"" target=3D""_self"" style=3D""text-decoration: underli=
+ne; line-height: inherit; color: #0000ee; text-decoration-line: underline;""=
+>Unsubscribe</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&amp;(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51758236.ct.sendgrid.net/wf/open?upn=3Du001.ntg8d0YIY8=
+GCswajvC38Hc-2FnzBIInC5u9KUFkSDyI0PnOm-2BGABRO-2BRoW0-2B3fxicaTrYXUEEKWK1t-=
+2FjMxn9c9fl-2Fo2t9vA5pRIlyoNEIKSHrW8ZKHETH418eiCFtbEA88jC-2BYBeJY-2BwxnPX0T=
+dVISNcSFh3VU-2BloUyVcRH5JZn-2BAwwIKtc9XsWznBAGsl4tDEvSqnzoFB7qTrDzed0m6cdA-=
+3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !=
+important;width:1px !important;border-width:0 !important;margin-top:0 !impo=
+rtant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !i=
+mportant;padding-top:0 !important;padding-bottom:0 !important;padding-right=
+:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+
+--e8863382e74a0fa815331ad42591d26b095e11864066bb5cd571391c365c--
+","""Manager"" <email@caxiason.com.br>",orlabiodun528@gmail.com,2025-04-04,37.27.238.148,Iran,en,users/51758236/feea4060-cc1f-46d5-bbf4-6b3d2c8e5e0e.json

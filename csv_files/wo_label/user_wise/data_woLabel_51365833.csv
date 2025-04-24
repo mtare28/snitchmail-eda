@@ -1,0 +1,1904 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51365833,1dB4qfsjT2e6zu-2xud7OQ.recvd-69cbc48b94-7j96v-1-67E59332-19.0,cHJvY2Vzc2VkLTUxMzY1ODMzLTFkQjRxZnNqVDJlNnp1LTJ4dWQ3T1EtMA,Your request has finally been selected,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infoatualizada.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=ctZnDDK5JTknaQv3Yv4rkZZPvTog1aj8jkqtAYgqzZ0=;
+	b=A1Qpkaigb0JIahEIf7kteajl3ijdyus0Q7v3Aau3KPzvcrtcq5C6QUZbOSxyOWDxeqvr
+	pbzq/aSL0lKJiHhUL/D5gHWeNff+Y/43ArMjI+mxY7hKIa27qbyK5LX8QpLUxrjd88BAUK
+	rarnpZsB/cUOGGmDre51+NhTSIobwqmhcLFUpOCBku1/1R9uVIXNLuQCNz6O7gXa43ZiEq
+	MTIbpI1YcD13/dkOH7WUdfBz5jtfF4QhsGzE4vSRgeO6jT84tBmwM/rZk3fnSMajN2CfqO
+	tiMRA4UkPrCp14yJF+2ckxXIg9nKTSZlAvQn7A2pE0o9ZixWG7wtbG+O2PsqUz+w==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=ctZnDDK5JTknaQv3Yv4rkZZPvTog1aj8jkqtAYgqzZ0=;
+	b=bhzR9wljh3T/1U/x/4GB3fEpP2hnIUfngqdm6u1ykhMcal6BP9IVO/1tLWWghWDOZ4+H
+	Cgt87IDfKp5C7ZxK9AhryHdGiUUyYqQSXGbtDA9PJa1UEmliEAsQMEuGDxnNClJdpqfBJj
+	rf74rlbnQVEDj2UKNkPLvSYGjlJi9CH30=
+Received: by recvd-69cbc48b94-7j96v with SMTP id recvd-69cbc48b94-7j96v-1-67E59332-19
+	2025-03-27 18:04:34.214727551 +0000 UTC m=+11479341.159837383
+Received: from NTEzNjU4MzM (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id 1dB4qfsjT2e6zu-2xud7OQ
+	Thu, 27 Mar 2025 18:04:34.026 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=75b2d3e142989c43feaceaeb6b4aa03288ac83582ce019fd23b544837403
+Date: Thu, 27 Mar 2025 18:04:34 +0000 (UTC)
+From: Notification <contact@infoatualizada.com>
+Mime-Version: 1.0
+Message-ID: <68771ec3-7fe6-abf7-7c03-78a7dcee6f8a@infoatualizada.com>
+Subject: Your request has finally been selected
+Reply-To: contact@infoatualizada.com
+X-Campaign-Id: 6EYRRG0QYO
+X-Subscription-Id: N21PKJ25RV
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DDPGOML9K5N&c=3D?=
+ =?us-ascii?Q?6EYRRG0QYO&s=3D172808536=3E?=
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Eo42mTs9LBUDvtOAMnAzTNDIGp4Wy619eG9oglI3kwmoP6USsauPWHVh6M?=
+ =?us-ascii?Q?ObrETuoQEI2O15m5JRnjMGYuSagGc8RHLjYWO78?=
+ =?us-ascii?Q?LS3Rr2eYDxDYU9vg1APTx+pnBerfXUe298DTQke?=
+ =?us-ascii?Q?pK+0MHrSnhPUZS7UNB3IuLBtraInCXq4bvMxRup?=
+ =?us-ascii?Q?7dRYOlB25IyqrO9OJy6tPJkqNVpnGDLMSGxxps4?=
+ =?us-ascii?Q?PPnb36LU93AB7lkWUHXu57+L=2FDzjn0AunUgVmUw?= =?us-ascii?Q?fQ5P?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRCNzQA95QHC0QT7dkz86aqol4sYyz2g4k?=
+ =?us-ascii?Q?sEVF17saGw1gMUIRi9E2b4xYOog+D3t+epksvh1?=
+ =?us-ascii?Q?LUGD0xXVkdJ7VuFzOok=2F6U2BH2H87AZ4db=2FBqgn?=
+ =?us-ascii?Q?uipiaMzNlLQqjIK84nsLhsL6OYXB6TGHjOqYWAT?=
+ =?us-ascii?Q?JAka7YIujemA1cni8A53y6IvkhdGNsSSEvTIDH9?=
+ =?us-ascii?Q?yC8sYLF=2FC9MPFNSNO4tCKmYkFkSu+AgwxSqH0Fv?=
+ =?us-ascii?Q?rJallX9gLDfLzTMjP9oUlU3KQI2n+nDQR5XLzuV?=
+ =?us-ascii?Q?blKrLJ3gEgOP9DJzogOuqnE1P1WeDB0gKk8sNUt?=
+ =?us-ascii?Q?1z+jSddHAUA5=2Fp7pHP59ZL4fD9r=2FvkLC4+4VwZZ?=
+ =?us-ascii?Q?Hf1wbCFpEbgUIzQKMCM=3D?=
+To: pinky14821@gmail.com
+X-Entity-ID: u001.8zg7vqJNOf+QRrnbo/0U4A==
+
+--75b2d3e142989c43feaceaeb6b4aa03288ac83582ce019fd23b544837403
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+Hello, Norma!
+
+After a thorough review, we found that your profile aligns perfectly with o=
+ur
+top recommendations.
+
+In fact, many of our readers have been approved for this card, making it th=
+e one
+with the highest approval rate among them.
+
+Tap the button below to see how to claim yours:
+
+
+GET YOUR CARD
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyvGysDt7YpDPi723vm9dw110pR5gTK0AC5h9qAkyTZVAqPnSfhRou5pyTPPJuqjjPrDlV05HS=
+kZsr9fmhD6XxFUUJM3KdlbGu71KBeMiS-2FimHK-2BEQdI4NFLe-2FVX3tXQFmlujDW-2F22siE=
+kCP7MNcJCyadlCOel9lC8FPF-2Ff7YlI97ZVOBiW-2FEbJ0iuSaso-2B1yP-2B-2B5LTF81C1XM=
+WdwjhOomEM-3DpYa-_TBq2QQ7jWGlhJf3NSmhcqVloOyLFwMHQCYu1y-2F-2B3K6E7OahMMZlZX=
+1BDDEswXsN4tl3nUqjhQrazPcRIqq60CuheAteKY-2FneV2fg-2F-2BuGL4Du7ZKLYTk-2BsdrG=
+0Z-2Fs6WK8DTzaWFxERHmV7-2FNd9VheSdwhuQofA2eLAaRhTrCQXcWAJ8yvOza8wJD9ZOR70i2=
+iD4UIjmbOfmjcLKZ2W5RNYc-2BDTbe6RGHwDW5H4LTYtkYdZfmTNvVGjSUWT9OML3qF2TVCnqB6=
+SWwLLklNyIVnXu91yTEbhJPikUpVEa4u-2BIk-2FGN-2F7-2BR-2F-2B3am-2FTaT3-2BhLSFMp=
+CkX0xCN7oZv1jG2S4CnAqFmBWT3bv4K-2FpM2JVwp5rVKDvgirHvk3z1KpzTVGvmnDqZqCem00u=
+HoD0jDNp-2BPIcjtpr-2BYY6G-2F-2FjRl-2BkD8PbBnUtmccMCmt2-2FHyEAvHvHyfkkVYbpFF=
+jCydSUQ2JVg9ERXmkRKWwxuuGfPM2z-2FMPzIKGoz-2BADlGa4sdUQt109hmUF0OyYZGUjMHMFt=
+KJtnEku2VMDsCvwOh7c9kfkb38teShwizyt0-2FceCyAkv13Sir2Cwg0nZnN5cnqL7wFVQ-3D-3=
+D]
+
+After all, tell me if it went well. If you have any questions, let me know.
+Until the next contact.
+
+Jackson
+
+
+
+
+
+We aim to help you. If you are dissatisfied and no longer want our emails,=
+=A0click
+here.
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyh-2FMCmnyMkg0Q99MVq4-2BL2BFyWUj-2B98tNNt8dStX5YyaxOryvESuDq5FpKyVFXLj2Fv=
+DjrLtMa2-2BeidyY3BRh47MEJt1h2aKfnsZ8REXCSRlDeMr_TBq2QQ7jWGlhJf3NSmhcqVloOyL=
+FwMHQCYu1y-2F-2B3K6E7OahMMZlZX1BDDEswXsN4tl3nUqjhQrazPcRIqq60CuheAteKY-2Fne=
+V2fg-2F-2BuGL4Du7ZKLYTk-2BsdrG0Z-2Fs6WK8DTzaWFxERHmV7-2FNd9VheSdwhuQofA2eLA=
+aRhTrCQXcWAJ8yvOza8wJD9ZOR70i2iD4UIjmbOfmjcLKZ2W5RNYc-2BDTbe6RGHwDW5H4LTYtk=
+YdZfmTNvVGjSUWT9OML3qF2TVCnqB6SWwLLklNyIVnXu91yTEbhJPikUpVEa4u-2BIk-2FGN-2F=
+7-2BR-2F-2B3am-2FTaT3-2BhLSFMpCkX0xCN7oZv1jG2S4CnAqFmBWT3bv4K-2FpM2JVwp5rVK=
+DvgirHvk3z1KpzTVGvmnDqZqCem00uHoD0jDNp-2BPIcjtpr-2BYY6G-2F-2FjRl-2BkD8PbBnU=
+tmccMCmt2-2FHyEAvHvf0FEknJLubDLG3YP4b-2F-2FbJ5Ff0kiq0-2BzVCikqDl8MLDxZHIlOz=
+IN6sfV5z-2BEuI3gXXyhgRxUOwv13nwYuQemX0yrwh-2Fty15O8SEuJBeVzzkBq84fFwmkfouXf=
+U2B5gkxYfLSZ356RdN9-2FP08okvl6g-3D-3D]
+
+WASD Midia Digital, Rua Rio Comprido, Minas Gerais, Brazil
+
+--75b2d3e142989c43feaceaeb6b4aa03288ac83582ce019fd23b544837403
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border:0 solid black;vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+padding-bottom:0px;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:16px;line-height:18px;text-align:left;color:black;""
+      ><b>Hello, Norma!<br/></b><br/>After a thorough review, we found that=
+ your profile aligns perfectly with our top recommendations.<br/><br/>In fa=
+ct, many of our readers have been approved for this card, making it the one=
+ with the <b>highest approval rate among them</b>.<br/><br/>Tap the button =
+below to see how to claim yours:<br/></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""left"" vertical-align=3D""middle"" style=3D""font-s=
+ize:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#eced17"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:5px 5px 5px 5px;cursor:auto;mso-=
+padding-alt:10px 25px;background:#eced17;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du=
+001.85uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2CzhdSwHXmK-2FiqQ-2Bxug3=
+-2BGVqbdkxW7qzIcOXgLPAD9cUWvdmPsf7bpBnhxNG1Z1oYos14GBe-2F1CAQeCi1XSqQ47tlq7=
+e-2BAzO15dtlXvncgUOXPBHCOUbERol7y5BvSmvgsPKKDtAGHUNXPDRATmn1pzbsBdLfXa9E3sF=
+TVhxkoe-2Fuq0T8O10EisftFY-2FyQElVydvGaQIVw-2F4Qd8giFaKIDhRgET-2BFEfkKeiZlv-=
+2FqA2ovYYzD7II2qiO7TGqUokP-2B1LRhy-2FiWk1Ft8BfWpnesgVvKQ-2FCkEco1EG90uAn0oo=
+WXQAWPkN0grC7bSSjtDXGqtCX1dro3XY95jlIFRiiHq-2BIm0lchoPiXp6y3VaCWhSCYlYyt2Sl=
+Q8WLxnmmzQE0FwI-3DY9F4_TBq2QQ7jWGlhJf3NSmhcqVloOyLFwMHQCYu1y-2F-2B3K6E7OahM=
+MZlZX1BDDEswXsN4tl3nUqjhQrazPcRIqq60CuheAteKY-2FneV2fg-2F-2BuGL4Du7ZKLYTk-2=
+BsdrG0Z-2Fs6WK8DTzaWFxERHmV7-2FNd9VheSdwhuQofA2eLAaRhTrCQXcWAJ8yvOza8wJD9ZO=
+R70i2iD4UIjmbOfmjcLKZ2W5RNYc-2BDTbe6RGHwDW5H4LTYtkYdZfmTNvVGjSUWT9OML3qF2TV=
+CnqB6SWwLLklNyIVnXu91yTEbhJPikUpVEa4u-2BIk-2FGN-2F7-2BR-2F-2B3am-2FTaT3-2Bh=
+LSFMpCkX0xCN7oZv1jG2S4CnAqFmBWT3bv4K-2FpM2JVwp5rVKDvgirHvk3z1KpzTVGvmnDqZqC=
+em00uHoD0jDNp-2BPIcjtpr-2BYY6G-2F-2FjRl-2BkD8PbBnUtmccMCmt2-2FHyEAvHvMQw12b=
+jIPDUdsj0c8I3Btt9n1PBZvlDIO7DNREvNm66p-2FqECjodJpGZPBYLZtcQDkShHLo05a52nrKF=
+X3G29nczSjAbXQwiX94prvOuj8Pzx8unyJir1EOfrZaEaKtsor9N0wCB1NPwCBq5D3yAhlA-3D-=
+3D"" style=3D""display:inline-block;background:#eced17;color:#000000;font-fam=
+ily:Ubuntu, Helvetica, Arial, sans-serif;font-size:24px;font-weight:700;lin=
+e-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10p=
+x 25px;mso-padding-alt:0px;border-radius:5px 5px 5px 5px;"" target=3D""_blank=
+""
+              >
+                GET YOUR CARD<br/>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+padding-top:20px;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:left;color:black;""
+      ><span style=3D""font-family:arial, &quot;helvetica neue&quot;, helvet=
+ica, sans-serif;font-size:16px;"">After all, tell me if it went well. If you=
+ have any questions, let me know. Until the next contact.</span><br style=
+=3D""font-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;fo=
+nt-size:16px;""/><br style=3D""font-family:arial, &quot;helvetica neue&quot;,=
+ helvetica, sans-serif;font-size:16px;""/><span style=3D""font-family:arial, =
+&quot;helvetica neue&quot;, helvetica, sans-serif;font-size:16px;"">Jackson<=
+/span><br/><div><span style=3D""color:rgb(51, 51, 51);font-family:arial, &qu=
+ot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-align:-w=
+ebkit-center;""><br/></span></div></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      ><div><br/></div><span style=3D""color:rgb(51, 51, 51);font-family:ari=
+al, &quot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-a=
+lign:-webkit-center;"">We aim to help you. If you are dissatisfied and no lo=
+nger want our emails,=A0</span><a target=3D""_blank"" data-cke-saved-href=3D""=
+%UNSUBSCRIBELINK%"" href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=
+=3Du001.85uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2CzhdSwHXmK-2FiqQ-2B=
+xug3-2BGVqbdkxW7qzIcOXgLPAD9cUWvdmPsf7bpBnhxNG1Z1oYos14GBe-2F1CAQeCi1XSqQ47=
+4yV7RY5aX0hYdZaQL-2BsCnKhnp94tPeCcGZSdZmFnMFMU6s0M-2FIhWp1fvVKZ0tcHw3sFpzWf=
+NC1nkJ55vQoDNhPA894VocGTnGxdMgo6lBgGZuHmWZDEgECjDzWyiT1-2BQjS1rpgQcYSmRjXVw=
+yYsJOA-3D-3D1SFb_TBq2QQ7jWGlhJf3NSmhcqVloOyLFwMHQCYu1y-2F-2B3K6E7OahMMZlZX1=
+BDDEswXsN4tl3nUqjhQrazPcRIqq60CuheAteKY-2FneV2fg-2F-2BuGL4Du7ZKLYTk-2BsdrG0=
+Z-2Fs6WK8DTzaWFxERHmV7-2FNd9VheSdwhuQofA2eLAaRhTrCQXcWAJ8yvOza8wJD9ZOR70i2i=
+D4UIjmbOfmjcLKZ2W5RNYc-2BDTbe6RGHwDW5H4LTYtkYdZfmTNvVGjSUWT9OML3qF2TVCnqB6S=
+WwLLklNyIVnXu91yTEbhJPikUpVEa4u-2BIk-2FGN-2F7-2BR-2F-2B3am-2FTaT3-2BhLSFMpC=
+kX0xCN7oZv1jG2S4CnAqFmBWT3bv4K-2FpM2JVwp5rVKDvgirHvk3z1KpzTVGvmnDqZqCem00uH=
+oD0jDNp-2BPIcjtpr-2BYY6G-2F-2FjRl-2BkD8PbBnUtmccMCmt2-2FHyEAvHvkQnaoWGyS46Z=
+PlaYUdOgdwPLPG-2B2JGj9ACvar8x4n2C6TQNizxdO92vGyZVC1uRjn5x7iPtKTvmxk0yCRS-2B=
+cm40bDk-2FXD-2F9lHvAjSFKcHXEWug1w-2BFPgHD1XVAivuEJ10zoucCLxxXL3mCgf-2BdezZQ=
+-3D-3D"" __p=3D""undefined"" style=3D""text-size-adjust:none;color:rgb(0, 0, 23=
+8);font-size:10px;font-family:arial, &quot;helvetica neue&quot;, helvetica,=
+ sans-serif;text-align:-webkit-center;border:0 solid black;"">click here.</a=
+><br style=3D""color:rgb(51, 51, 51);font-family:arial, &quot;helvetica neue=
+&quot;, helvetica, sans-serif;font-size:10px;text-align:-webkit-center;""/><=
+div><span style=3D""color:rgb(51, 51, 51);font-family:arial, &quot;helvetica=
+ neue&quot;, helvetica, sans-serif;font-size:10px;text-align:-webkit-center=
+;"">WASD Midia Digital, Rua Rio Comprido, Minas Gerais, Brazil<br/></span></=
+div></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DDPGOML9K5N&c=3D6EYRRG0QYO&s=3D172808536"" /><img src=3D""=
+https://u51365833.ct.sendgrid.net/wf/open?upn=3Du001.5pZbzhqNBBJQz6a-2Bdt1K=
+lEere4Q4jHrfTuF7S-2Bj5LspPyFum3okkJ9NHZfB-2F0BB3f5JNQmXQFWOWsCw7R7Z5zBW-2FV=
+sxvzhiSC71GqrdmhsZAgo20DRSgbTTxf6BX4f0xfSi1qwehJ9TCMQepc4l3CVFgJJfxQKyZdccH=
+asb5K1cI8-2BVFgiOF2a3pA-2FrBR5WKfB5K-2FmfEIbtvRsoLtD4bXLOGvXoJa68QvHd3sJAep=
+EZjSF1iTU9MFsyWPswD-2F7o88FQ6QaRWw-2FrsqHRbYlVQvSZt9fhxFQp7d7ZmeeTe9opntSmB=
+Z9wbeNx-2B6CztwpyKYO4XAyWvAwOcyrGIOJBiBXM9vCqoy-2BAAr5TE6KEJWvAsmA5utNcAKk-=
+2Bv2bNASRn7eLblaha0rCkERyMXwsjvYJafH7p-2BTxeH4WtnA1PoxyFkAO3E0-2FyzPQ0gKn-2=
+FXBcrUqtEGNtNEylM0oMOpRKnpOPXcz7jETuSPLMpizK6O1hVKbjj77jlKfwjQQV0BZBEALFPOK=
+lQ2hKIcL6eN8ZcrscZyqAVMJ240J6jjgg10zQ-2FFY-2BAuHU5-2BU1SKZUWHJcaU3JoZv-2F5V=
+RCAoD78v1dN7gQ-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+ =20=
+
+--75b2d3e142989c43feaceaeb6b4aa03288ac83582ce019fd23b544837403--
+","""Notification"" <contact@infoatualizada.com>",pinky14821@gmail.com,2025-03-27,3.226.58.111,United States,en,users/51365833/1d51d565-8253-454d-b428-d91e723d29bb.json
+51365833,NHpZY6peS4O1RZ9RTFFeLA.recvd-69cbc48b94-4wm29-1-67EC87FD-12.0,cHJvY2Vzc2VkLTUxMzY1ODMzLU5IcFpZNnBlUzRPMVJaOVJURkZlTEEtMA,You hit the jackpot,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infoatualizada.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=iyUvNldf0nbv/p3zTsVHSIvL7cIk5pHiU4bZ5bUXZz0=;
+	b=QBTQNJIwkJnhypnWuovMIbzf+j2+HZCuaEc3uDdJxo49J1JrCzy8pOtyGitm2h+IdXNk
+	hHIznpnZGGKY3tK1qVwQuhh9jrZ3GWKggKnFrw72SF2mV++3Ch1dbSewxAvQTZ7KeajBTy
+	Kp5C9F/ygCDRXdd7v0+5gxNMmJoFLfxiA+g/gDlAJYfTJxSV44+nfWbbxAkUgb+YjTqxMM
+	a55hlDNu7oVbemVuXoSHJ++2oOGqaOrF+7hlZCDD9WbgHARKuSKSvOD4LK/vDdIh5kqb8l
+	X7e8E68SwnffouQIbhL9Ml7btEFohVzmY31CiOi363lN4jNV6w7A16cSR5DW6+9w==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=iyUvNldf0nbv/p3zTsVHSIvL7cIk5pHiU4bZ5bUXZz0=;
+	b=RTxV75Ukzbz3CpTf3g+LwDzrYoQvWywE6w/9SKtfzoyZye67db+hSsWlZZ7n+bzK+zS0
+	ap264+rmG+yzMCPnZqTJbiQcgDio1HCvRzBvPz736W4u1KPeNHYyLwp0UVpRqSCK+Tu0Lj
+	W4LqcDD2nitJspcTed6v9X8yxSOQXkFbs=
+Received: by recvd-69cbc48b94-4wm29 with SMTP id recvd-69cbc48b94-4wm29-1-67EC87FD-12
+	2025-04-02 00:42:37.555576046 +0000 UTC m=+11935086.761077328
+Received: from NTEzNjU4MzM (unknown)
+	by geopod-ismtpd-12 (SG) with HTTP
+	id NHpZY6peS4O1RZ9RTFFeLA
+	Wed, 02 Apr 2025 00:42:37.549 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=2af82afc518641984c0e23ac9ad4317f20810448bab6c9e71f5d4d8fe0fc
+Date: Wed, 02 Apr 2025 00:42:37 +0000 (UTC)
+From: ""Jackson Info.A"" <contact@infoatualizada.com>
+Mime-Version: 1.0
+Message-ID: <ecb2d9a3-9bda-92b9-58b2-79c098766f0c@infoatualizada.com>
+Subject: You hit the jackpot
+Reply-To: contact@infoatualizada.com
+X-Campaign-Id: 9G538R2OYN
+X-Subscription-Id: 
+list-unsubscribe: 
+ <https://ermes.publinker.com/unsubscribe/email?u=&c=9G538R2OYN>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E6D2AGLPVUH1K0y1z1t=2Fd3xnDLYFAJjWxeu2PqCMHe1Wi8JeLLTqqYECgC?=
+ =?us-ascii?Q?ghFi2zl4QGhtJqRnVVh54995jS7uFnb4wI13S9t?=
+ =?us-ascii?Q?rRPnmB+6EScspFh5OAtFXTSVASS7h7EPyobDs1v?=
+ =?us-ascii?Q?sW5jg9ZLqA04zC74ZLXxxMjYhgECLgxmcfGpSOC?=
+ =?us-ascii?Q?aU8hkjDRgkN16iaBC06BGoSqXS9cY1o5Z5KlU5=2F?=
+ =?us-ascii?Q?RbGKp74kE79VFYgRVmjsbueztWbvTwmwmkq+zLb?= =?us-ascii?Q?Gvhj?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRfM=2FC23y8ANR9UuKf7CJAKZ3sO+FOcC5y?=
+ =?us-ascii?Q?HT9lUTyuOSuluyq3IA8EA5mji3Rbo9xK3fDmglf?=
+ =?us-ascii?Q?GDSFvVC8Q5ofELOPeccdAOj+DrQqIfp6aq+SO2k?=
+ =?us-ascii?Q?tRK8J=2FcGirc1nB2X4E9rRrnbe0nH6qMXP1Ux0Dm?=
+ =?us-ascii?Q?NOCL=2FGCKFlosPY7I8x3mt07thxz2aQa=2FYjyhlEk?=
+ =?us-ascii?Q?dysklP6+FcziFOz+20UX3bulQqno0CSmooPa4wJ?=
+ =?us-ascii?Q?IFPlVYjoGuv4b+nS4nsMb3LbualXPBD0KLjT+X4?=
+ =?us-ascii?Q?HHN5hBHkzZQ7A4NGU725FMW=2FXJ3pT+=2FGvThXL6D?=
+ =?us-ascii?Q?yoyaIHhns2+go+3?=
+To: juninhoperrut@gmail.com
+X-Entity-ID: u001.8zg7vqJNOf+QRrnbo/0U4A==
+
+--2af82afc518641984c0e23ac9ad4317f20810448bab6c9e71f5d4d8fe0fc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+=A0Hello!
+
+
+Your recommendation request has arrived, and we have good news:
+
+After a thorough review, we found that your profile aligns with our top
+recommendations.
+
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyqoALw5i9WgdtYGmyZpZPxxYHPRxn3RktyDgR9eqtLVhirUarDN8pZ3coCCgVv2LroVcOq05-=
+2BhnpfO5V8HgYnJo-3DqSps_K0zE8qIoGuRpQLFwyV-2Fru1-2BSR0MNEhPeVDJp3VBaHeraUWT=
+MiuTDwRFqAc8YNn6337Iv9ABZt8aHahtsgpvMaIxyczQ1l96rkfnGZS5A41V3vmNFYLoBrtT8Yc=
+Orxf3tywjlazOs1e2lulDr0tvPeT0jTJcv15oaysCK5Hl9ZhYbdOLVu5p-2Btq6YH7Hr-2BUID3=
+SawLghFf917qpS2D-2FBVMzMmnfYXT0F3AUZu9qTWSinfQEi7VB65vAAPRXn9p-2F0JctikzZ9g=
+QDErzxZEzQbIqzMO42PMEw1-2BL46cfqYQ4U11moj3lu-2BS-2BIhvG51R-2F5qpeLgcaoY7Z-2=
+Bz1pkZvpLPuoVCb0WYI-2Bl-2BdxAbSUL6SD5BvtZOrr6ByyWeDvI4ztdme7XlQlA6CAbwZzh2d=
+9-2FaPUjbQpRnBxMvDMJxTL3vypFWoVWgYadZ-2FPHbbn-2FNiaz4oALJ8cYL-2FGonCJ0KZ-2F=
+cOh64xTBNS5-2FbmFIIO7JpvHisD1W7GDalAm1W3brtjJhcwD2c4iXdschkmWUyP7rI4Xk6fhHf=
+gcKbvkxBMcRr3VsSY-3D]
+https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atPa=
+KyvGysDt7YpDPi723vm9dw11YKTavecam1-2F4F15JScvUjyWDmuPuJsi8IU2-2F3SQ-2FsT2eH=
+hh79CIJ3veIdD7nqnlczTUi9bq920NdWfqQ1lFgWh3o1awg-2FUizlRXi7Pq557bGq74IDYZRMc=
+kUdpuOqXZXl7cCS4DgZgPVkeFXMdZOIUFBNTIzzJEO1M0M06c-2Fkhg-3D-3De5uw_K0zE8qIoG=
+uRpQLFwyV-2Fru1-2BSR0MNEhPeVDJp3VBaHeraUWTMiuTDwRFqAc8YNn6337Iv9ABZt8aHahts=
+gpvMaIxyczQ1l96rkfnGZS5A41V3vmNFYLoBrtT8YcOrxf3tywjlazOs1e2lulDr0tvPeT0jTJc=
+v15oaysCK5Hl9ZhYbdOLVu5p-2Btq6YH7Hr-2BUID3SawLghFf917qpS2D-2FBVMzMmnfYXT0F3=
+AUZu9qTWSinfQEi7VB65vAAPRXn9p-2F0JctikzZ9gQDErzxZEzQbIqzMO42PMEw1-2BL46cfqY=
+Q4U11moj3lu-2BS-2BIhvG51R-2F5qpeLgcaoY7Z-2Bz1pkZvpLPuoVCb0WYI-2Bl-2BdxAbSUL=
+6SD5BvtZOrr6ByyWeDvI4ztdme7XlQlA6CAbwZzh2d9-2FaPUrT7TpGfTs-2Bgam8G87Tjh8VlR=
+lABBvPWh9xgtNlxtlH9VLEz-2FP7gOsJaw0d-2BlOGGb0NmH9-2B8z53-2BOyQHB9KisxktKctP=
+U5MIp1-2F7rLHpIgf-2FoulmC98kYZKz9je89WSOOy8mYDoJ5gpECXs-2Bh1g0wEA-3D
+
+Click the button below to access what you deserve:
+
+OPEN MY ACCESS
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyvGysDt7YpDPi723vm9dw11YKTavecam1-2F4F15JScvUjyWDmuPuJsi8IU2-2F3SQ-2FsT2e=
+Hhh79CIJ3veIdD7nqnlczTUi9bq920NdWfqQ1lFgWh3o1awg-2FUizlRXi7Pq557bGq74IDYZRM=
+ckUdpuOqXZXl7cCS4DgZgPVkeFXMdZOIUFBNTIzzJEO1M0M06c-2Fkhg-3D-3DxnHc_K0zE8qIo=
+GuRpQLFwyV-2Fru1-2BSR0MNEhPeVDJp3VBaHeraUWTMiuTDwRFqAc8YNn6337Iv9ABZt8aHaht=
+sgpvMaIxyczQ1l96rkfnGZS5A41V3vmNFYLoBrtT8YcOrxf3tywjlazOs1e2lulDr0tvPeT0jTJ=
+cv15oaysCK5Hl9ZhYbdOLVu5p-2Btq6YH7Hr-2BUID3SawLghFf917qpS2D-2FBVMzMmnfYXT0F=
+3AUZu9qTWSinfQEi7VB65vAAPRXn9p-2F0JctikzZ9gQDErzxZEzQbIqzMO42PMEw1-2BL46cfq=
+YQ4U11moj3lu-2BS-2BIhvG51R-2F5qpeLgcaoY7Z-2Bz1pkZvpLPuoVCb0WYI-2Bl-2BdxAbSU=
+L6SD5BvtZOrr6ByyWeDvI4ztdme7XlQlA6CAbwZzh2d9-2FaPUrAVjJFRfURG7WGuBR6AzEWQNK=
+mlkf3oKeMOENTwhNK1UlICBmcczwzN9B-2FJe-2FjFTa5EfYfmhFaDY-2FGVQcB1AQ2HO-2Bo1X=
+UAqfrOXf8sI3O4ToK0yZVEhfv9HAvarTewLF0tEdayRqNp5gCCzclRL76U-3D]
+
+Stay with us for more tips and recommendations.
+
+Jackson
+
+
+
+
+
+
+We aim to help you. If you are dissatisfied and no longer want our emails,=
+=A0click
+here. [https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0=
+tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2BFyWUj-2B98tNNt8dStX5YyavKbkpsiJA2qTjA18f=
+BCfvwcOsSCFXB7TgZM09bSIxvs-3DW9zn_K0zE8qIoGuRpQLFwyV-2Fru1-2BSR0MNEhPeVDJp3=
+VBaHeraUWTMiuTDwRFqAc8YNn6337Iv9ABZt8aHahtsgpvMaIxyczQ1l96rkfnGZS5A41V3vmNF=
+YLoBrtT8YcOrxf3tywjlazOs1e2lulDr0tvPeT0jTJcv15oaysCK5Hl9ZhYbdOLVu5p-2Btq6YH=
+7Hr-2BUID3SawLghFf917qpS2D-2FBVMzMmnfYXT0F3AUZu9qTWSinfQEi7VB65vAAPRXn9p-2F=
+0JctikzZ9gQDErzxZEzQbIqzMO42PMEw1-2BL46cfqYQ4U11moj3lu-2BS-2BIhvG51R-2F5qpe=
+LgcaoY7Z-2Bz1pkZvpLPuoVCb0WYI-2Bl-2BdxAbSUL6SD5BvtZOrr6ByyWeDvI4ztdme7XlQlA=
+6CAbwZzh2d9-2FaPUhSourDEVmjnHGK40DGKyO-2Fy6SloAJXK1FcIjBCsRx27x8B1o45rmrPkT=
+gOnk1zU84bEmLPoxWcq38GXpnpWXQ6uW1I7e8cl9bkCurfuPi-2FO6gKowXJXS5R6ovC3EzJC37=
+8xipPC5HeHRqhFbqi2ckw-3D]
+
+WASD Midia Digital,Rua Rio Comprido, Minas Gerais, Brazil
+--2af82afc518641984c0e23ac9ad4317f20810448bab6c9e71f5d4d8fe0fc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DRoboto:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+<link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,400,500,=
+700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DRoboto:300,=
+400,500,700);
+@import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,400,500,70=
+0);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border:0 solid black;vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:left;color:black;""
+      ><p style=3D""margin-top:0px;margin-bottom:0px;text-size-adjust:none;f=
+ont-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;line-he=
+ight:30px;color:rgb(51, 51, 51);font-size:16px;text-align:-webkit-center;le=
+tter-spacing:0px;border:0 solid black;"">=A0Hello!<br/></p><p style=3D""margi=
+n-top:0px;margin-bottom:0px;text-size-adjust:none;font-family:roboto, &quot=
+;helvetica neue&quot;, helvetica, arial, sans-serif;line-height:34px;color:=
+rgb(51, 51, 51);font-size:16px;text-align:-webkit-center;border:0 solid bla=
+ck;"">Your recommendation request has arrived, and we have good news:</p></d=
+iv>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:16px;line-height:1;text-align:center;color:black;""
+      ><span id=3D""idlfc-2"" draggable=3D""false"" class=3D""gjs-selected"" styl=
+e=3D""font-family:roboto, &quot;helvetica neue&quot;, helvetica, arial, sans=
+-serif;font-size:16px;text-align:-webkit-center;border:0px solid black;"">Af=
+ter a thorough review, we found that your profile aligns with our top recom=
+mendations.</span></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:550px;"">
+             =20
+        <a
+           href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85=
+uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2ARHy6VnbK2Cx8qt30I8huzehK7ajp=
+TyewGwQ5DrvqhciGrUMlHKmOGensynMNWVsR2LHA-2BecJNC9TQOQvmM6llpneau2KYMjhBWjMY=
+rnfFLDUIoF0xKepsaH4iflyhwe8JSttoV4UFHNdLVU-2FwA-2BLn5xb6Z0d15LQb1tmTJiue9PN=
+cocDMsQD2u6yHFZ1bIg0ZrBEFbdfJ1BvUob8LaCl0P9-2FVN4Z2FmPLyTM-2B5kS1QxBUr9lLpI=
+CWnQ0yK7oAXtin72BAPXR6g88gM4uXN1HuWpEKEhxroO21pWGclEF-2FO2BG-2FzJnV10pJFKEz=
+IXr7Uk-3DH0b-_K0zE8qIoGuRpQLFwyV-2Fru1-2BSR0MNEhPeVDJp3VBaHeraUWTMiuTDwRFqA=
+c8YNn6337Iv9ABZt8aHahtsgpvMaIxyczQ1l96rkfnGZS5A41V3vmNFYLoBrtT8YcOrxf3tywjl=
+azOs1e2lulDr0tvPeT0jTJcv15oaysCK5Hl9ZhYbdOLVu5p-2Btq6YH7Hr-2BUID3SawLghFf91=
+7qpS2D-2FBVMzMmnfYXT0F3AUZu9qTWSinfQEi7VB65vAAPRXn9p-2F0JctikzZ9gQDErzxZEzQ=
+bIqzMO42PMEw1-2BL46cfqYQ4U11moj3lu-2BS-2BIhvG51R-2F5qpeLgcaoY7Z-2Bz1pkZvpLP=
+uoVCb0WYI-2Bl-2BdxAbSUL6SD5BvtZOrr6ByyWeDvI4ztdme7XlQlA6CAbwZzh2d9-2FaPUoNL=
+Kp07WUecUhWYqUYJDi9319AAb1v0MSKyO9t6zz8aZ8Z2lRYOdCeSsrdsIure-2B4UcOH-2Bxb9x=
+EDDW1UEhz21eG3DfkXcS91u3xFKbPYnVWuzV0ZZvtbebr0kcXv63j23KhxMxwVpBKEFLkVox0uZ=
+o-3D"" target=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/3cecde4c-ceb8-49ec-ba0b-ffe8e87f1=
+008.gif"" style=3D""border:0 solid black;display:block;outline:none;text-deco=
+ration:none;height:200px;width:100%;font-size:13px;"" width=3D""550"" height=
+=3D""200""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      ><span id=3D""i7rt6-2"" draggable=3D""false"" style=3D""font-family:roboto=
+, &quot;helvetica neue&quot;, helvetica, arial, sans-serif;font-size:16px;t=
+ext-align:-webkit-center;border:0px solid black;""><strong id=3D""indxb-2"" dr=
+aggable=3D""false"" class=3D""gjs-selected"" style=3D""color:rgb(51, 51, 51);fon=
+t-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;font-size=
+:17px;"">Click the button below to access what you deserve:</strong></span><=
+/div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#39056a"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:5px 5px 5px 5px;cursor:auto;mso-=
+padding-alt:10px 25px;background:#39056a;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du=
+001.85uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2ARHy6VnbK2Cx8qt30I8huze=
+hK7ajpTyewGwQ5DrvqhciGrUMlHKmOGensynMNWVsR2LHA-2BecJNC9TQOQvmM6llpneau2KYMj=
+hBWjMYrnfFLDUIoF0xKepsaH4iflyhwe8JSttoV4UFHNdLVU-2FwA-2BLn5xb6Z0d15LQb1tmTJ=
+iue9PNcocDMsQD2u6yHFZ1bIg0ZrBEFbdfJ1BvUob8LaCl0P9-2FVN4Z2FmPLyTM-2B5kS1QxBU=
+r9lLpICWnQ0yK7oAXtin72BAPXR6g88gM4uXN1HuWpEKEhxroO21pWGclEF-2FO2BG-2FzJnV10=
+pJFKEzIXr7Uk-3DetkK_K0zE8qIoGuRpQLFwyV-2Fru1-2BSR0MNEhPeVDJp3VBaHeraUWTMiuT=
+DwRFqAc8YNn6337Iv9ABZt8aHahtsgpvMaIxyczQ1l96rkfnGZS5A41V3vmNFYLoBrtT8YcOrxf=
+3tywjlazOs1e2lulDr0tvPeT0jTJcv15oaysCK5Hl9ZhYbdOLVu5p-2Btq6YH7Hr-2BUID3SawL=
+ghFf917qpS2D-2FBVMzMmnfYXT0F3AUZu9qTWSinfQEi7VB65vAAPRXn9p-2F0JctikzZ9gQDEr=
+zxZEzQbIqzMO42PMEw1-2BL46cfqYQ4U11moj3lu-2BS-2BIhvG51R-2F5qpeLgcaoY7Z-2Bz1p=
+kZvpLPuoVCb0WYI-2Bl-2BdxAbSUL6SD5BvtZOrr6ByyWeDvI4ztdme7XlQlA6CAbwZzh2d9-2F=
+aPUpqtX-2FGNmrd2F1HnimALoZQGErKgJKaXIa1w9N8DTbu9vwFhrIzGTx7jCwk4wqyYtiqghqr=
+NfnjAaKbMZ0VcfRySD1uXhWrck-2FamvPq79g2OSLmxkzZBncL-2BnmRld81JscPWdiD1EzN-2F=
+ZFHgl7UF9tM-3D"" style=3D""display:inline-block;background:#39056a;color:#fff=
+fff;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:24px;font-we=
+ight:700;line-height:120%;margin:0;text-decoration:none;text-transform:none=
+;padding:10px 25px;mso-padding-alt:0px;border-radius:5px 5px 5px 5px;"" targ=
+et=3D""_blank""
+              >
+                OPEN MY ACCESS
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:left;color:black;""
+      ><span style=3D""color:rgb(51, 51, 51);font-family:roboto, &quot;helve=
+tica neue&quot;, helvetica, arial, sans-serif;font-size:14px;"">Stay with us=
+ for more tips and recommendations.</span><br style=3D""font-family:arial, &=
+quot;helvetica neue&quot;, helvetica, sans-serif;font-size:16px;""/><br styl=
+e=3D""font-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;f=
+ont-size:16px;""/><span style=3D""font-family:arial, &quot;helvetica neue&quo=
+t;, helvetica, sans-serif;font-size:16px;"">Jackson</span><br/><div><span st=
+yle=3D""color:rgb(51, 51, 51);font-family:arial, &quot;helvetica neue&quot;,=
+ helvetica, sans-serif;font-size:10px;text-align:-webkit-center;""><br/></sp=
+an></div></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      ><div><br/></div><br style=3D""color:rgb(51, 51, 51);font-family:arial=
+, &quot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-ali=
+gn:-webkit-center;""/><span style=3D""color:rgb(51, 51, 51);font-family:arial=
+, &quot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-ali=
+gn:-webkit-center;"">We aim to help you. If you are dissatisfied and no long=
+er want our emails,=A0</span><a data-cke-saved-href=3D""%UNSUBSCRIBELINK%"" h=
+ref=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0=
+tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2ARHy6VnbK2Cx8qt30I8huzehK7ajpTyewGwQ5Drvq=
+hchd4LDpk7m-2FwSLcqFaD2GLWNWKa1yoyBt4qn5DxT24yujwL9Kg-2FFLbovoym9sVxSJFbRC-=
+2FkDj4TK0TWqAco4PkI6MptOozTgDNqs-2FxXpqVkiuFTRDirAhif8uzDeLgBk3g-3D-3Dh6Oy_=
+K0zE8qIoGuRpQLFwyV-2Fru1-2BSR0MNEhPeVDJp3VBaHeraUWTMiuTDwRFqAc8YNn6337Iv9AB=
+Zt8aHahtsgpvMaIxyczQ1l96rkfnGZS5A41V3vmNFYLoBrtT8YcOrxf3tywjlazOs1e2lulDr0t=
+vPeT0jTJcv15oaysCK5Hl9ZhYbdOLVu5p-2Btq6YH7Hr-2BUID3SawLghFf917qpS2D-2FBVMzM=
+mnfYXT0F3AUZu9qTWSinfQEi7VB65vAAPRXn9p-2F0JctikzZ9gQDErzxZEzQbIqzMO42PMEw1-=
+2BL46cfqYQ4U11moj3lu-2BS-2BIhvG51R-2F5qpeLgcaoY7Z-2Bz1pkZvpLPuoVCb0WYI-2Bl-=
+2BdxAbSUL6SD5BvtZOrr6ByyWeDvI4ztdme7XlQlA6CAbwZzh2d9-2FaPUjePeZEudAMuY59SyG=
+TaQXBSKLkuRNdbaJ4S-2BT7QauQVAkad9-2Bpui61J1IkmoZ2DxX0bLmTL-2BEI8ST7kzXzXGF8=
+gtnO-2FVZiGJqI5OE6DiQdjcsTKGAhE8x4SN4m3X3A7YjRePW7gcGDWJqRrU1rJfHc-3D"" styl=
+e=3D""text-size-adjust:none;color:rgb(0, 0, 238);font-size:10px;font-family:=
+arial, &quot;helvetica neue&quot;, helvetica, sans-serif;text-align:-webkit=
+-center;border:0 solid black;"">click here.</a><br style=3D""color:rgb(51, 51=
+, 51);font-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;=
+font-size:10px;text-align:-webkit-center;""/><div><span style=3D""color:rgb(5=
+1, 51, 51);font-family:arial, &quot;helvetica neue&quot;, helvetica, sans-s=
+erif;font-size:10px;"">WASD Midia Digital,Rua Rio Comprido, Minas Gerais, Br=
+azil</span></div></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3D&c=3D9G538R2OYN"" /><img src=3D""https://u51365833.ct.sen=
+dgrid.net/wf/open?upn=3Du001.8hcJt403zp-2Bugj-2BIirp8V1v8D6XTHv2t96fzYhBwJA=
+GRyFk-2FO-2FTxMgSrYWYnpDhkqySUXVe0EID4vtKCamPc08cCgdwj8xzi-2FoIQO8tzUL9ggnb=
+Vv75dzhYCY-2BKLnTitt3-2B8ItGox9-2F-2B084ZjW-2BeKWpXgdjpRA0CrjRqKbvNdO5XjjBg=
+pXdP26jnCZy52-2BWHYyCkXLma8zECv8kl9DytRc7pkPxk6CvNVzUUk9UvuXSB7GuKrd28j9ado=
+J8gveKtwT4EfoU1dsTswa-2BwRr7wux5JX-2FDpK4Z7xl74qyk6xUnQH6WoNUBwoMd56J-2BaUJ=
+XVhs1y7O-2FWg9e5ff00vZDV30-2FdTDEU8jSoGmvnM-2BLOy3zP-2Fcn3Ehiy2nORrVKVnNAjf=
+-2BY8uX6BIBDfcwaeIAXyibIT5VeXOvvG9xaC-2BoBbjYnvn40xzLTBim8VsE5mQk7DuQC-2BLK=
+CVzax6Ui6bTmXl0JWmClwJTRYMGUDf6Jsv8Hg-2BUL-2FRqaFV7LiRtEHJJSEzIomVMynkBoyCe=
+huqwteH6AwGG9BQPsEebGZkkVgtvT8-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/></bo=
+dy>
+</html>
+ =20=
+
+--2af82afc518641984c0e23ac9ad4317f20810448bab6c9e71f5d4d8fe0fc--
+","""Jackson Info.A"" <contact@infoatualizada.com>",juninhoperrut@gmail.com,2025-04-01,3.226.58.111,United States,en,users/51365833/721ad65c-afce-4680-a5f8-5d8311e0a88e.json
+51365833,Ob3lxd-PRd64hRHTrACDgQ.recvd-69cbc48b94-pgsv7-1-67EC2E0C-14.0,cHJvY2Vzc2VkLTUxMzY1ODMzLU9iM2x4ZC1QUmQ2NGhSSFRyQUNEZ1EtMA,You hit the jackpot,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infoatualizada.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=djacH8IKEVg6Fx2tOPa7+b3qDy0JXAgkNRfhaTvlzHM=;
+	b=Del/WV4dZED60cP12R8A8R66SkrJD3uDswcNOLSNPkHpliRMUWofv4wTSFC8/I5G7SOL
+	eJJqTLUeNJv6zaXLvmEGiqyHUpNi8Jn3SpHGJZwK+XPjBk6+At82XuCRs7uV5FttAkgH34
+	cXSgRGb0gENysSH1s06MTwT9I5w7hqK0xNuHH8na/KjNoE6wQ1JgNEpEwz/rQvsNgDf8+q
+	BCPl7kw+cOn1LEXTIpusHVZQ1XG804o7k6GDc8XVZ5GupXq2p2oWY4hkp8Q3q2k15DgLe+
+	gBnmpabU4HN02MmaKS3+By6vw+49N7nMxmzcSMQPqkjDpSa9V7CnqJ65VkVP1OCw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=djacH8IKEVg6Fx2tOPa7+b3qDy0JXAgkNRfhaTvlzHM=;
+	b=Uw+qS7OLoTeqG5gfa8D+TG/M8ZXoADZobN47N7huRKBBl62PT913khO494+tmrn6wY7S
+	xsA812F52ZLaj6JSkajtTbpUKuWHffUMtLz29Yxx2uAUlzJKcKSYnHJHSUQJPQatngdIzO
+	q90FBfb2ls3AiJcYvxp+a6UglWNHoowEw=
+Received: by recvd-69cbc48b94-pgsv7 with SMTP id recvd-69cbc48b94-pgsv7-1-67EC2E0C-14
+	2025-04-01 18:18:52.342058965 +0000 UTC m=+11912111.923759991
+Received: from NTEzNjU4MzM (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id Ob3lxd-PRd64hRHTrACDgQ
+	Tue, 01 Apr 2025 18:18:52.310 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=20267240ec13347198e132e084d69f9f27e11152a53c799d53a2b757be2b
+Date: Tue, 01 Apr 2025 18:18:52 +0000 (UTC)
+From: ""Jackson Info.A"" <contact@infoatualizada.com>
+Mime-Version: 1.0
+Message-ID: <412a76e9-c9ca-0173-68d1-e2f362d29211@infoatualizada.com>
+Subject: You hit the jackpot
+Reply-To: contact@infoatualizada.com
+X-Campaign-Id: 9G538R2OYN
+X-Subscription-Id: N21PKJ25RV
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3D75M8N2JR5G&c=3D?=
+ =?us-ascii?Q?9G538R2OYN&s=3D181929077=3E?=
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E6D2AGLPVUH1K0y1z1t=2Fd3xnDLYFAJjWxeu2PqCMHe1Wi8JeLLTqqYECgC?=
+ =?us-ascii?Q?ghFi2zl4QGhtJqRnVVh54995jS7uNUUHGaUzoiF?=
+ =?us-ascii?Q?GLWRgfUR4SNhSxuLQ2jINzdVFlhx2dhMdCcyqrn?=
+ =?us-ascii?Q?nmmsXVMYWHNEzK7wmL4UiNDQA=2FiqzKBk=2FJ181MZ?=
+ =?us-ascii?Q?wPO+Mk=2FMg5m0yhXLT82kv0nEHxXgxBOWuqbaHBb?=
+ =?us-ascii?Q?DFbnk3mzSvnIegPXrxijSiHMi8yv94AoFUnyA7O?= =?us-ascii?Q?Q1qi?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRfM=2FC23y8ANR9UuKf7CJAKZ3sO+FOcC5y?=
+ =?us-ascii?Q?HT9lUTyuOSstGgV+cTrwWA8XOynjPksGoKeYFsd?=
+ =?us-ascii?Q?6uMMQlyHHUQezPpRPbRuQD40L7bXapABztIXHe=2F?=
+ =?us-ascii?Q?wn4XBvgZzsZRRpuIqlLHlA9Ry2YUP9rhfWlz1CW?=
+ =?us-ascii?Q?SIoz33nB04E13y2yFYzAiGXCjBW6PXoUlmWedeO?=
+ =?us-ascii?Q?tbzxOFK8QvTUesWmLpmoSQq2HW+bQWGA+wjIuts?=
+ =?us-ascii?Q?7cmqKEzhQJzdML8nXzbH5rwtA5+BCafmhEpa1=2Fs?=
+ =?us-ascii?Q?sUu6+0HzVM9Tyw38uL4+u+=2FCIqtp=2Fsa3QsRWH9r?=
+ =?us-ascii?Q?RP4xzIJKcyl3DvDvFrcC0ZEBkD3En2dd3vvBKAw?=
+ =?us-ascii?Q?Xnzb2QwhQ3eihYNREK0=3D?=
+To: nogelys21@gmail.com
+X-Entity-ID: u001.8zg7vqJNOf+QRrnbo/0U4A==
+
+--20267240ec13347198e132e084d69f9f27e11152a53c799d53a2b757be2b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+=A0Hello!
+
+
+Your recommendation request has arrived, and we have good news:
+
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyqoALw5i9WgdtYGmyZpZPxxYHPRxn3RktyDgR9eqtLVhirUarDN8pZ3coCCgVv2LroVcOq05-=
+2BhnpfO5V8HgYnJo-3Dmi6-_50TxVN542nTW9HGXpELO3qtdJDP79kPfaatj2PVVh3Iygd5qhPj=
+QmX5QKOkJ48BkV0UQyrTZSTwexN2-2Bn5OiYwcdCEq8dmAxP4yo5wnWrRauEXQAK2wjmE2ShCc1=
+IDOe3zuQoA3mIEtbSL2CVnVmpIU6K1zgovgC7V2TyIZa1dfa84bvKlZ-2Fmpn-2FvIK0nQJhBZA=
+rojwArSwvV1qhq7Pw6aU0dA7Z8nEADTsceDl9BTO1kqyQNCiwGSWOfGttob6Vukjx4-2BfkC0g-=
+2BwNY7QdGmYLyWCCXnpcuSOMivSI29-2FJQXBRl-2BjmKCNVJ1Q4cZCUQlkV8MZYwFxux6t11KP=
+z10RSfiigPCLpBzEW7epB6hB6-2B86Bd5oUNQF6YfxwsA9H0qswbhC3SAS3XJTO-2F1pf1PHGvS=
+-2FXz1N66Rt5pyNCYlmt5H4NdSZKaX3rxeBx3vx7eAO16bEEbpn1K6U6-2BvbjZTbzRUz5FS19O=
+kxlQNjqaKQ4wIwA-2BVLJkbyA7ob-2FIUXaYyh81fMWKohGPEN0RQL-2FRipWxJEoOSwtMdIIte=
+lT2VioL2qjMtCJsv8ou30NXwvT-2BuoY8qc4Uqh4QSf9gvOM-2B20A-3D-3D]
+https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atPa=
+KyvGysDt7YpDPi723vm9dw11YKTavecam1-2F4F15JScvUjyWDmuPuJsi8IU2-2F3SQ-2FsT2eH=
+hh79CIJ3veIdD7nqnlczTUi9bq920NdWfqQ1lFgWh3o1awg-2FUizlRXi7Pq557bGq74IDYZRMc=
+kUdpuOqXZXl7cCS4DgZgPVkeFXMdZOIFG89C51wsvUc0XlT-2BJjQmWW2-2Fn9hzqi-2BEYE3aW=
+KYkJk-3D0SLr_50TxVN542nTW9HGXpELO3qtdJDP79kPfaatj2PVVh3Iygd5qhPjQmX5QKOkJ48=
+BkV0UQyrTZSTwexN2-2Bn5OiYwcdCEq8dmAxP4yo5wnWrRauEXQAK2wjmE2ShCc1IDOe3zuQoA3=
+mIEtbSL2CVnVmpIU6K1zgovgC7V2TyIZa1dfa84bvKlZ-2Fmpn-2FvIK0nQJhBZArojwArSwvV1=
+qhq7Pw6aU0dA7Z8nEADTsceDl9BTO1kqyQNCiwGSWOfGttob6Vukjx4-2BfkC0g-2BwNY7QdGmY=
+LyWCCXnpcuSOMivSI29-2FJQXBRl-2BjmKCNVJ1Q4cZCUQlkV8MZYwFxux6t11KPz10RSfiigPC=
+LpBzEW7epB6hB6-2B86Bd5oUNQF6YfxwsA9H0qswbhC3SAS3XJTO-2F1pf1PHGvS-2FXz1N66Rt=
+5pyNCYlmt5H4NdSZKaX3rxeBx3vx7eA4Du2hGHG1Aja0hbG3xmvgs0-2F8pTW0jMRSJrOXJ-2B4=
+9aQHTpZHQNCR9fs2BorblB0HqDkSt6DCzKt-2FML0-2F4yJwtINWnJASZLWG8lIYRd9yMHBYj0I=
+7Q7Krmt9I5qLj2f48sP-2Bu6jfCl3Stp9Hd5V-2BCYQ-3D-3D
+
+OPEN MY ACCESS
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyvGysDt7YpDPi723vm9dw11YKTavecam1-2F4F15JScvUjyWDmuPuJsi8IU2-2F3SQ-2FsT2e=
+Hhh79CIJ3veIdD7nqnlczTUi9bq920NdWfqQ1lFgWh3o1awg-2FUizlRXi7Pq557bGq74IDYZRM=
+ckUdpuOqXZXl7cCS4DgZgPVkeFXMdZOIFG89C51wsvUc0XlT-2BJjQmWW2-2Fn9hzqi-2BEYE3a=
+WKYkJk-3DJalS_50TxVN542nTW9HGXpELO3qtdJDP79kPfaatj2PVVh3Iygd5qhPjQmX5QKOkJ4=
+8BkV0UQyrTZSTwexN2-2Bn5OiYwcdCEq8dmAxP4yo5wnWrRauEXQAK2wjmE2ShCc1IDOe3zuQoA=
+3mIEtbSL2CVnVmpIU6K1zgovgC7V2TyIZa1dfa84bvKlZ-2Fmpn-2FvIK0nQJhBZArojwArSwvV=
+1qhq7Pw6aU0dA7Z8nEADTsceDl9BTO1kqyQNCiwGSWOfGttob6Vukjx4-2BfkC0g-2BwNY7QdGm=
+YLyWCCXnpcuSOMivSI29-2FJQXBRl-2BjmKCNVJ1Q4cZCUQlkV8MZYwFxux6t11KPz10RSfiigP=
+CLpBzEW7epB6hB6-2B86Bd5oUNQF6YfxwsA9H0qswbhC3SAS3XJTO-2F1pf1PHGvS-2FXz1N66R=
+t5pyNCYlmt5H4NdSZKaX3rxeBx3vx7eA0UG342FwfzZiVXcTiId8tj42gcktcTVbjx7xyO0zWU-=
+2BJPrybxhDp0c-2FnKrrPYDic4gw1-2FsMfgoQkgaIoL6FBxBYu9qGqiqzeyxRTuj5hli7Myr31=
+p2sWDgCFHP1cELAakTzNj8-2FKY6RBJHipW8P-2Bpg-3D-3D]
+
+Stay with us for more tips and recommendations.
+
+Jackson
+
+
+
+
+
+
+We aim to help you. If you are dissatisfied and no longer want our emails,=
+=A0click
+here.
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyh-2FMCmnyMkg0Q99MVq4-2BL2BFyWUj-2B98tNNt8dStX5YyavVXxxm1rgXAAYVy4bu8YowV=
+Ph8svXfGBKlMv-2BCo947wwglUGSSN2Inj1WrID2AYlOe5Y_50TxVN542nTW9HGXpELO3qtdJDP=
+79kPfaatj2PVVh3Iygd5qhPjQmX5QKOkJ48BkV0UQyrTZSTwexN2-2Bn5OiYwcdCEq8dmAxP4yo=
+5wnWrRauEXQAK2wjmE2ShCc1IDOe3zuQoA3mIEtbSL2CVnVmpIU6K1zgovgC7V2TyIZa1dfa84b=
+vKlZ-2Fmpn-2FvIK0nQJhBZArojwArSwvV1qhq7Pw6aU0dA7Z8nEADTsceDl9BTO1kqyQNCiwGS=
+WOfGttob6Vukjx4-2BfkC0g-2BwNY7QdGmYLyWCCXnpcuSOMivSI29-2FJQXBRl-2BjmKCNVJ1Q=
+4cZCUQlkV8MZYwFxux6t11KPz10RSfiigPCLpBzEW7epB6hB6-2B86Bd5oUNQF6YfxwsA9H0qsw=
+bhC3SAS3XJTO-2F1pf1PHGvS-2FXz1N66Rt5pyNCYlmt5H4NdSZKaX3rxeBx3vx7eA09vGzB-2B=
+2U6I2YjAuHbfTMUnv-2BDipoCGE2QdANRiIdiS58-2FQzvknlw2wWuk73JSsBnAFm0O9CWEuJDK=
+r2ZknX35gs3GiNgU0fgMrK8Kk0BLRf13N6SDvY1vqY-2BED4mabFDbX8zcxhbXVLyHWruAW1Ug-=
+3D-3D]
+
+WASD Midia Digital,Rua Rio Comprido, Minas Gerais, Brazil
+--20267240ec13347198e132e084d69f9f27e11152a53c799d53a2b757be2b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DRoboto:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+<link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,400,500,=
+700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DRoboto:300,=
+400,500,700);
+@import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,400,500,70=
+0);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+ =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border:0 solid black;vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:left;color:black;""
+      ><p style=3D""margin-top:0px;margin-bottom:0px;text-size-adjust:none;f=
+ont-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;line-he=
+ight:30px;color:rgb(51, 51, 51);font-size:16px;text-align:-webkit-center;le=
+tter-spacing:0px;border:0 solid black;"">=A0Hello!<br/></p><p style=3D""margi=
+n-top:0px;margin-bottom:0px;text-size-adjust:none;font-family:roboto, &quot=
+;helvetica neue&quot;, helvetica, arial, sans-serif;line-height:34px;color:=
+rgb(51, 51, 51);font-size:16px;text-align:-webkit-center;border:0 solid bla=
+ck;"">Your recommendation request has arrived, and we have good news:</p></d=
+iv>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:collapse;border-spacing:0px;""
+      >
+        <tbody>
+          <tr>
+            <td  style=3D""width:550px;"">
+             =20
+        <a
+           href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85=
+uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2AE9nvtFHaySAYS-2B3IvUJVA50xgw=
+owUjRd-2B4qP2BOdHvggWnB9CQM4bNbOA3nPUu887q7DuuM2tJ3ZfLhVh6iuhSBTtA2y-2Ff1Qy=
+33OlQScGYHFkG0lv9cBwJ0-2BllW0o9svb19im2GBvmyA0C2I9YgUU2TzjkNi61wZiL9g6GOGo-=
+2BATNF5DF0BbyhSIA5RgBgKuuPwJs-2B00f-2FmhYgsoRmNSNr8GK8l1k1YwW5wNhGWcYsegzlN=
+IxBNU5-2BPSj4Yh7LT-2FQ4VGWLBRe9SK89gYZqz2AeYQCsPTnMem-2BoB4rSM65g4TOs9rTBEm=
+QCC33wY5iMrlOfgowa8GkNQc-2B1oZlloplgcsGWKHUauY-2B-2BzUdJHpbIvrx-2BwXGGLWeb8=
+nQ7CkvOFo-3D6JSh_50TxVN542nTW9HGXpELO3qtdJDP79kPfaatj2PVVh3Iygd5qhPjQmX5QKO=
+kJ48BkV0UQyrTZSTwexN2-2Bn5OiYwcdCEq8dmAxP4yo5wnWrRauEXQAK2wjmE2ShCc1IDOe3zu=
+QoA3mIEtbSL2CVnVmpIU6K1zgovgC7V2TyIZa1dfa84bvKlZ-2Fmpn-2FvIK0nQJhBZArojwArS=
+wvV1qhq7Pw6aU0dA7Z8nEADTsceDl9BTO1kqyQNCiwGSWOfGttob6Vukjx4-2BfkC0g-2BwNY7Q=
+dGmYLyWCCXnpcuSOMivSI29-2FJQXBRl-2BjmKCNVJ1Q4cZCUQlkV8MZYwFxux6t11KPz10RSfi=
+igPCLpBzEW7epB6hB6-2B86Bd5oUNQF6YfxwsA9H0qswbhC3SAS3XJTO-2F1pf1PHGvS-2FXz1N=
+66Rt5pyNCYlmt5H4NdSZKaX3rxeBx3vx7eAB-2Bz6fAkf6EpWH1SvJIqQgxZmw1X9uOFUVNT8yL=
+kwBdJ42kCkx67hMPcFD3MtwEyFdlJ6ritz4sRAj96ns-2FvdANBMWHKm1SY7wNwwwuXGq9LbIAn=
+G4dIOoq4fdpjlgPC-2FsBe93bbFlWoMcx-2B60jVMsw-3D-3D"" target=3D""_blank""
+        >
+         =20
+      <img
+         src=3D""https://cdn.publinker.com/3cecde4c-ceb8-49ec-ba0b-ffe8e87f1=
+008.gif"" style=3D""border:0 solid black;display:block;outline:none;text-deco=
+ration:none;height:200px;width:100%;font-size:13px;"" width=3D""550"" height=
+=3D""200""
+      />
+   =20
+        </a>
+     =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" vertical-align=3D""middle"" style=3D""font=
+-size:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#39056a"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:5px 5px 5px 5px;cursor:auto;mso-=
+padding-alt:10px 25px;background:#39056a;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du=
+001.85uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2AE9nvtFHaySAYS-2B3IvUJV=
+A50xgwowUjRd-2B4qP2BOdHvggWnB9CQM4bNbOA3nPUu887q7DuuM2tJ3ZfLhVh6iuhSBTtA2y-=
+2Ff1Qy33OlQScGYHFkG0lv9cBwJ0-2BllW0o9svb19im2GBvmyA0C2I9YgUU2TzjkNi61wZiL9g=
+6GOGo-2BATNF5DF0BbyhSIA5RgBgKuuPwJs-2B00f-2FmhYgsoRmNSNr8GK8l1k1YwW5wNhGWcY=
+segzlNIxBNU5-2BPSj4Yh7LT-2FQ4VGWLBRe9SK89gYZqz2AeYQCsPTnMem-2BoB4rSM65g4TOs=
+9rTBEmQCC33wY5iMrlOfgowa8GkNQc-2B1oZlloplgcsGWKHUauY-2B-2BzUdJHpbIvrx-2BwXG=
+GLWeb8nQ7CkvOFo-3DseII_50TxVN542nTW9HGXpELO3qtdJDP79kPfaatj2PVVh3Iygd5qhPjQ=
+mX5QKOkJ48BkV0UQyrTZSTwexN2-2Bn5OiYwcdCEq8dmAxP4yo5wnWrRauEXQAK2wjmE2ShCc1I=
+DOe3zuQoA3mIEtbSL2CVnVmpIU6K1zgovgC7V2TyIZa1dfa84bvKlZ-2Fmpn-2FvIK0nQJhBZAr=
+ojwArSwvV1qhq7Pw6aU0dA7Z8nEADTsceDl9BTO1kqyQNCiwGSWOfGttob6Vukjx4-2BfkC0g-2=
+BwNY7QdGmYLyWCCXnpcuSOMivSI29-2FJQXBRl-2BjmKCNVJ1Q4cZCUQlkV8MZYwFxux6t11KPz=
+10RSfiigPCLpBzEW7epB6hB6-2B86Bd5oUNQF6YfxwsA9H0qswbhC3SAS3XJTO-2F1pf1PHGvS-=
+2FXz1N66Rt5pyNCYlmt5H4NdSZKaX3rxeBx3vx7eAPpTyHeHijy6IQE9IxSwiwpMFfmtrG0sJOI=
+CGm4x9hKIAad05i4hmRux2PAvPLdjPbmxWUa6mxtDY3snphWODJaCGdw2s2Y4gu6DHjf7Md9SDi=
+LKI-2BlC-2BRsTdkGZVFkQUEOeuaDYo0-2Fvcdgn6T6d7Kg-3D-3D"" style=3D""display:inl=
+ine-block;background:#39056a;color:#ffffff;font-family:Ubuntu, Helvetica, A=
+rial, sans-serif;font-size:24px;font-weight:700;line-height:120%;margin:0;t=
+ext-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0=
+px;border-radius:5px 5px 5px 5px;"" target=3D""_blank""
+              >
+                OPEN MY ACCESS
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><table align=3D""center"" border=3D=
+""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" st=
+yle=3D""width:600px;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-s=
+ize:0px;mso-line-height-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:left;color:black;""
+      ><span style=3D""color:rgb(51, 51, 51);font-family:roboto, &quot;helve=
+tica neue&quot;, helvetica, arial, sans-serif;font-size:14px;"">Stay with us=
+ for more tips and recommendations.</span><br style=3D""font-family:arial, &=
+quot;helvetica neue&quot;, helvetica, sans-serif;font-size:16px;""/><br styl=
+e=3D""font-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;f=
+ont-size:16px;""/><span style=3D""font-family:arial, &quot;helvetica neue&quo=
+t;, helvetica, sans-serif;font-size:16px;"">Jackson</span><br/><div><span st=
+yle=3D""color:rgb(51, 51, 51);font-family:arial, &quot;helvetica neue&quot;,=
+ helvetica, sans-serif;font-size:10px;text-align:-webkit-center;""><br/></sp=
+an></div></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      ><div><br/></div><br style=3D""color:rgb(51, 51, 51);font-family:arial=
+, &quot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-ali=
+gn:-webkit-center;""/><span style=3D""color:rgb(51, 51, 51);font-family:arial=
+, &quot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-ali=
+gn:-webkit-center;"">We aim to help you. If you are dissatisfied and no long=
+er want our emails,=A0</span><a data-cke-saved-href=3D""%UNSUBSCRIBELINK%"" h=
+ref=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0=
+tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2AE9nvtFHaySAYS-2B3IvUJVA50xgwowUjRd-2B4qP=
+2BOdHvggWnB9CQM4bNbOA3nPUu887q7DuuM2tJ3ZfLhVh6iuhSdWeber3J099pEhwHEZ4WbkD6g=
+KUyXvdr4zOwtf3DjOJBFEEmVTKW433SY-2FTuG-2BOyZ7b-2FWtlBkvN8nxQYPWj1fcggO-2B1O=
+tgVzjNcR1CTLaT2tloMuSfQCIoQ7X733UgLoJ8xNMdTza1nQcg8QpzmzA-3D-3DfA_3_50TxVN5=
+42nTW9HGXpELO3qtdJDP79kPfaatj2PVVh3Iygd5qhPjQmX5QKOkJ48BkV0UQyrTZSTwexN2-2B=
+n5OiYwcdCEq8dmAxP4yo5wnWrRauEXQAK2wjmE2ShCc1IDOe3zuQoA3mIEtbSL2CVnVmpIU6K1z=
+govgC7V2TyIZa1dfa84bvKlZ-2Fmpn-2FvIK0nQJhBZArojwArSwvV1qhq7Pw6aU0dA7Z8nEADT=
+sceDl9BTO1kqyQNCiwGSWOfGttob6Vukjx4-2BfkC0g-2BwNY7QdGmYLyWCCXnpcuSOMivSI29-=
+2FJQXBRl-2BjmKCNVJ1Q4cZCUQlkV8MZYwFxux6t11KPz10RSfiigPCLpBzEW7epB6hB6-2B86B=
+d5oUNQF6YfxwsA9H0qswbhC3SAS3XJTO-2F1pf1PHGvS-2FXz1N66Rt5pyNCYlmt5H4NdSZKaX3=
+rxeBx3vx7eA3Ve85lJ81kvShIS7Blrk6PR7MHUPbgygoDvZkR1iv4ruGUTVsm4AXaqv8YILuWXx=
+AvLApWUG5-2BHPS0VXotWcSov-2F1dxEqyufl22zwG7YngjwF9HnAtB5vMDYa0EX2UTIhwNxSsb=
+vz21o7mZGHhlgAw-3D-3D"" style=3D""text-size-adjust:none;color:rgb(0, 0, 238);=
+font-size:10px;font-family:arial, &quot;helvetica neue&quot;, helvetica, sa=
+ns-serif;text-align:-webkit-center;border:0 solid black;"">click here.</a><b=
+r style=3D""color:rgb(51, 51, 51);font-family:arial, &quot;helvetica neue&qu=
+ot;, helvetica, sans-serif;font-size:10px;text-align:-webkit-center;""/><div=
+><span style=3D""color:rgb(51, 51, 51);font-family:arial, &quot;helvetica ne=
+ue&quot;, helvetica, sans-serif;font-size:10px;"">WASD Midia Digital,Rua Rio=
+ Comprido, Minas Gerais, Brazil</span></div></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3D75M8N2JR5G&c=3D9G538R2OYN&s=3D181929077"" /><img src=3D""=
+https://u51365833.ct.sendgrid.net/wf/open?upn=3Du001.2EHi-2BaEf3rwREmna5uxZ=
+2x7771Gv7gUa32mxHp0P0aAKnPMOnoVm-2B-2B48iOgnm4OefWcnOnAMYGbWqBo9amW4oaFKebq=
+3OECd1wDPV64EE7BiOicAaD8t2Y4IGhjNsZ-2FYq4r1e44ThpmNvVxZOdTDq9cSo9CQssPauZBR=
+FGPyhLiSp-2FUaEM2BN5Vtf3iU-2By3HgVkFyNyI1ASXc9mQ3la5m35OnBMs6pyZigdFJmaJrE2=
+HB-2FpV14TX76BgWyrPIVstjjDCCkmHmclpS4mvghvtB8duTcJj6zSsaeksJM-2FfKGufK-2BOD=
+S3mIBNS-2By5SkgS8u3-2F6bpV1d6T2Tn6qHs8heyRYvitlfigaR2KBD8DJLIyTdeb9DfeakcuG=
+AiOgXr0oIzmsVnHV13U5x-2Bm5mRkUAct5yvEHz-2BKletAIwbxS11EGOEfndeomiWfLo3-2F2P=
+ZuQ26yKBymCojZDTKgXnZ1oEdcQUMrmcAgrnJiF-2F4uPuKwSz1JP8z3EayoTko-2F2IeRb14Gr=
+G9GapBkaisH30O3ERp3Ig-2BxKV-2FafkB95Ie8O2JwnEvEURYqxqJfKU6tyMbxvlLjEX7Kv1Lx=
+xy9xFWiRRM2Q-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D=
+""height:1px !important;width:1px !important;border-width:0 !important;margi=
+n-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;mar=
+gin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;=
+padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+ =20=
+
+--20267240ec13347198e132e084d69f9f27e11152a53c799d53a2b757be2b--
+","""Jackson Info.A"" <contact@infoatualizada.com>",nogelys21@gmail.com,2025-04-01,3.226.58.111,United States,en,users/51365833/464d626b-85fc-4a69-9e32-aac61044eeb0.json
+51365833,LBgtnpd2RlSiTMrnxg2nvQ.recvd-69cbc48b94-ftnkf-1-67E44451-24.0,cHJvY2Vzc2VkLTUxMzY1ODMzLUxCZ3RucGQyUmxTaVRNcm54ZzJudlEtMA,Get back on track with your best credit card,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infoatualizada.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=tVlkx9DwtHOXRienQKkg0hDPrv/UFlEHLRKQWJ4p0VI=;
+	b=ipuDe3r2ODjjIsNuHaF835d/BLS4P7zjAOiahc/t4MN6kNVneZhjvy1Ip4TM+dp8Quge
+	wS73YRLGQYERWw3npPTGIUYAif0cbhvW0uBFmuI8Dv3mkde70yplgpTFgHN8ZcACfKt/Qo
+	Bacx5+3ua6Ir2M2tnaY1ecJA5iI+VIScAZ9BivpSxZ5jTTy3MO2a0kerfj047FWYNLHT3j
+	aP3V10O/19mnr8X+xgoN9WOiZO3OLaGqQs3vY0+H8yEnkQIrnwm0aQGt/4XAbKly0u+W0Y
+	Taid/2d8pBdpixWSzTuKZujDkEfYxeLBRYjKo23ZA6VTJlyb3OfdO4Ktsc4NuKBw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=tVlkx9DwtHOXRienQKkg0hDPrv/UFlEHLRKQWJ4p0VI=;
+	b=R3QHiW32AenbHxbb/3EeHKevpIrr7ClySFSbzGsi1dPPSK0qqwAZ8BlddGfRDysXCj2y
+	MlyTwHKzgkGkMWUhVGD5Kgwv/k1+BxbQX4HHT74mEy6l1K3VlNRsUubU6NmlKfMcqt5Smq
+	7Aa13triI4J7zcrYUr/Tsq5M1Yc3XWy1o=
+Received: by recvd-69cbc48b94-ftnkf with SMTP id recvd-69cbc48b94-ftnkf-1-67E44451-24
+	2025-03-26 18:15:45.985936291 +0000 UTC m=+11393632.638154271
+Received: from NTEzNjU4MzM (unknown)
+	by geopod-ismtpd-23 (SG) with HTTP
+	id LBgtnpd2RlSiTMrnxg2nvQ
+	Wed, 26 Mar 2025 18:15:45.908 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=73c9f505703b9490fe942c4a2d3ed515c7489dce570671362029019cbd11
+Date: Wed, 26 Mar 2025 18:15:46 +0000 (UTC)
+From: Jackson <contact@infoatualizada.com>
+Mime-Version: 1.0
+Message-ID: <deaf2512-12d2-8e8f-aae0-0255bdb5bba4@infoatualizada.com>
+Subject: Get back on track with your best credit card
+Reply-To: contact@infoatualizada.com
+X-Campaign-Id: Z2Y67EML5D
+X-Subscription-Id: N21PKJ25RV
+list-unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fermes=2Epublinker=2Ecom=2Funsubscribe=2Femail=3Fu=3DDYV370635N&c=3D?=
+ =?us-ascii?Q?Z2Y67EML5D&s=3D170657293=3E?=
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E6D2AGLPVUH1K0y1z1t=2Fd3y06OnYqx2FQQc3gD6xnZshNoQK7EMs91IBeg?=
+ =?us-ascii?Q?vpxkJO6DW2LkOAoxT0XXlIKpKG2j927Q2BcQiOw?=
+ =?us-ascii?Q?3Ympt2En8xs5g65sXTgwzexhET3EWEm0B=2FhIBRO?=
+ =?us-ascii?Q?asOVw8IwcI1tnLlnz9XZJEq4RUS6XeQlKZF9Ogu?=
+ =?us-ascii?Q?nu5pcYA3c3ZKaljtL+CGsFump1uS2C7DCKh34qd?=
+ =?us-ascii?Q?toaP9vcQXhjB3eXcgwpdg5JQkl5rALOEGkSoJLb?= =?us-ascii?Q?FhSI?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIR9QsnZzyAqzoFPWEBq=2FFJ92BapHsQ9CBe?=
+ =?us-ascii?Q?98ecMEsB3qe8r5xYuW2bWzA4vYALCxZBeaVrlk1?=
+ =?us-ascii?Q?I4f5cMmDHMHs8Us7PpxWlhigR9lmC9waK0=2FIp5N?=
+ =?us-ascii?Q?AxPVLDpVMx9bQ1fAZvRtsCF2Y9Xf+P68gxl4a10?=
+ =?us-ascii?Q?t9GTRDT0+v+WgQNaWAvV14ULCqFIom5f0mI6kqf?=
+ =?us-ascii?Q?=2F4=2F2CsQ3TmyuACj=2FYydvQQltDzu4Mg9lWTYRM48?=
+ =?us-ascii?Q?TH85ZecXDF7ZZX4OAd8M4KlmzduEhybIqyplLOZ?=
+ =?us-ascii?Q?gagKOZgPK0rd07rrRku9rKyGS9UZgqndzEybjgJ?=
+ =?us-ascii?Q?=2FkvkeLPYWi0LpH+7ZRKomnqFw=2F1qqpxvSu9LONQ?=
+ =?us-ascii?Q?yZLgufKjNxKM4yfm5NI=3D?=
+To: rjbarel051@gmail.com
+X-Entity-ID: u001.8zg7vqJNOf+QRrnbo/0U4A==
+
+--73c9f505703b9490fe942c4a2d3ed515c7489dce570671362029019cbd11
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+Hello, Rebecca!
+
+After a thorough review, we found that your profile aligns perfectly with o=
+ur
+top recommendations.
+
+In fact, many of our readers have been approved for this card, making it th=
+e one
+with the highest approval rate among them.
+
+If you're interested in getting yours, just click the button below to find =
+out
+how.
+
+
+I'M INTERESTED
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyvGysDt7YpDPi723vm9dw110pR5gTK0AC5h9qAkyTZVAqPnSfhRou5pyTPPJuqjjPrDlV05HS=
+kZsr9fmhD6XxFUUJM3KdlbGu71KBeMiS-2FimHK-2BEQdI4NFLe-2FVX3tXQFmlujDW-2F22siE=
+kCP7MNcJCyadlCOel9lC8FPF-2Ff7YlI97ZVOBiW-2FEbJ0iuSaso-2B1yP-2B-2B5LTF81C1XM=
+WdwjhOomEM-3DdXdK_svj7SMQRYS4SGJK1YHQEkFOwAj-2FCIa6wLf6kBayejWbt0DC-2Blo5ds=
+ZZrj-2BErOIicgOzEoCnD7bZ1k4EF9R8jcNL65vGpH0pkUs1LnCJWicG0KinlXFyLABRwdy0Mub=
+-2BT49tt8qWyKRZ3AWI7P3ZzWOvQw1INyb-2FVkINSYt0oUcmR-2BGsArBL-2BBYkSc7W6a4FiV=
+Um8-2BlDo2ojjpkJ1ozrEsa6-2By-2FznfAaaLsK3e44Bq3uszD4LbJ-2BwhCOomwokyGUDF8nN=
+uDMPd2poJrmd0xFralZS29ngsp3QWCAmjop6uj9CCp6smZDrpYPlMPNJ14wwQTncIvAZ-2F-2Bs=
+K3KT2zT9SX9FZRBbl4HN5JpQ0vSxSMOKvswida3ig3hAGoPenvH-2BQZ0yXtjR4eotC3R-2FsH5=
+BkkssOV-2F2Cl0xNxt8lnpUv2yqhESon2CBvqBci4gRVeq5hfvprdz54tYAzvLNwft2u5z8iYll=
+iWsi3UEwtlMANKSPE-2FakcqjQxIkARqb9mP5IDBfeJmpb6xwliOwV1FlY9N3yF5BU0OsSqzKQs=
+US7ufFmn9c9NEnYXV88F-2BY106KvU1-2BaPLSA2iZ2Hbz1bIGJsow-3D-3D]
+
+After all, tell me if it went well. If you have any questions, let me know.
+Until the next contact.
+
+Jackson
+
+
+
+
+
+We aim to help you. If you are dissatisfied and no longer want our emails,=
+=A0click
+here.
+[https://u51365833.ct.sendgrid.net/ls/click?upn=3Du001.85uHGq7o6-2FF0tN9atP=
+aKyh-2FMCmnyMkg0Q99MVq4-2BL2BFyWUj-2B98tNNt8dStX5Yyak-2F6jYMCEzEzad7b1yguUc=
+rpDb8Xfq5DJ6obDDnotpdB5cS023CMTSWtkfiA86klFR0nF_svj7SMQRYS4SGJK1YHQEkFOwAj-=
+2FCIa6wLf6kBayejWbt0DC-2Blo5dsZZrj-2BErOIicgOzEoCnD7bZ1k4EF9R8jcNL65vGpH0pk=
+Us1LnCJWicG0KinlXFyLABRwdy0Mub-2BT49tt8qWyKRZ3AWI7P3ZzWOvQw1INyb-2FVkINSYt0=
+oUcmR-2BGsArBL-2BBYkSc7W6a4FiVUm8-2BlDo2ojjpkJ1ozrEsa6-2By-2FznfAaaLsK3e44B=
+q3uszD4LbJ-2BwhCOomwokyGUDF8nNuDMPd2poJrmd0xFralZS29ngsp3QWCAmjop6uj9CCp6sm=
+ZDrpYPlMPNJ14wwQTncIvAZ-2F-2BsK3KT2zT9SX9FZRBbl4HN5JpQ0vSxSMOKvswida3ig3hAG=
+oPenvH-2BQZ0yXtjR4eotC3R-2FsH5BkkssOV-2F2Cl0xNxt8lnpUv2yqhESon2CBvqBci4gRVe=
+q5hFLBWxT0gaiseF4CyzhZsljoooxV0gJv-2FIzsWc6cYPrupEIRiCfkVYA3zF3uuosX3BybUXL=
+K4If1joa0GrQvsXgSZ2apNaROt2vgtpRVYXXGXbi17kxFD7V8QtoohZmCorJCmcbBphyNXz1AtO=
+1gDgA-3D-3D]
+
+WASD Midia Digital, Rua Rio Comprido, Minas Gerais, Brazil
+
+--73c9f505703b9490fe942c4a2d3ed515c7489dce570671362029019cbd11
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border:0 solid black;vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+padding-bottom:0px;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:16px;line-height:18px;text-align:left;color:black;""
+      ><b>Hello, Rebecca!<br/></b><br/>After a thorough review, we found th=
+at your profile aligns perfectly with our top recommendations.<br/><br/>In =
+fact, many of our readers have been approved for this card, making it the o=
+ne with the <b>highest approval rate among them</b>.<br/><br/>If you're int=
+erested in getting yours, just click the button below to find out how.<br/>=
+</div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""left"" vertical-align=3D""middle"" style=3D""font-s=
+ize:0px;padding:10px 25px;word-break:break-word;""
+                >
+                 =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""border-collapse:separate;line-height:100%;""
+      >
+        <tbody>
+          <tr>
+            <td
+               align=3D""center"" bgcolor=3D""#4fc611"" role=3D""presentation"" s=
+tyle=3D""border:0 solid black;border-radius:5px 5px 5px 5px;cursor:auto;mso-=
+padding-alt:10px 25px;background:#4fc611;"" valign=3D""middle""
+            >
+              <a
+                 href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=3Du=
+001.85uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2DQJI08vQveAIyCdrAEGSofr=
+Wc6d8jf5dV672OnF68DUzHd10NzA8nipJMrMeVhtCPguonKYduCA1HOCKtx-2FBKolw4gRtMaxl=
+3u8mtGx1lzLY-2BDhSEmQfT6dokAPEtSlNZK4zpR2xNiyzCdR60bX6H3RGM3SuCb1lbvGkM9VF9=
+LXG2ANVEFCbZe-2Bp-2BmMbSexaTvbiX6YZtoReUVIGBG9vfbElhfyzvHMC1z4TsqODI-2Bc7iK=
+PpHPMj-2FREFrjw9QBLzVj-2F4pLpJ2GxsBmN6itRs2-2Bd4Ye8Qk-2F5510N2ok0InlM2PzfGR=
+a6EfM9k6Ai1lp3YYpJYdpn5C4sx0P4jHMPoXF3fgbKKaKAjG-2Fq31iiw-2BbCP7WzSSH0tqEQF=
+grwD4jMgc-3DUezn_svj7SMQRYS4SGJK1YHQEkFOwAj-2FCIa6wLf6kBayejWbt0DC-2Blo5dsZ=
+Zrj-2BErOIicgOzEoCnD7bZ1k4EF9R8jcNL65vGpH0pkUs1LnCJWicG0KinlXFyLABRwdy0Mub-=
+2BT49tt8qWyKRZ3AWI7P3ZzWOvQw1INyb-2FVkINSYt0oUcmR-2BGsArBL-2BBYkSc7W6a4FiVU=
+m8-2BlDo2ojjpkJ1ozrEsa6-2By-2FznfAaaLsK3e44Bq3uszD4LbJ-2BwhCOomwokyGUDF8nNu=
+DMPd2poJrmd0xFralZS29ngsp3QWCAmjop6uj9CCp6smZDrpYPlMPNJ14wwQTncIvAZ-2F-2BsK=
+3KT2zT9SX9FZRBbl4HN5JpQ0vSxSMOKvswida3ig3hAGoPenvH-2BQZ0yXtjR4eotC3R-2FsH5B=
+kkssOV-2F2Cl0xNxt8lnpUv2yqhESon2CBvqBci4gRVeq5hPwa6OqZPUa-2FPS2uZT2E7fVcJum=
+hbDsm72HjXvBRY2Bmw-2BMmCYljljf6FxGlEoGd5ExhILLg2v0KGw2SCmsQ-2B3TpeOKaxEFxFp=
+CGFmUjOxecQY07z6oLBYS91otJGMOPW67MDcRQlAgv0p1AHsCoXLQ-3D-3D"" style=3D""displ=
+ay:inline-block;background:#4fc611;color:#ffffff;font-family:Ubuntu, Helvet=
+ica, Arial, sans-serif;font-size:24px;font-weight:700;line-height:120%;marg=
+in:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding=
+-alt:0px;border-radius:5px 5px 5px 5px;"" target=3D""_blank""
+              >
+                I'M INTERESTED<br/>
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+padding-top:20px;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:left;color:black;""
+      ><span style=3D""font-family:arial, &quot;helvetica neue&quot;, helvet=
+ica, sans-serif;font-size:16px;"">After all, tell me if it went well. If you=
+ have any questions, let me know. Until the next contact.</span><br style=
+=3D""font-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;fo=
+nt-size:16px;""/><br style=3D""font-family:arial, &quot;helvetica neue&quot;,=
+ helvetica, sans-serif;font-size:16px;""/><span style=3D""font-family:arial, =
+&quot;helvetica neue&quot;, helvetica, sans-serif;font-size:16px;"">Jackson<=
+/span><br/><div><span style=3D""color:rgb(51, 51, 51);font-family:arial, &qu=
+ot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-align:-w=
+ebkit-center;""><br/></span></div></div>
+   =20
+                </td>
+              </tr>
+           =20
+              <tr>
+                <td
+                   align=3D""center"" style=3D""font-size:0px;padding:10px 25p=
+x;word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:center;color:black;""
+      ><div><br/></div><span style=3D""color:rgb(51, 51, 51);font-family:ari=
+al, &quot;helvetica neue&quot;, helvetica, sans-serif;font-size:10px;text-a=
+lign:-webkit-center;"">We aim to help you. If you are dissatisfied and no lo=
+nger want our emails,=A0</span><a target=3D""_blank"" data-cke-saved-href=3D""=
+%UNSUBSCRIBELINK%"" href=3D""https://u51365833.ct.sendgrid.net/ls/click?upn=
+=3Du001.85uHGq7o6-2FF0tN9atPaKyh-2FMCmnyMkg0Q99MVq4-2BL2DQJI08vQveAIyCdrAEG=
+SofrWc6d8jf5dV672OnF68DUzHd10NzA8nipJMrMeVhtCPguonKYduCA1HOCKtx-2FBKohwQfKG=
+kARWq9pIIP70rmdPr-2BoWVPPGOTsXvPq8cUBOeVbRgvABzyjP3XnnsTeCKr4Rvz9jzSz7sX8bq=
+SYYANDAYCjcyo10msymbxuD9NX7iB6i-2FfgmupJrC8VkqyRXEqWxzYkFSjvvVSdmYdWnVgoA-3=
+D-3Doroz_svj7SMQRYS4SGJK1YHQEkFOwAj-2FCIa6wLf6kBayejWbt0DC-2Blo5dsZZrj-2BEr=
+OIicgOzEoCnD7bZ1k4EF9R8jcNL65vGpH0pkUs1LnCJWicG0KinlXFyLABRwdy0Mub-2BT49tt8=
+qWyKRZ3AWI7P3ZzWOvQw1INyb-2FVkINSYt0oUcmR-2BGsArBL-2BBYkSc7W6a4FiVUm8-2BlDo=
+2ojjpkJ1ozrEsa6-2By-2FznfAaaLsK3e44Bq3uszD4LbJ-2BwhCOomwokyGUDF8nNuDMPd2poJ=
+rmd0xFralZS29ngsp3QWCAmjop6uj9CCp6smZDrpYPlMPNJ14wwQTncIvAZ-2F-2BsK3KT2zT9S=
+X9FZRBbl4HN5JpQ0vSxSMOKvswida3ig3hAGoPenvH-2BQZ0yXtjR4eotC3R-2FsH5BkkssOV-2=
+F2Cl0xNxt8lnpUv2yqhESon2CBvqBci4gRVeq5hB-2FsjrVHz6RbeS9RNhC5Hy52-2FXzZbM4fC=
+tAowqCSZBuMu-2Fu94Hbunvq-2FMUYXdgQy3CHE1YdD2C8dSxsylqUtprydBrblsUw-2Bri02us=
+NQzV5yJ-2FC-2Be-2F5AMJsiHPADTq5CDgLd4biaA54fs7awlIHT75A-3D-3D"" __p=3D""undef=
+ined"" style=3D""text-size-adjust:none;color:rgb(0, 0, 238);font-size:10px;fo=
+nt-family:arial, &quot;helvetica neue&quot;, helvetica, sans-serif;text-ali=
+gn:-webkit-center;border:0 solid black;"">click here.</a><br style=3D""color:=
+rgb(51, 51, 51);font-family:arial, &quot;helvetica neue&quot;, helvetica, s=
+ans-serif;font-size:10px;text-align:-webkit-center;""/><div><span style=3D""c=
+olor:rgb(51, 51, 51);font-family:arial, &quot;helvetica neue&quot;, helveti=
+ca, sans-serif;font-size:10px;text-align:-webkit-center;"">WASD Midia Digita=
+l, Rua Rio Comprido, Minas Gerais, Brazil<br/></span></div></div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3DDYV370635N&c=3DZ2Y67EML5D&s=3D170657293"" /><img src=3D""=
+https://u51365833.ct.sendgrid.net/wf/open?upn=3Du001.s-2Be-2Bvir17OtesXutMe=
+Hs30UlEI13dwfZJNHHDsyfQX6faeru8Vhmdi9LQZtVd6QveLmbUbJ8Nt4RZhStjELFjpQteNjHO=
+9y0O-2Fq1TDqDDx0lciPs6ffsqYrnYn8A9ICyyMLOdAZIBj58bJGSvXDhRLORucLx03c-2BaVC3=
+YMdHnk7flmll-2BwRMhHbm8zHWnCYZ-2BAgEQFeQ6enhT78hcmXJBhrrHMXb83Vi4J-2B5jBw4d=
+xS8p-2FCDwphrsaSAQSukFyOFdA4Za3uzHXNLcooDyFbOm-2F0-2BR1spmhk9EnUI3U9F4x5rvp=
+XguQLNFl8r-2BmGcAsURNx4dcbzqk4EvKx0jC3G8mZH7YYM3aIcAQgBv1fUODCf4C1gpV3gA6vw=
+f5xZ826L8S2H6Y4kXYlmVpKRvG0mTG9Kjjr77-2FjuuuLPhRjkR525OF0JdO7xzQRFnxGlyxwub=
+trVaGhY6lHUMtJ2uRsFKikfhHdLT0AsbLXYqfyFxs4kTdvGDJ7IXbw-2B69vpKu2mTWD4v0qmSs=
+zsLCbfj7PsBK6CalEJqCWSEQ1JbZqPWFIhBIpOw-2FEfB5LIhBptjnQRIv2Lek3cjVc4hUaRTk5=
+Ai2g-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:=
+1px !important;width:1px !important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 !important;margin-left=
+:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-=
+right:0 !important;padding-left:0 !important;""/></body>
+</html>
+ =20=
+
+--73c9f505703b9490fe942c4a2d3ed515c7489dce570671362029019cbd11--
+","""Jackson"" <contact@infoatualizada.com>",rjbarel051@gmail.com,2025-03-26,3.226.58.111,United States,en,users/51365833/cf3a60a0-fc92-4e52-9e0d-6f6d6cfe1a4d.json

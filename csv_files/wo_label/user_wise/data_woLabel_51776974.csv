@@ -1,0 +1,508 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51776974,Dn-t4TY8SgqeV3QqVdNj2A.recvd-7cf7589bf9-ttrpl-1-67F0437A-3.7,cHJvY2Vzc2VkLTUxNzc2OTc0LURuLXQ0VFk4U2dxZVYzUXFWZE5qMkEtNw,Thank you for your purchase!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=smtpapi; bh=fPzCHQi0Z3yivaQ4W9xC1J3mzfoE5wWr6dEJ7hHxQ4c=;
+	b=KsNNwfSMUf/fku8bj6QmIIWa6vP/w037IyAfEJfWyP3//ELl/BLFIFX94OmV4jRnLy43
+	DdHPNA+h3lHchWmQdes0N3VwQAgVlaBRo9IFRVf2eeE0xLGTE7me0AcqY+gngWkVkXpzLt
+	U69TwYkE4PxcQPOvDgdu9RZbl9sdb/Hd4=
+Received: by recvd-7cf7589bf9-ttrpl with SMTP id recvd-7cf7589bf9-ttrpl-1-67F0437A-3
+	2025-04-04 20:39:22.066850216 +0000 UTC m=+12179705.745742231
+Received: from NTE3NzY5NzQ (unknown)
+	by geopod-ismtpd-5 (SG) with HTTP
+	id Dn-t4TY8SgqeV3QqVdNj2A
+	Fri, 04 Apr 2025 20:39:22.049 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=2ddd9d13985579c190dd46513a17bb3c7cf6bbd20e4421986d02dded9dbf
+Date: Fri, 04 Apr 2025 20:39:22 +0000 (UTC)
+From: Phillip <phillipsalt@menuwebsites.com>
+Mime-Version: 1.0
+Message-ID: <Dn-t4TY8SgqeV3QqVdNj2A@geopod-ismtpd-5>
+Subject: Thank you for your purchase!
+Reply-To: phillipsalt@menuwebsites.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Es0v0l7akd+JA3s4APXb90nngXLguqxiT5O1W0dCCZUAhC5yKET1Ir790I?=
+ =?us-ascii?Q?JSgg4JZzU4wlfJUYCw=2FEHCONJLmzCMdFLxJcTvb?=
+ =?us-ascii?Q?Q538ThYuWNHqKkKFGj844Pa0b3fQJCIkLkYiMJC?=
+ =?us-ascii?Q?LINkOxj0TweO4h6m+rKaYI6XzZJBGI2atOjrJ9C?=
+ =?us-ascii?Q?tsoVk3PdP=2Fb58iQuK1B9E44EZnFYtNIdHmGYRM=2F?=
+ =?us-ascii?Q?qzrmTGlDfzQnS14+SC6VGIJG1=2FVEang6rINJO1z?= =?us-ascii?Q?V3wC?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QWHo6BHqErsn5BMyxEXyH+CZBqfvqB3zUDlN+?=
+ =?us-ascii?Q?abfLSl3ykf=2FtJd8hDfAJMz9x6sv+7UsmIw=2FlOc5?=
+ =?us-ascii?Q?tHrFyfkCHzlN0dIGcJj5EHfJ8gv8XE3qu6F5qHj?=
+ =?us-ascii?Q?cI6LY6rhmGGSVhF11IBQG9HrgPcfDKQk6xLXtx5?=
+ =?us-ascii?Q?01gx37eJE88EvixvbFjzyFBBtpW=2Fp8yBFKepNKL?=
+ =?us-ascii?Q?bVk6qaGTgYtIdvBZ=2FcKD+31yFijBFMMkZ+c10TK?=
+ =?us-ascii?Q?HxGpoBn+HnSKDoxlaTnWd2mePBBD0JEh7Gwpfsd?=
+ =?us-ascii?Q?mySYijoY=2FIvrgZcBVxI4Rq98mq9yiwGIXO2vNXe?=
+ =?us-ascii?Q?mD0rTSa+ieai30oQKqVUxq0KnewBY1BefLTjDkp?=
+ =?us-ascii?Q?Rv7tC6cij4uzufdE10J9jUYcoy+7SXZi7lEgjnY?=
+ =?us-ascii?Q?DawW41uVW7nJqYY6dNX7BMWa1mUt+M4L2h1lMVe?=
+ =?us-ascii?Q?EgsbIsYpncLtITfnWET6NyyPgIeakjnUd1P6RND?=
+ =?us-ascii?Q?xuFLbqa+Qm684ApVjxZXU+ughj5Pu3x5+aHv5Fy?=
+ =?us-ascii?Q?IGz0pi87yv45WGkMq3CHh2KpnHro3mt2xDfmbvg?=
+ =?us-ascii?Q?cAL+3diNN2Oq+As1lscboOQbpqmVja6emVXDYW1?=
+ =?us-ascii?Q?WMgD84fCutRwVjdK0y6XFkYAvQfLliyjrg25LoL?=
+ =?us-ascii?Q?hILlfvdKW97AoRb1tcP=2Fea0igdjQJpp7fzM6ZlK?=
+ =?us-ascii?Q?1uPkg6w9ICl36LvQVCMUxAT6IBCiExKTqhxqEl+?=
+ =?us-ascii?Q?rkWdeQ=3D=3D?=
+To: tcaldwell497@icloud.com
+X-Entity-ID: u001.d1UhL7AeebsBZzIzr5oraA==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51776974=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EQnMy?=
+ =?us-ascii?Q?XOHaOwV6ZlQsyt=5FPUbzO2nFkrpEbcqpsmUuTPCt?=
+ =?us-ascii?Q?JcIIDOwUHxrFXsdhw6ACO8s9dy15RMfi7-HsCE4?=
+ =?us-ascii?Q?BcVNz7cmJxlIdl3Tp2CUxdM8flZy7=5F2cXbvuXF7?=
+ =?us-ascii?Q?hbB5SPQSCeAx3qOn-oegKxkj2w6VgkVXJqaVMZL?=
+ =?us-ascii?Q?Hq8Y0jEKXtqA6wovMqXIxVWckxD1jlAZrcHmnbQ?=
+ =?us-ascii?Q?QuoT5AJEWb-cQia8C7wWSDDZl9i5dYAZ5bDjFBm?=
+ =?us-ascii?Q?oPK2GeOoUUZNKCF4olT1ptF0=5F9IMvd4axQGYC4a?=
+ =?us-ascii?Q?AxZbRPAF-RxJvawZ0iG=5Fp3gjmQ7V1N7tibb4m=5Fy?=
+ =?us-ascii?Q?li4P15mMuD-emjbNJL=5F9Tuh-QNx1YJL6TrrdrPt?=
+ =?us-ascii?Q?8gUlVrLZH1jmSrxEuILN0ViaYVAZ4g95wNlsjtW?=
+ =?us-ascii?Q?m5H1cb7KMVDHLgPXYno=5FJKorQlibk5wDe2lu-vD?=
+ =?us-ascii?Q?Rm28ejzMoxfrnts9H7ov6=5FtSqQw9DVKzr=5FkPbR2?=
+ =?us-ascii?Q?HQyPtKsqyC-cexUT=5F9D6kV3SIGtDiXmCFTpzpTa?=
+ =?us-ascii?Q?CHD-=5FPedVKyZezaQoFlT=5Fao3GxZFL=5FEk3x-NgwN?=
+ =?us-ascii?Q?CSFm5P46zCP1CwF2gyJur9b2QSa7MGt-0lTVWOk?=
+ =?us-ascii?Q?8an1fa7IuKTfyVGX9VGDCTSwas7VhkXp1J7xYqG?=
+ =?us-ascii?Q?egzLgxopmJnuBYG8MTxxTlBKBds1Ug5R-yaVyl=5F?=
+ =?us-ascii?Q?8N9aH1YTiiRLkePQwB2YDiUv5KOYFG90Qa65jFR?=
+ =?us-ascii?Q?EtVrpTAatsNr9z-YmsNvbCP1aPGCGuS0EYUhtOB?=
+ =?us-ascii?Q?2Eoa1h5HaiZZb43zQdl0uKei3r9-nH=5FYyXZnil0?=
+ =?us-ascii?Q?49QZcrSPBi7xafPkE2ZB19hc3Wafa3R2rgFQ9Xs?=
+ =?us-ascii?Q?hr2WLnMRAT66kuNSeOQXkUDVQIDhmxnlfx8HFRc?=
+ =?us-ascii?Q?FSpuOPMxlyFS9kQEcn7BmUkFYBO4oxHOMyYUkSe?=
+ =?us-ascii?Q?evK=5FkG2WipMxDGEU8AfikErP1sRBeihv0X-c9OO?=
+ =?us-ascii?Q?P3-odV5lZ6L2avoO8kOzuAQAfVwi9WFG4zrybQg?=
+ =?us-ascii?Q?Ema3ZRQdyPJHk98ANcvwAkM7cMO0XB0JftgzVWd?=
+ =?us-ascii?Q?iD3xQp8bur9nqfAAkktbxeolXq8SihzbW9Ojgay?=
+ =?us-ascii?Q?pPMxUcbqBXPPoKXEins3EHEm7h1kK6TIpOOKX4g?=
+ =?us-ascii?Q?iSwzHSVuayjLDekiPaMEms1xRmUaI1LUU9fjKsQ?=
+ =?us-ascii?Q?0yz2ueg=5FX6Z9TZXL81=5FZ4H7ACtF7pLOnxEfH8pc?=
+ =?us-ascii?Q?0BCWxhSPpThbbiPbfjQqGrTCelcWgszQ0BVeF1E?=
+ =?us-ascii?Q?p3ZcrMQXlUlZ-sklkZWohxAYgvD7zQTxfvhhoHZ?=
+ =?us-ascii?Q?GFaXPKLfXe-AEWg0-xJwuOhp9YL0La=5FcAmMgkSd?=
+ =?us-ascii?Q?ZHJJ-CvQDL1AvglJu8Z2NvqLY2=5FuX3sxCaK9yWd?=
+ =?us-ascii?Q?L0pxYwLkpsI=5FypyxeR-ZK4I28=5FnnPT5K6J11rCA?=
+ =?us-ascii?Q?K=5FAl7B-B3FDwTa2pYLUBadvcGgzek9MM3AWA0Jc?=
+ =?us-ascii?Q?jIqRW2bUl4AG1tDh78FDfXijHZDUE9QOZ=5FiZK0O?=
+ =?us-ascii?Q?5Mmt0wGQgeZdYCwa=5FcjxrGx6F=5FjtQeMmjLd7Hqc?=
+ =?us-ascii?Q?EWB4wTjWSFz4880E7Lr84mdIiiDvRBCRj=5FUWHy0?=
+ =?us-ascii?Q?EB46xdpkc5dkE8vQ0OGTzwz6T8Po1ebbTrvIZBt?=
+ =?us-ascii?Q?CHmNmj9JcChT-OFpvgupwyNi9zXc9G8=5F7mLtiSO?=
+ =?us-ascii?Q?TLlQ-ZABPXLuaJd3ZDMD-VQhAAxLWTesH9jr2cz?=
+ =?us-ascii?Q?JfEz4Cvhhn9blK8rtP-HFqUhXEcsyjxR4qr=5FvhR?=
+ =?us-ascii?Q?4IEpA=3E=2C=3Cmailto=3Aunsubscribe=40sendgrid=2Enet?=
+ =?us-ascii?Q?=3Fsubject=3D51776974=2EbUeLfZ=5FBDTJcD3jNPGzer?=
+ =?us-ascii?Q?T7QaP6OnMKCl73mKmTyRXloMDAwdTAwMA-WEwc6?=
+ =?us-ascii?Q?6rag2v8p=5FQeiGoMEqzS26lVnrAUi2pS1kqxhlvV?=
+ =?us-ascii?Q?5A=5FhnIWWGtzQkdrBPhqKXCc-CU3wH55MuAFMDcU?=
+ =?us-ascii?Q?yM5-6PYNSL1uQq0jzahPPU9qIdbmjj4c92AjRWM?=
+ =?us-ascii?Q?w=5FE8Q=3D=3D=2EChg8E=5FkYl=5FefKEJ6bIhRmmzioFbxsH-?=
+ =?us-ascii?Q?eXbQ8ndhm0=5FVoMDAwdTAwMDOMOfv0ZfyK7vUK9N?=
+ =?us-ascii?Q?iy630x4AoTP1HZws7n2ntYtXJAaeYDAf2t5x58T?=
+ =?us-ascii?Q?ZgIprKVAIz9HqQ2AcZp626TaNEk9LrEiaJ-TiEB?=
+ =?us-ascii?Q?GgIWyx1rnex6PYQxpLOQBxJok-vp=5FByfQevGBIZ?=
+ =?us-ascii?Q?VEvmBBbU8Ob40WhibyWeE5s1WMpC2W5o-=5F3CaWu?=
+ =?us-ascii?Q?cMHvGCzdCFC7NV82l=5FBMtOnTnRse3Zjsp1RtDrD?=
+ =?us-ascii?Q?uXUx9WdhOttw=5FyjYCIRZf=5F=5Fk7uSGx=5FM8FOvSIXu?=
+ =?us-ascii?Q?bvX1yBo9KncFARXhAmfgcA3a486Gu0GWy4OP55Z?=
+ =?us-ascii?Q?uyZOBPGzUu1C-7EBZNy=5FpC3iwv6BWAGZQA2Vjha?=
+ =?us-ascii?Q?hzBga8vdcOsx5UtlL5zEDPWW07w4epsqi5nAqkY?=
+ =?us-ascii?Q?o9Vahnx1adZLISmZlkpvD-cv4BjgpwjPnUX7mXw?=
+ =?us-ascii?Q?mZbivMhQH3NCYV8FApJlbdqMNXmGUV9C56up2xa?=
+ =?us-ascii?Q?fg9O2X3Jc0wDcu7meUsClmvBv6a1FkXC9-O4JUE?=
+ =?us-ascii?Q?f0m1uCzh6rUZGCm8WbMx0AjNgUmEUebpHbwWUMP?=
+ =?us-ascii?Q?xPY6yrT1p3RXYBba4nUZKxLe9VFSsQnK=5FKKhcJI?=
+ =?us-ascii?Q?3YW8aDaeRTuMUzKjDwKihAlXQJPxVYhbQ3I1lyd?=
+ =?us-ascii?Q?tz5hBt418z4PMmi0NDI30wy9=5Fn-rbzLjWfLwIT9?=
+ =?us-ascii?Q?7tTt2-wiD2yLOQZVe0vS5VvWZwvcSJP6LwT1zRU?=
+ =?us-ascii?Q?I4GOvjzp=5F6ysE1=5FaTnOpCWrTBbsYlE2dOhxf=5FyK?=
+ =?us-ascii?Q?EyUObgiowRs2TQXtFS2hl9JbBWTywgidODQLQMi?=
+ =?us-ascii?Q?bohDUTOPTJTU1-TTxu68EhoevSXW9ryuFsjM0cd?=
+ =?us-ascii?Q?5-yrw7Rol0CdMVjwyvpzyenh490JVhcS8wkvgf5?=
+ =?us-ascii?Q?kg3pce27zZHs7mDduCLs-6Z2JJfJOn0D8=5FThhE7?=
+ =?us-ascii?Q?=5Ff8DyKtX48vNSMr-IBSStb6=5FZgY7=5F=5FJl3fuxfzY?=
+ =?us-ascii?Q?BJhWKtqUtvvqdrvSiTCmQlmTnG=5F-XqIa2PaDYMf?=
+ =?us-ascii?Q?3TAP=5F6jg=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--2ddd9d13985579c190dd46513a17bb3c7cf6bbd20e4421986d02dded9dbf
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Join HELPFUL SPACE
+
+*Dear PayPal Customer, (tcaldwell497@icloud.com)
+
+Thank you for your purchase! Below are your order details:
+
+=F0=9F=93=A6 Item: Apple MacBook Pro 14"" (2024)
+=F0=9F=92=B0 Amount: $599.99
+=F0=9F=93=85 Date:04-04-2025
+=F0=9F=9B=92 Merchant: ""Apple Store Online""
+
+=E2=9D=97 If you didn=E2=80=99t authorize this purchase call us immediately=
+ to block this transaction.
+
+Need help? Reply to this email or call ""PayPal Support"" at (855) 494-2175.
+* *Thanks,
+PayPal=C2=A0Receipts=C2=A0Team
+1 (855) 494-2175*
+Unsubscribe From This List https://u51776974.ct.sendgrid.net/asm/unsubscrib=
+e/?user_id=3D51776974&data=3DcoIrtndbLWNLv_Qm6FgvTr7bjM0EiHVPy1Q_Pkq-QJpoMD=
+AwdTAwMLKX-0GQ6qWXOhQFFxufqRtdfw-j5FuhUEukF-w-T9tiHlmtQSR2avVUxMJpIkV1pEib6=
+rO2rLqkSRraLtkoOl3xiG53UmCE1iJYm5g1t3GEZqYWZXX0W_DQS0NfijZgJu-lg53jwtu55-nx=
+SKg8tpreeLtAHic8f7JplTChiXk7maR7XSbAkHTkpdbCj_Jr7ynEbf3yXd_t2xxuTV00erwx9cz=
+IeDl4g0erCqhx2exfP_6saKlvH8756LY8XmVd7BbtboomMGwDjblQ6DHmyGbbs9ISCcR01H4Tt9=
+QDr3jQpyxKYXDa478zU-9h9UCiien_ducoSbYX1z-Kuo_ONTzV9vIWy6QX4t-Axqd3wc4j4dATJ=
+zSg6VlPWdx2VsFwDqLMFLml0CGlIB_sT4033usl2VdOaZGJst9_60a6vkfCFm23FlcYqCb7mbsU=
+5KdgU3IU-KJLO5MaKk8gngu9FHLNA7c3mkpRSSjpLdAcPc8yNIMlTtLvvtL6T4-QzBrd6bEFoxg=
+Io1XtHjXFEr17jMJfISncVdA2mSlIQDYZFfHUDS3Kgm1VxEuxbVLiMl-d9MnVhtSEV_DzwaM7Lb=
+Sw0sBnFwoxPHtlqb9o6U0nmudvLPBOEMH3Y9aXL8FQ6OEwdea1ZUTkevFLFhqK2l8hxLCaVvRiu=
+H8qgNNZHbNut9_GE4XN5oPC-ZN3ertLjA90K-WJiuIUcfYKINqEmXctiUX1sFOk-uj2u38TREww=
+SJ7Wop7lcQp8aftYBNnx746ilSLU4bvVl76Ku776P_sVUIwpoRskAqgGRFsO0W9oi_cZP2tzRHd=
+oSla8WUKvozEtdh2q5btOMTVDpxXlQwgpRISjS1vgtpuz_QQqDO03OwC41SuUXmaBYllyXimbul=
+AYCCXGGK3as-VDt-q8J_VnN52tH2Iq5nVkwgeA_2kzIOdPUazDuV_71J5-AiFWaWhN386YwhW4C=
+ouTZKOcsPa0KXtsHl-J7Cbuo_YoLTMg9AreJMiDPYoXjYhZEubtPcpaSom-y6ZldEbsm6VM-gie=
+_sWNpVhw6U7Yjibsnd95e0XVXmF8UuPe-8fBph7gSRtMly17NIo0erOp3h8qtp9nkQAFtxeUQX_=
+QfF5wO6Pkd5CK | Manage Email Preferences https://u51776974.ct.sendgrid.net/=
+asm/?user_id=3D51776974&data=3DRv9xcYTI5vdr3kevVCsggkcLpcDA7KqezEHMIHiQ1xto=
+MDAwdTAwMLV7Gq08kirGclG9EBPoXQTS4qtsPY1c-5GhNfktN4SXTkMiPacwiv68FuIXeEYkdja=
+4OkGIVxbcLMoJqUhecS5cMq20avl_2YFZ-wnwAZe79aBoBtNecUNsNMUOAwf0yMs9yThQlvCTRe=
+EBHV-vBAcaP-LmEk-tLbj5j9aanCKDBnKLSNOXRNbV1nnlIhgmdBkTKYj9i4nTfrthF5IiYHR47=
+v9yMaUX4MQdMR2RQyPVUBx1mO6v662co6ML1PEu05g0PW9frWMmhFTglEcfZA8GvpoK1aQ4VHG2=
+K9nQ5T0TBTQduHE4wH5ktp3QcpFTZf6Yi0weGXAkk7YfAG_bWIJkhRWhqmA71wmI_Co2TWTzjus=
+QvftdioTxlyn0156BKYCEF_6FCSKEpKUri7ewyW78vaEIcSDrESqjpRI9dZQxohhFMviaM8B7BU=
+lKY_hnI9_9xt41qyehtX8iPkcKwDL6SztF9ZsJuEqVrtFV9rJevFkvdB95YEAdQNBAaoBJEvuNI=
+hvl5x-vo-eHs_FQURO0YoA4Om8lMzkii3A4lAGGDFfQUyE1Ly5ofyImbS8GJuYEsW8foUvbr9je=
+rAgSwpE_xOwYH3VAojaAONhovcRSX31aq35JaTTDhDr562bTCGShDdWnVeLAD0EtNBFUz3Pi5_8=
+MqPVtSd_ZycMCpMxUo-JZrVGBkxgrvuDavM64oQGTOug7rx3lJQgZ14Jo_52iTioFnvA85uVWVv=
+4MxhZwFdd5fToi4tJqSUQ0vVB43fYTz1xxIuKWf6ApfyQcdyC4gSKgBc4nEAVMGdjFCcFYucfiw=
+LGwMeJ6NYSjBN4Is6XE96bCeodGFDxtuK-eCC1K2mL_cgwQRnTQbwdVx_MDeb5Wl1vEcZmpgbuF=
+jiuncwKnsaqD0jn0FEjbN_Hz2ke78tD3gRKmCWdLqd-w8dBkevtYHOjokjZMSDzW9raO5rmFTi2=
+x-37X7eF1mbdlKIknf8c2tQsr88eEJUSt8o0iDnOxBz0u6Fccl-6M6ZWUrKxdJfmgCWMLVj9Qnf=
+C3VXGLbe6ADaKCnbCXJNWh4vXblkX-_O9MxggNkOAMVxNuUg0cU0_HOa1XmzmffNVsf7s=3D
+--2ddd9d13985579c190dd46513a17bb3c7cf6bbd20e4421986d02dded9dbf
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 620px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #0059DD;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#0059DD"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#c9eeed;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#c9eeed"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#c9eeed"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""620"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:620px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 10px 0px 10px; color:#000000; text-align:left;"" bgcolor=3D=
+""#C9EEED"" width=3D""100%"" align=3D""left""><table class=3D""module preheader pr=
+eheader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpadd=
+ing=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !importan=
+t; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; heigh=
+t: 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p>Join HELPFUL SPACE</p>
+      </td>
+    </tr>
+  </table><table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" align=3D""=
+center"" width=3D""100%"" role=3D""module"" data-type=3D""columns"" style=3D""paddi=
+ng:10px 15px 30px 15px;"" bgcolor=3D""#fcfcfc"" data-distribution=3D""1"">
+    <tbody>
+      <tr role=3D""module-content"">
+        <td height=3D""100%"" valign=3D""top""><table width=3D""570"" style=3D""wi=
+dth:570px; border-spacing:0; border-collapse:collapse; margin:0px 0px 0px 0=
+px;"" cellpadding=3D""0"" cellspacing=3D""0"" align=3D""left"" border=3D""0"" bgcolo=
+r=3D"""" class=3D""column column-0"">
+      <tbody>
+        <tr>
+          <td style=3D""padding:0px;margin:0px;border-spacing:0;""><table cla=
+ss=3D""module"" role=3D""module"" data-type=3D""text"" border=3D""0"" cellpadding=
+=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-layout: fixed;"" data=
+-muid=3D""13845f09-d902-4cd1-9399-98b9b232b28e.1"" data-mc-module-version=3D""=
+2019-10-22"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:26px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit; text-align: inherit""><span st=
+yle=3D""color: #454545; font-size: 20px; font-family: helvetica, sans-serif""=
+><strong>Dear PayPal Customer, (tcaldwell497@icloud.com)<br>
+<br>
+Thank you for your purchase! Below are your order details:<br>
+<br>
+=F0=9F=93=A6 Item: Apple MacBook Pro 14"" (2024)<br>
+=F0=9F=92=B0 Amount: $599.99<br>
+=F0=9F=93=85 Date:04-04-2025<br>
+=F0=9F=9B=92 Merchant: ""Apple Store Online""<br>
+<br>
+=E2=9D=97 If you didn=E2=80=99t authorize this purchase call us immediately=
+ to block this transaction.<br>
+<br>
+<br>
+Need help? Reply to this email or call ""PayPal Support"" at (855) 494-2175.<=
+br>
+</strong></span><span style=3D""color: #454545; font-size: 20px; font-family=
+: helvetica, sans-serif""><u><strong>Thanks,<br>
+PayPal&nbsp;Receipts&nbsp;Team<br>
+1 (855) 494-2175</strong></u></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""spacer"" bord=
+er=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-=
+layout: fixed;"" data-muid=3D""e5c3a334-759a-4148-9c69-60d4278c28b9"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:0px 0px 5px 0px;"" role=3D""module-content"" bgco=
+lor=3D"""">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""spacer"" bord=
+er=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-=
+layout: fixed;"" data-muid=3D""e5c3a334-759a-4148-9c69-60d4278c28b9.1"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:0px 0px 5px 0px;"" role=3D""module-content"" bgco=
+lor=3D"""">
+        </td>
+      </tr>
+    </tbody>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""spacer"" bord=
+er=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-=
+layout: fixed;"" data-muid=3D""25574cfa-9c6a-457e-a5fd-0c61071984d6"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:0px 0px 70px 0px;"" role=3D""module-content"" bgc=
+olor=3D"""">
+        </td>
+      </tr>
+    </tbody>
+  </table></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <a href=3D'https://u51776974.ct.sendgrid.net/asm/unsubscribe/?user_id=
+=3D51776974&amp;data=3DcoIrtndbLWNLv_Qm6FgvTr7bjM0EiHVPy1Q_Pkq-QJpoMDAwdTAw=
+MLKX-0GQ6qWXOhQFFxufqRtdfw-j5FuhUEukF-w-T9tiHlmtQSR2avVUxMJpIkV1pEib6rO2rLq=
+kSRraLtkoOl3xiG53UmCE1iJYm5g1t3GEZqYWZXX0W_DQS0NfijZgJu-lg53jwtu55-nxSKg8tp=
+reeLtAHic8f7JplTChiXk7maR7XSbAkHTkpdbCj_Jr7ynEbf3yXd_t2xxuTV00erwx9czIeDl4g=
+0erCqhx2exfP_6saKlvH8756LY8XmVd7BbtboomMGwDjblQ6DHmyGbbs9ISCcR01H4Tt9QDr3jQ=
+pyxKYXDa478zU-9h9UCiien_ducoSbYX1z-Kuo_ONTzV9vIWy6QX4t-Axqd3wc4j4dATJzSg6Vl=
+PWdx2VsFwDqLMFLml0CGlIB_sT4033usl2VdOaZGJst9_60a6vkfCFm23FlcYqCb7mbsU5KdgU3=
+IU-KJLO5MaKk8gngu9FHLNA7c3mkpRSSjpLdAcPc8yNIMlTtLvvtL6T4-QzBrd6bEFoxgIo1XtH=
+jXFEr17jMJfISncVdA2mSlIQDYZFfHUDS3Kgm1VxEuxbVLiMl-d9MnVhtSEV_DzwaM7LbSw0sBn=
+FwoxPHtlqb9o6U0nmudvLPBOEMH3Y9aXL8FQ6OEwdea1ZUTkevFLFhqK2l8hxLCaVvRiuH8qgNN=
+ZHbNut9_GE4XN5oPC-ZN3ertLjA90K-WJiuIUcfYKINqEmXctiUX1sFOk-uj2u38TREwwSJ7Wop=
+7lcQp8aftYBNnx746ilSLU4bvVl76Ku776P_sVUIwpoRskAqgGRFsO0W9oi_cZP2tzRHdoSla8W=
+UKvozEtdh2q5btOMTVDpxXlQwgpRISjS1vgtpuz_QQqDO03OwC41SuUXmaBYllyXimbulAYCCXG=
+GK3as-VDt-q8J_VnN52tH2Iq5nVkwgeA_2kzIOdPUazDuV_71J5-AiFWaWhN386YwhW4CouTZKO=
+csPa0KXtsHl-J7Cbuo_YoLTMg9AreJMiDPYoXjYhZEubtPcpaSom-y6ZldEbsm6VM-gie_sWNpV=
+hw6U7Yjibsnd95e0XVXmF8UuPe-8fBph7gSRtMly17NIo0erOp3h8qtp9nkQAFtxeUQX_QfF5wO=
+6Pkd5CK'>Unsubscribe From This List</a> | <a href=3D'https://u51776974.ct.s=
+endgrid.net/asm/?user_id=3D51776974&amp;data=3DRv9xcYTI5vdr3kevVCsggkcLpcDA=
+7KqezEHMIHiQ1xtoMDAwdTAwMLV7Gq08kirGclG9EBPoXQTS4qtsPY1c-5GhNfktN4SXTkMiPac=
+wiv68FuIXeEYkdja4OkGIVxbcLMoJqUhecS5cMq20avl_2YFZ-wnwAZe79aBoBtNecUNsNMUOAw=
+f0yMs9yThQlvCTReEBHV-vBAcaP-LmEk-tLbj5j9aanCKDBnKLSNOXRNbV1nnlIhgmdBkTKYj9i=
+4nTfrthF5IiYHR47v9yMaUX4MQdMR2RQyPVUBx1mO6v662co6ML1PEu05g0PW9frWMmhFTglEcf=
+ZA8GvpoK1aQ4VHG2K9nQ5T0TBTQduHE4wH5ktp3QcpFTZf6Yi0weGXAkk7YfAG_bWIJkhRWhqmA=
+71wmI_Co2TWTzjusQvftdioTxlyn0156BKYCEF_6FCSKEpKUri7ewyW78vaEIcSDrESqjpRI9dZ=
+QxohhFMviaM8B7BUlKY_hnI9_9xt41qyehtX8iPkcKwDL6SztF9ZsJuEqVrtFV9rJevFkvdB95Y=
+EAdQNBAaoBJEvuNIhvl5x-vo-eHs_FQURO0YoA4Om8lMzkii3A4lAGGDFfQUyE1Ly5ofyImbS8G=
+JuYEsW8foUvbr9jerAgSwpE_xOwYH3VAojaAONhovcRSX31aq35JaTTDhDr562bTCGShDdWnVeL=
+AD0EtNBFUz3Pi5_8MqPVtSd_ZycMCpMxUo-JZrVGBkxgrvuDavM64oQGTOug7rx3lJQgZ14Jo_5=
+2iTioFnvA85uVWVv4MxhZwFdd5fToi4tJqSUQ0vVB43fYTz1xxIuKWf6ApfyQcdyC4gSKgBc4nE=
+AVMGdjFCcFYucfiwLGwMeJ6NYSjBN4Is6XE96bCeodGFDxtuK-eCC1K2mL_cgwQRnTQbwdVx_MD=
+eb5Wl1vEcZmpgbuFjiuncwKnsaqD0jn0FEjbN_Hz2ke78tD3gRKmCWdLqd-w8dBkevtYHOjokjZ=
+MSDzW9raO5rmFTi2x-37X7eF1mbdlKIknf8c2tQsr88eEJUSt8o0iDnOxBz0u6Fccl-6M6ZWUrK=
+xdJfmgCWMLVj9QnfC3VXGLbe6ADaKCnbCXJNWh4vXblkX-_O9MxggNkOAMVxNuUg0cU0_HOa1Xm=
+zmffNVsf7s=3D'>Manage Email Preferences</a><img src=3D""https://u51776974.ct=
+.sendgrid.net/wf/open?upn=3Du001.wuaXNWDA7APByjA79m59kc4ExMOMnaS1kueZF4J4z5=
+ZjT-2B-2FM7RmTiDe2Mdk-2F80TanzfTJtwSMSIblKIuk3o07bfKyQS1GggTTeACPFSX8OxjFhv=
+l8POBeljcytSppzt2TiIaISQsZRw7v15Mu1nnHmX1dlgybedAKuoF7ZJkNQ1wh0or1WlLU-2Bco=
+0IcIQLFsJvT-2FAAyXoqd31XjFqPcxeKC92bZAGJ2zDoHQfeUGh2O9hmor4qEMPezRvmlGXk8KA=
+5n1-2BRA-2FDttMYmFieMpBTU5iNG85-2BSQILT5cj9ZmrqK9hK-2FMcMu0vxeeZJVBBRFttznO=
+K3YJlvuQSXuAh23q9-2BANvejqm1nwB1P-2Bjdh4D2il3YUbORFzwxqNSCkqYqZvM8r-2FW395b=
+HlHh39z-2BjkB281wGVfXPVpK2RE-2B2tStMs6Xy9QK7KHZQK5ZG1FV04dbpT3e5hxCpNpP7EtI=
+a0hM4mCms8nzy0qQp1QsckbvLONbqZS8NKUT0V-2BX1IADGZGkXpjsy-2F8qZ5EtL90Ilg2XE-2=
+FktvKdBcxyKz2huY5FszC1Ov24zPQPLZ4A1gX5m3eH9LE9Kw-2B0mgHmMHqYH7Y3WSf3YRjY4C1=
+vJmhry5SQGF-2BnyR8L0A-2FPZFQ9dezv-2FjnPtFCyzRBgKfKg-2BG-2FSHbM1iSM68U0TLYc-=
+2BYr-2FwPXIILjOiVMRGdQFwb0v8-2B4gF2cuk5zQqxzNXQVK3dPUVBbA7NwMWg4fkdE2KgoAbs=
+4gAj-2FwJ0UrovGb1vNNzIjnnGKtVTaTqPA7QTh1PJ1BwY5KXdsbAH-2FktCb-2F4EyvuuUK5rf=
+hztjgtIQBELoG1sL5QRDpLKmZai8YtKLh0R5PLQEGoikh7vHn6yEPrkqAPPiR8-2FyOYzVXTpcD=
+IlSlhaZ-2F1pSuPcnausd7XE0BT1mM24Eyvu6Q1P2-2Bq6UU-2BT7h9xd0n6zKNHAYRLv7uIHRF=
+eeYKvCzBHrDFmn9-2BFqMAqlVZbD9ZBBQ-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" =
+border=3D""0"" style=3D""height:1px !important;width:1px !important;border-wid=
+th:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-r=
+ight:0 !important;margin-left:0 !important;padding-top:0 !important;padding=
+-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""=
+/></body>
+  </html>
+--2ddd9d13985579c190dd46513a17bb3c7cf6bbd20e4421986d02dded9dbf--
+","""Phillip"" <phillipsalt@menuwebsites.com>",tcaldwell497@icloud.com,2025-04-04,34.225.201.237,United States,en,users/51776974/fef7f195-deb7-4298-a61f-9bca05e855d6.json

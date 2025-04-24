@@ -1,0 +1,668 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+48786586,HHS824FfRXGrVUQFMtJQpw.recvd-668fcdfd56-g8zgh-1-67BAA45E-15.0,cHJvY2Vzc2VkLTQ4Nzg2NTg2LUhIUzgyNEZmUlhHclZVUUZNdEpRcHctMA,There is a new account submission!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=joonbeauty.com;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=s1; bh=MJDJkL0GL+1jPVOQVVz5n4yYNqCoYp9gh9BxGKYfnl4=;
+	b=Y5+c0uGUoKvNlaOXXbiZdLXLSHL9+sql+1zA2MY6Q4D2sQg7wiXUwS2PdLL44Vp8nTbh
+	Y1QN4H/27Utoehjs4kdrip+R80iXktEprehXDDTR6NQrVPWlfSH15YFouIzJhDfuKp5Gb0
+	GxyoAavzYURluM9gqv8a9MmjbrcvcO16pssMpCL2BA19B698q9+bGOxmallNdsClK1/gRg
+	TISQgLn8x0TKlRIMMyM9eb6prfpCeoz06K1IAlzZd4l5V1GMbz2wm18vJ/mTWv+OtigbxB
+	2ur2Iu9ybYV/25mlG3hD2iEjx3/FNHsfd39XN6QB3pxo1N7u/F0r2roRRxng69WQ==
+Received: by recvd-668fcdfd56-g8zgh with SMTP id recvd-668fcdfd56-g8zgh-1-67BAA45E-15
+	2025-02-23 04:30:22.372875327 +0000 UTC m=+8665725.829825222
+Received: from newnyxaccount.joonbeauty.com (unknown)
+	by geopod-ismtpd-12 (SG) with ESMTP id HHS824FfRXGrVUQFMtJQpw
+	for <Bryan@joonbeauty.com>; Sun, 23 Feb 2025 04:30:22.211 +0000 (UTC)
+Date: Sun, 23 Feb 2025 04:30:22 +0000 (UTC)
+From: new.customers@joonbeauty.com
+Subject: There is a new account submission!
+Message-ID: <f05f5a5ab84fb01e44b259ba13376b54@newnyxaccount.joonbeauty.com>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ex+wGw1XFM10eMaS+eeoScpn3++yAe4fCNwZreX87ZIYuRq0YiwKTxE7ML?=
+ =?us-ascii?Q?qiS307p+5pw4oSKMYcUquR9E8EB9IEFf=2FVEhLhM?=
+ =?us-ascii?Q?FezJ4MdBUxoPe25h4Fj54PUASVW6NcXUaSbl1Vk?=
+ =?us-ascii?Q?LeZMUfQnx4Qi2rP6sEqeORY=2F+CWx1e+d3WpIq07?=
+ =?us-ascii?Q?i7bqHgTIl5JoZGADN4Ip60RDALqgQCr0rWR7E7s?=
+ =?us-ascii?Q?g=3D=3D?=
+To: Bryan@joonbeauty.com
+X-Entity-ID: u001.mraEk9ISy0Rhac495OrldQ==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Please click link below to review and approve.
+<br><br>
+Submission details:-
+<br>Submission date: 2025-02-23
+<br>Registered Business Name:  A Elite Attire Exports
+<br>Contact Name: Ahtisham Alvi
+<br>Tel: 03092703511
+<br>CellPhone: 03092703511
+<br>Email: ahtishamabdullah18@gmail.com
+<br>Retail location: Abdullah House/Street, Bambanwala
+<br>Website: joon.com
+<br>City: Daska
+<br>State: Punjab
+<br>Unique ID = 1120294
+<br><br>
+Link: https://approvalform.joonbeauty.com/cc/?id=1120294
+
+<img src=""https://u48786586.ct.sendgrid.net/wf/open?upn=u001.5X5oSKw7J-2F9jLsIVKzAE-2F0pTg87YJ-2FKhYHHSulAMpUNnEePsKWlpWik7WoXnVFxz7qF1yLtQm6STwW5RR72psZpDL5ondTD42nlE2tZZyb7Etfk8hGJwbTxKsZccRBn3ku2gElhxz8Nrpu-2B27z6s-2FtNqhDeZmNWwdnPVdZxnGor0RCQ1IsdIOnSnQ70xtDcHPc0scA3cGKW9BeW5eUZVsg-3D-3D"" alt="""" width=""1"" height=""1"" border=""0"" style=""height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/>",new.customers@joonbeauty.com,bryan@joonbeauty.com,2025-02-22,162.213.251.113,United States,en,users/48786586/a09d89e2-be0f-47da-98ce-fcf65506e7ff.json
+48786586,Ji86qhUGTy-yB5giGMkpaA.recvd-668fcdfd56-g8zgh-1-67BC9E21-18.2,cHJvY2Vzc2VkLTQ4Nzg2NTg2LUppODZxaFVHVHkteUI1Z2lHTWtwYUEtMg,Joon Beauty Invoice Creation Inv #107477,"Cc: vuks@cvatechventures.com
+Content-Type: multipart/mixed;
+ boundary=--boundary_5_82a1abc3-baf8-4fd8-bc41-ca391c65ad3b
+Date: Mon, 24 Feb 2025 16:28:17 +0000 (UTC)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=joonbeauty.com;
+ h=mime-version:from:subject:content-type:to:cc:cc:content-type:from:
+ subject:to; s=s1; bh=i/3E0MVz6pmc9b6Do4zzwvmIwdjBFNuIHIElbQcPNJQ=;
+ b=rGJIMiTHtF/oduo4VZeOi+VMAwh8dgeVzBQeZrkeyF8tUY6QnHJIq17DywtJcHBbSWGt
+ YvqrLxW34sM7/OpeiOMmNbGjMJrwSfM/8izGkIWRq48CQp12j8HDEQIr6+Klgw8jWq1RJ1
+ aKqNnDZ+QFLV7D/H5t23PJ90OftLJSx9UdKsdCooVLiW2997uENHSadc5DucuLQ80GKwqn
+ ao6GkAevBeZWbkE9gNWdPjj7S5LbsoAPjzz/cpL4DVsCny10qpRpsqaS1FvAaUN2x7lBN6
+ s9TiihGX2mL0HuEmiQeJ1aMmi1luWIlf/s7B6/WrM6WaVdMsRIoNX7Mq2OCYHjJA==
+From: invoice@joonbeauty.com
+Message-Id: <Ji86qhUGTy-yB5giGMkpaA@geopod-ismtpd-2>
+Mime-Version: 1.0
+Received: by recvd-668fcdfd56-g8zgh with SMTP id
+ recvd-668fcdfd56-g8zgh-1-67BC9E21-18 2025-02-24 16:28:17.308062072 +0000
+ UTC m=+8795200.765011960
+Received: from DESKTOP-6IU1EC4 (unknown) by geopod-ismtpd-2 (SG) with ESMTP
+ id Ji86qhUGTy-yB5giGMkpaA Mon, 24 Feb 2025 16:28:16.891 +0000 (UTC)
+Subject: Joon Beauty Invoice Creation Inv #107477
+To: Abuahd318@gmail.com, customer@joonbeauty.com
+X-Entity-Id: u001.mraEk9ISy0Rhac495OrldQ==
+X-Sg-Eid: =?us-ascii?Q?u001=2EwyVpZDuIHvWT9RnXj19i8RSod8JYhrtdo7Bo7EDUpAShirU6WpjXWznwk?=
+ =?us-ascii?Q?LxC7kMfCy+ENAl19XJu2vxNz4=2FunOUcvJLs95sJ?=
+ =?us-ascii?Q?B87ea+uYzpNv71+ERl7rRB2KnWKSkw945aXdbP1?=
+ =?us-ascii?Q?S+aCVHt8YFSeIervvIBpYIx=2FEioYpwl2HXobzHh?=
+ =?us-ascii?Q?Z53mp5bN1Cum=2FKXT4=2FTXPpMxKNjXFT2ACgbJ=2F3E?=
+ =?us-ascii?Q?g=3D=3D?=
+
+----boundary_5_82a1abc3-baf8-4fd8-bc41-ca391c65ad3b
+Content-Type: text/html; charset=us-ascii
+
+Dear HAIR GALLERIA (DALLAS),
+                        <br>
+                        <p>CVA TECH VENTURES LLC dba Joon Beauty has scheduled an ACH withdrawal for your invoice #107477.</p>
+
+                        <p>This withdrawal will take on this <strong>3/11/2025</strong> in <strong>15</strong> days.</p> 
+
+                        <p>Please plan for this transaction.</p>
+
+                        <p>Thank you very much and call if any questions.</p>
+                         
+                        <p>Thank you for your partnership.</p>
+<br>
+<br>
+<br>
+<table style=""width:382px"">
+	<tbody>
+		<tr>
+			<td style=""width:148px""><strong>JOON BEAUTY LINE</strong></td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/call.png"" style=""float:left; height:16px; width:16px"" />&nbsp;12142174676 |&nbsp;18322360609</td>
+		</tr>
+		<tr>
+			<td style=""width:148px"">Finance</td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/mail.png"" style=""float:left; height:16px; margin-bottom:0px; margin-top:0px; width:16px"" />&nbsp; <a href=""mailto:customer@joonbeauty.com"">customer@joonbeauty.com</a></td>
+		</tr>
+		<tr>
+			<td style=""width:148px"">Accounting | Payments</td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/web.png"" style=""float:left; height:16px; width:16px"" />&nbsp;<a href=""https://u48786586.ct.sendgrid.net/ls/click?upn=u001.DFVJdgqos-2B7ybLzlPU91qFSB8KCrOv6KZOJtJh4mwSI-3Db7Ym_QqdmPPBuXd7BT8s1Rkw-2Bqa-2BSomdCTP0LEGupadJ2s-2Fq6AdbdMiOerWwPAXgZ7C-2FrCcK3fZbdXBTfoLHHrwPSjy-2BtNncaJghI8Zhu9B70hNgoWpG72iC0z2dxutBjPxX6ai4Jf6jb65XPrra95EAKE-2Bb6rzjJc6soTDGzKg0l5aOsg6THoXZeL12f-2BqEcrwlFu4kvRvaR5tFveii457hL1w-3D-3D"">www.joonbeauty.com</a></td>
+		</tr>
+		<tr>
+			<td style=""width:148px"">&nbsp;</td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/address.png"" style=""float:left; height:16px; width:16px"" />&nbsp;2912 Skyway circle north Irving Tx 75038</td>
+		</tr>
+		<tr>
+			<td colspan=""2"" style=""width:370px""><img alt=""Logo"" src=""https://payment.joonbeauty.com/assets/emailimg/logo.png"" style=""float:left; width:250px"" /></td>
+		</tr>
+	</tbody>
+</table><img src=""https://u48786586.ct.sendgrid.net/wf/open?upn=u001.LOGPw8e60GWT4sEI0Q9Xl0wl57EhoSXxvqYu4qhhn29sB34xC-2BzqmmppXGoPTB8zm-2BUF3-2FZTWWTUbZ30ylXHmX1dalXqe0SVaUooebbu-2BKWUWgANDZyTUI6ly2yeYkmqS9UWpUimmcW-2BK-2BbSOKJaBW9e1k3-2Fttk-2BABgUFnj8SO4Mnu1YuzGFNQOdhc7915vHrMywCFabnKV631hqCGCbUUvA6khCX1PWgr-2B-2Bhk1g8Qw-3D"" alt="""" width=""1"" height=""1"" border=""0"" style=""height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/>
+----boundary_5_82a1abc3-baf8-4fd8-bc41-ca391c65ad3b--
+",invoice@joonbeauty.com,vuks@cvatechventures.com,2025-02-24,76.85.96.246,United States,en,users/48786586/8c03a97c-16f7-45ef-b7ff-481f224987a7.json
+48786586,X4svAeJjRX-xQsNHE37QLQ.recvd-668fcdfd56-kqqmh-1-67BD008E-8.0,cHJvY2Vzc2VkLTQ4Nzg2NTg2LVg0c3ZBZUpqUlgteFFzTkhFMzdRTFEtMA,Joon Beauty Invoice Creation Inv #107816,"Cc: vuks@joonbeauty.com, invoice@joonbeauty.com
+Content-Type: multipart/mixed;
+ boundary=--boundary_1_0eeceae9-6ea7-413d-a8f3-acd2679c975e
+Date: Mon, 24 Feb 2025 23:28:14 +0000 (UTC)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=joonbeauty.com;
+ h=mime-version:from:subject:content-type:to:cc:cc:content-type:from:
+ subject:to; s=s1; bh=2gBmsQvlfxdmJplpbBb7zdYRrHeNjecClmaEdnaqhFs=;
+ b=URWk92o3raNPn4LePQbkJRXB1GOcei+qd0b5Fori0sJX7GGC+M9RWjo2dydy8DQ1PWlY
+ J+cgxV7faav9jFgJg04E9usI5AdBxFU+3CtUyJgv4S1heyMp/ap9baolJlfqm2qqC0ptYY
+ kUeZm2rHc48ps7nxGeIUNdxIgI1+rc2s8TrxQj+TeFdW7pdmhveN8AW+EBcioY1ReJYrVm
+ Uon+fo2UG7a5+h8oxXZSXQE7/96l+cZjj+cqZ0uH1EyrQG7eGhvxH3mZrQgdDmGcQ09ibm
+ pnuSuR4s1F52do8AvmsDbYYUwg50jc41i7aMNT83PRcCqp5HlGIopFbNjhBnHyOQ==
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+ h=mime-version:from:subject:content-type:to:cc:cc:content-type:from:
+ subject:to; s=smtpapi; bh=2gBmsQvlfxdmJplpbBb7zdYRrHeNjecClmaEdnaqhFs=;
+ b=rwoyxczykfC31EjEVldHxXxy+EkHcdL+5Owt8SCL7T9E40Y6d6Y08CRkt9AMa2LiYZQX
+ HoVmSgvSnGImN6hXg2D6aEGhORoVp47HNBo1MaG83yboM1IrOvoTmmldNfdIza7XDUAIA1
+ N+SA9Vu6S77TcX2yI+dwdBr3tUDek9QOk=
+From: invoice@joonbeauty.com
+Message-Id: <X4svAeJjRX-xQsNHE37QLQ@geopod-ismtpd-0>
+Mime-Version: 1.0
+Received: by recvd-668fcdfd56-kqqmh with SMTP id
+ recvd-668fcdfd56-kqqmh-1-67BD008E-8 2025-02-24 23:28:14.170869044 +0000 UTC
+ m=+8820238.038471199
+Received: from JOONBEAUTY-10 (unknown) by geopod-ismtpd-0 (SG) with ESMTP
+ id X4svAeJjRX-xQsNHE37QLQ Mon, 24 Feb 2025 23:28:13.751 +0000 (UTC)
+Subject: Joon Beauty Invoice Creation Inv #107816
+To: themakeupstoreonline_com@aol.com, customer@joonbeauty.com
+X-Entity-Id: u001.mraEk9ISy0Rhac495OrldQ==
+X-Sg-Eid: =?us-ascii?Q?u001=2EwyVpZDuIHvWT9RnXj19i8RSod8JYhrtdo7Bo7EDUpASmKej6HiQgacgIs?=
+ =?us-ascii?Q?KloMLDFyr8nneufIHHRT3vOsPvkEg9AVJOjxdRf?=
+ =?us-ascii?Q?nJWxUntrQ9IDZ3Phn27Q8B+Xuq=2FX5YtrRg69pZi?=
+ =?us-ascii?Q?NZFCSOJpKXx7nhlBAkAweAajAoLZ3eMqn3ClE8I?=
+ =?us-ascii?Q?2bwlsLDaLcnbd25bMQayIKGfela865H0lidlB8n?=
+ =?us-ascii?Q?rRX4l7A+Zrdvmgu9wYkDoQ=3D?=
+
+----boundary_1_0eeceae9-6ea7-413d-a8f3-acd2679c975e
+Content-Type: text/html; charset=us-ascii
+
+Dear THE MAKEUP STORE,
+                        <br>
+                        <p>Thank you for your business!</p>
+
+                        <p>Enclosed in this email is your Joon Beauty invoice #107816</p> 
+
+                        <p>We will process the payment and ship out as per your payment terms as soon as possible.</p>
+
+                        <p>Click here to request credit on past invoices https://credit.joonbeauty.com </p>
+
+                        <p>Please feel free to contact us if you have any questions.</p>
+<br>
+<br>
+<br>
+<table style=""width:382px"">
+	<tbody>
+		<tr>
+			<td style=""width:148px""><strong>JOON BEAUTY LINE</strong></td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/call.png"" style=""float:left; height:16px; width:16px"" />&nbsp;12142174676 |&nbsp;18322360609</td>
+		</tr>
+		<tr>
+			<td style=""width:148px"">Finance</td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/mail.png"" style=""float:left; height:16px; margin-bottom:0px; margin-top:0px; width:16px"" />&nbsp; <a href=""mailto:customer@joonbeauty.com"">customer@joonbeauty.com</a></td>
+		</tr>
+		<tr>
+			<td style=""width:148px"">Accounting | Payments</td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/web.png"" style=""float:left; height:16px; width:16px"" />&nbsp;<a href=""https://u48786586.ct.sendgrid.net/ls/click?upn=u001.DFVJdgqos-2B7ybLzlPU91qFSB8KCrOv6KZOJtJh4mwSI-3DjrMv_j8cwHGeQVhnQLGHY-2FCuPznaRToTLt1GbfnBoTK4qjy4VpFyVfiK1rxsWFzkYKCnsdVx-2Bu3xXS1e-2BMMWhBNiq7M2dNelWrYPDDSuuKKYXk1634pNEeynqe-2FOjbD00F-2FThFuIt6GV3triO-2FcyVAhA3LxvN2K5UEAROVpjidMMrIZVJNilt2YGGKc0MhnFdo53eFvJyS3u0-2FcZvo6hIrg8ptozgLyFk4Z2BjmJjbPmajlE-3D"">www.joonbeauty.com</a></td>
+		</tr>
+		<tr>
+			<td style=""width:148px"">&nbsp;</td>
+			<td style=""width:215px""><img alt="""" src=""https://payment.joonbeauty.com/assets/emailimg/address.png"" style=""float:left; height:16px; width:16px"" />&nbsp;2912 Skyway circle north Irving Tx 75038</td>
+		</tr>
+		<tr>
+			<td colspan=""2"" style=""width:370px""><img alt=""Logo"" src=""https://payment.joonbeauty.com/assets/emailimg/logo.png"" style=""float:left; width:250px"" /></td>
+		</tr>
+	</tbody>
+</table><img src=""https://u48786586.ct.sendgrid.net/wf/open?upn=u001.LJGUjWX5Do-2FgW8KvKzzk6puHEOM-2FtnSHViuggY3-2F69mOKItu9-2BPCedwbfoGpJ3C2CLy4CMWhJFSTmaPUx9b0DkhYu3KE-2Bus1oJSTR6Ck1IR8pjUy8bKlgXg0LzAVxdAnl0A7GKECYusef8eeOzYzN5S0VGV7Es6-2BPMhTGHZYsC1yjWwK3s7Hv0DDrY40eG-2FJQRK-2FPqKBh84DjX9AJ9S5YT4JQocKdvvw-2BXAoyRigu1k-3D"" alt="""" width=""1"" height=""1"" border=""0"" style=""height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/>
+----boundary_1_0eeceae9-6ea7-413d-a8f3-acd2679c975e--
+",invoice@joonbeauty.com,themakeupstoreonline_com@aol.com,2025-02-24,76.85.96.246,United States,en,users/48786586/f27b3616-bd4b-4929-bb4e-60208f609e3b.json
+48786586,mhiTTakXS0iuKzPbZFlILQ.recvd-578d769b87-44lvb-1-67BC2952-26.0,cHJvY2Vzc2VkLTQ4Nzg2NTg2LW1oaVRUYWtYUzBpdUt6UGJaRmxJTFEtMA,sub,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=joonbeauty.com;
+	h=from:subject:mime-version:x-feedback-id:to:content-type:
+	content-transfer-encoding:cc:content-type:from:subject:to;
+	s=s1; bh=y+miDVvJSVfpRaT7JP3cracY830S/q1KOM9pBZQWkds=;
+	b=avzYTqezdMLYRl2iV+Lxdq47Y8lxrma4q7RPAElQ20KWuf3Dh8UoE66WfrfonO3bkU8H
+	NYa1EK1KyJlFkJ/iiI3maTezNaZCEHIUUmG4ZyN67ItS4mXilfxXRWG4I/HT6lM/ms33rr
+	5Spcz76O1FY0doGCA8ZGO8t/WVqFKC2J2gab1Ztm9C+fD9UUj0qmNtxlZjYzdRcrVqw6i3
+	vC+ZbZC64NeE5gjvno90nHbQyFCSocL/+avjqOgVLQ9YIhX4elWeaAhRueCp3PtfdXZsZc
+	DPHC44leU3w0CUEVTqqVGGcH8YQlHwG+jVaK0rnNcWzR8td1o/NhwIe5paOllb4A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=from:subject:mime-version:x-feedback-id:to:content-type:
+	content-transfer-encoding:cc:content-type:from:subject:to;
+	s=smtpapi; bh=y+miDVvJSVfpRaT7JP3cracY830S/q1KOM9pBZQWkds=;
+	b=UJSCWcdEP66tngPj7MghWvfOicEg4m1nZ8JpmAZcdcwQIOLRNKSR6PmX8gkMeZeCvQBh
+	cO13JcxOWx2yoJ22zsg62iSB8VFIymZ03mfIQaTxI+Bc7DMSXB4HMKC5o0X99BKRDbQcgg
+	8XJaYCGeISwP4QzoHhhV8PE2N5H/ICXGw=
+Received: by recvd-578d769b87-44lvb with SMTP id recvd-578d769b87-44lvb-1-67BC2952-26
+	2025-02-24 08:09:54.757068591 +0000 UTC m=+8765176.222619800
+Received: from newnyxaccount.joonbeauty.com (unknown)
+	by geopod-ismtpd-5 (SG) with ESMTP id mhiTTakXS0iuKzPbZFlILQ
+	for <ahtishamabdullah18@gmail.com>; Mon, 24 Feb 2025 08:09:54.564 +0000 (UTC)
+Date: Mon, 24 Feb 2025 08:09:54 +0000 (UTC)
+From: new.customers@joonbeauty.com
+Subject: sub
+Message-ID: <7e5be8f2fe3545564945caa845977fa8@newnyxaccount.joonbeauty.com>
+X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+X-Feedback-ID: 48786586:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Ex+wGw1XFM10eMaS+eeoScpn3++yAe4fCNwZreX87ZIYuRq0YiwKTxE7ML?=
+ =?us-ascii?Q?qiS307pNdn5HDPmHoWzl83OwerbQCVnUrvNdf7t?=
+ =?us-ascii?Q?F0bFnApTo7ggKjKdQ8Ea2pvUR+B=2F=2Fo6roFoEmI1?=
+ =?us-ascii?Q?GmMzkJCkv+OZx2oiaR6228vjBN4nrNHF5sL5bgM?=
+ =?us-ascii?Q?MoKGPRVWkm7y6pudIhHcG=2FeUOwvYLpHa8jtXKv3?=
+ =?us-ascii?Q?OekZTsbgtCjxUkoMTLWchk=3D?=
+To: ahtishamabdullah18@gmail.com
+X-Entity-ID: u001.mraEk9ISy0Rhac495OrldQ==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+hy
+
+<img src=""https://u48786586.ct.sendgrid.net/wf/open?upn=u001.Q7O9ebEV11rwgqiEqi1ho3Ninlqk2meuzPNcdYe1dVoDpCo-2FVD0fz4-2BDwGq3SDqxl6PAdHuvn3xlI0iC4I4GkyzS5Rs04v7gBhdJc5htuBjJh8hzNOpDeX3hZS7s11bjXak3HQu08jOdQ4DfXMpzs162Mo6ECHdHHNB1q3Bm4KmHmzk29BzbdsAnSVEwHqC05xsp5pH5LCeejtS85foa6l6SPIV9XH6XSKwduTcr-2Frs-3D"" alt="""" width=""1"" height=""1"" border=""0"" style=""height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/>",new.customers@joonbeauty.com,ahtishamabdullah18@gmail.com,2025-02-24,162.213.251.113,United States,et,users/48786586/fc622d32-1790-48ce-a18a-17f6f83c48df.json
+48786586,vFttz6ReROmH9YACXQKaOg.recvd-578d769b87-drch7-1-67BFC4F0-2.0,cHJvY2Vzc2VkLTQ4Nzg2NTg2LXZGdHR6NlJlUk9tSDlZQUNYUUthT2ctMA,Unsual Activity Detected,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=joonbeauty.com;
+	h=from:subject:mime-version:list-unsubscribe:list-unsubscribe-post:
+	reply-to:x-feedback-id:to:content-type:content-transfer-encoding:cc:
+	content-type:from:subject:to;
+	s=s1; bh=U+xCNTvvbv58O+ArGYd7aOq5ainMt62kSNZqu5r6Lpg=;
+	b=QkvowiQXN2+lOjsUVqm2sfV1Lehdy16F8dXdPmPBuhsGqqNULfUaw6NlGfuRADT/pU5l
+	8i/5vdRS/gdf0VlKfHgrNGb1/I7vykWazJYq2KajT1DJm00ufCWQTYPup3KwfAKpZAb+Gd
+	X3i4s7mKrR8PuQuxf8OGYKETkuJSB99b8d8LwndI/ideT1/bgyABQPS+EmTKE+D+4Pm2yC
+	WbRCD2okk9+w4+em2DGtohMsx2f/4Y6hyFNPu4zBdg7dSytOniYdJR9pGudb4oTwwSvXVa
+	HtV+OcXkpqt2TzY0nqIiuc9SxplcQ2Os38jGiBc7fRUq/KgxssWr90LYlWFQQ0LA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=from:subject:mime-version:list-unsubscribe:list-unsubscribe-post:
+	reply-to:x-feedback-id:to:content-type:content-transfer-encoding:cc:
+	content-type:from:subject:to;
+	s=smtpapi; bh=U+xCNTvvbv58O+ArGYd7aOq5ainMt62kSNZqu5r6Lpg=;
+	b=xEDJYATh89pT5MSkAq/jPCiCaTqn/W/wAUxydgrf1PBxHcV1RsiMs9hiVilnGDzmWhzH
+	4sneOq8li2ItTRVgV8bUhF/Z5TUmi1SA2utuxYBkguw233e/DyPqTLL2yOJHeQ4sLRaGZT
+	U7cfpPiK6mwuM979pnmu0iNUZDlNxskN4=
+Received: by recvd-578d769b87-drch7 with SMTP id recvd-578d769b87-drch7-1-67BFC4F0-2
+	2025-02-27 01:50:40.012317659 +0000 UTC m=+9001597.203659419
+Received: from epicurus.dns.army (unknown)
+	by geopod-ismtpd-10 (SG)
+	with ESMTP id vFttz6ReROmH9YACXQKaOg
+	for <rajwilson8477@gmail.com>;
+	Thu, 27 Feb 2025 01:50:39.726 +0000 (UTC)
+From: customer <customer@joonbeauty.com>
+Subject: Unsual Activity Detected
+Date: Thu, 27 Feb 2025 01:50:40 +0000 (UTC)
+Message-ID: <20250227025039.5391FFB2E261F8C6@joonbeauty.com>
+MIME-Version: 1.0
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fv25=2Efirsthive=2Ecom=2Fengage=2FdoUnsubscribe=3FunsUsrId=3D12345?=
+ =?us-ascii?Q?6789&amp=3Bdcfh=3D21966=3E=2C=3Cmailto=3Aunsubscrib?=
+ =?us-ascii?Q?e=40firsthive=2Ecom=3Fsubject=3Dunsubscriberajw?=
+ =?us-ascii?Q?ilson8477=40gmail=2Ecom=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Reply-To: customer <customer@joonbeauty.com>
+X-Feedback-ID: 48786586:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ZFNgiPeG13Cro0sGygljFIDC1AN54JvKoM8eXrgU0dS10ZhddxUqswcK?=
+ =?us-ascii?Q?XJ5WVuHQYC48X5RIGLzP2w9WlTHUA3sAZUioaf=2F?=
+ =?us-ascii?Q?HugIAkk4YSQDJun0AlpdDh8REeEVicrg0XTp3RL?=
+ =?us-ascii?Q?TYLbNO4roV4n47AaTL8V511V5XDpCg7dqt36eAc?=
+ =?us-ascii?Q?O6m6W7VhA7miVYHAWQN8GBIlVoGxfrrAvwwJ+Nz?=
+ =?us-ascii?Q?kyHi3wWQP1ZGVCcAchdolaStJk3L53x0XfIu6mO?= =?us-ascii?Q?hNf2?=
+To: rajwilson8477@gmail.com
+X-Entity-ID: u001.mraEk9ISy0Rhac495OrldQ==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html class=3D""sg-campaigns"" xmlns=3D""http://www.w3.org/1999/xhtml"" data-ed=
+itor-version=3D""2""><head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #ffffff;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+<div style=3D""display:none;font-size:1px;color:#fff;line-height:1px;max-hei=
+ght:0px;max-width:0px;opacity:0;overflow:hidden"">New message on your listin=
+g #9686.</div>
+      <center class=3D""wrapper"" data-body-style=3D""font-size:14px; font-fam=
+ily:arial,helvetica,sans-serif; color:#ffffff; background-color:#3a3a3a;"" d=
+ata-link-color=3D""#1188E6"">
+        <div class=3D""webkit"">
+          <table width=3D""100%"" class=3D""wrapper"" bgcolor=3D""#3a3a3a"" borde=
+r=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"">
+            <tbody><tr>
+              <td width=3D""100%"" valign=3D""top"" bgcolor=3D""#3a3a3a"">
+                <table width=3D""100%"" align=3D""center"" class=3D""outer"" role=
+=3D""content-container"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"">
+                  <tbody><tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" =
+cellpadding=3D""0"">
+                        <tbody><tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" align=3D""center"" =
+style=3D""width: 100%; max-width: 600px;"" border=3D""0"" cellspacing=3D""0"" cel=
+lpadding=3D""0"">
+                                      <tbody><tr>
+                                        <td width=3D""100%"" align=3D""left"" r=
+ole=3D""modules-container"" style=3D""padding: 20px 0px; text-align: left; col=
+or: rgb(255, 255, 255);"" bgcolor=3D""#252525""><table width=3D""100%"" class=3D=
+""module preheader preheader-hide"" role=3D""module"" style=3D""width: 0px; heig=
+ht: 0px; color: transparent; display: none !important; visibility: hidden; =
+opacity: 0; mso-hide: all;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0=
+"" data-type=3D""preheader"">
+    <tbody><tr>
+      <td role=3D""module-content"">
+        <p>You have received a new nft offer!</p>
+      </td>
+    </tr>
+  </tbody></table><table width=3D""100%"" class=3D""wrapper"" role=3D""module"" s=
+tyle=3D""table-layout: fixed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D=
+""0"" data-type=3D""image"" data-muid=3D""48e008b1-0352-4616-a761-b05ad06b6aac"">
+    <tbody>
+      <tr>
+        <td align=3D""center"" valign=3D""top"" style=3D""padding: 0px; line-hei=
+ght: 10px; font-size: 6px;"">
+          <img width=3D""300"" class=3D""max-width"" style=3D""width: 50%; heigh=
+t: auto !important; color: rgb(0, 0, 0); font-family: Helvetica, arial, san=
+s-serif; font-size: 16px; text-decoration: none; display: block; max-width:=
+ 50% !important;"" alt=3D""Logo Header"" src=3D""http://cdn.mcauto-images-produ=
+ction.sendgrid.net/cb4f9aa25f00d5a8/2bf24c60-608e-4d40-aea8-8afe52541d6e/11=
+60x302.png"" border=3D""0"" data-responsive=3D""true"" data-proportionally-const=
+rained=3D""true"">
+        </td>
+      </tr>
+    </tbody>
+  </table><table width=3D""100%"" class=3D""module"" role=3D""module"" style=3D""t=
+able-layout: fixed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" data-=
+type=3D""text"" data-muid=3D""ef4da694-a6e2-4f3a-9514-b0c6ba72296a"" data-mc-mo=
+dule-version=3D""2019-10-22"">
+    <tbody>
+      <tr>
+        <td height=3D""100%"" role=3D""module-content"" valign=3D""top"" style=3D=
+""padding: 18px 0px; text-align: inherit; line-height: 20px; background-colo=
+r: rgb(37, 37, 37);"" bgcolor=3D""#252525""><div><h1 style=3D""text-align: cent=
+er;""><span style=3D""color: rgb(255, 255, 255); font-size: 18px;""><strong>Yo=
+u've received a new bid !</strong></span></h1><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><table width=3D""100%"" class=3D""module"" role=3D""module"" style=3D""t=
+able-layout: fixed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" data-=
+type=3D""spacer"" data-muid=3D""1402e200-4a0d-477e-8790-004bcbced5ed"">
+    <tbody>
+      <tr>
+        <td role=3D""module-content"" style=3D""padding: 0px 0px 10px;"" bgcolo=
+r=3D"""">
+        </td>
+      </tr>
+    </tbody>
+  </table><table width=3D""100%"" align=3D""center"" role=3D""module"" style=3D""p=
+adding: 0px;"" bgcolor=3D""#252525"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" data-type=3D""columns"" data-distribution=3D""1"">
+    <tbody>
+      <tr role=3D""module-content"">
+        <td height=3D""100%"" valign=3D""top""><table width=3D""580"" align=3D""le=
+ft"" class=3D""column column-0"" style=3D""margin: 0px 10px; width: 580px; bord=
+er-collapse: collapse; border-spacing: 0;"" bgcolor=3D"""" border=3D""0"" cellsp=
+acing=3D""0"" cellpadding=3D""0"">
+      <tbody>
+        <tr>
+          <td style=3D""margin: 0px; padding: 0px; border-spacing: 0;""><tabl=
+e width=3D""100%"" class=3D""module"" role=3D""module"" style=3D""table-layout: fi=
+xed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" data-type=3D""text"" d=
+ata-muid=3D""d2c550d7-0245-4d26-914b-f939c2006bf4"" data-mc-module-version=3D=
+""2019-10-22"">
+    <tbody>
+      <tr>
+        <td height=3D""100%"" role=3D""module-content"" valign=3D""top"" style=3D=
+""padding: 0px; text-align: inherit; line-height: 30px; background-color: rg=
+b(37, 37, 37);"" bgcolor=3D""#252525""><div><h2 style=3D""text-align: center;"">=
+<span style=3D""color: rgb(255, 255, 255); font-size: 18px;"">A new bid has b=
+een made on  your listing !</span></h2><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table width=3D""100%"" align=3D""center"" role=3D""module"" style=3D""p=
+adding: 20px;"" bgcolor=3D""#252525"" border=3D""0"" cellspacing=3D""0"" cellpaddi=
+ng=3D""0"" data-type=3D""columns"" data-distribution=3D""1"">
+    <tbody>
+      <tr role=3D""module-content"">
+        <td height=3D""100%"" valign=3D""top""><table width=3D""500"" align=3D""le=
+ft"" class=3D""column column-0"" style=3D""margin: 0px 30px; width: 500px; bord=
+er-collapse: collapse; border-spacing: 0;"" bgcolor=3D"""" border=3D""0"" cellsp=
+acing=3D""0"" cellpadding=3D""0"">
+      <tbody>
+        <tr>
+          <td style=3D""margin: 0px; padding: 0px; border-spacing: 0;""><tabl=
+e width=3D""100%"" class=3D""module"" role=3D""module"" style=3D""table-layout: fi=
+xed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" data-type=3D""text"" d=
+ata-muid=3D""57189a0a-56e5-4508-8a6a-593b40b3f222"" data-mc-module-version=3D=
+""2019-10-22"">
+    <tbody>
+      <tr>
+        <td height=3D""100%"" role=3D""module-content"" valign=3D""top"" style=3D=
+""padding: 20px 40px; text-align: inherit; line-height: 22px; background-col=
+or: rgb(69, 69, 69);"" bgcolor=3D""#454545""><div><div style=3D""text-align: in=
+herit; font-family: inherit;""><span style=3D""color: rgb(255, 255, 255); fon=
+t-family: arial, helvetica, sans-serif;""><strong>From : 0x6B7***5595</stron=
+g></span></div>
+<div style=3D""text-align: inherit; font-family: inherit;""><span style=3D""co=
+lor: rgb(255, 255, 255); font-family: arial, helvetica, sans-serif;""><stron=
+g>User: BubbleTea01</strong></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+        </tr>
+      </tbody>
+    </table></td>
+      </tr>
+    </tbody>
+  </table><table width=3D""100%"" class=3D""module"" role=3D""module"" style=3D""t=
+able-layout: fixed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" data-=
+type=3D""button"" data-muid=3D""11cc4663-2bb4-4154-9577-b75acffb799a"" data-rol=
+e=3D""module-button"">
+      <tbody>
+        <tr>
+          <td align=3D""center"" class=3D""outer-td"" style=3D""padding: 0px;"" b=
+gcolor=3D"""">
+            <table class=3D""wrapper-mobile"" style=3D""text-align: center;"" b=
+order=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"">
+              <tbody>
+                <tr>
+                <td align=3D""center"" class=3D""inner-td"" style=3D""border-rad=
+ius: 6px; text-align: center; font-size: 16px; background-color: inherit;"" =
+bgcolor=3D""#06acff"">
+                  <a style=3D""padding: 12px 18px; border-radius: 6px; borde=
+r: 1px solid rgb(51, 51, 51); border-image: none; text-align: center; color=
+: rgb(255, 255, 255); line-height: normal; letter-spacing: 0px; font-family=
+: arial,helvetica,sans-serif; font-size: 14px; font-weight: bold; text-deco=
+ration: none; display: inline-block; background-color: rgb(6, 172, 255);"" h=
+ref=3D""https://u48786586.ct.sendgrid.net/ls/click?upn=3Du001.DFVJdgqos-2B7y=
+bLzlPU91qGYklGkpT4ae636glKAfEJWMdclci9hyO9K6CV5GiUlywZklz3OtSg0nLkZTVacSbBS=
+KPvLwzMlX11bTreNFjoS279kLifAL-2FygdVidSpvDb3JDsea-2FFPsKxerlxyXfRfzV4u31Ju3=
+b6SU-2FHVdmImD9vmb-2BZa-2FoDKapZdL8bKtkjtFyshnm7xzd5nTICd-2Btu4JxLlRCp17KpM=
+bk7Ef-2BX-2F6I-2FiW2ThmjtdR7-2FjOBnfTD1Rf34oRYxLOF6fbd-2BbRhaBsUtpslwvhWBgA=
+d6CLnyLVBtJy-2FYKNPVb-2B3Brh0VYxOeKPXrc5blAlJ7HZ36TdOGEvBX9FEntrnH8nmoTdUcL=
+ZInAPhzuYb5FvDAUC5Y9nIQsKCBuwLjw6Q6qi13ee-2FboONiQ0PMQUg11GO2E-2FxU25i-2Bzu=
+IRG1qQQGuwgI1-2F-2Bzj7JAkBoVDttwlW6L8aoo-2BMRdJrAexV45Qq5-2BySAxXWGqfIDqBSi=
+c7BC3HFBNgGyE-2FDoWoISfaVTNqut9ORmp5M8A-3D-3Dxw8-_tm73R2G1s96WiMblvqZshx6iT=
+HarxPDZ01mgG70oPYQX8DZt9c7QEq7BWzBtIzFCr4b2ryL0y4NI9cSxtf16VhRbUHVtHE15A19n=
+-2F3IA-2Fexojo3j740LbP-2BdsWlu2AAKKyv925LB2isaF6Oi4og4ig4rqlUUgIHMR-2BEyx0h=
+pc2qK-2BNkjXVfN9ScnFlLx-2BQToCnb50YbTrqboKfxCbS5c-2BQ-3D-3D"" target=3D""_bla=
+nk"">Access now</a>
+                </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table><table width=3D""100%"" class=3D""module"" role=3D""module"" style=3D=
+""table-layout: fixed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" dat=
+a-type=3D""spacer"" data-muid=3D""4efe1a24-66e1-4aa7-be24-7c33939e7525"">
+    <tbody>
+      <tr>
+        <td role=3D""module-content"" style=3D""padding: 0px 0px 30px;"" bgcolo=
+r=3D"""">
+        </td>
+      </tr>
+    </tbody>
+  </table><table width=3D""100%"" class=3D""module"" role=3D""module"" style=3D""t=
+able-layout: fixed;"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" data-=
+type=3D""code"" data-muid=3D""d5aea8db-5ac4-401b-92c7-5bfddb716ec1"">
+    <tbody>
+      <tr>
+        <td height=3D""100%"" role=3D""module-content"" valign=3D""top""><div sty=
+le=3D""font-family: inherit;""> <p style=3D""margin: 20px;"">
+                You are receiving this email because you have accepted info=
+rmation.
+                If you no longer wish to receive this type of information, =
+please
+                <a style=3D""color: rgb(0, 123, 255); text-decoration: none;=
+"" href=3D""#"">click here to unsubscribe</a>.
+                Please do not reply directly to this email. For any questio=
+ns, please
+                <a style=3D""color: rgb(0, 123, 255); text-decoration: none;=
+"" href=3D""#"">contact our Support Center</a>.
+            </p></div></td>
+      </tr>
+    </tbody>
+  </table><div class=3D""module"" role=3D""module"" style=3D""padding: 16px; tex=
+t-align: center; color: rgb(68, 68, 68); line-height: 20px; font-size: 12px=
+;"" data-type=3D""unsubscribe"" data-muid=3D""4e838cf3-9892-4a6d-94d6-170e474d2=
+1e5"" data-role=3D""module-unsubscribe""><div class=3D""Unsubscribe--addressLin=
+e""></div><p style=3D""line-height: 20px; font-family: arial,helvetica,sans-s=
+erif; font-size: 12px;""><a class=3D""Unsubscribe--unsubscribeLink"" style=3D""=
+color: rgb(0, 99, 255);"" href=3D""https://v25.firsthive.com/engage/doUnsubsc=
+ribe?unsUsrId=3D284444&amp;dcfh=3D21966>"" target=3D""_blank"">Unsubscribe</a>=
+</p></div></td>
+                                      </tr>
+                                    </tbody></table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </tbody></table>
+                    </td>
+                  </tr>
+                </tbody></table>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+      </center>
+ <img src=3D""https://u48786586.ct.sendgrid.net/wf/open?upn=3Du001.TguTT9fLH=
+cDoMLbD8w-2BKC918ldYhlPkWEkKiHHtHclhQf-2FYw6lRQ0ANvsj5yMRpgkvWf-2BenPrltYb-=
+2BoCEZwD30tf59KpC-2Bcbjktu5X2XrcJe-2BSlRnqXJRyh-2FmlHhZFnGVQPNWg4i1b85v-2F4=
+N3xowYi5vAPrV4vtHNRVz74uOokwRI49gcfL6-2B-2FubS6ZgvCs7TVQ3Y8Mm7kRp9OnGpfhfsQ=
+BFaWCtgp4EG8bX4iUAyw4-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" st=
+yle=3D""height:1px !important;width:1px !important;border-width:0 !important=
+;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importa=
+nt;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impo=
+rtant;padding-right:0 !important;padding-left:0 !important;""/></body></html=
+>
+","""customer"" <customer@joonbeauty.com>",rajwilson8477@gmail.com,2025-02-26,194.26.192.161,Netherlands,en,users/48786586/4c236ca7-737d-4a29-b302-ec700610928d.json

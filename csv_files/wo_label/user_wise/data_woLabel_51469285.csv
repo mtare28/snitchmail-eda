@@ -1,0 +1,68 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51469285,2wRqoqRUQoKdTYtoO_ua3Q.recvd-69cbc48b94-26k88-1-67E09C1B-8.0,cHJvY2Vzc2VkLTUxNDY5Mjg1LTJ3UnFvcVJVUW9LZFRZdG9PX3VhM1EtMA,Update on Your Support Ticket,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sg1.ajoilo.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=pUk1k1mmoKjv379HB5uan2sxZ2ODvEXrIo+wRAK6TvQ=;
+	b=P9vY+du/a/O4gHqtNfYlPZ0lJTmUsepai4KhEuLCntbx1rLQC6VK2lAUz/wSEi8ywgYD
+	O+r8myiQlk+21R7eIy4asiYhdx02K8JAxPby0hQkWQ2vDE+Vp4HMQ4I4Xuu9rO6KM8aMmX
+	HWGBso693NdQ9QxQHEMd0zxlL9s5WW4BT+NlgR3DSAAaI3j206xHwjX8T89uuupfYRjk56
+	fLzuVOTKKZRSe0mZElzz8qxBj0CgC1iR1GbIdlqyJVDMe7QxxW6oCWA2+SukFPAj/ghYrK
+	YzLwdjmKydeGnH+2WZzfbsxGb+FHQhJDQSjeNeO0GLAOY85ezfUon/KWqdbrCVfA==
+Received: by recvd-69cbc48b94-26k88 with SMTP id recvd-69cbc48b94-26k88-1-67E09C1B-8
+	2025-03-23 23:41:15.191050833 +0000 UTC m=+11153932.408191930
+Received: from NTE0NjkyODU (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id 2wRqoqRUQoKdTYtoO_ua3Q
+	Sun, 23 Mar 2025 23:41:14.926 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sun, 23 Mar 2025 23:41:15 +0000 (UTC)
+From: support@sg1.ajoilo.com
+Mime-Version: 1.0
+Message-ID: <2wRqoqRUQoKdTYtoO_ua3Q@geopod-ismtpd-canary-0>
+Subject: Update on Your Support Ticket
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2Fsssam7fZ08CsxXwCeewGbrffUwZ5mXjVViJ1=2FCN?=
+ =?us-ascii?Q?Jy+pOlbUh6orCrBk1quQCFGaaO3eljmG6EjEC4k?=
+ =?us-ascii?Q?kbOUEm5JD1UYVbFfdcJPZ1b4YN8InuyBddm13K+?=
+ =?us-ascii?Q?HB8hCyGZ0csP2I5DoM7USQnWS+UV3Kl5dmQI7Ml?=
+ =?us-ascii?Q?VjHywo8lAy28RB9Gw+XD8RWryZKI5TOJfDQ+gu3?=
+ =?us-ascii?Q?A=3D=3D?=
+To: daniele.redonnet@tahenry.org
+X-Entity-ID: u001.ITgWHXG33SJXevJTivIomQ==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Support Update</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://akc-partners.com/images/late.svg"" alt=3D""akc-pa=
+rtners Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Support Request Update</h2>
+        <p style=3D""color: #555;"">We have updated your support ticket. Plea=
+se check your email for details.</p>
+        <p style=3D""color: #777;"">If you need further assistance, visit <a =
+href=3D""https://u51469285.ct.sendgrid.net/ls/click?upn=3Du001.RSoSYMKZ0aQh-=
+2BgcZUtLNEfjJYeFYj-2BRjaoTL6yBrN9bElsi9ecSREjHC24Xk8lAqXVXf_E3jX7UdwUvWW16G=
+miaKN7MTRPI7ohtl5X2ksxqpIo1pZ3YQm-2BoHs5ci7ZyKMP0uj-2FNCokT4yE-2BbE5ZMgeaJE=
+QkaK3rBUx1w77l-2FKn6t9z5vDYHsd42zIcXeNCddSCsMZfiB7RnBrAJVV-2FjlppeUojm-2FSU=
+eEoHn5Twc6zTsO-2FbhOeUeGbzdRF4P9EtnmmBP7VOAz7yx9flRVkY1VKru6sNQ-3D-3D"" styl=
+e=3D""color: #007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51469285.ct.sendgrid.net/wf/open?upn=3Du001.hpozUjy7sb=
+4j8thafHFolhnteofuyoyNiK5Pc28XV-2B9o3NOgLyub29sphEYT-2BlKmsS3lFM6q5rT-2BhmE=
+Oj3xpr9MutIUGZQ1oMWH8dLexL02YJLQ8sf8ZrLYJ3FweID-2FgADYCXx8r6sGkuC6beKdnvOj5=
+J5qJAyWAlFktVtbaZz5z8QiVJ1n-2BtKNp2dpSPM62oNBHZceDDxw4-2BtgxNNgi3ZzUTHTubHP=
+t2lyl5Xz6g-2Bg-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@sg1.ajoilo.com,daniele.redonnet@tahenry.org,2025-03-23,64.226.114.206,United States,en,users/51469285/7c3a41f9-0969-44ad-b744-445ec6e91be0.json

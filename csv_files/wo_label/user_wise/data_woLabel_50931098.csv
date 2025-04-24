@@ -1,0 +1,90 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50931098,9-jYNTu7Sa6HJt13Tzm5yA.recvd-69cbc48b94-f5rdb-1-67C0A44E-E.0,cHJvY2Vzc2VkLTUwOTMxMDk4LTktallOVHU3U2E2SEp0MTNUem01eUEtMA,Hello,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:mime-version:subject:from:to:cc:content-type:from:
+	subject:to;
+	s=smtpapi; bh=h+B/1v5aTa/391KY13aVibQV7pwKoQ7fJs2N518+euM=;
+	b=s7yYXzMh5L4C106O4rqS++OSe4zvZ/QL8ZLPGdqomnwIxhk+0miSL2f5gM6ZcSmDeoZL
+	vUslr29H1c1jQVgr99HGxuHrkMGN3qKDqqr2N0ahPLgoD/8U2OIUq1fkw4iQoEr3+Y3NGK
+	NbFQxz323oDyEKYL/PLijgyxbtXRinq6g=
+Received: by recvd-69cbc48b94-f5rdb with SMTP id recvd-69cbc48b94-f5rdb-1-67C0A44E-E
+	2025-02-27 17:43:42.426703347 +0000 UTC m=+9058935.621897262
+Received: from TINY-AF6BFA44.us-east4-a.c.cogent-node-451517-r1.internal (unknown)
+	by geopod-ismtpd-39 (SG) with ESMTP id 9-jYNTu7Sa6HJt13Tzm5yA
+	for <erin@paintdoctor.net>; Thu, 27 Feb 2025 17:43:42.226 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=""===============1578742452==""
+MIME-Version: 1.0
+Subject: Hello
+From: Qxa Ecds <erin@paintdoctor.net>
+Date: Thu, 27 Feb 2025 17:43:42 +0000 (UTC)
+Message-ID: <9-jYNTu7Sa6HJt13Tzm5yA@geopod-ismtpd-39>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EYvVP=2FtZjMJFO7gQcCDPAW0poiOo60qO1p+5NxyfhPltZK2eJ8pydkrglF?=
+ =?us-ascii?Q?DlziT5JkL=2F7Cq0ShTPdkRolGIWuj8p5ImZay0cF?=
+ =?us-ascii?Q?14dDq=2FXyacCq8KKVAuUOkpeP1lEKwFFzR6F4VmP?=
+ =?us-ascii?Q?BwoXV4Rrd8iYbFqbxb65bb=2FLvnH1kaKFj+Uc+SH?=
+ =?us-ascii?Q?6yd4wqQ9FCJF7VUd+ZDlEjQg0r2KE+in6tdDZ8u?=
+ =?us-ascii?Q?8zqTgmt14+MUC8MehsBZhI=3D?=
+To: erin@paintdoctor.net
+X-Entity-ID: u001.+ku8LCLUTMId9FosvHbEKQ==
+
+You will not see this in a MIME-aware mail reader.
+--===============1578742452==
+Content-Type: text/plain; charset=us-ascii
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+dsfref referre
+--===============1578742452==
+Content-Type: text/html; charset=us-ascii
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=
+=3Diso-8859-1""/></head>dsfref referre<img src=3D""https://u50931098.ct.sendg=
+rid.net/wf/open?upn=3Du001.ikUdszgzl4i3wnfgZiK1wmn1oLPKGkK7lk1quP5MNiqT5Ef5=
+spWDtIUoV6EsSqObGheMXeaoSTeaBpvYcaVsRk1kYhCrnGGOxtoPbwzIU9uMJYbBnzieXgsUm4L=
+6eaKAk6zM-2BiT8nPWPnytI1rU6YpmWC9voqa6YNjRslI9xys2JqRAoQ17j0lfFHSA0cc2-2FBs=
+MeWM9hpc-2FXU7268jrGVQ-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0=
+"" style=3D""height:1px !important;width:1px !important;border-width:0 !impor=
+tant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !imp=
+ortant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !=
+important;padding-right:0 !important;padding-left:0 !important;""/></html>
+--===============1578742452==--
+","""Qxa Ecds"" <erin@paintdoctor.net>",erin@paintdoctor.net,2025-02-27,35.245.229.24,United States,fi,users/50931098/a1831e9a-a0f6-4089-8af9-93a219803ce1.json
+50931098,CzEk7eM8SImN7EpHPgt9Qg.recvd-69cbc48b94-5zxfq-1-67C1169F-5.0,cHJvY2Vzc2VkLTUwOTMxMDk4LUN6RWs3ZU04U0ltTjdFcEhQZ3Q5UWctMA,Hello,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:mime-version:content-transfer-encoding:
+	content-description:subject:from:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=pd1pFhINomBmrNF0xb7iy0F7B71ffsuVs/HonrDOVJM=;
+	b=yH0+QW1Y+lKX61PoZAhRJ/lXLRkPiTozgCrZ3e5FauVKvXLgZb+pKtzICMWZXJzUneaR
+	3WGUEAJhyLgyy0lGWo0acmY36+jgQODtL3Fue+htDJbIaclhyxtHmWGINLOSHobJdt6GiO
+	S9xebqabDdSVQSxwMjaWdZ7YtQmAc+VDo=
+Received: by recvd-69cbc48b94-5zxfq with SMTP id recvd-69cbc48b94-5zxfq-1-67C1169F-5
+	2025-02-28 01:51:27.073129229 +0000 UTC m=+9088075.593191908
+Received: from [169.254.222.151] (unknown)
+	by geopod-ismtpd-33 (SG)
+	with ESMTP id CzEk7eM8SImN7EpHPgt9Qg
+	for <hmadewell@madewellkitchens.com>;
+	Fri, 28 Feb 2025 01:51:27.033 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Hello
+From: Trav Lits <erin@paintdoctor.net>
+Date: Fri, 28 Feb 2025 01:51:27 +0000 (UTC)
+Message-ID: <CzEk7eM8SImN7EpHPgt9Qg@geopod-ismtpd-33>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ELyLYzCgsTFdmLrk9723g+sBg8h+EOcofupN7vVKFVV0wzmLeHSP9ML18Y?=
+ =?us-ascii?Q?qzoIBXvOYOTT3MzfiQQBm2f8nn2Pd=2FfHAnJ9K8V?=
+ =?us-ascii?Q?IypY6gxcot2XiAteec=2FE6kt5upfrTeizL9HklKn?=
+ =?us-ascii?Q?hxs=2FZ5QamQGif0bl5aQB0zNOg+3vszm91j+VQZ0?=
+ =?us-ascii?Q?ru5lDLBeI0TwGPSyyLoODQEqAIWI0TNPc8FZR3X?=
+ =?us-ascii?Q?ww9IPwiYEZR2=2FeYNKSi=2FRXiePnBGqIrjNkziKJW?=
+ =?us-ascii?Q?HFUA?=
+To: hmadewell@madewellkitchens.com
+X-Entity-ID: u001.+ku8LCLUTMId9FosvHbEKQ==
+
+Hello, how are you?
+","""Trav Lits"" <erin@paintdoctor.net>",hmadewell@madewellkitchens.com,2025-02-27,45.55.85.203,United States,fi,users/50931098/baf19e5e-e8ae-486f-b3bd-5581fc3ec823.json

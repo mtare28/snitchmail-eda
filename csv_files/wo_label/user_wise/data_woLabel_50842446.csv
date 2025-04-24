@@ -1,0 +1,2433 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50842446,IFAwdlscTZWJx11XxW456g.recvd-69cbc48b94-gnhn4-1-67BDAFE4-1C.0,cHJvY2Vzc2VkLTUwODQyNDQ2LUlGQXdkbHNjVFpXSngxMVh4VzQ1NmctMA,ss,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=zxss.mensshoescorner.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=z0SgpEG8bTFU7+hqWEFP2fSVRnwuTtJayWHUnyNt7Ys=;
+	b=Gn+ECHHhpjwk3yok3roXttgLf8n547fBTR2fzC6ydr1vhE5yEzIl5rw78SOQUWipC+cg
+	b2RTllZIf3NfkzNM4frRhwox15Rbd4ZfS0DeE4Kx1mz7jRdEZU52mbCW2mobVNyEpkScG4
+	TppqJwXfVqf2MoM/y00XqIxqgpzmU3vQJ7i1+4DufyJhH5Awwz9Z24NNmN2Zr3jxru3E48
+	xtGT3TKt36Bb/QVoUpOrOrxv/lBhnyz8+KkTvsPYmoDPPd5FtebxegLAUPvHZxusna+HiP
+	W8e5E4aucCwbJ/MtDTn5v2re9q1PP0pB1xoxni3oRI56Z/bwWFouOb7RfXyu8GpA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=z0SgpEG8bTFU7+hqWEFP2fSVRnwuTtJayWHUnyNt7Ys=;
+	b=RzTN3Sr8D18/q03GvOyHsxeUBYhxeZ1kJsxZp5BrJspPYHcBwg7LQheigezSH83PNWSp
+	MU9hrbuRQdSrOh1vrEIzvY+H0w7/53GtXP783kGFJYLBm+ntx04wGClxABwp23Tb6OzQV8
+	7c8ev4xbHdzKTXwzdkpDV540tKlgZsfRI=
+Received: by recvd-69cbc48b94-gnhn4 with SMTP id recvd-69cbc48b94-gnhn4-1-67BDAFE4-1C
+	2025-02-25 11:56:20.757475312 +0000 UTC m=+8865201.475494089
+Received: from NTA4NDI0NDY (unknown)
+	by geopod-ismtpd-39 (SG) with HTTP
+	id IFAwdlscTZWJx11XxW456g
+	Tue, 25 Feb 2025 11:56:20.563 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Tue, 25 Feb 2025 11:56:20 +0000 (UTC)
+From: xx <info@zxss.mensshoescorner.info>
+Mime-Version: 1.0
+Message-ID: <IFAwdlscTZWJx11XxW456g@geopod-ismtpd-39>
+Subject: ss
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EUITtFW3yfGT4za+etG7vjB9t6W98Vyl921X1H5IlVBDMIkGiy82r29FsM?=
+ =?us-ascii?Q?PrtgUD1eou88Os0H6mIZt+50tXnKyR7aLFA65kO?=
+ =?us-ascii?Q?HuoNduRehq=2Fu8eNm0R15e1EHl93dtRvL+wbKQWA?=
+ =?us-ascii?Q?y7L0kL8+24+C+qpDpJL0tZm0L70TImuwmPgpiNb?=
+ =?us-ascii?Q?GPTzYNx=2FaZ3oxz1PiaI96GRfJzlSVvmgJ1oscsr?=
+ =?us-ascii?Q?UPxPzQWaX5OsVgdwCUBpu3jzkJzUcbIPnkGQDl7?= =?us-ascii?Q?7Trn?=
+To: bustedgrand.81726@aol.com
+X-Entity-ID: u001.AW0T5+VIcyf/zROtPIZP3Q==
+
+<!DOCTYPE html>
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"" style=3D""color-scheme: lig=
+ht dark; supported-color-schemes: light dark; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>@media (prefers-color-scheme:dark) {
+  .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  [data-ogsc] .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  [data-ogsc] .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  .inner_dmodetext {
+    color: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  [data-ogsc] .inner_dmodetext {
+    color: #ffffff !important;
+  }
+}
+body {
+margin: 0; padding: 0; -webkit-font-smoothing: antialiased; -moz-font-smoot=
+hing: antialiased; -o-font-smoothing: antialiased; mso-line-height-rule: ex=
+actly;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Bold.woff2') format('woff2=
+'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-BoldItalic.woff2.woff2') f=
+ormat('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Regular.woff2') format('wo=
+ff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-RegularItalic.woff2') form=
+at('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Bold.woff2') format('wof=
+f2'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-BoldItalic.woff2.woff2')=
+ format('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Regular.woff2') format('=
+woff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-RegularItalic.woff2') fo=
+rmat('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Bold.woff2') format('woff2'); fo=
+nt-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-BoldItalic.woff2.woff2') format(=
+'woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Regular.woff2') format('woff2');=
+ font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-RegularItalic.woff2') format('wo=
+ff2'); font-weight: 400; font-style: italic;
+}
+@media screen and (max-width:480px) {
+  .show {
+    display: block !important;
+  }
+  .nomob {
+    display: none !important; width: 0px !important; height: 0px !important=
+;
+  }
+  .mobilecontent {
+    display: block !important; max-height: none !important;
+  }
+  .wrapto100pc {
+    width: 100% !important; height: auto !important;
+  }
+  .wrapto90pc {
+    width: 90% !important; height: auto !important;
+  }
+  .wrapto85pc {
+    width: 85% !important; height: auto !important;
+  }
+  .wrapto80pc {
+    width: 80% !important; height: auto !important;
+  }
+  .wrapto70pc {
+    width: 70% !important; height: auto !important;
+  }
+  .wrapto60pc {
+    width: 60% !important; height: auto !important;
+  }
+  .wrapto53pc {
+    width: 53% !important; height: auto !important;
+  }
+  .wrapto50pc {
+    width: 50% !important; height: auto !important;
+  }
+  .wrapto47pc {
+    width: 47% !important; height: auto !important;
+  }
+  .wrapto40pc {
+    width: 40% !important; height: auto !important;
+  }
+  .wrapto30pc {
+    width: 30% !important; height: auto !important;
+  }
+  .wrapto25pc {
+    width: 25% !important; height: auto !important;
+  }
+  .wrapto20pc {
+    width: 20% !important; height: auto !important;
+  }
+  .wrapto110px {
+    width: 110px !important; height: auto !important;
+  }
+  .wrapto67px {
+    width: 67px !important; height: auto !important;
+  }
+  .wrapto39px {
+    width: 39px !important; height: auto !important;
+  }
+  .wrapto36px {
+    width: 36px !important; height: auto !important;
+  }
+  .wrapto24px {
+    width: 24px !important; height: auto !important;
+  }
+  .stack-column {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-center {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-left {
+    text-align: left !important; display: block !important; width: 100% !im=
+portant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stack-column-right {
+    text-align: right !important; display: block !important; width: 100% !i=
+mportant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stackholder {
+    display: table; width: 100%;
+  }
+  .stacktop {
+    display: table-header-group !important;
+  }
+  .stackbottom {
+    display: table-footer-group !important;
+  }
+  .p0 {
+    padding: 0px !important;
+  }
+  .t0 {
+    padding-top: 0px !important;
+  }
+  .t4 {
+    padding-top: 4px !important;
+  }
+  .t8 {
+    padding-top: 8px !important;
+  }
+  .t12 {
+    padding-top: 12px !important;
+  }
+  .t16 {
+    padding-top: 16px !important;
+  }
+  .t20 {
+    padding-top: 20px !important;
+  }
+  .t24 {
+    padding-top: 24px !important;
+  }
+  .t30 {
+    padding-top: 30px !important;
+  }
+  .t36 {
+    padding-top: 36px !important;
+  }
+  .t48 {
+    padding-top: 48px !important;
+  }
+  .t96 {
+    padding-top: 96px !important;
+  }
+  .b0 {
+    padding-bottom: 0px !important;
+  }
+  .b4 {
+    padding-bottom: 4px !important;
+  }
+  .b8 {
+    padding-bottom: 8px !important;
+  }
+  .b12 {
+    padding-bottom: 12px !important;
+  }
+  .b16 {
+    padding-bottom: 16px !important;
+  }
+  .b20 {
+    padding-bottom: 20px !important;
+  }
+  .b24 {
+    padding-bottom: 24px !important;
+  }
+  .b30 {
+    padding-bottom: 30px !important;
+  }
+  .b36 {
+    padding-bottom: 36px !important;
+  }
+  .b48 {
+    padding-bottom: 48px !important;
+  }
+  .b96 {
+    padding-bottom: 96px !important;
+  }
+  .pl0 {
+    padding-left: 0px !important;
+  }
+  .pl8 {
+    padding-left: 8px !important;
+  }
+  .pl12 {
+    padding-left: 12px !important;
+  }
+  .pl16 {
+    padding-left: 16px !important;
+  }
+  .pl24 {
+    padding-left: 24px !important;
+  }
+  .pl25 {
+    padding-left: 25px !important;
+  }
+  .pr0 {
+    padding-right: 0px !important;
+  }
+  .pr8 {
+    padding-right: 8px !important;
+  }
+  .pr12 {
+    padding-right: 12px !important;
+  }
+  .pr16 {
+    padding-right: 16px !important;
+  }
+  .pr24 {
+    padding-right: 24px !important;
+  }
+  .pr25 {
+    padding-right: 25px !important;
+  }
+  .plr0 {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  .plr4 {
+    padding-right: 4px !important; padding-left: 4px !important;
+  }
+  .plr12 {
+    padding-left: 12px !important; padding-right: 12px !important;
+  }
+  .plr16 {
+    padding-left: 16px !important; padding-right: 16px !important;
+  }
+  .plr20 {
+    padding-left: 20px !important; padding-right: 20px !important;
+  }
+  .plr25 {
+    padding-left: 25px !important; padding-right: 25px !important;
+  }
+  .plr32 {
+    padding-left: 32px !important; padding-right: 32px !important;
+  }
+  .widthauto {
+    width: auto !important;
+  }
+  .heightauto {
+    height: auto !important;
+  }
+  .a-left {
+    text-align: left !important;
+  }
+  .a-right {
+    text-align: right !important;
+  }
+  .a-center {
+    text-align: center !important;
+  }
+  .border0 {
+    border-top-width: 0px !important; border-bottom-width: 0px !important; =
+border-left-width: 0px !important; border-right-width: 0px !important;
+  }
+  .bold {
+    font-weight: 700 !important;
+  }
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+@media screen and (max-device-width: 480px) {
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+</style>
+</head>
+<head>
+  <meta charset=3D""utf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1=
+ user-scalable=3Dyes"">
+  <meta name=3D""format-detection"" content=3D""telephone=3Dno, date=3Dno, add=
+ress=3Dno, email=3Dno, url=3Dno"">
+  <meta name=3D""x-apple-disable-message-reformatting"">
+  <meta name=3D""color-scheme"" content=3D""light dark"">
+  <meta name=3D""supported-color-schemes"" content=3D""light dark"">
+
+  <title>The Guardian</title>
+  <!--[if mso]>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+
+
+<!--DARK MODE STYLES-->
+
+
+<!--STYLES-->
+
+
+
+
+ =20
+
+
+  <!--MOBILE FONTS-->
+ =20
+
+</head><!DOCTYPE html>
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"" style=3D""color-scheme: lig=
+ht dark; supported-color-schemes: light dark; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>@media (prefers-color-scheme:dark) {
+  .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  [data-ogsc] .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  [data-ogsc] .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  .inner_dmodetext {
+    color: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  [data-ogsc] .inner_dmodetext {
+    color: #ffffff !important;
+  }
+}
+body {
+margin: 0; padding: 0; -webkit-font-smoothing: antialiased; -moz-font-smoot=
+hing: antialiased; -o-font-smoothing: antialiased; mso-line-height-rule: ex=
+actly;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Bold.woff2') format('woff2=
+'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-BoldItalic.woff2.woff2') f=
+ormat('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Regular.woff2') format('wo=
+ff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-RegularItalic.woff2') form=
+at('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Bold.woff2') format('wof=
+f2'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-BoldItalic.woff2.woff2')=
+ format('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Regular.woff2') format('=
+woff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-RegularItalic.woff2') fo=
+rmat('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Bold.woff2') format('woff2'); fo=
+nt-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-BoldItalic.woff2.woff2') format(=
+'woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Regular.woff2') format('woff2');=
+ font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-RegularItalic.woff2') format('wo=
+ff2'); font-weight: 400; font-style: italic;
+}
+@media screen and (max-width:480px) {
+  .show {
+    display: block !important;
+  }
+  .nomob {
+    display: none !important; width: 0px !important; height: 0px !important=
+;
+  }
+  .mobilecontent {
+    display: block !important; max-height: none !important;
+  }
+  .wrapto100pc {
+    width: 100% !important; height: auto !important;
+  }
+  .wrapto90pc {
+    width: 90% !important; height: auto !important;
+  }
+  .wrapto85pc {
+    width: 85% !important; height: auto !important;
+  }
+  .wrapto80pc {
+    width: 80% !important; height: auto !important;
+  }
+  .wrapto70pc {
+    width: 70% !important; height: auto !important;
+  }
+  .wrapto60pc {
+    width: 60% !important; height: auto !important;
+  }
+  .wrapto53pc {
+    width: 53% !important; height: auto !important;
+  }
+  .wrapto50pc {
+    width: 50% !important; height: auto !important;
+  }
+  .wrapto47pc {
+    width: 47% !important; height: auto !important;
+  }
+  .wrapto40pc {
+    width: 40% !important; height: auto !important;
+  }
+  .wrapto30pc {
+    width: 30% !important; height: auto !important;
+  }
+  .wrapto25pc {
+    width: 25% !important; height: auto !important;
+  }
+  .wrapto20pc {
+    width: 20% !important; height: auto !important;
+  }
+  .wrapto110px {
+    width: 110px !important; height: auto !important;
+  }
+  .wrapto67px {
+    width: 67px !important; height: auto !important;
+  }
+  .wrapto39px {
+    width: 39px !important; height: auto !important;
+  }
+  .wrapto36px {
+    width: 36px !important; height: auto !important;
+  }
+  .wrapto24px {
+    width: 24px !important; height: auto !important;
+  }
+  .stack-column {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-center {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-left {
+    text-align: left !important; display: block !important; width: 100% !im=
+portant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stack-column-right {
+    text-align: right !important; display: block !important; width: 100% !i=
+mportant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stackholder {
+    display: table; width: 100%;
+  }
+  .stacktop {
+    display: table-header-group !important;
+  }
+  .stackbottom {
+    display: table-footer-group !important;
+  }
+  .p0 {
+    padding: 0px !important;
+  }
+  .t0 {
+    padding-top: 0px !important;
+  }
+  .t4 {
+    padding-top: 4px !important;
+  }
+  .t8 {
+    padding-top: 8px !important;
+  }
+  .t12 {
+    padding-top: 12px !important;
+  }
+  .t16 {
+    padding-top: 16px !important;
+  }
+  .t20 {
+    padding-top: 20px !important;
+  }
+  .t24 {
+    padding-top: 24px !important;
+  }
+  .t30 {
+    padding-top: 30px !important;
+  }
+  .t36 {
+    padding-top: 36px !important;
+  }
+  .t48 {
+    padding-top: 48px !important;
+  }
+  .t96 {
+    padding-top: 96px !important;
+  }
+  .b0 {
+    padding-bottom: 0px !important;
+  }
+  .b4 {
+    padding-bottom: 4px !important;
+  }
+  .b8 {
+    padding-bottom: 8px !important;
+  }
+  .b12 {
+    padding-bottom: 12px !important;
+  }
+  .b16 {
+    padding-bottom: 16px !important;
+  }
+  .b20 {
+    padding-bottom: 20px !important;
+  }
+  .b24 {
+    padding-bottom: 24px !important;
+  }
+  .b30 {
+    padding-bottom: 30px !important;
+  }
+  .b36 {
+    padding-bottom: 36px !important;
+  }
+  .b48 {
+    padding-bottom: 48px !important;
+  }
+  .b96 {
+    padding-bottom: 96px !important;
+  }
+  .pl0 {
+    padding-left: 0px !important;
+  }
+  .pl8 {
+    padding-left: 8px !important;
+  }
+  .pl12 {
+    padding-left: 12px !important;
+  }
+  .pl16 {
+    padding-left: 16px !important;
+  }
+  .pl24 {
+    padding-left: 24px !important;
+  }
+  .pl25 {
+    padding-left: 25px !important;
+  }
+  .pr0 {
+    padding-right: 0px !important;
+  }
+  .pr8 {
+    padding-right: 8px !important;
+  }
+  .pr12 {
+    padding-right: 12px !important;
+  }
+  .pr16 {
+    padding-right: 16px !important;
+  }
+  .pr24 {
+    padding-right: 24px !important;
+  }
+  .pr25 {
+    padding-right: 25px !important;
+  }
+  .plr0 {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  .plr4 {
+    padding-right: 4px !important; padding-left: 4px !important;
+  }
+  .plr12 {
+    padding-left: 12px !important; padding-right: 12px !important;
+  }
+  .plr16 {
+    padding-left: 16px !important; padding-right: 16px !important;
+  }
+  .plr20 {
+    padding-left: 20px !important; padding-right: 20px !important;
+  }
+  .plr25 {
+    padding-left: 25px !important; padding-right: 25px !important;
+  }
+  .plr32 {
+    padding-left: 32px !important; padding-right: 32px !important;
+  }
+  .widthauto {
+    width: auto !important;
+  }
+  .heightauto {
+    height: auto !important;
+  }
+  .a-left {
+    text-align: left !important;
+  }
+  .a-right {
+    text-align: right !important;
+  }
+  .a-center {
+    text-align: center !important;
+  }
+  .border0 {
+    border-top-width: 0px !important; border-bottom-width: 0px !important; =
+border-left-width: 0px !important; border-right-width: 0px !important;
+  }
+  .bold {
+    font-weight: 700 !important;
+  }
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+@media screen and (max-device-width: 480px) {
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+</style>
+</head>
+<head>
+  <meta charset=3D""utf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1=
+ user-scalable=3Dyes"">
+  <meta name=3D""format-detection"" content=3D""telephone=3Dno, date=3Dno, add=
+ress=3Dno, email=3Dno, url=3Dno"">
+  <meta name=3D""x-apple-disable-message-reformatting"">
+  <meta name=3D""color-scheme"" content=3D""light dark"">
+  <meta name=3D""supported-color-schemes"" content=3D""light dark"">
+
+  <title>The Guardian</title>
+  <!--[if mso]>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+
+
+<!--DARK MODE STYLES-->
+
+
+<!--STYLES-->
+
+
+
+
+ =20
+
+
+  <!--MOBILE FONTS-->
+ =20
+
+</head><!DOCTYPE html>
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"" style=3D""color-scheme: lig=
+ht dark; supported-color-schemes: light dark; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>@media (prefers-color-scheme:dark) {
+  .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  [data-ogsc] .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  [data-ogsc] .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  .inner_dmodetext {
+    color: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  [data-ogsc] .inner_dmodetext {
+    color: #ffffff !important;
+  }
+}
+body {
+margin: 0; padding: 0; -webkit-font-smoothing: antialiased; -moz-font-smoot=
+hing: antialiased; -o-font-smoothing: antialiased; mso-line-height-rule: ex=
+actly;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Bold.woff2') format('woff2=
+'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-BoldItalic.woff2.woff2') f=
+ormat('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Regular.woff2') format('wo=
+ff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-RegularItalic.woff2') form=
+at('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Bold.woff2') format('wof=
+f2'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-BoldItalic.woff2.woff2')=
+ format('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Regular.woff2') format('=
+woff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-RegularItalic.woff2') fo=
+rmat('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Bold.woff2') format('woff2'); fo=
+nt-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-BoldItalic.woff2.woff2') format(=
+'woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Regular.woff2') format('woff2');=
+ font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-RegularItalic.woff2') format('wo=
+ff2'); font-weight: 400; font-style: italic;
+}
+@media screen and (max-width:480px) {
+  .show {
+    display: block !important;
+  }
+  .nomob {
+    display: none !important; width: 0px !important; height: 0px !important=
+;
+  }
+  .mobilecontent {
+    display: block !important; max-height: none !important;
+  }
+  .wrapto100pc {
+    width: 100% !important; height: auto !important;
+  }
+  .wrapto90pc {
+    width: 90% !important; height: auto !important;
+  }
+  .wrapto85pc {
+    width: 85% !important; height: auto !important;
+  }
+  .wrapto80pc {
+    width: 80% !important; height: auto !important;
+  }
+  .wrapto70pc {
+    width: 70% !important; height: auto !important;
+  }
+  .wrapto60pc {
+    width: 60% !important; height: auto !important;
+  }
+  .wrapto53pc {
+    width: 53% !important; height: auto !important;
+  }
+  .wrapto50pc {
+    width: 50% !important; height: auto !important;
+  }
+  .wrapto47pc {
+    width: 47% !important; height: auto !important;
+  }
+  .wrapto40pc {
+    width: 40% !important; height: auto !important;
+  }
+  .wrapto30pc {
+    width: 30% !important; height: auto !important;
+  }
+  .wrapto25pc {
+    width: 25% !important; height: auto !important;
+  }
+  .wrapto20pc {
+    width: 20% !important; height: auto !important;
+  }
+  .wrapto110px {
+    width: 110px !important; height: auto !important;
+  }
+  .wrapto67px {
+    width: 67px !important; height: auto !important;
+  }
+  .wrapto39px {
+    width: 39px !important; height: auto !important;
+  }
+  .wrapto36px {
+    width: 36px !important; height: auto !important;
+  }
+  .wrapto24px {
+    width: 24px !important; height: auto !important;
+  }
+  .stack-column {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-center {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-left {
+    text-align: left !important; display: block !important; width: 100% !im=
+portant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stack-column-right {
+    text-align: right !important; display: block !important; width: 100% !i=
+mportant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stackholder {
+    display: table; width: 100%;
+  }
+  .stacktop {
+    display: table-header-group !important;
+  }
+  .stackbottom {
+    display: table-footer-group !important;
+  }
+  .p0 {
+    padding: 0px !important;
+  }
+  .t0 {
+    padding-top: 0px !important;
+  }
+  .t4 {
+    padding-top: 4px !important;
+  }
+  .t8 {
+    padding-top: 8px !important;
+  }
+  .t12 {
+    padding-top: 12px !important;
+  }
+  .t16 {
+    padding-top: 16px !important;
+  }
+  .t20 {
+    padding-top: 20px !important;
+  }
+  .t24 {
+    padding-top: 24px !important;
+  }
+  .t30 {
+    padding-top: 30px !important;
+  }
+  .t36 {
+    padding-top: 36px !important;
+  }
+  .t48 {
+    padding-top: 48px !important;
+  }
+  .t96 {
+    padding-top: 96px !important;
+  }
+  .b0 {
+    padding-bottom: 0px !important;
+  }
+  .b4 {
+    padding-bottom: 4px !important;
+  }
+  .b8 {
+    padding-bottom: 8px !important;
+  }
+  .b12 {
+    padding-bottom: 12px !important;
+  }
+  .b16 {
+    padding-bottom: 16px !important;
+  }
+  .b20 {
+    padding-bottom: 20px !important;
+  }
+  .b24 {
+    padding-bottom: 24px !important;
+  }
+  .b30 {
+    padding-bottom: 30px !important;
+  }
+  .b36 {
+    padding-bottom: 36px !important;
+  }
+  .b48 {
+    padding-bottom: 48px !important;
+  }
+  .b96 {
+    padding-bottom: 96px !important;
+  }
+  .pl0 {
+    padding-left: 0px !important;
+  }
+  .pl8 {
+    padding-left: 8px !important;
+  }
+  .pl12 {
+    padding-left: 12px !important;
+  }
+  .pl16 {
+    padding-left: 16px !important;
+  }
+  .pl24 {
+    padding-left: 24px !important;
+  }
+  .pl25 {
+    padding-left: 25px !important;
+  }
+  .pr0 {
+    padding-right: 0px !important;
+  }
+  .pr8 {
+    padding-right: 8px !important;
+  }
+  .pr12 {
+    padding-right: 12px !important;
+  }
+  .pr16 {
+    padding-right: 16px !important;
+  }
+  .pr24 {
+    padding-right: 24px !important;
+  }
+  .pr25 {
+    padding-right: 25px !important;
+  }
+  .plr0 {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  .plr4 {
+    padding-right: 4px !important; padding-left: 4px !important;
+  }
+  .plr12 {
+    padding-left: 12px !important; padding-right: 12px !important;
+  }
+  .plr16 {
+    padding-left: 16px !important; padding-right: 16px !important;
+  }
+  .plr20 {
+    padding-left: 20px !important; padding-right: 20px !important;
+  }
+  .plr25 {
+    padding-left: 25px !important; padding-right: 25px !important;
+  }
+  .plr32 {
+    padding-left: 32px !important; padding-right: 32px !important;
+  }
+  .widthauto {
+    width: auto !important;
+  }
+  .heightauto {
+    height: auto !important;
+  }
+  .a-left {
+    text-align: left !important;
+  }
+  .a-right {
+    text-align: right !important;
+  }
+  .a-center {
+    text-align: center !important;
+  }
+  .border0 {
+    border-top-width: 0px !important; border-bottom-width: 0px !important; =
+border-left-width: 0px !important; border-right-width: 0px !important;
+  }
+  .bold {
+    font-weight: 700 !important;
+  }
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+@media screen and (max-device-width: 480px) {
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+</style>
+</head>
+<head>
+  <meta charset=3D""utf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1=
+ user-scalable=3Dyes"">
+  <meta name=3D""format-detection"" content=3D""telephone=3Dno, date=3Dno, add=
+ress=3Dno, email=3Dno, url=3Dno"">
+  <meta name=3D""x-apple-disable-message-reformatting"">
+  <meta name=3D""color-scheme"" content=3D""light dark"">
+  <meta name=3D""supported-color-schemes"" content=3D""light dark"">
+
+  <title>The Guardian</title>
+  <!--[if mso]>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+
+
+<!--DARK MODE STYLES-->
+
+
+<!--STYLES-->
+
+
+
+
+ =20
+
+
+  <!--MOBILE FONTS-->
+ =20
+
+</head><!DOCTYPE html>
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"" style=3D""color-scheme: lig=
+ht dark; supported-color-schemes: light dark; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>@media (prefers-color-scheme:dark) {
+  .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  [data-ogsc] .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  [data-ogsc] .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  .inner_dmodetext {
+    color: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  [data-ogsc] .inner_dmodetext {
+    color: #ffffff !important;
+  }
+}
+body {
+margin: 0; padding: 0; -webkit-font-smoothing: antialiased; -moz-font-smoot=
+hing: antialiased; -o-font-smoothing: antialiased; mso-line-height-rule: ex=
+actly;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Bold.woff2') format('woff2=
+'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-BoldItalic.woff2.woff2') f=
+ormat('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Regular.woff2') format('wo=
+ff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-RegularItalic.woff2') form=
+at('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Bold.woff2') format('wof=
+f2'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-BoldItalic.woff2.woff2')=
+ format('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Regular.woff2') format('=
+woff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-RegularItalic.woff2') fo=
+rmat('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Bold.woff2') format('woff2'); fo=
+nt-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-BoldItalic.woff2.woff2') format(=
+'woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Regular.woff2') format('woff2');=
+ font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-RegularItalic.woff2') format('wo=
+ff2'); font-weight: 400; font-style: italic;
+}
+@media screen and (max-width:480px) {
+  .show {
+    display: block !important;
+  }
+  .nomob {
+    display: none !important; width: 0px !important; height: 0px !important=
+;
+  }
+  .mobilecontent {
+    display: block !important; max-height: none !important;
+  }
+  .wrapto100pc {
+    width: 100% !important; height: auto !important;
+  }
+  .wrapto90pc {
+    width: 90% !important; height: auto !important;
+  }
+  .wrapto85pc {
+    width: 85% !important; height: auto !important;
+  }
+  .wrapto80pc {
+    width: 80% !important; height: auto !important;
+  }
+  .wrapto70pc {
+    width: 70% !important; height: auto !important;
+  }
+  .wrapto60pc {
+    width: 60% !important; height: auto !important;
+  }
+  .wrapto53pc {
+    width: 53% !important; height: auto !important;
+  }
+  .wrapto50pc {
+    width: 50% !important; height: auto !important;
+  }
+  .wrapto47pc {
+    width: 47% !important; height: auto !important;
+  }
+  .wrapto40pc {
+    width: 40% !important; height: auto !important;
+  }
+  .wrapto30pc {
+    width: 30% !important; height: auto !important;
+  }
+  .wrapto25pc {
+    width: 25% !important; height: auto !important;
+  }
+  .wrapto20pc {
+    width: 20% !important; height: auto !important;
+  }
+  .wrapto110px {
+    width: 110px !important; height: auto !important;
+  }
+  .wrapto67px {
+    width: 67px !important; height: auto !important;
+  }
+  .wrapto39px {
+    width: 39px !important; height: auto !important;
+  }
+  .wrapto36px {
+    width: 36px !important; height: auto !important;
+  }
+  .wrapto24px {
+    width: 24px !important; height: auto !important;
+  }
+  .stack-column {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-center {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-left {
+    text-align: left !important; display: block !important; width: 100% !im=
+portant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stack-column-right {
+    text-align: right !important; display: block !important; width: 100% !i=
+mportant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stackholder {
+    display: table; width: 100%;
+  }
+  .stacktop {
+    display: table-header-group !important;
+  }
+  .stackbottom {
+    display: table-footer-group !important;
+  }
+  .p0 {
+    padding: 0px !important;
+  }
+  .t0 {
+    padding-top: 0px !important;
+  }
+  .t4 {
+    padding-top: 4px !important;
+  }
+  .t8 {
+    padding-top: 8px !important;
+  }
+  .t12 {
+    padding-top: 12px !important;
+  }
+  .t16 {
+    padding-top: 16px !important;
+  }
+  .t20 {
+    padding-top: 20px !important;
+  }
+  .t24 {
+    padding-top: 24px !important;
+  }
+  .t30 {
+    padding-top: 30px !important;
+  }
+  .t36 {
+    padding-top: 36px !important;
+  }
+  .t48 {
+    padding-top: 48px !important;
+  }
+  .t96 {
+    padding-top: 96px !important;
+  }
+  .b0 {
+    padding-bottom: 0px !important;
+  }
+  .b4 {
+    padding-bottom: 4px !important;
+  }
+  .b8 {
+    padding-bottom: 8px !important;
+  }
+  .b12 {
+    padding-bottom: 12px !important;
+  }
+  .b16 {
+    padding-bottom: 16px !important;
+  }
+  .b20 {
+    padding-bottom: 20px !important;
+  }
+  .b24 {
+    padding-bottom: 24px !important;
+  }
+  .b30 {
+    padding-bottom: 30px !important;
+  }
+  .b36 {
+    padding-bottom: 36px !important;
+  }
+  .b48 {
+    padding-bottom: 48px !important;
+  }
+  .b96 {
+    padding-bottom: 96px !important;
+  }
+  .pl0 {
+    padding-left: 0px !important;
+  }
+  .pl8 {
+    padding-left: 8px !important;
+  }
+  .pl12 {
+    padding-left: 12px !important;
+  }
+  .pl16 {
+    padding-left: 16px !important;
+  }
+  .pl24 {
+    padding-left: 24px !important;
+  }
+  .pl25 {
+    padding-left: 25px !important;
+  }
+  .pr0 {
+    padding-right: 0px !important;
+  }
+  .pr8 {
+    padding-right: 8px !important;
+  }
+  .pr12 {
+    padding-right: 12px !important;
+  }
+  .pr16 {
+    padding-right: 16px !important;
+  }
+  .pr24 {
+    padding-right: 24px !important;
+  }
+  .pr25 {
+    padding-right: 25px !important;
+  }
+  .plr0 {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  .plr4 {
+    padding-right: 4px !important; padding-left: 4px !important;
+  }
+  .plr12 {
+    padding-left: 12px !important; padding-right: 12px !important;
+  }
+  .plr16 {
+    padding-left: 16px !important; padding-right: 16px !important;
+  }
+  .plr20 {
+    padding-left: 20px !important; padding-right: 20px !important;
+  }
+  .plr25 {
+    padding-left: 25px !important; padding-right: 25px !important;
+  }
+  .plr32 {
+    padding-left: 32px !important; padding-right: 32px !important;
+  }
+  .widthauto {
+    width: auto !important;
+  }
+  .heightauto {
+    height: auto !important;
+  }
+  .a-left {
+    text-align: left !important;
+  }
+  .a-right {
+    text-align: right !important;
+  }
+  .a-center {
+    text-align: center !important;
+  }
+  .border0 {
+    border-top-width: 0px !important; border-bottom-width: 0px !important; =
+border-left-width: 0px !important; border-right-width: 0px !important;
+  }
+  .bold {
+    font-weight: 700 !important;
+  }
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+@media screen and (max-device-width: 480px) {
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+</style>
+</head>
+<head>
+  <meta charset=3D""utf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1=
+ user-scalable=3Dyes"">
+  <meta name=3D""format-detection"" content=3D""telephone=3Dno, date=3Dno, add=
+ress=3Dno, email=3Dno, url=3Dno"">
+  <meta name=3D""x-apple-disable-message-reformatting"">
+  <meta name=3D""color-scheme"" content=3D""light dark"">
+  <meta name=3D""supported-color-schemes"" content=3D""light dark"">
+
+  <title>The Guardian</title>
+  <!--[if mso]>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+
+
+<!--DARK MODE STYLES-->
+
+
+<!--STYLES-->
+
+
+
+
+ =20
+
+
+  <!--MOBILE FONTS-->
+ =20
+
+</head><!DOCTYPE html>
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"" style=3D""color-scheme: lig=
+ht dark; supported-color-schemes: light dark; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<style>@media (prefers-color-scheme:dark) {
+  .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  [data-ogsc] .dmodebg {
+    background-color: #000000 !important; color: #ffffff !important;
+  }
+  [data-ogsc] .border_dmodebg {
+    border-color: #fafafa !important;
+  }
+  .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  .inner_dmodetext {
+    color: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodebg {
+    background: #2f2f2f !important; background-color: #2f2f2f !important; c=
+olor: #ffffff !important;
+  }
+  [data-ogsc] .inner_dmodeborder {
+    border: 1px solid #fafafa !important;
+  }
+  [data-ogsc] .inner_dmodetext {
+    color: #ffffff !important;
+  }
+}
+body {
+margin: 0; padding: 0; -webkit-font-smoothing: antialiased; -moz-font-smoot=
+hing: antialiased; -o-font-smoothing: antialiased; mso-line-height-rule: ex=
+actly;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Bold.woff2') format('woff2=
+'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-BoldItalic.woff2.woff2') f=
+ormat('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-Regular.woff2') format('wo=
+ff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GH Guardian Headline'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GHGuardianHeadline-RegularItalic.woff2') form=
+at('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Bold.woff2') format('wof=
+f2'); font-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-BoldItalic.woff2.woff2')=
+ format('woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-Regular.woff2') format('=
+woff2'); font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextEgyptian'; src: url('https://pasteup.guim.co.uk/w=
+ebfonts/1.0.0/full-autohinted/GuardianTextEgyptian-RegularItalic.woff2') fo=
+rmat('woff2'); font-weight: 400; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Bold.woff2') format('woff2'); fo=
+nt-weight: 700; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-BoldItalic.woff2.woff2') format(=
+'woff2'); font-weight: 700; font-style: italic;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-Regular.woff2') format('woff2');=
+ font-weight: 400; font-style: normal;
+}
+@font-face {
+font-family: 'GuardianTextSans'; src: url('https://pasteup.guim.co.uk/webfo=
+nts/1.0.0/full-autohinted/GuardianTextSans-RegularItalic.woff2') format('wo=
+ff2'); font-weight: 400; font-style: italic;
+}
+@media screen and (max-width:480px) {
+  .show {
+    display: block !important;
+  }
+  .nomob {
+    display: none !important; width: 0px !important; height: 0px !important=
+;
+  }
+  .mobilecontent {
+    display: block !important; max-height: none !important;
+  }
+  .wrapto100pc {
+    width: 100% !important; height: auto !important;
+  }
+  .wrapto90pc {
+    width: 90% !important; height: auto !important;
+  }
+  .wrapto85pc {
+    width: 85% !important; height: auto !important;
+  }
+  .wrapto80pc {
+    width: 80% !important; height: auto !important;
+  }
+  .wrapto70pc {
+    width: 70% !important; height: auto !important;
+  }
+  .wrapto60pc {
+    width: 60% !important; height: auto !important;
+  }
+  .wrapto53pc {
+    width: 53% !important; height: auto !important;
+  }
+  .wrapto50pc {
+    width: 50% !important; height: auto !important;
+  }
+  .wrapto47pc {
+    width: 47% !important; height: auto !important;
+  }
+  .wrapto40pc {
+    width: 40% !important; height: auto !important;
+  }
+  .wrapto30pc {
+    width: 30% !important; height: auto !important;
+  }
+  .wrapto25pc {
+    width: 25% !important; height: auto !important;
+  }
+  .wrapto20pc {
+    width: 20% !important; height: auto !important;
+  }
+  .wrapto110px {
+    width: 110px !important; height: auto !important;
+  }
+  .wrapto67px {
+    width: 67px !important; height: auto !important;
+  }
+  .wrapto39px {
+    width: 39px !important; height: auto !important;
+  }
+  .wrapto36px {
+    width: 36px !important; height: auto !important;
+  }
+  .wrapto24px {
+    width: 24px !important; height: auto !important;
+  }
+  .stack-column {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-center {
+    display: block !important; width: 100% !important; max-width: 100% !imp=
+ortant; direction: ltr !important;
+  }
+  .stack-column-left {
+    text-align: left !important; display: block !important; width: 100% !im=
+portant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stack-column-right {
+    text-align: right !important; display: block !important; width: 100% !i=
+mportant; max-width: 100% !important; direction: ltr !important;
+  }
+  .stackholder {
+    display: table; width: 100%;
+  }
+  .stacktop {
+    display: table-header-group !important;
+  }
+  .stackbottom {
+    display: table-footer-group !important;
+  }
+  .p0 {
+    padding: 0px !important;
+  }
+  .t0 {
+    padding-top: 0px !important;
+  }
+  .t4 {
+    padding-top: 4px !important;
+  }
+  .t8 {
+    padding-top: 8px !important;
+  }
+  .t12 {
+    padding-top: 12px !important;
+  }
+  .t16 {
+    padding-top: 16px !important;
+  }
+  .t20 {
+    padding-top: 20px !important;
+  }
+  .t24 {
+    padding-top: 24px !important;
+  }
+  .t30 {
+    padding-top: 30px !important;
+  }
+  .t36 {
+    padding-top: 36px !important;
+  }
+  .t48 {
+    padding-top: 48px !important;
+  }
+  .t96 {
+    padding-top: 96px !important;
+  }
+  .b0 {
+    padding-bottom: 0px !important;
+  }
+  .b4 {
+    padding-bottom: 4px !important;
+  }
+  .b8 {
+    padding-bottom: 8px !important;
+  }
+  .b12 {
+    padding-bottom: 12px !important;
+  }
+  .b16 {
+    padding-bottom: 16px !important;
+  }
+  .b20 {
+    padding-bottom: 20px !important;
+  }
+  .b24 {
+    padding-bottom: 24px !important;
+  }
+  .b30 {
+    padding-bottom: 30px !important;
+  }
+  .b36 {
+    padding-bottom: 36px !important;
+  }
+  .b48 {
+    padding-bottom: 48px !important;
+  }
+  .b96 {
+    padding-bottom: 96px !important;
+  }
+  .pl0 {
+    padding-left: 0px !important;
+  }
+  .pl8 {
+    padding-left: 8px !important;
+  }
+  .pl12 {
+    padding-left: 12px !important;
+  }
+  .pl16 {
+    padding-left: 16px !important;
+  }
+  .pl24 {
+    padding-left: 24px !important;
+  }
+  .pl25 {
+    padding-left: 25px !important;
+  }
+  .pr0 {
+    padding-right: 0px !important;
+  }
+  .pr8 {
+    padding-right: 8px !important;
+  }
+  .pr12 {
+    padding-right: 12px !important;
+  }
+  .pr16 {
+    padding-right: 16px !important;
+  }
+  .pr24 {
+    padding-right: 24px !important;
+  }
+  .pr25 {
+    padding-right: 25px !important;
+  }
+  .plr0 {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  .plr4 {
+    padding-right: 4px !important; padding-left: 4px !important;
+  }
+  .plr12 {
+    padding-left: 12px !important; padding-right: 12px !important;
+  }
+  .plr16 {
+    padding-left: 16px !important; padding-right: 16px !important;
+  }
+  .plr20 {
+    padding-left: 20px !important; padding-right: 20px !important;
+  }
+  .plr25 {
+    padding-left: 25px !important; padding-right: 25px !important;
+  }
+  .plr32 {
+    padding-left: 32px !important; padding-right: 32px !important;
+  }
+  .widthauto {
+    width: auto !important;
+  }
+  .heightauto {
+    height: auto !important;
+  }
+  .a-left {
+    text-align: left !important;
+  }
+  .a-right {
+    text-align: right !important;
+  }
+  .a-center {
+    text-align: center !important;
+  }
+  .border0 {
+    border-top-width: 0px !important; border-bottom-width: 0px !important; =
+border-left-width: 0px !important; border-right-width: 0px !important;
+  }
+  .bold {
+    font-weight: 700 !important;
+  }
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+@media screen and (max-device-width: 480px) {
+  .h1StyleMob {
+    font-size: 42px !important; line-height: 48px !important; font-weight: =
+500 !important;
+  }
+  .h2StyleMob {
+    font-size: 34px !important; line-height: 40px !important; font-weight: =
+400 !important;
+  }
+  .h3StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h4StyleMob {
+    font-size: 28px !important; line-height: 34px !important; font-weight: =
+400 !important;
+  }
+  .h5StyleMob {
+    font-size: 20px !important; line-height: 26px !important; font-weight: =
+400 !important;
+  }
+  .h6StyleMob {
+    font-size: 17px !important; line-height: 23px !important; font-weight: =
+400 !important;
+  }
+  .h7StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+400 !important;
+  }
+  .h8StyleMob {
+    font-size: 14px !important; line-height: 19px !important; font-weight: =
+300 !important;
+  }
+  .h9StyleMob {
+    font-size: 12px !important; line-height: 16px !important; font-weight: =
+300 !important;
+  }
+  .numbered {
+    font-size: 60px !important; line-height: 62px !important; font-weight: =
+700px !important; font-variant-numeric: lining-nums proportional-nums !impo=
+rtant;
+  }
+  .quote {
+    font-size: 80px; line-height: 82px; font-weight: 700px;
+  }
+}
+</style>
+</head>
+<head>
+  <meta charset=3D""utf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1=
+ user-scalable=3Dyes"">
+  <meta name=3D""format-detection"" content=3D""telephone=3Dno, date=3Dno, add=
+ress=3Dno, email=3Dno, url=3Dno"">
+  <meta name=3D""x-apple-disable-message-reformatting"">
+  <meta name=3D""color-scheme"" content=3D""light dark"">
+  <meta name=3D""supported-color-schemes"" content=3D""light dark"">
+
+  <title>The Guardian</title>
+  <!--[if mso]>
+  <noscript>
+    <xml>
+      <o:OfficeDocumentSettings>
+        <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+    </xml>
+  </noscript>
+  <![endif]-->
+
+
+<!--DARK MODE STYLES-->
+
+
+<!--STYLES-->
+
+
+
+
+ =20
+
+
+  <!--MOBILE FONTS-->
+ =20
+
+</head>
+
+	<body>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://tuahgfj.pics/5ba45f58e68814b72898/30e93b512f4ddbfbfe"" =
+target=3D""_blank""><img alt=3D""uu"" src=3D""https://assets.unlayer.com/project=
+s/266423/1740466271751-1.png"" style=3D""width: 540px; height: 783px;"" /></a>=
+</p>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://tuahgfj.pics/5ba45f58e68814b72898/30e93b512f4ddbfbfe"" =
+target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.com/projec=
+ts/266423/1740463374413-bbss2.png"" style=3D""width: 550px; height: 481px;"" /=
+></a></p>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://tuahgfj.pics/5ba45f58e68814b72898/30e93b512f4ddbfbfeun=
+"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.com/proj=
+ects/266423/1740463401899-eedd4141864e8ff54d6027c5a3cf9d8a924865.png"" style=
+=3D""width: 540px; height: 90px;"" /></a></p>
+	<img src=3D""http://url3285.zxss.mensshoescorner.info/wf/open?upn=3Du001.7k=
+WJcv6IeYY-2BzalCbBIp49FQGS5J2Xs24MOsPul4FGnkWlpZf0vy6jx11s2ljkbn84hQVyAni2W=
+3ZbJiykNLFBfsyoH7xuOvTH7zJL7CLn9PnV-2FAE9GDb-2FT9PhAHo3YpZRjWaPt-2BVwpx5H3s=
+073yR8F3WAh6yPxnFnM5g1rXhVvhfsHh-2BwyylhO9WQxKSfN7KQchawoZ85YsT3C0b7wk6Kgt-=
+2BrHGYSwH4pHbNjMrg-2Fo-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""xx"" <info@zxss.mensshoescorner.info>",bustedgrand.81726@aol.com,2025-02-25,159.223.116.186,United States,fi,users/50842446/cc78589c-35f5-4013-9cc3-7e685551dec0.json

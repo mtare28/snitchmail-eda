@@ -1,0 +1,478 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51587582,85W8UwBfSdWwmUELTit77g.recvd-69cbc48b94-q4tz7-1-67E55B93-34.0,cHJvY2Vzc2VkLTUxNTg3NTgyLTg1VzhVd0JmU2RXd21VRUxUaXQ3N2ctMA,Your order is Dispatched.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mkbcleaningservicesltd.com;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=s1; bh=2iwMB3A2ThGHkap47C6NdzlVCXZwr0MIgQ7tlnyWbvA=;
+	b=B6/OPv51rtsyJgyUE8Q83149TUliNOKf9KrHpgG5235/Jn9e0FApkFqqEMyDHojgWzzd
+	VZE4X9d/WvXx7B2kQLNCQ3LXi0iE5D/wcZejrZGqlNNKSkItaIwGZ7W9QE5kTzRNLElTDL
+	UVikJ3nmAsSO4LzVFxzG3Htq4tuT65wasIbPgruGE5RKKdjaUlxoRSq+6yldiqep92nqch
+	2jKe/AtKwkIvUdT44AZdO49WWAoy2EQsBwlqP8aqDjDnoGWzNUilA8oZWe42ea55kuDScD
+	lqS8AnpGa9UfNKNiPbMM6k2IMzuEhZvdh0fuGvwowyZhtP0a5MhXT2a2srwJdtiQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=smtpapi; bh=2iwMB3A2ThGHkap47C6NdzlVCXZwr0MIgQ7tlnyWbvA=;
+	b=eOpLUY3FjGO9cM7TO80faw10Js0PKEQdL2O/jWDrWRKYHZP65lcIry9uLoocd3+K7mL/
+	kEp450E25pV5GtbcKx7Z8MfZYK+d4+DbqSLcThaoIJS8BXIZ4rVQWL3sZ4IIql2qJAwuzX
+	iQ1aBktW3bxUXWSXazo9PZ+EcnTDdVJxk=
+Received: by recvd-69cbc48b94-q4tz7 with SMTP id recvd-69cbc48b94-q4tz7-1-67E55B93-34
+	2025-03-27 14:07:15.440380576 +0000 UTC m=+11465067.439097009
+Received: from NTE1ODc1ODI (unknown)
+	by geopod-ismtpd-30 (SG) with HTTP
+	id 85W8UwBfSdWwmUELTit77g
+	Thu, 27 Mar 2025 14:07:15.407 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=11a0f98ab4d1c22fefdd7a65120378b6175f401da90a0b7e286c2e87666b
+Date: Thu, 27 Mar 2025 14:07:15 +0000 (UTC)
+From: Diandra <diandrahudson@mkbcleaningservicesltd.com>
+Mime-Version: 1.0
+Message-ID: <85W8UwBfSdWwmUELTit77g@geopod-ismtpd-30>
+Subject: Your order is Dispatched.
+Reply-To: diandrahudson@mkbcleaningservicesltd.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EVEf79rgvZIVP6rSPc7yPkyYe1Kc1QcgYccJVaJG=2FUWWPxl76g6CPJwcHb?=
+ =?us-ascii?Q?4itNpwhJdrf2xoKTO4DlF2BN72NRsMPDI9c7hTO?=
+ =?us-ascii?Q?fpotUmy+C5JVWpqlSG1t2H=2FnmOz8GgHNTcxKG+9?=
+ =?us-ascii?Q?eIigdbXpxKxlV0hvtB=2Fimdh1gisQi=2FtR8LyShuW?=
+ =?us-ascii?Q?hMldHd21ZRP6ZmEPDSm5PTJ5obaPeN3luJmp+yJ?=
+ =?us-ascii?Q?CgHCbg2Hi6fDR=2FzR0E3NWGtAwPP3a33yIKASn23?=
+ =?us-ascii?Q?E5WpRB6hVukw6BM13KXIh18eVw=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfUOH=2F3NOfEaFudmYFl9f9qlkBY?=
+ =?us-ascii?Q?mkRneBxyax=2FLvBk2+IcV1Cmuo1J+jPD4nvemBCH?=
+ =?us-ascii?Q?KtmmTqc4M3rZ7I52fWbuTxiBQ=2FzsfR5rFgMWlvW?=
+ =?us-ascii?Q?HKlATZxXkmkdGR5D9nZDkU0DLO5QbkL3UB785G=2F?=
+ =?us-ascii?Q?EJUy2IsM=2F61ypcD=2FFLvWX4=2F3fByyHO4vR+uSwWg?=
+ =?us-ascii?Q?lbnS6wtUlB1q61xMIoEX8tW6ul4H2cOIp7A8RGN?=
+ =?us-ascii?Q?KU=2FCOTi7PfUpsJbb113Wdj2HSdu0vnJcvUpAcCT?=
+ =?us-ascii?Q?BCEtUSusa5yF4cLqIhrVMFh5Q4nhJFK8Vt2EwQR?=
+ =?us-ascii?Q?qSAYpyMeviafNGNZgKZTMv5Aab7KdiNKijmbIzw?=
+ =?us-ascii?Q?=2FxpQn0CjV4W3vVUtq2ja8GRePuU2SsK61Kc97ez?=
+ =?us-ascii?Q?VGYg66micRtwUKK2gSLA7o6XdGjSGyHPYELjE8Q?=
+ =?us-ascii?Q?U=2FkD=2FKcKudlJVjhVqP+EN0cvMjHbC4mdq+jTYIA?=
+ =?us-ascii?Q?9eWNplzP7EIcuL1hn+yy+hhx0ZD0jm0B1r+Z1Vo?=
+ =?us-ascii?Q?tiF7=2FdaBtE+fSL0LsW6Ig0TGOPYm=2FT7oNaaGt+u?=
+ =?us-ascii?Q?yD=2FUsTGdDjP3b7isZZ8g4Uq?=
+To: jruss849@gmail.com
+X-Entity-ID: u001.eu8bt4i8tdYC2eKuwWmoIg==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51587582=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EhsQp?=
+ =?us-ascii?Q?98BsrMlyD9gH1M7yTVS=5F6qeFdps-=5FZ5TEnTy-ql?=
+ =?us-ascii?Q?vX5QaWOnxOeCjUO3IZ38saY093rEHjHEcrayFtn?=
+ =?us-ascii?Q?lmUD1Mkx1vbmgcGRtxjLko4=5FmUAaFBy2iSNBCFV?=
+ =?us-ascii?Q?wr6S1Wp46FCTTlt-4iEKqVsEWlFKSHM=5FJWOGlCA?=
+ =?us-ascii?Q?Tgf2-mcxqPMUencimYkbQbHAOCiW5GV4eK5AOkp?=
+ =?us-ascii?Q?D5r8ezq9FE0ObekZKxclYh9-=5F8WYIUz-8ZwQcoA?=
+ =?us-ascii?Q?ERQ0wGwQfdGOg0LNbAnhfWfQx5=5FKTXoLfffSfB7?=
+ =?us-ascii?Q?LcZtpqZZ-ryNiQ33onW1S4lWgcyM618jF=5FgZ9ZH?=
+ =?us-ascii?Q?IZDsV1swU=5Fxv6iApbcAX4pHUDGCS-eiWgsYgEvs?=
+ =?us-ascii?Q?Whwu8fMQPv6F-VuEYeL3UVciEqpg9lZMPzpEz9n?=
+ =?us-ascii?Q?0jdoQ7TBlezKtxQGgU-zZt6jcrb0=5F9Jl=5FXO6j4Q?=
+ =?us-ascii?Q?JmUU-IXbzyiW2irkTgyqBmEDmpTD51EsU9XtoG9?=
+ =?us-ascii?Q?mlG=5FwDVCCqxtO1YhuT45T=5FycKG=5FwoTlojLaUIXm?=
+ =?us-ascii?Q?H5w3=5FnvmKVUK46KeR65jB2CIT-6v7LtSZfCdlXp?=
+ =?us-ascii?Q?4B-i4vSnqZ4OyI0mDOiqN6uA0dUSRpokTx1we9E?=
+ =?us-ascii?Q?70KGrPotRDstjSSP2IPFhsjFk7Ll79BFVzZUhic?=
+ =?us-ascii?Q?QNhlMLa4wqH4MmZpWtMEuMfxRo2LHxEh0CaoU8i?=
+ =?us-ascii?Q?oyx6RIWBY3EWzkW1inHDk-nqZwJJtL=5FkpmjL-KE?=
+ =?us-ascii?Q?xNgcpGYhhL=5FgYsdrgGJYBjT6qcgQAU0CJPMJue0?=
+ =?us-ascii?Q?AlyJ3BEEreVtTF85-Ivlnhx8shVrYT47xDuuo5W?=
+ =?us-ascii?Q?69BLnwTBKDnlxjahvR7MFHLYz856MZV7pQ-3f2P?=
+ =?us-ascii?Q?=5FcZGgkQigOTweXerhsXP75ZsnPfj37U2hCXOBAd?=
+ =?us-ascii?Q?03NVxq4Xi2J5cH6Tg8ZOF627AFAZA36RnDcf7a4?=
+ =?us-ascii?Q?Dk12Qkr87HI8sQqbVm6zJHSR7WHOXGRYlGtDWQk?=
+ =?us-ascii?Q?VRGD-Qu8RDjT0JMMmjxWF6K25vsDmrlZ4XuKY7i?=
+ =?us-ascii?Q?mVBaGkSsmJ-cdQ-8moUI=5FJ-UGrUr-n8fzTz4lRL?=
+ =?us-ascii?Q?e=5Fvc6prKiQfvIhiyMabzsJ6BYNxpMkSP=5FiGaa-y?=
+ =?us-ascii?Q?ZcsNF3hwdWdEKbeWHPKjhU8p-9Ew04JFKWXjCbL?=
+ =?us-ascii?Q?tszqfyRREs1kAY1Asp7oe=5FSCIEAWfKvjvOSwTDz?=
+ =?us-ascii?Q?m-RcgSy1AVtrUq1uKKGBdo2IKe-9bFYqE8sn2R-?=
+ =?us-ascii?Q?h5c6Wy2QXy0BSc7WEeys5nPtcRXIY3C-IWILrI=5F?=
+ =?us-ascii?Q?J1xFiUUBipB8WOkYd4HnsfffSULdqRrVx=5FbqGOB?=
+ =?us-ascii?Q?alM9Y5kq3xHcwkFAc4diTi=5FLBzmwPoAWP-wAiwJ?=
+ =?us-ascii?Q?fXu=5FLzUbuT5DQavB1F3-Hb0wZfArRTkJvuNTROw?=
+ =?us-ascii?Q?MJ6exxAi2FaT-muuKaomtqYoM3nTVLM9H4m5KRM?=
+ =?us-ascii?Q?nHhs4SYwc0QpaTaV-XF-tjKockBfEsiG0j8iJq6?=
+ =?us-ascii?Q?kiZoICZO=5F8=5FvqLVaRHxN70r8CtXme--SVIZoHoc?=
+ =?us-ascii?Q?N9=5Fe42V7LCNruGCtVRgXM4qU4lRPOYtYa1wvT4o?=
+ =?us-ascii?Q?miugR8fyMVatWzdltRMNen6CeOi8RnZ9=5FGERj09?=
+ =?us-ascii?Q?HHBMkGtLm=5FHeWffmDyVOVDKEhgs0peednorzozH?=
+ =?us-ascii?Q?M9Voo34w2Y4efUZdFfrtcGmz6bIRhdNdTZ2s=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40em9630=2Emkbcleaningse?=
+ =?us-ascii?Q?rvicesltd=2Ecom=3Fsubject=3D51587582=2EdPbPZEaN?=
+ =?us-ascii?Q?tAIo6rxSfZH-3mQJUT2kCsvSzJwaWnPac=5FloMDA?=
+ =?us-ascii?Q?wdTAwMPYhk9ZUiPeXlPVunk9plqsHHV0yxx-KBr?=
+ =?us-ascii?Q?FMMVi2Uq45Nfdjpmu6CKC-Zo0l-5UHxrcL98IfY?=
+ =?us-ascii?Q?8p3=5FBFczL4CiEa8LiEI60Rul00Q6TqKAiHkR7HS?=
+ =?us-ascii?Q?UglxaE1hugBXOu6meg=3D=3D=2EQ0VhP1EgCzcXu8skyd?=
+ =?us-ascii?Q?NBuTREC1EFJXp2k9PfW4xbLrdoMDAwdTAwMHq7f?=
+ =?us-ascii?Q?oBErgE=5FbvT9lF0TmGTsG17AgDJ=5FcWS9oXOg9nox?=
+ =?us-ascii?Q?-K-OYjuBiUGWNzgTY18IUXCHYbFG3sYL33GE40u?=
+ =?us-ascii?Q?lk3EWR63pZ8xjD1T-WhL1nb2s3cLPAutdFWEJqG?=
+ =?us-ascii?Q?yevYQZGPnjVGSrV64E4Yc9ExA8v8ZQ-2uxw1ptf?=
+ =?us-ascii?Q?JJr=5FrIkdtZf9tMIuydyp5qiE1yFHRp-94srQQo9?=
+ =?us-ascii?Q?rlP8DAz-YIejzeX3YSbN-e1dKcmRpHqQsRb3DCr?=
+ =?us-ascii?Q?=5FkH6fDFZ1kXxAY3GNzkme1RpAE2q6AEbM9gbeLN?=
+ =?us-ascii?Q?exz1z-PfiQdPzNp1JFz8rjGghKfl9NFRr42Rna0?=
+ =?us-ascii?Q?wf4-ZGA0fX-EVi=5FIVPK38NkK1k4bbHCgEoyUYuV?=
+ =?us-ascii?Q?Y33XTXieSJCZrlqlpmxY=5F41Zq3VL49czMTeQ4zL?=
+ =?us-ascii?Q?nVJt2bHzM818cCS=5FQSHhCg0AWFR=5Fk4B1R7Pn0gQ?=
+ =?us-ascii?Q?=5FmDBpz6ZqLiNAFWpdlj8GT5oKaGAMPunUai-14s?=
+ =?us-ascii?Q?SCXltltdNQVKOnV9HCqaNhxAjrmMTmo=5F98JbfxW?=
+ =?us-ascii?Q?iJEdHJQ68LdjDNLaB9x8iol=5FFD76d-EJKM7HoXU?=
+ =?us-ascii?Q?IrQ4PDkmxySYQa-Ekv-7s-zDBqiz4Iz6jt5HhpJ?=
+ =?us-ascii?Q?5tHkjtmX7VnWMtzBn8WD5JyB518nwuNnso4DDUc?=
+ =?us-ascii?Q?K=5FctVtYSofrRKAdF45P0hbOO44rgi0OTwO9d3sO?=
+ =?us-ascii?Q?-2asoVVz3Rex6fk21Vz-xCyt7Ns=5F7jbrPgwAbHv?=
+ =?us-ascii?Q?bkaXivFEBeRqbl6mQ1D251znO11G7Jj3UrbLMW3?=
+ =?us-ascii?Q?zGwUa7Vbr5oIlRvclXoyPm38TXalUHeDpuzbDDL?=
+ =?us-ascii?Q?8rnuQ68oiixIY3vBgU=5FFq4diMo9fxFsjr=5FQ4F-Q?=
+ =?us-ascii?Q?TK9xRbM4SCuUgGAAjx6rhPk1wBGnnAFbPnKhtB1?=
+ =?us-ascii?Q?4ijwgQJPvv-nHtnAJtVLgSX3EjMYyuX3xrQ=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--11a0f98ab4d1c22fefdd7a65120378b6175f401da90a0b7e286c2e87666b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+gauranteed delivery
+
+Hey jruss849@gmail.com, it's Walmart sales here...
+Your order is Dispatched.
+
+Your Apple Macbook Pro 1TB will be delivered to you in 3 working days.
+
+*Order Summary :
+Product Cost: $1168.00
+TaX: $49.80
+Total Paid: $1217.80*
+
+*After delivery of product no refund will be provided as this is discounted=
+ offer.*
+Thank you
+*Walmart sales*
+*(* *888) 350-4667* (Cancellation Team)
+
+Diandra
+
+diandrahudson@mkbcleaningservicesltd.com , Denver , =20
+
+Unsubscribe ( https://u51587582.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+51587582&data=3DKQTIsWcFG-IPPcdQe90qBgWCaHwy4rBVahnWk0pbyipoMDAwdTAwMJJXpD_=
+4pTRZ2hYLNwAOTja1yj-gipwyBLt3OF3aW0ygssX69tiuQPmzzxj4wg9RBwq4oS3w82QJVr6k75=
+0saUkxeq92yRZlo7_JPcgD0c3NL4UPvnVvNRa69sCZAHNnNrRYY0amPFRqaAuVjAL2VV1RcIyiV=
+fh4oamM6P6vSZVxL1T7N10b8vP1LdMvG6UPSFreYSPbgK4StCGo0pFUqS3bGuScRFjv3Rahzw_d=
+UPMnncLHy-e8PlrUUukZKtrMkF7qezMHJZyxHSRzyr4EwTgfmmhRYxVIg2FK-Row3ayQ6ZNcgqo=
+zbgpSGHPsvbS46Vnahu906esKWTqpYA1mYS4de8yrh1YZlzbgpIDUOotnkxFK22-MOkkM4eAyjy=
+tGJOOoZpjPFsDA5BfYpj2k9URCGJHlAgLHhqrv137HqeHnwn3ZqIiRzoNzCAQFiZGgvbv0VzNjf=
+v-sRWjICRU6bkpcYNbnCdmjz1RD79LkXDeotsPKUZIAJMuVYbAWbE8mTIw630YJ6QwhWR3Qsfll=
+9y_7F4vmqp2TbmKk75juoyvFo8HOLdacNPDcbjnqf0Jtx8OXqe0sM61YdFUyA4HYTwkgt0ejhEz=
+BOhiW7BSauOHrjkAfGaHrxSzdU0TCPbjeqTFUbm9yz9S9nvaE7UGl3gQ2ygd10cYOUe-2Utiq4Q=
+NgsJCOqzOqhhrtHOuifQyIeJqjkBlMLg5Llmwk7mqndiQkZnAO1liSm5mU4S592b8rp0gjvPZ8y=
+xN2W5jRsWOiS6W4ldPwIHzxxq5tH6YgQtaYHhFTMNO4Ez3CFQVae_LmcQu1W-QPwDZyFXBnn6y-=
+7gkKwtwk7_E2mzACAQR05uvySarslfVRiP69llx5dNniz8qPf6yDSQpIiZHQzi6JwY-tVLwTX-D=
+VZ3cUwQPZn0w3lSgOElLP41Z43ZWeHNp7BtAWkL7ZQEnj3Ri3hL-3TZnnQ28RJu22USZEYasjCL=
+O7smZWK6FxeC0cgB6IRqW7dN3sJJfDpQqpapJKkTq29n4ZkZ8e26gxycyFYcV1YgM7cho_cqqXV=
+iDHwzZDOjnP ) - Unsubscribe Preferences ( https://u51587582.ct.sendgrid.net=
+/asm/?user_id=3D51587582&data=3DO1U4ewplDV1v8eZpOMAgST9YMCDwz_Sp_ybAtdLl1BB=
+oMDAwdTAwMJCzECZcqeBN5cXVDes0llNMg4rNtuTtq6YWudwlZJcayTEp0AssaUCj65nzHTTzX1=
+aNFcLG2NibXOpSwUcEiOy2YYXMWc2sBCvj4wLnHua1SMlWOR_8VNrt9xUl6o6bMuLcq_JceK7zd=
+ph1zx5DKQBHHmBpjp_OsSMWlQ9d0uQc0bGwDwxWJtukoknYYtbDI5j8h5TKZmokT1NNxvhH2heX=
+hhAuZxMXfRF2_yyTMlOaSm8mkqSFbkevobG5O2OOrJDELorhfoaTozjOYdyr--JX0UUrg5MCK_A=
+nLjarLZ3y7sSowOAmhBbU9bdh9yaNeS2r30qdqXBXZe1CXyVOCFntZnKXnU1H6iiOi9x4CUtiki=
+MM_pEbWVGWxKoTUWCWhGk7iH9bdeEeeMt0mP50tDh5AMzYMfdLOh3t6ZH5WAKNqL1XlDX7hu2Sb=
+cTxXrAuU6lm0KJw_sEgcZ3JmTUYIj4WuDKlsv8witl3m83cV6WUK0O48yVGQEQs4jQjN7TjKEm7=
+fXepyXoAiZnU-OEqOsWCdbRWkvmgUsLZjkKsSkbQMZJwY46OdVqcInZwsfBWNOLsOy32z8DihZJ=
+FajIPlhMPsbH1joCJEunw-ovEpDK-BBY_1eWBYDRE5OPGajvXMGOLKmRMpLJPZbrbIiu1kEFzTz=
+RfIdEGxGqLMfFSCVywf0Yvy1jzjY--Gxb6iklUzk458nAiU_8kbHi44kMAe7y4jcDnHtC6RCTKT=
+ZivgIVIIanyyz3_dyE6nz8MiPZ6C9lXI9LrAiVRmZ800jaYQDvdyN_7KOwd85G2n4BcOG0-2EcX=
+1ngum6yWm5RTXOKwMvEY-43BbXu4ej_V697QPKd8Ooj4MlmBdK5mOq5FwnWm_x466csCamLlQcP=
+Xq0so4y9ytsgnTp7UK_hWdsHU3Njdv16-adY7PcE02i8iCNssmD6Ql9tzg_Fn3NjrZ-EuLP_cy8=
+cU2dfnB7Vwy1Hryvw3qhyZgu5Y8Q3p3aSqDGBUhLA24-NAokTh5DXorAsdttaV3do3PL3b32CgG=
+PLcUlY=3D )
+--11a0f98ab4d1c22fefdd7a65120378b6175f401da90a0b7e286c2e87666b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p>gauranteed delivery</p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""b2947c56-a7b0-4709-8e0a-9325971da402"" data-mc-mo=
+dule-version=3D""2019-10-22"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit; text-align: inherit""><span st=
+yle=3D""font-size: 18px"">Hey jruss849@gmail.com, it's Walmart sales here...<=
+br>
+Your order is Dispatched.<br>
+<br>
+<br>
+Your Apple Macbook Pro 1TB will be delivered to you in 3 working days.<br>
+<br>
+<br>
+</span><span style=3D""font-size: 18px""><u><strong>Order Summary :<br>
+Product Cost: $1168.00<br>
+TaX: $49.80<br>
+Total Paid: $1217.80</strong></u></span><span style=3D""font-size: 18px""><br=
+>
+<br>
+<br>
+*After delivery of product no refund will be provided as this is discounted=
+ offer.*<br>
+Thank you<br>
+</span><span style=3D""font-size: 18px""><u><strong>Walmart sales</strong></u=
+></span><span style=3D""font-size: 18px""><br>
+</span><span style=3D""font-size: 18px""><strong>(</strong></span><span style=
+=3D""font-size: 18px""><u><strong>888) 350-4667</strong></u></span><span styl=
+e=3D""font-size: 18px"">(Cancellation Team)</span></div><div></div></div></td=
+>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Diandra</p><p style=3D""font-size:12px; line-height:20px;""><spa=
+n class=3D""Unsubscribe--senderAddress"">diandrahudson@mkbcleaningservicesltd=
+.com</span>, <span class=3D""Unsubscribe--senderCity"">Denver</span>, <span c=
+lass=3D""Unsubscribe--senderState""></span> <span class=3D""Unsubscribe--sende=
+rZip""></span></p></div><p style=3D""font-size:12px; line-height:20px;""><a cl=
+ass=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u51587582.ct.sendgrid.=
+net/asm/unsubscribe/?user_id=3D51587582&amp;data=3DKQTIsWcFG-IPPcdQe90qBgWC=
+aHwy4rBVahnWk0pbyipoMDAwdTAwMJJXpD_4pTRZ2hYLNwAOTja1yj-gipwyBLt3OF3aW0ygssX=
+69tiuQPmzzxj4wg9RBwq4oS3w82QJVr6k750saUkxeq92yRZlo7_JPcgD0c3NL4UPvnVvNRa69s=
+CZAHNnNrRYY0amPFRqaAuVjAL2VV1RcIyiVfh4oamM6P6vSZVxL1T7N10b8vP1LdMvG6UPSFreY=
+SPbgK4StCGo0pFUqS3bGuScRFjv3Rahzw_dUPMnncLHy-e8PlrUUukZKtrMkF7qezMHJZyxHSRz=
+yr4EwTgfmmhRYxVIg2FK-Row3ayQ6ZNcgqozbgpSGHPsvbS46Vnahu906esKWTqpYA1mYS4de8y=
+rh1YZlzbgpIDUOotnkxFK22-MOkkM4eAyjytGJOOoZpjPFsDA5BfYpj2k9URCGJHlAgLHhqrv13=
+7HqeHnwn3ZqIiRzoNzCAQFiZGgvbv0VzNjfv-sRWjICRU6bkpcYNbnCdmjz1RD79LkXDeotsPKU=
+ZIAJMuVYbAWbE8mTIw630YJ6QwhWR3Qsfll9y_7F4vmqp2TbmKk75juoyvFo8HOLdacNPDcbjnq=
+f0Jtx8OXqe0sM61YdFUyA4HYTwkgt0ejhEzBOhiW7BSauOHrjkAfGaHrxSzdU0TCPbjeqTFUbm9=
+yz9S9nvaE7UGl3gQ2ygd10cYOUe-2Utiq4QNgsJCOqzOqhhrtHOuifQyIeJqjkBlMLg5Llmwk7m=
+qndiQkZnAO1liSm5mU4S592b8rp0gjvPZ8yxN2W5jRsWOiS6W4ldPwIHzxxq5tH6YgQtaYHhFTM=
+NO4Ez3CFQVae_LmcQu1W-QPwDZyFXBnn6y-7gkKwtwk7_E2mzACAQR05uvySarslfVRiP69llx5=
+dNniz8qPf6yDSQpIiZHQzi6JwY-tVLwTX-DVZ3cUwQPZn0w3lSgOElLP41Z43ZWeHNp7BtAWkL7=
+ZQEnj3Ri3hL-3TZnnQ28RJu22USZEYasjCLO7smZWK6FxeC0cgB6IRqW7dN3sJJfDpQqpapJKkT=
+q29n4ZkZ8e26gxycyFYcV1YgM7cho_cqqXViDHwzZDOjnP"" target=3D""_blank"" style=3D""=
+"">Unsubscribe</a> - <a href=3D""https://u51587582.ct.sendgrid.net/asm/?user_=
+id=3D51587582&amp;data=3DO1U4ewplDV1v8eZpOMAgST9YMCDwz_Sp_ybAtdLl1BBoMDAwdT=
+AwMJCzECZcqeBN5cXVDes0llNMg4rNtuTtq6YWudwlZJcayTEp0AssaUCj65nzHTTzX1aNFcLG2=
+NibXOpSwUcEiOy2YYXMWc2sBCvj4wLnHua1SMlWOR_8VNrt9xUl6o6bMuLcq_JceK7zdph1zx5D=
+KQBHHmBpjp_OsSMWlQ9d0uQc0bGwDwxWJtukoknYYtbDI5j8h5TKZmokT1NNxvhH2heXhhAuZxM=
+XfRF2_yyTMlOaSm8mkqSFbkevobG5O2OOrJDELorhfoaTozjOYdyr--JX0UUrg5MCK_AnLjarLZ=
+3y7sSowOAmhBbU9bdh9yaNeS2r30qdqXBXZe1CXyVOCFntZnKXnU1H6iiOi9x4CUtikiMM_pEbW=
+VGWxKoTUWCWhGk7iH9bdeEeeMt0mP50tDh5AMzYMfdLOh3t6ZH5WAKNqL1XlDX7hu2SbcTxXrAu=
+U6lm0KJw_sEgcZ3JmTUYIj4WuDKlsv8witl3m83cV6WUK0O48yVGQEQs4jQjN7TjKEm7fXepyXo=
+AiZnU-OEqOsWCdbRWkvmgUsLZjkKsSkbQMZJwY46OdVqcInZwsfBWNOLsOy32z8DihZJFajIPlh=
+MPsbH1joCJEunw-ovEpDK-BBY_1eWBYDRE5OPGajvXMGOLKmRMpLJPZbrbIiu1kEFzTzRfIdEGx=
+GqLMfFSCVywf0Yvy1jzjY--Gxb6iklUzk458nAiU_8kbHi44kMAe7y4jcDnHtC6RCTKTZivgIVI=
+Ianyyz3_dyE6nz8MiPZ6C9lXI9LrAiVRmZ800jaYQDvdyN_7KOwd85G2n4BcOG0-2EcX1ngum6y=
+Wm5RTXOKwMvEY-43BbXu4ej_V697QPKd8Ooj4MlmBdK5mOq5FwnWm_x466csCamLlQcPXq0so4y=
+9ytsgnTp7UK_hWdsHU3Njdv16-adY7PcE02i8iCNssmD6Ql9tzg_Fn3NjrZ-EuLP_cy8cU2dfnB=
+7Vwy1Hryvw3qhyZgu5Y8Q3p3aSqDGBUhLA24-NAokTh5DXorAsdttaV3do3PL3b32CgGPLcUlY=
+=3D"" target=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=
+=3D"""">Unsubscribe Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51587582.ct.sendgrid.net/wf/open?upn=3Du001.6ii8cG=
+IUM5WsqJp4bAl4T5fLnXKEXktW09VqkuYIH3Ps-2FnLnQ6dLfgaOrUEjeflL8kOM4BO5Y3Koi6l=
+oroAsHZBj3zwo1J6xDAbfRTWE7iqnpFrsEPNiHGOAAwIkaKy9pRnK0kbeJtTBeQcpUuGuYkerMC=
+Wla-2FGYdLAi3bVQZm8W-2Fuu3RtEZzzmpUdo5dR-2FtdHwoC3MSVVp1YzZnwF9HgPQs-2Fh9dL=
+MRFU4PlOWk8XE1wG3HMlubZ-2BKOH-2BkavTgRQ2eh8NcBQCA0Mrd0Xwsb4Y4LEQlZArH1IQkQE=
+4Fs-2FxqS2ZpO9cMInVdyWYj-2B-2FfUAkFwzFZbPk8zqvSg3Kpoh8tH0QIOeUGwG2uDqLrjCIZ=
+sNA5Eb-2FVEe8XvKO2CWwzy1KoBWbkZw0XyaF-2BqEzdIol-2Bii15SZII41Te-2FLt5OmotY0t=
+o2YPJ7JSlkGl5MCV23bjAAFr-2BzSKjozg7oKSmuCKe15K-2FI82xbhjysJYpCvwDktZ8gFCeIf=
+GJ9LzyNtdkylkkrhP-2FGMTfTEu5tFMomnk-2BuQYXu1XccbLoPNd0bVftYmqlIz5iWh-2F5gTq=
+kwxOOckWDDtTUlFIke7JiFZGxH3bPHM9IVHb7oXhYUTNchfn2LMIDsc-2Bp2qyJQw4AThXbEN7g=
+DpChV4LwMKEvw5TR769JhXNiRUiZ8VuTzc53b-2Fdd7WlCi7ryR5tAQXsBcr0SAT9N-2F18amAg=
+97Lnovs6cmDP4WnMaC4f4H-2Fq68g-2BIHzpcNJf4hbEfA4YOH5GhN7BiRZBNOls0RecL3ADueP=
+Mf9fGaeIpe2UoaE3uL0gPI3zISOrhG5YtD-2FfcfFE2shelBRhZWf6YwWrVmWFzRmuruMRVi4hn=
+SjQOm0HAxPHmAj6NgLLNpOr7tX-2BwWXvi0Mn9siEUhdQR5lKkbAoz8V3iIipLXg-3D-3D"" alt=
+=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;""/></body>
+  </html>
+--11a0f98ab4d1c22fefdd7a65120378b6175f401da90a0b7e286c2e87666b--
+","""Diandra"" <diandrahudson@mkbcleaningservicesltd.com>",jruss849@gmail.com,2025-03-27,44.198.45.247,United States,en,users/51587582/0f4edbdf-4e20-4103-ab5f-fc67e21ac56c.json

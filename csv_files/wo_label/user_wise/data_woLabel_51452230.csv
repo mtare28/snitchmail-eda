@@ -1,0 +1,3395 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51452230,-c_1bbPdR9iTMMY8AU7Ckg.recvd-69cbc48b94-hnb44-1-67E565AF-8.0,cHJvY2Vzc2VkLTUxNDUyMjMwLS1jXzFiYlBkUjlpVE1NWThBVTdDa2ctMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=UHdIsslbxLwg4TOWbNZvwxFD8/BpeKp5QCsvXyA/UlA=;
+	b=xyP5gV+xW92lFLtG3FX/QIrAUW+XlS2Y46IXck4IJ+cd20iz65FN0nu6q9IidXAmDcMi
+	Edb9kgw/JwccY5gVqM/0haI92KXMGtLzl7w4Hox5xXWQ4tWjQTWk6DO+x7DPH82F+nYRgD
+	GBCoAOe2QGic4bD3fUrvI8ruydDgxFrHR910Z1QCgJNPKQPyq8Zx64N3dkf7wtPdimrIAQ
+	mTBB0CrOw2MFVmND/iIKyEWOpfdVMoaU9/qcQeLpylPkhjirxIB6/XKmVb2geM0lOKtTNn
+	iK4WM0RmMwvrEHTCoEIUCWUgVze90rwrcYo8unE7OGRf9Ouh9McsklB7lCr6pfDQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=UHdIsslbxLwg4TOWbNZvwxFD8/BpeKp5QCsvXyA/UlA=;
+	b=m8DRwj75N8LHiVFdf4I0l0PTVm9lHEX2bkRG9BXiD9lezX3kAFng7Ka5sZ4hGGW5T7a1
+	igI0034e7G3q29rcZq8BsExqrmFtph80H825xnog6kSq2pMmJud/wI4ndzOnmOjOiVZc6G
+	1FPytsPKoYNuk2OzRowPLsBNzi/YxK+sY=
+Received: by recvd-69cbc48b94-hnb44 with SMTP id recvd-69cbc48b94-hnb44-1-67E565AF-8
+	2025-03-27 14:50:23.124429795 +0000 UTC m=+11467721.589913385
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id -c_1bbPdR9iTMMY8AU7Ckg
+	Thu, 27 Mar 2025 14:50:23.072 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=3b09cefced1d2b7c3e035160aaf10800bb87b926bb24116122e103a94373
+Date: Thu, 27 Mar 2025 14:50:23 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <8e12e02356a131694a29987b8a2a636f@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <bd4750bf-7017-4826-a6d6-1173df2bf19f@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2F55f144f7-1379-4873-a445-?=
+ =?us-ascii?Q?cf582b2dd855=2Ffc058e5e-a49e-4b18-8176-3d?=
+ =?us-ascii?Q?b8fefdbcb0=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: fc058e5e-a49e-4b18-8176-3db8fefdbcb0
+mailcoach-send-uuid: fc058e5e-a49e-4b18-8176-3db8fefdbcb0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOt8wDM6Ur7e2VgHibLOO+vgqUR7xTj0jZM?=
+ =?us-ascii?Q?1Z8CeJO+wSqoyQcr6fJVvATa515GM3p7p6NF7Dr?=
+ =?us-ascii?Q?MpBq5BXiu5Ld8YlOi5otV+i5RE0UEAKawEhf6jM?=
+ =?us-ascii?Q?7ujxerZu3AJoF92NIhI8QLn8FjhqqfLfP5=2FPdkZ?=
+ =?us-ascii?Q?QTlxcg=2F8fjCLt5AaFOtWxI=3D?=
+To: aelzy8473@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--3b09cefced1d2b7c3e035160aaf10800bb87b926bb24116122e103a94373
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **Kingelzy ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3DZyVw_BkC-2FQQj1VxHeQUtSHLQ2=
+l1XmLpumDRX9yJwDedo1PFztajjqLTDyh6MjnTpMOymsHOpMEeZic19ZVqzfoGnCzf8c02qbu68=
+V-2B6zAS9Ai-2FdoCtDKsE-2BygcathrVviqMQFmhU0VAtq5C-2BfMHvFmQfRNzPkjq0gzDB2kj=
+apUXCSSAx0yyj0vWoGekOsJgtgNy0cfQRlatnB2U8QBWokkM9xbg-3D-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sbAAudOPbY9-2Bc12nfUyhHUmrkjJZNvSYYa0H=
+GKtpQR-2BxsjwFpwUwzUCsVj8xebi-2FDHdL36mwePN9BjlajFg-2BWTAQ914WRIud3G2W8wX2n=
+M4xBGVHXRyGPn9w-2F16PN2Pug8-3D0uix_BkC-2FQQj1VxHeQUtSHLQ2l1XmLpumDRX9yJwDed=
+o1PFztajjqLTDyh6MjnTpMOymsEf9Rtppc7AFd5wfwsixzobC7j3oTh-2BK-2FzGHksvzqCDaie=
+LDphgk3r3y2VdYNsrqUlDFi2NW4OlU3u-2FbyhTQc7rvi-2BrR3uboUyeMlnrYNGOJMnrPm0zR8=
+gfax-2FTSyFDM-2BnvKQr8RZUnxAg5TfO-2FXMoA-3D-3D
+
+--3b09cefced1d2b7c3e035160aaf10800bb87b926bb24116122e103a94373
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">Kingelzy ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3Dqfx9_BkC-2FQQj1VxHeQUtSHLQ2l1XmLpumDRX=
+9yJwDedo1PFztajjqLTDyh6MjnTpMOymsLtfLQ1rCvCKhC1E4pMZdGvTaVkzYoJika5641PdZJ8=
+QHHthgaWgdO95KfCvZWklAq3niCkDb6tKmcEw7FmkdcmtdjjKDWKli1G-2FcnnbtJRmGQOL65dU=
+vHJihXPmr-2FdwrYTh20iYSawNlUjonF2U-2FVQ-3D-3D"" target=3D""_self"" class=3D""v-=
+button"" style=3D""line-height: inherit; box-sizing: border-box; display: inl=
+ine-block; text-decoration: none; -webkit-text-size-adjust: none; text-alig=
+n: center; color: #FFFFFF; background-color: #3AAEE0; border-radius: 4px; -=
+webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; max-width:=
+ 100%; overflow-wrap: break-word; word-break: break-word; word-wrap: break-=
+word; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sbAAudOPbY9-2Bc12nfUyhHUmrkjJZNvSYYa0HGKtpQR-2BxsjwFpwUwz=
+UCsVj8xebi-2FDHdL36mwePN9BjlajFg-2BWTAQ914WRIud3G2W8wX2nM4xL6LFprx3kRidKIUm=
+UsMUek-3DYBvw_BkC-2FQQj1VxHeQUtSHLQ2l1XmLpumDRX9yJwDedo1PFztajjqLTDyh6MjnTp=
+MOymsX6mRs0EnHsWyM-2F8iAlrpDvVP9-2F7Mb9FPMakvjwPwAyzMTzoeagIxXk9C2i-2B1a19H=
+wZvL-2FRYDWOl1RK2wqwEL0kASQS0ALsbM0QIVpIj2PsWsv9fYIMzaCKQSNstOOpDMC8fylGIz1=
+bENrggKEhFyBA-3D-3D"" target=3D""_blank"" style=3D""line-height: inherit; color=
+: #0000ee; text-decoration: underline;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.PBvd-2FSGB=
+4PwEv3f9ONOXGDTJnEloWx52QHK7m1FB3J3ZXTMbjDKSq9wYhH4UM2yrM6XRiEJHyPRusZbFqHi=
+7e2MQ56-2F-2BURJE39mH-2BwdHWXUa2Lr5RUfQZXLkOluWYFE47dg-2FbjgOhqXhcIJ0EBlexk=
+qqPdM-2FgfRVoIEjgg46z7co7Ad1MpBMLIX32o3HLlkeMV4RgnoWQOhyxH-2BKf0syvg-3D-3D""=
+ alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !import=
+ant;width:1px !important;border-width:0 !important;margin-top:0 !important;=
+margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importa=
+nt;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !im=
+portant;padding-left:0 !important;""/></body>
+
+</html>
+
+--3b09cefced1d2b7c3e035160aaf10800bb87b926bb24116122e103a94373--
+","""Account"" <email@onecartao.com>",aelzy8473@gmail.com,2025-03-27,162.55.224.91,Germany,fr,users/51452230/0ab8ef16-24f1-4ff5-800d-edc5448e9a56.json
+51452230,1kceOKBJQkCS1bZagia3YA.recvd-7cf7589bf9-7vmnk-1-67ED8DBC-6B.0,cHJvY2Vzc2VkLTUxNDUyMjMwLTFrY2VPS0JKUWtDUzFiWmFnaWEzWUEtMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=iw6KM/SKOqMGoeDWkUP5i9aMbuMrpV8Jxz81CUeLk78=;
+	b=gynM1wNNpquVhUXS6PTswtKnb6DoYF9UIo0ueLfiHw1Ek6taG9zZPG6k8PBfNFfsrt57
+	dMkJ+xj6hwOowJhgIzZFkcvVrYJH6aVwFMGN+npHeWbxbJ4LqkirY5s7YoRARjh1mGjudf
+	z+qW6rmmUyf6zceaXCy3QZlmlooAR31nujlWMFq6BjtLh/ylQxDXFHuBXaJJqSgXetQdNO
+	NTn0JqElXpMybOPsYCMRn8f3sz+VQKPJ6nxGafyweAihrkyq0XURc3Hv5IA2CPRugWpte2
+	7KPPmTBXzW3wd0Ji86JzwtW6vi3FdtnomxLXPbVK9AL40ukh1POtxILKAM/ty0GQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=iw6KM/SKOqMGoeDWkUP5i9aMbuMrpV8Jxz81CUeLk78=;
+	b=J3LXtQrBwYwHjJmzXBKJe1jVxvJXHDTAeevLOT6Y9nwMPu9ccd+Qiy0yN33BaGPaSCME
+	3DUl0m9hDtUs7Rsd1cR4yW36oRVkCUxR11d5wX6aPMrKw1U6niicXYr9WQ0yVsqskCfVeL
+	8HQOPY7tJwAvHRfJdUTHU/55NhqosYWUk=
+Received: by recvd-7cf7589bf9-7vmnk with SMTP id recvd-7cf7589bf9-7vmnk-1-67ED8DBC-6B
+	2025-04-02 19:19:24.580035752 +0000 UTC m=+12002037.441194038
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id 1kceOKBJQkCS1bZagia3YA
+	Wed, 02 Apr 2025 19:19:24.526 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=2cb3f0633c5b05a2a97f1ef96d1a36227f073589e9de6bcaa07d9336e62d
+Date: Wed, 02 Apr 2025 19:19:24 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <99f047e5a6a6895c1f2d2d14df86247d@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <d7084258-2966-4545-a919-58b771e465de@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2Fee72ba48-8671-4b9c-afb4-?=
+ =?us-ascii?Q?0228a852d557=2F49112d97-2ca2-4d65-ab39-fa?=
+ =?us-ascii?Q?c3b47dfe47=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: 49112d97-2ca2-4d65-ab39-fac3b47dfe47
+mailcoach-send-uuid: 49112d97-2ca2-4d65-ab39-fac3b47dfe47
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOtVeev9vAaIdNT9SDs0AsRr5GKGJz00bIK?=
+ =?us-ascii?Q?O33eutm6AUP4vQKck=2Fs46kinc4mtJAUCCPFF8KJ?=
+ =?us-ascii?Q?b7DymI9NGMmNNTPuUq7jNHvPjaPKQoJvRPWzk5E?=
+ =?us-ascii?Q?6BsMsr0ulXmAPaZD6c5IDHlJUqhgej9nJvKAE5M?=
+ =?us-ascii?Q?r6S3KelYLt2VYE2vcBZ2P3UY9Gs6dV8+xA+eGfC?= =?us-ascii?Q?QGFd?=
+To: jamessharon859@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--2cb3f0633c5b05a2a97f1ef96d1a36227f073589e9de6bcaa07d9336e62d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **Sharon Ledwell ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3Dp29e_BRCMq-2BVy0gVibu4FEQLv=
+mQi0la6PPBMaEUoMBBWbhWfiNARor8AeGJd7ehXWLzxOr0FugxdPTSUVRt6TvZzNSgQmuHWIcVf=
+UFND-2Fas7uviku-2F9rjIS6L6A5cqxVSvgtaGImyrlkV6yXNuK8QB-2Bm7RTLOOOV5mrR6NgOF=
+B5tpQxPCfnCN28Q2-2BHuflweZAF2B-2FloWEsHGKFU3bHYBwM525w-3D-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sbZ-2Bts9oGP38QwuyU2-2FyDy2u7C2-2BZ9WE=
+qOcKpRst3Wvz2o-2FJrNmAn5kchAnpAuyBInTEfj3Y-2BYHxo3TVkQ02-2BqTzBDQhQN239298o=
+oJEdrRvQrRrXV-2Bkko0FrdB-2BCPguns-3DYkOI_BRCMq-2BVy0gVibu4FEQLvmQi0la6PPBMa=
+EUoMBBWbhWfiNARor8AeGJd7ehXWLzxOr0FugxdPTSUVRt6TvZzNSnNkw9KYasPUyL6kmdf0D7t=
+YAYc9s1uuCXFdHxdC6LNuTBgGE1p6GhEmGtzUj75sHx0AUAg1IoiITcgi7wMg5A-2FkOOT6utIx=
+l1Zf-2FDII-2BWpPhgeAl-2Bp7Djod1wcn3ybR1g-3D-3D
+
+--2cb3f0633c5b05a2a97f1ef96d1a36227f073589e9de6bcaa07d9336e62d
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">Sharon Ledwell ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3DlxYg_BRCMq-2BVy0gVibu4FEQLvmQi0la6PPBM=
+aEUoMBBWbhWfiNARor8AeGJd7ehXWLzxOr0FugxdPTSUVRt6TvZzNSsnBnYncGte3qeSiRBP1GV=
+MjM-2B4x48L0teknDlHcj6D2GymwEMWkZNigN2mS0AmnjWOPwjjq-2FBhGQQqupnmWK3GAtNf6d=
+P6XyE6XlDa9gayPauFrcIgOTxGNNuZc0-2FSzeQ-3D-3D"" target=3D""_self"" class=3D""v-=
+button"" style=3D""line-height: inherit; box-sizing: border-box; display: inl=
+ine-block; text-decoration: none; -webkit-text-size-adjust: none; text-alig=
+n: center; color: #FFFFFF; background-color: #3AAEE0; border-radius: 4px; -=
+webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; max-width:=
+ 100%; overflow-wrap: break-word; word-break: break-word; word-wrap: break-=
+word; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sbZ-2Bts9oGP38QwuyU2-2FyDy2u7C2-2BZ9WEqOcKpRst3Wvz2o-2FJr=
+NmAn5kchAnpAuyBInTEfj3Y-2BYHxo3TVkQ02-2BqTzBDQhQN239298ooJEdrRvSd0Rs3Nh5s8s=
+Dne0K6GBO8-3DONc8_BRCMq-2BVy0gVibu4FEQLvmQi0la6PPBMaEUoMBBWbhWfiNARor8AeGJd=
+7ehXWLzxOr0FugxdPTSUVRt6TvZzNSpQdEAOB-2BDfMRgrDu2DtqEFlG3eGuh-2Fj6jIk-2Bfgh=
+8q5iQVT9Cl1TI-2FbngiSLM7zHE-2FFioWgjHRzbCUFhq-2FpwfbB3dR25NCKuGRZL5qAKVxaOK=
+nI3GqRian25nsD77ExKZw-3D-3D"" target=3D""_blank"" style=3D""line-height: inheri=
+t; color: #0000ee; text-decoration: underline;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.CEiRN08BZx=
+9rLtv7ljsS-2FQGXaXRqZxiSUQp5fAymQA-2FnD3HUXUZYTTJ4MB3Uf-2FmZXEJX1TsWHnING73=
+HxfVEKdW8mpAhP9FVoOF29DNvh4GzPDex7k0LkseWhUA9TjobFTAuwI-2Fvq-2ByUvQEPAI-2FU=
+VS84e6z6QXCBNUkGp-2B1uwAUY8bxf-2FF6uN0SjHkGahOfCHfzeRsKPfa8EB7Rr6WUQiTaJHHO=
+qsX8gVAPK3z-2BtKPU-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+--2cb3f0633c5b05a2a97f1ef96d1a36227f073589e9de6bcaa07d9336e62d--
+","""Account"" <email@onecartao.com>",jamessharon859@gmail.com,2025-04-02,162.55.224.91,Germany,fr,users/51452230/5517b670-db1a-47dc-b1bf-c65cf2b8c7b9.json
+51452230,45L9LBA9TWilTiQuf3m7VQ.recvd-69cbc48b94-mls98-1-67DF40F8-AA.0,cHJvY2Vzc2VkLTUxNDUyMjMwLTQ1TDlMQkE5VFdpbFRpUXVmM203VlEtMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=bTnm3JEtD1lsACpPsYj0y6Lixt6WXyf+qBgAKbztVBE=;
+	b=uw2/CET6gBh8IoFMmuv8RmwMYIXJV8luU9ENBla2DZUnaNHXDAI3Ksnd42bghq7bcREW
+	I61TG8KIZ7aRCTpRr031mOnCUWd01BJKGxTjscN4BGoZZfI/GZNQmJFsOd9ULxIkPgWeEc
+	y2RE2kOLxvg+/Lr2BPGNj6xWPDGYNUFjLkJUECx9v40JH+6//gFDQDfTMgEpbD3a7ivhfg
+	xpKPaMJ4MXTqqjpLC5FvhjPFVaJbY3f+tL9Djk5u1hAoDc8saySOEsqWoj1vk4QM3mGu4K
+	Z27IZRloYWnaMcYKQ0AY29d21GBZxSW+62UGCFGGHjGoqhLASqNyGNbAbNm2Iejw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=bTnm3JEtD1lsACpPsYj0y6Lixt6WXyf+qBgAKbztVBE=;
+	b=f0uDcekQjr9FzmCRoFqQcLvamPrq197t6JSHhAKK+UvYEIB+E/pm4fL+5uO2xfJJL9VP
+	l78LO181Ze4RwKUPIJyEnQzH0POmoBpDBaQuNkz9XMNZvjoWnRbgVaX1uvd4HEkkbu27f6
+	Vl1iVn807aiQGNI2bDM3ta+AY5DGWPrKs=
+Received: by recvd-69cbc48b94-mls98 with SMTP id recvd-69cbc48b94-mls98-1-67DF40F8-AA
+	2025-03-22 23:00:08.755098001 +0000 UTC m=+11065098.189093534
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-3 (SG) with HTTP
+	id 45L9LBA9TWilTiQuf3m7VQ
+	Sat, 22 Mar 2025 23:00:08.708 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=5aab11a8d6aa7fe33ca85d0aeb31db2207d5ae49a2b760ee086aa0da1f71
+Date: Sat, 22 Mar 2025 23:00:08 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <3b8fc94cd4a5c9a7df7d6f2fa6f1e57b@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <a2d46fdf-ebd6-46cc-b89e-1d24825cdec9@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2Fedb91620-7e27-4123-bdd0-?=
+ =?us-ascii?Q?eaccec0f4472=2F9c5cab9c-bf98-4748-a605-27?=
+ =?us-ascii?Q?e4877415c1=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: 9c5cab9c-bf98-4748-a605-27e4877415c1
+mailcoach-send-uuid: 9c5cab9c-bf98-4748-a605-27e4877415c1
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOtz=2FNz2ITNXzA18Ceyh0Yg3JldKBMEa=2Fe5?=
+ =?us-ascii?Q?X0gtRcnk59MA+olDEf4O9YRflk8IkfIFTmZ=2Ft5l?=
+ =?us-ascii?Q?Xtdq8QZYoyAPCEb+i5ABWaE4o5fox1EVJRMhIze?=
+ =?us-ascii?Q?ZPIgb54UpR41RZt8=2F3EAawhpNV+v0lxc60CjU3B?=
+ =?us-ascii?Q?SjYl70vzRMX2ERTbIWa+C1N59xyiJKYacxMDqIt?= =?us-ascii?Q?u2M0?=
+To: tlinnstaleywood4439@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--5aab11a8d6aa7fe33ca85d0aeb31db2207d5ae49a2b760ee086aa0da1f71
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **Terry Wood ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3Dcw6a_nqD-2Bu3s8YL1OTyB5U5-2=
+BAUAYoQ6vtu8XtibDXYk9jFliFWDhFhk3qRoxga3mpZHn-2FCuk81vLxXkRgmarJIIAgtJ-2BFt=
+Pg5cUAdrQDGrBbeMtdWhHpfp2323GTBWoO0fT-2BWrhhsKZbjlnxUn7agHHE3NI-2BPn9DKedp0=
+1QbGkIDsJSW2Yz1e-2FP-2FEhSvcr2NVarrP4n0-2F6Z2mb9TWlr28Eo1XmMWC1fcJS8BG01XAo=
+MyX3tU-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sYEDXD-2B3DsOyce7mVhc8dg-2FVZ5cnc-2BDU=
+jlzckk6C-2F32-2BVyr1FQ3U8XXQ6J-2Btupm-2BuMEabw1NiDlw7rsTrg19DvHzPl5XbRkaCfd=
+B7WW1zxAqffY2U1l5qZF0PYlD9y6JNE-3D2A-7_nqD-2Bu3s8YL1OTyB5U5-2BAUAYoQ6vtu8Xt=
+ibDXYk9jFliFWDhFhk3qRoxga3mpZHn-2FCuk81vLxXkRgmarJIIAgtJLjw0pI3TI1eIHm2MK9V=
+1fWmiAIwFlKjuzqs2ee557tOUvz4FpZvHi9VhBAcaOGsIWtuzaBlKPnEtc3MwKaUTciINV0rUQ7=
+3Pza9J7f-2BmfRR7HXClHI3NuySZFkJKbU9Pqh5eNoSSSLJo-2Bt-2BDRzc80-3D
+
+--5aab11a8d6aa7fe33ca85d0aeb31db2207d5ae49a2b760ee086aa0da1f71
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">Terry Wood ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3DFhmS_nqD-2Bu3s8YL1OTyB5U5-2BAUAYoQ6vtu=
+8XtibDXYk9jFliFWDhFhk3qRoxga3mpZHn-2FCuk81vLxXkRgmarJIIAgtNTzoLudtem7cu-2Bz=
+JreHwVOtoIbG8qrctVgo6WbvapzEiPhXPY546DhQdOUj6FwbQGlL5PIGbWzDq-2B-2FaQDLatho=
+-2F4zvMNq6UgJzOA3zMIBOXtrdp8u0jfmcXWCkdNMxzUpYPBS9hgOex9gY15qn4arM-3D"" targ=
+et=3D""_self"" class=3D""v-button"" style=3D""line-height: inherit; box-sizing: =
+border-box; display: inline-block; text-decoration: none; -webkit-text-size=
+-adjust: none; text-align: center; color: #FFFFFF; background-color: #3AAEE=
+0; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px;=
+ width: auto; max-width: 100%; overflow-wrap: break-word; word-break: break=
+-word; word-wrap: break-word; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sYEDXD-2B3DsOyce7mVhc8dg-2FVZ5cnc-2BDUjlzckk6C-2F32-2BVyr=
+1FQ3U8XXQ6J-2Btupm-2BuMEabw1NiDlw7rsTrg19DvHzPl5XbRkaCfdB7WW1zxAqXZg7B-2BuJ=
+97gHtd1FDF1r-2FQ-3DpFud_nqD-2Bu3s8YL1OTyB5U5-2BAUAYoQ6vtu8XtibDXYk9jFliFWDh=
+Fhk3qRoxga3mpZHn-2FCuk81vLxXkRgmarJIIAgtAO0hL35vqvA3L0-2BFFqZ9BakfL0rNVtMsy=
+wya5L-2Bjrmo9f7mW3R11hV0hU4WAdu-2BVR4n70kjjjqmnA2E-2F0ZA-2BZ-2Bj8-2FRVUJ15t=
+2agE9XiRPFRYv-2BSZtJRVxD5jPE-2FOWLfhF3ArdWBNwWyMai6NF38oeI-3D"" target=3D""_b=
+lank"" style=3D""line-height: inherit; color: #0000ee; text-decoration: under=
+line;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.02j-2BK2Wv=
+USPLS5IwXQ1wyeZYkNQvadNIHRvT2zrYAyD9LHyDgz5Q5Cc4dGIKVcMZxZW70zOOWS-2B-2BAqN=
+EPbHE-2Fn5NjUO5MKp-2Bh78l-2FD7Cx8cz-2B7zWcvTgbhX5EV4J513w7PL-2F1J1jkuDfP-2B=
+gQssCE1rWHZW1yEjbJoAAahW9jdkoIJVrXPJHz9-2Bh8tMg1hmkrEx629Z1sj9PTPNQ4TkV-2Fd=
+sstjgh6xjl05MNe-2FcmRty4-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+--5aab11a8d6aa7fe33ca85d0aeb31db2207d5ae49a2b760ee086aa0da1f71--
+","""Account"" <email@onecartao.com>",tlinnstaleywood4439@gmail.com,2025-03-22,162.55.224.91,Germany,fr,users/51452230/9e01fb98-e3ba-470d-b334-403caa3d56f3.json
+51452230,42iWu_LMQPOWpKviDicKMA.recvd-69cbc48b94-rsxdm-1-67EC4302-44.0,cHJvY2Vzc2VkLTUxNDUyMjMwLTQyaVd1X0xNUVBPV3BLdmlEaWNLTUEtMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=nY4Te6Wpa89kMEQMRfrLCbWkTYwv3RrWpvBZ+IjRHtU=;
+	b=XDhozpaJLLzHALZhRrUwUxVcPRsLziUt1sHmHMrLFxz02D8A/1cwkq8xsbhlNYA9sJBn
+	FBhqVgf/lKuqU2yrrTL/4KzsMj66SsI7XWJVE/Wf93Y694lrtrGMgEux7xPpEMwj3Qej0o
+	i9UjMXlVBXXaNtLSDNnQUTIFG/KHi0umP3WbXPr3p1v3EinE74t9wWI7wW2DMuNLaOuwLU
+	rWjzkSDgGANvLDb/GZSG57IkPpgddMIoPeRnaVqsnkvLgclEFcDNpMB4tqrC/CJR+NDs2O
+	g7Lp6EXiRxr5jzarRIkuf3IJO5GN4Jvzmri7ogI2lT4A/7g/HQtWuG4fAVjtiIVA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=nY4Te6Wpa89kMEQMRfrLCbWkTYwv3RrWpvBZ+IjRHtU=;
+	b=VTdIBZ4VqgPmTOQwSS/Yc6EQRGFR7L7ifSPMAyDN+lsBP//qsJd01otDdk8OEFunAENN
+	Vj7Bo70NnncG9izXS32heLefJCJsVMzknwuliRKYGr185dY2HSKE1ve+2G38EwQib1kwc/
+	NpXPUmMOmucXRWS7u86TJLiTIWUHnM+Q4=
+Received: by recvd-69cbc48b94-rsxdm with SMTP id recvd-69cbc48b94-rsxdm-1-67EC4302-44
+	2025-04-01 19:48:18.824728278 +0000 UTC m=+11917447.239823603
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id 42iWu_LMQPOWpKviDicKMA
+	Tue, 01 Apr 2025 19:48:18.723 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=be94dce85cda6ea61010deb2c0f83a03c0138677b7c1ff33c8cd4956df92
+Date: Tue, 01 Apr 2025 19:48:18 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <163fe803953603393c7156baab866bc0@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <7ce8019e-8af8-487d-afaa-2ea2e18ec5f6@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2Fb7b57fb1-5059-428d-95b2-?=
+ =?us-ascii?Q?e2d991c8beec=2Fe4b0cdbd-20b0-4ea7-acf6-15?=
+ =?us-ascii?Q?8b144d7613=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: e4b0cdbd-20b0-4ea7-acf6-158b144d7613
+mailcoach-send-uuid: e4b0cdbd-20b0-4ea7-acf6-158b144d7613
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOtz=2FNz2ITNXzA18Ceyh0Yg3N0VMiVcri3i?=
+ =?us-ascii?Q?6fRmt4zxNaxxk8kwDlZ3S5EzhLunmDNjBcWUKh9?=
+ =?us-ascii?Q?5HDofhgXw6rgaDNhAq8HfxqobFhjJ=2F71=2F+FtgiD?=
+ =?us-ascii?Q?M8cG=2FWUxqilmQrtKJFrAbvsGoLd8ChehUeovDw8?=
+ =?us-ascii?Q?5AX09Gsh7VtD6EcSAa6IV6Q3S3S=2Fc3mIVzUt6xw?= =?us-ascii?Q?WmcG?=
+To: pamelanorman66@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--be94dce85cda6ea61010deb2c0f83a03c0138677b7c1ff33c8cd4956df92
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **Pamela ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3DNWtS_7VwPoAOTRZv86bxb2Mt2rH=
+bFxKuvPu7KNrteUSiXvhtOzIcH7r2Nvb4h6f6Cr5UA6ukH-2BU6G57KPFjvtE5AYncq0omsg4fV=
+hZJvXHPagmspjs96y4M9jamo-2F2PqWMWDSFERFAW7mvBPSoJIwJO6rAi6mMoAx2rONBrma1oR2=
+lQPm1J2WfZqrrCNLIMOvwjeKiGgBPPxBYYQpZBNZH8c6OA-3D-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sY2yGx-2Foy9K-2BZZ20fDoBwmQXQ4XpDPTU2e=
+SBbZ-2Bfe6JhlFLL4LbR5slsD3jhSZJ34nHtZm7Ee4BhDBZ8vnfMtNY5fB8PbYlAJvUTuvDK-2F=
+yC3iqovnqV9utxeAO0oLXCMtU-3DJv-l_7VwPoAOTRZv86bxb2Mt2rHbFxKuvPu7KNrteUSiXvh=
+tOzIcH7r2Nvb4h6f6Cr5UA6ukH-2BU6G57KPFjvtE5AYndjTN-2BL5zIDd1beTd64cAh5Y-2Bmp=
+FaiHDzz1u-2BNljCXUFVr1igmAaNaycSHO1AEWpVwTr6P53HaCqkjniVBpq1U13YeP-2Bg5n-2B=
+x2X0kc-2FtGEsIHeib-2BJ0-2BkFYzZzMeNL-2FEeg-3D-3D
+
+--be94dce85cda6ea61010deb2c0f83a03c0138677b7c1ff33c8cd4956df92
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">Pamela ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3Dsp5__7VwPoAOTRZv86bxb2Mt2rHbFxKuvPu7KN=
+rteUSiXvhtOzIcH7r2Nvb4h6f6Cr5UA6ukH-2BU6G57KPFjvtE5AYnXTRsdLLhy-2B0ENoSK82i=
+WoO8VC5bnnYpwfDc7EMK3ENs65XfPF7u4SiSSW7HXT8a5lIiENTrhk5zLsOTOoT9X8GqzrMlfdE=
+6Dm30tLoOxObkesyq-2FwZYX4wqsYP5fHeIHg-3D-3D"" target=3D""_self"" class=3D""v-bu=
+tton"" style=3D""line-height: inherit; box-sizing: border-box; display: inlin=
+e-block; text-decoration: none; -webkit-text-size-adjust: none; text-align:=
+ center; color: #FFFFFF; background-color: #3AAEE0; border-radius: 4px; -we=
+bkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; max-width: 1=
+00%; overflow-wrap: break-word; word-break: break-word; word-wrap: break-wo=
+rd; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sY2yGx-2Foy9K-2BZZ20fDoBwmQXQ4XpDPTU2eSBbZ-2Bfe6JhlFLL4Lb=
+R5slsD3jhSZJ34nHtZm7Ee4BhDBZ8vnfMtNY5fB8PbYlAJvUTuvDK-2FyC3m5bvIYfVgUbBulAe=
+XwJoDY-3Da-cC_7VwPoAOTRZv86bxb2Mt2rHbFxKuvPu7KNrteUSiXvhtOzIcH7r2Nvb4h6f6Cr=
+5UA6ukH-2BU6G57KPFjvtE5AYnfXesiqzp4rLAfXb1LXeigmmHwCugiIFYa61qnJ-2F1vU-2BFC=
+06pQOnwfhKoveBQATYuKBylHKXOlQSunydnLrPkqyjJVf-2F5J2tROwSz6qfFQ0vMD81pOrnhBQ=
+T2wqXRF3vJg-3D-3D"" target=3D""_blank"" style=3D""line-height: inherit; color: =
+#0000ee; text-decoration: underline;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.iEsrLjGs7X=
+UEA8wMx4ZifVV12Xua5tKxf0YEfjuUpJA4P5f8ByOGw4I4SoJuFXGLksIeq7x7N-2Bsr2mPVuuj=
+18D-2FpT66T6thQyhzUqhxc-2FIdo7HGFlkTypc9Uz4yVkdqvAr7-2FocSJhViUKKWmOpUVffAL=
+kGkXIh2Y0vt4tvQXXAMtkT-2Bet1vSRwwEjolq5CdG84CjqkFBNIRT3V6L0-2FdOzK0JZv75mHc=
+jqimF-2Boaz5Ic-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+--be94dce85cda6ea61010deb2c0f83a03c0138677b7c1ff33c8cd4956df92--
+","""Account"" <email@onecartao.com>",pamelanorman66@gmail.com,2025-04-01,162.55.224.91,Germany,fr,users/51452230/189e362e-e5a3-443c-9baa-816805780006.json
+51452230,C5IVgAWVSmK6LYoTf2rG0A.recvd-69cbc48b94-g9g4n-1-67E419FA-7.0,cHJvY2Vzc2VkLTUxNDUyMjMwLUM1SVZnQVdWU21LNkxZb1RmMnJHMEEtMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=7y1nOrustVhwGFiy+/xbMypcs3c3SP5hjszAxNSRX/Y=;
+	b=r1NSn+redz0mvdA4diz2BT9RGhcOI+Cxwtb5IWpemar44ONneD4yHgjrZMlW0t9A/FnM
+	lP/tRCRJqJaK54RZQ4h/4EtNevARMzpIvihkMc7aPHOZ04x4ieWsjWW3MXVur2iC8W6D8o
+	lxMFeD8PFTsmEyg7IOK8HRpZJ2vfaIGmZSxabrZK5IaBtx81e70YU7xih9lneVmpI5ds+6
+	yX1VsvrqTbKj/GBL3J3IsdlkfYNAiatmPoOliOYl1RN6pN4gHnKIva/pftfN5s4Wc/QmEe
+	xLkKuaO143gzjbYYX8WFQc9FJAKZbhMDIOcrjj3Vjq6L1IxFMMgm1gH+ToAq+8JQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=7y1nOrustVhwGFiy+/xbMypcs3c3SP5hjszAxNSRX/Y=;
+	b=zEN+kqY4aENbLJcI8kQEHyop9EQJ+VOMr82V3ayhLQwYEc2JziQSpbYxgyIFVrO/Jvka
+	oTIMp/BmTF/E3oDkhRMHo74I4oC4Mroe9VlMuJbInEvrb9VNy5hlCblOv04/+waWvsU2Td
+	/AkkNYvByJhpamrV0q+fQ/nengAxpWUFo=
+Received: by recvd-69cbc48b94-g9g4n with SMTP id recvd-69cbc48b94-g9g4n-1-67E419FA-7
+	2025-03-26 15:15:06.275264981 +0000 UTC m=+11382782.961448562
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id C5IVgAWVSmK6LYoTf2rG0A
+	Wed, 26 Mar 2025 15:15:06.223 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=02607605f419c288eb4b633a5e39c21a2d8187f91ec931884e3366fa44ca
+Date: Wed, 26 Mar 2025 15:15:06 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <e9475877908c643e470a6cf222de8478@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <9ab1cfa7-a06d-4a7b-9c7f-c32eda7c2011@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2Fd8233e67-14e7-447f-9dfa-?=
+ =?us-ascii?Q?36866de9c13e=2F35ea1521-b876-4440-a118-d7?=
+ =?us-ascii?Q?bf82659bb1=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: 35ea1521-b876-4440-a118-d7bf82659bb1
+mailcoach-send-uuid: 35ea1521-b876-4440-a118-d7bf82659bb1
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOtGwy5YxuwLnmAR2J4uRMTftvlu5PpQcTi?=
+ =?us-ascii?Q?Q7uJN61my84XeSvHVfbLY0seSApYHBpNdYJoJyQ?=
+ =?us-ascii?Q?s8sghdGPt=2FyzllmhjtzpEydyqRe7UFIenqwZJCg?=
+ =?us-ascii?Q?GrNl9beKPxwzkr+EovTDIMysDmdmAClMwv9cwC5?=
+ =?us-ascii?Q?9+Z1ybsP98nqIL5rf07CpY=3D?=
+To: manuelpere324@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--02607605f419c288eb4b633a5e39c21a2d8187f91ec931884e3366fa44ca
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **Manuel Perechu Guarchaj ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3DXXJI_LAeXOxYVbNdt7Sae9sDPBB=
+i3SYF0c2PYpNrpa-2FoAFDq96xVKSd9riH1J4zM5s5srwbbnP-2Bcv2z7gRoZs0TntqHKIRomv-=
+2Brb-2BTtn7xbcx-2ByGJb6KC65buGBtR7gxH8I7y4x797OMUAISWJCtqXUE05DdUKPahN-2FNz=
+07Ha8jQ5Ou-2BijFyqtaviCuJ0xzfudwV0qcclpGq-2FgA3jM1t03pi9bA-3D-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sY2EntQDI-2FqVrVLXBVptWoz-2FnPM9TZvAxH=
+14bF03hHcXGpGmF2jyGP0h3VYyO1FXN7Yvdt4ooZewfqiBD7TZtgorSAgzUd6MdMyPJ2T-2F4sv=
+AN71TGb0dY2lqP7jGV9hDEM-3Dtsxh_LAeXOxYVbNdt7Sae9sDPBBi3SYF0c2PYpNrpa-2FoAFD=
+q96xVKSd9riH1J4zM5s5srwbbnP-2Bcv2z7gRoZs0TntqN8ZkP-2BFCOmWBPaChqoZMQt-2FQq-=
+2FOQFo6d4CeKL2gaGUv78U1swzbWhbTBrwu2-2BwlkZtzth0pGiuRE5rcgTXsX182gfEaV7Iefm=
+xZa7-2FdoTRzhvCxY7ZcheM07IlyIRG3vw-3D-3D
+
+--02607605f419c288eb4b633a5e39c21a2d8187f91ec931884e3366fa44ca
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">Manuel Perechu Guarchaj ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3Dpc9N_LAeXOxYVbNdt7Sae9sDPBBi3SYF0c2PYp=
+Nrpa-2FoAFDq96xVKSd9riH1J4zM5s5srz-2Fm2W6A9ThmIBOCmUjFG2fpcKBd4oVkhCbuuB6Ul=
+nAi-2FRG1EXqduNiuHXdnlUDVeE94l1NBfjdjYlrJzluq1ODKSrhjQ6MbznycKQxmbW6-2Bu-2B=
+yJ9VKVzk1X-2BvK1x8u-2BmEOUy6ZgruKeLqfSpboblyA-3D-3D"" target=3D""_self"" class=
+=3D""v-button"" style=3D""line-height: inherit; box-sizing: border-box; displa=
+y: inline-block; text-decoration: none; -webkit-text-size-adjust: none; tex=
+t-align: center; color: #FFFFFF; background-color: #3AAEE0; border-radius: =
+4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; max-=
+width: 100%; overflow-wrap: break-word; word-break: break-word; word-wrap: =
+break-word; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sY2EntQDI-2FqVrVLXBVptWoz-2FnPM9TZvAxH14bF03hHcXGpGmF2jyG=
+P0h3VYyO1FXN7Yvdt4ooZewfqiBD7TZtgorSAgzUd6MdMyPJ2T-2F4svAFugobqrHG6U4BItZXp=
+fzRw-3Dnhbp_LAeXOxYVbNdt7Sae9sDPBBi3SYF0c2PYpNrpa-2FoAFDq96xVKSd9riH1J4zM5s=
+5srz-2Fm2W6A9ThmIBOCmUjFG2Rh3PSayKV-2Fw0sj95Atdhi36VcjBjSiQan1fw0NI1huFoqDV=
+aZbadCPkRdJMQ-2BnFws5i-2FQ67f-2Bbvnk-2BEIYf6E-2BN2zgYjqPmWQnaG74GCp1QuzEvf1=
+R8zgaTPxQoCI-2Bi-2Bww-3D-3D"" target=3D""_blank"" style=3D""line-height: inheri=
+t; color: #0000ee; text-decoration: underline;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.78W2zXKRTu=
+RZGxNRnkn60YD9kGspXUxr8WN1nZDwtDWCIYsnQOE20Fv39vOSOngu1SOtc3zAOvlcRjSFFOw55=
+UtSMzgubZ1maGAS0VC-2Bw6Pb-2FEdOHSAnvu-2FHdN4M1P6f5iy7zD2Vuvg5KS2k6iq3Pb0wFm=
+Cd1fOzDJBPXT0b1apGoDmn10ksfr60-2BHdfiCrh50j1W6MnMyWXymfWM6iAKr-2F2XrurZL9rA=
+gbNr2GyIGc-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""heig=
+ht:1px !important;width:1px !important;border-width:0 !important;margin-top=
+:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-l=
+eft:0 !important;padding-top:0 !important;padding-bottom:0 !important;paddi=
+ng-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+--02607605f419c288eb4b633a5e39c21a2d8187f91ec931884e3366fa44ca--
+","""Account"" <email@onecartao.com>",manuelpere324@gmail.com,2025-03-26,162.55.224.91,Germany,fr,users/51452230/95b16f36-cd61-45f6-bf34-1b666e97ae64.json
+51452230,H1EcNnyqTdef03jvDbAxkw.recvd-69cbc48b94-q4tz7-1-67E2B10C-32.0,cHJvY2Vzc2VkLTUxNDUyMjMwLUgxRWNObnlxVGRlZjAzanZEYkF4a3ctMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=UJIQNz/GtIsM3wXYQY4VVZysPWAYiSci4VMRhfVbtXs=;
+	b=dqEpmkHu5aBSlB1UcTxQc0UlCH0PLu15h3pRQmWiVsrr8V4dswmW3/NRCsxypMdoO2wb
+	Y9l9QvGEdSWrG/unR/Xu3E2Zmm3tl+vgGvdeMRlqR3LFgCF4eaVO5Kih/CLuf0LJ4HHv3D
+	vAKGfE9UDyI1xHA+YJEzjHqRXqHFAbTtTSqo/3qfVsFVxhSW1+wbrwk+g5ft0+IFUbt8D/
+	wttzaXBuveXmzeG89NgsiXIkg5bWv4dj56UN2a2H8s+8eTYTpIlNL5RADOpRqsajYWMlEC
+	T7bNKk/1OnaOU15ZdchYHMPTKPttAF3NO8j577FTv8ZRF9Y+1UZlTcXQnSP4zjlQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=UJIQNz/GtIsM3wXYQY4VVZysPWAYiSci4VMRhfVbtXs=;
+	b=o3hwj9TpDr+iHtQV6kVwkoX54boVq0CHwuUEiAnjmgnmOwRRpJV9wMX4KO0PsU1HB85N
+	8dfkWNGiKM4UlL8Z2jYc8JGs8IELNins3ju1ApetdKOPqJwS0dfDHda7tnqPPlXd21+at8
+	2iZx4u4M0D3omMY9yky0ItSxMx178qLDk=
+Received: by recvd-69cbc48b94-q4tz7 with SMTP id recvd-69cbc48b94-q4tz7-1-67E2B10C-32
+	2025-03-25 13:35:08.390644981 +0000 UTC m=+11290340.389361431
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-7 (SG) with HTTP
+	id H1EcNnyqTdef03jvDbAxkw
+	Tue, 25 Mar 2025 13:35:08.072 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=f563c64c008ad25cd12842c1416df59f62d6ca384ddad5099a3124ef54a0
+Date: Tue, 25 Mar 2025 13:35:08 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <2438241b715660873ad93a42a9c186fb@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <1397db8e-7dc7-45e1-832f-5017e46f640c@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2Fdc24a677-3a41-42b1-a8a8-?=
+ =?us-ascii?Q?7c59d7f440d5=2F711fd90e-7ee7-46ca-a4d0-8a?=
+ =?us-ascii?Q?ec2b8ce411=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: 711fd90e-7ee7-46ca-a4d0-8aec2b8ce411
+mailcoach-send-uuid: 711fd90e-7ee7-46ca-a4d0-8aec2b8ce411
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOtLKnZ5yVfP4AELwnH3OPPXf5mxdXqshVp?=
+ =?us-ascii?Q?p3=2FxvzeoGzD9TORkHsi+kK+Epxo7yysCZ+BZpwN?=
+ =?us-ascii?Q?vtIlcaiVKwAQsgM0VsTPbYiXROx5AgTDm2c1=2FiC?=
+ =?us-ascii?Q?CCC=2FxWEKSA17AOtA7=2FhpCDgpDR6NkHXJ=2FCf97K+?=
+ =?us-ascii?Q?f3VES5zObaAvt4+j7KBum3+lt+bNrvlbSoUoR2v?= =?us-ascii?Q?kl9X?=
+To: katherineliborio@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--f563c64c008ad25cd12842c1416df59f62d6ca384ddad5099a3124ef54a0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **Katherine Liborio ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3D3qAr_ZQI4CICTohDl1LDUUgVhTr=
+68RejQdLwPLGIIyjHTdmdczS-2BBOY4ZE2UKPR6H48yDlgkVEJ6NnUmMpnJs-2FU9Rdo9bU3cjT=
+7mQxzjVsH4GxyqfKCmQPC36n9kDmzMX-2FIP5333FTmlyZ8olfNZv-2FD-2FcF8ZXwU9dY-2BVD=
+Td6Ab3PHb4JuGWmMSzio-2B5U5NmGx8gHIS5aSZPM-2BeXbmE2nMqqhXNw-3D-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sZph9iYERdXAFyy3Vi9PfCuQAOx9UUoMFxAELh=
+ZLeh-2FHVlsPf5MDcSiX-2FrqWQIpKsgOEkE9JSQYsGehZEdUKP-2FTFsQ9UM-2BmsfJ5tUb-2F=
+2wMrdjtRfHFDQrpOre15yTKphno-3DkyNF_ZQI4CICTohDl1LDUUgVhTr68RejQdLwPLGIIyjHT=
+dmdczS-2BBOY4ZE2UKPR6H48yDlgkVEJ6NnUmMpnJs-2FU9RdnBqYYoE1GZgTco1ZC91QVATCBu=
+RNI6TLeFX8bXf-2FQ3SnkWz4ja5s1t3422-2FhDwgKjjy5VsLRrjORwJZnm1DSJ-2FCbQ7MEN-2=
+FSamOpwx9FJWnFaEDgfblWNk6waYypuEGEAQ-3D-3D
+
+--f563c64c008ad25cd12842c1416df59f62d6ca384ddad5099a3124ef54a0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">Katherine Liborio ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3DmRTo_ZQI4CICTohDl1LDUUgVhTr68RejQdLwPL=
+GIIyjHTdmdczS-2BBOY4ZE2UKPR6H48yDlgkVEJ6NnUmMpnJs-2FU9RdlikNB2warBJyq1P3gS8=
+QVcHtzmtcGC65jyAu66kNykRjJhE2m3PN9pB-2F9vVZlSL4LvLpWY-2FM3iyApgkkp-2FF-2Fsf=
+Xqy1xUVCs8KmrzMwgiHnTyfBJEmfTjTxQBZxZ90lYxg-3D-3D"" target=3D""_self"" class=
+=3D""v-button"" style=3D""line-height: inherit; box-sizing: border-box; displa=
+y: inline-block; text-decoration: none; -webkit-text-size-adjust: none; tex=
+t-align: center; color: #FFFFFF; background-color: #3AAEE0; border-radius: =
+4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; max-=
+width: 100%; overflow-wrap: break-word; word-break: break-word; word-wrap: =
+break-word; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sZph9iYERdXAFyy3Vi9PfCuQAOx9UUoMFxAELhZLeh-2FHVlsPf5MDcSi=
+X-2FrqWQIpKsgOEkE9JSQYsGehZEdUKP-2FTFsQ9UM-2BmsfJ5tUb-2F2wMrdoChqHwB0fOymCX=
+vDY67c-2Fg-3DXyVk_ZQI4CICTohDl1LDUUgVhTr68RejQdLwPLGIIyjHTdmdczS-2BBOY4ZE2U=
+KPR6H48yDlgkVEJ6NnUmMpnJs-2FU9RdkPaXVFHwfMPVoDoYzwAz-2BVj1nZoW049X0z2GlqMSq=
+CzRpv-2Bi6o33MVrmwB19RAHhN8ZhJBuiT9UKEm6JunYdT7GBfPBUnaea8Jt4TkUa0h-2F-2BqO=
+tcLwUeU2IFLjgFPbaRQ-3D-3D"" target=3D""_blank"" style=3D""line-height: inherit;=
+ color: #0000ee; text-decoration: underline;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.Bn8XS5g-2B=
+wYdoyrUN-2BKXL8ktf35vX809EI5teQfLTRdmxc9HNK71H5w92BgvSlf-2FKAD00mp4QHYp4jrT=
+xCb6RBdihnlD8nT2axi8IsxGyD2-2FWqFP966NJRpuX0L3BPzTi2OZXzQauhfhbxtsc-2FDWA5h=
+CtIAy6PgC4g-2Fr7GG5m7Raq3xACTM7jRrX-2FG4RAiqN28PzSY-2BXdEtnSbx9C7EuMmLOGeNp=
+zwPq7Ni8oTv2zf7s-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+--f563c64c008ad25cd12842c1416df59f62d6ca384ddad5099a3124ef54a0--
+","""Account"" <email@onecartao.com>",katherineliborio@gmail.com,2025-03-25,162.55.224.91,Germany,fr,users/51452230/d5ff10e4-0eeb-460f-8e63-ee13f1f2a827.json
+51452230,TQnM-lbfQku4mBuJ3a8Yhw.recvd-69cbc48b94-ftnkf-1-67DE03A1-10.0,cHJvY2Vzc2VkLTUxNDUyMjMwLVRRbk0tbGJmUWt1NG1CdUozYThZaHctMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=GZZdIlTAgOqJUCN3sv8e2m55Ym9+nmnfrDfrbKtvB+k=;
+	b=q+owhfrA7wDnl2lWPz07ur57P6rs5b3VxbENGp1ou8HZnqtKne6yS2eZnoC4SWQ9or/M
+	Q61NXcvjrFmoXtFR39xMjo5/WNrFCorFbWfWVf989pO15pC3ARRDvFvZrBFftulaPQRYrw
+	mJmfM/4bwERX7ubH0mZ72lyrp0ix/B7+cFvAiRreovSvFAacHClXcJUeSxO/sqwx5+gxMa
+	V2MFB+dLHo+L9W5z8Hw0SJ69wWpjt/9z1JJAir9luPdzmcO8dZQvhMhBx1JTuRgFKJT2kn
+	dRCwcevH27ZC287S4F2Mgdr7K12mdv2eS+19XOHe+ok6MBM5xXNhOGKMBTfrPcZg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=GZZdIlTAgOqJUCN3sv8e2m55Ym9+nmnfrDfrbKtvB+k=;
+	b=Cb+TiEpMkEJ3p4QME4wxG2vu/rwFYeDR+IEx/lWGjTkHNml/2cx5QSDsLS41qZlGGl/n
+	XEerxHSQMQksCWhKD8hNosV3Uk8Hk+fzqXC0dqxV0bpuzm/zOmE3uX0v9s0LpVf35WaGCn
+	BioCA3jK5S28x0jzd2jvbZNoj0vZb0ooY=
+Received: by recvd-69cbc48b94-ftnkf with SMTP id recvd-69cbc48b94-ftnkf-1-67DE03A1-10
+	2025-03-22 00:26:09.397820026 +0000 UTC m=+10983856.050038063
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-12 (SG) with HTTP
+	id TQnM-lbfQku4mBuJ3a8Yhw
+	Sat, 22 Mar 2025 00:26:09.359 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=00edd01993ace79adf5db3996a7d3d48fd5d4e245a38209cb840b31c1a08
+Date: Sat, 22 Mar 2025 00:26:09 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <0bb7f1ac725ac757d9d0bf29f64848d4@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <26c03e6f-b864-4671-a9f8-1f3c3e6a85de@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2Fd47139cd-59b1-4ac7-ac72-?=
+ =?us-ascii?Q?da4fb2adeda4=2Fda9d668f-7a22-4a7e-91e9-4f?=
+ =?us-ascii?Q?714b808d0f=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: da9d668f-7a22-4a7e-91e9-4f714b808d0f
+mailcoach-send-uuid: da9d668f-7a22-4a7e-91e9-4f714b808d0f
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOtvXSksIYjzA4AeH2H+f8haiaU8ns9CDfJ?=
+ =?us-ascii?Q?pSjLzGaefD3WJM+d316Avhl9QTqimVQgVBHbORJ?=
+ =?us-ascii?Q?7iFSuuvA6T4nwcsW9sJbH8gNIL4jS33eiBCpEc8?=
+ =?us-ascii?Q?O71QnSUMP9MqrH=2FiJckQOg+B7ANBWSIwqTXegZF?=
+ =?us-ascii?Q?Z=2F4jOLlVYxR7AWlY7nUt96CQIoYkNSp7dThiRWz?= =?us-ascii?Q?P2P8?=
+To: jjjunkremoval.55@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--00edd01993ace79adf5db3996a7d3d48fd5d4e245a38209cb840b31c1a08
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **John E Mcknight ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3DJR01_gsWB47hN8yl5OUsqYADMoV=
+Z-2BJM6-2F2Aic-2F-2B6RLPOf-2FHYH-2BNQ2waE7H0VaG5ZPPGpjEyLFXdotn7GP81O94M-2B=
+nF6EIbjBdLPQCJE-2BzDhYyLIFUULbbksWzpEzeEDmd9iu44BcgUdpetXXtjgJI8Ew-2F3GIu29=
+29H-2Bm8n6CBNP4Nzs-2Ff4Sqo-2Fecfig9RvTdP62zJmo1eTBtrfV5Ahc-2FxO2cQew-3D-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sZbAtWnemylEKMQ03Q2R8lcJ75L1bg0p50agsC=
+RiyPwhob-2Fdsj6dinOFip3IkCTMArWeyEUGGO0GyAHfarZyvHl8kW-2BgcYnBVcOQwjmPHbXV7=
+Za9QGE5VRpwrHvMhxr0z4-3D6MSo_gsWB47hN8yl5OUsqYADMoVZ-2BJM6-2F2Aic-2F-2B6RLP=
+Of-2FHYH-2BNQ2waE7H0VaG5ZPPGpjEyLFXdotn7GP81O94M-2BnFwSZ5JlkFC4Tl8WMxEOhLE8=
+XpUdfBwdVqv6RFCLtxDR4QtsHjCWrhKcjeGOO3wxafZ55iLiE28iPEXohMYwGqP02amaIN5NUPf=
+U5Yf75t7p0jQM2v-2FcOV38nlXXEcebzzg-3D-3D
+
+--00edd01993ace79adf5db3996a7d3d48fd5d4e245a38209cb840b31c1a08
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">John E Mcknight ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3DUT-8_gsWB47hN8yl5OUsqYADMoVZ-2BJM6-2F2=
+Aic-2F-2B6RLPOf-2FHYH-2BNQ2waE7H0VaG5ZPPGpjEyLFXdotn7GP81O94M-2BnF11kol-2Bv=
+ViEl3CpwnQ03Ha-2BUM8twiWUPEVaseFoyV4UbWkrNdrLaOXJlVT2s1lMV3mGZD7oxj216Bfncd=
+teGU1tOK721Xqv7owbOR84a8FkkxPxwxYzWlSVpWeYcy7ft-2FQ-3D-3D"" target=3D""_self""=
+ class=3D""v-button"" style=3D""line-height: inherit; box-sizing: border-box; =
+display: inline-block; text-decoration: none; -webkit-text-size-adjust: non=
+e; text-align: center; color: #FFFFFF; background-color: #3AAEE0; border-ra=
+dius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; width: auto=
+; max-width: 100%; overflow-wrap: break-word; word-break: break-word; word-=
+wrap: break-word; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sZbAtWnemylEKMQ03Q2R8lcJ75L1bg0p50agsCRiyPwhob-2Fdsj6dinO=
+Fip3IkCTMArWeyEUGGO0GyAHfarZyvHl8kW-2BgcYnBVcOQwjmPHbXVx9O6CjQiypqnLCS2JGzp=
+NA-3DnVbr_gsWB47hN8yl5OUsqYADMoVZ-2BJM6-2F2Aic-2F-2B6RLPOf-2FHYH-2BNQ2waE7H=
+0VaG5ZPPGpjEyLFXdotn7GP81O94M-2BnF0T895rrRsqrtDlMoamechF4pit7no-2FdjL7GupxF=
+MLVE3R9cnQQgUMt7sBIve45846tj-2FYlvCYleDCjsVr1rMzIGEGfCbwUGMJtK9s9M3eaYgpZfM=
+bld4GIuWzcHYSG53Q-3D-3D"" target=3D""_blank"" style=3D""line-height: inherit; c=
+olor: #0000ee; text-decoration: underline;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.MFlE8hvPPB=
+WEtkqVPlS5G6aCdMErg2hjAMiV3klLtDAmDY24UkMMqWjWSSEFDGVbZP-2FeH9yNMx4BY6OqRhr=
+7OWIuiVHHKA6-2BKZ4r9nQSMSFK0QsEDlV8e5tDZE8Do6c3pkd2CN3mOf-2FNetmaumwm90pdR5=
+jTkIrH8hcVOBFem-2FkUdqGK6V4iCUhdmzIAf5Zpji3KOO2ZujTT-2FEWWiG-2Fl5a1JkSmBaRm=
+oe9PUVc541f0-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+--00edd01993ace79adf5db3996a7d3d48fd5d4e245a38209cb840b31c1a08--
+","""Account"" <email@onecartao.com>",jjjunkremoval.55@gmail.com,2025-03-21,162.55.224.91,Germany,fr,users/51452230/a0e6d246-f10e-46b5-b352-5a8151e3b2e0.json
+51452230,uG14v3btS_KUWDbPGKITcg.recvd-97d7ddb5-jvxhq-1-67F00C55-26.0,cHJvY2Vzc2VkLTUxNDUyMjMwLXVHMTR2M2J0U19LVVdEYlBHS0lUY2ctMA,Your request is missing,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=onecartao.com;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=U+1oBPOeAfhifL7g8Eaa759NJ//3m+UbAJr4lbg+7Fk=;
+	b=Z8jgl8YsxEIJoRo9MZweg2KEuMYEBa4GEGx3cDlbYXBY5WqWsH4cEgJtHBWhF51avR6B
+	MRmeT7ipZgs4O6QSWAwPE8sLy4TB9LvCG7sxXedT0z/+KlLKoHB4xA7EuUjRnU6k4N6PYu
+	EDSRPFPz79UGItijoQtPuRH7tQaoW2yZit+DiI+AyJWdfhLexlz2qSKd/on8t+cBR+DeLV
+	Rn4Q+RvYC/MAl4pYjXRUr0D4eo9nL1ZaGRXweaeCRE3EEx/OW0/cspVYQ3R8mP5dNQXTv8
+	XLKjFaXbP8YPzM1tHqASgwcFaqZD7eDkH5KQC6oCjEKiOrrvN6pRODo++KoG034A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:mime-version:subject:reply-to:list-id:
+	list-unsubscribe:list-unsubscribe-post:to:cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=U+1oBPOeAfhifL7g8Eaa759NJ//3m+UbAJr4lbg+7Fk=;
+	b=K+RkUYuOQFYvGmuppp6bxSCF0vDHbSxyR6RfF34Ny/U2JPg9JMFFIMrTLaA+Mnkb+ovp
+	V6H7DPYKCjThfnD/WKUUFnF10pVS7O+uelT7daTg4840lG3p/wGSqn9dRLe8u5v4r1jOj/
+	4Ftq8PM4EttlLWWh+Xn/K3FM62pfffhME=
+Received: by recvd-97d7ddb5-jvxhq with SMTP id recvd-97d7ddb5-jvxhq-1-67F00C55-26
+	2025-04-04 16:44:05.546301781 +0000 UTC m=+12165732.500400836
+Received: from NTE0NTIyMzA (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id uG14v3btS_KUWDbPGKITcg
+	Fri, 04 Apr 2025 16:44:05.485 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=fe00ddfe545544779a58cb51fcf1c287b942443b8ea5739ec85602486157
+Date: Fri, 04 Apr 2025 16:44:05 +0000 (UTC)
+From: Account <email@onecartao.com>
+Mime-Version: 1.0
+Message-ID: <18cc45e5d275ae892f8e7b9938364c5d@onecartao.com>
+Subject: Your request is missing
+Reply-To: Account <email@onecartao.com>
+List-ID: <e62e1c4f-e668-4bc5-8bb3-15c1bbc794e9@onecartao.com>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fm3=2Ea3tech=2Eonline=2Funsubscribe=2Fd4d2748b-3b12-45f8-9d2e-?=
+ =?us-ascii?Q?c3ffdecb9370=2F21821c83-8a79-4ecd-912c-9c?=
+ =?us-ascii?Q?99b783c4ac=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Precedence: Bulk
+X-MAILCOACH: true
+X-PM-Metadata-send-uuid: 21821c83-8a79-4ecd-912c-9c99b783c4ac
+mailcoach-send-uuid: 21821c83-8a79-4ecd-912c-9c99b783c4ac
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvmBzTggZXly+QgOyIxQ5CgZ4jI8F8cb2rDM4t29B+yTtqtZr7be9lo1W=2F?=
+ =?us-ascii?Q?jw93QOtq7fH=2F0OPMQdrVptPLX3WF4cIHF3E2TCv?=
+ =?us-ascii?Q?iQP5zjyp862NVF733VXS5=2FfikVydRp+gLBexQLd?=
+ =?us-ascii?Q?UjHT7NlR63F3XScY3oNWVG7lDAGmbRBNeYYikMy?=
+ =?us-ascii?Q?TDjSfkkF97zL0RaFbpabv7NdsQdcGaEfVE2zS9e?=
+ =?us-ascii?Q?FffxBkvE5TVJf49QB4AfiU=3D?=
+To: johnnylmoney60@gmail.com
+X-Entity-ID: u001.AaAZmGY6tT5akDw9ygK3iA==
+
+--fe00ddfe545544779a58cb51fcf1c287b942443b8ea5739ec85602486157
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Hi **Johnny L Money ,**
+
+It's been a while since we heard from you, so we stopped sending you the be=
+st opportunities for your profile.
+
+We want you back, and we're ready to make it worth your while.
+
+Reactivate your engagement today and take advantage of the opportunities ou=
+r team sends you every day.
+
+
+
+=20
+
+=20
+
+         [ SAVE OPPORTUNITY ](https://u51452230.ct.sendgrid.net/ls/click?up=
+n=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2Tqdg=
+OOVXlmRLLJQyy7BWTvBeZfFsExBXZvkJPYKsDNddzIbk0-3DnS3c_YLW4m0fdfh4ujMTkptdPaP=
+zZ5QxIEFbzCNgPYvz88GAx11543MjCwibk8gYUotabZmXIeFYlGYbpqNvHn5E6BRjocmoFRDiUQ=
+TaeFVb25ZbZR3zwVRtXRJgC-2BcHVz-2B6XMQ9zEl-2B5VNI7yeOvzhR7TPXw67CuCSnMalHWDE=
+gROu-2FgzKXiV-2BJu-2FpUzEjveQNp2Uhej6VdjyuRA3cX494LyYw-3D-3D=20
+
+                      DM Network, Piratini - RS
+
+[Unsubscribe ](https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYdxBEmie1QWTkE2SOogI4sZbAtWnemylEKMQ03Q2R8lc-2B-2BjzPi4TpHX=
+GJmxkW6WWUDBEsOqzab7Q-2BklSua2MVaoVFaqJym8a-2FufgdzfkqpnrTyRIogPuv8a11-2FwB=
+rtPqP2n0dSUDb7CTNpaxOcUht-2Fo-3DIN6P_YLW4m0fdfh4ujMTkptdPaPzZ5QxIEFbzCNgPYv=
+z88GAx11543MjCwibk8gYUotabZmXIeFYlGYbpqNvHn5E6BZlAoprovoWKW6Ln7FmVBygiJiiDL=
+sdMFURJ8-2BS9OTRMMUcj7-2BOsNnENn2jKnbaTZ8SWhcqBrxAXP3yS92wupfyMfNsX-2BZ0M8P=
+n4OykrbLawLKNP2rgGOsycOe4MywXokw-3D-3D
+
+--fe00ddfe545544779a58cb51fcf1c287b942443b8ea5739ec85602486157
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional //EN"" ""http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:sch=
+emas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office""=
+ style=3D""line-height: inherit;"">
+<head style=3D""line-height: inherit;"">
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"" =
+style=3D""line-height: inherit;"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"" style=3D""line-height: inherit;"">
+  <meta name=3D""x-apple-disable-message-reformatting"" style=3D""line-height:=
+ inherit;"">
+  <!--[if !mso]><!--><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3De=
+dge"" style=3D""line-height: inherit;"">
+<!--<![endif]-->
+  <title style=3D""line-height: inherit;""></title>
+ =20
+    <style type=3D""text/css"" style=3D""line-height: inherit;"">
+      @media only screen and (min-width: 520px) {
+  .u-row {
+    width: 500px !important;
+  }
+  .u-row .u-col {
+    vertical-align: top;
+  }
+
+  .u-row .u-col-100 {
+    width: 500px !important;
+  }
+
+}
+
+@media (max-width: 520px) {
+  .u-row-container {
+    max-width: 100% !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .u-row .u-col {
+    min-width: 320px !important;
+    max-width: 100% !important;
+    display: block !important;
+  }
+  .u-row {
+    width: 100% !important;
+  }
+  .u-col {
+    width: 100% !important;
+  }
+  .u-col > div {
+    margin: 0 auto;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+tr,
+td {
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+p {
+  margin: 0;
+}
+
+.ie-container table,
+.mso-container table {
+  table-layout: fixed;
+}
+
+* {
+  line-height: inherit;
+}
+
+a[x-apple-data-detectors=3D'true'] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: =
+underline; }
+    </style>
+ =20
+ =20
+
+</head>
+
+<body class=3D""clean-body u_body"" style=3D""line-height: inherit; margin: 0;=
+ padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff; col=
+or: #000000;"">
+  <!--[if IE]><div class=3D""ie-container""><![endif]-->
+  <!--[if mso]><div class=3D""mso-container""><![endif]-->
+  <table id=3D""u_body"" style=3D""line-height: inherit; color: #000000; borde=
+r-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-table-lsp=
+ace: 0pt; mso-table-rspace: 0pt; vertical-align: top; min-width: 320px; Mar=
+gin: 0 auto; background-color: #ffffff; width: 100%;"" cellpadding=3D""0"" cel=
+lspacing=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+  <tr style=3D""line-height: inherit; border-collapse: collapse; vertical-al=
+ign: top;"">
+    <td style=3D""line-height: inherit; color: #000000; word-break: break-wo=
+rd; border-collapse: collapse !important; vertical-align: top;"">
+    <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0""><tr><td align=3D""center"" style=3D""background-color: #ff=
+ffff;""><![endif]-->
+   =20
+ =20
+ =20
+<div class=3D""u-row-container"" style=3D""line-height: inherit; padding: 0px;=
+ background-color: transparent;"">
+  <div class=3D""u-row"" style=3D""line-height: inherit; margin: 0 auto; min-w=
+idth: 320px; max-width: 500px; overflow-wrap: break-word; word-wrap: break-=
+word; word-break: break-word; background-color: transparent;"">
+    <div style=3D""line-height: inherit; border-collapse: collapse; display:=
+ table; width: 100%; height: 100%; background-color: transparent;"">
+      <!--[if (mso)|(IE)]><table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0""><tr><td style=3D""padding: 0px;background-color: trans=
+parent;"" align=3D""center""><table cellpadding=3D""0"" cellspacing=3D""0"" border=
+=3D""0"" style=3D""width:500px;""><tr style=3D""background-color: transparent;"">=
+<![endif]-->
+     =20
+<!--[if (mso)|(IE)]><td align=3D""center"" width=3D""500"" style=3D""width: 500p=
+x;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid tra=
+nsparent;border-right: 0px solid transparent;border-bottom: 0px solid trans=
+parent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0=
+px;"" valign=3D""top""><![endif]-->
+<div class=3D""u-col u-col-100"" style=3D""line-height: inherit; max-width: 32=
+0px; min-width: 500px; display: table-cell; vertical-align: top;"">
+  <div style=3D""line-height: inherit; height: 100%; width: 100% !important;=
+ border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;"">
+  <!--[if (!mso)&(!IE)]><!--><div style=3D""line-height: inherit; box-sizing=
+: border-box; height: 100%; padding: 0px; border-top: 0px solid transparent=
+; border-left: 0px solid transparent; border-right: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-radius: 0px; -webkit-border-ra=
+dius: 0px; -moz-border-radius: 0px;"">
+<!--<![endif]-->
+ =20
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 14px; line-height: 140%; text-align: left; word-=
+wrap: break-word;"">
+    <div style=3D""line-height: inherit;"">
+<div style=3D""line-height: inherit;"">
+<p style=3D""margin: 0; line-height: 140%;"">Hi <strong style=3D""line-height:=
+ inherit;"">Johnny L Money ,</strong></p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">It's been a while since we heard=
+ from you, so we stopped sending you the best opportunities for your profil=
+e.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">We want you back, and we're read=
+y to make it worth your while.</p>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;"">Reactivate your engagement today=
+ and take advantage of the opportunities our team sends you every day.</p>
+</div>
+=A0</div>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <!--[if mso]><style>.v-button {background: transparent !important;}</styl=
+e><![endif]-->
+<div align=3D""center"" style=3D""line-height: inherit;"">
+  <!--[if mso]><v:roundrect xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns=
+:w=3D""urn:schemas-microsoft-com:office:word"" href=3D""https://sh.onecartao.c=
+om/wm?utm_source=3Dsendgrid&utm_campaign=3Dwm"" style=3D""height:37px; v-text=
+-anchor:middle; width:181px;"" arcsize=3D""11%""  stroke=3D""f"" fillcolor=3D""#3=
+AAEE0""><w:anchorlock/><center style=3D""color:#FFFFFF;""><![endif]-->
+    <a href=3D""https://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F=
+3NaUpr6JU1Yl5GHWYULWH7RaY24bb28-2BksV1ggElBf9twYQl2nHYU2TqdgOOVXlmRLLJQyy7B=
+WTvBeZfFg-2FEf-2FpFqNzXnBdEdIgtDLk-3Dq78S_YLW4m0fdfh4ujMTkptdPaPzZ5QxIEFbzC=
+NgPYvz88GAx11543MjCwibk8gYUotabZmXIeFYlGYbpqNvHn5E6BYyR2OSr9mvGtJh-2FP2Qbjo=
+1DutDQbSnZyU0ICwW68ldsZgsh9sVgJVMRKWX-2Ft8d5NwwEM5dj2mLcK9R2WWcFwF6Tbi4lAO9=
+JxIjHMq5vf-2FYC8Jz8xMvMNfgYpC2Jrzzd0w-3D-3D"" target=3D""_self"" class=3D""v-bu=
+tton"" style=3D""line-height: inherit; box-sizing: border-box; display: inlin=
+e-block; text-decoration: none; -webkit-text-size-adjust: none; text-align:=
+ center; color: #FFFFFF; background-color: #3AAEE0; border-radius: 4px; -we=
+bkit-border-radius: 4px; -moz-border-radius: 4px; width: auto; max-width: 1=
+00%; overflow-wrap: break-word; word-break: break-word; word-wrap: break-wo=
+rd; mso-border-alt: none; font-size: 14px;"">
+      <span style=3D""display: block; padding: 10px 20px; line-height: 120%;=
+""><span style=3D""line-height: 16.8px;"">SAVE OPPORTUNITY</span></span>
+    </a>
+    <!--[if mso]></center></v:roundrect><![endif]-->
+</div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <table height=3D""0px"" align=3D""center"" border=3D""0"" cellpadding=3D""0"" cel=
+lspacing=3D""0"" width=3D""100%"" style=3D""line-height: inherit; color: #000000=
+; border-collapse: collapse; table-layout: fixed; border-spacing: 0; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; vertical-align: top; border-top: 1p=
+x solid #BBBBBB; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+;"">
+    <tbody style=3D""line-height: inherit;"">
+      <tr style=3D""line-height: inherit; border-collapse: collapse; vertica=
+l-align: top;"">
+        <td style=3D""color: #000000; word-break: break-word; border-collaps=
+e: collapse !important; vertical-align: top; font-size: 0px; line-height: 0=
+px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;"">
+          <span style=3D""line-height: inherit;"">=A0</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table style=3D""line-height: inherit; vertical-align: top; border-collapse:=
+ collapse; color: #000000; font-family: arial,helvetica,sans-serif;"" role=
+=3D""presentation"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" border=
+=3D""0"">
+  <tbody style=3D""line-height: inherit;"">
+    <tr style=3D""line-height: inherit; vertical-align: top; border-collapse=
+: collapse;"">
+      <td style=3D""line-height: inherit; vertical-align: top; border-collap=
+se: collapse; color: #000000; overflow-wrap: break-word; word-break: break-=
+word; padding: 10px; font-family: arial,helvetica,sans-serif;"" align=3D""lef=
+t"">
+       =20
+  <div style=3D""font-size: 7px; line-height: 140%; text-align: center; word=
+-wrap: break-word;"">
+    <p style=3D""margin: 0; line-height: 140%;"">DM Network, Piratini - RS</p=
+>
+<p style=3D""margin: 0; line-height: 140%;"">=A0</p>
+<p style=3D""margin: 0; line-height: 140%;""><a rel=3D""noopener"" href=3D""http=
+s://u51452230.ct.sendgrid.net/ls/click?upn=3Du001.tTN-2F3NaUpr6JU1Yl5GHWYdx=
+BEmie1QWTkE2SOogI4sZbAtWnemylEKMQ03Q2R8lc-2B-2BjzPi4TpHXGJmxkW6WWUDBEsOqzab=
+7Q-2BklSua2MVaoVFaqJym8a-2FufgdzfkqpnrTyRIogPuv8a11-2FwBrtPqP-2BzQcwksvr3Rt=
+vIvmxP4Zuc-3DQCF3_YLW4m0fdfh4ujMTkptdPaPzZ5QxIEFbzCNgPYvz88GAx11543MjCwibk8=
+gYUotabZmXIeFYlGYbpqNvHn5E6BfwMyvZPIJuaHdcA0n-2FRXlrUXPnkL1GHpbxDnd85ZSgcpZ=
+GPBEbOfHM0TkHBoa2XpuVZS3XevSHpqw2BPcbDKdzhzGrVFPaKGf59q311JwlihDwKo-2BB-2F9=
+KtqzlZjVm9ERA-3D-3D"" target=3D""_blank"" style=3D""line-height: inherit; color=
+: #0000ee; text-decoration: underline;"">Unsubscribe=A0</a></p>
+  </div>
+
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+  <!--[if (!mso)&(!IE)]><!-->
+</div>
+<!--<![endif]-->
+  </div>
+</div>
+<!--[if (mso)|(IE)]></td><![endif]-->
+      <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
+    </div>
+  </div>
+  </div>
+ =20
+
+
+    <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+    </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if mso]></div><![endif]-->
+  <!--[if IE]></div><![endif]-->
+<img src=3D""https://u51452230.ct.sendgrid.net/wf/open?upn=3Du001.Qc-2FDnehn=
+xAlRWYgWKGmGXHs8Bfkl1Dm5-2B3GtNxX22jnLdOOHBK-2Fv038gKB-2BVVA1CfXaybip-2B-2B=
+cG-2B93wiyjqYDnFHfl93ovRYp785MdzxxXJOyChIpsdsSvjxH3FgsA1RS08pOwzdH89ysS5yAM=
+SnmJxqR3cWgKejXA4kKJfypadJOGMQgZCDux793zGArL99I9odKT10MZngRHfxCrcs4ATwRuOWA=
+ymU-2BpqMyE7aWPw-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+
+--fe00ddfe545544779a58cb51fcf1c287b942443b8ea5739ec85602486157--
+","""Account"" <email@onecartao.com>",johnnylmoney60@gmail.com,2025-04-04,162.55.224.91,Germany,fr,users/51452230/d55c53bf-3f50-4201-bbd5-a2affd6d33ae.json

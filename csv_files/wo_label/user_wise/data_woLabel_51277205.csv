@@ -1,0 +1,55 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51277205,FxwTt4dTRiq3bLzZDYXVAw.recvd-69cbc48b94-m2msw-1-67ED54D5-7.0,cHJvY2Vzc2VkLTUxMjc3MjA1LUZ4d1R0NGRUUmlxM2JMelpEWVhWQXctMA,sssss,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=supportfacebook.site;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:feedback-id:from:subject:to;
+	s=s1; bh=DEjHb62ZLT30KothlP9Bgs/rLfwqLrVHLQcEsPGXKSs=;
+	b=mhYTq3eO9kSzM73tSUTEHyePwJKmg+y7k4eE8jeqS47YmBe25Wp6XLs1Cjf7RA5wKbN0
+	LD6nDGpelGA48qm5KC1XNOkWpezX9BlucJucGSZ5ZGa646SNy23oU0zoLxgSYDiYIUbLRv
+	fwFdr0YRdhzCcjPBFKXuH9OVFCa82vfcS243egU7VJXFr21Ne/GGEcWLwCtmfRsaEtNAxl
+	+9i60rXlLMTmfJcv0WB8RGkrN2imLi+L5qmPRmvCXCN+942obrWx1Ykm1d2Fj/QAVg6vMu
+	kS2IzwodlkkThU7AXbdUr31bwPOrxJ+9Yqlk6+uosHoTS3Ds9TKuonXZqQm/4hDA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=DEjHb62ZLT30KothlP9Bgs/rLfwqLrVHLQcEsPGXKSs=;
+	b=Bq2wkREE3CBiqwn6OHkU1LGLg3EkICl6qf5oa0lroA7qFfmRqXw1Xrb6nNAKve0dnIU9
+	ukE7kEPQcGjraPYRk6zzPvM+J1YizJgAkjoBjLhvQn4QqSmxANoCl3K0EUG0T7abYgK4mq
+	IS0tEQ6DxoHffvy1+1bWHZqVClP433bVI=
+Received: by recvd-69cbc48b94-m2msw with SMTP id recvd-69cbc48b94-m2msw-1-67ED54D5-7
+	2025-04-02 15:16:37.136526731 +0000 UTC m=+11987716.192292131
+Received: from NTEyNzcyMDU (unknown)
+	by geopod-ismtpd-4 (SG) with HTTP
+	id FxwTt4dTRiq3bLzZDYXVAw
+	Wed, 02 Apr 2025 15:16:36.816 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 02 Apr 2025 15:16:37 +0000 (UTC)
+From: support <support@supportfacebook.site>
+Mime-Version: 1.0
+Message-ID: <FxwTt4dTRiq3bLzZDYXVAw@geopod-ismtpd-4>
+Subject: sssss
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E6Qq1L5Epsj8JtyAo1aZBFwi6Ih+QWNxgTNIO7rQOmVIDVLSRvN7agNWfK?=
+ =?us-ascii?Q?+tFmOpfexMWDHhoBhehDgrQX6cbqj9KJvZjPYF6?=
+ =?us-ascii?Q?10ZCV9jzyGf3AEysMqga9yXthoDYmiSqhUs3lV1?=
+ =?us-ascii?Q?VDcAnynusVW6ZlWrIKT0NkxxjgfqwAMkMKvroxr?=
+ =?us-ascii?Q?lxVNKqkAjex3e60kRMXS9q3TNeFi70qyIsoeIVm?=
+ =?us-ascii?Q?1m9GL0ngQYbZbB1jV5pWGZeCXksvlKvxpRZzxF2?= =?us-ascii?Q?DpBh?=
+To: phamminhson0994@gmail.com, phamminhson994@gmail.com
+X-Entity-ID: u001.ViC4sYsZfKYPe5YNDetRVQ==
+
+                     sssssss   <br/><a href=3D'http://url5022.supportfacebo=
+ok.site/ls/click?upn=3Du001.2hp8pmfGIwu84DoGv8BnQdafMuGMf-2BdFV2T0TsL699Ol0=
+IWBY4eh6v6HNodN09J0-2BJfsxW6qBI-2BrX4PrNxYk-2FQ-3D-3D7EAd_HQj27Dk7MGCap629-=
+2B1TRJFtlDfN6wqGbRB8KGfctC4Y0eV4n5IGCb7Ltsv50GlnDALUQMI-2FvuID3XyJgbljaaa0O=
+bqgABx-2Bm3CNrdS3fvlruDST6WZvEQQ50Ran7EkzS7CgIcZIzTbwTow4G-2BfPHDOCdyY120QM=
+K2IA5rI5RI1bVZq5-2Bf5zxX6On4a-2F-2FKu-2BmO3TahD9GE4EXJyHussHbag-3D-3D'>Unsu=
+bscribe</a><img src=3D""http://url5022.supportfacebook.site/wf/open?upn=3Du0=
+01.bf4SBeCgSsMdpvdJR-2BjVJrzEZJz5S8X31r1403hL8ZGNoOfnxbpsOWFwM-2F-2Fysfb253=
+yR07t62Q6PBTfVAgV1LYFdiUQWnYm80-2FCewS7J8GOf7GgHBK0sOlEOxjJ2MR3Je5KtWOb4otx=
+J0LesoiKWkeRzI3Sz5NUdsbOmThPZUlOcTm5TxnTZnQoKCmNqkoI3dT5ebP4SCFbWsxUHjhrd06=
+Xp2KIw1tkBnk7FakTuxng-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" st=
+yle=3D""height:1px !important;width:1px !important;border-width:0 !important=
+;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importa=
+nt;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impo=
+rtant;padding-right:0 !important;padding-left:0 !important;""/>","""support"" <support@supportfacebook.site>",phamminhson0994@gmail.com,2025-04-02,116.96.46.206,Vietnam,fi,users/51277205/d7e9d4f7-25dc-4c96-abe6-61ca56d4390d.json

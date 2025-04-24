@@ -1,0 +1,325 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50874102,3pAeOkAQQimwJSW-0iwyDA.recvd-69cbc48b94-dfm74-1-67BF401C-1.0,cHJvY2Vzc2VkLTUwODc0MTAyLTNwQWVPa0FRUWltd0pTVy0waXd5REEtMA,MEETING INVITE,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=szlawilp.com;
+	h=from:subject:content-type:mime-version:to:cc:content-type:from:
+	subject:to;
+	s=s1; bh=tjy3Mg1wDZy2i0xeO/9JSknCAteRGSB54jSRRP0lTKs=;
+	b=r6YbFHG/dV1DvxR7F4PUvGy0/Xtebse+DlkiYcByy5xP+KCDjIfwbAuL4KjRVumAvz0H
+	yazkq9cESIVl6buKutd2WdIIGhtFL1niDrEQVIzmKj6eFGjvW4lApqdQ9QnUlJ9JiocR7z
+	axLlEiJPVwJ7wuHg27f1UUa2EdJw7hUMnbR4Dz2Cf9DIHekVLDdW5eTGVJtOgORI1P8WB9
+	7+X1mFugMqf+XEXLhDsunKIIpzcdAt9z8TS3Qs0vJ4IyivWMjTjGCXMP5iewtT+TvyOMNz
+	hissByAT/ZRRolmsmdLV0qkwMqRWHFy4wnyctEKx/jyBg1pA4LRq9DuKeM7jAU+Q==
+Received: by recvd-69cbc48b94-dfm74 with SMTP id recvd-69cbc48b94-dfm74-1-67BF401C-1
+	2025-02-26 16:23:56.039426789 +0000 UTC m=+8967768.045202325
+Received: from WIN-OGPPCN056L8 (unknown)
+	by geopod-ismtpd-4 (SG) with ESMTP
+	id 3pAeOkAQQimwJSW-0iwyDA
+	for <brendjbaker@optimum.net>;
+	Wed, 26 Feb 2025 16:23:55.912 +0000 (UTC)
+From: ZOOM DOCS <admin@szlawilp.com>
+Subject: MEETING INVITE
+Content-Type: multipart/alternative; boundary=""9vB6c3V9Lyy63gTns1nJWZluLEO3T=_vk3""
+MIME-Version: 1.0
+Date: Wed, 26 Feb 2025 16:23:56 +0000 (UTC)
+Message-Id: <26552025022311162947294F-0E9A888EC2@szlawilp.com>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EtPVtbqKl5bzi31czuGPRF=2FiHV5Hbtrq+4x6AKtbX2e4nrEAYBcuapujQc?=
+ =?us-ascii?Q?09PeVWOyHIMmOrNK857RK2xybO3PORusSMXDY7d?=
+ =?us-ascii?Q?AZbaqCYxkoiRWvADEISACpWXWbEWz9rvPKWnjdI?=
+ =?us-ascii?Q?Kc6jOfrWMgr8VnM8Gkjxd3tabMwQWXFjP+JQkaQ?=
+ =?us-ascii?Q?84jJOAT7qyBWZzfOKSEYYhhLz4XZXIFxobEdFPw?=
+ =?us-ascii?Q?i2u0js=2Fpiq8q1TF6HYBpcjuOdwciyVVbJ=2F7OFRY?=
+ =?us-ascii?Q?2igX?=
+To: brendjbaker@optimum.net
+X-Entity-ID: u001.xMQ71BX09ojvX0+y5HvT6A==
+
+This is a multi-part message in MIME format
+
+--9vB6c3V9Lyy63gTns1nJWZluLEO3T=_vk3
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+In
+
+--9vB6c3V9Lyy63gTns1nJWZluLEO3T=_vk3
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+<html><head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Diso-8859-=
+1"">
+  <META name=3Dviewport content=3D""width=3Ddevice-width, initial-scale=3D1""=
+> <META name=3Dformat-detection content=3Dtelephone=3Dno> <title>MEETING IN=
+VITE</title>
+ </head>
+ <body style=3D""BACKGROUND-COLOR: #ffffff"" bgColor=3D#ffffff> <P align=3Dle=
+ft><FONT size=3D3 face=3DArial>&nbsp;&nbsp;In</FONT></P><img src=3D""https:/=
+/u50874102.ct.sendgrid.net/wf/open?upn=3Du001.ol3QAjl-2BSHnRLuGuyay7z-2B6nu=
+JzfRpKV0J-2F8UP9o07R9GDPItykjNbqYrIdB7qlPg8yJHsV7NppGaGeWGpnjsto5iD7YB5f2LV=
+kp57gR5ZqgMeCFiMOW6T5-2Fhv3BwmUPR5GlMRDs3t7g3t96I-2BOxhF36FMmC-2BXovAjQA8Qn=
+dBbI0juqOASNm4jHgOTo6-2Byu2kQU-2BSx3UVUt8HlzcAyvnlAPVZCnpurTUIBHwaHCdXUg-3D=
+"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !impor=
+tant;width:1px !important;border-width:0 !important;margin-top:0 !important=
+;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !import=
+ant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !i=
+mportant;padding-left:0 !important;""/></body>
+ </html>
+
+--9vB6c3V9Lyy63gTns1nJWZluLEO3T=_vk3--
+
+","""ZOOM DOCS"" <admin@szlawilp.com>",brendjbaker@optimum.net,2025-02-26,146.70.179.35,Romania,sw,users/50874102/7f842dbb-0fd9-4413-a9b2-1fc105aa02c6.json
+50874102,S8FeXwa3Q1GScKwAzvHcjQ.recvd-69cbc48b94-hnb44-1-67BE79A9-10.0,cHJvY2Vzc2VkLTUwODc0MTAyLVM4RmVYd2EzUTFHU2NLd0F6dkhjalEtMA,Alpha,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=szlawilp.com;
+	h=from:subject:content-type:mime-version:to:cc:content-type:from:
+	subject:to;
+	s=s1; bh=qDmvY2gDEsvS/uDCPcAF+fcdJocvtI69faTrDPegY34=;
+	b=ndcoKLzPXlEcJw1il7oFMGX6uezssH4TL6WGXk853GsbsktXXZejaa4WhJO7rf4MqdNS
+	PjNlcQqCZWEHiF9Qz5ShAdvpx9EwQqdnka+Jo0hKfaN+U3hg1NwqnVeHoYbYafg6dpMs42
+	yAe54Fn3fgBTU1Q5m27vnvLJXlBCLpt1UjcoihwbxFgM2m2cPXaAazY5QCHNJtoEWVyqtQ
+	tKpXjmCjz0j3edkJnse/chLSrAvBW+I3iJRaINp9OI78fkv3EWAYFXfWxRUaP6P8UjmgT+
+	OzGTvAqyCluq5olxmP/5buAiI2QnlCsR8zHBrZ17RDue8Ilifxjp2Kt2VqajU1wQ==
+Received: by recvd-69cbc48b94-hnb44 with SMTP id recvd-69cbc48b94-hnb44-1-67BE79A9-10
+	2025-02-26 02:17:13.814443156 +0000 UTC m=+8916932.279926802
+Received: from WIN-BUNS25TD77J (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with ESMTP id S8FeXwa3Q1GScKwAzvHcjQ
+	for <duszakerba@hotmail.com>;
+	Wed, 26 Feb 2025 02:17:13.699 +0000 (UTC)
+From: situation <admin@szlawilp.com>
+Subject: Alpha
+Content-Type: multipart/alternative; boundary=""94KGfRlwbv89r0Fi1jav4dE5ciR5Yqi=_d""
+MIME-Version: 1.0
+Date: Wed, 26 Feb 2025 02:17:13 +0000 (UTC)
+Message-Id: <25132025021718DC605B290E$EA1A812591@szlawilp.com>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ErI8j5GYC8LxG4pI=2F77ZbR13yXREIjSPR1n8oiaglstIYbHeQ3=2FY4Vh1wv?=
+ =?us-ascii?Q?M04cdFov8DjiiECzDCfR3JTnD60ECwN13PPnTi+?=
+ =?us-ascii?Q?r0yU8jducVhiK0RzT9+nV0O8Qxcq1T9BfalBgyI?=
+ =?us-ascii?Q?niSM4lFXmaKklf15yAXnfMKaeRaEEJGJuT1YUp2?=
+ =?us-ascii?Q?Dh5RPOePqvMahnoSUl7+CNxxo1IUbN7bA+Acxz6?=
+ =?us-ascii?Q?qJJNdnkUyRUFq+mniKrQ8ybGHcS=2FhPCfwulz6WQ?= =?us-ascii?Q?u38o?=
+To: duszakerba@hotmail.com
+X-Entity-ID: u001.xMQ71BX09ojvX0+y5HvT6A==
+
+This is a multi-part message in MIME format
+
+--94KGfRlwbv89r0Fi1jav4dE5ciR5Yqi=_d
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+high
+
+--94KGfRlwbv89r0Fi1jav4dE5ciR5Yqi=_d
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+
+<html><head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Diso-8859-=
+1"">
+  <META name=3Dviewport content=3D""width=3Ddevice-width, initial-scale=3D1""=
+> <META name=3Dformat-detection content=3Dtelephone=3Dno> <title>Alpha</tit=
+le>
+ </head>
+ <body style=3D""BACKGROUND-COLOR: #ffffff"" bgColor=3D#ffffff> <P>forget</P>=
+<img src=3D""https://u50874102.ct.sendgrid.net/wf/open?upn=3Du001.3Ck5IdJUpN=
+1ac503JQK6b6RcESMm7CgUY0ts7t1zfPiZawkA8LBALZU7B2iSvBVoNaKAbp07Kd5WnPfxMZLS-=
+2BfwVJUEg-2FchphZxLHhGoTfYztHakaCoVfQA0AnBeuu9Tpo-2BvUpxmyWXNdWGWEwU-2Ft0-2=
+BM1LjkK6lpvDbAsLXbgjvIElEcDG-2FOnPH2O7tTmeb7Qn-2F-2B7BIcMsLEHiEgHLslVHdkcEd=
+1hSNpI8DlfIdqdSs-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+ </html>
+
+--94KGfRlwbv89r0Fi1jav4dE5ciR5Yqi=_d--
+
+","""situation"" <admin@szlawilp.com>",duszakerba@hotmail.com,2025-02-25,103.69.224.145,India,vi,users/50874102/c26c1158-db85-4772-aeed-80c367f80cb0.json
+50874102,y7r2aNCgSS6iYANTpMm_nw.recvd-69cbc48b94-5dtvb-1-67C10860-2.0,cHJvY2Vzc2VkLTUwODc0MTAyLXk3cjJhTkNnU1M2aVlBTlRwTW1fbnctMA,MEETING INVITE Feb/27th/2025,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=szlawilp.com;
+	h=from:subject:mime-version:x-feedback-id:to:content-type:
+	content-transfer-encoding:cc:content-type:from:subject:to;
+	s=s1; bh=TszBKx5Kw0lgUvLMGj+L3T4x+3P/8AJ0mQ70GqELLWw=;
+	b=kjGav+VpNOW+F+uOTtMLIxK1eOd2DQcWiULQbXqOJg2aqNTUBlutLsir0vAdcGJBhMt2
+	vdc+L2puIAbWeWFdW4EHmuLZdrreWAw5Uz2VxKwI7qVeXTE+dWucAZ8z2Z1c2Bf81Rz1IM
+	4HfsfMJjIxwfkbnMCwVQVPRDpZkXbIJoFIWoikAkUehgDnSoQOZj6bzi40tOGYWIK9iVcO
+	CVhiURrXMMJmoVHBM4sUhIiM6v5tYdMMvOKEZPsP2OZgxKtJ/zl0pCkhZqvUluJ3Ds7ume
+	xk8cDHpdZyPk97xcxGtZ5Qf+eHEvoDGFnBD5LnoHwwhP9893tnkn3uFLEihaAOFA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=from:subject:mime-version:x-feedback-id:to:content-type:
+	content-transfer-encoding:cc:content-type:from:subject:to;
+	s=smtpapi; bh=TszBKx5Kw0lgUvLMGj+L3T4x+3P/8AJ0mQ70GqELLWw=;
+	b=E0RbqtkLdivu/GSqfQpcUsfhi5FavIRSuav/OwzO4CPnCmWoTXZVbF6a/A00IiaettXV
+	WUToLWUdlPjRhDoQzD9je7UQdp7aLU/Cy6IzeCwNQJogfFbTdkrZCHuCuzjQsHrD3TAXfL
+	pFVxfxtAleklKzM09job2mgJ11UB1KT9I=
+Received: by recvd-69cbc48b94-5dtvb with SMTP id recvd-69cbc48b94-5dtvb-1-67C10860-2
+	2025-02-28 00:50:40.045243512 +0000 UTC m=+9084398.273336994
+Received: from WIN-OGPPCN056L8 (unknown)
+	by geopod-ismtpd-13 (SG) with ESMTP
+	id y7r2aNCgSS6iYANTpMm_nw
+	for <joscotty398@gmail.com>;
+	Fri, 28 Feb 2025 00:50:39.959 +0000 (UTC)
+Date: Fri, 28 Feb 2025 00:50:40 +0000 (UTC)
+From: ZOOM <info@szlawilp.com>
+Subject: MEETING INVITE Feb/27th/2025
+Message-ID: <84737166tLej-9835yGbu346-N81lK83255dZ@szlawilp.com>
+MIME-Version: 1.0
+X-Feedback-ID: 50874102:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EJvfoj46UxVNztCvTkYbg1v=2FctyFEimSFugM1nZR=2F7yb5zrL1fIiJg6cML?=
+ =?us-ascii?Q?NJaCT=2FK2V50cmcCJFa7NoSam4=2FhwQSDH7Vi5bZX?=
+ =?us-ascii?Q?Sc9MdGdAssDjZWnRzTaPd3tA3elba8a1YtIM3gG?=
+ =?us-ascii?Q?6yaa1IGI5p9WFlp97FNrwETzdIiTLaGVqpG4PTJ?=
+ =?us-ascii?Q?mO14Q+gW33xn=2FhyCUaNTsuVhocJXVO+DywucYz3?=
+ =?us-ascii?Q?oHq6AE=2Fv1t6CcndrkF3qlE=3D?=
+To: joscotty398@gmail.com
+X-Entity-ID: u001.xMQ71BX09ojvX0+y5HvT6A==
+Content-Type: multipart/alternative; boundary=""===============8938390284236714613==""
+Content-Transfer-Encoding: 8bit
+
+--===============8938390284236714613==
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+ 
+
+--===============8938390284236714613==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D""height: 100%; margin: 0; padding: 0; width: 100%;"">
+<div style=3D""background-color: #fff; margin: 0 auto; max-width: 1024px; pa=
+dding: 0; width: 100%;"">
+<div id=3D""m_5209935135927451618x_header"" style=3D""background-color: #0b5cf=
+f; box-sizing: border-box; margin: 0; padding: 28px 32px; width: 100%;""><im=
+g id=3D""m_5209935135927451618x_logo"" alt=3D""LOGO"" style=3D""height: 24px; ma=
+rgin: 0; padding: 0; width: auto;"" src=3D""https://ci3.googleusercontent.com=
+/meips/ADKq_Nbh-OUNNxG2-ymuYtTX9km2vbwNbVvYSNRc7VKOKNWKwa9uPfos1I-2tsiYXLfG=
+6VMeZS1VZ0C9aBU9FL0wIAYEC213ioWN-QWwNuscFu8=3Ds0-d-e1-ft#https://st1.zoom.u=
+s/zoom-docs/email/assets/logo_white.png"" class=3D""CToWUd"" data-bit=3D""iit"" =
+/></div>
+<div id=3D""m_5209935135927451618x_article"" style=3D""color: #131619; font-fa=
+mily: emoji,Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI'=
+,'Helvetica Neue',Arial,sans-serif,'Segoe UI Symbol'; font-size: 16px; line=
+-height: 1.5em; margin: 0 auto; max-width: 580px; padding: 32px; text-align=
+: left; width: fit-content;""><img id=3D""m_5209935135927451618x_docsLogo"" al=
+t=3D""ZOOM"" style=3D""height: 32px; margin: 0; margin-bottom: 20px; padding: =
+0; width: auto;"" src=3D""https://ci3.googleusercontent.com/meips/ADKq_NbOOLJ=
+uf45ZvJ388kVA1AzslrKTNVwJwILy9fZ2mPIVWlM4ZQX9A6jkCtCpJ5R9-iHDvNbUnYqLXrLlro=
+dbRJeUMcy-nA4G18h8zEqbpA=3Ds0-d-e1-ft#https://st1.zoom.us/zoom-docs/email/a=
+ssets/logo_docs.png"" class=3D""CToWUd"" data-bit=3D""iit"" />
+<h1 style=3D""color: #131619; font-family: inherit; font-size: 30px; font-we=
+ight: bold; line-height: 40px; margin: 0 0 32px 0; padding: 0;"">You are inv=
+ited to ""Join Meeting""</h1>
+<h2 style=3D""color: #131619; font-family: inherit; font-size: 20px; font-we=
+ight: 500; line-height: 28px; margin: 0 0 10px 0; padding: 0;""><b>Noelle He=
+inricy</b> invited you to a Remote Meeting</h2>
+<h2 style=3D""color: #131619; font-family: inherit; font-size: 20px; font-we=
+ight: 500; line-height: 28px; margin: 0 0 10px 0; padding: 0;"">Please click=
+ below to view invitation in 7 days</h2>
+<h2 style=3D""color: #131619; font-family: inherit; font-size: 20px; font-we=
+ight: 500; line-height: 28px; margin: 0 0 10px 0; padding: 0;"">By acceptanc=
+e, you'll be able to message and call each other.</h2>
+<p></p>
+<span style=3D""display: inline-block; font-size: 16px; margin: 32px 0; text=
+-align: center; width: 100%;""><a href=3D""https://u50874102.ct.sendgrid.net/=
+ls/click?upn=3Du001.FGNLpwcsieltxnwKJOWAV9iWFkGdFEGmIMwbimRRDBDDHjD7pt2tC1l=
+46coODP9DCuDpu29TTGTnXoQyCbHSNw-3D-3DlBFu_DC4J6j5iY8TxtFEVyGkkp3xwGMYQg8ipE=
+QBXJKDHlNEq4OYInGXSMNTGF6HR1pX94-2FZN2vPWNkCl5-2FBP-2B73uZQxn6crYfmky2-2F4F=
+Ct6EopTL0LdUB744-2FbHxZrA-2FIaymf8a0BTna9X1Fl4V4h6lFJQHSZLVMkTs2ujj8SjU3xzE=
+H-2BKBXNy-2FqLkmiIJjGt-2BRnhdF-2FaePyVKd597dOAv1tZQ-3D-3D"" style=3D""backgro=
+und-color: #0b5cff; border: 0px solid #333333; border-radius: 20px; color: =
+#ffffff; display: inline-block; font-size: 16px; font-weight: bold; letter-=
+spacing: 0px; line-height: normal; min-width: 20%; padding: 12px 40px 12px =
+40px; text-align: center; text-decoration: none;"" target=3D""_blank"" data-sa=
+feredirecturl=3D""https://www.google.com/url?q=3Dhttps://docs.zoom.us/doc/F_=
+hqxpaGQZm9pPWZsPJUew?from%3Demail&amp;source=3Dgmail&amp;ust=3D174067156324=
+3000&amp;usg=3DAOvVaw0YLxT3WxoaInMs8_shQl75"">View Invitation</a></span><spa=
+n style=3D""color: #6e7680; font-family: inherit;"">&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; To see the list of invited guests, </span><s=
+pan style=3D""background-color: #ffffff;""><a href=3D""https://u50874102.ct.se=
+ndgrid.net/ls/click?upn=3Du001.FGNLpwcsieltxnwKJOWAV9iWFkGdFEGmIMwbimRRDBDD=
+HjD7pt2tC1l46coODP9DCuDpu29TTGTnXoQyCbHSNw-3D-3D0rJq_DC4J6j5iY8TxtFEVyGkkp3=
+xwGMYQg8ipEQBXJKDHlNEq4OYInGXSMNTGF6HR1pX9QSbRq7xkxF0HXhTLckb1RXEaNn1HtgTHj=
+OmvHyraq9SxTYjJhH6q0e0qCk1ok7cT3oytuxR7a6fJ4uuVHW2Mugy0Riqx2JuxhPY1cL1XR-2B=
+wC5QQPS-2B-2BWaCiHuUkbmIHsfelcSdeSuZLMkcE1B3BLIQ-3D-3D"" style=3D""background=
+-color: #ffffff;""><span style=3D""text-decoration: underline;"">see here</spa=
+n></a></span></div>
+<div id=3D""m_5209935135927451618x_footer"" style=3D""box-sizing: border-box; =
+color: rgba(4,4,19,0.56); font-size: 12px; margin: 0; padding: 24px 32px; t=
+ext-align: center; width: 100%;"">
+<ul style=3D""color: #131619; display: inline-flex; font-family: inherit; fo=
+nt-size: 12px; list-style: none; margin: 0 0 16px 0; padding: 0;"">
+<li style=3D""color: #131619; display: inline-block; font-family: inherit; f=
+ont-size: 12px; list-style: none; margin: 0; padding: 0;""><a href=3D""https:=
+//u50874102.ct.sendgrid.net/ls/click?upn=3Du001.FGNLpwcsieltxnwKJOWAVzyB-2B=
+vT-2B57hIuYk1t-2BoseV2pRt793lfiF5Xrh0o-2BKc55NV1V_DC4J6j5iY8TxtFEVyGkkp3xwG=
+MYQg8ipEQBXJKDHlNEq4OYInGXSMNTGF6HR1pX941AIASUK8xm7p3oBwRrpbffnJONLqcfztmmy=
+vaQnfv3P0HCgRojeseYjD6BfbKTGRbhW-2FQoaTD8su5Uaf9tVM7pAG8GFP2FzuoIbwlj29f12U=
+0bW3VdTpeRBQoOHJ-2BJq9hW9-2BnjrrUUfZvzIMlxKSw-3D-3D"" rel=3D""noopener norefe=
+rrer"" style=3D""color: #0b5cff; font-size: 12px;"" target=3D""_blank"" data-saf=
+eredirecturl=3D""https://www.google.com/url?q=3Dhttps://twitter.com/zoom&amp=
+;source=3Dgmail&amp;ust=3D1740671563243000&amp;usg=3DAOvVaw1SU34p8TfVD1fus5=
+Uej10_""><img alt=3D""Twitter"" style=3D""height: 32px; margin: 0; padding: 0; =
+width: 32px;"" src=3D""https://ci3.googleusercontent.com/meips/ADKq_NYJbLjth3=
+sILke4NejTpeWXw7IXLiqJCdvmWSlQps2BOjklrBEDbXjBeP3w3As9cqbzhKI7R2WDHQ1od6-IP=
+ITRRkdsvfIPLEV7eYAqKxPPbQ=3Ds0-d-e1-ft#https://st1.zoom.us/zoom-docs/email/=
+assets/icon_twitter.png"" class=3D""CToWUd"" data-bit=3D""iit"" /> </a></li>
+<li style=3D""color: #131619; display: inline-block; font-family: inherit; f=
+ont-size: 12px; list-style: none; margin: 0 0 0 16px; padding: 0;""><a href=
+=3D""https://u50874102.ct.sendgrid.net/ls/click?upn=3Du001.FGNLpwcsieltxnwKJ=
+OWAV5sR5ydfisaftZezoODj8BgV33EgdkTPp4stFmmFHA2l7mPkK3mNMSMi0C585bjSVA-3D-3D=
+nR3X_DC4J6j5iY8TxtFEVyGkkp3xwGMYQg8ipEQBXJKDHlNEq4OYInGXSMNTGF6HR1pX9AbMSia=
+gmAwhLf9dW1rkEik8q-2FIqcfEfzSg99C00Lnmkn3Uavfjd4q4F-2F1eldYccMHJMiGx1vxw3ez=
+VB4qfgXySlQLgD-2Fx42j-2FbZROV-2B-2FWmJ34bGFBcvUj8yx5HVxEyc0o1hDO0Fzz2lEpizB=
+OzMydw-3D-3D"" rel=3D""noopener noreferrer"" style=3D""color: #0b5cff; font-siz=
+e: 12px;"" target=3D""_blank"" data-saferedirecturl=3D""https://www.google.com/=
+url?q=3Dhttps://www.linkedin.com/company/2532259&amp;source=3Dgmail&amp;ust=
+=3D1740671563243000&amp;usg=3DAOvVaw20zG3dPctTDCKttHCoE_CG""><img alt=3D""Lin=
+kedIn"" style=3D""height: 32px; margin: 0; padding: 0; width: 32px;"" src=3D""h=
+ttps://ci3.googleusercontent.com/meips/ADKq_NZ5WmJzjuljOAQh0BomzGteav-oCXIk=
+BL7k-XGBL8xjDTOW3kj_wC6uC6TZePZbn-Oeyh0q2KR5P8oH05F_E0TFjl3eUCACcPtldJ4=3Ds=
+0-d-e1-ft#https://st1.zoom.us/zoom-docs/email/assets/icon_in.png"" class=3D""=
+CToWUd"" data-bit=3D""iit"" /> </a></li>
+<li style=3D""color: #131619; display: inline-block; font-family: inherit; f=
+ont-size: 12px; list-style: none; margin: 0 0 0 16px; padding: 0;""><a href=
+=3D""https://u50874102.ct.sendgrid.net/ls/click?upn=3Du001.FGNLpwcsieltxnwKJ=
+OWAV-2FN7mWgCuS6UvGx2TdnkI-2Fg-3DrcXo_DC4J6j5iY8TxtFEVyGkkp3xwGMYQg8ipEQBXJ=
+KDHlNEq4OYInGXSMNTGF6HR1pX9E-2FdCchWCEH6ccBFvV0gHD785xpIdA0SurrpMZRn8t1Xms8=
+FlE9kIKGdTc0YS45ht8t5trvU8m0NFglflzFucLpPpZqGDPJOC6qKTiOJRa1pQjN5k7JwFTyM9W=
+FwdFtNO0dzaob5pV-2BTcFrIdtd3rqA-3D-3D"" rel=3D""noopener noreferrer"" style=3D=
+""color: #0b5cff; font-size: 12px;"" target=3D""_blank"" data-saferedirecturl=
+=3D""https://www.google.com/url?q=3Dhttps://blog.zoom.us/&amp;source=3Dgmail=
+&amp;ust=3D1740671563243000&amp;usg=3DAOvVaw1f6QebtG2_34EZ9tKNhs6Y""><img al=
+t=3D""Blog"" style=3D""height: 32px; margin: 0; padding: 0; width: 32px;"" src=
+=3D""https://ci3.googleusercontent.com/meips/ADKq_NarITQz_w4CgE05n-bGhB50JgS=
+cwFWbkXIRplzgfJ1EuLss2q0Ylj-MSiLOEPbmb8sCNBhOLgflFkvPZQru1yGIMRiXS7bx8rvQF7=
+agkQ=3Ds0-d-e1-ft#https://st1.zoom.us/zoom-docs/email/assets/icon_blog.png""=
+ class=3D""CToWUd"" data-bit=3D""iit"" /> </a></li>
+</ul>
+<p style=3D""color: rgba(4,4,19,0.56); font-family: inherit; font-size: 12px=
+; line-height: 20px; margin: 0; padding: 0;"">Copyright &copy;2025 Zoom Vide=
+o Communications, Inc. All rights reserved.</p>
+<p style=3D""color: rgba(4,4,19,0.56); font-family: inherit; font-size: 12px=
+; line-height: 20px; margin: 16px 0 0 0; padding: 0;"">55 Almaden Boulevard,=
+ 6th Floor, San Jose, CA 95113 <br />+1.888.799.9666</p>
+<div class=3D""yj6qo""></div>
+<div class=3D""adL""></div>
+</div>
+<div class=3D""adL""></div>
+</div>
+<div class=3D""adL""></div>
+</div>
+<img src=3D""https://u50874102.ct.sendgrid.net/wf/open?upn=3Du001.Qze3NuuC-2=
+BVC3GUfRlQUhXtkKiisPASfR2r50Sj4rhNJdcI6FbDEkvSnng-2FfBuocCAkj-2Fn8NqK1spJfx=
+UIHHW1QGYyjK8WzbToZRMgmlk9frgTqxYMWAZlJPyQvBF13QCA0RhJkwbZJOdh2bEBGHY7ev6P7=
+VwvGkYnjeI6UBAeggD-2FEVAbA3ftbi0697dl9xmQGiZYmaLJI98cKLZRHUtpQ-3D-3D"" alt=
+=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;""/>
+--===============8938390284236714613==--
+
+","""ZOOM"" <info@szlawilp.com>",joscotty398@gmail.com,2025-02-27,57.128.134.239,France,en,users/50874102/11541e60-6376-49b5-a177-56503b502ab6.json

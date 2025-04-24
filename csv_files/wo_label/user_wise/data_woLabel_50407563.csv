@@ -1,0 +1,2839 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50407563,3x7KQ9IKTIyZ9UPmk2aXsA.recvd-8575c86f9d-8hb8t-1-67E2015F-5.0,cHJvY2Vzc2VkLTUwNDA3NTYzLTN4N0tROUlLVEl5WjlVUG1rMmFYc0EtMA,Fatura de Serviços - MEI #4230,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=5k+imk4sLsrmjxro810iWONmkcj/cQcFj5k9J+CszX8=;
+	b=Ce78rFbu4jHlyzz4sgh2rU64M9P8F1HMoXM2RoTG3Nk9xrUPcvyCcc6b3EL1eh49gfJ2
+	L4s2pq9NdOJhDBBkw+NsxvUwJsY/zSgaYMdMxU9aUpeqViGbdnJ15CGDlLXSRBgIleCgqK
+	WokJc5/+3L1Pbfz+sFH+JktCbpWCxCvJ8=
+Received: by recvd-8575c86f9d-8hb8t with SMTP id recvd-8575c86f9d-8hb8t-1-67E2015F-5
+	2025-03-25 01:05:35.1510967 +0000 UTC m=+11245449.734086091
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-1 (SG) with HTTP
+	id 3x7KQ9IKTIyZ9UPmk2aXsA
+	Tue, 25 Mar 2025 01:05:35.136 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Tue, 25 Mar 2025 01:05:35 +0000 (UTC)
+From: Regularize Mei <billv0908@gmail.com>
+Mime-Version: 1.0
+Message-ID: <3x7KQ9IKTIyZ9UPmk2aXsA@geopod-ismtpd-1>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #4230
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULSFsWPNp7ubIMtKui70Con=2FKVchx7tOjroZgH?=
+ =?us-ascii?Q?3jRVxlUi6TWVFTyheRekzkbw8rYoGRGzpUj65O2?=
+ =?us-ascii?Q?SMYm7rH+1T0HLT25JprMPEkWxosAb2KDN+pOfZl?=
+ =?us-ascii?Q?PT1y+tmRWJX5Xj+v8ng8kvud4CFEbjx5I=2F44It1?=
+ =?us-ascii?Q?i1ozVUhwPwzqZlLcSpxXtP6mbUx0mTUkwhggKHA?=
+ =?us-ascii?Q?jKhCqFMXSCkrUrc=2FZEomdGp5jHFEVEzrZQyuOqI?= =?us-ascii?Q?XmT+?=
+To: 988054az5308@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.959.245 Josebias Ribeiro Mota</str=
+ong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58959245000120</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>20/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+rYYmc_pWKhsrwhRJk2VkbRz-2FYq2Y-2FpBSWowJfBoa9Yt8Oly63ecx9Ym0CQVCva1rQSVzm08=
+IDat2WBH8dHArgdFERgdR9D9F4F9AtDkCNyYfU1bc4AmjN2IlsvDhaOCBWU2F3dUn0tA0JmCqIA=
+3DoAXXsj8Kon36CgZW4RSrZhBdckZsNYm7iLI3NFbbcfiUqRchXtVRd8v5EDtO69MkpsXRYBTQ-=
+3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.QI=
+kSGLutF-2BYrkV4tAUPeGfpuWc19B39YsLAiOV-2Brm77KMUBqpHkGmUBsF2MAWLXjOrdA-2FOZ=
+YI6vvfzIfYG5A9jOt5rkeoiyYb4bCpODldkM-2BUpvvyIRRrphixqGVCSUuc7W33tsJBkN9L7Aq=
+OXzW8dOVT9v77n4otUgKYZI1r3UJgzPdJ8ZO6pMbVZSRO6CvfJkrfKEB9VW5noL1HWmefQ-3D-3=
+D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !impo=
+rtant;width:1px !important;border-width:0 !important;margin-top:0 !importan=
+t;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impor=
+tant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !=
+important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Regularize Mei"" <billv0908@gmail.com>",988054az5308@gmail.com,2025-03-24,177.223.65.18,Brazil,pt,users/50407563/e7f53665-8de9-43a9-8182-d300268773bd.json
+50407563,7IDTF0rWRKKaxNl6YzYfCA.recvd-578d769b87-f5w6f-1-67D30DA3-3E.0,cHJvY2Vzc2VkLTUwNDA3NTYzLTdJRFRGMHJXUktLYXhObDZZellmQ0EtMA,Fatura de Serviços - MEI #1757,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=KadHSEHM9tdTLV+sSMxY3jRfynpoChKploMXnqfDRAk=;
+	b=IJGHxMTSfWSgi3kgGKq4N4rNHnIk/OMHPnnlLZOo6iIT3pGdRQZQGuxOyuWNYiXzABhK
+	Z5T3Gdp8B+mO/dL1BbeONA07P+n0GStFgmjJaJG8Q8d/pDqbni9wn97GkudJNdCbWqQeWe
+	iEhA09ORVItzCavZmCjIkNNL3cg92+hCI=
+Received: by recvd-578d769b87-f5w6f with SMTP id recvd-578d769b87-f5w6f-1-67D30DA3-3E
+	2025-03-13 16:53:55.571325474 +0000 UTC m=+10265562.614117177
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-33 (SG) with HTTP
+	id 7IDTF0rWRKKaxNl6YzYfCA
+	Thu, 13 Mar 2025 16:53:55.526 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Thu, 13 Mar 2025 16:53:55 +0000 (UTC)
+From: Fatura Mei <assasleonardo@gmail.com>
+Mime-Version: 1.0
+Message-ID: <7IDTF0rWRKKaxNl6YzYfCA@geopod-ismtpd-33>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #1757
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAk7M6whIzrhexF3rHdYhPLsIbPCRL0egSizPPmWOYwsIm9ddCQ6GUz7Py?=
+ =?us-ascii?Q?e0dBlnhuuiCaKVzl5IwwzcLlC0a2OPI1nPn4mc6?=
+ =?us-ascii?Q?1gBPSeHx0cN3pt7Z8WmnSyQyIgawBwzV2oan649?=
+ =?us-ascii?Q?9T3TseG3MNzmsIE5Ym4QhtpGukJHCbgyQ5+PdA+?=
+ =?us-ascii?Q?+9fLbJaXteb8XnfBsoOOlvBz8NSK9XSh5Ez6O=2FF?=
+ =?us-ascii?Q?3kFxKUegI7jOYkCd1YLxh1AMlInDOeYO7SB86HN?= =?us-ascii?Q?ay3T?=
+To: damiana.fsa15@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <div style=3D""max-width:640px; position: relative; padding: 20px 20px 2=
+0px 20px;"">
+        <!-- INVOICE INFORMATION -->
+        <div style=3D""font-size: 20px; color: #5274FF; font-weight: bolder;=
+ margin-top: 20px"">LEMBRETE DE FATURA PARA 58.197.700 DAMIANA FERNANDES DE =
+OLIVEIRA</div>
+        <div style=3D""margin-top: 20px"">
+            Informamos que o CNPJ da sua empresa foi emitido com sucesso. P=
+ara concluir o Registro Digital, =E9 necess=E1rio o pagamento da Taxa de Re=
+gistro.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            Este procedimento =E9 essencial para que sua empresa esteja reg=
+istrada nas plataformas oficiais e vis=EDvel nas buscas online.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            A falta de pagamento poder=E1 resultar no cancelamento do regis=
+tro, impedindo que seus clientes encontrem sua empresa. Ap=F3s o pagamento,=
+ o processo ser=E1 conclu=EDdo em at=E9 5 dias.
+        </div>
+        <div style=3D""margin-top: 20px;"">Ganhe tempo: Para concluir o pagam=
+ento, <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KVg3=
+k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZjA7_s_gfPvqRwRVz=
+SilYUdMGDwGxsGuFCIJiZ-2FbXlm4NKZldx5sPnqOivW1dUzpiRYStIxK9fw1S09JhGSaGBpJc1=
+VK-2BZ-2BZOZ4tsIfFIW6Osv5wF0TgMC1q3lx4T-2B34bAhO6iXnwguiJKorOdehdlQaXLh3GVA=
+Zbdrxjv9M-2FnhB68np3mnRvlZ-2FqMJisCV39-2FN-2F-2FEBk9vyiUf325LsfgAM-2Fpz2dA-=
+3D-3D"">clique aqui</a> e veja as op=E7=F5es dispon=EDveis.</div>
+        <table cellspacing=3D0 cellpadding=3D2 style=3D""width: 100%; text-a=
+lign: right; margin-top: 10px"">
+            <thead style=3D""text-align: right; font-size: 10px; color: #9A9=
+A9A"">
+                <tr style=3D""background-color: #9a9a9a"">
+                    <th style=3D""text-align: left; color: #3E4444"">DESCRI=
+=C7=C3O</th>
+                    <th style=3D""text-align: left; color: #3E4444"">QUANTIDA=
+DE</th>
+                    <th style=3D""text-align: left; color: #3E4444"">VALOR(R$=
+)</th>
+                    <th style=3D""text-align: left; color: #3E4444"">TOTAL(R$=
+)</th>
+                </tr>
+            </thead>
+            <tbody style=3D""font-size: 12px"">
+                <tr>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">Registro Empresarial</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">1</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                </tr>
+                <tr style=3D""color: #3E4444"">
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                </tr>
+            </tbody>
+        </table>
+        <div style=3D""margin-top: 20px"">
+        <div style=3D""margin-top: 20px""><strong>GERADA EM:</strong> 11/03/2=
+025</div>
+        <div><strong>VENCIMENTO:</strong> 15/03/2025</div>
+        </div>
+        <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KV=
+g3k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZjhhTq_gfPvqRwR=
+VzSilYUdMGDwGxsGuFCIJiZ-2FbXlm4NKZldx5sPnqOivW1dUzpiRYStIxK9fw1S09JhGSaGBpJ=
+c1VK8qSfpAAKdIxLQVhrLbqj3HvOUOmP9ebj-2FAyAkrAAtAkXn2pvyk654m2lWYCEMyp8XmHTw=
+-2FQhV2xMF6DNIIePBfU52t-2FSyXp3cGjCcs7Vavd4YYmSPjTDSBIxL9HlQUOdQ-3D-3D"">
+            <p style=3D""text-align: center; border-radius: 11px; padding: 0=
+px 20px; line-height: 45px; background: #5274FF; color: #fff; margin: 0 aut=
+o; width: 25%; font-size: 20px; margin-top: 15px;"" target=3D""_blank"">PAGAR =
+A FATURA</p>
+        </a>
+        <div style=3D""margin-top: 20px;"">
+            Atenciosamente,<br>
+            REGISTRO ELETR=D4NICO NACIONAL DE EMPRESAS.
+        </div>
+        <div style=3D""margin-top: 20px; font-size: 12px; color: #888;"">
+            Este =E9 um e-mail autom=E1tico disparado pelo sistema. Favor n=
+=E3o respond=EA-lo, pois esta conta n=E3o =E9 monitorada.
+        </div>
+    </div>
+    <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.6fAoac=
+HOURwJzq-2BQ8ZWSqe3-2FQpLm5bbQjDPD-2FJzAvBEIkP-2BUD5WSEGUFarHyh-2BtY6V4VFvR=
+5flMNNphjIhscUXQ2CZxXLigIMW1B77wAY6MxN0T5wCV5nzNnoNo4yAUsiSLDeKwgXHQG-2BG1L=
+T4d7stbbOHTFpZVNeOVfRXSQg-2FhhFbJFQPERfJDuYyawY1N8lVTuDnvDVLj3Lc4rO8Yd6scNx=
+PYmwoGfSfvIncovhpU-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/>","""Fatura Mei"" <assasleonardo@gmail.com>",damiana.fsa15@gmail.com,2025-03-13,131.72.150.45,Brazil,pt,users/50407563/06775d21-3472-4062-a88b-58f0100e6de7.json
+50407563,9z4ySrbURsKYUL71z7vH5Q.recvd-578d769b87-6kl2j-1-67BB63AF-7.0,cHJvY2Vzc2VkLTUwNDA3NTYzLTl6NHlTcmJVUnNLWVVMNzF6N3ZINVEtMA,Fatura de Serviços - MEI #2186,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=2zhFTSoE3rC5mOgFa+QrpzTwSAxrblIGSUfzESiy89U=;
+	b=VKrwEYHf9/Zr/L+tR2oOXB0EqhAhw65RyQpmE16JtSPLxtFZlEr2MT1Bpe1kdSLAeRAv
+	1etkgDVbdI19vDW3lDjsSB0nQdZQIpEzPtdwIjPWIkrdLvVsOXG134XF16pNKd8L1gssnj
+	z79ScIIXomzcR8uRS+Y5bOw6kks44d3pA=
+Received: by recvd-578d769b87-6kl2j with SMTP id recvd-578d769b87-6kl2j-1-67BB63AF-7
+	2025-02-23 18:06:39.17030586 +0000 UTC m=+8714713.969701508
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-0 (SG) with HTTP
+	id 9z4ySrbURsKYUL71z7vH5Q
+	Sun, 23 Feb 2025 18:06:39.106 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Sun, 23 Feb 2025 18:06:39 +0000 (UTC)
+From: Regularize Mei <billv0908@gmail.com>
+Mime-Version: 1.0
+Message-ID: <9z4ySrbURsKYUL71z7vH5Q@geopod-ismtpd-0>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #2186
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULSFsWPNp7ubIMtKui70Con=2FKVchx7tOjroZgH?=
+ =?us-ascii?Q?3jRVxlUi6TWVFTyheRekzkbw8rYoMKIUXjgqKMQ?=
+ =?us-ascii?Q?Ys4uk8EOi98H4t0nY5icEuZt=2F0CWd9dQ1w0tUhS?=
+ =?us-ascii?Q?5YrEc02p=2FACrxxN++R6Q019IVtb328D1ddkbS+y?=
+ =?us-ascii?Q?M+rx0UuXJuhG9t=2FognJ6pZEvf1knNfTteNlYah+?=
+ =?us-ascii?Q?LU52lC3l+hQ7IyOkLovf986DsE5mn3XCUrTCg9e?= =?us-ascii?Q?h7dz?=
+To: santana.raoni@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.112.883 Raoni Oliveira de Santana<=
+/strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58112883000101</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>25/02/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMVRX=
+P_lxni3M9hBvHu52ak3yEfZBL0i6qvkBGaM6i60Vpgus-2Bbc47pgjnCySgQc-2B51onrQGImoW=
+d-2BD0Snw4CTjnoAdLvqR6hgE-2BLRPhr-2FlHgsV2VwxeTIkuGKClMtgbLAJa2kZFUq8JegH21=
+YglBdP1PdgBd4sFGR1dT0DP0GiBrgNYfnC3KenBDgh6-2BuQubykKqbzUlcflr6-2BNlKPkfZuu=
+tlpPg-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.ep=
+HaBWzI4TDnzB6oE63zHbjSluFwH-2B6-2FnBWy3oSYCsoP8bSN7kKlHF5JT-2FGK0-2BcfvQSuh=
+dtXh3PGNhkTynQdnRvuVuBhBkC1YTLmUFGFqHvuwmNKwIv98MpGx8632qW6HochHPNVp7XyV8bO=
+IWmVPJe3HPAHUVd30baOexooqj3uBCi2a97BdNJzs63URyHIHLtmCBpjRKigmmo-2FIDP9eQ-2B=
+XhLA1Yn0N6bheg7wfGA0-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" sty=
+le=3D""height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Regularize Mei"" <billv0908@gmail.com>",santana.raoni@gmail.com,2025-02-23,177.223.72.126,Brazil,pt,users/50407563/4c3469ac-db16-43d2-ac81-baac4de3f8f1.json
+50407563,O_Vf-_i4RB2acWlr2wLeKw.recvd-canary-8bbfdcdfb-zt4m7-1-67BCB5A3-4C.0,cHJvY2Vzc2VkLTUwNDA3NTYzLU9fVmYtX2k0UkIyYWNXbHIyd0xlS3ctMA,Fatura de Serviços - MEI #7931,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=dAOdMgxOTAp8BT5HtKZKrUZKl+vf9uWhuyYiFyqygaI=;
+	b=W48jex0GvN7bKLGAFA1PgbcLnwbI4072ubYnzSSTzERypezm7NcAoIqokdWQF/nkiGcp
+	HAW/TZOqtliaUtK3x+Fcs38cbqHF+I3Nk4X3ybfBwmbB5e58McuVfEYzyOUEFIt2uBGE5+
+	c5wEjzYbvXP+DAX4egNDYAI+red3KyI0U=
+Received: by recvd-canary-8bbfdcdfb-zt4m7 with SMTP id recvd-canary-8bbfdcdfb-zt4m7-1-67BCB5A3-4C
+	2025-02-24 18:08:35.844592137 +0000 UTC m=+8809236.940871347
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-29 (SG) with HTTP
+	id O_Vf-_i4RB2acWlr2wLeKw
+	Mon, 24 Feb 2025 18:08:35.789 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Mon, 24 Feb 2025 18:08:35 +0000 (UTC)
+From: Regularize Mei <billv0908@gmail.com>
+Mime-Version: 1.0
+Message-ID: <O_Vf-_i4RB2acWlr2wLeKw@geopod-ismtpd-29>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #7931
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULSFsWPNp7ubIMtKui70Con=2FKVchx7tOjroZgH?=
+ =?us-ascii?Q?3jRVxlUi6TWVFTyheRekzkbw8rYoA8v0zc=2FC7O7?=
+ =?us-ascii?Q?7nxpW8WPGMgGV41UMLLFecFmJkVtaNr7jlzjrcW?=
+ =?us-ascii?Q?W5PtZntI3sDk4p30wiOF8TBaLuXmYV6wY1zMEdX?=
+ =?us-ascii?Q?7xQs4B=2FsmZlx5a9Q1LGsH4pVSsuy=2FHYise8mpms?=
+ =?us-ascii?Q?zUtAoNiv=2FGoPGxzHhN7h+zwSpKE6v8fHHsyNvy1?=
+ =?us-ascii?Q?=2Fixu?=
+To: bzjorge9@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.873.994 Bruno Zamberlan Jorge</str=
+ong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58873994000130</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>25/02/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMcgR=
+g_8EH9Va8i8dg7C5b7X-2F7dLuXr10i0Ojl4q8ucfW8oyIrgah-2F0aiYeM2lCoIGKau19H53ir=
+ciHleo45W7Pvj-2Br2jO1J-2BVBxia2J07jBeZd-2BUNnQcn1L9XgRL1sgZ9X5MGJFQjbZz-2BH=
+0hISN0sRprbEXUn97kmOCg90aT926udMftKHPB7Z9yJEUab9bjiyn-2BHWKOVK9K7hOdJeD5VSI=
+mZ-2FEA-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.Ax=
+EGoBZ0dJPBDARapDRgiNFswvrCCr2GIbud5tyPqCQhQo-2FDOkb1ztixlb46GFP381YLO10mMAu=
+99-2F5RhxoRESGcORe5u1Nm70UfI5oDyd9yqH6-2BJo-2BFe7TrrCz5YojHLUmZ9wy7rSoroz3D=
+YAEL3INeFC3YEgB836At1hGGNcf6wYWbERA-2FYpjGl-2FV7qf-2FrYLJWA1XE5-2By24REOBzl=
+RREHawuwoeXP1lGHHoCotmxY-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Regularize Mei"" <billv0908@gmail.com>",bzjorge9@gmail.com,2025-02-24,177.223.76.113,Brazil,pt,users/50407563/fbc5a837-c735-4cea-b6a5-44200a36dbf9.json
+50407563,GZ1cVZY2QnuzskcQFnZlsQ.recvd-578d769b87-vzm5k-1-67D0DFB4-16.0,cHJvY2Vzc2VkLTUwNDA3NTYzLUdaMWNWWlkyUW51enNrY1FGblpsc1EtMA,Fatura de Serviços - MEI #3994,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=9AWqs/5RRIQOh6RfrgVIfcTJogWihLJUMRVioDJlKJc=;
+	b=uBXtltudsH2DaDEKsU5G+HdSLWD+QW4yWk5omJKlj8lkmu0h6/5Qv6lmYZ8CrCHXfSFE
+	eSvsOQ8vrkzpj/utS339ObQMqIELpdq4e14IWeSZq9xkKlkxM5lPlrDpLcsW6JdiNsyMEj
+	/C/ZLVh2qucv3oUzXlwgOtVdB50A37Nfc=
+Received: by recvd-578d769b87-vzm5k with SMTP id recvd-578d769b87-vzm5k-1-67D0DFB4-16
+	2025-03-12 01:13:24.40338737 +0000 UTC m=+10122615.840790415
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-28 (SG) with HTTP
+	id GZ1cVZY2QnuzskcQFnZlsQ
+	Wed, 12 Mar 2025 01:13:24.360 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 12 Mar 2025 01:13:24 +0000 (UTC)
+From: =?iso-8859-1?q?Regulariza=E7=E3o?= Mei <fatura@ainnovare.com>
+Mime-Version: 1.0
+Message-ID: <GZ1cVZY2QnuzskcQFnZlsQ@geopod-ismtpd-28>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #3994
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULaNuSL8LyikHWIOUikozXQuWsw5cmxZhJH7lb?=
+ =?us-ascii?Q?RaqnvU+p5iJWkeCo6sx7uGKE7in9xgiJfFITBhu?=
+ =?us-ascii?Q?S=2Fp3o6=2FfVJ0Rcg=2FyyV4R8P5I4e=2FUmHDl1ozuFb=2F?=
+ =?us-ascii?Q?ZiJZmQ2Cex2OlPJtTScTTPJXlag3BxckvlYeH7=2F?=
+ =?us-ascii?Q?w3RAULGl4b3P1H0mHr+P3JkRMGm6WCgSJ43UtOf?=
+ =?us-ascii?Q?8r4YvNOaJttCEfgscABxKOFIgSYP2LXLT2Qqv2r?=
+ =?us-ascii?Q?MK35LmqvY77cPYUyaPxgyp5GKw=3D=3D?=
+To: denilzobarreto5723@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <div style=3D""max-width:640px; position: relative; padding: 20px 20px 2=
+0px 20px;"">
+        <!-- INVOICE INFORMATION -->
+        <div style=3D""font-size: 20px; color: #5274FF; font-weight: bolder;=
+ margin-top: 20px"">LEMBRETE DE FATURA PARA 59.027.213 DENILZO BARRETO CORRE=
+A</div>
+        <div style=3D""margin-top: 20px"">
+            Informamos que o CNPJ da sua empresa foi emitido com sucesso. P=
+ara concluir o Registro Digital, =E9 necess=E1rio o pagamento da Taxa de Re=
+gistro.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            Este procedimento =E9 essencial para que sua empresa esteja reg=
+istrada nas plataformas oficiais e vis=EDvel nas buscas online.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            A falta de pagamento poder=E1 resultar no cancelamento do regis=
+tro, impedindo que seus clientes encontrem sua empresa. Ap=F3s o pagamento,=
+ o processo ser=E1 conclu=EDdo em at=E9 5 dias.
+        </div>
+        <div style=3D""margin-top: 20px;"">Ganhe tempo: Para concluir o pagam=
+ento, <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KVg3=
+k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZjKoPd_ZuaFnwt-2F=
+T9Ancr15UMOoXnZ3InWf27g52ajs9TnPljjrObuUj6AlJnPuuESn7AMoCU2yR12z8gLM0hPIGu9=
+gLMW-2FW50kwaipjNf6gFZYW3dCH6Q6ESg3TcTf2SOg8TMjjxzUHrS2Ai6JPzoj9SeFfFfp6-2F=
+iwNdm9m8QAreyk2LAD7LYeVDaeR-2BdHojLqyYVPNGss7iAO0xxoYdNp18VuTJ5ZF-2BBaztDCd=
+eUZRVJ83-2Fc-3D"">clique aqui</a> e veja as op=E7=F5es dispon=EDveis.</div>
+        <table cellspacing=3D0 cellpadding=3D2 style=3D""width: 100%; text-a=
+lign: right; margin-top: 10px"">
+            <thead style=3D""text-align: right; font-size: 10px; color: #9A9=
+A9A"">
+                <tr style=3D""background-color: #9a9a9a"">
+                    <th style=3D""text-align: left; color: #3E4444"">DESCRI=
+=C7=C3O</th>
+                    <th style=3D""text-align: left; color: #3E4444"">QUANTIDA=
+DE</th>
+                    <th style=3D""text-align: left; color: #3E4444"">VALOR(R$=
+)</th>
+                    <th style=3D""text-align: left; color: #3E4444"">TOTAL(R$=
+)</th>
+                </tr>
+            </thead>
+            <tbody style=3D""font-size: 12px"">
+                <tr>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">Registro Empresarial</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">1</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                </tr>
+                <tr style=3D""color: #3E4444"">
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                </tr>
+            </tbody>
+        </table>
+        <div style=3D""margin-top: 20px"">
+        <div style=3D""margin-top: 20px""><strong>GERADA EM:</strong> 11/03/2=
+025</div>
+        <div><strong>VENCIMENTO:</strong> 15/03/2025</div>
+        </div>
+        <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KV=
+g3k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZjJayZ_ZuaFnwt-=
+2FT9Ancr15UMOoXnZ3InWf27g52ajs9TnPljjrObuUj6AlJnPuuESn7AMoCU2yR12z8gLM0hPIG=
+u9gLDVM6m32V2lGWmiG5GjtCnsbTlVadVJ7Bf3g3b-2Fp2AwJCsDwNYuPjHnk8b53MqNHgI4pL5=
+W88ZPsKFqzRApVXPK2mgqmMxfOIfgm4FL3FzTaavSZ22JcAGStPxVAsg6ty6TEvEKPMdywaQ6jy=
+veI1kQ-3D"">
+            <p style=3D""text-align: center; border-radius: 11px; padding: 0=
+px 20px; line-height: 45px; background: #5274FF; color: #fff; margin: 0 aut=
+o; width: 25%; font-size: 20px; margin-top: 15px;"" target=3D""_blank"">PAGAR =
+A FATURA</p>
+        </a>
+        <div style=3D""margin-top: 20px;"">
+            Atenciosamente,<br>
+            REGISTRO ELETR=D4NICO NACIONAL DE EMPRESAS.
+        </div>
+        <div style=3D""margin-top: 20px; font-size: 12px; color: #888;"">
+            Este =E9 um e-mail autom=E1tico disparado pelo sistema. Favor n=
+=E3o respond=EA-lo, pois esta conta n=E3o =E9 monitorada.
+        </div>
+    </div>
+    <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.3EqGeD=
+bKZqlUuQ9IUPbFyo9zbphr-2FWc43liHgHm9bWSevZTKPxktHl0fmZCyD2ywdUNSSGr5dtd8Jb1=
+CWxWDjLGXBuh4PTdmVxza0bHsgydsi-2BFM6bsSuQEVJDpOAs1-2B2t12WwHQ-2Fq0-2FVmCZ6Z=
+Nsg4WOxPIFEe9xqDHo9kvr-2BFsQc8gZlWO-2BOKf6T1RpY2N2f97dErgj4ziOldfgppNAdPHuf=
+bL7DvH3s-2BRa3KE2Kdw-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" sty=
+le=3D""height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;""/>","""Regularização Mei"" <fatura@ainnovare.com>",denilzobarreto5723@gmail.com,2025-03-11,131.72.150.45,Brazil,pt,users/50407563/be3d92f0-6890-45b8-8aac-1242c84e3c05.json
+50407563,JmS1SikDRfGCisOtW6yZEA.recvd-7cf7589bf9-tczgs-1-67D9B2C2-37.0,cHJvY2Vzc2VkLTUwNDA3NTYzLUptUzFTaWtEUmZHQ2lzT3RXNnlaRUEtMA,Fatura de Serviços - MEI #8373,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=rZ2nIRs9+TkhFD3aK8viyZILBuBxKq7+OFo06fr5nHs=;
+	b=cZGxLorc0h1cabc1BJHTy9wemJdlnxGO/HZfQ2cBw1FcZjba6151f4moUDVOCSuE4dax
+	lCiDzhfiNWEpIwgoEW73wKT3kSl3rbNICvjYc1GxZ1/+njKIFLThyH6ksE97FYjnfn4TcE
+	ZGgj+oRv2p1vkTKNyVJnSGrevhsVlQeiE=
+Received: by recvd-7cf7589bf9-tczgs with SMTP id recvd-7cf7589bf9-tczgs-1-67D9B2C2-37
+	2025-03-18 17:52:02.603634322 +0000 UTC m=+10700850.950696397
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id JmS1SikDRfGCisOtW6yZEA
+	Tue, 18 Mar 2025 17:52:02.597 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Tue, 18 Mar 2025 17:52:02 +0000 (UTC)
+From: Fatura Mei <assasleonardo@gmail.com>
+Mime-Version: 1.0
+Message-ID: <JmS1SikDRfGCisOtW6yZEA@geopod-ismtpd-2>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #8373
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAk7M6whIzrhexF3rHdYhPLsIbPCRL0egSizPPmWOYwsIm9ddCQ6GUz7Py?=
+ =?us-ascii?Q?e0dBlnhuuiCaKVzl5IwwzcLlC0a2OhiS3c6Cr0Q?=
+ =?us-ascii?Q?3V1vqTEfSrTe6P15+ZFhW786T8xHdQ7ZF+oKqWz?=
+ =?us-ascii?Q?h6ca86JAvwBn4wWCg8DRGxgUAZMPGg0WxsIgLi7?=
+ =?us-ascii?Q?6vpyuQqJgCZwHLsBlyvrdtS64hHR91qdwuP4KLo?=
+ =?us-ascii?Q?Ewv7=2F=2FOhvkWERaBQhbvjZ5oYKxFpr3ax+56K5+6?=
+ =?us-ascii?Q?rSd=2F?=
+To: w.damasceno@hotmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>59.313.339 Wanderson Machado Damascen=
+o</strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>59313339000190</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>20/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+riiaL_pq7GLhdBWDthhhnO3ZBtExTa14oOrjp8C-2F-2F4pEn14Vt2LbfdaUhcw6D105HG0J2Gs=
+iMOAIJsjJvOAu8lrHdKpjr5NJdWKd4DmujQnmOWQmRN5nHZ7zaumumo5wB6Lz3SOuyZxbzoFJUz=
+-2FDwPwNEgNiUZGpdB9feDSmR1USiw3r-2FnHOiaXAnpPJxTJybrI97TFCRkHqfo5bfhAdz3-2F=
+tGzwA-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.TX=
+eRsZ98mrxrTyaHVAVn3wDihirzCgeZH2MWK66Kn5p8Y3z6dYIP5ndgRhFL6WG5m-2BPzOL2Rv5n=
+B1LBE4XGjs98pRW6Kn56bkDMKHwEH5OMD6cWdaXM7wQ-2FJkqgR9CXgYsuG5OJBllDpKj-2FMWd=
+Yy8mtOSNyTmV6xB45gTNY1kj6LGtDciXIAXI4wbzKoelByA8GUgd13NK9VE3O6B3NnyI0M6i3zb=
+wsF4SnPr8dSbVw-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Fatura Mei"" <assasleonardo@gmail.com>",w.damasceno@hotmail.com,2025-03-18,177.223.76.2,Brazil,pt,users/50407563/de83601a-9319-4af4-8271-1d1d8733d350.json
+50407563,Lfny0709QH2JMtmTCNUr2w.recvd-578d769b87-kw9vv-1-67C1FAC1-7B.0,cHJvY2Vzc2VkLTUwNDA3NTYzLUxmbnkwNzA5UUgySk10bVRDTlVyMnctMA,Fatura de Serviços - MEI #3001,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=W+N8OiF/+75rIcx/XctYOmrRm/5edDy6aO3s/Js6lTA=;
+	b=XHOCp1xuQCRH8HI3aYUOgS63FaHrQaPyw+FNs3D7cHG269BoKeuvE4R+bB0/STPJKEQj
+	57zsWR1WbCoR9k0FSDr1a4uKsN51eqJJC5F9K/8qb/PdxiwgebIEP5PCHGPankfgN8lavK
+	k4mYQZfKQGS4Ks3z+yEV7x3ydXMVhrwVM=
+Received: by recvd-578d769b87-kw9vv with SMTP id recvd-578d769b87-kw9vv-1-67C1FAC1-7B
+	2025-02-28 18:04:49.521676496 +0000 UTC m=+9146550.099575771
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-14 (SG) with HTTP
+	id Lfny0709QH2JMtmTCNUr2w
+	Fri, 28 Feb 2025 18:04:49.474 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 28 Feb 2025 18:04:49 +0000 (UTC)
+From: Regularize Mei <billv0908@gmail.com>
+Mime-Version: 1.0
+Message-ID: <Lfny0709QH2JMtmTCNUr2w@geopod-ismtpd-14>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #3001
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULSFsWPNp7ubIMtKui70Con=2FKVchx7tOjroZgH?=
+ =?us-ascii?Q?3jRVxlUi6TWVFTyheRekzkbw8rYoA8MfpjlAGLu?=
+ =?us-ascii?Q?g7k96b5cIoRPn9rb9JwNS2Hho1K9eTgbJ9wbuQy?=
+ =?us-ascii?Q?dEwCQuevPAu3+QvRjG0ERzXz8V9q5BFpUD3kzkY?=
+ =?us-ascii?Q?87tLh=2FqFs2rFIYNCsXpfnM9RsqMkcNm3EVFRPgm?=
+ =?us-ascii?Q?y3XepeYW2oWkNnfzgksSxTagKOIy9AkiOrwTBbD?= =?us-ascii?Q?oqgq?=
+To: manoelhor3@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>59.469.946 Manoel Horacio da Silva Ne=
+to</strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>59469946000144</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>05/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMQMb=
+9_nURwXGlxuw5pR0IBVqf0VOYajGvxgHj98kKMn1QitEXmj6UHLpX7Om-2BF-2BUZnGMhCnGhRp=
+IrhCLaeBTV-2BjQEtVXrauab5aCe6xGbx7TOQmPUcPy5Z98dd8dygRkQ9PlXq-2BQ86dw-2BOyl=
+Bwr6pYEb8BQHPuQGp3jfAaIuiCLej84Y2tx5xTQtT88HEv9eDmINIKTx-2FHVu-2BcYzkrJJ5rM=
+EhDxw-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.er=
+dyiaR847lL5iCYro5wdRI-2FxFUFQaOcAz-2BpZn94iwdT8tg6E75vCjt2ti4jBzFycQ7rPsse1=
+YDSdNSXiV0Q65L1XEaShVVjKUXYkOwWoFg2GQAnI-2BO48GUYG-2FR6i7utqpoXMDcsxvy0pnpE=
+htLOrfMtaCUJVBeZUgjYADuxv5HScN758H3wQWuT93Eq-2FZVnhT9qEsWiJ8aILDmh8YmWUQ-3D=
+-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !im=
+portant;width:1px !important;border-width:0 !important;margin-top:0 !import=
+ant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !imp=
+ortant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0=
+ !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Regularize Mei"" <billv0908@gmail.com>",manoelhor3@gmail.com,2025-02-28,177.223.76.99,Brazil,pt,users/50407563/219ee1f6-8a2a-427e-8ef6-224bfafbe304.json
+50407563,QEIStDpiSy2u-cyfQjVZRA.recvd-canary-8bbfdcdfb-zt4m7-1-67C64AEA-4D.0,cHJvY2Vzc2VkLTUwNDA3NTYzLVFFSVN0RHBpU3kydS1jeWZRalZaUkEtMA,Fatura de Serviços - MEI #8465,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=3zAETmlWy6VchVmqUTpmAF1cA9qRac6vN+RiisJMVEc=;
+	b=BY1wn981+R9dAoAy9V4w2zf6xyb3nJN6S+1T8fOK+d4pdJgbqAeytxvM7HCJx3eF6T1M
+	kT9eoAF3XT88OOrCFyqKxf7V0YiUQR9sPXK8P0RRBKNIPTNB8PFCyDoxVOsYzjYeJ7oCkh
+	tUnFdMVrsVw+VfJIIihnbDOZuwWGg/Ca8=
+Received: by recvd-canary-8bbfdcdfb-zt4m7 with SMTP id recvd-canary-8bbfdcdfb-zt4m7-1-67C64AEA-4D
+	2025-03-04 00:35:54.941782062 +0000 UTC m=+9437276.038061282
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-18 (SG) with HTTP
+	id QEIStDpiSy2u-cyfQjVZRA
+	Tue, 04 Mar 2025 00:35:54.887 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Tue, 04 Mar 2025 00:35:54 +0000 (UTC)
+From: Fatura Pendente <no-reply@ainnove.net>
+Mime-Version: 1.0
+Message-ID: <QEIStDpiSy2u-cyfQjVZRA@geopod-ismtpd-18>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #8465
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAk7M6whIzrhexF3rHdYhPBz59CRvB=2F5Yg0ttmoHGWZexswKkOqup0PtEX?=
+ =?us-ascii?Q?oTgdXEJRTJlf1vR8auFEp80xdzqAUSgOn691PXU?=
+ =?us-ascii?Q?Btt1SAku8sN=2FqqpgNebVUeDaUvWEip7308l=2F77X?=
+ =?us-ascii?Q?ugwxqzZQt1yUqmPh8DSSrvfjWBIfMfB+TNZcUwF?=
+ =?us-ascii?Q?uVQlr6wAX0MNKr1GRyRfrbQBLRjxKMo+UDj+LwA?=
+ =?us-ascii?Q?G4zyI3Jg4vwmamsim9BxSuAHPweAHZydMLPj5Gd?=
+ =?us-ascii?Q?++jGICcde0jLvM5CI26yGG9UNw=3D=3D?=
+To: juniormattos33@hotmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>59.260.722 Bejanir de Mattos Junior</=
+strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>59260722000128</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>05/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMwcT=
+D_Rjsr5bXJCnp8lCIi2Z5U7RAwpC6UpFqUBpinf-2FgRWu70xrHf0g3Pb6Jc-2FtEqDQq3KT-2B=
+BupWfi6Pe3pRw91crtyz3Z3-2B2Q7trWrLmxjuA5x2pXizvQkIXSCN4rs4loY4-2BpQUIbsIwCb=
+tc-2Bj1iBVfbx8XN8KEvb40yz5Ga70GGfyQ1o0YCYK4enggrz-2FJjY-2B67NnAroG0PKPoVbuo=
+rwkHmIAg4aQo-2BWBUgl81GivWqRdY-3D' class=3D""cta-btn"">Clique aqui para Regul=
+arizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.fY=
+D8GGoqoIZfz7EIEmCPy3dpn5ajUIz6odkti-2FexTxduRfoDJTgC-2B5hhNtL3yVIlWQNdSoYAh=
+Ty4nJ95OPqS189-2FaAzMiKGVFYMIoVzPSntsz-2BJu6t4vFFfMD2-2Ftt8SGU0nYKTyz9Phzja=
+IeFTBLJqrThY7pSuS-2F-2F7iY5uVaNOQDAGShKgIsZh5jNCUmRKz8m-2BZp3HAoeFciNdaJ8tY=
+h5n51yvqs49oUBCaPSs-2FMB-2Fk-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/></bo=
+dy>
+    </html>
+   =20=
+","""Fatura Pendente"" <no-reply@ainnove.net>",juniormattos33@hotmail.com,2025-03-03,177.223.76.42,Brazil,pt,users/50407563/dbdaeefe-8117-49fd-a33c-7b7cde8af89b.json
+50407563,SbggOHjoRFSrSb6AqJWCAw.recvd-578d769b87-htdd6-1-67BA120C-67.0,cHJvY2Vzc2VkLTUwNDA3NTYzLVNiZ2dPSGpvUkZTclNiNkFxSldDQXctMA,Fatura de Serviços - MEI #3191,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=clubedospensadores.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=vcRMAFfCJgnOtrkcEm6k2MW/53oND50+68/CVXIsThQ=;
+	b=SbuqEEUI6SlUOobRvRwC4QVXrENh+9wx4sqVXnSbQAjho+kH6Au3H70kpihu43VZo/8L
+	whqJDkMwebJxrb9m1wX9tKHge54/uCZDeaPrQouSkxO5ZQj0WqzSSOujvO2JaczXRnJh2q
+	77F2zHX6RFiiAHIlOfhg0zG3KfA8DZkbjb/gQc0VU7h0KWP+0aR7V2n//YMuZ57b6faBtA
+	ZjzPlcSj9rr7X3DCAxzdXTFAgeiCNAi8ozFfn4zaDdquT7qyKctfqB3AWqp5IU5/mJifF7
+	uBr1LAivJdxinYE1ggAxJZ1CteRQE85lPx4QcX2KVawZg0JxiB/zInGol+f74ZUg==
+Received: by recvd-578d769b87-htdd6 with SMTP id recvd-578d769b87-htdd6-1-67BA120C-67
+	2025-02-22 18:06:04.540646366 +0000 UTC m=+8628244.156420916
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-18 (SG) with HTTP
+	id SbggOHjoRFSrSb6AqJWCAw
+	Sat, 22 Feb 2025 18:06:04.498 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Sat, 22 Feb 2025 18:06:04 +0000 (UTC)
+From: Aviso Fatura <no-reply@clubedospensadores.com>
+Mime-Version: 1.0
+Message-ID: <SbggOHjoRFSrSb6AqJWCAw@geopod-ismtpd-18>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #3191
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ni2dpdDdSPj=2FYCe8cuuIMCflPO=2FGa+UTs66ps5RS7zQWweQUE4N9eu+W?=
+ =?us-ascii?Q?aIOFEVzKyWNvYhKeJK4Kca7EsbB27VXPl2B2bBV?=
+ =?us-ascii?Q?OgcpjuIy67iHt+voKHoaSlDWUS6Wo46MTarY8GO?=
+ =?us-ascii?Q?UyDkLA0xUnDPqky2bnwvRAZyPljZ9NTLK2DVldw?=
+ =?us-ascii?Q?ByMnrGHLiatu1KuBums9Yi684lRTojBTbJXu+49?=
+ =?us-ascii?Q?rQo7oNOycFcdoMDTdRZrcpB4ds=2FTUdxfq+dIyu5?=
+ =?us-ascii?Q?hgriDd8gEFjgyzl1XhYYAOQwwg=3D=3D?=
+To: eduardo@logomar.com.br
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>Ecla Participacoes Societarias LTDA</=
+strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58175561000101</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>25/02/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMhxX=
+T_vxWmzpejRtYAPtHcx8utUXBXlG3A3wSW0Qtl5G0IKspdN8n6uLBVDmDkT4MfHvj-2B-2BB4-2=
+FuAsSFxpc-2BMEEYy6cfy86ZIRR0jUGfWmjrhJAPwoTW1JFi-2BisVVLusZdI5-2FYkAL5Y7qOz=
+OHaOCocCeWRyBswCt8Xo6rR-2F2cys9Eh-2B877mCqpccLo8tOBMgX77EeTZDo3YxjnhZ6R0eZd=
+Y5B-2Fnng-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.gH=
+MQTKQEXvCfo6yvmjD5RqGrxSdRyGc4-2FuW5ClAOKkoZO2aFPS9MVSkQEnV1xvzWyKqHqAqAbVB=
+uDroOjxXV8yf3QMf14vwIJ2NOz8ZW844I1XuAULqob1jpeBxxaFUGDYIZ95snmUCD6-2Fm2xuf5=
+TMk8qDiUdawt8g06aKU0S-2B2LDOBwMPrveJ9tPaH-2Fmbt-2BXDq0L8PJ5LqKXFLGQe2gmPDGO=
+iHR7nZQt-2BxUVfkBzuc-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" sty=
+le=3D""height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Aviso Fatura"" <no-reply@clubedospensadores.com>",eduardo@logomar.com.br,2025-02-22,177.223.76.36,Brazil,pt,users/50407563/787a7b58-3644-491c-a28d-274c92612db9.json
+50407563,UKVSO-4LSkKUzEhxPv3KpQ.recvd-578d769b87-28wxc-1-67D1C245-2.0,cHJvY2Vzc2VkLTUwNDA3NTYzLVVLVlNPLTRMU2tLVXpFaHhQdjNLcFEtMA,Fatura de Serviços - MEI #5959,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=UQFXhttRXn+xvtkhtJNKKC+GsTIfu4oIxrrWz0QrNrQ=;
+	b=VVlEdRz3hX9WTWojfdMo7VzlV9wQIrPu+/rAQTOGuEaqMcNwPuhkJwM2JX5iwIM8HxGf
+	UtaBDWeVF+oS4xS5o05UlagkiyZkNdS8quPpvNcpRfu8s+UwZ/Hdg9QsKNP8C5LMVZNsPV
+	bRN0JdywqKd87i9DSWW+7RK4LvQIzJY4M=
+Received: by recvd-578d769b87-28wxc with SMTP id recvd-578d769b87-28wxc-1-67D1C245-2
+	2025-03-12 17:20:05.029572871 +0000 UTC m=+10180547.064482523
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id UKVSO-4LSkKUzEhxPv3KpQ
+	Wed, 12 Mar 2025 17:20:04.995 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 12 Mar 2025 17:20:05 +0000 (UTC)
+From: Aviso Mei <no-reply@ainnovare.com>
+Mime-Version: 1.0
+Message-ID: <UKVSO-4LSkKUzEhxPv3KpQ@geopod-ismtpd-8>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #5959
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ni2dpdDdSPj=2FYCe8cuuIC7=2F84sNvh2k0nQYqwlRcyzOAnhhk9Hjj4UuD?=
+ =?us-ascii?Q?B5bMIHSJ+0hCMvFQrx10ldNcJF7YcGo6XEvWW9+?=
+ =?us-ascii?Q?pU6eF2bp6N=2FaYl6jOXyqLKXH2m5wy9rjNXNJA9s?=
+ =?us-ascii?Q?u6cGEBEsZHuzq3vK2YE5eWJ8agiZW8Qpq=2Fs2S2Q?=
+ =?us-ascii?Q?zfZW8ZW2cpnbGvG5Idskp3YAqwP891kd8Qvwugu?=
+ =?us-ascii?Q?hFspUZqrQzPD9J+kkHr1+pVsfVpWC2F=2FL2vckWJ?= =?us-ascii?Q?biaF?=
+To: fernandacorreaimoveis@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.989.222 Fernanda Neres Silva Corre=
+a</strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58989222000169</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>15/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+raWDO_rYso-2B0FdDq2yA2rKFi2TfgyYTNdNijp6LSf-2FPfTCDLiGcoq7o7-2FVUR0rU9AXSHa=
+qHJh076eTA2UT-2BliI5m1vojPl50Ixhu96cOa1gSInEcWBpCSH2FVOlWKPCAB5UEWRg24jDvgt=
+KACgGQ-2BnZdQCUIirMSHyewWqUrK7E3wi5wb6f8OuDCVgE27fiYYyp0yQ9s3xsLkXe0xLGh0qi=
+3BQF6r6leclyX8QWsxmCwZ1N5g-3D' class=3D""cta-btn"">Clique aqui para Regulariz=
+ar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.vA=
+JQxdcdQVau4yz2JAlI3eKaJ9zQTD3vyazZ7OArGkKofAcMIkQhpvK-2Fx2HPogOkPPjsY68-2Bm=
+Kr-2FLAkG3GN388zZss0iyD8cOsPqhWQ7VQlm3lDn-2FpOSZ8h51cNQIeIQoqC8L2tQG-2FcEk2=
+GvpA3mjWc-2Fl1LEP5JNhrxkz3Xpm6XeiP72CXoMY-2F6vaocZhsOXGGtLVvuNOxpzQWGQFF2Q4=
+bcXvxEAm1vkfsQhzNU2CdU-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Aviso Mei"" <no-reply@ainnovare.com>",fernandacorreaimoveis@gmail.com,2025-03-12,177.223.76.102,Brazil,pt,users/50407563/3f1777ad-a58b-4a82-8baf-1a8b6f9950c7.json
+50407563,Ui4QZl6fR_qyk8Gs4FeLWQ.recvd-668fcdfd56-c6j4v-1-67BF5816-2F.0,cHJvY2Vzc2VkLTUwNDA3NTYzLVVpNFFabDZmUl9xeWs4R3M0RmVMV1EtMA,Fatura de Serviços - MEI #3602,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=5LEcZNiBhZWoh1+Cky164gXPHDgPg0o6OqIAUwMegxo=;
+	b=gz+/DbGztb7FmZmLmJx01DHyCQxUtkeDcy5ad/eip1qd8hwQpedDgapQSB5iWxnLrkSZ
+	Xo4acE9QpX9eUZ5lFzo00W9LKdpInntBL96HqDoyq7C3cIYQndvs2WEq3ARM/q9Hvio2Gb
+	mPt8Lcvh+cnPVh107NC5DWIHxahByhE+o=
+Received: by recvd-668fcdfd56-c6j4v with SMTP id recvd-668fcdfd56-c6j4v-1-67BF5816-2F
+	2025-02-26 18:06:14.600454873 +0000 UTC m=+8973863.113665511
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id Ui4QZl6fR_qyk8Gs4FeLWQ
+	Wed, 26 Feb 2025 18:06:14.547 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 26 Feb 2025 18:06:14 +0000 (UTC)
+From: Aviso Mei <no-reply@ainnovare.com>
+Mime-Version: 1.0
+Message-ID: <Ui4QZl6fR_qyk8Gs4FeLWQ@geopod-ismtpd-9>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #3602
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ni2dpdDdSPj=2FYCe8cuuIC7=2F84sNvh2k0nQYqwlRcyzOAnhhk9Hjj4UuD?=
+ =?us-ascii?Q?B5bMIHSJ+0hCMvFQrx10ldNcJF7YVZNIWkogOCN?=
+ =?us-ascii?Q?oe0eYhTR53=2FR+CylP4vITeIBIZ9Q5HW7F9Pu9DM?=
+ =?us-ascii?Q?FbnwN=2FR9vKGofMQOLsQpK3vvi5uDkmQZy8bmUB9?=
+ =?us-ascii?Q?Zwb7PmObcKdnxTh1jZKHCzcjvYBxI9txog6I54C?=
+ =?us-ascii?Q?WDlC10avotcpuQTxswBuECheVu6SHBB643NOmOM?= =?us-ascii?Q?WI2c?=
+To: gersanebonfim@hotmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.860.950 Gersane Bomfim da Silva</s=
+trong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58860950000176</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>05/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMaWa=
+r_6pvJTCH2gHROp0a8vNnIL5cT9eKEw65nKPkAlosGrWJrKlyzyjvVZqHswQ6cEy3lOtkeW9YtB=
+R6UQGHQ51sgBE8X-2BG9u3FAXqZzKYy5D3-2B1jmk7qbb8R0RBrTUDTBymM8X1za94JzVwVViz-=
+2Biz9s0GlIX1FJPrX-2Bg-2BzZ6lA-2BMN5Xl-2FBl-2Fw4f7Qa-2BvKyIZsDCmm3BfRKq3Zg3i=
+yO6QhPwbQ-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.tA=
+L-2BBSWy3Z6a-2Bh5oeKwd2XOeDDpd75PytOWmBT2HfI18qwR8DKpgrla0tXU8wHc3eKfXTP50V=
+BHAQF83Nur2bC4SN3scYbaMgtkHV3qedL-2BBzaFgv0oLNgUFxZu8xNWDAWdvsHXCIzeLqzLAtS=
+OuzMjnBqh3BEOyiEEibCX7T4qaKdBdjlmZaJ5yFV3B1AWnX2mua38jiIR4YtI8vd5XwPx8AiR8h=
+35m-2BuSK-2BBfYPro-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Aviso Mei"" <no-reply@ainnovare.com>",gersanebonfim@hotmail.com,2025-02-26,177.223.76.19,Brazil,pt,users/50407563/56adb0c5-8b05-4da6-807e-fc26c4e81a34.json
+50407563,WJntN2WtSvuQz_a2M9GAkA.recvd-8575c86f9d-h4s29-1-67E352DF-15.0,cHJvY2Vzc2VkLTUwNDA3NTYzLVdKbnROMld0U3Z1UXpfYTJNOUdBa0EtMA,Fatura de Serviços - MEI #3859,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=clubedospensadores.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=KTxroVtdyX0AXVH78/yK7Sx6uxfL/H2BI+dlGwApmuw=;
+	b=Vx6Hx+6mAW/Fu69jmQln7jwXmPXvOKd+WjDDci+FpvNxC9KErtM5VZAMB1PyvCxYPwSV
+	gataYIBuJ8IDRnXlpPPYrDaGAS3UN0WxzoGF80Nx6fbsln0lMcgz216tBtTBxx5O3+qIZB
+	frYw4BSCD6rfuVwfrro3AQLBA/UCvoAlTxaOl2BrZRttPZJ+/pMHWaIz9KffFVhU3ujRo7
+	qcTOI7CroPpEXrnOZUM4lfbwbcJG2d7h75RS4hqqmvaz9DZlAJdJMrGgc5v2xge6Ni+3Xf
+	H/YzD5EZUUS+Aot//Swp1FaMXnEdU3FnTesZvyF+O3UflJu5NTl+LFv6tG8Oaifg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=KTxroVtdyX0AXVH78/yK7Sx6uxfL/H2BI+dlGwApmuw=;
+	b=h/B9g571lj75i8rL/cmVpkK7A/YyOB1widue0/sIKVq517CfvAVfKt1K55yCIfmbOKSM
+	f9hMcsejw5LhZ77o//nJheE1saaN+Td2VCckxQE/RugTCCZ88se9sQzR4/l6sqh9FcQETh
+	kDgMLMtD6xx8prCDLly58jq7WbW9tL53E=
+Received: by recvd-8575c86f9d-h4s29 with SMTP id recvd-8575c86f9d-h4s29-1-67E352DF-15
+	2025-03-26 01:05:35.333432092 +0000 UTC m=+11331761.001950545
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-38 (SG) with HTTP
+	id WJntN2WtSvuQz_a2M9GAkA
+	Wed, 26 Mar 2025 01:05:35.292 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Wed, 26 Mar 2025 01:05:35 +0000 (UTC)
+From: Aviso Fatura <no-reply@clubedospensadores.com>
+Mime-Version: 1.0
+Message-ID: <WJntN2WtSvuQz_a2M9GAkA@geopod-ismtpd-38>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #3859
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ni2dpdDdSPj=2FYCe8cuuIMCflPO=2FGa+UTs66ps5RS7zQWweQUE4N9eu+W?=
+ =?us-ascii?Q?aIOFEVzKyWNvYhKeJK4Kca7EsbB27VXPl2B2bBV?=
+ =?us-ascii?Q?OgcpjuIy67gxklQ91QeqPnmB0mUAKhtp7fc1kUl?=
+ =?us-ascii?Q?ZgOSo2P=2FrNaWPr0QnPy29kHOVOKW02Ji4Uplxy9?=
+ =?us-ascii?Q?TyalhVoZYp0vdqINihPLyWB8X7NVcpjlDX+BCk2?=
+ =?us-ascii?Q?ydKXNVtU0EvK7u6CO6xprB50D3AmXYzyxW21kPR?=
+ =?us-ascii?Q?qa+VVIc3F2dM7EfAjviW6Is3fw=3D=3D?=
+To: mateussantos444567@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.092.278 Mateus Serafim dos Santos<=
+/strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58092278000116</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>20/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+rMVFG_74F-2By7voKcQcJpps0ck71u2loZVlSWE1uk7TxYtRZjsxhx8DhnbDEBLNNFPShukK2uq=
+WxhIUOy9fwHW-2FzTmzhV2DwVvuZbrE2yzl8OgbaKL-2FRJOXT-2F3EQ5qTFq3riMXQ11eC288O=
+QgL9FE-2BHLPe5RGGZDqVGrI1y5ZbS60nO7xjhITE5o5OG6ToGIjChpjqn99d-2BYELD5VfEwXv=
+mONmq8AwLs-2BUM0VI1WT6ssY6Pqps-3D' class=3D""cta-btn"">Clique aqui para Regul=
+arizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.RW=
+USX2FS4rbBkq7-2BZGpKoQg4CUcR5JsT3x1dxgkkoBf0b9-2FN81GjrcgFFyQ6phCEh-2Bi-2FV=
+jBI8vyAP4p0-2FkVwLPQTQrLNr0HWsWXALXWEC-2FH5JaE6uAjoryd0tTquI4PzSwCrrYXQ3fvR=
+Opa2YHjzZC5-2FCXi4Q14P1AYe81LLTtPNKvo3r5dr4k67s40d6zseTfwEJFs2bBIpGHOYTAsoY=
+4-2BYQRLDFJR-2BH-2FnxWwMEZGE-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/></bo=
+dy>
+    </html>
+   =20=
+","""Aviso Fatura"" <no-reply@clubedospensadores.com>",mateussantos444567@gmail.com,2025-03-25,177.223.65.18,Brazil,pt,users/50407563/c3116762-2612-43cd-9adf-d4a60afd9c7d.json
+50407563,X0878shnSe28yYtAfCdtSQ.recvd-7cf7589bf9-9f6cr-1-67D4A760-F.0,cHJvY2Vzc2VkLTUwNDA3NTYzLVgwODc4c2huU2UyOHlZdEFmQ2R0U1EtMA,Fatura de Serviços - MEI #2407,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=N+DT/IA21lM4vaB//hWd6tpV3pTHYeW9dm/A6h38GFE=;
+	b=CVBLeVRU/2QglqjFybRpUfFbDgg/nPT/SSSQMacu3F8/HvxJDIeVJFkAolKLFFr15ZKh
+	1tzZFrYofg073cSk+scXd33OM6TaDlscH+UIsTaB1/xyLbZdDSaZuPvuoL/sbcIyMj0wzG
+	vP1kqsm96b5YsTJOJkl5rWkzRDeOATfN8=
+Received: by recvd-7cf7589bf9-9f6cr with SMTP id recvd-7cf7589bf9-9f6cr-1-67D4A760-F
+	2025-03-14 22:02:08.204935388 +0000 UTC m=+10370237.170789851
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-1 (SG) with HTTP
+	id X0878shnSe28yYtAfCdtSQ
+	Fri, 14 Mar 2025 22:02:08.196 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 14 Mar 2025 22:02:08 +0000 (UTC)
+From: Fatura Pendente <no-reply@ainnove.net>
+Mime-Version: 1.0
+Message-ID: <X0878shnSe28yYtAfCdtSQ@geopod-ismtpd-1>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #2407
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAk7M6whIzrhexF3rHdYhPBz59CRvB=2F5Yg0ttmoHGWZexswKkOqup0PtEX?=
+ =?us-ascii?Q?oTgdXEJRTJlf1vR8auFEp80xdzqATWO4vjN0A7O?=
+ =?us-ascii?Q?P0QzArDgtEJvgGmVdt72tZSnHG7NgN5wOSc3q4z?=
+ =?us-ascii?Q?m=2FDgoWZX0kwwW0BZ9s0Q3G1Adx2zNV3F2EQrM9S?=
+ =?us-ascii?Q?6vDIUPQDg4G9nUEh3H6SwWcnSWX9RZMB+pMsIFL?=
+ =?us-ascii?Q?4vBHJP8ZbCXhOwqwFt+b80bFvuhhnc747oWN5cQ?= =?us-ascii?Q?kNkM?=
+To: crislima_14@yahoo.com.br
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.526.793 Cristiana Maria Ferreira d=
+a Silva Lima</strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58526793000167</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>15/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+rpngX_a81iBy04PMz-2BkVJKygxA09QMm3WRrpvBFHd2v4Wle5nfFnZfRnYmihvzG4wdHB9m3QV=
+K1uCyxu-2FQbPKnV8NxjfOBg6hNvbtRm9FuciTYgVjiBcLzR-2FE7d2eTIZFHAxuoXJqPSaBW0q=
+3ISSQxBO934Ek82UgWVeDuEm2yMNlDWlMzpxbKhUmvWTYpozNX-2FlJdr6lO9lJqY1L1HAz7tEa=
+JKg-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.HC=
+jiPFpQxGqo2cRe5OrIOFWmO9G87D9dnbPY024ZjUBA67edquZj65JroNbFz-2FS-2F8-2FhqyNS=
+UZD0ZwgaETukhMfPvoFapEQRN1tx2UwyjEbeyeE4dN0L7xE5qkgiLpb8rCPr6e2X4HA0cZpWnQU=
+NkSLf-2FnyPRbRYt8IJ-2B7d7QzRRe34ZIyC0jogh-2B6bs55uCs9iQCeLR7dZe682VFTO6IVxY=
+OVnPUaonnDfG1mKd81Sw-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" sty=
+le=3D""height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Fatura Pendente"" <no-reply@ainnove.net>",crislima_14@yahoo.com.br,2025-03-14,177.223.76.68,Brazil,pt,users/50407563/bd6c9cfd-8db6-4267-9377-c03e95d3597b.json
+50407563,ZM3rgLfGRNqpwJRIP2LAmQ.recvd-578d769b87-28wxc-1-67D45196-3.0,cHJvY2Vzc2VkLTUwNDA3NTYzLVpNM3JnTGZHUk5xcHdKUklQMkxBbVEtMA,Fatura de Serviços - MEI #3207,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=jyeHACeIBAl6xMxI6h7TzcWK5/8DZRxq5NNbHE/9a04=;
+	b=hHw6X1y6uauIiCUGzmBTTywKxKDJq6DmXq0K7m7YzrVvkiXBU2k59ftz0eM62XRSxrt7
+	sMITyru5qKNcNoIDe3hH9nGleOk6xr7XJLUQtz+Y3AYTX6i1EWFbBJkzmJAe/OXe+V8krE
+	d2rasCtUkYon7RBv3hmQdMhGB+PCeZKJg=
+Received: by recvd-578d769b87-28wxc with SMTP id recvd-578d769b87-28wxc-1-67D45196-3
+	2025-03-14 15:56:06.020150742 +0000 UTC m=+10348308.055060391
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-33 (SG) with HTTP
+	id ZM3rgLfGRNqpwJRIP2LAmQ
+	Fri, 14 Mar 2025 15:56:05.949 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 14 Mar 2025 15:56:06 +0000 (UTC)
+From: Fatura Pendente <no-reply@ainnove.net>
+Mime-Version: 1.0
+Message-ID: <ZM3rgLfGRNqpwJRIP2LAmQ@geopod-ismtpd-33>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #3207
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAk7M6whIzrhexF3rHdYhPBz59CRvB=2F5Yg0ttmoHGWZexswKkOqup0PtEX?=
+ =?us-ascii?Q?oTgdXEJRTJlf1vR8auFEp80xdzqAdN6WWRuMOWC?=
+ =?us-ascii?Q?q9qoE6CD15r7i3oqZ2zY+92TMmCytLJGry=2FwsQD?=
+ =?us-ascii?Q?EGUDVOBpHc7Ey3hiP7MMJRfjKpXnNemY3wQBlep?=
+ =?us-ascii?Q?CSrLcbj9RxT3Mh09wTjEvPtlFZqrWbcY4p2puwB?=
+ =?us-ascii?Q?aa=2Fb5plZIOuebuzC6GFRuc4Q0u=2FxnvLsj=2Fx0x3m?=
+ =?us-ascii?Q?2fv8?=
+To: mscanderla@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <div style=3D""max-width:640px; position: relative; padding: 20px 20px 2=
+0px 20px;"">
+        <!-- INVOICE INFORMATION -->
+        <div style=3D""font-size: 20px; color: #5274FF; font-weight: bolder;=
+ margin-top: 20px"">LEMBRETE DE FATURA PARA 59.429.428 MILTON CLEBER SCANDER=
+LA</div>
+        <div style=3D""margin-top: 20px"">
+            Informamos que o CNPJ da sua empresa foi emitido com sucesso. P=
+ara concluir o Registro Digital, =E9 necess=E1rio o pagamento da Taxa de Re=
+gistro.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            Este procedimento =E9 essencial para que sua empresa esteja reg=
+istrada nas plataformas oficiais e vis=EDvel nas buscas online.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            A falta de pagamento poder=E1 resultar no cancelamento do regis=
+tro, impedindo que seus clientes encontrem sua empresa. Ap=F3s o pagamento,=
+ o processo ser=E1 conclu=EDdo em at=E9 5 dias.
+        </div>
+        <div style=3D""margin-top: 20px;"">Ganhe tempo: Para concluir o pagam=
+ento, <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KVg3=
+k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZj37UQ_rV5c9985zy=
+aogR1GBeHeQOJZT38P44qcgCpZ9u4NQulo505SUjjzDFiTreJ8R-2B-2FSMMjlRCnWkJhdBU9Pi=
+HOs0X8TTw-2BVPaS6qOGHt5UMrVmHdCHGuSLl6-2FKd2D92dsTVmaX-2B7ppq0YoN2QcP-2Fx76=
+oN2q-2BkDwi-2Ft2nDjKta7h8GL5IUPhGAFhGs4l6Hx0oSCK9v-2Fype4DYX2RIrN6iMf4KQ-3D=
+-3D"">clique aqui</a> e veja as op=E7=F5es dispon=EDveis.</div>
+        <table cellspacing=3D0 cellpadding=3D2 style=3D""width: 100%; text-a=
+lign: right; margin-top: 10px"">
+            <thead style=3D""text-align: right; font-size: 10px; color: #9A9=
+A9A"">
+                <tr style=3D""background-color: #9a9a9a"">
+                    <th style=3D""text-align: left; color: #3E4444"">DESCRI=
+=C7=C3O</th>
+                    <th style=3D""text-align: left; color: #3E4444"">QUANTIDA=
+DE</th>
+                    <th style=3D""text-align: left; color: #3E4444"">VALOR(R$=
+)</th>
+                    <th style=3D""text-align: left; color: #3E4444"">TOTAL(R$=
+)</th>
+                </tr>
+            </thead>
+            <tbody style=3D""font-size: 12px"">
+                <tr>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">Registro Empresarial</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">1</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                </tr>
+                <tr style=3D""color: #3E4444"">
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                </tr>
+            </tbody>
+        </table>
+        <div style=3D""margin-top: 20px"">
+        <div style=3D""margin-top: 20px""><strong>GERADA EM:</strong> 11/03/2=
+025</div>
+        <div><strong>VENCIMENTO:</strong> 15/03/2025</div>
+        </div>
+        <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KV=
+g3k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZjiYCA_rV5c9985=
+zyaogR1GBeHeQOJZT38P44qcgCpZ9u4NQulo505SUjjzDFiTreJ8R-2B-2FSixqvsfXbe1nO030=
+mNwnVx5OPl8D8jMcIu4r9gcJoUSaTyRlo-2B15AI2C2SbT1sBHTNmaSfm1wS8aUz7dU1WrjzFA7=
+GAFN9r6g4nApBopkWA-2Bcrnx5jNUY9AJgTHlGr7wEcTrmJ-2FtnF9I6hRgnZmVUpw-3D-3D"">
+            <p style=3D""text-align: center; border-radius: 11px; padding: 0=
+px 20px; line-height: 45px; background: #5274FF; color: #fff; margin: 0 aut=
+o; width: 25%; font-size: 20px; margin-top: 15px;"" target=3D""_blank"">PAGAR =
+A FATURA</p>
+        </a>
+        <div style=3D""margin-top: 20px;"">
+            Atenciosamente,<br>
+            REGISTRO ELETR=D4NICO NACIONAL DE EMPRESAS.
+        </div>
+        <div style=3D""margin-top: 20px; font-size: 12px; color: #888;"">
+            Este =E9 um e-mail autom=E1tico disparado pelo sistema. Favor n=
+=E3o respond=EA-lo, pois esta conta n=E3o =E9 monitorada.
+        </div>
+    </div>
+    <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.OFT3Td=
+6dgfeU9JjZSI2HR74s7HMAqWTboLReGtkhbNg2nn5YXJGphIKymTB3q4iT2oTVnNIya8dJuiGbL=
+35297B5THO4WRa8gheV3RYiWQWu4o07AuDjajRk6T-2B-2FXegdxWxdRjeNSoo6gFWk1Kh-2FWj=
+uGODHdRw6TZ6VvUFZJIVMNc6VbtloZMEuzYICw8KTpg-2FlZWKelLHWPKzuvgWV-2B8g-3D-3D""=
+ alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !import=
+ant;width:1px !important;border-width:0 !important;margin-top:0 !important;=
+margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importa=
+nt;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !im=
+portant;padding-left:0 !important;""/>","""Fatura Pendente"" <no-reply@ainnove.net>",mscanderla@gmail.com,2025-03-14,131.72.150.45,Brazil,pt,users/50407563/3dd5f3d7-bb70-49fe-a193-523ab8aace4c.json
+50407563,o2XryKmQSgWc2rwVjBqtpA.recvd-7cf7589bf9-9f6cr-1-67D8624D-33.0,cHJvY2Vzc2VkLTUwNDA3NTYzLW8yWHJ5S21RU2dXYzJyd1ZqQnF0cEEtMA,Fatura de Serviços - MEI #2491,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=lbcicxLI2T/U/hekToTT0ISy+9B4dgcBbDM0o/lLMdo=;
+	b=pnRLQbqaKjTJRyhGjHLh3SRZha1sbWMQ8moGgUtii/FL8uExKufwn6YMA6w/jwfV/Mqc
+	8S+2qH+dKadjeq27A1mRnHV94AF8Rrsfjo8gHkMBNUFYVybkCdhX0965evaRANSlcE24vY
+	Lhr9JVQZvcDIiJpf4Tq72aZURc+3Md60Y=
+Received: by recvd-7cf7589bf9-9f6cr with SMTP id recvd-7cf7589bf9-9f6cr-1-67D8624D-33
+	2025-03-17 17:56:29.708397478 +0000 UTC m=+10614698.674251942
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-19 (SG) with HTTP
+	id o2XryKmQSgWc2rwVjBqtpA
+	Mon, 17 Mar 2025 17:56:29.686 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Mon, 17 Mar 2025 17:56:29 +0000 (UTC)
+From: Aviso Mei <no-reply@ainnovare.com>
+Mime-Version: 1.0
+Message-ID: <o2XryKmQSgWc2rwVjBqtpA@geopod-ismtpd-19>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #2491
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ni2dpdDdSPj=2FYCe8cuuIC7=2F84sNvh2k0nQYqwlRcyzOAnhhk9Hjj4UuD?=
+ =?us-ascii?Q?B5bMIHSJ+0hCMvFQrx10ldNcJF7Yc8v9lp+7G24?=
+ =?us-ascii?Q?vsibhvQeowD+kBdwEnLabyP9D60Mbz6gDaBu2sJ?=
+ =?us-ascii?Q?m4mgZYXvc8EoEGcsKDK4oIpVTrpVDestsnT8aLy?=
+ =?us-ascii?Q?v1h84rOThYg+zhPp5+9+dlUbhwBhDC+r3677gxR?=
+ =?us-ascii?Q?mWhZTOVcWuL2LWhSJlKmOFiM8f3juqGxToEFYpt?= =?us-ascii?Q?1jCf?=
+To: adrianaboucao@yahoo.com.br
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>59.110.340 Geovanna Ruffeil Piedade d=
+e Moraes</strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>59110340000118</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>20/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+r1BJ8_8xTeOpsuBXqZLHPKV8K9axxDRvyqoY0LUq8HpPLerRdwaVRcVodK0qxhNN1h0GataCLse=
+2AhXxWOSl-2Bujsrhbw24DTrBG-2BnKO4QqNoBPteODdKXXrriu-2FGW7G8inF4rJ4-2F9pDmb8=
+avTBcVR3JdimF63pWtapn8vrXA-2BnSWepEy4zap4iW-2BWr-2Bjf3ugCEOQRIOZxfbBiynPJKo=
+PCjXXLtGQ-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.SV=
+uUwWa8wyvUkMnQvLj9I-2B6i1-2BZFTK-2BWPqOTz7drkqGdb376-2FwE-2FGQdJtd2MNDmfGFj=
+sLrSyvovqh-2F1l8cpLeHCEygdRt-2F74V63jJk5fQwAUgcvLa2WCVSjyiyNutjHBsjKDpYdgI5=
+5TX3nJkgpHki5FipDZB63vg-2Fg-2BTGXyHWKOSmndQ-2FhrZ6dzI3CUazbL-2BK3iohEFtX-2B=
+vedoEMGxpKusa9SuUbdjfl1ENx135LoU-3D"" alt=3D"""" width=3D""1"" height=3D""1"" bord=
+er=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0=
+ !important;margin-top:0 !important;margin-bottom:0 !important;margin-right=
+:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bot=
+tom:0 !important;padding-right:0 !important;padding-left:0 !important;""/></=
+body>
+    </html>
+   =20=
+","""Aviso Mei"" <no-reply@ainnovare.com>",adrianaboucao@yahoo.com.br,2025-03-17,177.223.76.96,Brazil,pt,users/50407563/e1f584da-4057-4fd6-b3a6-d869baf2f35b.json
+50407563,aiBG9jyvTYa2-1Ds0Yweuw.recvd-578d769b87-kq9gc-1-67BE0646-5.0,cHJvY2Vzc2VkLTUwNDA3NTYzLWFpQkc5anl2VFlhMi0xRHMwWXdldXctMA,Fatura de Serviços - MEI #2879,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=zmzgrnu+8c4QE0Pyji/539WJLSxNfA6Wz7mFVnNAGiQ=;
+	b=Ze8aPlpLEWWV+XYkvfzcBgzMKqrgYNKzHDbq58PcRz+5gau+deGm8d7GaCR9ge8Ne0Ag
+	PftUr5rT4REUGJ+a+IO4mpyjxxhRt+/ciVHCF2vAUjveNBdbNMAuJgYp7QFStaaxSkDwKT
+	NTERcSPlXFnOjlqt2oo9GKJr8LyvFUjLo=
+Received: by recvd-578d769b87-kq9gc with SMTP id recvd-578d769b87-kq9gc-1-67BE0646-5
+	2025-02-25 18:04:54.026273705 +0000 UTC m=+8887394.438136935
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-1 (SG) with HTTP
+	id aiBG9jyvTYa2-1Ds0Yweuw
+	Tue, 25 Feb 2025 18:04:53.978 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Tue, 25 Feb 2025 18:04:54 +0000 (UTC)
+From: Regularize Mei <billv0908@gmail.com>
+Mime-Version: 1.0
+Message-ID: <aiBG9jyvTYa2-1Ds0Yweuw@geopod-ismtpd-1>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #2879
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULSFsWPNp7ubIMtKui70Con=2FKVchx7tOjroZgH?=
+ =?us-ascii?Q?3jRVxlUi6TWVFTyheRekzkbw8rYoJKy6eT3wBeb?=
+ =?us-ascii?Q?JK+IihjNvrCjK9LSBl=2F=2FMqrwNnuAD9Nqogrrv+6?=
+ =?us-ascii?Q?oXaEfxPUwgq1qKXcbF2zt4r8StLNFfAVaARSgHY?=
+ =?us-ascii?Q?xVXRPMdeJ2rNDZVvGfeb9LmbIibLN8rUPXvCttI?=
+ =?us-ascii?Q?qARp0YYJxNFekadg7Zol7QEXND5SLOpFm70Tlvx?= =?us-ascii?Q?f18P?=
+To: nicolastodesribeiro@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.542.793 Nicolas Todesco Ribeiro</s=
+trong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58542793000150</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>25/02/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMNlP=
+-_0M8xLnvlBEC4hEXUAuJ9k3VYbJIK9cSLmWkKoN-2Boc4eYdz5TFxallci0CNNbtS3hydS3kab=
+evwlQZ8cnST52Xt13m1S0OMDE3c94mHOopT-2F9bOzJDspU-2BZJLGJvttLhfidgKSGvJk1UIFj=
+MUQM9VZoFtRtkYo4BTGkClCtvn5Ohs8-2B-2BCGMoKXbaUEW69zZ1W1YhPFiTPIzciwmZKSRfyC=
+1SVlBF9YkgbmYjkUo-2B5StE-3D' class=3D""cta-btn"">Clique aqui para Regularizar=
+ seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.gV=
+gKMYFhisJRqCk4Q8GWsePMfB0kJqA-2B133EWS8msDtu8LQ7qLge4Y86ZXtMMVFBSgOmVQSHVQN=
+7xwuJYLFFf5EycmYx11UUimoOZ6dhvBpHj-2Fo8bojxCZgw-2FiKm9XU8J9dK4dojrvJPppAcLt=
+1EvkKZKbpYd3Zd7Shc4JagwjnrFZXoA-2FQsh386-2Bs54m405JXQ2cUTjO-2FFWAKWAJE-2BIF=
+LRtXw4VKZCrEKd9V2t0vhA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Regularize Mei"" <billv0908@gmail.com>",nicolastodesribeiro@gmail.com,2025-02-25,177.223.72.89,Brazil,pt,users/50407563/3be59dbd-c08f-4fc4-8030-61479e894fcc.json
+50407563,hzPA-wMORUGS7dGlhMy_TQ.recvd-7cf7589bf9-tczgs-1-67D7102F-5.0,cHJvY2Vzc2VkLTUwNDA3NTYzLWh6UEEtd01PUlVHUzdkR2xoTXlfVFEtMA,Fatura de Serviços - MEI #2038,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=d9dimJFWpX43iwIj5PsvYIst3hNy3W/2mDOpSvKyZyI=;
+	b=t02OKEYW9aS6iqbW4U2fcOKmTt6aEF8DKsi6CuA+W9i1QbF4ffDVN5Fu77sVeb/k0AZe
+	InXAjmizvX/A+Wve70ZlxKaf4INj40uR9rs1zHRgIEJe64rsJ+FTEdHFfgS9I3EfeNR1jI
+	X5JQ5Ui56qpZ7aab8IxgCivsQA4yt4uJg=
+Received: by recvd-7cf7589bf9-tczgs with SMTP id recvd-7cf7589bf9-tczgs-1-67D7102F-5
+	2025-03-16 17:53:51.127854859 +0000 UTC m=+10528159.474916910
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-19 (SG) with HTTP
+	id hzPA-wMORUGS7dGlhMy_TQ
+	Sun, 16 Mar 2025 17:53:51.114 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Sun, 16 Mar 2025 17:53:51 +0000 (UTC)
+From: Fatura Mei <assasleonardo@gmail.com>
+Mime-Version: 1.0
+Message-ID: <hzPA-wMORUGS7dGlhMy_TQ@geopod-ismtpd-19>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #2038
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAk7M6whIzrhexF3rHdYhPLsIbPCRL0egSizPPmWOYwsIm9ddCQ6GUz7Py?=
+ =?us-ascii?Q?e0dBlnhuuiCaKVzl5IwwzcLlC0a2H3ewEuSsLZA?=
+ =?us-ascii?Q?aBImC=2FUXTpA9wZzaWXQoT6YoPxCkWpG2obyqi1z?=
+ =?us-ascii?Q?A8523ocoJ=2FMdg1P8KxZfBdBE0B+njAgvEbHjbUE?=
+ =?us-ascii?Q?UNfEa0YwLDJ0P9JcM7xc+MgMWrr9cD4Ww9r=2F0UW?=
+ =?us-ascii?Q?zk10fpYzEUYM73EG4BnpMntx7GEVFjvVsqHPidA?= =?us-ascii?Q?2Sr1?=
+To: soarestales508@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.716.934 Tales Aua Silveira Soares<=
+/strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58716934000104</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>20/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+rGMGU_Wcc4yZlD1wREpyysRGGFnjMyXwn3J7llZcSpILTuv1X4CVXowrKxzDXU5RXGHQza0Pic6=
+4z97A-2F1o5Llvs-2B-2Bic0x-2FTI66cPx51wTwoDXqbaZtstwJiDIqPtgy2-2FS8mN0XMYGRD=
+lcFKNeAKF-2FGqNuY44tRfGLODsdaNr5fU1tJuA2QOHRl4uiKHq7JC9a3i8E41a3O-2FKmDdMNy=
+-2BmV-2Byikew-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI=
+</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.OP=
+mR9PAP6HD2FbN5JjPW8l2pAKVbEl1-2Fw63d2tai6T5trkxvDgRWWeTeERvYTeGnu7GyBB7MoHm=
+5XsdKm63KWu5XCr0NNn2sb7OfzmTPX0jb6F18tapHCLLCStqvuSiJ0bk8NYzT1-2FSLl8LURn3X=
+-2FdWAW826nN-2BKktRLrL1NxwWTqg-2B0ce233jBFMvtRKAUNlJm5qe9Uv39qsLgIJ4HpHJFsR=
+Dz51pADH4pux89s2hA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Fatura Mei"" <assasleonardo@gmail.com>",soarestales508@gmail.com,2025-03-16,177.223.65.7,Brazil,pt,users/50407563/9ad71b60-2a85-4830-b440-bfe9d2be4994.json
+50407563,k5gvaZz1Si6LZsJ1C8UKHQ.recvd-668fcdfd56-6ns8j-1-67D06EF7-7.0,cHJvY2Vzc2VkLTUwNDA3NTYzLWs1Z3ZhWnoxU2k2TFpzSjFDOFVLSFEtMA,Fatura de Serviços - MEI #8728,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=b1v8tCQqk/YDotyRFe3woS9yYVXvkZJg0WHW/HlQw0A=;
+	b=Q8ovamkzBtR2XbZW6ZDO9ffV+/QiyhvXB+VUaDHMnijxzdSZ0JxTbV/G5lcnLQAka8N5
+	k5zqzZ5MxcrJvlFxuc/PqgLHJRB8SrcmveJC36yRXcROGaFtwjywo7aM1IO+LJilNLGtMW
+	86u7pejQnRaMfNYQANVKc/MDtsqCTwb4c=
+Received: by recvd-668fcdfd56-6ns8j with SMTP id recvd-668fcdfd56-6ns8j-1-67D06EF7-7
+	2025-03-11 17:12:23.288436865 +0000 UTC m=+10093762.981610951
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id k5gvaZz1Si6LZsJ1C8UKHQ
+	Tue, 11 Mar 2025 17:12:23.246 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Tue, 11 Mar 2025 17:12:23 +0000 (UTC)
+From: Aviso Mei <no-reply@ainnovare.com>
+Mime-Version: 1.0
+Message-ID: <k5gvaZz1Si6LZsJ1C8UKHQ@geopod-ismtpd-2>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #8728
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E3ni2dpdDdSPj=2FYCe8cuuIC7=2F84sNvh2k0nQYqwlRcyzOAnhhk9Hjj4UuD?=
+ =?us-ascii?Q?B5bMIHSJ+0hCMvFQrx10ldNcJF7YeuP4eNgYdNt?=
+ =?us-ascii?Q?+rXOo4GACYw+OYX9FzD23zbN4p4Fhlx71b9nNKW?=
+ =?us-ascii?Q?ycEFje39=2FswE=2FcmSdAYqSEeIyEaDGeBEJOcqi1p?=
+ =?us-ascii?Q?=2FpV3+kHls0s+8S0Nb9VqGNRm=2FY+oOkZcp61bidt?=
+ =?us-ascii?Q?nmssRFCUI4ATE1PiAlU51PCSkChg2fLSMBnqIwD?= =?us-ascii?Q?XA=2FE?=
+To: etiene.coitinho@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>59.770.855 Etiene Coitinho Saldanha</=
+strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>59770855000144</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>15/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+rn7tM_6BzKmycgvnXSqaXdyZT6m0BssTITCkztqxA5TIFcJdK0E1HNDD73qXRO36e-2FIbpdr28=
+Gzkw-2B0TJXO3RJpO5cfGaB5BIvVGKU6THcMcATPPVdw6YGRuNzSuNqVURGWSXmBOHzLhQeirsm=
+MqDDqiOLHDTcvfcv-2FOH1ef9vj-2B-2BeAsyMgLWeNriPOnbcfiWkpyggC6TI7gNjIqJU4rdPp=
+-2FBS-2Fw-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.-2=
+BTOWvV9Wnt-2BtpCpcGs3tRAqRbc3iu-2FJYGLiJ17kd6WxMeAZ3nKZw77RckhCr1joCLYJEo3R=
+B-2F9kCBDPKJ0tTjnd7ejk7bVimw0ibTRmWKfensRZHeG2mgA1mlKrLYjKGl-2Fcy0psqLFxzBH=
+Jo3L8JPY-2F9N36kYIl57LYKuPGN8h58O-2BiNnqEtRVRXDkQnP23AxrGx80QjfuGJOXtu0j-2B=
+VkdOM0nfhL1DZMFu6pX0AQXs-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Aviso Mei"" <no-reply@ainnovare.com>",etiene.coitinho@gmail.com,2025-03-11,177.223.76.102,Brazil,pt,users/50407563/cfb1f051-b187-4221-a3b3-0f50df9de3e5.json
+50407563,lL0e8ZXRTlKjiqPVuoU5wg.recvd-578d769b87-kw9vv-1-67D38DB8-D5.0,cHJvY2Vzc2VkLTUwNDA3NTYzLWxMMGU4WlhSVGxLamlxUFZ1b1U1d2ctMA,Fatura de Serviços - MEI #2630,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=KKOzNyiv+ClLZATZZzaWCNSUesk4uAOF6ucKgo2Up50=;
+	b=KeySGDlVyAky85Ih8BZs7EOeCkkpw+54FbsfRM+0Hqgy0ogFGcjEJcXHip9863fWprZN
+	jNcK3aY5HbUBt5wBNKG48VuQD50jRrh3zyCXRAUkgW9yYbH8L6Ocg2dQyi8JrSJXB5Kmpj
+	NGcHL//nYXRSwNxYCsSAOix3NtWwSe6e4=
+Received: by recvd-578d769b87-kw9vv with SMTP id recvd-578d769b87-kw9vv-1-67D38DB8-D5
+	2025-03-14 02:00:24.987552137 +0000 UTC m=+10298285.565451427
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-20 (SG) with HTTP
+	id lL0e8ZXRTlKjiqPVuoU5wg
+	Fri, 14 Mar 2025 02:00:24.901 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Fri, 14 Mar 2025 02:00:25 +0000 (UTC)
+From: Fatura Mei <assasleonardo@gmail.com>
+Mime-Version: 1.0
+Message-ID: <lL0e8ZXRTlKjiqPVuoU5wg@geopod-ismtpd-20>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #2630
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAk7M6whIzrhexF3rHdYhPLsIbPCRL0egSizPPmWOYwsIm9ddCQ6GUz7Py?=
+ =?us-ascii?Q?e0dBlnhuuiCaKVzl5IwwzcLlC0a2MJr=2FMXxCYYO?=
+ =?us-ascii?Q?72j1NLEWmke7jkqEdb2GtHmIE7CW7MNdm+FcclC?=
+ =?us-ascii?Q?lD=2FiLemh4yl=2F3fF5y=2FSS7dyiRahbXX67m3RiE0r?=
+ =?us-ascii?Q?OOOzBGldqzvyfaljEs=2F0dhRWBXRjNDmN+amAgsU?=
+ =?us-ascii?Q?HWZpSqfAjCWm1QNuEuxS1=2Fm3uckB67qGng97PUL?=
+ =?us-ascii?Q?LiTutTIBRy4fEL+BRtZ0HaUYOA=3D=3D?=
+To: furtadodarosaluispaulo@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <div style=3D""max-width:640px; position: relative; padding: 20px 20px 2=
+0px 20px;"">
+        <!-- INVOICE INFORMATION -->
+        <div style=3D""font-size: 20px; color: #5274FF; font-weight: bolder;=
+ margin-top: 20px"">LEMBRETE DE FATURA PARA 53.268.205 LUIS PAULO FURTADO DA=
+ ROSA</div>
+        <div style=3D""margin-top: 20px"">
+            Informamos que o CNPJ da sua empresa foi emitido com sucesso. P=
+ara concluir o Registro Digital, =E9 necess=E1rio o pagamento da Taxa de Re=
+gistro.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            Este procedimento =E9 essencial para que sua empresa esteja reg=
+istrada nas plataformas oficiais e vis=EDvel nas buscas online.
+        </div>
+        <div style=3D""margin-top: 20px"">
+            A falta de pagamento poder=E1 resultar no cancelamento do regis=
+tro, impedindo que seus clientes encontrem sua empresa. Ap=F3s o pagamento,=
+ o processo ser=E1 conclu=EDdo em at=E9 5 dias.
+        </div>
+        <div style=3D""margin-top: 20px;"">Ganhe tempo: Para concluir o pagam=
+ento, <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KVg3=
+k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZjomCH_aiACJsG9MZ=
+y7DxPMrp0tNzPOvuMt8Pw-2FNw1lGGmWe-2F-2B7WpdsyW4ifJ-2Fn4kD7I-2BKVUNtKakZ-2B0=
+PEpYrK0nGGma4coR17pn57JqfN0gRqJYVciYz1OA-2FWXC2HoAjyg3F6Lv-2Fn5FeW1SD7hFJqZ=
+lhSjkeeaYSJO3UHrSN6fHnSKtfCMoRNrHHG9Wr14hH625C0EvI6Zs5c8KdoD99hhJdFsY9urIYL=
+-2BpLKE8dax6G-2B1wns-3D"">clique aqui</a> e veja as op=E7=F5es dispon=EDveis=
+.</div>
+        <table cellspacing=3D0 cellpadding=3D2 style=3D""width: 100%; text-a=
+lign: right; margin-top: 10px"">
+            <thead style=3D""text-align: right; font-size: 10px; color: #9A9=
+A9A"">
+                <tr style=3D""background-color: #9a9a9a"">
+                    <th style=3D""text-align: left; color: #3E4444"">DESCRI=
+=C7=C3O</th>
+                    <th style=3D""text-align: left; color: #3E4444"">QUANTIDA=
+DE</th>
+                    <th style=3D""text-align: left; color: #3E4444"">VALOR(R$=
+)</th>
+                    <th style=3D""text-align: left; color: #3E4444"">TOTAL(R$=
+)</th>
+                </tr>
+            </thead>
+            <tbody style=3D""font-size: 12px"">
+                <tr>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">Registro Empresarial</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">1</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                    <td style=3D""border-top: 1px solid #60AB30; text-align:=
+ left"">R$ 99,90</td>
+                </tr>
+                <tr style=3D""color: #3E4444"">
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                    <td style=3D""border-top: 2px solid #60AB30""></td>
+                </tr>
+            </tbody>
+        </table>
+        <div style=3D""margin-top: 20px"">
+        <div style=3D""margin-top: 20px""><strong>GERADA EM:</strong> 11/03/2=
+025</div>
+        <div><strong>VENCIMENTO:</strong> 15/03/2025</div>
+        </div>
+        <a href=3D""https://u50407563.ct.sendgrid.net/ls/click?upn=3Du001.KV=
+g3k6Qd2MVE4quED5Xfv1lOd5p26okz5QJY6xaeNNC6hlYCh8Du1jnizGDhqrZjnGoH_aiACJsG9=
+MZy7DxPMrp0tNzPOvuMt8Pw-2FNw1lGGmWe-2F-2B7WpdsyW4ifJ-2Fn4kD7I-2BKVUNtKakZ-2=
+B0PEpYrK0nGGmayH740ua7ulvDV3xCoF4CW6AQ9xZrYWXi5QQPe9mgOWLb4PWm1fGlj4XrkDB2N=
+zHag1rTI970TNfL-2B-2BK-2BDxVMHBDoHU7s8Yx3IwMeDDtFNTraja1zWhI1yRj-2FV7F-2F1F=
+PyCwG4dtL3RW2rNx26M9SFfg-3D"">
+            <p style=3D""text-align: center; border-radius: 11px; padding: 0=
+px 20px; line-height: 45px; background: #5274FF; color: #fff; margin: 0 aut=
+o; width: 25%; font-size: 20px; margin-top: 15px;"" target=3D""_blank"">PAGAR =
+A FATURA</p>
+        </a>
+        <div style=3D""margin-top: 20px;"">
+            Atenciosamente,<br>
+            REGISTRO ELETR=D4NICO NACIONAL DE EMPRESAS.
+        </div>
+        <div style=3D""margin-top: 20px; font-size: 12px; color: #888;"">
+            Este =E9 um e-mail autom=E1tico disparado pelo sistema. Favor n=
+=E3o respond=EA-lo, pois esta conta n=E3o =E9 monitorada.
+        </div>
+    </div>
+    <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.mzM9-2=
+BAMhafPMkFZ-2FAzHaZWjHqgrGZInJtl2yU9V1ZNenY-2FmMxebkLDNjKKW49Pkp-2FxXw7l-2F=
+-2BZ4y5rj12pgA-2FtEzfbCVbmDUokVelN9QRl4BfWD7XQyRpnxAU-2Be3IGpnD8vF0jLeOOjYe=
+dxukT5DPMCzhTFIBRTi1CGyDAJXAouibGma3WkDfie6KAPsI0FVSf1268DsjVbarcA-2Bbn2Lwb=
+LUcawJs5Bm6Qm3xUaF83wQ-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/>","""Fatura Mei"" <assasleonardo@gmail.com>",furtadodarosaluispaulo@gmail.com,2025-03-13,131.72.150.45,Brazil,pt,users/50407563/53f8c9d4-e5a2-4674-951c-35332140b71b.json
+50407563,y1MEWzvUT8Kucd6iBd4Evg.recvd-578d769b87-w59t9-1-67C0A98B-8B.0,cHJvY2Vzc2VkLTUwNDA3NTYzLXkxTUVXenZVVDhLdWNkNmlCZDRFdmctMA,Fatura de Serviços - MEI #8094,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=MZcPxCr5EOmrHQO8JHqvi7tkZ3Hq8sL6DKwpwyvK6a4=;
+	b=cWfmd+iE3zxKy/4wmDHPjYLN76LtvNEOnM11d8KrhEPUabRBJHCoVBuyArC81XnFL/xe
+	7WVFluE9SSAhTI8GuacKJMJ05QEl/3wjc6wKzKZ1w2p42k5rmzJpfaUDbn4yfe1u986wiu
+	nn5AJwGvvkMpIuifeKsMphGTKxFoUVanQ=
+Received: by recvd-578d769b87-w59t9 with SMTP id recvd-578d769b87-w59t9-1-67C0A98B-8B
+	2025-02-27 18:06:03.796486985 +0000 UTC m=+9060260.502866967
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-6 (SG) with HTTP
+	id y1MEWzvUT8Kucd6iBd4Evg
+	Thu, 27 Feb 2025 18:06:03.741 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Thu, 27 Feb 2025 18:06:03 +0000 (UTC)
+From: Regularize Mei <billv0908@gmail.com>
+Mime-Version: 1.0
+Message-ID: <y1MEWzvUT8Kucd6iBd4Evg@geopod-ismtpd-6>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #8094
+X-Feedback-ID: 50407563:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULSFsWPNp7ubIMtKui70Con=2FKVchx7tOjroZgH?=
+ =?us-ascii?Q?3jRVxlUi6TWVFTyheRekzkbw8rYoIscjimWggBr?=
+ =?us-ascii?Q?=2FS93tIfMjneojkzsEH2yXnYK=2FDC9sk7UEVGX1yr?=
+ =?us-ascii?Q?S7mnFry=2FxpHX9CGawd1qz0R2o=2F8uJcI3bM2iMMI?=
+ =?us-ascii?Q?9+2lv2Nj=2FEfit+lJK0OaimILvE8BeLI69gwIlA7?=
+ =?us-ascii?Q?9ESiKACZr2aiUKBhqnpsc3kaTLHnFTwaKlhEQDY?= =?us-ascii?Q?9t3I?=
+To: juliaclbarbosa0@gmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>55.052.322 Julia Cristina de Lara Bar=
+bosa</strong>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>55052322000176</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>05/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.KVg3k6Qd2MVE4quED5Xfv4iEwI5ZXYLa9k7I0D25Wy1mXaVn8KqnaS9jRXroksmMwil=
+4_w1A250MJ7hWc5btII3Jg-2BkUmoS1Dk7rF69L0HX-2Bhk-2B0JRJgJLZMANRgeKvcIqJH9rxj=
+wwQfJMY29GUFBg5kRwzRRa-2BPquSn-2BGoUCJWGGynwKzh1BOTi-2FVfNjlK2JwRS0lUuG7jci=
+UA9F2Dx67x7rvz6jlzOK6pwWpXW4-2FuXTxGA-2BFX7f5l3GAT1TbtYL7Rk-2FLiEoED2wxb6ao=
+0n-2F5cSFwA-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</=
+a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.It=
+55CoiiE-2BxyG3NbRnmy82NyQH4YUFHzQS4NLPLk-2BY3tpXxmkHf0wkSM5Kd8eGZxhDp2PVMg1=
+1tgREMP7LZs8-2BY7BQ9Kan1wNq9mbLkSF8LfXLyw-2BnQi1GAITemJMA1lVqqB6xvlCDxJsmy5=
+-2BJJYA4Mc4HOY9cCK8hyjminJOthT7ZQSg6zaRkSv-2F7-2FzJS-2F2zgTS0pdDnA8hW49TsS7=
+N45QEyrMAPnpLX5jQu99nwR8-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Regularize Mei"" <billv0908@gmail.com>",juliaclbarbosa0@gmail.com,2025-02-27,177.223.76.102,Brazil,pt,users/50407563/c1486015-5ef9-40d1-ab5d-e4284bc834fd.json
+50407563,yoawn8PNQPC6zxFeHLVJYQ.recvd-8575c86f9d-bdcf2-1-67D5F8C3-13.0,cHJvY2Vzc2VkLTUwNDA3NTYzLXlvYXduOFBOUVBDNnp4RmVITFZKWVEtMA,Fatura de Serviços - MEI #2473,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=+QSknB/1/AEk1wiacbYRPruLbcHhPTx0TuuXZ5bjkMs=;
+	b=VhOkSwAYphi3hOCik1w+DKI4S1KNrx47sMQPAa+1XmSuptQybcKxJR1X6Zft0b7k5JSW
+	+jyci0e8Vu5ESxbjF96tOkyO8YuzC/Nx0s1zDa93VcS9TphIG9LZ1gHcv+xgkZVwrMaNKB
+	mX/ICIa+rM0QKEtDxWmviMVaS4GTfUNsg=
+Received: by recvd-8575c86f9d-bdcf2 with SMTP id recvd-8575c86f9d-bdcf2-1-67D5F8C3-13
+	2025-03-15 22:01:39.225108374 +0000 UTC m=+10456694.542959847
+Received: from NTA0MDc1NjM (unknown)
+	by geopod-ismtpd-4 (SG) with HTTP
+	id yoawn8PNQPC6zxFeHLVJYQ
+	Sat, 15 Mar 2025 22:01:39.212 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Sat, 15 Mar 2025 22:01:39 +0000 (UTC)
+From: Regularize Mei <billv0908@gmail.com>
+Mime-Version: 1.0
+Message-ID: <yoawn8PNQPC6zxFeHLVJYQ@geopod-ismtpd-4>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= - MEI #2473
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EQvQokHSiKFoV7IU1quWULSFsWPNp7ubIMtKui70Con=2FKVchx7tOjroZgH?=
+ =?us-ascii?Q?3jRVxlUi6TWVFTyheRekzkbw8rYoFlR9gMpms8m?=
+ =?us-ascii?Q?0LRwuIZ6pO1Pnjy8hnld8ybeD9G40qCRYoheNVv?=
+ =?us-ascii?Q?rGF3Sd8A6xO0gKi1M2YSR6z5R2pTvBuOpDYHaFa?=
+ =?us-ascii?Q?djMOGcw8IUw0SVYKxcV9dF3o8MVawIC7AQl+L5W?=
+ =?us-ascii?Q?FjihvFkbkJv+kZ2BYsnz2h=2FG2MzeitF186QvhpL?= =?us-ascii?Q?TS2X?=
+To: nelio.muniz@hotmail.com
+X-Entity-ID: u001.HriHSxzlY2qoxYUDgZDX2g==
+
+
+    <html>
+        <head>
+            <style>
+                body {
+                    font-family: Arial, sans-serif;
+                    background-color: #f4f4f4;
+                    margin: 0;
+                    padding: 20px;
+                }
+                .container {
+                    max-width: 600px;
+                    margin: 0 auto;
+                    background-color: #ffffff;
+                    padding: 20px;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                }
+                h1 {
+                    color: #2c3e50;
+                    font-size: 24px;
+                }
+                p {
+                    font-size: 16px;
+                    color: #555555;
+                }
+                .highlight {
+                    color: #e74c3c;
+                    font-weight: bold;
+                }
+                .cta-btn {
+                    background-color: #3498db;
+                    color: #ffffff;
+                    padding: 12px 20px;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    display: inline-block;
+                    margin-top: 15px;
+                }
+                .footer {
+                    text-align: center;
+                    font-size: 12px;
+                    color: #888888;
+                    margin-top: 20px;
+                }
+                .table {
+                    width: 100%;
+                    border-collapse: collapse;
+                    margin-top: 20px;
+                }
+                .table th, .table td {
+                    padding: 10px;
+                    border: 1px solid #dddddd;
+                    text-align: left;
+                }
+                .table th {
+                    background-color: #3498db;
+                    color: white;
+                }
+            </style>
+        </head>
+        <body>
+            <div class=3D""container"">
+                <h1>Fatura de Servi=E7os - MEI</h1>
+                <p>Prezado(a) <strong>58.822.070 Nelio Antonio Muniz</stron=
+g>,</p>
+                <p>Estamos entrando em contato para informar que seu CNPJ <=
+strong>58822070000105</strong> est=E1 com a fatura pendente.</p>
+                <p>Detalhes da cobran=E7a:</p>
+                <table class=3D""table"">
+                    <tr>
+                        <th>Valor</th>
+                        <td>R$ 99,42</td>
+                    </tr>
+                    <tr>
+                        <th>Vencimento</th>
+                        <td>15/03/2025</td>
+                    </tr>
+                </table>
+                <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Regular=
+izar seu MEI.</span></p>
+                <a href=3D'https://u50407563.ct.sendgrid.net/ls/click?upn=
+=3Du001.N8qbBHxWp3GFORU-2FBL4UxjWB-2FJNmqj8mIJNLz4OqUeLZzxmhStpxrngK5tXXtJn=
+rzh8e_W9-2BQKJ9xOkObDRO835TtI7gHIWrY8-2FJ8fN0iGFIi-2BloO4Ubt-2BB-2FCTUYARc5=
+XOY5q4X4KvyPayRvs7wc-2BErviXDLoBwwTrWHEWU3du9Y936wAgQXVH4ImEIs1s4voqUwlOHKG=
+eXH6aNskxvvwniEJu8VxZtfZabBDFQ-2FEkv5lZX0v6fT6CzVSM3B83G3gPTP3FfBO9VoB568T8=
+lIEBxKasA-3D-3D' class=3D""cta-btn"">Clique aqui para Regularizar seu MEI</a>
+                <div class=3D""footer"">
+                    <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FAvida=
+s, entre em contato conosco.</p>
+                </div>
+            </div>
+        <img src=3D""https://u50407563.ct.sendgrid.net/wf/open?upn=3Du001.hC=
+-2FFdFvN3YAuuTHNC-2F5KCGNkU7fqvyP7emYki7HiZh2otzq0tUYjUCBEJzb8rYA6VGdiDskCS=
+NHYDDzfbwdKlhAIFzFZZZIKLl-2BoUPAsKSsvb-2F-2FnAqEBw9mY6AY9K-2FcYt5gbRPqNveuN=
+8v9KHN7d0F-2F4Q4jElJRCMBhItwFrHiXEe-2BMlPkuxXU1o1SxC1I8tXekYNuCQanmNUFoT0d1=
+0bN8e6VU4aB3DLGz8MUq0jbk-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+    </html>
+   =20=
+","""Regularize Mei"" <billv0908@gmail.com>",nelio.muniz@hotmail.com,2025-03-15,177.223.72.80,Brazil,pt,users/50407563/126ff8b6-9be9-472f-9369-ec1736371f8e.json

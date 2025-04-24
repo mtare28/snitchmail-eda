@@ -1,0 +1,272 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51058680,7vzjBhZ3SGefy7SGvdregw.recvd-69cbc48b94-m2msw-1-67C85660-F.0,cHJvY2Vzc2VkLTUxMDU4NjgwLTd2empCaFozU0dlZnk3U0d2ZHJlZ3ctMA,Sam's Club Order Receipt,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=UMf4qliHhaGZtJzKlv7QPqvov+sp93zim8H0o5iyacw=;
+	b=q4DozPUj3gDtCqqwmGgeoROUbkM+9/n56El7+pjoczUKcjCIXzhS4iv2O7jwuOQTLMni
+	YYCeoq4emvWktkAJKEoyR3OkBZX2H/YfR5BmBCo9Qa8Bz1f5fx08YV+cw84O17iEm+mK6r
+	LzUe02P+C00RkaF5LK/ER+BrDWCXQeMuY=
+Received: by recvd-69cbc48b94-m2msw with SMTP id recvd-69cbc48b94-m2msw-1-67C85660-F
+	2025-03-05 13:49:20.808337865 +0000 UTC m=+9563279.864103252
+Received: from NTEwNTg2ODA (unknown)
+	by geopod-ismtpd-19 (SG) with HTTP
+	id 7vzjBhZ3SGefy7SGvdregw
+	Wed, 05 Mar 2025 13:49:20.787 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=14a0ec7ec1669a96c6306161d81963228f3cd9a8009f9852948629282910
+Date: Wed, 05 Mar 2025 13:49:20 +0000 (UTC)
+From: Keith <charliekeith87gf@gmail.com>
+Mime-Version: 1.0
+Message-ID: <7vzjBhZ3SGefy7SGvdregw@geopod-ismtpd-19>
+Subject: Sam's Club Order Receipt
+Reply-To: charliekeith87gf@gmail.com
+List-Unsubscribe: <https://mc.sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Feedback-ID: 51058680:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EGR6RwGZ5G800H99MN9NJKTOfxGwifAnnjWrwOkHM70D1rpCxKyAH0b1Xi?=
+ =?us-ascii?Q?H8hJ9cEq=2FNO6oVj8qA4Es29QbuTzXg9EPZiyVvD?=
+ =?us-ascii?Q?Q567j3cqIU1xGba+tGQ91xDQdilDTQ6BfP5rfA0?=
+ =?us-ascii?Q?N1Cu3iyWkuBhxJQ7yOgwkeYXJyDQEqbVObVC9U5?=
+ =?us-ascii?Q?xloGwGvoamvPS858A3ROJLQxACYlKC0Jo7BlTFI?=
+ =?us-ascii?Q?6TQppv1EXmar3YgHGS1yBbmKy4kHnzEFeuPNQzj?= =?us-ascii?Q?8QrW?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsUdekbZy34hI=2FSbdTC0d6DbDlE?=
+ =?us-ascii?Q?kxIZYEX1qd7OdTM5oaL41YvBFHr4K1pHzdkaFDi?=
+ =?us-ascii?Q?ktfNg9yeyszhgoX2kiQObcmwpd1n4qpvfM3Xhor?=
+ =?us-ascii?Q?O55yzUENlxDgGHWjd6IzttnnZa7OoTwp3YAv4=2Fc?=
+ =?us-ascii?Q?Uaz50YQN+LRgBJQD678V6rQLwdP=2Fqi+vuJewi8R?=
+ =?us-ascii?Q?4E8Kl=2FE3KaGH6n42aAVAszCUvvZDrPbw5W2pQs9?=
+ =?us-ascii?Q?Y6PLqCF0hSxtvDsoF=2FjS9z6V5sUG=2FJYRmgSS11O?=
+ =?us-ascii?Q?js0kMRHcYmugiK6GxUKyenLKbl3gZkoXecymq87?=
+ =?us-ascii?Q?l8eOjkJA5s7ivRrRW=2F8RW8S22BFKOe1GBfFnwjx?=
+ =?us-ascii?Q?XoT6ri9cXl=2FqeaDhj5JeeO5B9=2FUtrpxPlb8L2Yx?=
+ =?us-ascii?Q?5E5M+COcR7Z7=2FyvshJ1fl1FGkUUny4etECj0sxe?=
+ =?us-ascii?Q?nD+I=2FJmAbo8qpUpYUKet98H+=2FoeB047Ke=2FTLbQf?=
+ =?us-ascii?Q?1Z=2FmmBoTzOTRNYLuVJLzEbLJwrBgllzW6dkkG4R?=
+ =?us-ascii?Q?IlZGOh0Tpo8tXVuYbddv9JpVcMdFPr79p1t7xoU?=
+ =?us-ascii?Q?2TX2onYrf8NTE9iItHn8QY8Tz=2FfTWvP7nU+7k2D?=
+ =?us-ascii?Q?lt6Hwlh8=2Fpu8HCAKt3kWpi7FJZ3BZIooLc7Vh36?=
+ =?us-ascii?Q?mZockDIAj?=
+To: adrien.boussard@gmail.com
+X-Entity-ID: u001.XOniboGn/QxgdXIO/yj/7Q==
+
+--14a0ec7ec1669a96c6306161d81963228f3cd9a8009f9852948629282910
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+************************
+Sam's Club Order Receipt
+************************
+
+Thank you adrien.boussard@gmail.com for shopping with Sam's Club!
+
+-------------
+Order Details
+-------------
+
+Item Quantity Price Subtotal Samsung 85"" QLED 4K Smart TV 1 $1,799.99 $1,79=
+9.99 Apple MacBook Pro 16"" (M2 Max, 1TB) 1 $3,499.99 $3,499.99 Whirlpool Fr=
+ench Door Refrigerator 1 $2,199.99 $2,199.99 Bulk Grocery Pack (Snacks, Bev=
+erages, etc.) 1 $299.99 $299.99 Sectional Sofa (6-Piece) 1 $1,499.99 $1,499=
+.99 *Subtotal* *$9,299.95* *Shipping* *$0.00 (Free Shipping)* *Tax* *$650.0=
+0* *Total* *$9,949.95*
+
+-------------------
+Payment Information
+-------------------
+
+*Payment Method:* Online
+
+*Payment Status:* Paid
+
+**************************************
+
+If you have any questions,
+contact Sam's Club at
+18086631380 ( tel:18086631380 ).
+
+=A9 2023 Sam's Club. All rights reserved.
+
+**************************************
+--14a0ec7ec1669a96c6306161d81963228f3cd9a8009f9852948629282910
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D""en"">
+<head>
+  <meta charset=3D""UTF-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"">
+  <title>Sam's Club Order Receipt</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    .receipt-container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+      text-align: center;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #dddddd;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 24px;
+      color: #333333;
+    }
+    .header p {
+      margin: 5px 0;
+      color: #777777;
+    }
+    .content {
+      padding: 20px 0;
+    }
+    .content h2 {
+      font-size: 18px;
+      color: #333333;
+      margin-bottom: 10px;
+    }
+    .content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+    .content table th,
+    .content table td {
+      padding: 10px;
+      text-align: left;
+      border-bottom: 1px solid #dddddd;
+    }
+    .content table th {
+      background-color: #f9f9f9;
+    }
+    .footer {
+      text-align: center;
+      font-size: 12px;
+      color: #777777;
+      padding-top: 20px;
+      border-top: 1px solid #dddddd;
+    }
+    .footer a {
+      color: #007bff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class=3D""receipt-container"">
+    <div class=3D""header"">
+      <h1>Sam's Club Order Receipt</h1>
+      <p>Thank you adrien.boussard@gmail.com for shopping with Sam's Club!<=
+/p>
+    </div>
+    <div class=3D""content"">
+      <h2>Order Details</h2>
+      <table>
+        <tr>
+          <th>Item</th>
+          <th>Quantity</th>
+          <th>Price</th>
+          <th>Subtotal</th>
+        </tr>
+        <tr>
+          <td>Samsung 85"" QLED 4K Smart TV</td>
+          <td>1</td>
+          <td>$1,799.99</td>
+          <td>$1,799.99</td>
+        </tr>
+        <tr>
+          <td>Apple MacBook Pro 16"" (M2 Max, 1TB)</td>
+          <td>1</td>
+          <td>$3,499.99</td>
+          <td>$3,499.99</td>
+        </tr>
+        <tr>
+          <td>Whirlpool French Door Refrigerator</td>
+          <td>1</td>
+          <td>$2,199.99</td>
+          <td>$2,199.99</td>
+        </tr>
+        <tr>
+          <td>Bulk Grocery Pack (Snacks, Beverages, etc.)</td>
+          <td>1</td>
+          <td>$299.99</td>
+          <td>$299.99</td>
+        </tr>
+        <tr>
+          <td>Sectional Sofa (6-Piece)</td>
+          <td>1</td>
+          <td>$1,499.99</td>
+          <td>$1,499.99</td>
+        </tr>
+        <tr>
+          <td colspan=3D""3"" style=3D""text-align: right;""><strong>Subtotal</=
+strong></td>
+          <td><strong>$9,299.95</strong></td>
+        </tr>
+        <tr>
+          <td colspan=3D""3"" style=3D""text-align: right;""><strong>Shipping</=
+strong></td>
+          <td><strong>$0.00 (Free Shipping)</strong></td>
+        </tr>
+        <tr>
+          <td colspan=3D""3"" style=3D""text-align: right;""><strong>Tax</stron=
+g></td>
+          <td><strong>$650.00</strong></td>
+        </tr>
+        <tr>
+          <td colspan=3D""3"" style=3D""text-align: right;""><strong>Total</str=
+ong></td>
+          <td><strong>$9,949.95</strong></td>
+        </tr>
+      </table>
+
+      <h2>Payment Information</h2>
+      <p><strong>Payment Method:</strong> Online</p>
+      <p><strong>Payment Status:</strong> Paid</p>
+
+      <h1><p>If you have any questions,<br> contact Sam's Club at <br> <a h=
+ref=3D""tel:18086631380"">18086631380</a>.</p>
+      <p><div class=3D""footer"">=A9 2023 Sam's Club. All rights reserved.</p=
+>
+    </div>
+  </div>
+    <div class=3D""footer"">
+     =20
+<img src=3D""https://u51058680.ct.sendgrid.net/wf/open?upn=3Du001.Xjplrz-2F8=
+m77EdGwVvIRTb5b4-2B59pBkEIvejpqZK5X0JYTg1CnZCSf8HcLpz5d6GDNqIiNTJ4GkGfpa85v=
+4NICTcYSfaBe27tso7y6BFDSLqEXBL3UhkM1diW00ox0h9YHV3oNikb5BbOIB6woNx4xkaXPSzK=
+kLNRi7N5sLjUExZWKJoz7AvofUYroixYG3wRpgSot4sYYXmFroxtPgSliN3Z-2F5oRjmlAlPo76=
+91mnmDxtEh6LWgDNOysL151-2FFmMVGKpyfTVuB7u47y-2FQcMuJvSLICtqPPCviNQvKQruc-2B=
+ta6s-2FCWQiTt5k9hSBFLqV4ay4qy6ss4NnYNrmbGGd3kGnJKI1I3swXC-2FwcAnu10brD-2F0l=
+0APBbQ2gxT3jXhY1kI7zGsaZ39pNhw4tpG1te0p2VBiCZpsW-2BKLA1EffInN6K23QA6f16ONur=
+Zz-2BJt7JIf1XlOhSDak08w6jzLdt1qwtLeLukeAwyhE74OXts3Qc1fPeR-2FgxzYoOjA1OBNjU=
+7BgpQLpW20ZOFlGSTfDBHOzp2gErNERbd7dxMOHrml0tHcGRfJFQzgsxxcpve-2FpAf99fTOHUX=
+VECFUCSvp44HX9LEwl1CzomxtuXwQRTVnpJ52dvmqwnfewWQoYGNC2zKMZ9-2Feyms1-2FCT7to=
+W2mCm3vwRtz2Umhvodg7uhWFtIe6z3GOX-2BJYvwuAOSKIs-2FCnuJWhetpvNmxBkaS-2FQYB3z=
+SUzPYATqVDVRdasv6HC8hNMCt30-2Fw2z4f1NhKREmRUPRYuO5wQ-2BGEnX7HqgYwk7wBuqf1J-=
+2FN-2Ffk7YzrY1q7ZWVEjIAi2pOVN59Wcip9py5v6jqiOL1TyVresweS5fIOoxxfsCkS7cYSVS0=
+Ulnae0UNKzjqjn8NipAuguv7556vQQLJsKsKTkGoUf6OeMAgD6pNN-2BhaMjhW8rNGjSZu8pe15=
+JXzhxQCBxIIm310teikkW"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+--14a0ec7ec1669a96c6306161d81963228f3cd9a8009f9852948629282910--
+","""Keith"" <charliekeith87gf@gmail.com>",adrien.boussard@gmail.com,2025-03-05,44.198.45.247,United States,de,users/51058680/99431039-1ff4-472c-b651-2d741c3b343e.json

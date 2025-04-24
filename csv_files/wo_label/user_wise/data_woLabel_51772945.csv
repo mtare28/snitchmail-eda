@@ -1,0 +1,464 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51772945,3dPRY20FREC0EZHt2bvCEw.recvd-8575c86f9d-5kp8t-1-67F01061-C5.0,cHJvY2Vzc2VkLTUxNzcyOTQ1LTNkUFJZMjBGUkVDMEVaSHQyYnZDRXctMA,Thank you for your purchase!,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:feedback-id:from:subject:to;
+	s=smtpapi; bh=izUY5kvLLa8dJ8nISw0mV0k3fYWh/cIfSI4rCy3EKMY=;
+	b=lgU4z7yocPensJ/pVpB4inTYP/5OabCCsJNzoAaBQoarfGDwNGF7hD+MNW+l25xWzMOs
+	vmQLX8GBZF1LOfAwdrQqBjH1j2B5gQGMB+w2srvjCl8i2fzCAgChI4hoQEE80QOlyobDPL
+	uZsuSY5dN/nM+yI3nJ3kN7CBzLhqyAIqU=
+Received: by recvd-8575c86f9d-5kp8t with SMTP id recvd-8575c86f9d-5kp8t-1-67F01061-C5
+	2025-04-04 17:01:21.971200602 +0000 UTC m=+12166636.762956991
+Received: from NTE3NzI5NDU (unknown)
+	by geopod-ismtpd-23 (SG) with HTTP
+	id 3dPRY20FREC0EZHt2bvCEw
+	Fri, 04 Apr 2025 17:01:21.937 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=fc74bbcd611e01b02841db957c4bf063623c1ac9a59a7c7154475cfb3d5e
+Date: Fri, 04 Apr 2025 17:01:22 +0000 (UTC)
+From: Jessica <jessicahauffman31@gmail.com>
+Mime-Version: 1.0
+Message-ID: <3dPRY20FREC0EZHt2bvCEw@geopod-ismtpd-23>
+Subject: Thank you for your purchase!
+Reply-To: jessicahauffman31@gmail.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmEus8zl=2FixAObKFiuFVBah24+uAB8jEljfXQYgk1f5I27AlUb0ZOed97R?=
+ =?us-ascii?Q?dksZzBdQ7OMRgfyD6OVaVrWi9e6eRtne2z1EEEb?=
+ =?us-ascii?Q?tHvWC8e4E8LeLKdWBY4GnFYMkdOET1LmkwXQjJD?=
+ =?us-ascii?Q?u+vagiL=2F5O6Uzzxd7Zy1bMfD+y5DtTvHjYbTolh?=
+ =?us-ascii?Q?DLdHs4Mh+tGxorB3tKxAYDnx7MJX067xwsSoK7y?=
+ =?us-ascii?Q?qkOgNMQyy4RTqRZQW1I3AKh1+EsSkO9UX3n4ILZ?= =?us-ascii?Q?6FET?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfbRmOjE0sXBHysGPX8Cz=2FPTRLu?=
+ =?us-ascii?Q?Q8c7EBgBLcajQzkX8XshTVB7tFsiJqnrqVBHh3O?=
+ =?us-ascii?Q?ZXKrfoamFSMvTfdzDBBY1XqNDOVGFNLMSVNLlhZ?=
+ =?us-ascii?Q?Pcd9Ezzg18Ts0tY6UhGhW8cX3IdQsJ2fa9gzNtv?=
+ =?us-ascii?Q?5Fh6Kr7q6Owz=2FBPaL0HGexd7AJMiuiVngW880Is?=
+ =?us-ascii?Q?78A1DoVQMZ71Zhnujf3gTmc2H8rvW79w4HG3EUv?=
+ =?us-ascii?Q?w1pKIdAZZ8wJOZwkTT+jaYO9LIF0SAfPROfB1bx?=
+ =?us-ascii?Q?Y3Srmj5wgHoxjj3ECQA+Zf0deaKvdD55RF0WlJy?=
+ =?us-ascii?Q?cVQiOZBDwaZrMIa4dfV1RU4QOzclOI1xX9uXsCY?=
+ =?us-ascii?Q?i01TZ8BDdCSjPqs3ER8LiY6D9UHS2MwvZt+RvnU?=
+ =?us-ascii?Q?nxQ4d6310NOMTgdJIwCXDuj+5KdNhBvPvbf7=2FE5?=
+ =?us-ascii?Q?pbWMKH9Ww4bUoWjzwHcTm5i0x7S0Q0FpU39Jilx?=
+ =?us-ascii?Q?rJJXshFmDke+M5nUegM7QuAZv4QUxsK=2F8r=2FyS=2FL?=
+ =?us-ascii?Q?VMkVRBNAndZfLoijZ535Bz1TdJTlTlDOYELcR8M?=
+ =?us-ascii?Q?iPwKtMrJBGp3g3Dlrb0eECs?=
+To: meowta523@gmail.com
+X-Entity-ID: u001.5WnUEsSOGwJBJ9Cmswnx0Q==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51772945=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Erivi?=
+ =?us-ascii?Q?NEAyF3EJbCXGDnxUALwnFMVReSx3QXnx5nnXwCW?=
+ =?us-ascii?Q?vbZoLwmsre35oaj8vOJq53nHpn2edhEicNCiO16?=
+ =?us-ascii?Q?qdOaA54KjGtJOGHylosxfOYGNjWVQmUStdS-4aT?=
+ =?us-ascii?Q?kxj67fJPR06jgCQe=5F5kMnmW4bLSeQSOVSYKAEgC?=
+ =?us-ascii?Q?0wYK8lBwJdmbfiGwYIYufBjFQdPfp6G33JpB6j3?=
+ =?us-ascii?Q?oCbmMKl=5FdTDunnjPI4EqEVeEdyqxbPxFh2bIr31?=
+ =?us-ascii?Q?cwDu=5FNfr47I1ycCK=5FI8SfWoM2En1mvsfyXpFXq2?=
+ =?us-ascii?Q?Xk3Vt03yTEtuK=5FedFmkoYnCmF4j0nmru6J5Ceez?=
+ =?us-ascii?Q?f5sh-3OrRsquFHhqFwt-8EpYNH6Irx94kpKZxd7?=
+ =?us-ascii?Q?2nwiWac2B1Ftj5pXUDdySHeKHklFKvOW0or71=5F6?=
+ =?us-ascii?Q?m=5F9kMMGYUvly0MHaCN9DFNwPlDK7M3YgwXF2rH5?=
+ =?us-ascii?Q?X6EhU1kkI1-dLWElIEBXmPsFqIrqmBMoEKpDHRe?=
+ =?us-ascii?Q?WFz71HMnGIuQs4-AIfVWmZFsoMpvnWhhKvvcIlw?=
+ =?us-ascii?Q?oD9=5Fb0G7qCln0qLlZsm-c6mimr6OqdZMq27AaX7?=
+ =?us-ascii?Q?XaBf77w3qL1vgBKpYzk-YOx0en7gIMZdQ8rAmXq?=
+ =?us-ascii?Q?GlsyyAX16jQeUzB5LftD7MX-76YphHenmg2DKpj?=
+ =?us-ascii?Q?ssvMbHBHy5doS-cEvoO-w9WyLXFcrswAZ9giH-U?=
+ =?us-ascii?Q?SC0F7WaDEZJjVb8uYUzhiDUlLGcNBb-FBI1Nr2S?=
+ =?us-ascii?Q?-hNZHp8ZnIi=5FXycA9=5FTfuTafGXOAGTglWsAC498?=
+ =?us-ascii?Q?=5FQyLcbpJumPbR4yvXK-WiyN5Il6cjlmaDlj=5FQVL?=
+ =?us-ascii?Q?ViveVOvpHzBgZe87ha06lXa7b0hDMKj2NyWJ13H?=
+ =?us-ascii?Q?pN29=5F4ZT4FfLYAAIIz=5FTNY6aPbM5194YyzCZRgd?=
+ =?us-ascii?Q?0Q6vyfBiBhKSeKxRmCN6Ppb914bv6kINrO4zR6u?=
+ =?us-ascii?Q?R5MtzOfzMOH7t2f9mFDHLzplqU4Ai0Qn1rzuAeH?=
+ =?us-ascii?Q?STIJwxY=5FjUbC64TfvKK294SbO3GI8fgT0mVgnPx?=
+ =?us-ascii?Q?RbgAeKwt6xH0L2q44miDNHQ8WycCR3igIY8wvGY?=
+ =?us-ascii?Q?T2jlKF6kKCU9OOoFaJRG2xoJFEGYhlwH55Y-uwA?=
+ =?us-ascii?Q?EDvgswnG5ZNssMDHLi7qYlfm2dz-hsORUJZvS19?=
+ =?us-ascii?Q?IOCWWCZ2waYUPI5lSp-xYiFXWEQQmp4fPTPPb7Y?=
+ =?us-ascii?Q?8IAImBM=5FmJkFysRtJxbdTxKJHR2510kLxm0b-Hx?=
+ =?us-ascii?Q?4hwOYWTu8hMEzLFriKUUwFuvdwXYAhbQsX6-7t8?=
+ =?us-ascii?Q?fJqK8uIo34bFIybqadsGM6y7lQ4zUkibvX94Eok?=
+ =?us-ascii?Q?glOJr=5F28pG9ing9xnZzOHAUqZK3tZ0JAwwHxbh4?=
+ =?us-ascii?Q?qxRXFB2rzpI-EsGFajHYhGjdomtexhB0qO3Udib?=
+ =?us-ascii?Q?0dObc=5F0fxDiPGRWkxu2iUje2LdpM3v9Q9nlZhGG?=
+ =?us-ascii?Q?UnirzQEshFN3pZMm09Gq3JgO2BWphCRqBkc9d93?=
+ =?us-ascii?Q?NABY779sutA5LEgz8MbeeeWcedhDGdktMVuhCT0?=
+ =?us-ascii?Q?0kkDNIm0X0IAkAAR80RvZPW9U-=5F4p18xy5Ffoeg?=
+ =?us-ascii?Q?71-3QnEHONckjlQpPiPdD10g9EglE0oBesIYsRE?=
+ =?us-ascii?Q?d7gJZ9AcbSgzrLliw1xXtfCVB0BQ3O39icTHO75?=
+ =?us-ascii?Q?147WdIyj6liKQcunelgZfruUkJs-0TpOkjpC=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3D51772945=2ETqvNK7hv5br13QuF6J0ndZG=5FtRQnS?=
+ =?us-ascii?Q?OWnUBQO3oNMxlNoMDAwdTAwMJpP79Y-YEeJzB4v?=
+ =?us-ascii?Q?-n7Rj2lyfgK42ZV9mdPO8xQk8-tb33zbxhcU6y2?=
+ =?us-ascii?Q?h00Y3Kwr35yiXz8E7sEUHgWs1OPOg9=5FzaXThhmx?=
+ =?us-ascii?Q?OPkb6uaKWf4zAP2cg52mIpt2W5sQnFpeVEAQ=3D=3D=2E?=
+ =?us-ascii?Q?XKa8OnSO9lCRqH-eqqBWCAJ4D=5FpaUne5SDdp3jP?=
+ =?us-ascii?Q?=5Ffo9oMDAwdTAwMPkcG80tyyQyAygaSVw8MRdTOp?=
+ =?us-ascii?Q?HVieOFB=5FGJ=5FObONaGYi9iG26X7TOi6m=5FPO0BVzy?=
+ =?us-ascii?Q?UQC2ht8RHaJNuyURAt0tVLfQkEto7wxqJV1r717?=
+ =?us-ascii?Q?QpQlidsGay4vcTgz5A7L-=5FSZ6477qZ7B90MygcI?=
+ =?us-ascii?Q?j7lzz0BdVcsDr1vBqlkfEFPqgEBTD8KIYlqcl4S?=
+ =?us-ascii?Q?z0FrOQknQN2U4PbrstEvkGDIkE00l-PSPThDeP=5F?=
+ =?us-ascii?Q?kTJKLjQPgPoL8t9s6=5F8xiOqEuITlxlRHQA=5Fxw-t?=
+ =?us-ascii?Q?fhFJfIgfA5xIv2g1r6xCSZDTLZjBu6-xyTiL1dp?=
+ =?us-ascii?Q?6RY4LBewnSxJzQFBlOKtdCa-U207BI7xzJ8gwPq?=
+ =?us-ascii?Q?JnQfgwOvEcOMGHv7=5FuT3gacxIy2E8RpBSqnexRA?=
+ =?us-ascii?Q?67JKvLGZf2mVkBkuTPv2uQ=5FUiAxitWUjmoZyHke?=
+ =?us-ascii?Q?92MDRUyRevWexFp7jCIyAW4q4NRuRZdIR1j-ixS?=
+ =?us-ascii?Q?XBrZ9yNfeMk35Eap1CxPbMamkzV3Xwn42N7E-sA?=
+ =?us-ascii?Q?8xZ4-nz0Zg5pmeKvoavW2U8wuy0LDGs40P=5Fq0yC?=
+ =?us-ascii?Q?WLjrU1CqdfRPb=5FyU9ZV6hKhjBQoX1n5TcmP0ZZo?=
+ =?us-ascii?Q?QbnM1t-An5WcMjw4DN-90fhNNiGNwieglev3NLK?=
+ =?us-ascii?Q?RW5QbItkSlqensKHr936S6IS25g-8-7SOSA3ywR?=
+ =?us-ascii?Q?HjYMW0GH6b0fO-7UI=5FhbgdVNpCiCKGmdhvZzSNz?=
+ =?us-ascii?Q?T=5F8qzRZC-hyWFd7OuQ5boei=5Faziyq25162cGnxi?=
+ =?us-ascii?Q?Xa9FbA5Qbtqn8dfNuRLbryDt12HgthDK0tB1mYm?=
+ =?us-ascii?Q?6y9SiS0BsnPZUaoLpLb-GQwPu9IN=5FLRSLtrNI-8?=
+ =?us-ascii?Q?BQzYHM6O1M6MoMnd2sqU2W=5FO4VA2-YQ8MouXzns?=
+ =?us-ascii?Q?G0diyto0SGAVld0bi0uWTAqRSbcbFcWnd7mY=5FDH?=
+ =?us-ascii?Q?acMzQjcWoSoR2Q=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--fc74bbcd611e01b02841db957c4bf063623c1ac9a59a7c7154475cfb3d5e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Dear PayPal Customer, (meowta523@gmail.com)
+
+Thank you for your purchase! Below are your order details:
+
+=F0=9F=93=A6 Item: Apple MacBook Pro 14"" (2024)
+=F0=9F=92=B0 Amount: $599.99
+=F0=9F=93=85 Date:04-04-2025
+=F0=9F=9B=92 Merchant: ""Apple Store Online""
+
+=E2=9D=97 If you didn=E2=80=99t authorize this purchase call us immediately=
+ to block this transaction.
+
+*Need help? Reply to this email or call ""PayPal Support"" at (888) 418-0780.
+Thanks,
+PayPal=C2=A0Receipts=C2=A0Team
+1 (888) 418-0780*
+
+Jessica
+
+jessicahauffman31@gmail.com , Denver , =20
+
+Unsubscribe ( https://u51772945.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+51772945&data=3D4IkKmgNInfahRN_sYPC8fKtBRXzNpz4qTvM0SrzXD2loMDAwdTAwMAw7cjM=
+7qaBfkANS8TFo_L4qIXZaWBqi3kUKmWa0Xgq24gDQIO3wEBizw0ehdCs5s40oAj7KqOaMsxCwyu=
+BW8eiPC4dWWQsxRgksLQuiEvAVduXBILznl9W86bzIlqx1Xp9iegOmhifZu8DTW7HqqZOMnHWSU=
+Tolt4eRP_T8XmydFDZRqz6djlNrTcEYdAhB4kH6lExIgR8UzZKGo4JrZW8U2lPGFlftqsDBBKft=
+4D3mcKquDQO9PPFZ7AkpiVma5v6JAeKiYLXomweAIiOhMxqGxMcdDAXXqmg6i_cCoFNoxM3I_Ch=
+gyuhrXlqVEZ28nghzUuj_KmuyZJY9gArR5fK7wEBDrFYc-Epbl-uKApOzvC0l1kgAABKZ2dyEJn=
+CB3fpP-TBiXW4gRdnO_8iIA-35sFrPuYqX1cIcujSzhhccXXZr3-E4Zpp_EBCIrH4G_m1xWRMX9=
+BG_awbRQW91EFRXXcPrJjTbUGei2nlq9ykZOqpQEEXJcwds6Uy6Npkqw06ptXSbVx71zDeEVDET=
+XX4qawSouivn6faTT0Gm4rsB1YnMecfyzUVQxximSbmfkuHX0DMaRuP2jcf9T47L1Fivrws6xLT=
+vSc8--MX_tPW7eLcbiHAy8iUFxJ8v3gtPuTbtOvqNJCOVnibxicufkhb-ZHFBQSCWXe_dNjwvV_=
+bB7b5JghCqxtULurirLjJh8Nv_f2GEtxGj4iUm7FXFRPcZzl8oqu6u0xevWz6DW77GLf9B5Ul42=
+cYWVfqzghyPcMxJYgq8AJ8T78xsK_QeIGdhGwwOS5Gz7MHE6AVPnunYIOIyfgTPJbZ16xAwUD7t=
+RJKy_K6duVHnYRBDqjLFb1e5Q16M5bQ_UKd1TcJmNNXsMDxWDO9cCYROopNQNYXDo9OvRc5zJcw=
+9XwZujfdfgnyWMQZfrgvVrw14ba2o9dp3RFRmrM9lh3cSTeqFSIfjmneqRBiqx3H4hbMc7n_dow=
+xmR0ddcF79Tn5s96PZ_G5MtFrgULvZTCgZJH4YkZOIOzIVJ9jgtepEUHkZ9gfVe8EzYsWZxuPAk=
+NzRFU_A4y81 ) - Unsubscribe Preferences ( https://u51772945.ct.sendgrid.net=
+/asm/?user_id=3D51772945&data=3DuBUJiur8oReVNosbP2s7ibGhvWaEun_Xvoo_LfiIbsN=
+oMDAwdTAwMHgkkBhLYqdAvObywaFXurBlQ_DZoTEQmYhtp2mXGpoBg5J8LwXsXPGlHqWh4Fcc0c=
+i04tYvVv8sywPLw_fQJSnqrDgSbLjCIcLkaZ9yqRFP6Aps_tgs686Nd7V0U527JCjBUaZ26kBLZ=
+-ZSWOGemh-MOD3E8cEjnc8rw0te0OjJnE0REHwd_yia4kk_GichmEbRVsoI0ntIhVGIFYvmPUUe=
+kZ9bxt7J-9VijOvQ7ZnqVzSF-rrerRZZtTP_94rkaHggFOCgtoBzx4opltewxCMYMZLkeJA_bMk=
+D0qmOhFaI-0yilQpjTi8PmOyqb-vpg7gTu9dVIwxz_U1E5VwpMK18gYfQFsEUVVWPU8S9Iolqxr=
+arI83G4YPSUDJKFxQCmMOgGZbbZdg0UdQSHgzxbqp4wqW1n8hAP12kuWsAq2ahWRDNJfpuHCD7X=
+Lz5dZ21Tjv0cBhgw2EVyysqlml6HLEEVQ5niHLF5Z_pibpC3vQN5jZEL9THVfnA-9FtVzkWV25O=
+NPitZnn3k5Zm3G4hRfmPO_CSxx-KkC8EMwp8Ik5rdcA0GtwH3qxwYi7-w-dviGqHzf1Zc1NGM8w=
+hIdk4N7BgXpi5bd_qK2aXui_r6IQ9LajBd6ZVlGYTzDXBBdTEi7wB-pOt5IFPmeZfLC-kUOnO9z=
+oUt-2frB-rzpT16eSTzk9WR21lWc1ts4kUE77E1AMBlovKWIMytOdQLjIs4_ElyPx7KFNzV8VKt=
+9A2xbkJYmgEEOoYgJ1C4XE49RAb89Ew4wkYvVI4dJHWz5sWnC4K9V6BQmK5BCr_VGvgPcxYSByM=
+JfDbsnZuKS3q2Gj1gMoQLn8zZ9J3bSxaqX7k4L_2sI3lDGoE7A298AUCy5KEKge5TkDRRj1gOAW=
+5wRviDY3APfaCKWEb8gGOeOZUyHCymKia-zofNgp5huPcq8tKgSXrZi6G9vfJWA-sMAn7bScy9n=
+vtEcRRPlvLiKi3nOMPpgD4WobvwWFF3HbyTpei_sijYe9gy5wOHBfKzNvVW2VQ2e2aQXNz3RRXo=
+MC7urM=3D )
+--fc74bbcd611e01b02841db957c4bf063623c1ac9a59a7c7154475cfb3d5e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""f12c0c9b-efd6-477a-8420-7876c83605f3"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 18p=
+x"">Dear PayPal Customer, (meowta523@gmail.com)<br>
+<br>
+Thank you for your purchase! Below are your order details:<br>
+<br>
+</span><span style=3D""font-size: 18px""><u>=F0=9F=93=A6 Item: Apple MacBook =
+Pro 14"" (2024)<br>
+=F0=9F=92=B0 Amount: $599.99<br>
+=F0=9F=93=85 Date:04-04-2025<br>
+=F0=9F=9B=92 Merchant: ""Apple Store Online""</u></span><span style=3D""font-s=
+ize: 18px""><br>
+<br>
+=E2=9D=97 If you didn=E2=80=99t authorize this purchase call us immediately=
+ to block this transaction.<br>
+<br>
+<br>
+</span><span style=3D""font-size: 18px""><u><strong>Need help? Reply to this =
+email or call ""PayPal Support"" at (888) 418-0780.<br>
+Thanks,<br>
+PayPal&nbsp;Receipts&nbsp;Team<br>
+1 (888) 418-0780</strong></u></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Jessica</p><p style=3D""font-size:12px; line-height:20px;""><spa=
+n class=3D""Unsubscribe--senderAddress"">jessicahauffman31@gmail.com</span>, =
+<span class=3D""Unsubscribe--senderCity"">Denver</span>, <span class=3D""Unsub=
+scribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span>=
+</p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsubs=
+cribe--unsubscribeLink"" href=3D""https://u51772945.ct.sendgrid.net/asm/unsub=
+scribe/?user_id=3D51772945&amp;data=3D4IkKmgNInfahRN_sYPC8fKtBRXzNpz4qTvM0S=
+rzXD2loMDAwdTAwMAw7cjM7qaBfkANS8TFo_L4qIXZaWBqi3kUKmWa0Xgq24gDQIO3wEBizw0eh=
+dCs5s40oAj7KqOaMsxCwyuBW8eiPC4dWWQsxRgksLQuiEvAVduXBILznl9W86bzIlqx1Xp9iegO=
+mhifZu8DTW7HqqZOMnHWSUTolt4eRP_T8XmydFDZRqz6djlNrTcEYdAhB4kH6lExIgR8UzZKGo4=
+JrZW8U2lPGFlftqsDBBKft4D3mcKquDQO9PPFZ7AkpiVma5v6JAeKiYLXomweAIiOhMxqGxMcdD=
+AXXqmg6i_cCoFNoxM3I_ChgyuhrXlqVEZ28nghzUuj_KmuyZJY9gArR5fK7wEBDrFYc-Epbl-uK=
+ApOzvC0l1kgAABKZ2dyEJnCB3fpP-TBiXW4gRdnO_8iIA-35sFrPuYqX1cIcujSzhhccXXZr3-E=
+4Zpp_EBCIrH4G_m1xWRMX9BG_awbRQW91EFRXXcPrJjTbUGei2nlq9ykZOqpQEEXJcwds6Uy6Np=
+kqw06ptXSbVx71zDeEVDETXX4qawSouivn6faTT0Gm4rsB1YnMecfyzUVQxximSbmfkuHX0DMaR=
+uP2jcf9T47L1Fivrws6xLTvSc8--MX_tPW7eLcbiHAy8iUFxJ8v3gtPuTbtOvqNJCOVnibxicuf=
+khb-ZHFBQSCWXe_dNjwvV_bB7b5JghCqxtULurirLjJh8Nv_f2GEtxGj4iUm7FXFRPcZzl8oqu6=
+u0xevWz6DW77GLf9B5Ul42cYWVfqzghyPcMxJYgq8AJ8T78xsK_QeIGdhGwwOS5Gz7MHE6AVPnu=
+nYIOIyfgTPJbZ16xAwUD7tRJKy_K6duVHnYRBDqjLFb1e5Q16M5bQ_UKd1TcJmNNXsMDxWDO9cC=
+YROopNQNYXDo9OvRc5zJcw9XwZujfdfgnyWMQZfrgvVrw14ba2o9dp3RFRmrM9lh3cSTeqFSIfj=
+mneqRBiqx3H4hbMc7n_dowxmR0ddcF79Tn5s96PZ_G5MtFrgULvZTCgZJH4YkZOIOzIVJ9jgtep=
+EUHkZ9gfVe8EzYsWZxuPAkNzRFU_A4y81"" target=3D""_blank"" style=3D"""">Unsubscribe=
+</a> - <a href=3D""https://u51772945.ct.sendgrid.net/asm/?user_id=3D51772945=
+&amp;data=3DuBUJiur8oReVNosbP2s7ibGhvWaEun_Xvoo_LfiIbsNoMDAwdTAwMHgkkBhLYqd=
+AvObywaFXurBlQ_DZoTEQmYhtp2mXGpoBg5J8LwXsXPGlHqWh4Fcc0ci04tYvVv8sywPLw_fQJS=
+nqrDgSbLjCIcLkaZ9yqRFP6Aps_tgs686Nd7V0U527JCjBUaZ26kBLZ-ZSWOGemh-MOD3E8cEjn=
+c8rw0te0OjJnE0REHwd_yia4kk_GichmEbRVsoI0ntIhVGIFYvmPUUekZ9bxt7J-9VijOvQ7Znq=
+VzSF-rrerRZZtTP_94rkaHggFOCgtoBzx4opltewxCMYMZLkeJA_bMkD0qmOhFaI-0yilQpjTi8=
+PmOyqb-vpg7gTu9dVIwxz_U1E5VwpMK18gYfQFsEUVVWPU8S9IolqxrarI83G4YPSUDJKFxQCmM=
+OgGZbbZdg0UdQSHgzxbqp4wqW1n8hAP12kuWsAq2ahWRDNJfpuHCD7XLz5dZ21Tjv0cBhgw2EVy=
+ysqlml6HLEEVQ5niHLF5Z_pibpC3vQN5jZEL9THVfnA-9FtVzkWV25ONPitZnn3k5Zm3G4hRfmP=
+O_CSxx-KkC8EMwp8Ik5rdcA0GtwH3qxwYi7-w-dviGqHzf1Zc1NGM8whIdk4N7BgXpi5bd_qK2a=
+Xui_r6IQ9LajBd6ZVlGYTzDXBBdTEi7wB-pOt5IFPmeZfLC-kUOnO9zoUt-2frB-rzpT16eSTzk=
+9WR21lWc1ts4kUE77E1AMBlovKWIMytOdQLjIs4_ElyPx7KFNzV8VKt9A2xbkJYmgEEOoYgJ1C4=
+XE49RAb89Ew4wkYvVI4dJHWz5sWnC4K9V6BQmK5BCr_VGvgPcxYSByMJfDbsnZuKS3q2Gj1gMoQ=
+Ln8zZ9J3bSxaqX7k4L_2sI3lDGoE7A298AUCy5KEKge5TkDRRj1gOAW5wRviDY3APfaCKWEb8gG=
+OeOZUyHCymKia-zofNgp5huPcq8tKgSXrZi6G9vfJWA-sMAn7bScy9nvtEcRRPlvLiKi3nOMPpg=
+D4WobvwWFF3HbyTpei_sijYe9gy5wOHBfKzNvVW2VQ2e2aQXNz3RRXoMC7urM=3D"" target=3D=
+""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D"""">Unsubscri=
+be Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51772945.ct.sendgrid.net/wf/open?upn=3Du001.Q3LOlm=
+mruQ0VYsdsLSb08Ax7NdqhFfoFAmOUn7SwExCGoA3mJnPvPLeovqXxwtXrEnjJEDaL-2BqOnm9W=
+w6VgRTVf-2BDACiCLjy97oMH-2Fx63tmhkJbLf3pwO-2BrbvT7OaLxug3u-2Fhgy6Kz-2Fho6jM=
+WqZPLbxCo7t9QFsbDY1vq4EYozThNIPRTRurlooppAZn18GzPqJ71V90QGhQFprOtYcQOaBV2Aj=
+g69uDLm7WmW5DUIVCsnB5aIdexy28PY5UaOTPTvwsi8SIah3tGamhXebPbckiTh56XtzN-2BLrP=
+UzPM9lNlzaNEDeSlqDe4sGfhH0EascajjZYnsxz8d8JijNC5JgqV-2F3GUDYBgItwVaX5QJHGdi=
+0yK20gXk1FfMyLXiJTtw88pic66pmdIdOkjFk15CIhcQE7QFrwaJTG7Kr1gjQiwEvJ1I9VZU2QY=
+WNGfIRePkGR2Wnvpmw4dOGxybzk0APr0xQgDdF9zJZskQmPUlvW6hd8yejdcSLj6jLk3otkPLLb=
+dRuK3qasLvgS66CM5fkFkcUEBRIuOEEhGJEeTRZupEQxN1p55mFLVqvP7HeNninRbm5NlEMWT1B=
+CjedOsB70hqk8digujGio8l-2BUNZ8POb-2B3pUmrN0Di9ilXMgjqNv2rtuFqIxIlcRVUjIWCij=
+k2baOzwr0eRy-2F4Vb-2BkAdq6JluU88JKg4oWrRocF2-2BayVpWxTwiyaD0SL6-2FVQkGtjexK=
+B8gj4DUMsJ9VyYjjTDYtHPOIsb2gVZT-2Ftk6TRSw8Ye4CjYjTbqrcPHjPiu2anQZMjihou7nCE=
+vNOY7qqFdmJbX9nihZXDE0Tbz4b9YPi6FqdwBR-2FMQ-2FPv8ZJD5MjzGxUh5R6OlgOm3aO2LDy=
+I1GT-2FuiC4-2FSB9BK9ZXQcKMP8DUj1CDXMXCvPGbs-2FIWEmtA-3D-3D"" alt=3D"""" width=
+=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;""/></body>
+  </html>
+--fc74bbcd611e01b02841db957c4bf063623c1ac9a59a7c7154475cfb3d5e--
+","""Jessica"" <jessicahauffman31@gmail.com>",meowta523@gmail.com,2025-04-04,44.198.45.247,United States,en,users/51772945/b8c06b63-1ee7-4ae0-83aa-ccc66d1c490e.json

@@ -1,0 +1,225 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51690693,2zZsHxa3T52GVo1vXiRbzQ.recvd-69cbc48b94-6xr46-1-67EBF320-9.0,cHJvY2Vzc2VkLTUxNjkwNjkzLTJ6WnNIeGEzVDUyR1ZvMXZYaVJielEtMA,TEST,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.recommendcentral.com;
+	h=content-type:from:mime-version:subject:list-unsubscribe:to:cc:
+	content-type:from:subject:to;
+	s=s1; bh=9+EiD+Nun8EKtocM1cOHwSmlto83sTBnSkwkUXq4ozE=;
+	b=XMYo72CJuprk4B7R3bN+4X8d7Pfp9AyXfp+FJ9nHJRzfh5kONYf1LTHh76THaqHNQ2Af
+	niTKzdHAzfJxdWbWLh+N+s1JEyzpnKW/7NRky1PisNmy4KX4NSPpeGKiuP/vm6QToyra75
+	/tDk5EPNjVagGXpckaswYSwfu5H9ZZgKWqLVj+gSHEEqEblH5jtMMI5r8+t71yQ8cohO4W
+	yiQHdoG0xl1GJY51Jlih4o793zgaVQRunbriLq7D9eEdlREMQ93i6FAhD5js+EtWRM7Eg+
+	3LQ9JAQhhjglID51V4bQOXGsp0z/qRM6EraGKqKqlIZiF8tIAz95ZOQTH96zhhtg==
+Received: by recvd-69cbc48b94-6xr46 with SMTP id recvd-69cbc48b94-6xr46-1-67EBF320-9
+	2025-04-01 14:07:28.064724739 +0000 UTC m=+11897092.623175964
+Received: from NTE2OTA2OTM (unknown)
+	by geopod-ismtpd-4 (SG) with HTTP
+	id 2zZsHxa3T52GVo1vXiRbzQ
+	Tue, 01 Apr 2025 14:07:28.027 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=e34c70ef998d5165ca63dfd82b23c11cc74bc4f08d76f01309eb465a78bc
+Date: Tue, 01 Apr 2025 14:07:28 +0000 (UTC)
+From: TEST - EMAIL recommendcentral_es <contacto@mail.recommendcentral.com>
+Mime-Version: 1.0
+Message-ID: <28138bbf-5b1d-b2a0-5a14-a3b543b52794@mail.recommendcentral.com>
+Subject: TEST
+X-Campaign-Id: MZPZXDWXY6
+X-Subscription-Id: 
+list-unsubscribe: 
+ <https://ermes.publinker.com/unsubscribe/email?u=&c=MZPZXDWXY6>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E=2Foxga60iBrEi7zAM2NNlGvPGaoLZfpgURAefjR3+4fpeYFHJB22m2k5x2?=
+ =?us-ascii?Q?a1GRmTwwgu5veSqxE3aLwsQljKZkmg1MpVmKfmp?=
+ =?us-ascii?Q?AoV3eczzLW94NbBW+URNxbfq7JUJJzMvlcWpubA?=
+ =?us-ascii?Q?BRlGAZ2mga=2F04tYgzaMw3Y2e61IpMxsHJvuZBVX?=
+ =?us-ascii?Q?4EeuFIzfGfly=2Ffrxzy4T9LOmohRIoRyreAgufoi?=
+ =?us-ascii?Q?HsaeNnOo4VxmByoQ0CTwkn4dRxQAF3YAr6HF9f7?=
+ =?us-ascii?Q?Owv1znyEIjU57K0Fhhecv2aVqtNHqqHZpKuf1Ho?=
+ =?us-ascii?Q?IqIIwOJU=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprAZPfuLC6YvMkW38?=
+ =?us-ascii?Q?44YReIRjET7AaP9l6QPTPgnGleGhd2unSuTq7Jk?=
+ =?us-ascii?Q?OLgA9euzjBFj6bkzYXaRaTWRFHNnHRwEGEQJBbP?=
+ =?us-ascii?Q?9P5ar=2FLykZC5aTqlqzuZNjcjT50Es5EjOz7M+9K?=
+ =?us-ascii?Q?9TTRWrqg1pMm5IcDY7jkV6Srd9ZUMUR0nyPA4Gt?=
+ =?us-ascii?Q?6+L26D6I5xkQHIU+RQb8e3h9AbBN=2Fye6sj9V=2F5+?=
+ =?us-ascii?Q?ogJ3mH50QadSiAt7qY4mnNHquIdbmanp3TB7Lgs?=
+ =?us-ascii?Q?0VxiCaPLKgmePCVR6jLDEWA1C5tTEUF0deovXiA?=
+ =?us-ascii?Q?I0nbp1eYLFZfZSlqpBNERBI7b9JMhuL=2Fn7=2FNAAw?=
+ =?us-ascii?Q?PkI5r32bqtAGb+m?=
+To: mateus@martechdm.com
+X-Entity-ID: u001.KK1wa7i4YqhTSkWHL6IaLw==
+
+--e34c70ef998d5165ca63dfd82b23c11cc74bc4f08d76f01309eb465a78bc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Testing
+--e34c70ef998d5165ca63dfd82b23c11cc74bc4f08d76f01309eb465a78bc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!doctype html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+  <head>
+    <title></title>
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+    <!--<![endif]-->
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8=
+"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1"">
+    <style type=3D""text/css"">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size=
+-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-r=
+space:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decora=
+tion:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type=3D""text/css"">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+   =20
+      <!--[if !mso]><!-->
+        <link href=3D""https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700"" rel=3D""stylesheet"" type=3D""text/css"">
+        <style type=3D""text/css"">
+          @import url(https://fonts.googleapis.com/css?family=3DUbuntu:300,=
+400,500,700);
+        </style>
+      <!--<![endif]-->
+
+   =20
+   =20
+    <style type=3D""text/css"">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+    <style media=3D""screen and (min-width:480px)"">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width:=
+ 100%; }
+    </style>
+   =20
+ =20
+    <style type=3D""text/css"">
+   =20
+   =20
+    </style>
+    <style type=3D""text/css"">
+   =20
+    </style>
+   =20
+  </head>
+  <body style=3D""word-spacing:normal;"">
+   =20
+   =20
+      <div
+         style=3D""""
+      >
+       =20
+     =20
+      <!--[if mso | IE]><table align=3D""center"" border=3D""0"" cellpadding=3D=
+""0"" cellspacing=3D""0"" class=3D"""" role=3D""presentation"" style=3D""width:600px=
+;"" width=3D""600"" ><tr><td style=3D""line-height:0px;font-size:0px;mso-line-h=
+eight-rule:exactly;""><![endif]-->
+   =20
+     =20
+      <div  style=3D""margin:0px auto;max-width:600px;"">
+       =20
+        <table
+           align=3D""center"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0=
+"" role=3D""presentation"" style=3D""width:100%;""
+        >
+          <tbody>
+            <tr>
+              <td
+                 style=3D""border:0 solid black;direction:ltr;font-size:0px;=
+padding:20px 0;text-align:center;""
+              >
+                <!--[if mso | IE]><table role=3D""presentation"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0""><tr><td class=3D"""" style=3D""vertical-a=
+lign:top;width:600px;"" ><![endif]-->
+           =20
+      <div
+         class=3D""mj-column-per-100 mj-outlook-group-fix"" style=3D""font-siz=
+e:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;""
+      >
+       =20
+      <table
+         border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentat=
+ion"" style=3D""vertical-align:top;"" width=3D""100%""
+      >
+        <tbody>
+         =20
+              <tr>
+                <td
+                   align=3D""left"" style=3D""font-size:0px;padding:10px 25px;=
+word-break:break-word;""
+                >
+                 =20
+      <div
+         style=3D""font-family:Ubuntu, Helvetica, Arial, sans-serif;font-siz=
+e:13px;line-height:1;text-align:left;color:black;""
+      >Testing</div>
+   =20
+                </td>
+              </tr>
+           =20
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+   =20
+   =20
+      </div>
+   =20
+  <img border=3D""0"" width=3D""1"" height=3D""1"" alt=3D"""" src=3D""https://ermes.=
+publinker.com/o?u=3D&c=3DMZPZXDWXY6"" /><img src=3D""http://url7727.mail.reco=
+mmendcentral.com/wf/open?upn=3Du001.RWUSX2FS4rbBkq7-2BZGpKoUGQJL5NvH7TDs7PS=
+LeoKmi8u3k-2BHTIr3UoCc0nsY9iOFes86fPGuBXQ9arNhLSF5g43HqLSZM3hmmEm1Mtx1iPZ-2=
+BPQ9mF0oFBnO-2Fo-2BflbUCtJiGzdI2Sf-2FtoD8-2FTqcE-2BUjcTyW0xXDnHI-2FDQ3WVHNg=
+baEMsPq-2BQao0u-2Ftc6nx-2BgHwhmS-2Fa4u-2BFInKwhBJP9-2B802NSn5JDkjgjEJtzLMU2=
+0XcVDht9oWLIH9mwAF8-2BEFcXv-2BeAmXYIazfnQ4yck3da-2BnM5mA54C-2BFGfanYaPfVZ2t=
+VbNJ5OmDE4yV7H5VCeXk9F-2Bu9Nx-2Fa0KXnBrCncRd8hVBGEUIvoMzlC3T9vnEmJ8rA4C9Qtk=
+v5E3rwStEgI4IPZkSAk9OnQsc3Yuhpgbks9-2BrMm7VXqFpmar8TtGYFqyYve4qphazlp15In81=
+A8r-2FQdX4qwHDGFvUWswpDzqsvNgLSPeJ7gLgKdsSU6mQsMVt-2Bls7qxqFvCvgZiWljBLiCmb=
+gIJpRup9p0vbxJeEla9FJ5iSz800VxzRRrb07eU-3D"" alt=3D"""" width=3D""1"" height=3D""=
+1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;border-=
+width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margi=
+n-right:0 !important;margin-left:0 !important;padding-top:0 !important;padd=
+ing-bottom:0 !important;padding-right:0 !important;padding-left:0 !importan=
+t;""/></body>
+</html>
+ =20=
+
+--e34c70ef998d5165ca63dfd82b23c11cc74bc4f08d76f01309eb465a78bc--
+","""TEST - EMAIL recommendcentral_es"" <contacto@mail.recommendcentral.com>",mateus@martechdm.com,2025-04-01,3.226.58.111,United States,vi,users/51690693/5e1601bb-eb74-484c-87ca-3f01df53673e.json

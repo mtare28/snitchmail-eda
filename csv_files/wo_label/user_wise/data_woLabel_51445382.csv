@@ -1,0 +1,237 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51445382,6h3Td2j8SzqrtdpJKAFTVw.recvd-69cbc48b94-6xr46-1-67DDACF1-35.0,cHJvY2Vzc2VkLTUxNDQ1MzgyLTZoM1RkMmo4U3pxcnRkcEpLQUZUVnctMA,Confirmation of Your Asset Transfer Request,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=1BbjmbLWtpfUwxn3ZUB3WmwPFc/dDgxpoZXk5C2GLGU=;
+	b=eZG3JNWBih1QWyCRp6VzW8qfSXWaeG8rL1+Bo2zJoagOYLjCxP1jRk6e+iB3hrFyefWm
+	Lq94BCote3+FXMYBXwvlnZflSh6IYBxZHn0uG6wQi3yXJ8f+cDQqrb/OBH8rKWwhDxO1Xs
+	kazHd7ztSf8g6oso+RMKrVDC6bmIOXseo=
+Received: by recvd-69cbc48b94-6xr46 with SMTP id recvd-69cbc48b94-6xr46-1-67DDACF1-35
+	2025-03-21 18:16:17.62998137 +0000 UTC m=+10961622.188432593
+Received: from NTE0NDUzODI (unknown)
+	by geopod-ismtpd-32 (SG) with HTTP
+	id 6h3Td2j8SzqrtdpJKAFTVw
+	Fri, 21 Mar 2025 18:16:17.609 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=82ef5122926cef1310c5b91940573e9ff5c813d7e15d04a50e25a57be471
+Date: Fri, 21 Mar 2025 18:16:17 +0000 (UTC)
+From: Wmart <jessicaparker857ae@gmail.com>
+Mime-Version: 1.0
+Message-ID: <6h3Td2j8SzqrtdpJKAFTVw@geopod-ismtpd-32>
+Subject: Confirmation of Your Asset Transfer Request
+Reply-To: jessicaparker857ae@gmail.com
+List-Unsubscribe: <https://mc.sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E7l9R9wzheqlRhO0zpHtc5EGo04Lp2ZEKQa8iRo1pMNoVpwlJ6zB3weP1l?=
+ =?us-ascii?Q?2f6TbdQt741ldvzBwTiMDmPbUZsHFX0CzBpsRy4?=
+ =?us-ascii?Q?h8W+z8AL7Wod9xtkZQmbl9q9YwhMKn7yUaRIjM6?=
+ =?us-ascii?Q?23QoI3vKoGojvnf7J4gSpTRlG0sYyiGnxS33Jnm?=
+ =?us-ascii?Q?pyHB8EQYZS5+JrcHL8uWeEcCCYoTXt8bPTNUwZC?=
+ =?us-ascii?Q?6nRAgYf8xysOC1EwqISVALV4CJV2IM+2WF22LVL?= =?us-ascii?Q?gy80?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOqT4=2FwajBJ5Cfehf7apoiUp00i?=
+ =?us-ascii?Q?0=2Fpr7TMhyu5yeq7l+DDE5YGmMyw6nkphkHMA3aq?=
+ =?us-ascii?Q?=2F3+5VTw8oQuXqusD+U=2FxpnjgYy9KYbY6ZekSr=2F7?=
+ =?us-ascii?Q?cQIfrBtWz9rrkx0hQdJfSCEu0TIN7YupCv9is5N?=
+ =?us-ascii?Q?Kj=2FOrhDsq9XRYV49z1yY4FhhU2Cz7umbpOjs3Vh?=
+ =?us-ascii?Q?cVCMGTbaDe2YSMUrRBByqGyhkw7IcgfqLcBpckn?=
+ =?us-ascii?Q?Tjx6oRc+vhJk+jSzRTFkBHrTZ8cwyR+zWYW1PcI?=
+ =?us-ascii?Q?XLaA2do7GAOgcZg8h+Cg4tV=2FDtxyXKsYsZ4of=2F+?=
+ =?us-ascii?Q?5mhUIfzcISl+gQUqd6fuu8F4zzqngisUmwAVHyW?=
+ =?us-ascii?Q?ZQCJVisbQ44zYaKcZtyA9wBmf3R6sAfIOAOjLbS?=
+ =?us-ascii?Q?dXfMMwxAw5kjZWLVFU+FcsaoKAICJ8St7agJyFz?=
+ =?us-ascii?Q?AxEagKoWooPt=2F9yXFJgRtiSwRrV+KDnbWC+Dofr?=
+ =?us-ascii?Q?OswQ4jA9ztHW7CXuQoSDxsvv0jAjjj=2Fh4w5XyIt?=
+ =?us-ascii?Q?Gwruw+1atiGYs1Ls=2FSEdABufrZLUo26mqpMjgKs?=
+ =?us-ascii?Q?ETL0NkzWgoDtFVXZ7bc2Lvp?=
+To: amcdonald@wdsurgical.com
+X-Entity-ID: u001.aaB05a9lFxCHBKJEe61lGg==
+
+--82ef5122926cef1310c5b91940573e9ff5c813d7e15d04a50e25a57be471
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+*******************************************
+Confirmation of Your Asset Transfer Request
+*******************************************
+
+Dear jessicaparker857ae@gmail.com
+
+We are pleased to inform you that your asset transfer request has been succ=
+essfully processed.
+
+*Details of the Transfer:*
+
+*Transfer Reference Number:* SCHWAB-TRF-8973-2025
+
+*Transfer Date:* March 21, 2025
+
+*Amount Transferred:* $4800.00
+
+*Transfer Type:* External
+
+---------------------------------------------------------------------------=
+---------------------------------------------------------------------------=
+---------------------------------------------------------
+Please allow 3-5 business days for the transferred assets to reflect in you=
+r Charles Schwab account. If you have any questions or need further assista=
+nce, feel free to reach out to our customer service team.
+
+*Customer Service Contact Information:*
+
+---------------------------------------------------------------------------=
+---------------------------------------------------------------------------=
+---------------------------------------------------------
+
+---------------------------------------------------------------------------=
+--------------------
+Phone: 1-818-966-1173
+
+Email: support@schwab.com
+
+Thank you for choosing Charles Schwab for your investment needs. We appreci=
+ate your trust in us.
+
+---------------------------------------------------------------------------=
+--------------------
+
+Best regards,
+
+Charles Schwab
+
+Charles Schwab Corporation
+Website: www.schwab.com ( https://www.schwab.com )
+--82ef5122926cef1310c5b91940573e9ff5c813d7e15d04a50e25a57be471
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D""en"">
+<head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>Asset Transfer Confirmation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 8px 8px 0 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 0 0 8px 8px;
+        }
+        .details {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border: 1px solid #ddd;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .details p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D""container"">
+        <div class=3D""header"">
+            <h1>Confirmation of Your Asset Transfer Request</h1>
+        </div>
+        <div class=3D""content"">
+            <p>Dear jessicaparker857ae@gmail.com</p>
+            <p>We are pleased to inform you that your asset transfer reques=
+t has been successfully processed.</p>
+            <div class=3D""details"">
+                <p><strong>Details of the Transfer:</strong></p>=20
+                <p><strong>Transfer Reference Number:</strong> SCHWAB-TRF-8=
+973-2025</p>
+                <p><strong>Transfer Date:</strong> March 21, 2025</p>
+                <p><strong>Amount Transferred:</strong> $4800.00</p>
+                <p><strong>Transfer Type:</strong> External</p>
+            </div>
+<h2><h2>
+           <h2>Please allow 3-5 business days for the transferred assets to=
+ reflect in your Charles Schwab account. If you have any questions or need =
+further assistance, feel free to reach out to our customer service team.</p=
+>
+            <p><strong>Customer Service Contact Information:</strong></p>
+           <h2>Phone: 1-818-966-1173</p>
+            <p>Email: support@schwab.com</p>
+            <p>Thank you for choosing Charles Schwab for your investment ne=
+eds. We appreciate your trust in us.</p>
+        </div>
+        <div class=3D""footer"">
+            <p>Best regards,</p>
+            <p>Charles Schwab<br>
+            <br>
+            Charles Schwab Corporation<br>
+            Website: <a href=3D""https://u51445382.ct.sendgrid.net/ls/click?=
+upn=3Du001.0-2FWb7WMQhNpQGpfAa5ryZylE5ipecOMTFQ7BRd8YH0U-3DZkf4_tLyUMZpj5x5=
+e3geD0vTBZuWZKCNB3vFfs6i8lHTcxoM3O-2Bg1jzUprNGDnIFp98xWByh4wKjPGV4NKvVYr8P9=
+A-2BGdBTi9cJric6x9nSrNtY9j-2BImJwpj-2Bpk2lTpgx-2FOEmWOYikNj3QtuoRXz-2F2pNUp=
+s4URvQHwpfAUG6Y-2FrdizOmx5bALuNRS3V5L-2B8wVhVoybmQVnEflQ-2Byck7JGCPNWVJ88y4=
+vRfY-2Fbj-2B2g2nE5xfPvPoillhcPuVfIMpt5C9-2BBbqWPKaZTEKK-2BApgFI0kXPw4U06FlJ=
+75ejQJfMv9B5R7HIHvbrJqXJ6Khz46oGJazkPw7lSW6lVvqFICr3-2FMQSBfNQCAD-2BbasHlNA=
+-2FLFY1gi7T-2FtOEKaz63WyPxlPIifJFKDTANOEAt5V5yGYu0Q6Gp76QeMdlDiJChlbjJtt0PE=
+2s8IyGHhVsiNs4Ielu-2FGTNOxnfJDO3HuRYuYVT8jQvRCImfLQHPpLEpdCFaKgT5V7SBqlLH8L=
+FFBe8NwLhcH8UrV1TtcGAzInoDm0dGxEJsUTQ-2FRMa-2F-2F7Lhd4QbiJwRZcqCQzO2NmmhYyj=
+F6GgnTo2byygTox69uIM9ogRrdAy8DOByHRkC8AJdZXzeuQvtRlaghb2cYswlNvbQRp-2FydU0C=
+3cN6LtbJHMNJAn-2BSN2yhKxPZWUaS4HY-2F0G0PgXYNMlxsPV5iCa1Tn13aJtPaprXp43o-2B9=
+8-2FabZBzT-2BTBBylhM1-2BdTlkhEpJ6YbARMFYoZhNX-2BB-2Blb3rb5hW3DU6n3fy2BxHv8f=
+QxMLmX-2Ba7qmnr9OZZtawwfsVNkaJXis-2B9cvjqHCsm4KHTQcQkJtVLyRC2an4mS7WF-2Fkon=
+wvPufRzePZZ1tcNzAQXSpoTyp-2Fk2y-2FSaNhylYcHp5739wbYJVPA"" style=3D""color: wh=
+ite; text-decoration: underline;"">www.schwab.com</a></p>
+        </div<img src=3D""https://u51445382.ct.sendgrid.net/wf/open?upn=3Du0=
+01.i7D-2FuYLsKyhnxsY6z0sEiwHsiagku-2F6LJcEBJnprjrc2xFd-2Bihs44srMYb5WevHGNo=
+tHDMG7NP-2Fac-2FGJk6H9AtsL9LxARKMr-2BA7L08Usi0c8EGi0zn9-2BBZerE56qz-2FPpMcY=
+-2Bzmkf3LFE0Old-2FD0DToQm6vAC5I3YlVthurTW4t21dMHlSATpBrOyoBMfO6zF5HfmLADYpW=
+xSVlkj9uEm2YOcjfmNwzPPh2n0RaupmQJ-2F3pJ2Kfn2RyEXGmRlyQcCRNYT1WbZIVXxdblhB6B=
+5AI4-2Bev7Zj0d4G7Whn41lL8kty0WArAfXBmIZgEPFwkHCgpLypmOvbhTsM6Ls7qUYnR0p2AiD=
+lq4-2BbZFb12J38IfteP-2Beryevhz34HyQXBY7EadKDVPsLZxnWmYhasq57L-2Fg8125eZtzY0=
+6DGZkHBjGZj8M9yNzI-2FExexhSMpddrlSQajcq5SQcnvh6TNGcPtTpjzddOYSvBfKJjD3DI9IP=
+LjL46JGUbD-2BVDwl1VW76l3XrczIZt859nyLcTpCynipEU-2BL3v4OFdnRrd2UGioW5y9gZA4H=
+hDl35i-2FXD59ql7PiXCFmk0tkTy4dqPQeAWwltAIrbhnF1oP0MyK0TkXheZ-2FxsZMhgOOK1e1=
+MbQHdWC0e6K2KFAMnpl68p-2FuaI5WbS0A-2FFNWgWJIv1Lok5YR-2FotFKxBDdiPqsIkfdWulY=
+dheJ0VFIPPNe9lD4a-2BwzQNLbdKrIgmR-2FiywWHnA3ulWaIFC6RJtAtjIilTjWV77-2FGXPat=
+efZO9Xrf3VaVH-2FJ6nMlv-2FJ-2FRfm4hV0kNpi324kYo42AyFzikpYkMgD9KjMZYyB2GZ6B0d=
+8sSn-2FB5l898N8J-2BX-2F7ix83Lyw-2FtRWgfLLPEaJVBhN6m5BtftlttNdWVYQ"" alt=3D""""=
+ width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;""/>
+--82ef5122926cef1310c5b91940573e9ff5c813d7e15d04a50e25a57be471--
+","""Wmart"" <jessicaparker857ae@gmail.com>",amcdonald@wdsurgical.com,2025-03-21,34.225.201.237,United States,en,users/51445382/bca5e8df-88d3-4626-a603-b4a9181bbf0b.json

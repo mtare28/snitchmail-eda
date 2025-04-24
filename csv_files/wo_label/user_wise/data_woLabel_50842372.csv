@@ -1,0 +1,227 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50842372,Y6RNBw9yT_yQjOcv96K1nA.recvd-69cbc48b94-gnhn4-1-67BDAE7C-F.0,cHJvY2Vzc2VkLTUwODQyMzcyLVk2Uk5Cdzl5VF95UWpPY3Y5NksxbkEtMA,n,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=kxl.naturepp.us;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=5A6w5APDe4bTsdMyGHuesas5YzCxxcZbUhmVocoDWQk=;
+	b=FcgJijSo/DNJoO7H86muSd0V5T/gFP7FsiBYDCl+f/b0KAy5iDA1VwIF1SZGg18WS29d
+	zH4ADnIos5pKma6AAIna9rz6WTVetEodsE5lM5N7i8csDX16uld/zVHEmJ4cJL3vnZQxvS
+	KYBoA3wF0rW2l4676ZgPgJqoDb7BYFyo9zKMdNEicsQEzyAINuLKdEUMfNleiMe0z9zUvb
+	nim8isb9OtAvi1mPFsZ+xYM5WGaT8tXHd9kOpg5xa9DQwY8gjYR++8TVBWuL3QzQ4VgoqF
+	sBi1LWLmZiR8weYByTI7RPR7szduF6BsNr8NC3InhOB3ymQ365iCOa6cUIKAOqbw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=5A6w5APDe4bTsdMyGHuesas5YzCxxcZbUhmVocoDWQk=;
+	b=GWAutwXLKGAd9akvu9xJubOR49YSUxWKAy9KDUCPONaIGSm0q5G8nOsTlRPSpinkjE48
+	esiV+GCMtlS4YfF1fjwCC8WN6kA408MbQqupApnaigY6Evxn0s9jHdGfe1OmqZgHRSTBBn
+	MqTkEH1lFBtSAsncIUuaRgeU1HQHDnJ6k=
+Received: by recvd-69cbc48b94-gnhn4 with SMTP id recvd-69cbc48b94-gnhn4-1-67BDAE7C-F
+	2025-02-25 11:50:20.214002959 +0000 UTC m=+8864840.932021738
+Received: from NTA4NDIzNzI (unknown)
+	by geopod-ismtpd-3 (SG) with HTTP
+	id Y6RNBw9yT_yQjOcv96K1nA
+	Tue, 25 Feb 2025 11:50:20.162 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Tue, 25 Feb 2025 11:50:20 +0000 (UTC)
+From: b <sales@kxl.naturepp.us>
+Mime-Version: 1.0
+Message-ID: <Y6RNBw9yT_yQjOcv96K1nA@geopod-ismtpd-3>
+Subject: n
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Et=2FOvO37M3dVg1Kk2oLl=2FksvLDA2RyNxQNHi1WatezB9oBK3qFgBuJMKDB?=
+ =?us-ascii?Q?3NbMUhmprwt9qjnQIqlh1eRW2JKiCFnqnOjahdo?=
+ =?us-ascii?Q?+hZv2bU9t5NOtODO6ckycO=2Fy9zKGJYaNajQWtMV?=
+ =?us-ascii?Q?vclOfXOPdkXFQrNlAXjqiUW+Hbl8xQvq7JC8I4e?=
+ =?us-ascii?Q?AXdhdyrkul+RXz78gm7F6OHJ8+KYjuv7J77ika4?=
+ =?us-ascii?Q?AYm6GQ03=2FMo2u=2Fc0h3MTgo=3D?=
+To: mamieolee123@yahoo.com
+X-Entity-ID: u001.Q73VsmJSf+qHrhtLTaIU8Q==
+
+<!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>What&#39;s New? =E2=80=93 Sparkling New Arrivals in Our Gemstone Col=
+lection</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.a{display=
+:block;margin:0 auto!important;}p{word-spacing:normal;}
+@media screen and (max-width:600px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.v{width:100%!important;}.x{padding=
+-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12px!=
+important;}.xd{padding-bottom:12px!important;} }
+</style>
+</head><!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>What&#39;s New? =E2=80=93 Sparkling New Arrivals in Our Gemstone Col=
+lection</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.a{display=
+:block;margin:0 auto!important;}p{word-spacing:normal;}
+@media screen and (max-width:600px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.v{width:100%!important;}.x{padding=
+-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12px!=
+important;}.xd{padding-bottom:12px!important;} }
+</style>
+</head><!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>What&#39;s New? =E2=80=93 Sparkling New Arrivals in Our Gemstone Col=
+lection</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.a{display=
+:block;margin:0 auto!important;}p{word-spacing:normal;}
+@media screen and (max-width:600px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.v{width:100%!important;}.x{padding=
+-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12px!=
+important;}.xd{padding-bottom:12px!important;} }
+</style>
+</head><!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>What&#39;s New? =E2=80=93 Sparkling New Arrivals in Our Gemstone Col=
+lection</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.a{display=
+:block;margin:0 auto!important;}p{word-spacing:normal;}
+@media screen and (max-width:600px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.v{width:100%!important;}.x{padding=
+-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12px!=
+important;}.xd{padding-bottom:12px!important;} }
+</style>
+</head><!DOCTYPE html>
+<html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!-- Used for outlook versions from 9 and greater -->
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPer=
+Inch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<title>What&#39;s New? =E2=80=93 Sparkling New Arrivals in Our Gemstone Col=
+lection</title>
+<meta content=3D""text/html; charset=3Dutf-8"" http-equiv=3D""Content-Type""/>
+<meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewport""=
+/>
+<meta content=3D""telephone=3Dno"" name=3D""format-detection""/>
+<style type=3D""text/css"">
+html,body{width:100%!important;height:100%!important;margin:0 auto!importan=
+t;padding:0!important;-webkit-font-smoothing:antialiased;-webkit-text-size-=
+adjust:none;-ms-text-size-adjust:none;}body,table,td,a{-webkit-text-size-ad=
+just:100%;-ms-text-size-adjust:100%;}table{border-collapse:collapse;}table,=
+td{mso-table-lspace:0pt;mso-table-rspace:0pt;}th{font-weight:300;}img{-ms-i=
+nterpolation-mode:bicubic;}a[x-apple-data-detectors]{text-decoration:none!i=
+mportant;font-size:
+inherit!important;font-family:inherit!important;font-weight:inherit!importa=
+nt;line-height:inherit!important;color:inherit;}a:link{text-decoration:none=
+;color:inherit;}u+#body a{text-decoration:none;font-size:inherit;font-famil=
+y:inherit;font-weight:inherit;line-height:inherit;color:inherit;}.a{display=
+:block;margin:0 auto!important;}p{word-spacing:normal;}
+@media screen and (max-width:600px){body{min-width:1px!important;}.d{min-wi=
+dth:1px!important;}.w{width:100%!important;display:table!important;}.q{widt=
+h:100%!important;height:auto!important;}.v{width:100%!important;}.x{padding=
+-left:12px!important;}.i{padding-right:12px!important;}.n{padding-top:12px!=
+important;}.xd{padding-bottom:12px!important;} }
+</style>
+</head>
+  <body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://junctionwood.pics/60a9484a5854c77091c2/3afba1=
+8e96009b8fd6"" target=3D""_blank""><img alt=3D""uu"" src=3D""https://assets.unlay=
+er.com/projects/266423/1740466271751-1.png"" style=3D""width: 540px; height: =
+783px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://tuahgfj.pics/5ba45f58e68814b72898/30e93b512f4=
+ddbfbfe"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.c=
+om/projects/266423/1740463374413-bbss2.png"" style=3D""width: 550px; height: =
+481px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://junctionwood.pics/60a9484a5854c77091c2/3afba1=
+8e96009b8fd6un"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.un=
+layer.com/projects/266423/1740463401899-eedd4141864e8ff54d6027c5a3cf9d8a924=
+865.png"" style=3D""width: 540px; height: 90px;"" /></a></p>
+    <img src=3D""https://u50842372.ct.sendgrid.net/wf/open?upn=3Du001.H-2B9-=
+2Bln3eiz93vHyj41afFxiLdZ-2F0A5I1DAlxEaI8zKVkmS88AGaZNKnbUwY6x-2FH-2B0lgSnLn=
+nUdv0NIDXWIKb1cliJzatSvKCsbEJRUl16K6HkEea0RuYpLcd6TypuPRNkJVw2oY7SGQT8nLJXL=
+Em9aQ27ODxwdYw-2FtAOEUfoX0-2FxlZF05iMqHx8P3oPGzDWbKYGiDbf3gVievPsV-2FdWAUg-=
+3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !=
+important;width:1px !important;border-width:0 !important;margin-top:0 !impo=
+rtant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !i=
+mportant;padding-top:0 !important;padding-bottom:0 !important;padding-right=
+:0 !important;padding-left:0 !important;""/></body>
+</html>","""b"" <sales@kxl.naturepp.us>",mamieolee123@yahoo.com,2025-02-25,159.223.114.46,United States,tl,users/50842372/9d268642-8959-4050-b3e4-7cb33b91bc0d.json

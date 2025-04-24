@@ -1,0 +1,181 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51773379,SDGU7IJcQ3i7seBYkW52EA.recvd-8575c86f9d-cfm2p-1-67F025A0-1.0,cHJvY2Vzc2VkLTUxNzczMzc5LVNER1U3SUpjUTNpN3NlQllrVzUyRUEtMA,Alerta de atraso - Mobiauto,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.pipefy.com;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=mt5; bh=j2tFW1uaza6sHNfebQEBOsPU+f7ipeWB5exJMTMvKow=;
+	b=kTcHTYHbPsX0m07gA3bdmWSShLTtoIB8L/P5I8T7yGLcgUp+2Uz/825DgtY3oX0rEWxi
+	tz0Kn8pI7OktvaOhCafHnfZtVy6v2eD+oG8QZKU+gwyFW3CP0GiuBxAnlBaDT0d+fd0YHr
+	xklSE198ownQXn65weRWWi4vEtCYX9soZZotNDac4QzBTzoWeSZtnN7sKMVIF7ja3XIp8s
+	6Ca5KlNT2rkaB+od8ACinSPBz4gBH0mzUOpGIkQkGkf+qwJuRaXjNLDlVCUEVmzTJeNKsM
+	KMDWPfOxOI9AthAek3GOOA4IzPuQUc5JTZUl3kuUFy+zJikPbxKRAGXFcqAu6FAQ==
+Received: by recvd-8575c86f9d-cfm2p with SMTP id recvd-8575c86f9d-cfm2p-1-67F025A0-1
+	2025-04-04 18:32:00.001392067 +0000 UTC m=+12172189.686468709
+Received: from pipefy.com (unknown)
+	by geopod-ismtpd-1 (SG) with ESMTP
+	id SDGU7IJcQ3i7seBYkW52EA
+	for <gilmar@lionsseminovos.com.br>;
+	Fri, 04 Apr 2025 18:31:59.981 +0000 (UTC)
+Date: Fri, 04 Apr 2025 18:32:00 +0000 (UTC)
+From: Pipefy <messages@email.pipefy.com>
+Message-ID: <67f0259fe5c33_8265e84173c@app-core-worker-notification-74cc7ff5c8-v5w6p.mail>
+Subject: Alerta de atraso - Mobiauto
+Mime-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EauR6AdWC=2F4qVQWpZHAkjhAda+29c8N76+fhWskLwzC7j1IromCa71Gl0k?=
+ =?us-ascii?Q?y3gSuveMF9ZZFXmRvx=2F=2F6rF52+BGAusTv3685lz?=
+ =?us-ascii?Q?R3YdR7xJahGKSTs5eyG6h+lCT2xA0ahdEJAsq1W?=
+ =?us-ascii?Q?xV+l0MzdSgkHbMDLt3sbCWrTTWrs1nSZiElqCeE?=
+ =?us-ascii?Q?oczQy2dUHG36D3dZvUquFdW4C5f3cHy6=2FeK9ZTn?=
+ =?us-ascii?Q?DHQzTFs+aXMcoUWG3CmXR+prj=2FZZJFoOzeULLOp?= =?us-ascii?Q?PzSp?=
+To: gilmar@lionsseminovos.com.br
+X-Entity-ID: u001.B9rpd5pqbjr3hHQ5S1Vj/A==
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<style type=3D""text/css"">
+  img {
+    max-width: 540px;
+  }
+</style>
+<table width=3D""100%"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" styl=
+e=3D""font-size:17px;line-height:24px;color:#293E52;background:#E6ECF5;font-=
+family:helvetica,arial,sans-serif;"">
+  <tbody>
+    <tr>
+      <td valign=3D""top"">
+        <table width=3D""100%"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D=
+""0"">
+          <tbody>
+            <tr>
+              <td valign=3D""bottom"" style=3D""padding:32px 0 21px;"">
+                <div style=3D""max-width:600px;margin:0 auto;text-align:cent=
+er"">
+                  <a href=3D""https://u51773379.ct.sendgrid.net/ls/click?upn=
+=3Du001.rwSSNIIvSYUxHew5GoqqNfv5W4fqXo1htEsLNuRl5eY-3DNXn0_Od-2B-2FOH59clLK=
+Cpt2gRyyuC-2FIfbhtR5Ow4irE80JC90x73uHopxYYPb1eXeSQq77DQygI5dk68VxtWOkcA8CDp=
+dXvXQ0EvjtuqA-2Be-2F6-2BTbYeNHQVujMJCE-2BIP9KlQ-2FVBHOjoRWBJ7Dr-2Fm1jQLpZCJ=
+RbmO498zatG-2BPD7GQjfHCjfdj0iUL0Ype7NmdS-2FGY-2FIYifaSMjc6PE1Y5FCjzHAdtg-3D=
+-3D"" target=3D""_blank"" rel=3D""noopener"">
+                    <img src=3D""https://pipestyle.staticpipefy.com/default/=
+images/logo-black.png"" style=3D""width:110px"">
+                  </a>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td valign=3D""top"">
+        <table width=3D""100%"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D=
+""0"" align=3D""center"">
+          <tbody>
+            <tr>
+              <td valign=3D""top"">
+                <div style=3D""max-width:600px;margin:0 auto;padding:0 12px""=
+>
+                  <div style=3D""background:#fff;border-radius:5px;padding:3=
+2px;margin-bottom:16px"">
+
+                    <h2 style=3D""color:#3B5BFD;margin:0;line-height:30px;te=
+xt-align: center;"">
+  O card Mobiauto acabou de atrasar!
+</h2>
+
+<hr style=3D""margin:20px 0;width:100%;border:none;border-bottom:1px solid #=
+C0D0E6"">
+
+<ul style=3D""line-height: 23px;font-size: 16px;color: #293E52;padding: 0;li=
+st-style: none;"">
+  <li style=3D""margin: 20px 0"">
+    <strong>O que?</strong><br>
+    Mobiauto em Leads - v.3 - NI | [RJ]
+  </li>
+  <li style=3D""margin: 20px 0"">
+    <strong>Leadtime</strong><br>
+    Em Leads - v.3 - NI | [RJ] por 13m, na fase AGVs por 0m, on time
+  </li>
+  <li style=3D""margin: 20px 0 0"">
+    <strong>O que =E9 um alerta de atraso?</strong> <br>
+    Voc=EA pode definir um limite de tempo para os cards ficarem em uma fas=
+e, quando um card atingir o limite estipulado, este alerta =E9 enviado.
+  </li>
+</ul>
+
+<a style=3D""
+    font-weight: bold;
+    color: #fff;
+    background: #3B5BFD;
+    padding: 11px 20px;
+    border-radius: 3px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin: 0 auto;
+    width: 110px;"" href=3D""https://u51773379.ct.sendgrid.net/ls/click?upn=
+=3Du001.rTfSe4p7QaETdxqwIpHb9G5fF31B6ZrN5gFQGcLXofI-2FX-2BKh-2BvAhxLwp4rwKS=
+TI17iSdm-2F9mM1aZYyM9d88kTvpENMLp39ggtGko4hbOZwI9fuYk-2Bots5fpWqG0eCSwDymgr=
+_Od-2B-2FOH59clLKCpt2gRyyuC-2FIfbhtR5Ow4irE80JC90x73uHopxYYPb1eXeSQq77DQygI=
+5dk68VxtWOkcA8CDpfBsRADMo3vutI6ncbyXmCLkojAPx97I-2B04Snxm2SCyx13nR0aSfVjufr=
+KrBtCpv-2F4Pnr21CSTKQV05vQYNVDJU44NwgUa0dM8HDhD7NxU07ASQpXsPqDkCeiLtaYIHIFw=
+-3D-3D"">ver card</a>
+
+<a style=3D""
+    text-align: center;
+    font-size: small;
+    margin: 5px auto 0;
+    display: block;"" href=3D""https://u51773379.ct.sendgrid.net/ls/click?upn=
+=3Du001.rTfSe4p7QaETdxqwIpHb9G5fF31B6ZrN5gFQGcLXofLB9Ml1nfoFyxHXp6ccSPDSuTa=
+x9-2BERK5g9fg9FmhojtA-3D-3D0Ixc_Od-2B-2FOH59clLKCpt2gRyyuC-2FIfbhtR5Ow4irE8=
+0JC90x73uHopxYYPb1eXeSQq77DQygI5dk68VxtWOkcA8CDpWACo-2B3OF6EO6k8OntgO-2BBNH=
+2JY7Kad4hXWuX8M0R62b-2BglSDswDAler6G6rvXoCmBfIHX-2BHhKToe3PrP-2FLP2l2B4wR58=
+vMpJDzPOIR8ldty-2FKbtWTgTFcM-2FChQFJ8G8Dw-3D-3D"">descadastrar</a>
+
+
+                  </div>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table width=3D""100%"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D=
+""0"" align=3D""center"" style=3D""margin-top:16px;background:#fff;color:#9AAABE=
+"">
+          <tbody>
+            <tr>
+              <td valign=3D""top"" align=3D""center"">
+                <div style=3D""max-width:600px;margin:0 auto"">
+                  <p style=3D""margin-top:16px;font-size:12px;line-height:20=
+px"">
+                      Powered by <a href=3D""https://u51773379.ct.sendgrid.n=
+et/ls/click?upn=3Du001.rTfSe4p7QaETdxqwIpHb9NSU9-2FRESqVe9k2KfVvIat5NReLxNQ=
+fvJPcuDjVPfrH3EfLpFw8T2l5PcFehp5MkaA-3D-3D7Czl_Od-2B-2FOH59clLKCpt2gRyyuC-2=
+FIfbhtR5Ow4irE80JC90x73uHopxYYPb1eXeSQq77DQygI5dk68VxtWOkcA8CDpTLHvBLZPxuSj=
+llOopECHCGIwQRZu4GWyKKN031atQGO58iMkhDYzKM7xneWLiIZdvxaWVLt6AFiKhri4AO9kmvb=
+pLPvLGRskfNf4k5BM1cGLCS-2BdJesgDSzwpxIH13f5Q-3D-3D"" style=3D""font-weight:bo=
+ld;color:#3B5BFD; text-decoration: none"" target=3D""_blank"" rel=3D""noopener""=
+><span class=3D""il"">Pipefy</span></a>
+                  </p>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<img src=3D""https://u51773379.ct.sendgrid.net/wf/open?upn=3Du001.JHu9kefBGB=
+wmIJa4hD5N9fGxBQwcjfCU0NufpP8fs-2FkftFZyyneqvwgKsQbxsyF-2B9zMtWz21wvkSyhl7V=
+pGB6BI9rUkt8QRl-2BGbraThGw17LfCxDHez1o6M0M3AnC81D81-2BA60-2FK95ivAE2e7UoFw-=
+2BXQPepGD-2BB96NXAmdB-2B1Wv2gKoAdSjFZjTSorok1O0g3K5-2BTS7EkQHC1n2zv-2FSC9pA=
+oEjmX5DkgMhTlwctus2E-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" sty=
+le=3D""height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;""/>","""Pipefy"" <messages@email.pipefy.com>",gilmar@lionsseminovos.com.br,2025-04-04,129.153.135.244,United States,es,users/51773379/d6f72516-d79b-4a36-ad64-633faa68c80d.json

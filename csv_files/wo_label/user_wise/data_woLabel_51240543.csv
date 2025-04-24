@@ -1,0 +1,178 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51240543,E97st2PURniXa91OSrk_rw.recvd-69cbc48b94-2tgq2-1-67E55A4B-20.0,cHJvY2Vzc2VkLTUxMjQwNTQzLUU5N3N0MlBVUm5pWGE5MU9TcmtfcnctMA,i will give you a call shortly,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gosfordukfinanceltd.com;
+	h=content-type:mime-version:content-transfer-encoding:
+	content-description:subject:from:reply-to:to:cc:content-type:from:subject:to;
+	s=s1; bh=umpTL/QLY4Yvguplm/xlkVgvLOaZr3VucGwEmSPUejY=;
+	b=g76VsuHblKYNYyaDNstspPPPNESStK7H5typCKmJ7KP/G6r+FXgAsh/Gfgz8i2BE8HZR
+	+fgFefFzvvvuH4omk5wVEsAM4BIL5izcn1Dd5Vg3uBJSYYV4X1d1ralFjVzR+3jVMmck9z
+	LvySw0ReZE/9xPFLK1+l3PW6enz0Kuvxshc1Bf9Ze6XiaCy1eGDxhxso+OeaX4j+ngHFhV
+	XijV67Rxnx99bomi53UQXbzhfatL522syrn+r6HRK2nGX33J6E+w8rQRVU2cyevakamPVl
+	sHw+aBb5S5/YvuYzfethKe18xGOuIK0cobgYlcwfBeEC/NA579omgi3O1z9XMVmA==
+Received: by recvd-69cbc48b94-2tgq2 with SMTP id recvd-69cbc48b94-2tgq2-1-67E55A4B-20
+	2025-03-27 14:01:47.380297969 +0000 UTC m=+11464830.710030959
+Received: from [213.209.150.85] (unknown)
+	by geopod-ismtpd-5 (SG) with ESMTP
+	id E97st2PURniXa91OSrk_rw
+	for <Diana.a@drmikeswalkinclinics.com>;
+	Thu, 27 Mar 2025 14:01:47.242 +0000 (UTC)
+Content-Type: text/plain; charset=us-ascii
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: i will give you a call shortly
+From: Simon <simm@gosfordukfinanceltd.com>
+Date: Thu, 27 Mar 2025 14:01:47 +0000 (UTC)
+Message-ID: <E97st2PURniXa91OSrk_rw@geopod-ismtpd-5>
+Reply-To: simon@gosfordfinaceloan.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EAc5UXRFHPmu2hTDVnjccIWihlRBXySJ6LtwCrGwOJhLGGoE4SOdFx98K2?=
+ =?us-ascii?Q?dDJgLwyS=2FYKdeQUQJPMXz+U86l0mYB18gkP697R?=
+ =?us-ascii?Q?tXaXeOQ3B2GbjzhDfzlw9i13Vg+04E1gFmX+kcj?=
+ =?us-ascii?Q?D0s8SRvSIH7I5GjwuDFcNqMyna9ZLH0Z0j3fd7m?=
+ =?us-ascii?Q?5jvlhseVR1STFgKpKYEd3GUxMx+EDOxTWWICG8I?=
+ =?us-ascii?Q?FFQilZLiL1VtHuglvtt+5KKhXwiSZeI=2FHpCN0dh?=
+ =?us-ascii?Q?oiAmIjGclvvsvP+Bp068=2FbFZrw=3D=3D?=
+To: Diana.a@drmikeswalkinclinics.com
+X-Entity-ID: u001.7/3cRuE0uiovOOlKorRjiA==
+
+Greetings,
+
+The GOSFORD FINANCE & LOANS LTD (UK) invites you to partner with
+us and benefit from our new Loan and Project funding program. We
+offer loans and funding for various good projects. This however
+in the form of a partnership.
+
+Do you have projects and businesses that require funding? We are
+ready to give out Loans (Any big Loan), at just 2% per annum for
+15 years. If you're interested in any of our proposals, then send
+me email and your mobile phone number so that I can write to you
+or give you a call for more details on our Loan Investment
+Funding Plan.
+
+I look forward to your response
+
+Best Regards
+Mr Simon
+GOSFORD FINANCE & LOANS LTD(UK)
+","""Simon"" <simm@gosfordukfinanceltd.com>",diana.a@drmikeswalkinclinics.com,2025-03-27,213.209.150.85,United Kingdom,en,users/51240543/2b192632-7346-45fd-9d4e-039d772b28e9.json
+51240543,jTES3MbdTnW138EdAbg3-A.recvd-69cbc48b94-k6zww-1-67D69EFF-5.0,cHJvY2Vzc2VkLTUxMjQwNTQzLWpURVMzTWJkVG5XMTM4RWRBYmczLUEtMA,Let's test your integration,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gosfordukfinanceltd.com;
+	h=content-type:mime-version:subject:from:to:cc:content-type:from:
+	subject:to;
+	s=s1; bh=dp6cmWUaxfd6I3amHxoX0MI35tLnpsvaJb+ZtkrAMSQ=;
+	b=26MC0+6bt0n6RqW23cxsj6ma8uIICyh3zevTYnc/6mejAmP8GNjMGK8NNHevJ6IDdnv3
+	4XWuPJOl3PzvsFfbEygVz9BVcnFp6+ZYWwdrTqk7JbJUbkwrXNYssQEhOpK+gDaL5xCW0T
+	i9a1zGAlxCDL+6c8zX5DYC5/7M+b9nyYFKNcYuGa8d36mJyarUdtWGfv5/qdD5cLwKMb1Y
+	pXP4brzYxWqGJ6a7cvuogDv47pScBINoPzzgS1Jy+RdzwrRuQtOIblR1rBGPXi9Tl6Iz+X
+	MbuW9aprYz7IdRTUfkYk2Vyn39DNP2i8oyODFwY9hbyzSIDq/wnDBQxM06P3uz4Q==
+Received: by recvd-69cbc48b94-k6zww with SMTP id recvd-69cbc48b94-k6zww-1-67D69EFF-5
+	2025-03-16 09:50:55.271606718 +0000 UTC m=+10499261.256152320
+Received: from [80.75.218.138] (unknown)
+	by geopod-ismtpd-10 (SG) with ESMTP
+	id jTES3MbdTnW138EdAbg3-A
+	for <test-cydurve9n@srv1.mail-tester.com>;
+	Sun, 16 Mar 2025 09:50:55.027 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=""===============2107195565==""
+MIME-Version: 1.0
+Subject: Let's test your integration
+From: Julia <Julia.angel@gosfordukfinanceltd.com>
+Date: Sun, 16 Mar 2025 09:50:55 +0000 (UTC)
+Message-ID: <jTES3MbdTnW138EdAbg3-A@geopod-ismtpd-10>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EKjq91DcreDtiFaw+KL5+nwx=2FDlU22fDjHq9TLpwIOhWlLc9UvvKm=2FJVky?=
+ =?us-ascii?Q?KLKkfVf2UDrKSqJbWctc8TQuGYaVAw6BdaBfTPg?=
+ =?us-ascii?Q?izvhP4DDqQGapnIUEA8R90sWYjwbNh27SSj4rct?=
+ =?us-ascii?Q?MkgB6tmipYWs2ZSJOlzMkxDtgGDoj5rJ2BsV4av?=
+ =?us-ascii?Q?VVsSJfX9=2FguyMqaJLTdR8XILiMaDQB+X0r3dFlb?=
+ =?us-ascii?Q?k7z3Vd4LEEIYq863C9HsLbvctn80lm1Pj5kSQ84?=
+ =?us-ascii?Q?Z7KiKrOWNcBi1+EAF1qFrdumgQ=3D=3D?=
+To: test-cydurve9n@srv1.mail-tester.com
+X-Entity-ID: u001.7/3cRuE0uiovOOlKorRjiA==
+
+You will not see this in a MIME-aware mail reader.
+--===============2107195565==
+Content-Type: text/plain; charset=us-ascii
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+=20
+Let's test your integration
+ Send an email from your application using the code you just integrated. If=
+ that runs without error, click ""Verify Integration"".
+
+--===============2107195565==
+Content-Type: text/html; charset=us-ascii
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=
+=3Diso-8859-1""/></head><BODY><IMG class=3Dcard-icon style=3D""BOX-SIZING: bo=
+rder-box; FONT-SIZE: 40px; BORDER-TOP: 0px; FONT-FAMILY: Colfax, Helvetica,=
+ Arial, sans-serif; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; WHITE-SPAC=
+E: normal; WORD-SPACING: 0px; BORDER-BOTTOM: 0px; TEXT-TRANSFORM: none; FON=
+T-WEIGHT: 400; COLOR: rgb(84,107,129); PADDING-BOTTOM: 0px; FONT-STYLE: nor=
+mal; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: =
+0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 20px; LETTER-SPACING: normal; P=
+ADDING-RIGHT: 0px; TEXT-INDENT: 0px; animation-iteration-count: 1; scroll-b=
+ehavior: auto; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-variant-numeric: inherit; font-variant-east-asian: inherit; font-varian=
+t-alternates: inherit; font-variant-position: inherit; font-variant-emoji: =
+inherit; font-stretch: inherit; font-optical-sizing: inherit; font-size-adj=
+ust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-v=
+ariation-settings: inherit; flex-basis: 100%; -webkit-text-stroke-width: 0p=
+x; text-decoration-thickness: initial; text-decoration-style: initial; text=
+-decoration-color: initial"" alt=3D""Email Integration"" src=3D""https://app.se=
+ndgrid.com/dist/static/media/icon-emailServer.2551bdaf.svg""><SPAN style=3D""=
+FONT-SIZE: 16px; FONT-FAMILY: Colfax, Helvetica, Arial, sans-serif; WHITE-S=
+PACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WE=
+IGHT: 400; COLOR: rgb(84,107,129); FONT-STYLE: normal; TEXT-ALIGN: center; =
+ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; =
+BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligature=
+s: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-=
+decoration-thickness: initial; text-decoration-style: initial; text-decorat=
+ion-color: initial""></SPAN>
+<H2 style=3D""BOX-SIZING: border-box; FONT-SIZE: 20px; BORDER-TOP: 0px; FONT=
+-FAMILY: Colfax, Helvetica, Arial, sans-serif; BORDER-RIGHT: 0px; VERTICAL-=
+ALIGN: baseline; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTOM: 0px=
+; TEXT-TRANSFORM: none; FONT-WEIGHT: 600; COLOR: rgb(41,70,97); PADDING-BOT=
+TOM: 0px; FONT-STYLE: normal; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDING=
+-LEFT: 0px; BORDER-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 18px; =
+LETTER-SPACING: 0px; LINE-HEIGHT: 30px; PADDING-RIGHT: 0px; TEXT-INDENT: 0p=
+x; animation-iteration-count: 1; scroll-behavior: auto; font-variant-ligatu=
+res: normal; font-variant-caps: normal; font-variant-numeric: inherit; font=
+-variant-east-asian: inherit; font-variant-alternates: inherit; font-varian=
+t-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; fo=
+nt-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inheri=
+t; font-feature-settings: inherit; font-variation-settings: inherit; flex-b=
+asis: 100%; -webkit-text-stroke-width: 0px; text-decoration-thickness: init=
+ial; text-decoration-style: initial; text-decoration-color: initial"">Let's =
+test your integration</H2>
+<P style=3D""BOX-SIZING: border-box; FONT-SIZE: 13px; BORDER-TOP: 0px; FONT-=
+FAMILY: Colfax, Helvetica, Arial, sans-serif; BORDER-RIGHT: 0px; VERTICAL-A=
+LIGN: baseline; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTOM: 0px;=
+ TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(84,107,129); PADDING-BO=
+TTOM: 0px; FONT-STYLE: normal; TEXT-ALIGN: center; PADDING-TOP: 0px; PADDIN=
+G-LEFT: 0px; BORDER-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 20px;=
+ LETTER-SPACING: normal; LINE-HEIGHT: 20px; PADDING-RIGHT: 0px; TEXT-INDENT=
+: 0px; animation-iteration-count: 1; scroll-behavior: auto; font-variant-li=
+gatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; =
+font-variant-east-asian: inherit; font-variant-alternates: inherit; font-va=
+riant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit=
+; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: in=
+herit; font-feature-settings: inherit; font-variation-settings: inherit; fl=
+ex-basis: 100%; -webkit-text-stroke-width: 0px; text-decoration-thickness: =
+initial; text-decoration-style: initial; text-decoration-color: initial"">Se=
+nd an email from your application using the code you just integrated. If th=
+at runs without error, click ""Verify Integration"".</P><img src=3D""https://u=
+51240543.ct.sendgrid.net/wf/open?upn=3Du001.-2Fu-2FC0ZwW5OO7nbva9DUR2JUUnto=
+laqTNTXG5YlvlbdiOdpHBW1mkRzHljBpG7xNNqDFr-2FCEaws6kdSwymJ7kqsHGZZkCDsS499zV=
+qYbsyRYC0zRB8NN2iheZFgLRCcfqQbHc1wGkP2JXZIIYSLYRGHqRzRDTVE9BHHFQDvAmsmJ4XMy=
+rdLk8H4pmsQfz2WgqKQ0nRnPdEsGVmm7xflVxUnZMMMtqrK8k7M5ujbcEBvs-3D"" alt=3D"""" w=
+idth=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1=
+px !important;border-width:0 !important;margin-top:0 !important;margin-bott=
+om:0 !important;margin-right:0 !important;margin-left:0 !important;padding-=
+top:0 !important;padding-bottom:0 !important;padding-right:0 !important;pad=
+ding-left:0 !important;""/></BODY></HTML>
+--===============2107195565==--
+","""Julia"" <Julia.angel@gosfordukfinanceltd.com>",test-cydurve9n@srv1.mail-tester.com,2025-03-16,80.75.218.138,United Kingdom,fr,users/51240543/65a236f4-699d-4730-8a09-117752b2f169.json

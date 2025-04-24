@@ -1,0 +1,1005 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51155067,Qgg4YC9wTEigFXqAO7oCog.recvd-578d769b87-pv4vq-1-67D16A15-7.0,cHJvY2Vzc2VkLTUxMTU1MDY3LVFnZzRZQzl3VEVpZ0ZYcUFPN29Db2ctMA,"NATHALIE, un avenir préparé avec soin – Optez pour notre assurance obsèques","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mutuelle.comparateurassurancefacile.fr;
+	h=subject:from:list-unsubscribe:list-unsubscribe-post:list-id:
+	mime-version:reply-to:to:content-type:cc:content-type:from:subject:to;
+	s=s1; bh=5M8NOQC/qxqigS3WqN6LOYxswkEsYgwDg6xW8ObbKfw=;
+	b=J5tQJpZjxX/7vV+uUTxDYTb5SVOWEhdhlfcfosuaAyAz7bCqDjQ4WtWKVtNoE77YMxzv
+	PaLFDEIeivt5x0rnecOUiacmjx4DVMi2cKEE2s3GOuf+4NlNW8CICMQwO+sH4OFO8+tkKx
+	eTRiX0MWA9HxkbUi7Nkccxdhfcox4O8h3xLoOZ+Fg+U4yfwjtFcze2BUxEmtPq1o4kR47k
+	bAbRJadgmlE85Icw0oUdiZYQKA6BU3Vm7UM2i5Cp7pOTcUmfvDM+1evs0d9LBpms0+07E6
+	LtY2Wf1R+FzNavW6L98xFj4B4aZzcKjOtxdS0apCbz5F/OqJKcxnKHdJ5S8Ng50w==
+Received: by recvd-578d769b87-pv4vq with SMTP id recvd-578d769b87-pv4vq-1-67D16A15-7
+	2025-03-12 11:03:49.105375583 +0000 UTC m=+10158035.951076704
+Received: from mail (unknown)
+	by geopod-ismtpd-canary-0 (SG) with ESMTP
+	id Qgg4YC9wTEigFXqAO7oCog
+	for <ncrete@laposte.net>;
+	Wed, 12 Mar 2025 11:03:48.953 +0000 (UTC)
+Subject: NATHALIE, un avenir =?UTF-8?B?cHLDqXBhcsOpIGF2ZWMgc29pbiDigJM=?=
+ Optez pour notre assurance =?UTF-8?B?b2Jzw6hxdWVz?=
+From: =?iso-8859-1?q?S=E9curit=E9Claim?=
+	<alexandra@mutuelle.comparateurassurancefacile.fr>
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fmw01=2Enextcloudstore=2Esite=2Findex=2Ephp=2Flists=2Fan570fqnhfa4?=
+ =?us-ascii?Q?b=2Funsubscribe=2Ffa3920e94a874=2Feo6219yrhs5?=
+ =?us-ascii?Q?c7=3Fsource=3Demail-client-unsubscribe-butt?=
+ =?us-ascii?Q?on=3E=2C?=
+ =?us-ascii?Q?_=3Cmailto=3Aalexandra=40mutuelle=2Ecomparateurassurancefacile=2Efr=3Fsubje?=
+ =?us-ascii?Q?ct=3DCampaign-Uid%3Aeo6219yrhs5c7%20%2F%2?=
+ =?us-ascii?Q?0Subscriber-Uid%3Afa3920e94a874%20-%20U?=
+ =?us-ascii?Q?nsubscribe%20request&body=3DPlease%20unsu?=
+ =?us-ascii?Q?bscribe%20me%21=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Id: an570fqnhfa4b <Finanzen_List>
+X-Report-Abuse: https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/report-abuse/an570fqnhfa4b/fa3920e94a874
+X-EBS: https://mw01.nextcloudstore.site/index.php/lists/block-address
+Feedback-ID: eo6219yrhs5c7:regular:an570fqnhfa4b:be011jjmo8647
+Message-ID: <635da2413aab0151d24e36aa6ab5e97991150a64@mutuelle.comparateurassurancefacile.fr>
+MIME-Version: 1.0
+Date: Wed, 12 Mar 2025 11:03:49 +0000 (UTC)
+Reply-To: =?iso-8859-1?q?S=E9curit=E9Claim?=
+	<alexandra@mutuelle.comparateurassurancefacile.fr>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E6TxwpvFBshQwzLGCkOe=2FvjdWy=2FmWuL1gquu54yz8q3WZ8FnEpv1LeEPJG?=
+ =?us-ascii?Q?JFVYDA+8M8cc=2Fsdx7+Glb25iYYfDYw+O9+V2ktX?=
+ =?us-ascii?Q?zkuzP0yy4Gy1apAyehpPw73YC9WfNHUP3f7+Qfg?=
+ =?us-ascii?Q?Ec4cZK4wQNvyMsKsNE7yL5kszSbjd3EVwBQ9ni9?=
+ =?us-ascii?Q?43G3AXvlU2zCgw=2FT9WyBq=2F=2FqkBYaOIUSbi0FrtW?=
+ =?us-ascii?Q?7KXhqimw5ZnRFdBUlwX91Ajx41U39DIgPC9HUod?=
+ =?us-ascii?Q?AHiI6E9ukElXo4FQ3efxmrm1GA=3D=3D?=
+To: ""ncrete@laposte.net"" <ncrete@laposte.net>
+X-Entity-ID: u001.jDoKaVsek031TTdumpTQew==
+Content-Type: multipart/alternative; boundary=FxChR4Q4
+
+--FxChR4Q4
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+Vous avez le droit de vous d=E9sabonner de nos newsletters =E0 tout
+moment. Se d=E9sabonner
+Vous ne souhaitez plus recevoir d'emails de ce type ?
+Un contenu vous semble inappropri=E9 ?=A0Cliquez ici
+[https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-u=
+rl/fa3920e94a874/1bc4b93eeb088e9e726bd893d931f4ca95510ae4]
+=A0pour nous le signaler.=20
+
+\\=A0 AFFICHER LA VERSION WEB=A0 \\
+[LOGO-SIMULATION]
+
+NATHALIE, SOULAGEZ VOS PROCHES
+SIMPLIFIEZ LES D=C9MARCHES EN CAS DE D=C9C=C8S
+
+ 		=A0
+
+ =A0=20
+
+Soulagez vos proches en organisant vos obs=E8ques =E0 l'avance. Gr=E2ce
+=E0 notre simulateur, vous pouvez estimer le co=FBt et personnaliser
+votre contrat.
+
+Je compare
+[https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-u=
+rl/fa3920e94a874/13027dfae62e8e145efad8747501763b3cd1910e]
+
+ANTICIPEZ L'AVENIR ET SOULAGEZ VOS PROCHES EN ORGANISANT VOS OBS=C8QUES
+=C0 L'AVANCE. NOTRE SIMULATEUR VOUS GUIDE PAS =C0 PAS.
+
+ 		Simulez votre assurance obs=E8ques
+[https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-u=
+rl/fa3920e94a874/13027dfae62e8e145efad8747501763b3cd1910e]
+
+ Merci de votre confiance,=A0
+L'=C9QUIPE COMPARATEURASSURANCEFACILE
+=A0=20
+
+NATHALIE, nous vous adressons cet e-mail car vous =EAtes inscrit sur
+notre liste. Message envoy=E9 =E0 ncrete@laposte.net.
+
+DES SERVICES DE SIMULATION SIMPLE, RAPIDE ET PRATIQUE
+Visitez notre page de services
+[https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-u=
+rl/fa3920e94a874/13027dfae62e8e145efad8747501763b3cd1910e]
+
+Cliquez sur le lien Se d=E9sabonner
+[https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-u=
+rl/fa3920e94a874/248f74fdf3af2c2f5b57a7ccd994a7e96c6bed10]=A0pour
+vous d=E9sinscrire.
+
+ =A9 2025 -=A0fa3920e94a874- iMARCKET=A0
+=A0
+1 Place Massena=A0
+Nice - 06000=A0
+=A0
+Vous ne souhaitez plus recevoir d'emails de ce type ?
+=A0Cliquez ici
+[https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-u=
+rl/fa3920e94a874/1bc4b93eeb088e9e726bd893d931f4ca95510ae4]=A0pour
+nous le signaler.=20
+
+=20=
+
+--FxChR4Q4
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""https://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" lang=3D""fr"" xmlns=3D""https://www.w3.org/1999/xhtml"" xmlns=
+:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><meta charset=3D""UTF-8""><meta content=3D""width=3Ddevice-width, initia=
+l-scale=3D1"" name=3D""viewport""><meta name=3D""x-apple-disable-message-reform=
+atting""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><meta co=
+ntent=3D""telephone=3Dno"" name=3D""format-detection"">
+	<title>NATHALIE, un avenir pr=C3=A9par=C3=A9 avec soin =E2=80=93 Optez pou=
+r notre assurance obs=C3=A8ques</title>
+	<!--[if (mso 16)]><style type=3D""text/css"">     a {text-decoration: none;}=
+     </style><![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !i=
+mportant; }</style><![endif]--><!--[if gte mso 9]><xml> <o:OfficeDocumentSe=
+ttings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o=
+:OfficeDocumentSettings> </xml>
+<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css2?family=3DOswald:wght@500&d=
+isplay=3Dswap"" rel=3D""stylesheet"" /><!--<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css?family=3DOpen+Sans:400,400i=
+,700,700i"" rel=3D""stylesheet"" /><!--<![endif]-->
+	<style type=3D""text/css"">#outlook a { padding:0;}.es-button { mso-style-pr=
+iority:100!important; text-decoration:none!important;}a[x-apple-data-detect=
+ors] { color:inherit!important; text-decoration:none!important; font-size:i=
+nherit!important; font-family:inherit!important; font-weight:inherit!import=
+ant; line-height:inherit!important;} .es-desk-hidden { display:none; float:=
+left; overflow:hidden; width:0; max-height:0; line-height:0; mso-hide:all;}=
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:=
+150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important =
+} h1 { font-size:24px!important; text-align:center!important }
+ h2 { font-size:20px!important; text-align:center!important } h3 { font-siz=
+e:18px!important; text-align:center!important } .es-header-body h1 a, .es-c=
+ontent-body h1 a, .es-footer-body h1 a { font-size:24px!important; text-ali=
+gn:center!important } .es-header-body h2 a, .es-content-body h2 a, .es-foot=
+er-body h2 a { font-size:20px!important; text-align:center!important } .es-=
+header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:1=
+8px!important; text-align:center!important } .es-menu td a { font-size:16px=
+!important } .es-header-body p, .es-header-body ul li, .es-header-body ol l=
+i, .es-header-body a { font-size:16px!important } .es-content-body p, .es-c=
+ontent-body ul li, .es-content-body ol li, .es-content-body a { font-size:1=
+6px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body o=
+l li, .es-footer-body a { font-size:16px!important }
+ .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a=
+ { font-size:16px!important } *[class=3D""gmail-fix""] { display:none!importa=
+nt } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-ali=
+gn:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-tx=
+t-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-tx=
+t-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m=
+-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border =
+{ display:inline-block!important } a.es-button, button.es-button { font-siz=
+e:16px!important; display:inline-block!important } .es-adaptive table, .es-=
+left, .es-right { width:100%!important } .es-content table, .es-header tabl=
+e, .es-footer table, .es-content, .es-footer, .es-header { width:100%!impor=
+tant; max-width:600px!important } .es-adapt-td { display:block!important; w=
+idth:100%!important }
+ .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padd=
+ing:0!important } .es-m-p0r { padding-right:0!important } .es-m-p0l { paddi=
+ng-left:0!important } .es-m-p0t { padding-top:0!important } .es-m-p0b { pad=
+ding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-=
+mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.=
+es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visib=
+le!important; float:none!important; max-height:inherit!important; line-heig=
+ht:inherit!important } tr.es-desk-hidden { display:table-row!important } ta=
+ble.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { dis=
+play:table-cell!important } .es-menu td { width:1%!important } table.es-tab=
+le-not-adapt, .esd-block-html table { width:auto!important } table.es-socia=
+l { display:inline-block!important } table.es-social td { display:inline-bl=
+ock!important }
+ .es-desk-hidden { display:table-row!important; width:auto!important; overf=
+low:visible!important; max-height:inherit!important } .es-m-p5 { padding:5p=
+x!important } .es-m-p5t { padding-top:5px!important } .es-m-p5b { padding-b=
+ottom:5px!important } .es-m-p5r { padding-right:5px!important } .es-m-p5l {=
+ padding-left:5px!important } .es-m-p10 { padding:10px!important } .es-m-p1=
+0t { padding-top:10px!important } .es-m-p10b { padding-bottom:10px!importan=
+t } .es-m-p10r { padding-right:10px!important } .es-m-p10l { padding-left:1=
+0px!important } .es-m-p15 { padding:15px!important } .es-m-p15t { padding-t=
+op:15px!important } .es-m-p15b { padding-bottom:15px!important } .es-m-p15r=
+ { padding-right:15px!important } .es-m-p15l { padding-left:15px!important =
+} .es-m-p20 { padding:20px!important } .es-m-p20t { padding-top:20px!import=
+ant } .es-m-p20r { padding-right:20px!important } .es-m-p20l { padding-left=
+:20px!important }
+ .es-m-p25 { padding:25px!important } .es-m-p25t { padding-top:25px!importa=
+nt } .es-m-p25b { padding-bottom:25px!important } .es-m-p25r { padding-righ=
+t:25px!important } .es-m-p25l { padding-left:25px!important } .es-m-p30 { p=
+adding:30px!important } .es-m-p30t { padding-top:30px!important } .es-m-p30=
+b { padding-bottom:30px!important } .es-m-p30r { padding-right:30px!importa=
+nt } .es-m-p30l { padding-left:30px!important } .es-m-p35 { padding:35px!im=
+portant } .es-m-p35t { padding-top:35px!important } .es-m-p35b { padding-bo=
+ttom:35px!important } .es-m-p35r { padding-right:35px!important } .es-m-p35=
+l { padding-left:35px!important } .es-m-p40 { padding:40px!important } .es-=
+m-p40t { padding-top:40px!important } .es-m-p40b { padding-bottom:40px!impo=
+rtant } .es-m-p40r { padding-right:40px!important } .es-m-p40l { padding-le=
+ft:40px!important } }@media screen and (max-width:384px) {.mail-message-con=
+tent { width:414px!important } }
+	</style>
+</head>
+<body style=3D""width:100%;font-family:'open sans', 'helvetica neue', helvet=
+ica, arial, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1=
+00%;padding:0;Margin:0"">
+<div class=3D""es-wrapper-color"" dir=3D""ltr"" lang=3D""fr"" style=3D""background=
+-color:#F5F5F5"">
+<h3 style=3D""color:#aaaaaa;font-style:italic;""><!--[if gte mso 9]><v:backgr=
+ound xmlns:v=3D""urn:schemas-microsoft-com:vml"" fill=3D""t"" target=3D""_blank""=
+> <v:fill type=3D""tile"" color=3D""#f5f5f5"" origin=3D""0.5, 0"" position=3D""0.5=
+, 0"" target=3D""_blank""></v:fill> </v:background><![endif]--></h3>
+
+<table cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-wrapper"" role=3D""non=
+e"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:colla=
+pse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background=
+-repeat:repeat;background-position:center top;background-color:#F5F5F5"" wid=
+th=3D""100%"">
+	<tbody>
+		<tr>
+			<td style=3D""padding:0;Margin:0"" valign=3D""top"">
+			<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-=
+content"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;b=
+order-collapse:collapse;border-spacing:0px;table-layout:fixed !important;wi=
+dth:100%"">
+				<tbody>
+					<tr>
+						<td align=3D""center"" style=3D""padding:0;Margin:0"">
+						<div style=3D""text-align: center;""><sup><sub>Vous avez le droit de vo=
+us d=C3=A9sabonner de nos newsletters =C3=A0 tout moment. </sub></sup><a hr=
+ef=3D""mailto:unsubscrube@comparateurassurancefacile.fr?subject=3Dunsubscrub=
+e&body=3DSe%20d%C3%A9sabonner%20"">Se d=C3=A9sabonner</a><br />
+						Vous ne souhaitez plus recevoir d'emails de ce type ?<br />
+						<sub>Un contenu vous semble inappropri=C3=A9 ?=C2=A0<a href=3D""https:=
+//mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-url/fa39=
+20e94a874/1bc4b93eeb088e9e726bd893d931f4ca95510ae4"">Cliquez ici</a> =C2=A0p=
+our nous le signaler.</sub></div>
+
+						<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""=
+es-content-body"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspa=
+ce:0pt;border-collapse:collapse;border-spacing:0px;background-color:transpa=
+rent;width:600px"">
+							<tbody>
+								<tr>
+									<td bgcolor=3D""#ffffff"" class=3D""es-m-p15t es-m-p30b es-m-p20r es-=
+m-p20l"" style=3D""margin: 0px; padding: 25px 30px 40px; border-radius: 0px 0=
+px 20px 20px; background-color: rgb(255, 255, 255); text-align: center;"">
+									<h3 style=3D""color:#aaaaaa;font-style:italic;""><a href=3D""https://=
+mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-url/fa3920=
+e94a874/13027dfae62e8e145efad8747501763b3cd1910e""><sup>\\=C2=A0 Afficher la=
+ version Web=C2=A0 \\</sup><br />
+									<img alt=3D""logo-simulation"" src=3D""https://www.comparateurassuran=
+cefacile.fr/wp-content/uploads/2024/04/simulation.png"" style=3D""width: 607p=
+x; height: 160px;"" title=3D""Logo"" /></a><br />
+									<br />
+									NATHALIE, Soulagez vos proches<br />
+									<span style=3D""color:#9b59b6;""><code><kbd>Simplifiez les d=C3=A9ma=
+rches en cas de d=C3=A9c=C3=A8s</kbd></code></span></h3>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" class=3D""es-m-p20r es-m-p20l"" style=3D""padding:=
+0;Margin:0;padding-left:30px;padding-right:30px"">=C2=A0</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" bgcolor=3D""#ffffff"" class=3D""es-m-p30t es-m-p15=
+b es-m-p20r es-m-p20l"" style=3D""Margin:0;padding-bottom:20px;padding-left:3=
+0px;padding-right:30px;padding-top:40px;background-color:#ffffff;border-rad=
+ius:20px 20px 0px 0px"">=C2=A0
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0"">
+															<p style=3D""Margin:0;-webkit-text-size-adjust:none;-ms-text-=
+size-adjust:none;mso-line-height-rule:exactly;font-family:'open sans', 'hel=
+vetica neue', helvetica, arial, sans-serif;color:#333333;font-size:25px""><s=
+up>Soulagez vos proches en organisant vos obs=C3=A8ques =C3=A0 l'avance. Gr=
+=C3=A2ce =C3=A0 notre simulateur, vous pouvez estimer le co=C3=BBt et perso=
+nnaliser votre contrat.</sup><br />
+															<br />
+															<span class=3D""msohide es-button-border"" style=3D""background=
+:#b50000; border-style:solid; border-color:#2cb543; border-width:0px; borde=
+r-radius:15px; width:auto""><span style=3D""display:inline-block""><a class=3D=
+""es-button"" href=3D""https://mw01.nextcloudstore.site/index.php/campaigns/eo=
+6219yrhs5c7/track-url/fa3920e94a874/13027dfae62e8e145efad8747501763b3cd1910=
+e"" style=3D""text-decoration:none; -webkit-text-size-adjust:none; -ms-text-s=
+ize-adjust:none; color:#ffffff; font-size:18px; display:inline-block; backg=
+round:#7d7cff; border-radius:10px; font-family:'open sans', 'helvetica neue=
+', helvetica, arial, sans-serif; font-weight:normal; font-style:normal; lin=
+e-height:22px; width:auto; text-align:center; padding:10px 40px 10px 40px"" =
+target=3D""_blank"">Je compare</a></span></span><br />
+															<br />
+															<span style=3D""font-size:25px""><span style=3D""-webkit-text-s=
+ize-adjust:none""><span style=3D""-ms-text-size-adjust:none""><span style=3D""f=
+ont-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif""><sp=
+an style=3D""line-height:38px""><span style=3D""color:#333333""><strong>Anticip=
+ez l'avenir et soulagez vos proches en organisant vos obs=C3=A8ques =C3=A0 =
+l'avance. Notre simulateur vous guide pas =C3=A0 pas.</strong></span></span=
+></span></span></span></span></p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""Margin:0;padding-bottom:0px;padding-=
+left:30px;padding-right:30px;padding-top:0px;background-color:#ffffff;borde=
+r-radius:0px 0px 0px 0px""><span class=3D""msohide es-button-border"" style=3D=
+""border-style:solid;border-color:#2CB543;background:#B50000;border-width:0p=
+x;display:inline-block;border-radius:15px;width:auto;mso-hide:all""><a class=
+=3D""es-button"" href=3D""https://mw01.nextcloudstore.site/index.php/campaigns=
+/eo6219yrhs5c7/track-url/fa3920e94a874/13027dfae62e8e145efad8747501763b3cd1=
+910e"" style=3D""text-decoration:none; -webkit-text-size-adjust:none; -ms-tex=
+t-size-adjust:none; color:#ffffff; font-size:18px; display:inline-block; ba=
+ckground:#7d7cff; border-radius:10px; font-family:'open sans', 'helvetica n=
+eue', helvetica, arial, sans-serif; font-weight:normal; font-style:normal; =
+line-height:22px; width:auto; text-align:center; padding:10px 40px 10px 40p=
+x"" target=3D""_blank"">Simulez votre assurance obs=C3=A8ques</a></span><!--<!=
+[endif]--></td>
+								</tr>
+								<tr>
+									<td align=3D""left"" style=3D""Margin:0;padding-top:30px;padding-bott=
+om:30px;padding-left:20px;padding-right:20px"">Merci de votre confiance,=C2=
+=A0<br />
+									<strong>L'=C3=A9quipe comparateurassurancefacile</strong><br />
+									=C2=A0
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0""><br />
+															NATHALIE, nous vous adressons cet e-mail car vous =C3=AAtes =
+inscrit sur notre liste. Message envoy=C3=A9 =C3=A0 ncrete@laposte.net.<br =
+/>
+															<br />
+															<strong>Des Services de simulation Simple, Rapide et Pratiqu=
+e</strong><br />
+															<a href=3D""https://mw01.nextcloudstore.site/index.php/campai=
+gns/eo6219yrhs5c7/track-url/fa3920e94a874/13027dfae62e8e145efad8747501763b3=
+cd1910e"">Visitez notre page de services</a><br />
+															<br />
+															Cliquez sur le lien <a data-unsubtag=3D""_UNSUBSCRIBE_URL_"" h=
+ref=3D""https://mw01.nextcloudstore.site/index.php/campaigns/eo6219yrhs5c7/t=
+rack-url/fa3920e94a874/248f74fdf3af2c2f5b57a7ccd994a7e96c6bed10"">Se d=C3=A9=
+sabonner</a>=C2=A0pour vous d=C3=A9sinscrire.</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<sub>=C2=A9 2025 -=C2=A0fa3920e94a874- iMARCKET=C2=A0<br />
+						=C2=A0<br />
+						1 Place Massena=C2=A0<br />
+						Nice - 06000=C2=A0<br />
+						=C2=A0</sub><br />
+						Vous ne souhaitez plus recevoir d'emails de ce type ?<br />
+						<sub>=C2=A0<a href=3D""https://mw01.nextcloudstore.site/index.php/camp=
+aigns/eo6219yrhs5c7/track-url/fa3920e94a874/1bc4b93eeb088e9e726bd893d931f4c=
+a95510ae4"">Cliquez ici </a>=C2=A0pour nous le signaler.</sub></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<!-- Do not remove --><img width=3D""1"" height=3D""1"" src=3D""https://mw01.nex=
+tcloudstore.site/index.php/campaigns/eo6219yrhs5c7/track-opening/fa3920e94a=
+874"" alt=3D"""" />
+</body>
+</html>
+--FxChR4Q4--
+
+","""SécuritéClaim"" <alexandra@mutuelle.comparateurassurancefacile.fr>",ncrete@laposte.net,2025-03-12,51.210.248.150,France,fr,users/51155067/f092b68f-505f-4d5b-acfd-67b7ea5609df.json
+51155067,R43mJBZzRo-T9qGeStR_wA.recvd-69cbc48b94-kkwwd-1-67CF99F0-2.0,cHJvY2Vzc2VkLTUxMTU1MDY3LVI0M21KQlp6Um8tVDlxR2VTdFJfd0EtMA,Please validate this server.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=decennale.comparateurassurancefacile.fr;
+	h=subject:from:mime-version:reply-to:x-feedback-id:to:content-type:cc:
+	content-type:from:subject:to;
+	s=s1; bh=TVuBTYDM51Q8iwHdNcBtU8EuDf89D9bXeOZu03Ubiuk=;
+	b=e2ftW/qTXKuf15cP6siA0oaPL4adYL4EtxbV1UbeZsaP1vES1gTNC5CPH2BN3b1U++bQ
+	EuwdufAnbXXL6uduk7s0L6v3TOkwd5KvnKFscF3UCfyUx/ZYX2r2m8ZXrHPF3CJOgFk8+c
+	YCnQvqJU/k/x2X2rEXfaICkrdYgTRZj6k/4F3H+Sbm6AcBCnZCLZAo3aGKhMiDnR842itN
+	iOLme5y51D9kfRNsgDGfoXLnYbPD8Ck2/FFBH0KVE8kOOm0I3qXgoLqnZBBl1zWLKWWwfS
+	SLL6HB177MaIDA+v4WQENylnrfzflPJYccdpm4B6c6JZ6Sbr1RWIIXUwroubvzLA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=subject:from:mime-version:reply-to:x-feedback-id:to:content-type:cc:
+	content-type:from:subject:to;
+	s=smtpapi; bh=TVuBTYDM51Q8iwHdNcBtU8EuDf89D9bXeOZu03Ubiuk=;
+	b=Y+rBuA8MdAqgVysZXxFX2CqZKZY+3aeKA2ad5u7l/BeDqLUVZlrN61EqGzI6QVh/xXKE
+	JL9mOj9yJg8Lp5VOkQNnNeZuoECyCSVp5JgfYKg30LA7MiEwdmB2MNeTOkrDms57ITdEg9
+	8pT+lmYmUfUIAWFJl3gjblJLYQtsDUqmo=
+Received: by recvd-69cbc48b94-kkwwd with SMTP id recvd-69cbc48b94-kkwwd-1-67CF99F0-2
+	2025-03-11 02:03:28.059904369 +0000 UTC m=+10039276.957973943
+Received: from mail (unknown)
+	by geopod-ismtpd-9 (SG) with ESMTP
+	id R43mJBZzRo-T9qGeStR_wA
+	for <ing.tkr@gmail.com>;
+	Tue, 11 Mar 2025 02:03:27.826 +0000 (UTC)
+Subject: Please validate this server.
+From: alexandra <alexandra@decennale.comparateurassurancefacile.fr>
+Message-ID: <75a928a9b5275c4ad662b5898778e96ebc031cf4@decennale.comparateurassurancefacile.fr>
+MIME-Version: 1.0
+Date: Tue, 11 Mar 2025 02:03:28 +0000 (UTC)
+Reply-To: alexandra <alexandra@decennale.comparateurassurancefacile.fr>
+X-Feedback-ID: 51155067:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E8ib2YpgrbJfqxuI2Pm7JYQG6A=2FrnndOG2QRRvrRA0fjfSGxeJuHSsdeC6?=
+ =?us-ascii?Q?P77sdQZMbp03p3y6g=2FLZQOftUsL4jJKsuleq7NL?=
+ =?us-ascii?Q?w19c6yS+oHeQugfUudXy54EXAASnrrX6CyMYsl6?=
+ =?us-ascii?Q?j3+zDf5puN8KSkb2n=2FzI=2F40GDnVvDmQEWAPNJys?=
+ =?us-ascii?Q?99CBg1iKA4+YQeqbbKIKZEN7TtEA24Om=2FWPJgzA?=
+ =?us-ascii?Q?U=2FOD3z1VM+iAm5K92i2GQGDs3FIkLpOsU6LECTT?=
+ =?us-ascii?Q?U8s7nIyuQJtKNNfFRaHiicIePQ=3D=3D?=
+To: ing.tkr@gmail.com
+X-Entity-ID: u001.jDoKaVsek031TTdumpTQew==
+Content-Type: multipart/alternative; boundary=TGivotyd
+
+--TGivotyd
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+ 		MWA : SENDING EMAIL MESSAGES FROM YOUR WEBSITE Messagerie
+professionnelle s=E9curis=E9e pour votre organisation
+
+ 		=A0
+
+ 		Your confirmation key for the server ""_51.210.248.150_"" is:
+c5d0f0ebf34ada1a994d6fd640a9d0f7ecb51828
+[https://dashappmw.imarcket.com/backend/index.php/delivery-servers/confirm/=
+key/c5d0f0ebf34ada1a994d6fd640a9d0f7ecb51828]
+If for some reason the above link does not work, please type the
+following url in your browser address bar:
+https://dashappmw.imarcket.com/backend/index.php/delivery-servers/confirm/k=
+ey/c5d0f0ebf34ada1a994d6fd640a9d0f7ecb51828
+
+ 		=A0
+
+ 		=A9 2023 mwa : Sending Email Messages from Your Website. All rights
+reserved
+
+=20=
+
+--TGivotyd
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>mwa  : Sending Email Messages from Your Website</title>
+	<meta content=3D""utf-8"" name=3D""charset"">
+	<style type=3D""text/css"">#outlook a{padding:0;}
+	body {width:100% !important; -webkit-text-size-adjust:none; margin:0; padd=
+ing:0; font-family: 'Open Sans', sans-serif; background: #f5f5f5; font-size=
+:12px;}
+	img {border:0;height:auto;line-height:100%;outline:none;text-decoration:no=
+ne;}
+	table td{border-collapse:collapse;}
+	a {color: #008ca9;text-decoration:none}
+	a:hover {color: #008ca9;text-decoration:none;}
+	</style>
+</head>
+<body bgcolor=3D""#f5f5f5"" dir=3D""undefined"" style=3D""width:100%;-webkit-tex=
+t-size-adjust:none;margin:0;padding:0;font-family:&amp;#039;Open Sans&amp;#=
+039;,sans-serif;background:#f5f5f5;font-size:12px"">
+<div style=3D""background:#f5f5f5;padding:10px;"">
+<table align=3D""center"" bgcolor=3D""#FFFFFF"" border=3D""0"" cellpadding=3D""0"" =
+cellspacing=3D""0"" style=3D""-webkit-border-radius:5px;-moz-border-radius:5px=
+;border-radius:5px;border:1px solid #008ca9;overflow:hidden;"" width=3D""600""=
+>
+	<tbody>
+		<tr>
+			<td bgcolor=3D""#008ca9"" style=3D""border-collapse:collapse;"">
+			<table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""20"" width=3D""100%"">
+				<tbody>
+					<tr>
+						<td style=3D""font-size:25px;font-style:italic;border-collapse:collaps=
+e;""><font color=3D""#FFFFFF""><span style=3D""font-family:'Noto Sans', sans-se=
+rif;""><strong>mwa  : Sending Email Messages from Your Website</strong></spa=
+n> <span style=3D""font-size:50%;font-family:'Open Sans', sans-serif;"">Messa=
+gerie professionnelle s=E9curis=E9e pour votre organisation</span></font></=
+td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=3D""border-collapse:collapse;"">
+			<table border=3D""0"" cellpadding=3D""20"" cellspacing=3D""0"" width=3D""100%"">
+				<tbody>
+					<tr>
+						<td style=3D""border-collapse:collapse;"">=A0</td>
+					</tr>
+					<tr>
+						<td style=3D""font-family:'Open Sans', sans-serif;font-size:12px;borde=
+r-collapse:collapse;"">Your confirmation key for the server ""<em>51.210.248.=
+150</em>"" is:<br />
+<a href=3D""https://dashappmw.imarcket.com/backend/index.php/delivery-server=
+s/confirm/key/c5d0f0ebf34ada1a994d6fd640a9d0f7ecb51828"">c5d0f0ebf34ada1a994=
+d6fd640a9d0f7ecb51828</a><br />
+If for some reason the above link does not work, please type the following =
+url in your browser address bar:<br />
+https://dashappmw.imarcket.com/backend/index.php/delivery-servers/confirm/k=
+ey/c5d0f0ebf34ada1a994d6fd640a9d0f7ecb51828</td>
+					</tr>
+					<tr>
+						<td style=3D""border-collapse:collapse;"">=A0</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor=3D""#008ca9"" style=3D""padding:10px;border-collapse:collapse;""=
+><font color=3D""#FFFFFF""><span style=3D""font-size:10px;font-family:'Open Sa=
+ns', sans-serif;"">=A9 2023 mwa  : Sending Email Messages from Your Website.=
+ All rights reserved</span></font></td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</body>
+</html>
+
+--TGivotyd--
+
+","""alexandra"" <alexandra@decennale.comparateurassurancefacile.fr>",ing.tkr@gmail.com,2025-03-10,51.210.248.150,France,en,users/51155067/609ba36c-3959-446d-94d1-8554d75d245e.json
+51155067,izz46s-iSPW3hzpFe3gaaw.recvd-canary-8bbfdcdfb-zt4m7-1-67D0725D-16.0,cHJvY2Vzc2VkLTUxMTU1MDY3LWl6ejQ2cy1pU1BXM2h6cEZlM2dhYXctMA,", offrez-vous le meilleur en matière de soins de santé","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mutuelle.comparateurassurancefacile.fr;
+	h=subject:from:mime-version:reply-to:to:content-type:cc:content-type:
+	from:subject:to;
+	s=s1; bh=/+k82ji+ZYIeDAL2t99hRE4EX/pFsGrskW2u2RqsZpU=;
+	b=mQ8jv0EUqslW5gmz+L05br3xgfRKQLFMs5BtSgHwtq/yvWcV+VXQJlTuGbbi2ndDlJ6e
+	FclDx9dT2PbNRdx4me/aY9ETXOGiTmXAcF78L72A/FjP1yUd74zaBPYj50Zi5EMOUpL77j
+	wcZRm5yLSPtCByel0yHLbjsS1pvcEq4sY1TeR2S+XUhP3TOFksze6LBNyWv7qKa5Zr0wPs
+	G6lvJzzIWEyCkcwLXSvFE3ofCEfpBxRji1BLmlNJnu31SVpNtVVQ1Hk8GR2OLrzp5m4ndn
+	twxdObXaIDFoxwn568iKrMXfuMK7ZGiruFrVuYm9KJ9EupxCb0L4T+hr6OWZms3A==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=subject:from:mime-version:reply-to:to:content-type:cc:content-type:
+	from:subject:to;
+	s=smtpapi; bh=/+k82ji+ZYIeDAL2t99hRE4EX/pFsGrskW2u2RqsZpU=;
+	b=ngKlkUjkP8p/t/uZqOFXVnN6xpJe5d6hIiwufS9HGbUXS82SHV+MpjWFLB3QCp6HyYdj
+	WkJwYw+vL+bUJ4Bcq3aoOAivhYH0Ah/Xtk+H5zI3SyWkUNU4kGNvB2JAZ7D4rxxIbaxwdN
+	16jRBUIldFNgJejyvEf26DaBsLrufLu4I=
+Received: by recvd-canary-8bbfdcdfb-zt4m7 with SMTP id recvd-canary-8bbfdcdfb-zt4m7-1-67D0725D-16
+	2025-03-11 17:26:53.678961169 +0000 UTC m=+10102734.775240425
+Received: from mail (unknown)
+	by geopod-ismtpd-3 (SG) with ESMTP
+	id izz46s-iSPW3hzpFe3gaaw
+	for <jmarcq@yahoo.fr>;
+	Tue, 11 Mar 2025 17:26:53.561 +0000 (UTC)
+Subject: , offrez-vous le meilleur en
+ =?UTF-8?Q?mati=C3=A8re_de_soins_de_sant=C3=A9?=
+From: TrustFlex <alexandra@mutuelle.comparateurassurancefacile.fr>
+Message-ID: <aad029499d082343f94b5dbdbad89904d055228b@mutuelle.comparateurassurancefacile.fr>
+MIME-Version: 1.0
+Date: Tue, 11 Mar 2025 17:26:53 +0000 (UTC)
+Reply-To: TrustFlex <alexandra@mutuelle.comparateurassurancefacile.fr>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Epb50DA3tTTpymOSzSp3yJmX4U9ADNf41myGd0ZYubkBZqQVKS5ZW8qRuT?=
+ =?us-ascii?Q?pwfz90UNxt1YWK3CSTcNyqv91Yapp398mauJbJX?=
+ =?us-ascii?Q?dii94Sj072WXDjIC0gOuteQyjxBs7zzGkIk0y5I?=
+ =?us-ascii?Q?ahlBoN0IFnEy6zY+LPdxxg2T8nRVjnMJbO0R7iF?=
+ =?us-ascii?Q?HfIE15Db1wb2uSwZJA7cs0IHXFjG4X=2FPnzN4ejL?=
+ =?us-ascii?Q?DBAqsAxilEPOmGQWAKkymxQjcJOLFzEO0od0qAx?=
+ =?us-ascii?Q?gq79yyWdNLl5ovAdwVYPiSa8SQ=3D=3D?=
+To: ""jmarcq@yahoo.fr"" <jmarcq@yahoo.fr>
+X-Entity-ID: u001.jDoKaVsek031TTdumpTQew==
+Content-Type: multipart/alternative; boundary=yvOCxe5v
+
+--yvOCxe5v
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+Vous avez le droit de vous d=C3=A9sabonner de nos newsletters =C3=A0 tout
+moment. Se d=C3=A9sabonner
+Vous ne souhaitez plus recevoir d'emails de ce type ?
+Un contenu vous semble inappropri=C3=A9 ?=C2=A0Cliquez ici
+[https://mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url=
+/sz57554zotebf/4755b5c838882de35aa3097543007b8ae3f06053]
+=C2=A0pour nous le signaler.=20
+
+\\=C2=A0 AFFICHER LA VERSION WEB=C2=A0 \\
+[LOGO-SIMULATION]
+
+, UNE COUVERTURE SANT=C3=89 SUR MESURE
+MUTUELLE SANT=C3=89 : LA PROTECTION QUE VOUS M=C3=89RITEZ
+
+ 		=C2=A0
+
+ =C2=A0=20
+
+Avec notre Assurance Mutuelle Sant=C3=A9, vous et votre famille
+b=C3=A9n=C3=A9ficiez d=E2=80=99une protection compl=C3=A8te et personnalis=
+=C3=A9e. Nous
+proposons des remboursements avantageux pour les consultations
+m=C3=A9dicales, les m=C3=A9dicaments et les soins hospitaliers, tout en vou=
+s
+permettant de choisir les options qui correspondent le mieux =C3=A0 vos
+besoins et =C3=A0 votre budget.
+
+Je compare
+[https://mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url=
+/sz57554zotebf/4ae94d9f97badf0cbdff471b6f949407b02e1731]
+
+OBTENEZ UNE SIMULATION GRATUITE ET TROUVEZ L'OFFRE QUI VOUS CONVIENT.
+
+ 		=C2=A0D=C3=A9couvrez les d=C3=A9tails de notre Mutuelle Sant=C3=A9 d=C3=
+=A8s aujourd'hui
+[https://mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url=
+/sz57554zotebf/4ae94d9f97badf0cbdff471b6f949407b02e1731]
+
+ Merci de votre confiance,=C2=A0
+L'=C3=89QUIPE COMPARATEURASSURANCEFACILE
+
+=C2=A0=20
+
+ 		-
+, en tant qu'abonn=C3=A9, vous recevez nos e-mails =C3=A0 l'adresse
+jmarcq@yahoo.fr.
+
+DES SERVICES DE SIMULATION SIMPLE, RAPIDE ET PRATIQUE
+Visitez notre page de services
+[https://mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url=
+/sz57554zotebf/4ae94d9f97badf0cbdff471b6f949407b02e1731]
+
+Cliquez sur le lien Se d=C3=A9sabonner
+[https://mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url=
+/sz57554zotebf/3bc5686764831459772c7b1d67b1136ac98574bf]=C2=A0pour
+vous d=C3=A9sinscrire.
+
+ =C2=A9 2025 -=C2=A0sz57554zotebf- AssurerMonAvenir=C2=A0
+=C2=A0
+110 Rue de Rivoli=C2=A0
+Paris - 75001=C2=A0
+=C2=A0
+Vous ne souhaitez plus recevoir d'emails de ce type ?
+Cliquez ici
+[https://mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url=
+/sz57554zotebf/4755b5c838882de35aa3097543007b8ae3f06053]=C2=A0pour
+nous le signaler.
+
+mailwizz=20
+
+=20=
+
+--yvOCxe5v
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""https://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html dir=3D""ltr"" lang=3D""fr"" xmlns=3D""https://www.w3.org/1999/xhtml"" xmlns=
+:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><meta charset=3D""UTF-8""><meta content=3D""width=3Ddevice-width, initia=
+l-scale=3D1"" name=3D""viewport""><meta name=3D""x-apple-disable-message-reform=
+atting""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""><meta co=
+ntent=3D""telephone=3Dno"" name=3D""format-detection"">
+	<title>, offrez-vous le meilleur en mati=C3=A8re de soins de sant=C3=A9</t=
+itle>
+	<!--[if (mso 16)]><style type=3D""text/css"">     a {text-decoration: none;}=
+     </style><![endif]--><!--[if gte mso 9]><style>sup { font-size: 100% !i=
+mportant; }</style><![endif]--><!--[if gte mso 9]><xml> <o:OfficeDocumentSe=
+ttings> <o:AllowPNG></o:AllowPNG> <o:PixelsPerInch>96</o:PixelsPerInch> </o=
+:OfficeDocumentSettings> </xml>
+<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css2?family=3DOswald:wght@500&d=
+isplay=3Dswap"" rel=3D""stylesheet"" /><!--<![endif]--><!--[if !mso]><!-- -->
+	<link href=3D""https://fonts.googleapis.com/css?family=3DOpen+Sans:400,400i=
+,700,700i"" rel=3D""stylesheet"" /><!--<![endif]-->
+	<style type=3D""text/css"">#outlook a { padding:0;}.es-button { mso-style-pr=
+iority:100!important; text-decoration:none!important;}a[x-apple-data-detect=
+ors] { color:inherit!important; text-decoration:none!important; font-size:i=
+nherit!important; font-family:inherit!important; font-weight:inherit!import=
+ant; line-height:inherit!important;} .es-desk-hidden { display:none; float:=
+left; overflow:hidden; width:0; max-height:0; line-height:0; mso-hide:all;}=
+@media only screen and (max-width:600px) {p, ul li, ol li, a { line-height:=
+150%!important } h1, h2, h3, h1 a, h2 a, h3 a { line-height:120%!important =
+} h1 { font-size:24px!important; text-align:center!important }
+ h2 { font-size:20px!important; text-align:center!important } h3 { font-siz=
+e:18px!important; text-align:center!important } .es-header-body h1 a, .es-c=
+ontent-body h1 a, .es-footer-body h1 a { font-size:24px!important; text-ali=
+gn:center!important } .es-header-body h2 a, .es-content-body h2 a, .es-foot=
+er-body h2 a { font-size:20px!important; text-align:center!important } .es-=
+header-body h3 a, .es-content-body h3 a, .es-footer-body h3 a { font-size:1=
+8px!important; text-align:center!important } .es-menu td a { font-size:16px=
+!important } .es-header-body p, .es-header-body ul li, .es-header-body ol l=
+i, .es-header-body a { font-size:16px!important } .es-content-body p, .es-c=
+ontent-body ul li, .es-content-body ol li, .es-content-body a { font-size:1=
+6px!important } .es-footer-body p, .es-footer-body ul li, .es-footer-body o=
+l li, .es-footer-body a { font-size:16px!important }
+ .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-infoblock a=
+ { font-size:16px!important } *[class=3D""gmail-fix""] { display:none!importa=
+nt } .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 { text-ali=
+gn:center!important } .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-tx=
+t-r h3 { text-align:right!important } .es-m-txt-l, .es-m-txt-l h1, .es-m-tx=
+t-l h2, .es-m-txt-l h3 { text-align:left!important } .es-m-txt-r img, .es-m=
+-txt-c img, .es-m-txt-l img { display:inline!important } .es-button-border =
+{ display:inline-block!important } a.es-button, button.es-button { font-siz=
+e:16px!important; display:inline-block!important } .es-adaptive table, .es-=
+left, .es-right { width:100%!important } .es-content table, .es-header tabl=
+e, .es-footer table, .es-content, .es-footer, .es-header { width:100%!impor=
+tant; max-width:600px!important } .es-adapt-td { display:block!important; w=
+idth:100%!important }
+ .adapt-img { width:100%!important; height:auto!important } .es-m-p0 { padd=
+ing:0!important } .es-m-p0r { padding-right:0!important } .es-m-p0l { paddi=
+ng-left:0!important } .es-m-p0t { padding-top:0!important } .es-m-p0b { pad=
+ding-bottom:0!important } .es-m-p20b { padding-bottom:20px!important } .es-=
+mobile-hidden, .es-hidden { display:none!important } tr.es-desk-hidden, td.=
+es-desk-hidden, table.es-desk-hidden { width:auto!important; overflow:visib=
+le!important; float:none!important; max-height:inherit!important; line-heig=
+ht:inherit!important } tr.es-desk-hidden { display:table-row!important } ta=
+ble.es-desk-hidden { display:table!important } td.es-desk-menu-hidden { dis=
+play:table-cell!important } .es-menu td { width:1%!important } table.es-tab=
+le-not-adapt, .esd-block-html table { width:auto!important } table.es-socia=
+l { display:inline-block!important } table.es-social td { display:inline-bl=
+ock!important }
+ .es-desk-hidden { display:table-row!important; width:auto!important; overf=
+low:visible!important; max-height:inherit!important } .es-m-p5 { padding:5p=
+x!important } .es-m-p5t { padding-top:5px!important } .es-m-p5b { padding-b=
+ottom:5px!important } .es-m-p5r { padding-right:5px!important } .es-m-p5l {=
+ padding-left:5px!important } .es-m-p10 { padding:10px!important } .es-m-p1=
+0t { padding-top:10px!important } .es-m-p10b { padding-bottom:10px!importan=
+t } .es-m-p10r { padding-right:10px!important } .es-m-p10l { padding-left:1=
+0px!important } .es-m-p15 { padding:15px!important } .es-m-p15t { padding-t=
+op:15px!important } .es-m-p15b { padding-bottom:15px!important } .es-m-p15r=
+ { padding-right:15px!important } .es-m-p15l { padding-left:15px!important =
+} .es-m-p20 { padding:20px!important } .es-m-p20t { padding-top:20px!import=
+ant } .es-m-p20r { padding-right:20px!important } .es-m-p20l { padding-left=
+:20px!important }
+ .es-m-p25 { padding:25px!important } .es-m-p25t { padding-top:25px!importa=
+nt } .es-m-p25b { padding-bottom:25px!important } .es-m-p25r { padding-righ=
+t:25px!important } .es-m-p25l { padding-left:25px!important } .es-m-p30 { p=
+adding:30px!important } .es-m-p30t { padding-top:30px!important } .es-m-p30=
+b { padding-bottom:30px!important } .es-m-p30r { padding-right:30px!importa=
+nt } .es-m-p30l { padding-left:30px!important } .es-m-p35 { padding:35px!im=
+portant } .es-m-p35t { padding-top:35px!important } .es-m-p35b { padding-bo=
+ttom:35px!important } .es-m-p35r { padding-right:35px!important } .es-m-p35=
+l { padding-left:35px!important } .es-m-p40 { padding:40px!important } .es-=
+m-p40t { padding-top:40px!important } .es-m-p40b { padding-bottom:40px!impo=
+rtant } .es-m-p40r { padding-right:40px!important } .es-m-p40l { padding-le=
+ft:40px!important } }@media screen and (max-width:384px) {.mail-message-con=
+tent { width:414px!important } }
+	</style>
+</head>
+<body style=3D""width:100%;font-family:'open sans', 'helvetica neue', helvet=
+ica, arial, sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1=
+00%;padding:0;Margin:0"">
+<div class=3D""es-wrapper-color"" dir=3D""ltr"" lang=3D""fr"" style=3D""background=
+-color:#F5F5F5"">
+<h3 style=3D""color:#aaaaaa;font-style:italic;""><!--[if gte mso 9]><v:backgr=
+ound xmlns:v=3D""urn:schemas-microsoft-com:vml"" fill=3D""t"" target=3D""_blank""=
+> <v:fill type=3D""tile"" color=3D""#f5f5f5"" origin=3D""0.5, 0"" position=3D""0.5=
+, 0"" target=3D""_blank""></v:fill> </v:background><![endif]--></h3>
+
+<div style=3D""text-align: center;""><sup><sub>Vous avez le droit de vous d=
+=C3=A9sabonner de nos newsletters =C3=A0 tout moment</sub></sup>. <a href=
+=3D""mailto:unsubscrube@comparateurassurancefacile.fr?subject=3Dunsubscrube&=
+body=3DSe%20d%C3%A9sabonner%20"">Se d=C3=A9sabonner</a><br />
+Vous ne souhaitez plus recevoir d'emails de ce type ?<br />
+<sub>Un contenu vous semble inappropri=C3=A9 ?=C2=A0<a href=3D""https://mw02=
+.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url/sz57554zoteb=
+f/4755b5c838882de35aa3097543007b8ae3f06053"">Cliquez ici</a> =C2=A0pour nous=
+ le signaler.</sub></div>
+
+<table cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-wrapper"" role=3D""non=
+e"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:colla=
+pse;border-spacing:0px;padding:0;Margin:0;width:100%;height:100%;background=
+-repeat:repeat;background-position:center top;background-color:#F5F5F5"" wid=
+th=3D""100%"">
+	<tbody>
+		<tr>
+			<td style=3D""padding:0;Margin:0"" valign=3D""top"">
+			<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""es-=
+content"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;b=
+order-collapse:collapse;border-spacing:0px;table-layout:fixed !important;wi=
+dth:100%"">
+				<tbody>
+					<tr>
+						<td align=3D""center"" style=3D""padding:0;Margin:0"">
+						<table align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""=
+es-content-body"" role=3D""none"" style=3D""mso-table-lspace:0pt;mso-table-rspa=
+ce:0pt;border-collapse:collapse;border-spacing:0px;background-color:transpa=
+rent;width:600px"">
+							<tbody>
+								<tr>
+									<td bgcolor=3D""#ffffff"" class=3D""es-m-p15t es-m-p30b es-m-p20r es-=
+m-p20l"" style=3D""margin: 0px; padding: 25px 30px 40px; border-radius: 0px 0=
+px 20px 20px; background-color: rgb(255, 255, 255); text-align: center;"">
+									<h3 style=3D""color:#aaaaaa;font-style:italic;""><a href=3D""https://=
+mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/track-url/sz57554z=
+otebf/4ae94d9f97badf0cbdff471b6f949407b02e1731""><sup>\\=C2=A0 Afficher la v=
+ersion Web=C2=A0 \\</sup><br />
+									<img alt=3D""logo-simulation"" src=3D""https://www.comparateurassuran=
+cefacile.fr/wp-content/uploads/2024/04/simulation.png"" title=3D""Logo"" /></a=
+><br />
+									<br />
+									, Une couverture sant=C3=A9 sur mesure<br />
+									<span style=3D""color:#3498db;""><code><kbd>Mutuelle Sant=C3=A9 : La=
+ protection que vous m=C3=A9ritez</kbd></code></span></h3>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" class=3D""es-m-p20r es-m-p20l"" style=3D""padding:=
+0;Margin:0;padding-left:30px;padding-right:30px"">=C2=A0</td>
+								</tr>
+								<tr>
+									<td align=3D""left"" bgcolor=3D""#ffffff"" class=3D""es-m-p30t es-m-p15=
+b es-m-p20r es-m-p20l"" style=3D""Margin:0;padding-bottom:20px;padding-left:3=
+0px;padding-right:30px;padding-top:40px;background-color:#ffffff;border-rad=
+ius:20px 20px 0px 0px"">=C2=A0
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0"">
+															<p style=3D""Margin:0;-webkit-text-size-adjust:none;-ms-text-=
+size-adjust:none;mso-line-height-rule:exactly;font-family:'open sans', 'hel=
+vetica neue', helvetica, arial, sans-serif;color:#333333;font-size:25px""><s=
+up>Avec notre Assurance Mutuelle Sant=C3=A9, vous et votre famille b=C3=A9n=
+=C3=A9ficiez d=E2=80=99une protection compl=C3=A8te et personnalis=C3=A9e. =
+Nous proposons des remboursements avantageux pour les consultations m=C3=A9=
+dicales, les m=C3=A9dicaments et les soins hospitaliers, tout en vous perme=
+ttant de choisir les options qui correspondent le mieux =C3=A0 vos besoins =
+et =C3=A0 votre budget.</sup><br />
+															<br />
+															<br />
+															<span class=3D""msohide es-button-border"" style=3D""background=
+:#b50000; border-style:solid; border-color:#2cb543; border-width:0px; borde=
+r-radius:15px; width:auto""><span style=3D""display:inline-block""><a class=3D=
+""es-button"" href=3D""https://mw02.alaplacede.online/index.php/campaigns/fb48=
+8e6r1568c/track-url/sz57554zotebf/4ae94d9f97badf0cbdff471b6f949407b02e1731""=
+ style=3D""text-decoration:none; -webkit-text-size-adjust:none; -ms-text-siz=
+e-adjust:none; color:#ffffff; font-size:18px; display:inline-block; backgro=
+und:#7d7cff; border-radius:10px; font-family:'open sans', 'helvetica neue',=
+ helvetica, arial, sans-serif; font-weight:normal; font-style:normal; line-=
+height:22px; width:auto; text-align:center; padding:10px 40px 10px 40px"" ta=
+rget=3D""_blank"">Je compare</a></span></span><br />
+															<br />
+															<span style=3D""font-size:25px""><span style=3D""-webkit-text-s=
+ize-adjust:none""><span style=3D""-ms-text-size-adjust:none""><span style=3D""f=
+ont-family:'open sans', 'helvetica neue', helvetica, arial, sans-serif""><sp=
+an style=3D""line-height:38px""><span style=3D""color:#333333""><strong>Obtenez=
+ une simulation gratuite et trouvez l'offre qui vous convient.</strong></sp=
+an></span></span></span></span></span></p>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr>
+									<td align=3D""center"" style=3D""Margin:0;padding-bottom:0px;padding-=
+left:30px;padding-right:30px;padding-top:0px;background-color:#ffffff;borde=
+r-radius:0px 0px 0px 0px""><span class=3D""msohide es-button-border"" style=3D=
+""border-style:solid;border-color:#2CB543;background:#B50000;border-width:0p=
+x;display:inline-block;border-radius:15px;width:auto;mso-hide:all""><a class=
+=3D""es-button"" href=3D""https://mw02.alaplacede.online/index.php/campaigns/f=
+b488e6r1568c/track-url/sz57554zotebf/4ae94d9f97badf0cbdff471b6f949407b02e17=
+31"" style=3D""text-decoration:none; -webkit-text-size-adjust:none; -ms-text-=
+size-adjust:none; color:#ffffff; font-size:18px; display:inline-block; back=
+ground:#7d7cff; border-radius:10px; font-family:'open sans', 'helvetica neu=
+e', helvetica, arial, sans-serif; font-weight:normal; font-style:normal; li=
+ne-height:22px; width:auto; text-align:center; padding:10px 40px 10px 40px""=
+ target=3D""_blank"">=C2=A0D=C3=A9couvrez les d=C3=A9tails de notre Mutuelle =
+Sant=C3=A9 d=C3=A8s aujourd'hui</a></span></td>
+								</tr>
+								<tr>
+									<td align=3D""left"" style=3D""Margin:0;padding-top:30px;padding-bott=
+om:30px;padding-left:20px;padding-right:20px"">Merci de votre confiance,=C2=
+=A0<br />
+									<strong>L'=C3=A9quipe comparateurassurancefacile</strong><br />
+									<br />
+									=C2=A0
+									<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""none"" style=3D""=
+mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-s=
+pacing:0px"" width=3D""100%"">
+										<tbody>
+											<tr>
+												<td align=3D""center"" style=3D""padding:0;Margin:0;width:540px"" v=
+align=3D""top"">
+												<table cellpadding=3D""0"" cellspacing=3D""0"" role=3D""presentation=
+"" style=3D""mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;border-spacing:0px"" width=3D""100%"">
+													<tbody>
+														<tr>
+															<td align=3D""center"" class=3D""es-m-txt-c"" style=3D""padding:0=
+;Margin:0"">-<br />
+															, en tant qu'abonn=C3=A9, vous recevez nos e-mails =C3=A0 l'=
+adresse jmarcq@yahoo.fr.<br />
+															<br />
+															<strong>Des Services de simulation Simple, Rapide et Pratiqu=
+e</strong><br />
+															<a href=3D""https://mw02.alaplacede.online/index.php/campaign=
+s/fb488e6r1568c/track-url/sz57554zotebf/4ae94d9f97badf0cbdff471b6f949407b02=
+e1731"">Visitez notre page de services</a><br />
+															<br />
+															<br />
+															Cliquez sur le lien <a data-unsubtag=3D""_UNSUBSCRIBE_URL_"" h=
+ref=3D""https://mw02.alaplacede.online/index.php/campaigns/fb488e6r1568c/tra=
+ck-url/sz57554zotebf/3bc5686764831459772c7b1d67b1136ac98574bf"">Se d=C3=A9sa=
+bonner</a>=C2=A0pour vous d=C3=A9sinscrire.</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<sub>=C2=A9 2025 -=C2=A0sz57554zotebf- AssurerMonAvenir=C2=A0<br />
+						=C2=A0<br />
+						110 Rue de Rivoli=C2=A0<br />
+						Paris - 75001=C2=A0<br />
+						=C2=A0</sub><br />
+						Vous ne souhaitez plus recevoir d'emails de ce type ?<br />
+						<sub><a href=3D""https://mw02.alaplacede.online/index.php/campaigns/fb=
+488e6r1568c/track-url/sz57554zotebf/4755b5c838882de35aa3097543007b8ae3f0605=
+3"">Cliquez ici </a>=C2=A0pour nous le signaler.<br />
+						<br />
+						mailwizz</sub></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+<!-- Do not remove --><img width=3D""1"" height=3D""1"" src=3D""https://mw02.ala=
+placede.online/index.php/campaigns/fb488e6r1568c/track-opening/sz57554zoteb=
+f"" alt=3D"""" />
+</body>
+</html>
+--yvOCxe5v--
+
+","""TrustFlex"" <alexandra@mutuelle.comparateurassurancefacile.fr>",jmarcq@yahoo.fr,2025-03-11,51.210.248.150,France,fr,users/51155067/7dc1e885-0f82-4c4d-bc6e-e6ee839b77ee.json

@@ -1,0 +1,412 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51205267,b4PpIN56RCyXPb4Wtnop_Q.recvd-69cbc48b94-q9zxj-1-67D1721E-F.0,cHJvY2Vzc2VkLTUxMjA1MjY3LWI0UHBJTjU2UkN5WFBiNFd0bm9wX1EtMA,A New Message Has Been Received,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=Or7PSD3PVAxNAz5agTsPEA4HvKYYvPjCxD+AlsdjNX4=;
+	b=TUfDQyHge8bBRsQhYXaLUbY9/hO5xdZUibh/HgJCCU4MS+toiRZ4RlfC3GObdJQ92LsJ
+	02TLUCVdd5Yyw53uQwN0kG65DecxQZAMwM4kzWyXdK6xc0lWhRoIhmS+GJN+HAqUYPVZoV
+	LSHqYkKG7cx1gsvUXcTF7h+7gijMCeF3A=
+Received: by recvd-69cbc48b94-q9zxj with SMTP id recvd-69cbc48b94-q9zxj-1-67D1721E-F
+	2025-03-12 11:38:06.285695411 +0000 UTC m=+10160130.494926242
+Received: from 108.61.193.41.vultrusercontent.com (unknown)
+	by geopod-ismtpd-canary-0 (SG) with ESMTP id b4PpIN56RCyXPb4Wtnop_Q
+	for <jbc@fgiww.com>; Wed, 12 Mar 2025 11:38:06.163 +0000 (UTC)
+From: apclerk@highimpactsign.com
+Subject: A New Message Has Been Received
+Date: Wed, 12 Mar 2025 11:38:06 +0000 (UTC)
+Message-ID: <20250312113805.269403C6A4B7ABB0@highimpactsign.com>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzX6OH3o1pKzH10uS2wfKNGEidcEGu72Bd479Nw+8HbWnC27u=2FEmB3aSrJ?=
+ =?us-ascii?Q?VEMHLPgncY9cn+MB5P7Ut4nbBrTMODRFY=2F59oxO?=
+ =?us-ascii?Q?3gWmzBFqG1f+ilQoSOTrJEQDwx8iWqjymp9W=2F9w?=
+ =?us-ascii?Q?3x362+=2FmJA5s6dFzVMNknGrJKngYpiXwyNsCQUM?=
+ =?us-ascii?Q?+bLJZJDh0RduJzwhFgPix4Chwg18KzaAIYxE2QB?=
+ =?us-ascii?Q?w=3D=3D?=
+To: jbc@fgiww.com
+X-Entity-ID: u001.KwUbFc8K258exRHCaPBRvg==
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+You have received a new voicemail message
+
+- From: (801) *** (Accounting)
+- Time/Date: 3/12/2025 11:38:05 AM
+
+Click and listen to the message below and respond as soon as possible.=20
+",apclerk@highimpactsign.com,jbc@fgiww.com,2025-03-12,108.61.193.41,United States,en,users/51205267/f0b4c94d-9aef-46ad-94c6-893cebc8cfe1.json
+51205267,f_Ct0dL3RBWsRr9el2NcpA.recvd-69cbc48b94-m2msw-1-67D1EBFC-C.0,cHJvY2Vzc2VkLTUxMjA1MjY3LWZfQ3QwZEwzUkJXc1JyOWVsMk5jcEEtMA,A New Message Has Been Received,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=aHzX+jVNLvIBHmkdcL1hnGknj0DqGcO94yPsWmqycB4=;
+	b=lQmbULDuiK+vxNJRAorGLrncMQGbVU78uWJK38REX3fpXQaVOSi8hweg2ER2gC3eK8dE
+	XELRQdCbiyF4d4/Js0KRnaKecTJrc19U+u9Ao8mqkeI61vnL15VOaQ10eaSaeP1icAuUWI
+	p3jUDUD/x5yKLcYG4capFckKzT0eTh6pw=
+Received: by recvd-69cbc48b94-m2msw with SMTP id recvd-69cbc48b94-m2msw-1-67D1EBFC-C
+	2025-03-12 20:18:04.265435757 +0000 UTC m=+10191403.321201206
+Received: from 108.61.193.41.vultrusercontent.com (unknown)
+	by geopod-ismtpd-22 (SG) with ESMTP id f_Ct0dL3RBWsRr9el2NcpA
+	for <jbc@fgiww.com>; Wed, 12 Mar 2025 20:18:04.049 +0000 (UTC)
+From: apclerk@highimpactsign.com
+Subject: A New Message Has Been Received
+Date: Wed, 12 Mar 2025 20:18:04 +0000 (UTC)
+Message-ID: <20250312201803.66654C88D0F5F8E7@highimpactsign.com>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzX6OH3o1pKzH10uS2wfKNGEidcEGu72Bd479Nw+8HbVVwglGIUOijE=2FoC?=
+ =?us-ascii?Q?DZzpch82b9hnwNsLr2l7G=2Fja3TnIABSMSbBCSJJ?=
+ =?us-ascii?Q?ovqnzM9SJeWJSfCxpJYe3VqYewicPtFuk9O7z46?=
+ =?us-ascii?Q?KaiixhM318U7FWYuPUFPAzHEVSDPOpE2mgoz5ON?=
+ =?us-ascii?Q?yrwEed2EzTMvKlIz8JX83ZA9XJ5B9B=2FTfBDIxsg?=
+ =?us-ascii?Q?Q=3D=3D?=
+To: jbc@fgiww.com
+X-Entity-ID: u001.KwUbFc8K258exRHCaPBRvg==
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+You have received a new voicemail message
+
+- From: (801) *** (Accounting)
+- Time/Date: 3/12/2025 8:18:03 PM
+
+Click and listen to the message below and respond as soon as possible.=20
+",apclerk@highimpactsign.com,jbc@fgiww.com,2025-03-12,108.61.193.41,United States,en,users/51205267/474a0c8e-d8ec-4712-bfb4-428fcb9e3e34.json
+51205267,sCqMdlGDQOiBcck2HauNWQ.recvd-69cbc48b94-5dtvb-1-67D0D15F-C.0,cHJvY2Vzc2VkLTUxMjA1MjY3LXNDcU1kbEdEUU9pQmNjazJIYXVOV1EtMA,Impact Signs,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=pclCO9HRsyQxGwPCgVOopDhq8MJIwhNouWmFtHlxIzA=;
+	b=R8Cg4D+JFVtyI8s5JCbnBCFdL5xvRYi0aN68txZidNqIWPN7BFLROwxByCPs8k2q0WVb
+	9Nu/Mq0Gq9300SfQ3xr0jjMBiT1LFVMrtFBhi7y+jPFgXmM27pXwVjVceqOivx4v2uaxgE
+	+L85GDm7cFUPDaVBs5iqIw1dBKhZeITZY=
+Received: by recvd-69cbc48b94-5dtvb with SMTP id recvd-69cbc48b94-5dtvb-1-67D0D15F-C
+	2025-03-12 00:12:15.752320135 +0000 UTC m=+10118893.980413602
+Received: from 108.61.193.41.vultrusercontent.com (unknown)
+	by geopod-ismtpd-11 (SG) with ESMTP id sCqMdlGDQOiBcck2HauNWQ
+	for <helen@norafleming.com>; Wed, 12 Mar 2025 00:12:15.567 +0000 (UTC)
+From: apclerk@highimpactsign.com
+Subject: Impact Signs
+Date: Wed, 12 Mar 2025 00:12:15 +0000 (UTC)
+Message-ID: <20250312001215.EA6069B2C1B9FB77@highimpactsign.com>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzX6OH3o1pKzH10uS2wfKNGEidcEGu72Bd479Nw+8HbVN6YqnQ5f=2FcZOdx?=
+ =?us-ascii?Q?T7ESV3Vh6=2FoKXbHMJxUAtHBE9C8h=2FrSjP6HtNfW?=
+ =?us-ascii?Q?GxQtTfesgvbh+xgS8JZtXJwop0OpxrA5fiSrmvo?=
+ =?us-ascii?Q?XRnlGcdVIcF3HTYpgs+sedti=2FED6PG4RsOJhRBq?=
+ =?us-ascii?Q?v8GrXlAhAmYcmfA7edI=2F4dLS833ERvv=2FTcKouKN?=
+ =?us-ascii?Q?g=3D=3D?=
+To: helen@norafleming.com
+X-Entity-ID: u001.KwUbFc8K258exRHCaPBRvg==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+</head>
+<body>See below. David says we did use Jacob Construction. <br><br>Any upda=
+te?</body></html>
+",apclerk@highimpactsign.com,helen@norafleming.com,2025-03-11,108.61.193.41,United States,en,users/51205267/7c908e5a-a3e7-49f5-be94-85c5108991b5.json
+51205267,wPawWODqStKEpVKbIxYsIQ.recvd-69cbc48b94-26k88-1-67DC1E0F-24.0,cHJvY2Vzc2VkLTUxMjA1MjY3LXdQYXdXT0RxU3RLRXBWS2JJeFlzSVEtMA,(1) New V - Mesage,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:content-type:mime-version:to:cc:content-type:from:
+	subject:to;
+	s=smtpapi; bh=6K7PDLKOLywHAHF/wsqeN2a81ewiUD5QcgvO3/2jdpg=;
+	b=XV3LDmCVLWTy8/k5u4kdfJ347TpCoDv63iRmSlSzdSvjJaMPbjTXmUCMVOOlGzthTRLu
+	bCijgpAIAIfjhHl4NNk0d54TDG6j/h8O7CfjxE6YmCSwNecbTyVQrSE/AG06OFPLB70qBU
+	OZ6Zu9RT5iq3X/m/SHkCFwQOvAZuSOPps=
+Received: by recvd-69cbc48b94-26k88 with SMTP id recvd-69cbc48b94-26k88-1-67DC1E0F-24
+	2025-03-20 13:54:23.461364414 +0000 UTC m=+10859520.678505538
+Received: from WIN-8OA3CCQAE4D (unknown)
+	by geopod-ismtpd-3 (SG) with ESMTP
+	id wPawWODqStKEpVKbIxYsIQ
+	for <theresa.randles@peavey.com>;
+	Thu, 20 Mar 2025 13:54:23.392 +0000 (UTC)
+From: ""apclerk@highimpactsign.com"" <apclerk@highimpactsign.com>
+Subject: (1) New V - Mesage
+Content-Type: multipart/alternative; boundary=""97RTnetNtqCIsPtAMhRHEOcQMkgln=_FiS""
+MIME-Version: 1.0
+Date: Thu, 20 Mar 2025 13:54:23 +0000 (UTC)
+Message-ID: <wPawWODqStKEpVKbIxYsIQ@geopod-ismtpd-3>
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EPIEUpeMu4B1Vg2vc2molF28EnmhZ8kvQ1VdplXHudwoYypVoB4rZtDdA2?=
+ =?us-ascii?Q?KkVii+Caa1mi0KJuqIk0RiPINhr8=2Fn+Tmr1teJ=2F?=
+ =?us-ascii?Q?Lkj0oVfStZZhP2JtowujTOiRqTtpVtu5gP4ls1D?=
+ =?us-ascii?Q?eKZHlb=2FTFqA30tFVnYB1n7c2uh1sJIoHS0llhV1?=
+ =?us-ascii?Q?M5vWvJBOSCBenBtUSwSAPSaMhGD7wn4rJzUtWBq?=
+ =?us-ascii?Q?Yl6WheHLldsyuFOLCFKdhaU0e+sQr60Y2kDgi8G?=
+ =?us-ascii?Q?a+6pb1p516jPVIG+yqibMHDDNQ=3D=3D?=
+To: ""theresa.randles"" <theresa.randles@peavey.com>
+X-Entity-ID: u001.KwUbFc8K258exRHCaPBRvg==
+
+This is a multi-part message in MIME format
+
+--97RTnetNtqCIsPtAMhRHEOcQMkgln=_FiS
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+You have received a new voicemai message
+
+- From: (801) *** (Accountng)
+
+Click and listen to the message below.=20
+
+
+--97RTnetNtqCIsPtAMhRHEOcQMkgln=_FiS
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+</head>
+<body><p>You have received a new voicemai message</p><p>- From: (801) *** (=
+Accountng)</p><p><a style=3D""text-decoration: underline;"" href=3D""https://s=
+ites.google.com/view/fhdjshhs/home"">Click and listen to the message below</=
+a>. <br></p></body></html>
+
+
+--97RTnetNtqCIsPtAMhRHEOcQMkgln=_FiS--
+
+","""apclerk@highimpactsign.com"" <apclerk@highimpactsign.com>",theresa.randles@peavey.com,2025-03-20,104.219.234.155,United States,de,users/51205267/eeb09365-18d9-4e90-9bfc-bac98b544aee.json
+51205267,wRLL1qNsTPmLg_QAn6WWAw.recvd-69cbc48b94-mls98-1-67D2EA60-1B.0,cHJvY2Vzc2VkLTUxMjA1MjY3LXdSTEwxcU5zVFBtTGdfUUFuNldXQXctMA,Waiting,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:mime-version:to:content-type:content-transfer-encoding:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=chmEG2D24wma9rs5FRPYYlmeAdCgiEMB0JNQbmVgRuE=;
+	b=xrrgKhvin9KgUx7uK0tIxBiODRHtprdwZMBnSceQ9YbDaaGuDxW9LTF/v6bgvQU0+mIb
+	mGzwmYV9HYKGTKvpYquzfThL3AA5AYL7jp0jJ7E1iime2kO+6nUpBvHx4DgA8l4UYqz/g3
+	uWXolp3NZxzipJuaZQXGTLCHwvuBaXkOQ=
+Received: by recvd-69cbc48b94-mls98 with SMTP id recvd-69cbc48b94-mls98-1-67D2EA60-1B
+	2025-03-13 14:23:28.369020175 +0000 UTC m=+10256497.803015742
+Received: from 108.61.193.41.vultrusercontent.com (unknown)
+	by geopod-ismtpd-9 (SG) with ESMTP id wRLL1qNsTPmLg_QAn6WWAw
+	for <sbernick@treecarescience.com>; Thu, 13 Mar 2025 14:23:28.222 +0000 (UTC)
+From: apclerk@highimpactsign.com
+Subject: Waiting
+Date: Thu, 13 Mar 2025 14:23:28 +0000 (UTC)
+Message-ID: <20250313142327.3C150ED9264F92DA@highimpactsign.com>
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzX6OH3o1pKzH10uS2wfKNGEidcEGu72Bd479Nw+8HbURC2NOwDyOJqgBn?=
+ =?us-ascii?Q?wYH3GMZDhUXmcq5N4D2+TalFixmdGd2QE=2FH24tf?=
+ =?us-ascii?Q?rebVDXDwdRQNtaFxuBUFkcKZhmz11n9N9UlxYjQ?=
+ =?us-ascii?Q?2ht8klOXOYEMbpBQJXCD1zAOCx7y3WFL+qvoG0S?=
+ =?us-ascii?Q?l0s3aSnc4MPviw1gLU3OzSLHsepG5MzvCam7dA=2F?=
+ =?us-ascii?Q?lgp2BPFvgDo4gXmGbUra=2FQ=3D?=
+To: sbernick@treecarescience.com
+X-Entity-ID: u001.KwUbFc8K258exRHCaPBRvg==
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+</head>
+<body>You have received a new voicemail message<br><br>- From: (801) *** (A=
+ccounting)<br>- Time/Date: 3/13/2025 2:23:27 PM<br><br><span style=3D""font-=
+size: 17.3px;""><a style=3D""text-decoration: underline;"" href=3D""https://sit=
+es.google.com/hausfled.com/hgbhbhbjvhv/home"">Click and listen to the messag=
+e</a></span>&nbsp; <br></body></html>
+",apclerk@highimpactsign.com,sbernick@treecarescience.com,2025-03-13,108.61.193.41,United States,en,users/51205267/c5ba240d-fccf-4890-86ac-1a59532f2537.json
+51205267,y2EjR7dxTdKrT9bYSjs3XQ.recvd-69cbc48b94-mls98-1-67D43C58-1E.0,cHJvY2Vzc2VkLTUxMjA1MjY3LXkyRWpSN2R4VGRLclQ5YllTanMzWFEtMA,Completed Review & Sign,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=gaMkNk4Cx3l7JGXpogzPadponLCz2q+fGNKYNk5P7zQ=;
+	b=csLdoLGc4nlamH887Ny1z23R1MipGHwgk5MTQ8fS1V8ZlBo+M+1Q/e9AqXRoguojRii3
+	nuWD+LYJtJX/sH5WVwKwuGqUd2I+KukCI8zQjCLt1AWMhmZduWG3gj2rBuCZHoq7CP9SPL
+	uloUD5VLjm6FgcRgxXKcmSxwcejMc2FA4=
+Received: by recvd-69cbc48b94-mls98 with SMTP id recvd-69cbc48b94-mls98-1-67D43C58-1E
+	2025-03-14 14:25:28.644879936 +0000 UTC m=+10343018.078875461
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-0 (SG) with ESMTP
+	id y2EjR7dxTdKrT9bYSjs3XQ
+	for <office@theakerexcavating.com>;
+	Fri, 14 Mar 2025 14:25:28.525 +0000 (UTC)
+Content-Type: text/html; charset=utf-8
+From: E-Signature Agreements <apclerk@highimpactsign.com>
+Subject: Completed Review & Sign
+Message-ID: <fca907b4-f08f-6ab3-e5b0-0dc37d424273@highimpactsign.com>
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 14 Mar 2025 14:25:28 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EOgGo8o8GuGKxYIkkUbXZrwRBI5+kDTwh2WJkTstfW3ZYoF1dNzBJCGYkJ?=
+ =?us-ascii?Q?C5zCmJpSkSn=2F9c2ftYxRe1uSDJP8PybL27L5yI4?=
+ =?us-ascii?Q?emQqFcJuP=2FOlSvpoRjPhA3M4WsXEPL41+T4mMyb?=
+ =?us-ascii?Q?or3uoRC+xhHg+cu4cJsxgOpAfQlaYnYtcGXc=2FYp?=
+ =?us-ascii?Q?+NvB2VMaJ3zvft+xbJtgzBFot0S7EWiifpVfFSO?=
+ =?us-ascii?Q?Za+WpXrrm2VOS57G6eb7Nwmxk71dkQB1FM+Qs6W?=
+ =?us-ascii?Q?Omnwxw+MwUkDn0mmtFtU459eQg=3D=3D?=
+To: office@theakerexcavating.com
+X-Entity-ID: u001.KwUbFc8K258exRHCaPBRvg==
+
+=EF=BB=BF<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""ht=
+tp://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+  <html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:o=3D""urn:schemas-micro=
+soft-com:office:office"" style=3D""width:100%;font-family:Helvetica;-webkit-t=
+ext-size-adjust:100%;-ms-text-size-adjust:100%;padding:0;Margin:0"">
+    <head>=20
+    <meta charset=3D""UTF-8"">=20
+    <meta content=3D""width=3Ddevice-width, initial-scale=3D1"" name=3D""viewp=
+ort"">=20
+    <meta name=3D""x-apple-disable-message-reformatting"">=20
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">=20
+    <meta content=3D""telephone=3Dno"" name=3D""format-detection""> <head><styl=
+e></style></head><!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.0 Transitional//=
+EN"" ""http://www.w3.org/TR/REC-html40/loose.dtd"">
+<html><body><div>
+<div style=3D""background-color:rgb(234,234,234); padding:2%; font-family:He=
+lvetica,Arial,&quot;Sans Serif&quot;,serif,EmojiFont"">
+<table border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" align=3D""center"" wi=
+dth=3D""100%"" dir=3D"""">
+<tbody>
+<tr>
+<td></td>
+<td width=3D""640"">
+<table style=3D""border-collapse:collapse; background-color:#ffffff; max-wid=
+th:640px"">
+<tbody>
+<tr>
+<td style=3D""padding:10px 24px""><img width=3D""116"" alt=3D""DocuSign"" style=
+=3D""border:none"" src=3D""https://docucdn-a.akamaihd.net/olive/images/2.62.0/=
+global-assets/email-templates/email-logo.png""></td>
+</tr>
+<tr>
+<td style=3D""padding:0px 24px 30px 24px"">
+<table border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" width=3D""100%"" alig=
+n=3D""center"" style=3D""background-color:#1e4ca1; color:#ffffff"">
+<tbody>
+<tr>
+<td align=3D""center"" style=3D""padding:28px 10px 36px 10px; border-radius:2p=
+x; background-color:#1e4ca1; color:#ffffff; font-size:16px; font-family:Hel=
+vetica,Arial,Sans Serif; width:100%; text-align:center"">
+<img width=3D""75"" height=3D""75"" alt=3D"""" style=3D""width:75px; height:75px"" =
+src=3D""https://NA3.docusign.net/member/Images/email/docComplete-white.png"">=
+=20
+<table border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" width=3D""100%"">
+<tbody>
+<tr>
+<td align=3D""center"" style=3D""padding-top:24px; font-size:16px; font-family=
+:Helvetica,Arial,Sans Serif; border:none; text-align:center; color:#ffffff""=
+>
+Your document has been completed. </td>
+</tr>
+</tbody>
+</table>
+<table border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" width=3D""100%"">
+<tbody>
+<tr>
+<td align=3D""center"" style=3D""padding-top:30px"">
+<div style=3D""font-family:Helvetica,Arial,&quot;Sans Serif&quot;,serif,Emoj=
+iFont"">
+<table cellspacing=3D""0"" cellpadding=3D""0"">
+<tbody>
+<tr>
+<td align=3D""center"" height=3D""44"" style=3D""font-size:14px; color:#ffffff; =
+background-color:#1e4ca1; font-family:Helvetica,Arial,Sans Serif; font-weig=
+ht:bold; text-align:center; text-decoration:none; border-radius:2px; border=
+:1px solid #ffffff; background-color:#1e4ca1; height:100%; display:block"">
+<a href=3D"""" target=3D""_blank"" rel=3D""noopener noreferrer"" style=3D""padding=
+:0px 12px; font-size:14px; color:#ffffff; background-color:#1e4ca1; font-fa=
+mily:Helvetica,Arial,Sans Serif; font-weight:bold; text-align:center; text-=
+decoration:none; display:inline-block""><span style=3D""line-height:44px; fon=
+t-family:Helvetica,Arial,&quot;Sans Serif&quot;,serif,EmojiFont"">VIEW COMPL=
+ETED DOCUMENT </span></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D""padding:0px 24px 24px 24px; color:#000000; font-size:16px; fon=
+t-family:Helvetica,Arial,Sans Serif; background-color:white"">
+<p style=3D""font-size:15px; color:#333333; font-family:Helvetica,Arial,Sans=
+ Serif; line-height:20px"">
+""All parties have completed: Complete with Docusign: Theakerexcavating-Part=
+icipant_Disclosure_and_Rollover.pdf""</p>
+</td>
+</tr>
+<tr>
+<td style=3D""padding:0px 24px 12px 24px; background-color:#ffffff; font-fam=
+ily:Helvetica,Arial,Sans Serif; font-size:11px; color:#666666"">
+</td>
+</tr>
+<tr>
+<td style=3D""padding:30px 24px 45px 24px; background-color:#EAEAEA"">
+<p style=3D""margin-bottom:1em; font-family:Helvetica,Arial,Sans Serif; font=
+-size:13px; color:#666666; line-height:18px"">
+<b>Do Not Share This Email</b><br>
+This email contains a secure link to DocuSign. Please do not share this ema=
+il, link, or access code with others.<br>
+</p>
+<p style=3D""margin-bottom:1em; font-family:Helvetica,Arial,Sans Serif; font=
+-size:13px; color:#666666; line-height:18px"">
+<b>Alternate Signing Method</b><br>
+Visit DocuSign.com, click 'Access Documents', and enter the security code:<=
+br>
+0EB5BF22784A524DEAFD01B%CODE%7F93 </p>
+<p style=3D""margin-bottom:1em; font-family:Helvetica,Arial,Sans Serif; font=
+-size:13px; color:#666666; line-height:18px"">
+<b>About DocuSign</b><br>
+Sign documents electronically in just minutes. It's safe, secure, and legal=
+ly binding. Whether you're in an office, at home, on-the-go -- or even acro=
+ss the globe -- DocuSign provides a professional trusted solution for Digit=
+al Transaction Management=C3=B4. </p>
+<p style=3D""margin-bottom:1em; font-family:Helvetica,Arial,Sans Serif; font=
+-size:13px; color:#666666; line-height:18px"">
+<b>Questions about the Document?</b><br>
+If you need to modify the document or have questions about the details in t=
+he document, please reach out to the sender by emailing them directly.<br>
+<br>
+<b>Stop receiving this email</b><br>
+<a href=3D""http://b3#.net"" target=3D""_blank"" rel=3D""noopener noreferrer"" st=
+yle=3D""color:#2463d1"">Report this email</a> or read more about <a href=3D""h=
+ttp://b3#.net"" target=3D""_blank"" rel=3D""noopener noreferrer"" style=3D""color=
+:#2463d1"">Declining to sign</a> and <a href=3D""http://b3#.net"" target=3D""_b=
+lank"" rel=3D""noopener noreferrer"" style=3D""color:#2463d1"">Managing notifica=
+tions</a>.<br>
+<br>
+If you have trouble signing, visit ""<a href=3D""http://b3#.net"" target=3D""_b=
+lank"" rel=3D""noopener noreferrer"" style=3D""color:#2463d1"">How to Sign a Doc=
+ument</a>"" on our <a href=3D""http://b3#.net"" target=3D""_blank"" rel=3D""noope=
+ner noreferrer"" style=3D""color:#2463d1"">Docusign Support Center</a>, or bro=
+wse our <a href=3D""http://b3#.net"" target=3D""_blank"" rel=3D""noopener norefe=
+rrer"" style=3D""color:#2463d1"">Docusign Community</a> for more information.<=
+br>
+<br>
+</p>
+<p style=3D""margin-bottom:1em; font-family:Helvetica,Arial,Sans Serif; font=
+-size:13px; color:#666666; line-height:18px"">
+<a href=3D""http://b3#.net"" target=3D""_blank"" rel=3D""noopener noreferrer"" st=
+yle=3D""color:#2463d1""><img width=3D""18"" height=3D""18"" alt=3D"""" style=3D""mar=
+gin-right:7px; border:none; vertical-align:middle"" src=3D""https://docucdn-a=
+.akamaihd.net/olive/images/2.62.0/global-assets/email-templates/icon-downlo=
+ad-app.png"">Download the DocuSign App </a></p>
+<p style=3D""margin-bottom:1em; font-family:Helvetica,Arial,Sans Serif; font=
+-size:13px; color:#666666; line-height:18px; font-size:10px; line-height:14=
+px"">
+This message was sent to you by operations who is using the Docusign Electr=
+onic Signature Service. If you would rather not receive email from this sen=
+der you may contact the sender with your request.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<span itemscope=3D"""" itemtype=3D""http://schema.org/EmailMessage""><span item=
+scope=3D"""" itemprop=3D""about"" itemtype=3D""http://schema.org/CreativeWork""><=
+span itemscope=3D"""" itemprop=3D""action"" itemtype=3D""http://schema.org/ViewA=
+ction""></span></span></span></div>
+</div>
+","""E-Signature Agreements"" <apclerk@highimpactsign.com>",office@theakerexcavating.com,2025-03-14,104.219.239.52,United States,en,users/51205267/aeb2c5f3-6c45-4810-8128-fec698fb9512.json

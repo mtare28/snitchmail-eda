@@ -1,0 +1,466 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50770418,qLcjP-nAT7aLCTTGGSMFWA.recvd-canary-66874876c5-ccld2-1-67E194AC-3B.0,cHJvY2Vzc2VkLTUwNzcwNDE4LXFMY2pQLW5BVDdhTENUVEdHU01GV0EtMA,Important Notice: Upcoming Payment,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=email.bestsuitedbiz.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=1zPsxANvE1zVj6uCkUZg03jYFV89HOja8KtuH9RO9Sc=;
+	b=hHTorqlThnOnyihyKmjfLbWi1exY7cewqcabSTdMelLC2MEYTOrgSJdkUGu5d7T0olo8
+	IKCFn7yuhmVcci+I0asDvBGLMZsXIccNSOaw1HtwtxN/ZvjqqNDhrLsYMxwGkD10T2b9ac
+	fX5xZtv1kxJLKBxYz+YiF4hAZI/H644yLDOlJL5AH7mFqsbCm1r2CI5nD56oQs70qT62wD
+	HHnc/xRzNYbNqTs6g/mv52HKwE4J2ffowrLJDKcrmBJBA1xu5KlTdCyqHYLX8uPP6CkCuS
+	CI2u5/sFCmSJOzpzWZBiS/JLE2tK3aCDotoZpxveOYN9dWumfsGZDhIw8lmytgzw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=1zPsxANvE1zVj6uCkUZg03jYFV89HOja8KtuH9RO9Sc=;
+	b=e+j7LivX0QQ1QeMQ9ebucCPxVrbk9cn1dcEKssC2FiFaJjK4vQOb5UMs+Z+kMFW4G6DP
+	O7mWyD70ekQdO4ZWgg/+LRG7tSyz67J36n3mYhvEe0EgKsfif26sZZXfuJ2j7wNAmD6q9R
+	z1KhsUrg8KsDA3Qv7+JsS/ISKD73WF2iQ=
+Received: by recvd-canary-66874876c5-ccld2 with SMTP id recvd-canary-66874876c5-ccld2-1-67E194AC-3B
+	2025-03-24 17:21:48.272057325 +0000 UTC m=+11225634.838232061
+Received: from NTA3NzA0MTg (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id qLcjP-nAT7aLCTTGGSMFWA
+	Mon, 24 Mar 2025 17:21:48.010 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Mon, 24 Mar 2025 17:21:48 +0000 (UTC)
+From: LoyalROI <loyalroi@email.bestsuitedbiz.com>
+Mime-Version: 1.0
+Message-ID: <qLcjP-nAT7aLCTTGGSMFWA@geopod-ismtpd-canary-0>
+Subject: Important Notice: Upcoming Payment
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EXjaDVdG8NRZjMbPI7XFJkBQdTnhEp6pdXwIKspzpQMklUamGTTJNyaCmd?=
+ =?us-ascii?Q?oX1wZFGDRwOroF5A3OAloeZGDyauDgn1iQbPNej?=
+ =?us-ascii?Q?uRWK=2FzKapS9oakvxWodiuovRH5u=2FQA8yylYb590?=
+ =?us-ascii?Q?hrlfgU8PqVhRLruTXdXo=2FFEq6FKl8520aoSsN+u?=
+ =?us-ascii?Q?DYflS6mSRPKcph7um7gHObvnctUNYXP47qgSo3T?=
+ =?us-ascii?Q?VOrZWo6lPkQYft8stYkYsCZfJxjmsmHTfv24Kt4?=
+ =?us-ascii?Q?ja62NwROtwlbHRG0r3vuyXfDU=2FfNfUPVSL37e5m?=
+ =?us-ascii?Q?DgCXgSftt=2FcWVnZfSkl+W=2FkmLYfVA?=
+To: 311kitchenandcocktails+prospecting107577@gmail.com
+X-Entity-ID: u001.hMtH+MBvL2V//r9Sm7+/mw==
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html lang=3D""en"" style=3D""font-family:arial, 'helvetica neue', helvetica, =
+sans-serif"">
+<head>
+    <title>Nick Covington product</title>
+    <style type=3D""text/css"">
+        #outlook a {
+            padding: 0;
+        }
+
+        .es-button {
+            mso-style-priority: 100 !important;
+            text-decoration: none !important;
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        .es-desk-hidden {
+            display: none;
+            float: left;
+            overflow: hidden;
+            width: 0;
+            max-height: 0;
+            line-height: 0;
+            mso-hide: all;
+        }
+
+        [data-ogsb] .es-button {
+            border-width: 0 !important;
+            padding: 10px 20px 10px 20px !important;
+        }
+
+        .es-button-border:hover a.es-button, .es-button-border:hover button=
+.es-button {
+            background: #56d66b !important;
+            border-color: #56d66b !important;
+        }
+
+        .es-button-border:hover {
+            border-color: #42d159 #42d159 #42d159 #42d159 !important;
+            background: #56d66b !important;
+        }
+
+        @media only screen and (max-width: 600px) {
+            p, ul li, ol li, a {
+                line-height: 150% !important
+            }
+
+            h1, h2, h3, h1 a, h2 a, h3 a {
+                line-height: 120%
+            }
+
+            h1 {
+                font-size: 30px !important;
+                text-align: left
+            }
+
+            h2 {
+                font-size: 24px !important;
+                text-align: left
+            }
+
+            h3 {
+                font-size: 20px !important;
+                text-align: left
+            }
+
+            .es-header-body h1 a, .es-content-body h1 a, .es-footer-body h1=
+ a {
+                font-size: 30px !important;
+                text-align: left
+            }
+
+            .es-header-body h2 a, .es-content-body h2 a, .es-footer-body h2=
+ a {
+                font-size: 24px !important;
+                text-align: left
+            }
+
+            .es-header-body h3 a, .es-content-body h3 a, .es-footer-body h3=
+ a {
+                font-size: 20px !important;
+                text-align: left
+            }
+
+            .es-menu td a {
+                font-size: 14px !important
+            }
+
+            .es-header-body p, .es-header-body ul li, .es-header-body ol li=
+, .es-header-body a {
+                font-size: 14px !important
+            }
+
+            .es-content-body p, .es-content-body ul li, .es-content-body ol=
+ li, .es-content-body a {
+                font-size: 14px !important
+            }
+
+            .es-footer-body p, .es-footer-body ul li, .es-footer-body ol li=
+, .es-footer-body a {
+                font-size: 14px !important
+            }
+
+            .es-infoblock p, .es-infoblock ul li, .es-infoblock ol li, .es-=
+infoblock a {
+                font-size: 12px !important
+            }
+
+            *[class=3D""gmail-fix""] {
+                display: none !important
+            }
+
+            .es-m-txt-c, .es-m-txt-c h1, .es-m-txt-c h2, .es-m-txt-c h3 {
+                text-align: center !important
+            }
+
+            .es-m-txt-r, .es-m-txt-r h1, .es-m-txt-r h2, .es-m-txt-r h3 {
+                text-align: right !important
+            }
+
+            .es-m-txt-l, .es-m-txt-l h1, .es-m-txt-l h2, .es-m-txt-l h3 {
+                text-align: left !important
+            }
+
+            .es-m-txt-r img, .es-m-txt-c img, .es-m-txt-l img {
+                display: inline !important
+            }
+
+            .es-button-border {
+                display: inline-block !important
+            }
+
+            a.es-button, button.es-button {
+                font-size: 18px !important;
+                display: inline-block !important
+            }
+
+            .es-adaptive table, .es-left, .es-right {
+                width: 100% !important
+            }
+
+            .es-content table, .es-header table, .es-footer table, .es-cont=
+ent, .es-footer, .es-header {
+                width: 100% !important;
+                max-width: 600px !important
+            }
+
+            .es-adapt-td {
+                display: block !important;
+                width: 100% !important
+            }
+
+            .adapt-img {
+                width: 100% !important;
+                height: auto !important
+            }
+
+            .es-m-p0 {
+                padding: 0px !important
+            }
+
+            .es-m-p0r {
+                padding-right: 0px !important
+            }
+
+            .es-m-p0l {
+                padding-left: 0px !important
+            }
+
+            .es-m-p0t {
+                padding-top: 0px !important
+            }
+
+            .es-m-p0b {
+                padding-bottom: 0 !important
+            }
+
+            .es-m-p20b {
+                padding-bottom: 20px !important
+            }
+
+            .es-mobile-hidden, .es-hidden {
+                display: none !important
+            }
+
+            tr.es-desk-hidden, td.es-desk-hidden, table.es-desk-hidden {
+                width: auto !important;
+                overflow: visible !important;
+                float: none !important;
+                max-height: inherit !important;
+                line-height: inherit !important
+            }
+
+            tr.es-desk-hidden {
+                display: table-row !important
+            }
+
+            table.es-desk-hidden {
+                display: table !important
+            }
+
+            td.es-desk-menu-hidden {
+                display: table-cell !important
+            }
+
+            .es-menu td {
+                width: 1% !important
+            }
+
+            table.es-table-not-adapt, .esd-block-html table {
+                width: auto !important
+            }
+
+            table.es-social {
+                display: inline-block !important
+            }
+
+            table.es-social td {
+                display: inline-block !important
+            }
+
+            .es-desk-hidden {
+                display: table-row !important;
+                width: auto !important;
+                overflow: visible !important;
+                max-height: inherit !important
+            }
+        }
+    </style>
+</head>
+<body style=3D""width:100%;font-family:arial, 'helvetica neue', helvetica, s=
+ans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;padding:0=
+;Margin:0"">
+<table cellpadding=3D""0"" cellspacing=3D""0"" style=3D""mso-table-lspace:0pt;ms=
+o-table-rspace:0pt;border-collapse:collapse;border-spacing:0;background-col=
+or:#f7f7f8;color:#1e1e1f;line-height:inherit;margin:0 auto 0 auto;min-width=
+:320px;table-layout:fixed;vertical-align:top;width:100%"">
+    <tbody style=3D""line-height:inherit"">
+    <tr style=3D""border-collapse:collapse;line-height:inherit;vertical-alig=
+n:top"">
+        <td style=3D""padding:0;Margin:0;border-collapse:collapse !important=
+;color:#1e1e1f;line-height:inherit;vertical-align:top;word-break:break-word=
+"">
+            <div style=3D""background-color:transparent;line-height:inherit;=
+padding:24px 0px 0px 0px"">
+                <div style=3D""background-color:#ffffff;line-height:inherit;=
+margin:0 auto 0 auto;max-width:600px;min-width:320px;word-break:break-word;=
+word-wrap:break-word"">
+                    <div style=3D""background-color:transparent;border-colla=
+pse:collapse;display:table;height:100%;line-height:inherit;width:100%"">
+                        <div style=3D""display:table-cell;line-height:inheri=
+t;max-width:320px;min-width:600px;vertical-align:top"">
+                            <div style=3D""height:100%;line-height:inherit;w=
+idth:100% !important"">
+                                <div style=3D""border-color:#d5d5dd #d5d5dd =
+transparent #d5d5dd;border-style:solid;border-width:1px 1px 0px 1px;box-siz=
+ing:border-box;height:100%;line-height:inherit;padding:32px 0px 0px 0px"">
+                                    <table border=3D""0"" cellpadding=3D""0"" c=
+ellspacing=3D""0"" width=3D""100%""
+                                           style=3D""mso-table-lspace:0pt;ms=
+o-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;color:#1e1e1=
+f;font-family:arial, helvetica, sans-serif;line-height:inherit;vertical-ali=
+gn:top"">
+                                        <tbody style=3D""line-height:inherit=
+"">
+                                        <tr style=3D""border-collapse:collap=
+se;line-height:inherit;vertical-align:top"">
+                                            <td align=3D""left""
+                                                style=3D""padding:16px;Margi=
+n:0;border-collapse:collapse;color:#1e1e1f;font-family:arial, helvetica, sa=
+ns-serif;line-height:inherit;vertical-align:top;word-break:break-word"">
+                                                <table border=3D""0"" cellpad=
+ding=3D""0"" cellspacing=3D""0"" width=3D""100%""
+                                                       style=3D""mso-table-l=
+space:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;=
+color:#1e1e1f;line-height:inherit;vertical-align:top"">
+                                                    <tr style=3D""border-col=
+lapse:collapse;line-height:inherit;vertical-align:top"">
+                                                        <td align=3D""center=
+""
+                                                            style=3D""paddin=
+g:0;Margin:0;border-collapse:collapse;color:#1e1e1f;line-height:inherit;pad=
+ding-left:0px;padding-right:0px;vertical-align:top"">
+                                                            <a target=3D""_b=
+lank"" href=3D""https://app.theloyalreward.com"">
+                                                                <img src=3D=
+""https://cdn.digitalwallet.cards/products/53208/themes/64716/logoDark"" alt=
+=3D""Nick Covington product"" title=3D""Nick Covington product"" align=3D""cente=
+r""
+                                                                     style=
+=3D""display:inline-block !important;border:medium;outline:none;text-decorat=
+ion:none;-ms-interpolation-mode:bicubic;clear:both;float:none;height:auto;l=
+ine-height:inherit;max-width:90.88px;width:16%""
+                                                                     height=
+=3D""90""/>
+                                                            </a>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <table border=3D""0"" cellpadding=3D""0"" c=
+ellspacing=3D""0"" width=3D""100%""
+                                           style=3D""mso-table-lspace:0pt;ms=
+o-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;color:#1e1e1=
+f;font-family:arial, helvetica, sans-serif;line-height:inherit;vertical-ali=
+gn:top"">
+                                        <tbody style=3D""line-height:inherit=
+"">
+                                        <tr style=3D""border-collapse:collap=
+se;line-height:inherit;vertical-align:top"">
+                                            <td align=3D""left""
+                                                style=3D""padding:5px 5px 30=
+px 5px;Margin:0;border-collapse:collapse;color:#1e1e1f;font-family:arial, h=
+elvetica, sans-serif;line-height:inherit;vertical-align:top;word-break:brea=
+k-word"">
+                                                <h1 style=3D""padding:0 30px=
+;margin:0;line-height:31px;mso-line-height-rule:exactly;font-family:inherit=
+;font-size:22px;font-style:normal;font-weight:normal;color:#1f1e1f;margin:0=
+px;text-align:center;word-wrap:break-word"">
+                                                    <strong style=3D""line-h=
+eight:inherit""> Important Notice: Upcoming Payment</strong>
+                                                </h1>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style=3D""background-color:transparent;line-height:inherit;=
+padding:0px"">
+                <div style=3D""background-color:#ffffff;line-height:inherit;=
+margin:0 auto 0 auto;max-width:600px;min-width:320px;word-break:break-word;=
+word-wrap:break-word"">
+                    <div style=3D""background-color:transparent;border-colla=
+pse:collapse;display:table;height:100%;line-height:inherit;width:100%"">
+                        <div style=3D""display:table-cell;line-height:inheri=
+t;max-width:320px;min-width:600px;vertical-align:top"">
+                            <div style=3D""height:100%;line-height:inherit;w=
+idth:100% !important"">
+                                <div style=3D""border-color:transparent #d5d=
+5dd transparent #d5d5dd;border-style:solid;border-width:0px 1px 0px 1px;box=
+-sizing:border-box;height:100%;line-height:inherit;padding:20px 0px 20px 0p=
+x"">
+                                    <table border=3D""0"" cellpadding=3D""0"" c=
+ellspacing=3D""0"" width=3D""100%""
+                                           style=3D""mso-table-lspace:0pt;ms=
+o-table-rspace:0pt;border-collapse:collapse;border-spacing:0px;color:#1e1e1=
+f;font-family:arial, helvetica, sans-serif;line-height:inherit;vertical-ali=
+gn:top"">
+                                        <tbody style=3D""line-height:inherit=
+"">
+                                        <tr style=3D""border-collapse:collap=
+se;line-height:inherit;vertical-align:top"">
+                                            <td align=3D""left""
+                                                style=3D""padding:24px;Margi=
+n:0;border-collapse:collapse;color:#1e1e1f;font-family:arial, helvetica, sa=
+ns-serif;line-height:inherit;vertical-align:top;word-break:break-word"">
+                                                <div style=3D""font-family:i=
+nherit;line-height:140%;text-align:center;word-wrap:break-word"">
+                                                        <div style=3D""margi=
+n:0 20px; line-height: 200%; color: #1f1e1f; font-size:14px; text-align:lef=
+t;"">
+        Dear Customer,<br />
+<br />
+We would like to remind you about the upcoming payment for your subscriptio=
+n to 3Eleven Kitchen and Cocktails 3Eleven Kitchen and Cocktails. Please co=
+nfirm the accuracy of your information to ensure uninterrupted access to ou=
+r services.<br />
+<br />
+Thank you for your trust.<br />
+<br />
+Best regards,<br />
+The 3Eleven Kitchen and Cocktails 3Eleven Kitchen and Cocktails Team
+    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style=3D""background-color:transparent;line-height:inherit;=
+padding:0px 0px 24px 0px"">
+                <div style=3D""background-color:#ffffff;line-height:inherit;=
+margin:0 auto 0 auto;max-width:600px;min-width:320px;word-break:break-word;=
+word-wrap:break-word"">
+                    <div style=3D""background-color:transparent;border-colla=
+pse:collapse;display:table;height:100%;line-height:inherit;width:100%"">
+                        <div style=3D""display:table-cell;line-height:inheri=
+t;max-width:320px;min-width:600px;vertical-align:top"">
+                            <div style=3D""height:100%;line-height:inherit;w=
+idth:100% !important"">
+                                <div style=3D""border-color:transparent #d5d=
+5dd #d5d5dd #d5d5dd;border-style:solid;border-width:0px 1px 1px 1px;box-siz=
+ing:border-box;height:100%;line-height:inherit;padding:0px"">
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </td>
+    </tr>
+</table>
+</body>
+</html>
+","""LoyalROI"" <loyalroi@email.bestsuitedbiz.com>",311kitchenandcocktails+prospecting107577@gmail.com,2025-03-24,142.93.98.252,Germany,en,users/50770418/fc9f31bd-9346-43aa-9370-e07280baa49c.json

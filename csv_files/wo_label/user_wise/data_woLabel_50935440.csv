@@ -1,0 +1,59 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50935440,QpWbWW17S5WDb2wqBa_a8A.recvd-69cbc48b94-q9zxj-1-67C7DF78-5.0,cHJvY2Vzc2VkLTUwOTM1NDQwLVFwV2JXVzE3UzVXRGIyd3FCYV9hOEEtMA,wheneverwonder,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=from:subject:content-type:mime-version:to:cc:content-type:from:
+	subject:to;
+	s=smtpapi; bh=nvJDGQcoFZChIlZruLvgDgrphMULYclTrX7fHxteigY=;
+	b=Kb+3fgTAA2Tr+TbetQZEXu+qjM9Z3dzlVfomOUdfZmAMu6odl582MQ2vSRZ9xpXqEV56
+	dhS666LNz4Jpa8NrlDnMlCjLXkkSEOSZYoFzlXcghaLYzq7tHoz0OLLmA3r1tT6dHsR2DG
+	XuHGoQf2NpqAzGSm9y6VZeKxOmGhAs0pg=
+Received: by recvd-69cbc48b94-q9zxj with SMTP id recvd-69cbc48b94-q9zxj-1-67C7DF78-5
+	2025-03-05 05:22:00.170454634 +0000 UTC m=+9532764.379685463
+Received: from FC (unknown)
+	by geopod-ismtpd-2 (SG) with ESMTP
+	id QpWbWW17S5WDb2wqBa_a8A
+	Wed, 05 Mar 2025 05:21:59.564 +0000 (UTC)
+X-GUID: 2D61AAE3-A2E8-4711-9ADA-4B6CCA343317
+X-Has-Attach: no
+From: Ann Philemon <fgil@standex.com.mx>
+Subject: wheneverwonder
+Content-Type: multipart/alternative; charset=UTF-8; boundary=""----=_124_NextPart203511595156_=----""
+MIME-Version: 1.0
+Date: Wed, 05 Mar 2025 05:22:00 +0000 (UTC)
+Message-Id: <202503051321597803636@standex.com.mx>
+X-Mailer: Foxmail 7, 2, 5, 140[cn]
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ENov3iiEKTIxaW15FK4mIO0rFQVdJrRMlk71BhCGpFpEnguRCFVxkmFIgL?=
+ =?us-ascii?Q?Plj2OSTHS+wdd0QGm4xcQlsHPltqOJDKkE4S4oA?=
+ =?us-ascii?Q?x0OeZz9=2FIQuuw+bX0yUQ7fyLoUShJX8GnBRLEp+?=
+ =?us-ascii?Q?jfGD9KoODRREfZDlHBhhF0r7AUqFQqHz6OtcsTL?=
+ =?us-ascii?Q?Y2LR21hsRfas2LGrSt2+QeZHVtd0nPWqLQpru+r?=
+ =?us-ascii?Q?JqHOa70V+++1KJtWnkIla4=3D?=
+To: 752372295 <752372295@qq.com>
+X-Entity-ID: u001.oVz7x3HzPROTmpqhBpRBvA==
+
+This is a multi-part message in MIME format
+
+------=_124_NextPart203511595156_=----
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+signalreturn
+
+------=_124_NextPart203511595156_=----
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>signalreturn</p><span style=3D""FONT-SIZE:0px"" ip=3D""113.133.201.66"" loc=
+=3D""=E9=99=95=E8=A5=BF=E7=9C=81=E8=A5=BF=E5=AE=89=E5=B8=82"">admin</span>
+<img src=3D""https://u50935440.ct.sendgrid.net/wf/open?upn=3Du001.-2ByitTLPM=
+xZi8R0GjUmjoVXfndP6rEKBuG2rxEYagjRyWvjOtHuxHVxnVcFTq7piazQ3jSeTQru3VS6Jhrds=
+rt1vguoEJWvDwS-2FH28uHyxbviHNSVFcpHdwKkuXPFuFLBnGValxfk8bdHbWfvsY-2B4UgP0Y7=
+h42u6O8QPlM0Pc2DzOgLYWla7st9STbskEY4Kx1d9KuQtM3hj5vYItJOVuMg-3D-3D"" alt=3D""=
+"" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;widt=
+h:1px !important;border-width:0 !important;margin-top:0 !important;margin-b=
+ottom:0 !important;margin-right:0 !important;margin-left:0 !important;paddi=
+ng-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;=
+padding-left:0 !important;""/>
+------=_124_NextPart203511595156_=------
+
+","""Ann Philemon"" <fgil@standex.com.mx>",752372295@qq.com,2025-03-04,113.133.201.66,China,nl,users/50935440/9e6c185f-7c15-4f03-9478-8349c77fd32e.json

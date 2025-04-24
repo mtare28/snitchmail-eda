@@ -1,0 +1,62 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50875367,9TxvkDkrQwq7QLmjwwFQ6A.recvd-69cbc48b94-7j96v-1-67BEBD37-13.0,cHJvY2Vzc2VkLTUwODc1MzY3LTlUeHZrRGtyUXdxN1FMbWp3d0ZRNkEtMA,h,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cte.mensshoescorner.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=tpDsmK8GYeJDLLRTVzu8H3+CQ9IT4PwJeJwUHi6uzv4=;
+	b=b4fnAapgAl/3TvD3bRzKYjGD+mlm+qs1+KKX7By41p9pLJDEcmqtYYC9zzxGSv/EDUY3
+	ZwTDRpj8XnQoZfBuT7GdPxX9/blgoLdU/TuTpQA7PEtTA6/KENb5UKxJJEn+AJVZJu8NVF
+	65G2AkBp/KSoS+h4dEOLpnK9T3xqivhkLDYx/V+FdI7FoqF1E50IbGiKDNR2D4Jhf+wPE6
+	Xv3FB37f2qO7kAGDVWCG+MPntQBejQE9L9XKGKqYas17QEjeblEjIPcVyVZy6SfdVR8UbG
+	iB3RYPLYaS09P+XNFeeZmZr6TZRkWgICeD7L5t3sags+14qiqBtGPqgijFzSXfuQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=tpDsmK8GYeJDLLRTVzu8H3+CQ9IT4PwJeJwUHi6uzv4=;
+	b=mohACYeC3CuqBWf0iaggFT1CwPoEStRsJa0GZFA87si5HSMtDxVd8H7lpSYSw6yhEIDQ
+	KpKyQJrlqVZ0HeK0eEt0G+vvs/QSN2TzcuFDRG8+jEoV31iDAWKmbmqC4PUSTRL94boD+Y
+	RC9C11u31iw2NYWXWjAP8SZzCLZqFHOp4=
+Received: by recvd-69cbc48b94-7j96v with SMTP id recvd-69cbc48b94-7j96v-1-67BEBD37-13
+	2025-02-26 07:05:27.827540916 +0000 UTC m=+8934194.772650765
+Received: from NTA4NzUzNjc (unknown)
+	by geopod-ismtpd-5 (SG) with HTTP
+	id 9TxvkDkrQwq7QLmjwwFQ6A
+	Wed, 26 Feb 2025 07:05:27.463 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 26 Feb 2025 07:05:27 +0000 (UTC)
+From: h <email@cte.mensshoescorner.info>
+Mime-Version: 1.0
+Message-ID: <9TxvkDkrQwq7QLmjwwFQ6A@geopod-ismtpd-5>
+Subject: h
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ElNh+33LAMuNJnBvsFAZoZGuJBuCD1VdZ4L1mQncB4+WLLjO9yzaGicTsl?=
+ =?us-ascii?Q?XhopWUhDRhb8vQKADBjW5FkUiOhkI0OUFInpoKi?=
+ =?us-ascii?Q?h3UlT1+ZqIwiyMj3lr4A0rK6W5eDsFYVaSczUcQ?=
+ =?us-ascii?Q?cS6uuvKR0xJ653TGpFaM2y672AS=2FbZDPprMXUtA?=
+ =?us-ascii?Q?niCj86kgxvaRKf=2FU4tli+EwXX+anyZmmfNe5Jbv?=
+ =?us-ascii?Q?OAoU66DqtdqfSAHmkUvS0MsuJAAm0PT2DqLDcme?= =?us-ascii?Q?5HhN?=
+To: dragonlufafa9007@yahoo.com
+X-Entity-ID: u001.BeCJGAKhRt2sZPCbDOVn0Q==
+
+
+
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://loanbc.site/47df3265c45645127c4d/410c1b6855c9=
+e6104f"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.co=
+m/projects/264875/1740485997626-Screenshot 2025-02-25 174153.png"" style=3D""=
+width: 397px; height: 607px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <img alt=3D""unsub"" src=3D""https://assets.unlayer.com/projects/2=
+64875/1740287356069-unnamed (1).png"" style=3D""width: 400px; height: 66px;"" =
+/></p>
+    <img src=3D""https://u50875367.ct.sendgrid.net/wf/open?upn=3Du001.hdksHU=
+xzD05dq6dF6RnFx-2FoDsLAHGSuYWU54tiPj1XFcple3CpLKAd21nxYnLgZLnSTp4bo4Iuwp49B=
+KgnV4AXUL-2FFp3DfmqWnbDhCLkbF7tDkwPJxNrOQ2iek8x-2BVnY-2FChhHJ0N5p6yDkFpuq4Z=
+huzfrGB4IXAYSXUUgINUb8Ln-2B-2BV0GKijPoGuxMv5KnSFSLyfkPcFxKwxx4HPI2Z9eDa2fHN=
+0P-2F0fW8EjEsnZUoA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""h"" <email@cte.mensshoescorner.info>",dragonlufafa9007@yahoo.com,2025-02-26,167.86.115.243,Germany,vi,users/50875367/cfd55b84-9019-4846-9a4b-592b47124e81.json

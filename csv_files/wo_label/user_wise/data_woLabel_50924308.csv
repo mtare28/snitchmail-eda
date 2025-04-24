@@ -1,0 +1,278 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50924308,AtL3qKQ9STqv0wNU5aCk6w.recvd-69cbc48b94-f5rdb-1-67C09F35-11.0,cHJvY2Vzc2VkLTUwOTI0MzA4LUF0TDNxS1E5U1RxdjB3TlU1YUNrNnctMA,Fatura de Serviços MEI - #1467,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=czhS7iPdQsHXWi7BYTywdmr85rgHA+O/le2IUurJO4g=;
+	b=vjTySX3IZD1dlMMzUNkCo+WkGeIwt4wxP+5DtPx9sGxAQFSw3UQuq2ZJKnJT6ijGjvsX
+	hBf9x2c648274toRu0QwaEIyb70UeuznUDhfuuKAzSKuQALHRg4juD3sraqkVVQsA64tKN
+	5hhDkZKDtgkVF9biv36VPimO5/QcjzHKA=
+Received: by recvd-69cbc48b94-f5rdb with SMTP id recvd-69cbc48b94-f5rdb-1-67C09F35-11
+	2025-02-27 17:21:57.722235894 +0000 UTC m=+9057630.917429814
+Received: from NTA5MjQzMDg (unknown)
+	by geopod-ismtpd-21 (SG) with HTTP
+	id AtL3qKQ9STqv0wNU5aCk6w
+	Thu, 27 Feb 2025 17:21:57.709 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Thu, 27 Feb 2025 17:21:57 +0000 (UTC)
+From: Portal <portal@ainnovare.com>
+Mime-Version: 1.0
+Message-ID: <AtL3qKQ9STqv0wNU5aCk6w@geopod-ismtpd-21>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= MEI - #1467
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EaFAOhCm0ZTjsxwwS+SZKwdTkLryUNwyI=2FMExF+X=2F=2F=2FwAEHlR5S8RhO9Dk?=
+ =?us-ascii?Q?hCCLHQNeswE6eqheVfUzzemCArSXEFNgSbyNnRX?=
+ =?us-ascii?Q?zGO=2FWTQoLMqiOxnsPjKZKElawRXu522ND=2Fln0d+?=
+ =?us-ascii?Q?s=2FMbnxuDxxUKbCIG4mp3u=2F7RATGzcVoccTHhYVj?=
+ =?us-ascii?Q?3g6957fMDzfxbKfv78Ck0KQVZ3SDVLdi2xCqyS6?=
+ =?us-ascii?Q?3+RlqwYUQv343Hh9fgDH42eoSPDfVygi3PPBqgM?= =?us-ascii?Q?c+zH?=
+To: daniela.elo@hotmail.com
+X-Entity-ID: u001.wJFHKDnKuro6WqpH4IlxOw==
+
+
+        <html>
+            <head>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        background-color: #f4f4f4;
+                        margin: 0;
+                        padding: 20px;
+                    }
+                    .container {
+                        max-width: 600px;
+                        margin: 0 auto;
+                        background-color: #ffffff;
+                        padding: 20px;
+                        border-radius: 8px;
+                        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                    }
+                    h1 {
+                        color: #2c3e50;
+                        font-size: 24px;
+                    }
+                    p {
+                        font-size: 16px;
+                        color: #555555;
+                    }
+                    .highlight {
+                        color: #e74c3c;
+                        font-weight: bold;
+                    }
+                    .cta-btn {
+                        background-color: #3498db;
+                        color: #ffffff;
+                        padding: 12px 20px;
+                        text-decoration: none;
+                        border-radius: 5px;
+                        font-weight: bold;
+                        display: inline-block;
+                        margin-top: 15px;
+                    }
+                    .footer {
+                        text-align: center;
+                        font-size: 12px;
+                        color: #888888;
+                        margin-top: 20px;
+                    }
+                    .table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin-top: 20px;
+                    }
+                    .table th, .table td {
+                        padding: 10px;
+                        border: 1px solid #dddddd;
+                        text-align: left;
+                    }
+                    .table th {
+                        background-color: #3498db;
+                        color: white;
+                    }
+                </style>
+            </head>
+            <body>
+                <div class=3D""container"">
+                    <h1>Fatura de Servi=E7os - MEI</h1>
+                    <p>Prezado(a) 58.955.453 Daniela Cristina Coutinho dos =
+Santos,</p>
+                    <p>Estamos entrando em contato para informar que seu CN=
+PJ <strong>58955453000151</strong> est=E1 com a fatura pendente.</p>
+                    <p>Detalhes da cobran=E7a:</p>
+                    <table class=3D""table"">
+                        <tr>
+                            <th>Valor</th>
+                            <td>R$ 99,42</td>
+                        </tr>
+                        <tr>
+                            <th>Vencimento</th>
+                            <td>05/03/2025</td>
+                        </tr>
+                    </table>
+                    <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Reg=
+ularizar seu MEI.</span></p>
+                    <p><strong>C=F3digo para pagamento via PIX:</strong></p=
+>
+                    <textarea readonly style=3D""width: 100%; padding: 10px;=
+ font-size: 16px; background-color: #f4f4f4; border: 1px solid #ddd;"">
+                    00020126580014BR.GOV.BCB.PIX0136c2cb7fd2-eb35-410d-92a9=
+-b7dba3605f57520400005303986540599.425802BR5901N6001C62100506dasmei630463AA
+                    </textarea>
+                    <p><span class=3D""highlight"">Clique para copiar o c=F3d=
+igo PIX.</span></p>
+                    <div class=3D""footer"">
+                        <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FA=
+vidas, entre em contato conosco.</p>
+                    </div>
+                </div>
+            <img src=3D""https://u50924308.ct.sendgrid.net/wf/open?upn=3Du00=
+1.hpozUjy7sb4j8thafHFoljSHpELtxEa91ijAUTgZC7hFl1kbIdXR056agjUlocoqsLxnCj-2B=
+HJthTORcCQVeGCj59WTObn0nFSWoYGG3BREdK-2FFBVfAxNtrthWbsQkOTcY6tAP-2FcBbFMQvq=
+ev1hG4Nx97KcHvrBkfdtppgTNTviY7MJX5UBKr-2FHrQ5TsePvbuyzTwSvC3ZVZ0QLODyfmpI-2=
+BHiWqlS3nivOPgk8qszj-2F4-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+        </html>
+       =20=
+","""Portal"" <portal@ainnovare.com>",daniela.elo@hotmail.com,2025-02-27,177.223.76.27,Brazil,pt,users/50924308/07d11b03-1c6c-428d-aba2-3422b620e05d.json
+50924308,mwgSSK0qTEeyLj3FmW3kQg.recvd-69cbc48b94-5zxfq-1-67C02FA3-4.0,cHJvY2Vzc2VkLTUwOTI0MzA4LW13Z1NTSzBxVEVleUxqM0ZtVzNrUWctMA,Fatura de Serviços MEI - #6456,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=0HlraeyW9u3puvTFwyUmrXQB1tchPq1gAgWMrp8uBZo=;
+	b=liG6DruF/1Qwoz/yKtmxXCbiqvmzowY2/2UHu4/Oj+4sSGuUZSbCfi+7FSRWmd5HK3Yb
+	PlV/UyMuZkc+G/+31Kp43dNZvTwSK3sgMZooMwQrZwHgn2c60vfMem9uSriGlyIAgNkt/z
+	7LIESjO6pDZLwyU5B6rgRXPy10+h8EsKI=
+Received: by recvd-69cbc48b94-5zxfq with SMTP id recvd-69cbc48b94-5zxfq-1-67C02FA3-4
+	2025-02-27 09:25:55.031259332 +0000 UTC m=+9028943.551321988
+Received: from NTA5MjQzMDg (unknown)
+	by geopod-ismtpd-1 (SG) with HTTP
+	id mwgSSK0qTEeyLj3FmW3kQg
+	Thu, 27 Feb 2025 09:25:55.010 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Date: Thu, 27 Feb 2025 09:25:55 +0000 (UTC)
+From: Portal <portal@ainnovare.com>
+Mime-Version: 1.0
+Message-ID: <mwgSSK0qTEeyLj3FmW3kQg@geopod-ismtpd-1>
+Subject: Fatura de =?UTF-8?B?U2VydmnDp29z?= MEI - #6456
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EaFAOhCm0ZTjsxwwS+SZKwdTkLryUNwyI=2FMExF+X=2F=2F=2FwAEHlR5S8RhO9Dk?=
+ =?us-ascii?Q?hCCLHQNxzUuCJ=2Fu5L=2FJTQ=2FYWTfkd0iNNDT9gbbw?=
+ =?us-ascii?Q?0EEm0HK3rTMONUIb9VaG8ple9llq2Fl8O96RPAb?=
+ =?us-ascii?Q?egk9d7KrOtmhAlYhRpsf=2FU=2FnzQiG9+xxuMHEBCx?=
+ =?us-ascii?Q?IQh2qt=2Fv9=2FwCSvk2sGpqhQbAc7cZkLK26FDxTIM?=
+ =?us-ascii?Q?yO5UPbby0Or3y2ahZK8BrmeOdKHCRupVsRXNSh9?= =?us-ascii?Q?LOuQ?=
+To: camila_catarina_@hotmail.com
+X-Entity-ID: u001.wJFHKDnKuro6WqpH4IlxOw==
+
+
+        <html>
+            <head>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        background-color: #f4f4f4;
+                        margin: 0;
+                        padding: 20px;
+                    }
+                    .container {
+                        max-width: 600px;
+                        margin: 0 auto;
+                        background-color: #ffffff;
+                        padding: 20px;
+                        border-radius: 8px;
+                        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                    }
+                    h1 {
+                        color: #2c3e50;
+                        font-size: 24px;
+                    }
+                    p {
+                        font-size: 16px;
+                        color: #555555;
+                    }
+                    .highlight {
+                        color: #e74c3c;
+                        font-weight: bold;
+                    }
+                    .cta-btn {
+                        background-color: #3498db;
+                        color: #ffffff;
+                        padding: 12px 20px;
+                        text-decoration: none;
+                        border-radius: 5px;
+                        font-weight: bold;
+                        display: inline-block;
+                        margin-top: 15px;
+                    }
+                    .footer {
+                        text-align: center;
+                        font-size: 12px;
+                        color: #888888;
+                        margin-top: 20px;
+                    }
+                    .table {
+                        width: 100%;
+                        border-collapse: collapse;
+                        margin-top: 20px;
+                    }
+                    .table th, .table td {
+                        padding: 10px;
+                        border: 1px solid #dddddd;
+                        text-align: left;
+                    }
+                    .table th {
+                        background-color: #3498db;
+                        color: white;
+                    }
+                </style>
+            </head>
+            <body>
+                <div class=3D""container"">
+                    <h1>Fatura de Servi=E7os - MEI</h1>
+                    <p>Prezado(a) 58.959.270 Camila Catarina Calabrez Alves=
+,</p>
+                    <p>Estamos entrando em contato para informar que seu CN=
+PJ <strong>58959270000104</strong> est=E1 com a fatura pendente.</p>
+                    <p>Detalhes da cobran=E7a:</p>
+                    <table class=3D""table"">
+                        <tr>
+                            <th>Valor</th>
+                            <td>R$ 99,42</td>
+                        </tr>
+                        <tr>
+                            <th>Vencimento</th>
+                            <td>05/03/2025</td>
+                        </tr>
+                    </table>
+                    <p><span class=3D""highlight"">A=E7=E3o necess=E1ria: Reg=
+ularizar seu MEI.</span></p>
+                    <p><strong>C=F3digo para pagamento via PIX:</strong></p=
+>
+                    <textarea readonly style=3D""width: 100%; padding: 10px;=
+ font-size: 16px; background-color: #f4f4f4; border: 1px solid #ddd;"">
+                    00020126580014BR.GOV.BCB.PIX0136c2cb7fd2-eb35-410d-92a9=
+-b7dba3605f57520400005303986540599.425802BR5901N6001C62100506dasmei630463AA
+                    </textarea>
+                    <p><span class=3D""highlight"">Clique para copiar o c=F3d=
+igo PIX.</span></p>
+                    <div class=3D""footer"">
+                        <p>Este =E9 um e-mail autom=E1tico. Caso tenha d=FA=
+vidas, entre em contato conosco.</p>
+                    </div>
+                </div>
+            <img src=3D""https://u50924308.ct.sendgrid.net/wf/open?upn=3Du00=
+1.YrI3Mne3yVbFL6-2FwYloElA1e8yNRtgI3z60O8s9L7b-2Fr-2BUFCZcw79Q4Lx3KaYI9RONe=
+QzYipiD5Cjv6Ib9RWxFVFTgWS5-2FGddQf-2FJQ7JSCOnkpRI6Ki5WPgQnNebNGZrIh1yNOeqAN=
+-2BBjFyQh8ADjbq015ypz0vvO2d9yzKF9YdsnstiGfAMrwmIB9bYHw5-2FxcbVQzTBdYZIYDIqP=
+mKd-2B6lyBV2-2Fd9FdRP8KcjFAUhA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/></bo=
+dy>
+        </html>
+       =20=
+","""Portal"" <portal@ainnovare.com>",camila_catarina_@hotmail.com,2025-02-27,177.223.76.4,Brazil,pt,users/50924308/96e6212a-6874-4b80-9f0c-c825c5da0743.json

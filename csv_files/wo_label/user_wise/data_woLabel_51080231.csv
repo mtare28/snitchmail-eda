@@ -1,0 +1,198 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51080231,-xix648gSJCi6eNQBefWEA.recvd-69cbc48b94-pxbbj-1-67C95D0A-30.0,cHJvY2Vzc2VkLTUxMDgwMjMxLS14aXg2NDhnU0pDaTZlTlFCZWZXRUEtMA,oo,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=zsax.floatarch.in.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=Qi2IKfD9YJno3sTGGuhf7h6CjI0+dzwhJIXGheTjCAg=;
+	b=lKmfGzB31GTReg2nupoYxDsw1mnGpSplBstOKIeL83XKVlQmLr8KNTw+TO5uJbvV7Bkz
+	9JmCobwCthzLMoF383UyjAmxvIo4HRfndPvYmJiqufE17dHsAevyGaWw09oAwwM4SGq+gu
+	EmEtyEiR0MBw47PbJFa7By9XVwFoPPpqEDTRkllmngtj7G4cAdRhTKmWI9Wfvc70Pur0jf
+	Nhs9KOWtXI+ioSzrmNdUI9GYvHOxblHWWVpG4ICeXpFMMd/n7A/RpNQM60h+Jr2SVLpt83
+	n7cF7JUp+LpkcyILdrCx+mdabqpNT2QuvXPPC8vDAkN88cDjwLeF29o9ahMQokTw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=Qi2IKfD9YJno3sTGGuhf7h6CjI0+dzwhJIXGheTjCAg=;
+	b=rZL+GmEqGMUnV5sdrvpjU3kgJHt6up5rzS+jFIf+HqCmxj/l5cAdEybFst0qgp5IuCkx
+	82KNUgVyuIEq35aHJIzxEHaeYYvSJNqSNc5mGU4buN1j4wAZbE5sboHk9ufZzi0ZYEb4jt
+	+8McgXkhgUWQNAuxmmePXomjid6DfxoFg=
+Received: by recvd-69cbc48b94-pxbbj with SMTP id recvd-69cbc48b94-pxbbj-1-67C95D0A-30
+	2025-03-06 08:30:02.981912026 +0000 UTC m=+9630340.394678206
+Received: from NTEwODAyMzE (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id -xix648gSJCi6eNQBefWEA
+	Thu, 06 Mar 2025 08:30:02.727 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Thu, 06 Mar 2025 08:30:03 +0000 (UTC)
+From: ii <news@zsax.floatarch.in.net>
+Mime-Version: 1.0
+Message-ID: <-xix648gSJCi6eNQBefWEA@geopod-ismtpd-canary-0>
+Subject: oo
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EddxBEzXXfBQmWMXENDbSNcKGjKTFkD6OtfoSASU2FeA=2FTH28z3OqyqooW?=
+ =?us-ascii?Q?9kftXL2N4Ks6xl1svAbOVBR4zTQlpc19Owu3M1x?=
+ =?us-ascii?Q?Ymczf+ZO=2FEl5pxUWSpDXoGbO1CMLDLlTMpqYpk+?=
+ =?us-ascii?Q?8jJOgkyRYkHqr=2Fv=2Fas=2Fto1TDqpCWggcA68U5wBT?=
+ =?us-ascii?Q?SmnRa8DkeO60IQ4clt0kACqEAMcp=2Frqw5kCH7u0?=
+ =?us-ascii?Q?haaMRVfY7PSiYTpD42wgHvFWrZ1ZYseUHcS32BA?= =?us-ascii?Q?W=2F1r?=
+To: dorothy4590@yahoo.com
+X-Entity-ID: u001.IroHU+eHNZoXII0x5oWHqw==
+
+<!doctype html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""u=
+rn:schemas-microsoft-com:office:office"" lang=3D""de-DE""><head><title>NEW IN<=
+/title><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dut=
+f-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=
+=3D1""><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:Pi=
+xelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[=
+if !mso]><!--><link href=3D""https://img.srv2.de/customer/50961S1J-LOODNN/cu=
+stomFonts/ppneuemontreal.css"" rel=3D""stylesheet"" type=3D""text/css""><!--<![e=
+ndif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.desktop_hide table.icons-outer{display:inline-table!impo=
+rtant}.image_block div.fullWidth{max-width:100%!important}.mobile_hide{disp=
+lay:none}.row-content{width:100%!important}.stack .column{width:100%;displa=
+y:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;=
+font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-h=
+eight:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d><!doctype html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D=
+""urn:schemas-microsoft-com:office:office"" lang=3D""de-DE""><head><title>NEW I=
+N</title><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3D=
+utf-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scal=
+e=3D1""><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:P=
+ixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--=
+[if !mso]><!--><link href=3D""https://img.srv2.de/customer/50961S1J-LOODNN/c=
+ustomFonts/ppneuemontreal.css"" rel=3D""stylesheet"" type=3D""text/css""><!--<![=
+endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.desktop_hide table.icons-outer{display:inline-table!impo=
+rtant}.image_block div.fullWidth{max-width:100%!important}.mobile_hide{disp=
+lay:none}.row-content{width:100%!important}.stack .column{width:100%;displa=
+y:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;=
+font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-h=
+eight:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d><!doctype html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D=
+""urn:schemas-microsoft-com:office:office"" lang=3D""de-DE""><head><title>NEW I=
+N</title><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3D=
+utf-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scal=
+e=3D1""><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:P=
+ixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--=
+[if !mso]><!--><link href=3D""https://img.srv2.de/customer/50961S1J-LOODNN/c=
+ustomFonts/ppneuemontreal.css"" rel=3D""stylesheet"" type=3D""text/css""><!--<![=
+endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.desktop_hide table.icons-outer{display:inline-table!impo=
+rtant}.image_block div.fullWidth{max-width:100%!important}.mobile_hide{disp=
+lay:none}.row-content{width:100%!important}.stack .column{width:100%;displa=
+y:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;=
+font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-h=
+eight:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d><!doctype html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D=
+""urn:schemas-microsoft-com:office:office"" lang=3D""de-DE""><head><title>NEW I=
+N</title><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3D=
+utf-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scal=
+e=3D1""><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:P=
+ixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--=
+[if !mso]><!--><link href=3D""https://img.srv2.de/customer/50961S1J-LOODNN/c=
+ustomFonts/ppneuemontreal.css"" rel=3D""stylesheet"" type=3D""text/css""><!--<![=
+endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.desktop_hide table.icons-outer{display:inline-table!impo=
+rtant}.image_block div.fullWidth{max-width:100%!important}.mobile_hide{disp=
+lay:none}.row-content{width:100%!important}.stack .column{width:100%;displa=
+y:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;=
+font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-h=
+eight:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d><!doctype html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D=
+""urn:schemas-microsoft-com:office:office"" lang=3D""de-DE""><head><title>NEW I=
+N</title><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3D=
+utf-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scal=
+e=3D1""><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:P=
+ixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--=
+[if !mso]><!--><link href=3D""https://img.srv2.de/customer/50961S1J-LOODNN/c=
+ustomFonts/ppneuemontreal.css"" rel=3D""stylesheet"" type=3D""text/css""><!--<![=
+endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.desktop_hide table.icons-outer{display:inline-table!impo=
+rtant}.image_block div.fullWidth{max-width:100%!important}.mobile_hide{disp=
+lay:none}.row-content{width:100%!important}.stack .column{width:100%;displa=
+y:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;=
+font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-h=
+eight:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d><!doctype html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D=
+""urn:schemas-microsoft-com:office:office"" lang=3D""de-DE""><head><title>NEW I=
+N</title><meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3D=
+utf-8""><meta name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scal=
+e=3D1""><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:P=
+ixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--=
+[if !mso]><!--><link href=3D""https://img.srv2.de/customer/50961S1J-LOODNN/c=
+ustomFonts/ppneuemontreal.css"" rel=3D""stylesheet"" type=3D""text/css""><!--<![=
+endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.desktop_hide table.icons-outer{display:inline-table!impo=
+rtant}.image_block div.fullWidth{max-width:100%!important}.mobile_hide{disp=
+lay:none}.row-content{width:100%!important}.stack .column{width:100%;displa=
+y:block}.mobile_hide{min-height:0;max-height:0;max-width:0;overflow:hidden;=
+font-size:0}.desktop_hide,.desktop_hide table{display:table!important;max-h=
+eight:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d>
+
+<body>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://tuahgfj.pics/cdb8d4fe5d29bda03fc1/611bc355030feb0cc2"" =
+target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.com/projec=
+ts/266423/1741067714679-barada09.png"" style=3D""width: 450px; height: 701px;=
+"" /></a></p>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://tuahgfj.pics/cdb8d4fe5d29bda03fc1/611bc355030feb0cc2un=
+"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.com/proj=
+ects/266423/1741067767498-unnamed (1).png"" style=3D""width: 450px; height: 7=
+4px;"" /></a></p>
+		<p style=3D""text-align: center;"">
+			&nbsp;</p>
+	<img src=3D""https://u51080231.ct.sendgrid.net/wf/open?upn=3Du001.sEQleIoPV=
+hFBToBWBy2xpqzT9r8XzatQW7gl7LkyRNSkSmOEqQ2HNOWBrfPsO4CALm16vH2Cmt9NRhkF9QBy=
+yPjh-2FN4wAP8vl5zUV9E1eHGO1ZVZJ4JkSesM5ttKByru5B-2BrOhJkxKBMA3sB2mVhjIWLnkO=
+lf9uQJ2x3MJ5DxbNsy5nKWuSqr4Y0Ts1IeOm8tkreQXlT2G74ok6seaJaSg-3D-3D"" alt=3D""""=
+ width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;""/></body>
+</html>","""ii"" <news@zsax.floatarch.in.net>",dorothy4590@yahoo.com,2025-03-06,144.91.110.16,Germany,so,users/51080231/68bd2732-af91-4c43-b0f1-df40c3ad96c9.json

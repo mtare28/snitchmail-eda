@@ -1,0 +1,341 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51066333,4FiJChL2TcGLoMOR3qqClQ.recvd-69cbc48b94-5zxfq-1-67C8916A-21.51,cHJvY2Vzc2VkLTUxMDY2MzMzLTRGaUpDaEwyVGNHTG9NT1IzcXFDbFEtNTE,Update: Delivery Address Change Confirmation,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bankadisedanaayu.com;
+	h=content-type:from:list-unsubscribe:list-unsubscribe-post:mime-version:
+	subject:reply-to:to:cc:content-type:from:subject:to;
+	s=s1; bh=PfCGDbyBvryY/yfM7L9feNz+YJE4zyWnNMjeRcZ93wk=;
+	b=ZtMgItqi7XSWuckyrriR2nHxwClsme22dKQOusxFtgYtOiae1gHsGFgbdXXqBVA2trqs
+	mqWkhS5wFW3FnO9NRkX4J11Z74rJcQpeCZRHIIBwSVzFxptS95W9A/0nNzwDPpyE4vUP3m
+	S1jtjlYPlCMmpdJJmf9+/pojeMxf3yP5XW+BCI/LrYVn+9mVQShaBuITihMqkB05WEF+0k
+	mzWa1uyhd46nHXWQ67pRyfINUHHJg1zJbOyA2lJfw42OngR6N20rZVFFqJ/sdVutvFgXLA
+	lbqNlQ9Tb+weFUl5Ms4DmLYTCtChLZXTr+qHABG8rJ/f2C9dSDujfV+ELTUXYIOw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-type:from:list-unsubscribe:list-unsubscribe-post:mime-version:
+	subject:reply-to:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=PfCGDbyBvryY/yfM7L9feNz+YJE4zyWnNMjeRcZ93wk=;
+	b=bzGfRfXpS0uyDBgXvR8ydw/h2GVYXhCEL7hfBaIeYhhuSpWHAsNaC+J/kI28s3BpjAmY
+	NHv8Ll749MYw94OmPpm2UlAhUpXZrG2guq2ml6hwlYv1ehttus1S9kycDdHp4zAwQOVgDC
+	GutOCmuLgRRa4I8+j3hSaLqbqqdwugsyg=
+Content-Type: multipart/alternative; boundary=b1b6447eabf1ee1cb57941c1db6b4f6ca652947ebeb480111d2f239c9f7b
+Date: Wed, 05 Mar 2025 18:01:16 +0000 (UTC)
+From: Marco from amzn <marcojanes@bankadisedanaayu.com>
+List-Unsubscribe: <https://sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Mime-Version: 1.0
+Subject: Update: Delivery Address Change Confirmation
+Message-ID: <4FiJChL2TcGLoMOR3qqClQ@geopod-ismtpd-21>
+Reply-To: marcojanes@bankadisedanaayu.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmAAsMrSSTUFPgZsSnjPLUOcKzRZ9q7rtGvCDBhUnCwMYPl726ZvFQYBr9?=
+ =?us-ascii?Q?CcvMosAEjVrJPpRnCLgsVMpGnGE518fcnSC4TTJ?=
+ =?us-ascii?Q?nrgUOchnY7H++8HMYhGRcDJiuBkgM0plXQ4Qdci?=
+ =?us-ascii?Q?8nIySSIjorkdfrqyZqA3wuLWiFw3t+D0YQrlL9G?=
+ =?us-ascii?Q?lAFTyuZvcFKzFieXPp+ItpoVQ=2FbO8AfSXVdkbwj?=
+ =?us-ascii?Q?BbjZc8tsZGnPkPtBPeO4SsEWXH8WO7cWFgmhvau?=
+ =?us-ascii?Q?V6t8J7xETNnyqE9DV99aIvGiIA=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2E3RPxwXHvfbZY57uFbcgx0w6SYhq1oJRjbNXkEiaPWsj=2FIg5jy5ABsybYY?=
+ =?us-ascii?Q?fZ0H=2FztzY9+YIpWiSiQezb3puE2blsG4jTA1MjZ?=
+ =?us-ascii?Q?kGYHChwkHh9y+H5N1k9x9cc=2Fec0KGzlVSf9ohqX?=
+ =?us-ascii?Q?cY608Ht0W9JZcrmtNoUrcCvxad=2FLWPibou5NO5+?=
+ =?us-ascii?Q?Z4YshLTXcRV7fcTZ5U?=
+To: a.laur@sbcglobal.net
+X-Entity-ID: u001.NuTDjgfidqc6Xfbx0gtF7Q==
+
+--b1b6447eabf1ee1cb57941c1db6b4f6ca652947ebeb480111d2f239c9f7b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Dear a.laur@sbcglobal.net,
+
+As per your request over the phone, I have updated the delivery address for=
+ your order to:
+
+7222 Commerce Center Dr, Suite 220, Colorado Springs, CO 80919
+
+Please note that this change does not incur any additional charges. Your to=
+tal invoice remains $953.97, as originally paid.
+
+If you need any further modifications or have any questions, feel free to c=
+ontact me directly at 1-805-859-9199.
+
+Thank you for choosing Amazon!
+
+Best regards,
+
+Amanda | Amazon Customer Support
+
+=F0=9F=93=9E 1-805-859-9199
+
+Marco from amzn
+
+marcojanes@bankadisedanaayu.com, Brooklyn,  =20
+
+Unsubscribe https://sendgrid.com/ - Unsubscribe Preferences <%asm_preferenc=
+es_raw_url%>
+--b1b6447eabf1ee1cb57941c1db6b4f6ca652947ebeb480111d2f239c9f7b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+  <head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1"" /><!--[if !mso]><!-->
+    <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"" /><!--<![end=
+if]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D""text/css"">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type=3D""text/css"">
+      body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #000000;
+      }
+      body a {
+        color: #1188E6;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+   =20
+     <!--End Head user entered-->
+  </head>
+  <body>
+    <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size: 14px; font-family: arial; color: #000000; background-color: =
+#ffffff;"">
+      <div class=3D""webkit"">
+        <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""10=
+0%"" class=3D""wrapper"" bgcolor=3D""#ffffff"">
+          <tr>
+            <td valign=3D""top"" bgcolor=3D""#ffffff"" width=3D""100%"">
+              <table width=3D""100%"" role=3D""content-container"" class=3D""out=
+er"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                <tr>
+                  <td width=3D""100%"">
+                    <table width=3D""100%"" cellpadding=3D""0"" cellspacing=3D""=
+0"" border=3D""0"">
+                      <tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width=3D""600"">
+                          <![endif]-->
+                          <table width=3D""100%"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" border=3D""0"" style=3D""width: 100%; max-width:600px;"" align=3D""cent=
+er"">
+                            <tr>
+                              <td role=3D""modules-container"" style=3D""paddi=
+ng: 0px 0px 0px 0px; color: #000000; text-align: left;"" bgcolor=3D""#ffffff""=
+ width=3D""100%"" align=3D""left"">
+                               =20
+    <table class=3D""module preheader preheader-hide"" role=3D""module"" data-t=
+ype=3D""preheader"" border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D=
+""100%""
+           style=3D""display: none !important; mso-hide: all; visibility: hi=
+dden; opacity: 0; color: transparent; height: 0; width: 0;"">
+      <tr>
+        <td role=3D""module-content"">
+          <p></p>
+        </td>
+      </tr>
+    </table>
+ =20
+    <table class=3D""module"" role=3D""module"" data-type=3D""text"" border=3D""0""=
+ cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-layout: =
+fixed;"">
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;""
+            height=3D""100%""
+            valign=3D""top""
+            bgcolor=3D"""">
+            <div>
+<div><span style=3D""font-size:18px;"">Dear </span><span style=3D""font-family=
+: Colfax, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal=
+; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 4=
+00; white-space: pre;"">a.laur@sbcglobal.net</span><span style=3D""font-size:=
+18px;"">,</span></div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D""font-size:18px;"">As per your request over the phone, I =
+have updated the delivery address for your order to:</span></div>
+
+<div><span style=3D""font-size:18px;"">7222 Commerce Center Dr, Suite 220, Co=
+lorado Springs, CO 80919</span></div>
+
+<div><span style=3D""font-size:18px;"">Please note that this change does not =
+incur any additional charges. Your total invoice remains $953.97, as origin=
+ally paid.</span></div>
+
+<div><span style=3D""font-size:18px;"">If you need any further modifications =
+or have any questions, feel free to contact me directly at </span><span sty=
+le=3D""color: rgb(0, 0, 0); font-family: arial; font-size: 18px; font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: 400;"">1-</span><span style=3D""color: rgb(0, 0, 0); font-family: arial=
+; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font=
+-variant-caps: normal; font-weight: 400;"">805-</span><span style=3D""color: =
+rgb(0, 0, 0); font-family: arial; font-size: 18px; font-style: normal; font=
+-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;"">8=
+59-</span><span style=3D""color: rgb(0, 0, 0); font-family: arial; font-size=
+: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; font-weight: 400;"">9199</span><span style=3D""font-size:18px;"">.=
+</span></div>
+
+<div><span style=3D""font-size:18px;"">Thank you for choosing Amazon!</span><=
+/div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div><span style=3D""font-size:18px;"">Best regards,<br>
+Amanda | Amazon Customer Support<br>
+=F0=9F=93=9E 1-805-859-9199</span></div>
+
+<div>&nbsp;</div>
+</div>
+        </td>
+      </tr>
+    </table>
+  <div data-role=3D""module-unsubscribe"" class=3D""module unsubscribe-css__un=
+subscribe___2CDlR"" role=3D""module"" data-type=3D""unsubscribe"" style=3D""color=
+:#444444;font-size:12px;line-height:20px;padding:16px 16px 16px 16px;text-a=
+lign:center""><div class=3D""Unsubscribe--addressLine""><p class=3D""Unsubscrib=
+e--senderName"" style=3D""font-family:Arial,Helvetica, sans-serif;font-size:1=
+2px;line-height:20px"">Marco from amzn</p><p style=3D""font-family:Arial,Helv=
+etica, sans-serif;font-size:12px;line-height:20px""><span class=3D""Unsubscri=
+be--senderAddress"">marcojanes@bankadisedanaayu.com</span>, <span class=3D""U=
+nsubscribe--senderCity"">Brooklyn</span>, <span class=3D""Unsubscribe--sender=
+State""></span> <span class=3D""Unsubscribe--senderZip""></span> </p></div><p =
+style=3D""font-family:Arial,Helvetica, sans-serif;font-size:12px;line-height=
+:20px""><a class=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u51066333.=
+ct.sendgrid.net/ls/click?upn=3Du001.dH6KrsgoPeqUN8kCSa3SG1mzYO38Naoo3i9CQuL=
+15jg-3DZc7T_I05czsefWKRoiyK-2FYqTehI47Uy3mDoKzwdBJjSdxz-2BN2ndX3QGPlIGHgg3o=
+aTIhxYRySZsDItzZzSEmzLLvJNLDXq05ZMIZusc5uuupZ98j5OfoCESyqQKBHoLVepbsXdz2RcU=
+sxPYMIS-2FMQSqImkOb22K1z9RHNTjCyXQ2bnLviG28tqX3wKjjWa97wNFXHFKcGxnoCeKe-2Fv=
+JGa3yc9GMNRNzUBlu-2F00pGR-2BE6DLRRP7LESVUReSt-2BsO60aKUD-2BVVvBSqgzzYRJboGv=
+trWvgB2PRPalHCi92B4W-2FGQDErgod4UtQz1p5-2F7Aw9gYCi7zYJTxdQmKvkoba7KpTJoWnDP=
+-2FKnMx5cGNSAGO-2FaLjO3c-3D"">Unsubscribe</a> - <a class=3D""Unsubscribe--uns=
+ubscribePreferences"" href=3D""<%asm_preferences_raw_url%>"">Unsubscribe Prefe=
+rences</a></p></div>
+                              </td>
+                            </tr>
+                          </table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </center>
+  <img src=3D""https://u51066333.ct.sendgrid.net/wf/open?upn=3Du001.IHnljHMd=
+8w76Kvl3-2FyGqAazPO-2Fz2xmZJ-2FMvAg5Ec7dbiX5gM9l7XmZ9diHkCsD7lo9FhDcx5v198m=
+Qki-2Fyq1HEYl-2FV3Opq5iCiwklAawsuS0B5SE1j8Pe5mswha97WMPWb18IfMd6pbx0uv3RdtV=
+br5J-2Bv-2FD1kxGhiluoGc1jnhGGDdQ5vr6wpqDhxqBQcUsgok6-2FeUfcuMH85nqHcVY3Gdis=
+7BHVnssYTLjAY42430e7hd97lH25YPbc-2BVUA1RJ9MtB6P3GjW4tBMumNRkFW4SgI4PT3EH0Zi=
+Bedtf73G72NCmC6kaKV288dHItJgQCtwy-2BdCOI6cJA1BXVkYvttf4QfeqBIFfdOOkJfnI-2BS=
+k-2Bny8hekAw8-2FiX64LtaXJGi"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+--b1b6447eabf1ee1cb57941c1db6b4f6ca652947ebeb480111d2f239c9f7b--
+","""Marco from amzn"" <marcojanes@bankadisedanaayu.com>",a.laur@sbcglobal.net,2025-03-05,167.89.117.72,United States,en,users/51066333/46488eaa-1cd0-443d-90e0-5f38947a9ac5.json

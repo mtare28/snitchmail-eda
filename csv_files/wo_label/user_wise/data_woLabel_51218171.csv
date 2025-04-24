@@ -1,0 +1,776 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51218171,uD1qPsKZTHK4V-2U081vjQ.recvd-69cbc48b94-kkwwd-1-67D13451-15.0,cHJvY2Vzc2VkLTUxMjE4MTcxLXVEMXFQc0taVEhLNFYtMlUwODF2alEtMA,ah,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=aertl.engageelevate.co.in;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=dw4lJzsWeAWsxCNSI0MMuRX9iqkoTePI5JqoWnGDRcI=;
+	b=oVNrN9Ujm2AhJ5cwhUyKh3TyYaV31XNYtQKJFB1ubaq1r0ZSIfKwVj69tIuqXmNqC0if
+	7HCQm2UqwpJgzlfgEr5PnIaOO51eUX7TamRk2/CHaUiGTiBsNTximK8pLvg7hq4VU4M/lw
+	mz8gJP2EemcTveUJTVbwPhXz69NK3rxRT9hL6V6GRWmRgSnTio905/+UsLI/DkUvLP3oz7
+	jfltdtvtHhbmhmbdOnzqpjUnChQKXYIuXje00IPKnx8f5kvK02XIHOakfyxOdgmJKYsPho
+	F6SD4hgf3rcfrMwgznjynOUcirEwCEZtSi+YM06QvvgNbStbW1A4OWuP3FuDmJNw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=dw4lJzsWeAWsxCNSI0MMuRX9iqkoTePI5JqoWnGDRcI=;
+	b=W7xvqOJS7/KbwT0YeEkMpgAbGLCh62yYvfGF1zPET5dO2O+8IyODg8/oZgXeAdPsH2pp
+	Jl0uHEOOUQjS4Dp14+PEinVk8OQv7yYP5bE8Kv9X5C49xKDAB5SF3wirJ5nkCqTQmkuQXb
+	1rbIHUv+Bcv6oiAY0WIhnOfGVNZdcMRHw=
+Received: by recvd-69cbc48b94-kkwwd with SMTP id recvd-69cbc48b94-kkwwd-1-67D13451-15
+	2025-03-12 07:14:25.483622638 +0000 UTC m=+10144334.381692239
+Received: from NTEyMTgxNzE (unknown)
+	by geopod-ismtpd-23 (SG) with HTTP
+	id uD1qPsKZTHK4V-2U081vjQ
+	Wed, 12 Mar 2025 07:14:25.454 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 12 Mar 2025 07:14:25 +0000 (UTC)
+From: akd <InStyle@aertl.engageelevate.co.in>
+Mime-Version: 1.0
+Message-ID: <uD1qPsKZTHK4V-2U081vjQ@geopod-ismtpd-23>
+Subject: ah
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EVKj6+ynoVCZ2CAItHb2B7AGY6z7nr185BsTEqJQRakKq1a7C4H=2FUHoxQo?=
+ =?us-ascii?Q?nAzoUh0eCG5IPuqf9dwzztFCnBI+=2FbVPMt3VLSy?=
+ =?us-ascii?Q?GMu=2FmXEyr1rtdm0R8YVJD3exMfIBxDK6mPVmrOH?=
+ =?us-ascii?Q?gKYdgOeAKOCWwPjfwHZJ=2FMvoDICszKSapgW6tNy?=
+ =?us-ascii?Q?vxlHoGweDLZ7A+O99SEzyVZqIVDpCna0uyuPjVn?=
+ =?us-ascii?Q?03TQviaqGiIkPJcYj+oib3kVdTsIgvJ+oZccgfw?= =?us-ascii?Q?48os?=
+To: sonamriya1234@yahoo.com
+X-Entity-ID: u001.8G6eIe9igRiY+UtYOB0zBA==
+
+<!DOCTYPE html> <html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn=
+:schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:off=
+ice""> <head> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPN=
+G/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml=
+><![endif]--> <meta http-equiv=3D""Content-Type"" content=3D""text/html; chars=
+et=3Dutf-8""/> <!--[if !mso]><!--> <meta http-equiv=3D""X-UA-Compatible"" cont=
+ent=3D""IE=3Dedge""/> <!--<![endif]--> <meta name=3D""viewport"" content=3D""wid=
+th=3Ddevice-width, initial-scale=3D1.0""/> <meta name=3D""x-apple-disable-mes=
+sage-reformatting""/> <title></title> <!-- Outlook Web Font Fix - Normalise =
+space between bullets and text with <li> | Update font stacks to web-safe b=
+ackups for Outlook --> <!--[if gte mso 9]><style type=3D""text/css"">a{text-d=
+ecoration:none}h1,.hl-1,h2,.hl-2,h3,.hl-3,h4,.hl-4{font-family:Georgia,Time=
+s,serif!important}p,.text,.link,.text-2,.text-3,.button_structure,.button_s=
+tyle,.button_structure-2,.button_style-2{font-family:Arial,sans-serif!impor=
+tant}li{text-indent:-1em!important}</style><![endif]--> <!-- Webfont @impor=
+t URL goes in a separate style block --> <style type=3D""text/css"">@import u=
+rl('https://fonts.googleapis.com/css2?family=3DInter:wght@400;500;700&famil=
+y=3DSpectral:wght@400;500;700&display=3Dswap');</style> <style type=3D""text=
+/css"">@media only screen and (max-width:480px){.lihide{display:none!importa=
+nt}.lishow{display:table-row!important}}</style> <style>@media(max-width:48=
+0px){.mobile-only{display:block!important;width:auto!important;max-height:i=
+nherit!important;overflow:visible!important;float:none!important}.wrap{widt=
+h:100%!important;max-width:100%!important;height:auto!important}.m-font-24{=
+font-size:24px;line-height:28px;font-weight:500;letter-spacing:-1px}.m-left=
+-col{text-align:left!important;float:left!important;width:45%!important;max=
+-width:46%!important}.m-left-col.button{width:140px!important;max-width:48%=
+!important}.m-right-col{float:right!important;width:38%!important;height:au=
+to!important;min-height:49vw!important;max-width:38vw!important}img.m-right=
+-col{object-fit:cover;object-position:center center;width:38vw!important;ma=
+x-width:38vw!important;height:47.43vw!important}.responsive-image{width:100=
+%!important;max-width:100%!important;height:auto!important}.padding-none{pa=
+dding:0!important}}</style> <style type=3D""text/css"">h1,.hl-1,h2,.hl-2,h3,.=
+hl-3,h4,.hl-4,.divider{font-family:'Spectral',Georgia,serif;color:#0d0d0d}p=
+,.text,.text-2,.text-3,.link{font-family:'Inter',Arial,sans-serif;color:#0d=
+0d0d}.button_structure,.button_style,.button_structure-2,.button_style-2{fo=
+nt-family:Arial,sans-serif}h1,.hl-1{font-size:28px;line-height:32px;letter-=
+spacing:-1px}h2,.hl-2{font-size:24px;line-height:28px;font-weight:500;lette=
+r-spacing:-1px}h3,.hl-3{font-size:18px;line-height:24px;font-weight:700;tex=
+t-align:center}h4,.hl-4{font-size:14px;line-height:20px;font-weight:500;tex=
+t-align:left;letter-spacing:-1px}p,.text{font-size:16px;line-height:24px;fo=
+nt-weight:400;text-align:left}.text-2{font-size:14px;line-height:20px}.text=
+-3{font-size:12px;line-height:16px}.divider{font-size:36px;line-height:40px=
+;font-weight:300;text-transform:uppercase}.link{font-size:18px;line-height:=
+26px;font-weight:400;color:#014ecb;text-decoration:underline;text-decoratio=
+n-color:#014ecb}.border{border:1px solid #d9d9d9}.bullet{color:#595959;widt=
+h:10px}.button_structure{-webkit-border-radius:0;-moz-border-radius:0;borde=
+r-radius:0;height:48px;background-color:#000f40;text-align:center;mso-line-=
+height-rule:exactly}.button_style{font-size:14px;line-height:20px;font-weig=
+ht:700;letter-spacing:1px;mso-line-height-rule:exactly;color:#fff!important=
+;text-decoration:none!important;text-transform:uppercase;-webkit-border-rad=
+ius:0;-moz-border-radius:0;border-radius:4px;padding:14px 32px;display:inli=
+ne-block}.button_structure-2{-webkit-border-radius:0;-moz-border-radius:0;b=
+order-radius:0;border:3px solid #0053c0;height:48px;background-color:#fff;t=
+ext-align:center;mso-line-height-rule:exactly}.button_style-2{font-size:14p=
+x;line-height:20px;font-weight:700;letter-spacing:1px;mso-line-height-rule:=
+exactly;color:#0d0d0d!important;text-decoration:none;text-transform:upperca=
+se;-webkit-border-radius:0;-moz-border-radius:0;border-radius:4px;padding:1=
+4px 32px;display:inline-block}</style> <style type=3D""text/css"">html{Margin=
+:0 auto;padding:0}body{width:100%;min-width:100%;Margin:0 auto!important;pa=
+dding:0!important;border-collapse:collapse!important;table-layout:fixed!imp=
+ortant}table td{border-collapse:collapse!important}img{display:block;border=
+:0;text-align:center}.p-b-4{padding-bottom:4px}.p-t-8{padding-top:8px}.p-b-=
+8{padding-bottom:8px}.p-tb-8{padding-top:8px!important;padding-bottom:8px!i=
+mportant}.p-t-10{padding-top:10px}.p-b-10{padding-bottom:10px}.p-tb-10{padd=
+ing-top:10px!important;padding-bottom:10px!important}.p-l-10{padding-left:1=
+0px}.p-r-10{padding-right:10px}.p-t-16{padding-top:16px}.p-b-16{padding-bot=
+tom:16px}.p-l-16{padding-left:16px}.p-r-16{padding-right:16px}.p-lr-16{padd=
+ing-left:16px;padding-right:16px}.p-tb-16{padding-top:16px;padding-bottom:1=
+6px}.p-t-20{padding-top:20px}.p-b-20{padding-bottom:20px}.p-tb-20{padding-t=
+op:20px;padding-bottom:20px}.p-tblr-20{padding-top:20px;padding-bottom:20px=
+;padding-left:20px;padding-right:20px}.p-t-24{padding-top:24px}.p-b-24{padd=
+ing-bottom:24px}.p-l-24{padding-left:24px}.p-r-24{padding-right:24px}.p-tb-=
+24{padding-top:24px;padding-bottom:24px}.p-lr-24{padding-left:24px;padding-=
+right:24px}.p-blr-24{padding-bottom:24px;padding-left:24px;padding-right:24=
+px}.p-tblr-24{padding-top:24px;padding-bottom:24px;padding-left:24px;paddin=
+g-right:24px}.p-t-32{padding-top:32px}.p-b-32{padding-bottom:32px}.p-tb-32{=
+padding-top:32px;padding-bottom:32px}#outlook a{padding:0!important}.Extern=
+alClass *{line-height:100%}*{-webkit-text-size-adjust:none}@media screen an=
+d (max-width:480px){u+.body .full-wrap{width:100%!important;width:100vw!imp=
+ortant}.mobile-only{display:block!important;width:auto!important;max-height=
+:inherit!important;overflow:visible!important;float:none!important}.wrap{wi=
+dth:100%!important;max-width:100%!important;height:auto!important}.mobile-h=
+idden{width:0!important;height:0!important;display:none!important}.m-left-c=
+ol{text-align:left!important;float:left!important;width:50vw;max-width:48%!=
+important}.m-left-col.button{width:140px!important;max-width:48%!important}=
+.m-right-col{float:right!important;width:42.4%;height:auto;max-width:37.18v=
+w!important}img.m-right-col{object-fit:cover;object-position:center center;=
+width:42.4vw;max-width:42.4vw!important;height:53vw}.responsive-image{width=
+:100%!important;max-width:100%!important;height:auto!important}.padding-non=
+e{padding:0!important}.mp-r-0{padding-right:0!important}.margin-none{margin=
+:0!important}.m-align{vertical-align:middle!important}.m-align-top{vertical=
+-align:top!important}.mw-33{width:33%!important}.mw-125{width:125px}.m-font=
+-12{font-size:12px!important;line-height:16px}.m-font-20{font-size:20px;lin=
+e-height:24px}.m-font-32{font-size:32px!important;line-height:32px}.break{d=
+isplay:block!important}.m-text-center{text-align:center!important}.border-n=
+one{border:none!important}.mp-l-0{padding-left:0!important}.mp-t-8{padding-=
+top:8px!important}.mp-b-8{padding-bottom:8px!important}.mp-tb-8{padding-top=
+:8px!important;padding-bottom:8px!important}.mp-t-10{padding-top:10px!impor=
+tant}.mp-b-10{padding-bottom:10px!important}.mp-tb-10{padding-top:10px!impo=
+rtant;padding-bottom:10px!important}.mp-t-16{padding-top:16px!important}.mp=
+-b-16{padding-bottom:16px!important}.mp-tb-16{padding-top:16px!important;pa=
+dding-bottom:16px!important}.mp-t-20{padding-top:20px!important}.mp-b-20{pa=
+dding-bottom:20px!important}.mp-tb-20{padding-top:20px!important;padding-bo=
+ttom:20px!important}.mp-t-24{padding-top:24px!important}.mp-b-24{padding-bo=
+ttom:24px!important}.mp-tlr-24{padding-top:24px!important;padding-left:24px=
+!important;padding-right:24px!important}.mp-blr-24{padding-bottom:24px!impo=
+rtant;padding-left:24px!important;padding-right:24px!important}.mp-tblr-24{=
+padding-top:24px!important;padding-bottom:24px!important;padding-left:24px!=
+important;padding-right:24px!important}.mp-lr-24{padding-left:24px!importan=
+t;padding-right:24px!important}.mp-lr-22{padding-left:22px!important;paddin=
+g-right:22px!important}.mp-t-32{padding-top:32px!important}.mp-b-32{padding=
+-bottom:32px!important}.mp-t-40{padding-top:40px!important}.mp-t-48{padding=
+-top:48px!important}.mp-b-48{padding-bottom:48px!important}}</style> <scrip=
+t type=3D""application/ld+json"">
+[{
+""@context"": ""http://schema.org/"",
+""@type"": ""Organization"",
+""name"": ""InStyle"",
+""logo"": ""https://images.meredith.com/images/logos/120x120/instyle.png""
+}]
+</script> </head>
+<!DOCTYPE html> <html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn=
+:schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:off=
+ice""> <head> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPN=
+G/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml=
+><![endif]--> <meta http-equiv=3D""Content-Type"" content=3D""text/html; chars=
+et=3Dutf-8""/> <!--[if !mso]><!--> <meta http-equiv=3D""X-UA-Compatible"" cont=
+ent=3D""IE=3Dedge""/> <!--<![endif]--> <meta name=3D""viewport"" content=3D""wid=
+th=3Ddevice-width, initial-scale=3D1.0""/> <meta name=3D""x-apple-disable-mes=
+sage-reformatting""/> <title></title> <!-- Outlook Web Font Fix - Normalise =
+space between bullets and text with <li> | Update font stacks to web-safe b=
+ackups for Outlook --> <!--[if gte mso 9]><style type=3D""text/css"">a{text-d=
+ecoration:none}h1,.hl-1,h2,.hl-2,h3,.hl-3,h4,.hl-4{font-family:Georgia,Time=
+s,serif!important}p,.text,.link,.text-2,.text-3,.button_structure,.button_s=
+tyle,.button_structure-2,.button_style-2{font-family:Arial,sans-serif!impor=
+tant}li{text-indent:-1em!important}</style><![endif]--> <!-- Webfont @impor=
+t URL goes in a separate style block --> <style type=3D""text/css"">@import u=
+rl('https://fonts.googleapis.com/css2?family=3DInter:wght@400;500;700&famil=
+y=3DSpectral:wght@400;500;700&display=3Dswap');</style> <style type=3D""text=
+/css"">@media only screen and (max-width:480px){.lihide{display:none!importa=
+nt}.lishow{display:table-row!important}}</style> <style>@media(max-width:48=
+0px){.mobile-only{display:block!important;width:auto!important;max-height:i=
+nherit!important;overflow:visible!important;float:none!important}.wrap{widt=
+h:100%!important;max-width:100%!important;height:auto!important}.m-font-24{=
+font-size:24px;line-height:28px;font-weight:500;letter-spacing:-1px}.m-left=
+-col{text-align:left!important;float:left!important;width:45%!important;max=
+-width:46%!important}.m-left-col.button{width:140px!important;max-width:48%=
+!important}.m-right-col{float:right!important;width:38%!important;height:au=
+to!important;min-height:49vw!important;max-width:38vw!important}img.m-right=
+-col{object-fit:cover;object-position:center center;width:38vw!important;ma=
+x-width:38vw!important;height:47.43vw!important}.responsive-image{width:100=
+%!important;max-width:100%!important;height:auto!important}.padding-none{pa=
+dding:0!important}}</style> <style type=3D""text/css"">h1,.hl-1,h2,.hl-2,h3,.=
+hl-3,h4,.hl-4,.divider{font-family:'Spectral',Georgia,serif;color:#0d0d0d}p=
+,.text,.text-2,.text-3,.link{font-family:'Inter',Arial,sans-serif;color:#0d=
+0d0d}.button_structure,.button_style,.button_structure-2,.button_style-2{fo=
+nt-family:Arial,sans-serif}h1,.hl-1{font-size:28px;line-height:32px;letter-=
+spacing:-1px}h2,.hl-2{font-size:24px;line-height:28px;font-weight:500;lette=
+r-spacing:-1px}h3,.hl-3{font-size:18px;line-height:24px;font-weight:700;tex=
+t-align:center}h4,.hl-4{font-size:14px;line-height:20px;font-weight:500;tex=
+t-align:left;letter-spacing:-1px}p,.text{font-size:16px;line-height:24px;fo=
+nt-weight:400;text-align:left}.text-2{font-size:14px;line-height:20px}.text=
+-3{font-size:12px;line-height:16px}.divider{font-size:36px;line-height:40px=
+;font-weight:300;text-transform:uppercase}.link{font-size:18px;line-height:=
+26px;font-weight:400;color:#014ecb;text-decoration:underline;text-decoratio=
+n-color:#014ecb}.border{border:1px solid #d9d9d9}.bullet{color:#595959;widt=
+h:10px}.button_structure{-webkit-border-radius:0;-moz-border-radius:0;borde=
+r-radius:0;height:48px;background-color:#000f40;text-align:center;mso-line-=
+height-rule:exactly}.button_style{font-size:14px;line-height:20px;font-weig=
+ht:700;letter-spacing:1px;mso-line-height-rule:exactly;color:#fff!important=
+;text-decoration:none!important;text-transform:uppercase;-webkit-border-rad=
+ius:0;-moz-border-radius:0;border-radius:4px;padding:14px 32px;display:inli=
+ne-block}.button_structure-2{-webkit-border-radius:0;-moz-border-radius:0;b=
+order-radius:0;border:3px solid #0053c0;height:48px;background-color:#fff;t=
+ext-align:center;mso-line-height-rule:exactly}.button_style-2{font-size:14p=
+x;line-height:20px;font-weight:700;letter-spacing:1px;mso-line-height-rule:=
+exactly;color:#0d0d0d!important;text-decoration:none;text-transform:upperca=
+se;-webkit-border-radius:0;-moz-border-radius:0;border-radius:4px;padding:1=
+4px 32px;display:inline-block}</style> <style type=3D""text/css"">html{Margin=
+:0 auto;padding:0}body{width:100%;min-width:100%;Margin:0 auto!important;pa=
+dding:0!important;border-collapse:collapse!important;table-layout:fixed!imp=
+ortant}table td{border-collapse:collapse!important}img{display:block;border=
+:0;text-align:center}.p-b-4{padding-bottom:4px}.p-t-8{padding-top:8px}.p-b-=
+8{padding-bottom:8px}.p-tb-8{padding-top:8px!important;padding-bottom:8px!i=
+mportant}.p-t-10{padding-top:10px}.p-b-10{padding-bottom:10px}.p-tb-10{padd=
+ing-top:10px!important;padding-bottom:10px!important}.p-l-10{padding-left:1=
+0px}.p-r-10{padding-right:10px}.p-t-16{padding-top:16px}.p-b-16{padding-bot=
+tom:16px}.p-l-16{padding-left:16px}.p-r-16{padding-right:16px}.p-lr-16{padd=
+ing-left:16px;padding-right:16px}.p-tb-16{padding-top:16px;padding-bottom:1=
+6px}.p-t-20{padding-top:20px}.p-b-20{padding-bottom:20px}.p-tb-20{padding-t=
+op:20px;padding-bottom:20px}.p-tblr-20{padding-top:20px;padding-bottom:20px=
+;padding-left:20px;padding-right:20px}.p-t-24{padding-top:24px}.p-b-24{padd=
+ing-bottom:24px}.p-l-24{padding-left:24px}.p-r-24{padding-right:24px}.p-tb-=
+24{padding-top:24px;padding-bottom:24px}.p-lr-24{padding-left:24px;padding-=
+right:24px}.p-blr-24{padding-bottom:24px;padding-left:24px;padding-right:24=
+px}.p-tblr-24{padding-top:24px;padding-bottom:24px;padding-left:24px;paddin=
+g-right:24px}.p-t-32{padding-top:32px}.p-b-32{padding-bottom:32px}.p-tb-32{=
+padding-top:32px;padding-bottom:32px}#outlook a{padding:0!important}.Extern=
+alClass *{line-height:100%}*{-webkit-text-size-adjust:none}@media screen an=
+d (max-width:480px){u+.body .full-wrap{width:100%!important;width:100vw!imp=
+ortant}.mobile-only{display:block!important;width:auto!important;max-height=
+:inherit!important;overflow:visible!important;float:none!important}.wrap{wi=
+dth:100%!important;max-width:100%!important;height:auto!important}.mobile-h=
+idden{width:0!important;height:0!important;display:none!important}.m-left-c=
+ol{text-align:left!important;float:left!important;width:50vw;max-width:48%!=
+important}.m-left-col.button{width:140px!important;max-width:48%!important}=
+.m-right-col{float:right!important;width:42.4%;height:auto;max-width:37.18v=
+w!important}img.m-right-col{object-fit:cover;object-position:center center;=
+width:42.4vw;max-width:42.4vw!important;height:53vw}.responsive-image{width=
+:100%!important;max-width:100%!important;height:auto!important}.padding-non=
+e{padding:0!important}.mp-r-0{padding-right:0!important}.margin-none{margin=
+:0!important}.m-align{vertical-align:middle!important}.m-align-top{vertical=
+-align:top!important}.mw-33{width:33%!important}.mw-125{width:125px}.m-font=
+-12{font-size:12px!important;line-height:16px}.m-font-20{font-size:20px;lin=
+e-height:24px}.m-font-32{font-size:32px!important;line-height:32px}.break{d=
+isplay:block!important}.m-text-center{text-align:center!important}.border-n=
+one{border:none!important}.mp-l-0{padding-left:0!important}.mp-t-8{padding-=
+top:8px!important}.mp-b-8{padding-bottom:8px!important}.mp-tb-8{padding-top=
+:8px!important;padding-bottom:8px!important}.mp-t-10{padding-top:10px!impor=
+tant}.mp-b-10{padding-bottom:10px!important}.mp-tb-10{padding-top:10px!impo=
+rtant;padding-bottom:10px!important}.mp-t-16{padding-top:16px!important}.mp=
+-b-16{padding-bottom:16px!important}.mp-tb-16{padding-top:16px!important;pa=
+dding-bottom:16px!important}.mp-t-20{padding-top:20px!important}.mp-b-20{pa=
+dding-bottom:20px!important}.mp-tb-20{padding-top:20px!important;padding-bo=
+ttom:20px!important}.mp-t-24{padding-top:24px!important}.mp-b-24{padding-bo=
+ttom:24px!important}.mp-tlr-24{padding-top:24px!important;padding-left:24px=
+!important;padding-right:24px!important}.mp-blr-24{padding-bottom:24px!impo=
+rtant;padding-left:24px!important;padding-right:24px!important}.mp-tblr-24{=
+padding-top:24px!important;padding-bottom:24px!important;padding-left:24px!=
+important;padding-right:24px!important}.mp-lr-24{padding-left:24px!importan=
+t;padding-right:24px!important}.mp-lr-22{padding-left:22px!important;paddin=
+g-right:22px!important}.mp-t-32{padding-top:32px!important}.mp-b-32{padding=
+-bottom:32px!important}.mp-t-40{padding-top:40px!important}.mp-t-48{padding=
+-top:48px!important}.mp-b-48{padding-bottom:48px!important}}</style> <scrip=
+t type=3D""application/ld+json"">
+[{
+""@context"": ""http://schema.org/"",
+""@type"": ""Organization"",
+""name"": ""InStyle"",
+""logo"": ""https://images.meredith.com/images/logos/120x120/instyle.png""
+}]
+</script> </head>
+<!DOCTYPE html> <html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn=
+:schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:off=
+ice""> <head> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPN=
+G/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml=
+><![endif]--> <meta http-equiv=3D""Content-Type"" content=3D""text/html; chars=
+et=3Dutf-8""/> <!--[if !mso]><!--> <meta http-equiv=3D""X-UA-Compatible"" cont=
+ent=3D""IE=3Dedge""/> <!--<![endif]--> <meta name=3D""viewport"" content=3D""wid=
+th=3Ddevice-width, initial-scale=3D1.0""/> <meta name=3D""x-apple-disable-mes=
+sage-reformatting""/> <title></title> <!-- Outlook Web Font Fix - Normalise =
+space between bullets and text with <li> | Update font stacks to web-safe b=
+ackups for Outlook --> <!--[if gte mso 9]><style type=3D""text/css"">a{text-d=
+ecoration:none}h1,.hl-1,h2,.hl-2,h3,.hl-3,h4,.hl-4{font-family:Georgia,Time=
+s,serif!important}p,.text,.link,.text-2,.text-3,.button_structure,.button_s=
+tyle,.button_structure-2,.button_style-2{font-family:Arial,sans-serif!impor=
+tant}li{text-indent:-1em!important}</style><![endif]--> <!-- Webfont @impor=
+t URL goes in a separate style block --> <style type=3D""text/css"">@import u=
+rl('https://fonts.googleapis.com/css2?family=3DInter:wght@400;500;700&famil=
+y=3DSpectral:wght@400;500;700&display=3Dswap');</style> <style type=3D""text=
+/css"">@media only screen and (max-width:480px){.lihide{display:none!importa=
+nt}.lishow{display:table-row!important}}</style> <style>@media(max-width:48=
+0px){.mobile-only{display:block!important;width:auto!important;max-height:i=
+nherit!important;overflow:visible!important;float:none!important}.wrap{widt=
+h:100%!important;max-width:100%!important;height:auto!important}.m-font-24{=
+font-size:24px;line-height:28px;font-weight:500;letter-spacing:-1px}.m-left=
+-col{text-align:left!important;float:left!important;width:45%!important;max=
+-width:46%!important}.m-left-col.button{width:140px!important;max-width:48%=
+!important}.m-right-col{float:right!important;width:38%!important;height:au=
+to!important;min-height:49vw!important;max-width:38vw!important}img.m-right=
+-col{object-fit:cover;object-position:center center;width:38vw!important;ma=
+x-width:38vw!important;height:47.43vw!important}.responsive-image{width:100=
+%!important;max-width:100%!important;height:auto!important}.padding-none{pa=
+dding:0!important}}</style> <style type=3D""text/css"">h1,.hl-1,h2,.hl-2,h3,.=
+hl-3,h4,.hl-4,.divider{font-family:'Spectral',Georgia,serif;color:#0d0d0d}p=
+,.text,.text-2,.text-3,.link{font-family:'Inter',Arial,sans-serif;color:#0d=
+0d0d}.button_structure,.button_style,.button_structure-2,.button_style-2{fo=
+nt-family:Arial,sans-serif}h1,.hl-1{font-size:28px;line-height:32px;letter-=
+spacing:-1px}h2,.hl-2{font-size:24px;line-height:28px;font-weight:500;lette=
+r-spacing:-1px}h3,.hl-3{font-size:18px;line-height:24px;font-weight:700;tex=
+t-align:center}h4,.hl-4{font-size:14px;line-height:20px;font-weight:500;tex=
+t-align:left;letter-spacing:-1px}p,.text{font-size:16px;line-height:24px;fo=
+nt-weight:400;text-align:left}.text-2{font-size:14px;line-height:20px}.text=
+-3{font-size:12px;line-height:16px}.divider{font-size:36px;line-height:40px=
+;font-weight:300;text-transform:uppercase}.link{font-size:18px;line-height:=
+26px;font-weight:400;color:#014ecb;text-decoration:underline;text-decoratio=
+n-color:#014ecb}.border{border:1px solid #d9d9d9}.bullet{color:#595959;widt=
+h:10px}.button_structure{-webkit-border-radius:0;-moz-border-radius:0;borde=
+r-radius:0;height:48px;background-color:#000f40;text-align:center;mso-line-=
+height-rule:exactly}.button_style{font-size:14px;line-height:20px;font-weig=
+ht:700;letter-spacing:1px;mso-line-height-rule:exactly;color:#fff!important=
+;text-decoration:none!important;text-transform:uppercase;-webkit-border-rad=
+ius:0;-moz-border-radius:0;border-radius:4px;padding:14px 32px;display:inli=
+ne-block}.button_structure-2{-webkit-border-radius:0;-moz-border-radius:0;b=
+order-radius:0;border:3px solid #0053c0;height:48px;background-color:#fff;t=
+ext-align:center;mso-line-height-rule:exactly}.button_style-2{font-size:14p=
+x;line-height:20px;font-weight:700;letter-spacing:1px;mso-line-height-rule:=
+exactly;color:#0d0d0d!important;text-decoration:none;text-transform:upperca=
+se;-webkit-border-radius:0;-moz-border-radius:0;border-radius:4px;padding:1=
+4px 32px;display:inline-block}</style> <style type=3D""text/css"">html{Margin=
+:0 auto;padding:0}body{width:100%;min-width:100%;Margin:0 auto!important;pa=
+dding:0!important;border-collapse:collapse!important;table-layout:fixed!imp=
+ortant}table td{border-collapse:collapse!important}img{display:block;border=
+:0;text-align:center}.p-b-4{padding-bottom:4px}.p-t-8{padding-top:8px}.p-b-=
+8{padding-bottom:8px}.p-tb-8{padding-top:8px!important;padding-bottom:8px!i=
+mportant}.p-t-10{padding-top:10px}.p-b-10{padding-bottom:10px}.p-tb-10{padd=
+ing-top:10px!important;padding-bottom:10px!important}.p-l-10{padding-left:1=
+0px}.p-r-10{padding-right:10px}.p-t-16{padding-top:16px}.p-b-16{padding-bot=
+tom:16px}.p-l-16{padding-left:16px}.p-r-16{padding-right:16px}.p-lr-16{padd=
+ing-left:16px;padding-right:16px}.p-tb-16{padding-top:16px;padding-bottom:1=
+6px}.p-t-20{padding-top:20px}.p-b-20{padding-bottom:20px}.p-tb-20{padding-t=
+op:20px;padding-bottom:20px}.p-tblr-20{padding-top:20px;padding-bottom:20px=
+;padding-left:20px;padding-right:20px}.p-t-24{padding-top:24px}.p-b-24{padd=
+ing-bottom:24px}.p-l-24{padding-left:24px}.p-r-24{padding-right:24px}.p-tb-=
+24{padding-top:24px;padding-bottom:24px}.p-lr-24{padding-left:24px;padding-=
+right:24px}.p-blr-24{padding-bottom:24px;padding-left:24px;padding-right:24=
+px}.p-tblr-24{padding-top:24px;padding-bottom:24px;padding-left:24px;paddin=
+g-right:24px}.p-t-32{padding-top:32px}.p-b-32{padding-bottom:32px}.p-tb-32{=
+padding-top:32px;padding-bottom:32px}#outlook a{padding:0!important}.Extern=
+alClass *{line-height:100%}*{-webkit-text-size-adjust:none}@media screen an=
+d (max-width:480px){u+.body .full-wrap{width:100%!important;width:100vw!imp=
+ortant}.mobile-only{display:block!important;width:auto!important;max-height=
+:inherit!important;overflow:visible!important;float:none!important}.wrap{wi=
+dth:100%!important;max-width:100%!important;height:auto!important}.mobile-h=
+idden{width:0!important;height:0!important;display:none!important}.m-left-c=
+ol{text-align:left!important;float:left!important;width:50vw;max-width:48%!=
+important}.m-left-col.button{width:140px!important;max-width:48%!important}=
+.m-right-col{float:right!important;width:42.4%;height:auto;max-width:37.18v=
+w!important}img.m-right-col{object-fit:cover;object-position:center center;=
+width:42.4vw;max-width:42.4vw!important;height:53vw}.responsive-image{width=
+:100%!important;max-width:100%!important;height:auto!important}.padding-non=
+e{padding:0!important}.mp-r-0{padding-right:0!important}.margin-none{margin=
+:0!important}.m-align{vertical-align:middle!important}.m-align-top{vertical=
+-align:top!important}.mw-33{width:33%!important}.mw-125{width:125px}.m-font=
+-12{font-size:12px!important;line-height:16px}.m-font-20{font-size:20px;lin=
+e-height:24px}.m-font-32{font-size:32px!important;line-height:32px}.break{d=
+isplay:block!important}.m-text-center{text-align:center!important}.border-n=
+one{border:none!important}.mp-l-0{padding-left:0!important}.mp-t-8{padding-=
+top:8px!important}.mp-b-8{padding-bottom:8px!important}.mp-tb-8{padding-top=
+:8px!important;padding-bottom:8px!important}.mp-t-10{padding-top:10px!impor=
+tant}.mp-b-10{padding-bottom:10px!important}.mp-tb-10{padding-top:10px!impo=
+rtant;padding-bottom:10px!important}.mp-t-16{padding-top:16px!important}.mp=
+-b-16{padding-bottom:16px!important}.mp-tb-16{padding-top:16px!important;pa=
+dding-bottom:16px!important}.mp-t-20{padding-top:20px!important}.mp-b-20{pa=
+dding-bottom:20px!important}.mp-tb-20{padding-top:20px!important;padding-bo=
+ttom:20px!important}.mp-t-24{padding-top:24px!important}.mp-b-24{padding-bo=
+ttom:24px!important}.mp-tlr-24{padding-top:24px!important;padding-left:24px=
+!important;padding-right:24px!important}.mp-blr-24{padding-bottom:24px!impo=
+rtant;padding-left:24px!important;padding-right:24px!important}.mp-tblr-24{=
+padding-top:24px!important;padding-bottom:24px!important;padding-left:24px!=
+important;padding-right:24px!important}.mp-lr-24{padding-left:24px!importan=
+t;padding-right:24px!important}.mp-lr-22{padding-left:22px!important;paddin=
+g-right:22px!important}.mp-t-32{padding-top:32px!important}.mp-b-32{padding=
+-bottom:32px!important}.mp-t-40{padding-top:40px!important}.mp-t-48{padding=
+-top:48px!important}.mp-b-48{padding-bottom:48px!important}}</style> <scrip=
+t type=3D""application/ld+json"">
+[{
+""@context"": ""http://schema.org/"",
+""@type"": ""Organization"",
+""name"": ""InStyle"",
+""logo"": ""https://images.meredith.com/images/logos/120x120/instyle.png""
+}]
+</script> </head>
+<!DOCTYPE html> <html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn=
+:schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:off=
+ice""> <head> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPN=
+G/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml=
+><![endif]--> <meta http-equiv=3D""Content-Type"" content=3D""text/html; chars=
+et=3Dutf-8""/> <!--[if !mso]><!--> <meta http-equiv=3D""X-UA-Compatible"" cont=
+ent=3D""IE=3Dedge""/> <!--<![endif]--> <meta name=3D""viewport"" content=3D""wid=
+th=3Ddevice-width, initial-scale=3D1.0""/> <meta name=3D""x-apple-disable-mes=
+sage-reformatting""/> <title></title> <!-- Outlook Web Font Fix - Normalise =
+space between bullets and text with <li> | Update font stacks to web-safe b=
+ackups for Outlook --> <!--[if gte mso 9]><style type=3D""text/css"">a{text-d=
+ecoration:none}h1,.hl-1,h2,.hl-2,h3,.hl-3,h4,.hl-4{font-family:Georgia,Time=
+s,serif!important}p,.text,.link,.text-2,.text-3,.button_structure,.button_s=
+tyle,.button_structure-2,.button_style-2{font-family:Arial,sans-serif!impor=
+tant}li{text-indent:-1em!important}</style><![endif]--> <!-- Webfont @impor=
+t URL goes in a separate style block --> <style type=3D""text/css"">@import u=
+rl('https://fonts.googleapis.com/css2?family=3DInter:wght@400;500;700&famil=
+y=3DSpectral:wght@400;500;700&display=3Dswap');</style> <style type=3D""text=
+/css"">@media only screen and (max-width:480px){.lihide{display:none!importa=
+nt}.lishow{display:table-row!important}}</style> <style>@media(max-width:48=
+0px){.mobile-only{display:block!important;width:auto!important;max-height:i=
+nherit!important;overflow:visible!important;float:none!important}.wrap{widt=
+h:100%!important;max-width:100%!important;height:auto!important}.m-font-24{=
+font-size:24px;line-height:28px;font-weight:500;letter-spacing:-1px}.m-left=
+-col{text-align:left!important;float:left!important;width:45%!important;max=
+-width:46%!important}.m-left-col.button{width:140px!important;max-width:48%=
+!important}.m-right-col{float:right!important;width:38%!important;height:au=
+to!important;min-height:49vw!important;max-width:38vw!important}img.m-right=
+-col{object-fit:cover;object-position:center center;width:38vw!important;ma=
+x-width:38vw!important;height:47.43vw!important}.responsive-image{width:100=
+%!important;max-width:100%!important;height:auto!important}.padding-none{pa=
+dding:0!important}}</style> <style type=3D""text/css"">h1,.hl-1,h2,.hl-2,h3,.=
+hl-3,h4,.hl-4,.divider{font-family:'Spectral',Georgia,serif;color:#0d0d0d}p=
+,.text,.text-2,.text-3,.link{font-family:'Inter',Arial,sans-serif;color:#0d=
+0d0d}.button_structure,.button_style,.button_structure-2,.button_style-2{fo=
+nt-family:Arial,sans-serif}h1,.hl-1{font-size:28px;line-height:32px;letter-=
+spacing:-1px}h2,.hl-2{font-size:24px;line-height:28px;font-weight:500;lette=
+r-spacing:-1px}h3,.hl-3{font-size:18px;line-height:24px;font-weight:700;tex=
+t-align:center}h4,.hl-4{font-size:14px;line-height:20px;font-weight:500;tex=
+t-align:left;letter-spacing:-1px}p,.text{font-size:16px;line-height:24px;fo=
+nt-weight:400;text-align:left}.text-2{font-size:14px;line-height:20px}.text=
+-3{font-size:12px;line-height:16px}.divider{font-size:36px;line-height:40px=
+;font-weight:300;text-transform:uppercase}.link{font-size:18px;line-height:=
+26px;font-weight:400;color:#014ecb;text-decoration:underline;text-decoratio=
+n-color:#014ecb}.border{border:1px solid #d9d9d9}.bullet{color:#595959;widt=
+h:10px}.button_structure{-webkit-border-radius:0;-moz-border-radius:0;borde=
+r-radius:0;height:48px;background-color:#000f40;text-align:center;mso-line-=
+height-rule:exactly}.button_style{font-size:14px;line-height:20px;font-weig=
+ht:700;letter-spacing:1px;mso-line-height-rule:exactly;color:#fff!important=
+;text-decoration:none!important;text-transform:uppercase;-webkit-border-rad=
+ius:0;-moz-border-radius:0;border-radius:4px;padding:14px 32px;display:inli=
+ne-block}.button_structure-2{-webkit-border-radius:0;-moz-border-radius:0;b=
+order-radius:0;border:3px solid #0053c0;height:48px;background-color:#fff;t=
+ext-align:center;mso-line-height-rule:exactly}.button_style-2{font-size:14p=
+x;line-height:20px;font-weight:700;letter-spacing:1px;mso-line-height-rule:=
+exactly;color:#0d0d0d!important;text-decoration:none;text-transform:upperca=
+se;-webkit-border-radius:0;-moz-border-radius:0;border-radius:4px;padding:1=
+4px 32px;display:inline-block}</style> <style type=3D""text/css"">html{Margin=
+:0 auto;padding:0}body{width:100%;min-width:100%;Margin:0 auto!important;pa=
+dding:0!important;border-collapse:collapse!important;table-layout:fixed!imp=
+ortant}table td{border-collapse:collapse!important}img{display:block;border=
+:0;text-align:center}.p-b-4{padding-bottom:4px}.p-t-8{padding-top:8px}.p-b-=
+8{padding-bottom:8px}.p-tb-8{padding-top:8px!important;padding-bottom:8px!i=
+mportant}.p-t-10{padding-top:10px}.p-b-10{padding-bottom:10px}.p-tb-10{padd=
+ing-top:10px!important;padding-bottom:10px!important}.p-l-10{padding-left:1=
+0px}.p-r-10{padding-right:10px}.p-t-16{padding-top:16px}.p-b-16{padding-bot=
+tom:16px}.p-l-16{padding-left:16px}.p-r-16{padding-right:16px}.p-lr-16{padd=
+ing-left:16px;padding-right:16px}.p-tb-16{padding-top:16px;padding-bottom:1=
+6px}.p-t-20{padding-top:20px}.p-b-20{padding-bottom:20px}.p-tb-20{padding-t=
+op:20px;padding-bottom:20px}.p-tblr-20{padding-top:20px;padding-bottom:20px=
+;padding-left:20px;padding-right:20px}.p-t-24{padding-top:24px}.p-b-24{padd=
+ing-bottom:24px}.p-l-24{padding-left:24px}.p-r-24{padding-right:24px}.p-tb-=
+24{padding-top:24px;padding-bottom:24px}.p-lr-24{padding-left:24px;padding-=
+right:24px}.p-blr-24{padding-bottom:24px;padding-left:24px;padding-right:24=
+px}.p-tblr-24{padding-top:24px;padding-bottom:24px;padding-left:24px;paddin=
+g-right:24px}.p-t-32{padding-top:32px}.p-b-32{padding-bottom:32px}.p-tb-32{=
+padding-top:32px;padding-bottom:32px}#outlook a{padding:0!important}.Extern=
+alClass *{line-height:100%}*{-webkit-text-size-adjust:none}@media screen an=
+d (max-width:480px){u+.body .full-wrap{width:100%!important;width:100vw!imp=
+ortant}.mobile-only{display:block!important;width:auto!important;max-height=
+:inherit!important;overflow:visible!important;float:none!important}.wrap{wi=
+dth:100%!important;max-width:100%!important;height:auto!important}.mobile-h=
+idden{width:0!important;height:0!important;display:none!important}.m-left-c=
+ol{text-align:left!important;float:left!important;width:50vw;max-width:48%!=
+important}.m-left-col.button{width:140px!important;max-width:48%!important}=
+.m-right-col{float:right!important;width:42.4%;height:auto;max-width:37.18v=
+w!important}img.m-right-col{object-fit:cover;object-position:center center;=
+width:42.4vw;max-width:42.4vw!important;height:53vw}.responsive-image{width=
+:100%!important;max-width:100%!important;height:auto!important}.padding-non=
+e{padding:0!important}.mp-r-0{padding-right:0!important}.margin-none{margin=
+:0!important}.m-align{vertical-align:middle!important}.m-align-top{vertical=
+-align:top!important}.mw-33{width:33%!important}.mw-125{width:125px}.m-font=
+-12{font-size:12px!important;line-height:16px}.m-font-20{font-size:20px;lin=
+e-height:24px}.m-font-32{font-size:32px!important;line-height:32px}.break{d=
+isplay:block!important}.m-text-center{text-align:center!important}.border-n=
+one{border:none!important}.mp-l-0{padding-left:0!important}.mp-t-8{padding-=
+top:8px!important}.mp-b-8{padding-bottom:8px!important}.mp-tb-8{padding-top=
+:8px!important;padding-bottom:8px!important}.mp-t-10{padding-top:10px!impor=
+tant}.mp-b-10{padding-bottom:10px!important}.mp-tb-10{padding-top:10px!impo=
+rtant;padding-bottom:10px!important}.mp-t-16{padding-top:16px!important}.mp=
+-b-16{padding-bottom:16px!important}.mp-tb-16{padding-top:16px!important;pa=
+dding-bottom:16px!important}.mp-t-20{padding-top:20px!important}.mp-b-20{pa=
+dding-bottom:20px!important}.mp-tb-20{padding-top:20px!important;padding-bo=
+ttom:20px!important}.mp-t-24{padding-top:24px!important}.mp-b-24{padding-bo=
+ttom:24px!important}.mp-tlr-24{padding-top:24px!important;padding-left:24px=
+!important;padding-right:24px!important}.mp-blr-24{padding-bottom:24px!impo=
+rtant;padding-left:24px!important;padding-right:24px!important}.mp-tblr-24{=
+padding-top:24px!important;padding-bottom:24px!important;padding-left:24px!=
+important;padding-right:24px!important}.mp-lr-24{padding-left:24px!importan=
+t;padding-right:24px!important}.mp-lr-22{padding-left:22px!important;paddin=
+g-right:22px!important}.mp-t-32{padding-top:32px!important}.mp-b-32{padding=
+-bottom:32px!important}.mp-t-40{padding-top:40px!important}.mp-t-48{padding=
+-top:48px!important}.mp-b-48{padding-bottom:48px!important}}</style> <scrip=
+t type=3D""application/ld+json"">
+[{
+""@context"": ""http://schema.org/"",
+""@type"": ""Organization"",
+""name"": ""InStyle"",
+""logo"": ""https://images.meredith.com/images/logos/120x120/instyle.png""
+}]
+</script> </head>
+<!DOCTYPE html> <html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn=
+:schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:off=
+ice""> <head> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPN=
+G/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml=
+><![endif]--> <meta http-equiv=3D""Content-Type"" content=3D""text/html; chars=
+et=3Dutf-8""/> <!--[if !mso]><!--> <meta http-equiv=3D""X-UA-Compatible"" cont=
+ent=3D""IE=3Dedge""/> <!--<![endif]--> <meta name=3D""viewport"" content=3D""wid=
+th=3Ddevice-width, initial-scale=3D1.0""/> <meta name=3D""x-apple-disable-mes=
+sage-reformatting""/> <title></title> <!-- Outlook Web Font Fix - Normalise =
+space between bullets and text with <li> | Update font stacks to web-safe b=
+ackups for Outlook --> <!--[if gte mso 9]><style type=3D""text/css"">a{text-d=
+ecoration:none}h1,.hl-1,h2,.hl-2,h3,.hl-3,h4,.hl-4{font-family:Georgia,Time=
+s,serif!important}p,.text,.link,.text-2,.text-3,.button_structure,.button_s=
+tyle,.button_structure-2,.button_style-2{font-family:Arial,sans-serif!impor=
+tant}li{text-indent:-1em!important}</style><![endif]--> <!-- Webfont @impor=
+t URL goes in a separate style block --> <style type=3D""text/css"">@import u=
+rl('https://fonts.googleapis.com/css2?family=3DInter:wght@400;500;700&famil=
+y=3DSpectral:wght@400;500;700&display=3Dswap');</style> <style type=3D""text=
+/css"">@media only screen and (max-width:480px){.lihide{display:none!importa=
+nt}.lishow{display:table-row!important}}</style> <style>@media(max-width:48=
+0px){.mobile-only{display:block!important;width:auto!important;max-height:i=
+nherit!important;overflow:visible!important;float:none!important}.wrap{widt=
+h:100%!important;max-width:100%!important;height:auto!important}.m-font-24{=
+font-size:24px;line-height:28px;font-weight:500;letter-spacing:-1px}.m-left=
+-col{text-align:left!important;float:left!important;width:45%!important;max=
+-width:46%!important}.m-left-col.button{width:140px!important;max-width:48%=
+!important}.m-right-col{float:right!important;width:38%!important;height:au=
+to!important;min-height:49vw!important;max-width:38vw!important}img.m-right=
+-col{object-fit:cover;object-position:center center;width:38vw!important;ma=
+x-width:38vw!important;height:47.43vw!important}.responsive-image{width:100=
+%!important;max-width:100%!important;height:auto!important}.padding-none{pa=
+dding:0!important}}</style> <style type=3D""text/css"">h1,.hl-1,h2,.hl-2,h3,.=
+hl-3,h4,.hl-4,.divider{font-family:'Spectral',Georgia,serif;color:#0d0d0d}p=
+,.text,.text-2,.text-3,.link{font-family:'Inter',Arial,sans-serif;color:#0d=
+0d0d}.button_structure,.button_style,.button_structure-2,.button_style-2{fo=
+nt-family:Arial,sans-serif}h1,.hl-1{font-size:28px;line-height:32px;letter-=
+spacing:-1px}h2,.hl-2{font-size:24px;line-height:28px;font-weight:500;lette=
+r-spacing:-1px}h3,.hl-3{font-size:18px;line-height:24px;font-weight:700;tex=
+t-align:center}h4,.hl-4{font-size:14px;line-height:20px;font-weight:500;tex=
+t-align:left;letter-spacing:-1px}p,.text{font-size:16px;line-height:24px;fo=
+nt-weight:400;text-align:left}.text-2{font-size:14px;line-height:20px}.text=
+-3{font-size:12px;line-height:16px}.divider{font-size:36px;line-height:40px=
+;font-weight:300;text-transform:uppercase}.link{font-size:18px;line-height:=
+26px;font-weight:400;color:#014ecb;text-decoration:underline;text-decoratio=
+n-color:#014ecb}.border{border:1px solid #d9d9d9}.bullet{color:#595959;widt=
+h:10px}.button_structure{-webkit-border-radius:0;-moz-border-radius:0;borde=
+r-radius:0;height:48px;background-color:#000f40;text-align:center;mso-line-=
+height-rule:exactly}.button_style{font-size:14px;line-height:20px;font-weig=
+ht:700;letter-spacing:1px;mso-line-height-rule:exactly;color:#fff!important=
+;text-decoration:none!important;text-transform:uppercase;-webkit-border-rad=
+ius:0;-moz-border-radius:0;border-radius:4px;padding:14px 32px;display:inli=
+ne-block}.button_structure-2{-webkit-border-radius:0;-moz-border-radius:0;b=
+order-radius:0;border:3px solid #0053c0;height:48px;background-color:#fff;t=
+ext-align:center;mso-line-height-rule:exactly}.button_style-2{font-size:14p=
+x;line-height:20px;font-weight:700;letter-spacing:1px;mso-line-height-rule:=
+exactly;color:#0d0d0d!important;text-decoration:none;text-transform:upperca=
+se;-webkit-border-radius:0;-moz-border-radius:0;border-radius:4px;padding:1=
+4px 32px;display:inline-block}</style> <style type=3D""text/css"">html{Margin=
+:0 auto;padding:0}body{width:100%;min-width:100%;Margin:0 auto!important;pa=
+dding:0!important;border-collapse:collapse!important;table-layout:fixed!imp=
+ortant}table td{border-collapse:collapse!important}img{display:block;border=
+:0;text-align:center}.p-b-4{padding-bottom:4px}.p-t-8{padding-top:8px}.p-b-=
+8{padding-bottom:8px}.p-tb-8{padding-top:8px!important;padding-bottom:8px!i=
+mportant}.p-t-10{padding-top:10px}.p-b-10{padding-bottom:10px}.p-tb-10{padd=
+ing-top:10px!important;padding-bottom:10px!important}.p-l-10{padding-left:1=
+0px}.p-r-10{padding-right:10px}.p-t-16{padding-top:16px}.p-b-16{padding-bot=
+tom:16px}.p-l-16{padding-left:16px}.p-r-16{padding-right:16px}.p-lr-16{padd=
+ing-left:16px;padding-right:16px}.p-tb-16{padding-top:16px;padding-bottom:1=
+6px}.p-t-20{padding-top:20px}.p-b-20{padding-bottom:20px}.p-tb-20{padding-t=
+op:20px;padding-bottom:20px}.p-tblr-20{padding-top:20px;padding-bottom:20px=
+;padding-left:20px;padding-right:20px}.p-t-24{padding-top:24px}.p-b-24{padd=
+ing-bottom:24px}.p-l-24{padding-left:24px}.p-r-24{padding-right:24px}.p-tb-=
+24{padding-top:24px;padding-bottom:24px}.p-lr-24{padding-left:24px;padding-=
+right:24px}.p-blr-24{padding-bottom:24px;padding-left:24px;padding-right:24=
+px}.p-tblr-24{padding-top:24px;padding-bottom:24px;padding-left:24px;paddin=
+g-right:24px}.p-t-32{padding-top:32px}.p-b-32{padding-bottom:32px}.p-tb-32{=
+padding-top:32px;padding-bottom:32px}#outlook a{padding:0!important}.Extern=
+alClass *{line-height:100%}*{-webkit-text-size-adjust:none}@media screen an=
+d (max-width:480px){u+.body .full-wrap{width:100%!important;width:100vw!imp=
+ortant}.mobile-only{display:block!important;width:auto!important;max-height=
+:inherit!important;overflow:visible!important;float:none!important}.wrap{wi=
+dth:100%!important;max-width:100%!important;height:auto!important}.mobile-h=
+idden{width:0!important;height:0!important;display:none!important}.m-left-c=
+ol{text-align:left!important;float:left!important;width:50vw;max-width:48%!=
+important}.m-left-col.button{width:140px!important;max-width:48%!important}=
+.m-right-col{float:right!important;width:42.4%;height:auto;max-width:37.18v=
+w!important}img.m-right-col{object-fit:cover;object-position:center center;=
+width:42.4vw;max-width:42.4vw!important;height:53vw}.responsive-image{width=
+:100%!important;max-width:100%!important;height:auto!important}.padding-non=
+e{padding:0!important}.mp-r-0{padding-right:0!important}.margin-none{margin=
+:0!important}.m-align{vertical-align:middle!important}.m-align-top{vertical=
+-align:top!important}.mw-33{width:33%!important}.mw-125{width:125px}.m-font=
+-12{font-size:12px!important;line-height:16px}.m-font-20{font-size:20px;lin=
+e-height:24px}.m-font-32{font-size:32px!important;line-height:32px}.break{d=
+isplay:block!important}.m-text-center{text-align:center!important}.border-n=
+one{border:none!important}.mp-l-0{padding-left:0!important}.mp-t-8{padding-=
+top:8px!important}.mp-b-8{padding-bottom:8px!important}.mp-tb-8{padding-top=
+:8px!important;padding-bottom:8px!important}.mp-t-10{padding-top:10px!impor=
+tant}.mp-b-10{padding-bottom:10px!important}.mp-tb-10{padding-top:10px!impo=
+rtant;padding-bottom:10px!important}.mp-t-16{padding-top:16px!important}.mp=
+-b-16{padding-bottom:16px!important}.mp-tb-16{padding-top:16px!important;pa=
+dding-bottom:16px!important}.mp-t-20{padding-top:20px!important}.mp-b-20{pa=
+dding-bottom:20px!important}.mp-tb-20{padding-top:20px!important;padding-bo=
+ttom:20px!important}.mp-t-24{padding-top:24px!important}.mp-b-24{padding-bo=
+ttom:24px!important}.mp-tlr-24{padding-top:24px!important;padding-left:24px=
+!important;padding-right:24px!important}.mp-blr-24{padding-bottom:24px!impo=
+rtant;padding-left:24px!important;padding-right:24px!important}.mp-tblr-24{=
+padding-top:24px!important;padding-bottom:24px!important;padding-left:24px!=
+important;padding-right:24px!important}.mp-lr-24{padding-left:24px!importan=
+t;padding-right:24px!important}.mp-lr-22{padding-left:22px!important;paddin=
+g-right:22px!important}.mp-t-32{padding-top:32px!important}.mp-b-32{padding=
+-bottom:32px!important}.mp-t-40{padding-top:40px!important}.mp-t-48{padding=
+-top:48px!important}.mp-b-48{padding-bottom:48px!important}}</style> <scrip=
+t type=3D""application/ld+json"">
+[{
+""@context"": ""http://schema.org/"",
+""@type"": ""Organization"",
+""name"": ""InStyle"",
+""logo"": ""https://images.meredith.com/images/logos/120x120/instyle.png""
+}]
+</script> </head>
+<!DOCTYPE html> <html xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn=
+:schemas-microsoft-com:vml"" xmlns:o=3D""urn:schemas-microsoft-com:office:off=
+ice""> <head> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPN=
+G/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml=
+><![endif]--> <meta http-equiv=3D""Content-Type"" content=3D""text/html; chars=
+et=3Dutf-8""/> <!--[if !mso]><!--> <meta http-equiv=3D""X-UA-Compatible"" cont=
+ent=3D""IE=3Dedge""/> <!--<![endif]--> <meta name=3D""viewport"" content=3D""wid=
+th=3Ddevice-width, initial-scale=3D1.0""/> <meta name=3D""x-apple-disable-mes=
+sage-reformatting""/> <title></title> <!-- Outlook Web Font Fix - Normalise =
+space between bullets and text with <li> | Update font stacks to web-safe b=
+ackups for Outlook --> <!--[if gte mso 9]><style type=3D""text/css"">a{text-d=
+ecoration:none}h1,.hl-1,h2,.hl-2,h3,.hl-3,h4,.hl-4{font-family:Georgia,Time=
+s,serif!important}p,.text,.link,.text-2,.text-3,.button_structure,.button_s=
+tyle,.button_structure-2,.button_style-2{font-family:Arial,sans-serif!impor=
+tant}li{text-indent:-1em!important}</style><![endif]--> <!-- Webfont @impor=
+t URL goes in a separate style block --> <style type=3D""text/css"">@import u=
+rl('https://fonts.googleapis.com/css2?family=3DInter:wght@400;500;700&famil=
+y=3DSpectral:wght@400;500;700&display=3Dswap');</style> <style type=3D""text=
+/css"">@media only screen and (max-width:480px){.lihide{display:none!importa=
+nt}.lishow{display:table-row!important}}</style> <style>@media(max-width:48=
+0px){.mobile-only{display:block!important;width:auto!important;max-height:i=
+nherit!important;overflow:visible!important;float:none!important}.wrap{widt=
+h:100%!important;max-width:100%!important;height:auto!important}.m-font-24{=
+font-size:24px;line-height:28px;font-weight:500;letter-spacing:-1px}.m-left=
+-col{text-align:left!important;float:left!important;width:45%!important;max=
+-width:46%!important}.m-left-col.button{width:140px!important;max-width:48%=
+!important}.m-right-col{float:right!important;width:38%!important;height:au=
+to!important;min-height:49vw!important;max-width:38vw!important}img.m-right=
+-col{object-fit:cover;object-position:center center;width:38vw!important;ma=
+x-width:38vw!important;height:47.43vw!important}.responsive-image{width:100=
+%!important;max-width:100%!important;height:auto!important}.padding-none{pa=
+dding:0!important}}</style> <style type=3D""text/css"">h1,.hl-1,h2,.hl-2,h3,.=
+hl-3,h4,.hl-4,.divider{font-family:'Spectral',Georgia,serif;color:#0d0d0d}p=
+,.text,.text-2,.text-3,.link{font-family:'Inter',Arial,sans-serif;color:#0d=
+0d0d}.button_structure,.button_style,.button_structure-2,.button_style-2{fo=
+nt-family:Arial,sans-serif}h1,.hl-1{font-size:28px;line-height:32px;letter-=
+spacing:-1px}h2,.hl-2{font-size:24px;line-height:28px;font-weight:500;lette=
+r-spacing:-1px}h3,.hl-3{font-size:18px;line-height:24px;font-weight:700;tex=
+t-align:center}h4,.hl-4{font-size:14px;line-height:20px;font-weight:500;tex=
+t-align:left;letter-spacing:-1px}p,.text{font-size:16px;line-height:24px;fo=
+nt-weight:400;text-align:left}.text-2{font-size:14px;line-height:20px}.text=
+-3{font-size:12px;line-height:16px}.divider{font-size:36px;line-height:40px=
+;font-weight:300;text-transform:uppercase}.link{font-size:18px;line-height:=
+26px;font-weight:400;color:#014ecb;text-decoration:underline;text-decoratio=
+n-color:#014ecb}.border{border:1px solid #d9d9d9}.bullet{color:#595959;widt=
+h:10px}.button_structure{-webkit-border-radius:0;-moz-border-radius:0;borde=
+r-radius:0;height:48px;background-color:#000f40;text-align:center;mso-line-=
+height-rule:exactly}.button_style{font-size:14px;line-height:20px;font-weig=
+ht:700;letter-spacing:1px;mso-line-height-rule:exactly;color:#fff!important=
+;text-decoration:none!important;text-transform:uppercase;-webkit-border-rad=
+ius:0;-moz-border-radius:0;border-radius:4px;padding:14px 32px;display:inli=
+ne-block}.button_structure-2{-webkit-border-radius:0;-moz-border-radius:0;b=
+order-radius:0;border:3px solid #0053c0;height:48px;background-color:#fff;t=
+ext-align:center;mso-line-height-rule:exactly}.button_style-2{font-size:14p=
+x;line-height:20px;font-weight:700;letter-spacing:1px;mso-line-height-rule:=
+exactly;color:#0d0d0d!important;text-decoration:none;text-transform:upperca=
+se;-webkit-border-radius:0;-moz-border-radius:0;border-radius:4px;padding:1=
+4px 32px;display:inline-block}</style> <style type=3D""text/css"">html{Margin=
+:0 auto;padding:0}body{width:100%;min-width:100%;Margin:0 auto!important;pa=
+dding:0!important;border-collapse:collapse!important;table-layout:fixed!imp=
+ortant}table td{border-collapse:collapse!important}img{display:block;border=
+:0;text-align:center}.p-b-4{padding-bottom:4px}.p-t-8{padding-top:8px}.p-b-=
+8{padding-bottom:8px}.p-tb-8{padding-top:8px!important;padding-bottom:8px!i=
+mportant}.p-t-10{padding-top:10px}.p-b-10{padding-bottom:10px}.p-tb-10{padd=
+ing-top:10px!important;padding-bottom:10px!important}.p-l-10{padding-left:1=
+0px}.p-r-10{padding-right:10px}.p-t-16{padding-top:16px}.p-b-16{padding-bot=
+tom:16px}.p-l-16{padding-left:16px}.p-r-16{padding-right:16px}.p-lr-16{padd=
+ing-left:16px;padding-right:16px}.p-tb-16{padding-top:16px;padding-bottom:1=
+6px}.p-t-20{padding-top:20px}.p-b-20{padding-bottom:20px}.p-tb-20{padding-t=
+op:20px;padding-bottom:20px}.p-tblr-20{padding-top:20px;padding-bottom:20px=
+;padding-left:20px;padding-right:20px}.p-t-24{padding-top:24px}.p-b-24{padd=
+ing-bottom:24px}.p-l-24{padding-left:24px}.p-r-24{padding-right:24px}.p-tb-=
+24{padding-top:24px;padding-bottom:24px}.p-lr-24{padding-left:24px;padding-=
+right:24px}.p-blr-24{padding-bottom:24px;padding-left:24px;padding-right:24=
+px}.p-tblr-24{padding-top:24px;padding-bottom:24px;padding-left:24px;paddin=
+g-right:24px}.p-t-32{padding-top:32px}.p-b-32{padding-bottom:32px}.p-tb-32{=
+padding-top:32px;padding-bottom:32px}#outlook a{padding:0!important}.Extern=
+alClass *{line-height:100%}*{-webkit-text-size-adjust:none}@media screen an=
+d (max-width:480px){u+.body .full-wrap{width:100%!important;width:100vw!imp=
+ortant}.mobile-only{display:block!important;width:auto!important;max-height=
+:inherit!important;overflow:visible!important;float:none!important}.wrap{wi=
+dth:100%!important;max-width:100%!important;height:auto!important}.mobile-h=
+idden{width:0!important;height:0!important;display:none!important}.m-left-c=
+ol{text-align:left!important;float:left!important;width:50vw;max-width:48%!=
+important}.m-left-col.button{width:140px!important;max-width:48%!important}=
+.m-right-col{float:right!important;width:42.4%;height:auto;max-width:37.18v=
+w!important}img.m-right-col{object-fit:cover;object-position:center center;=
+width:42.4vw;max-width:42.4vw!important;height:53vw}.responsive-image{width=
+:100%!important;max-width:100%!important;height:auto!important}.padding-non=
+e{padding:0!important}.mp-r-0{padding-right:0!important}.margin-none{margin=
+:0!important}.m-align{vertical-align:middle!important}.m-align-top{vertical=
+-align:top!important}.mw-33{width:33%!important}.mw-125{width:125px}.m-font=
+-12{font-size:12px!important;line-height:16px}.m-font-20{font-size:20px;lin=
+e-height:24px}.m-font-32{font-size:32px!important;line-height:32px}.break{d=
+isplay:block!important}.m-text-center{text-align:center!important}.border-n=
+one{border:none!important}.mp-l-0{padding-left:0!important}.mp-t-8{padding-=
+top:8px!important}.mp-b-8{padding-bottom:8px!important}.mp-tb-8{padding-top=
+:8px!important;padding-bottom:8px!important}.mp-t-10{padding-top:10px!impor=
+tant}.mp-b-10{padding-bottom:10px!important}.mp-tb-10{padding-top:10px!impo=
+rtant;padding-bottom:10px!important}.mp-t-16{padding-top:16px!important}.mp=
+-b-16{padding-bottom:16px!important}.mp-tb-16{padding-top:16px!important;pa=
+dding-bottom:16px!important}.mp-t-20{padding-top:20px!important}.mp-b-20{pa=
+dding-bottom:20px!important}.mp-tb-20{padding-top:20px!important;padding-bo=
+ttom:20px!important}.mp-t-24{padding-top:24px!important}.mp-b-24{padding-bo=
+ttom:24px!important}.mp-tlr-24{padding-top:24px!important;padding-left:24px=
+!important;padding-right:24px!important}.mp-blr-24{padding-bottom:24px!impo=
+rtant;padding-left:24px!important;padding-right:24px!important}.mp-tblr-24{=
+padding-top:24px!important;padding-bottom:24px!important;padding-left:24px!=
+important;padding-right:24px!important}.mp-lr-24{padding-left:24px!importan=
+t;padding-right:24px!important}.mp-lr-22{padding-left:22px!important;paddin=
+g-right:22px!important}.mp-t-32{padding-top:32px!important}.mp-b-32{padding=
+-bottom:32px!important}.mp-t-40{padding-top:40px!important}.mp-t-48{padding=
+-top:48px!important}.mp-b-48{padding-bottom:48px!important}}</style> <scrip=
+t type=3D""application/ld+json"">
+[{
+""@context"": ""http://schema.org/"",
+""@type"": ""Organization"",
+""name"": ""InStyle"",
+""logo"": ""https://images.meredith.com/images/logos/120x120/instyle.png""
+}]
+</script> </head>
+</head>
+	<img src=3D""https://u51218171.ct.sendgrid.net/wf/open?upn=3Du001.y-2FbovKg=
+WqVGtey4FtdKubh7rFF-2BxFVGP-2F-2BTfc1Y9AxJVBRHcswFVE40wTLDzrbPID2VGxu7x6Jw1=
+W-2FuZUI-2BS6PjckP3f-2B88GAqlWh4uAXQiN3Q-2FxJJ2VRjbnmTyDI6uPKJcMRYb2fA230EC=
+97AqcXAoh-2BiZHIZ3heDPXNeFCNIfwL9h-2B8XqZXEpWoEnrmTfqIh4gQhj6FhjOOgMmXtWEWO=
+sNxyzJnZ-2BulcLqRUsNSlA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" =
+style=3D""height:1px !important;width:1px !important;border-width:0 !importa=
+nt;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impor=
+tant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !im=
+portant;padding-right:0 !important;padding-left:0 !important;""/>","""akd"" <InStyle@aertl.engageelevate.co.in>",sonamriya1234@yahoo.com,2025-03-12,155.138.162.204,United States,so,users/51218171/2354ed30-64a4-4c0d-859a-316fc2454f71.json

@@ -1,0 +1,2641 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51466125,NCa2waokQAGKyNqPXxHyWA.recvd-97d7ddb5-js4jx-1-67EF991B-51.0,cHJvY2Vzc2VkLTUxNDY2MTI1LU5DYTJ3YW9rUUFHS3lOcVBYeEh5V0EtMA,-80 % sur vos vacances : profitez des cartes Avantage,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=promo.tarif.bnjklop.fr;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=MAo4FQkd9FihoxG8wHsFeeP7+Rt5VqMGWTISwQqURS0=;
+	b=M/Xu8bIcx+KIErrPeAZ4TbodfEtS0Y70VvvIkZZBD3qbxpqd7hk6kTiVo0eN9fJ0lmCs
+	NrcgjsEj6trOWA51TEc0BzZ3OaJMc/AWDY017PMty7SnDCelTMogk7//uidgglWLb4rHDw
+	rsFWjSCDQbDkxC+PU4aLpLW7qvky+165Kp305Y7G0pDdy6trpV5/NUeatkFsqKMh1SjJ1S
+	SkM6rmI9OIzgowB7Q86XpmfFm4eyhylILZOt6PbRLEyd2AlhhWQP+sfei+fOWDNAOo+fO2
+	beTostG0pMEZoHjw6phxBTR3Pmb10E+dD428VUpP3k0fCqQic+qG1ks+Cp8cNT4w==
+Received: by recvd-97d7ddb5-js4jx with SMTP id recvd-97d7ddb5-js4jx-1-67EF991B-51
+	2025-04-04 08:32:27.861180176 +0000 UTC m=+12136099.948003961
+Received: from NTE0NjYxMjU (unknown)
+	by geopod-ismtpd-13 (SG) with HTTP
+	id NCa2waokQAGKyNqPXxHyWA
+	Fri, 04 Apr 2025 08:32:27.807 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Fri, 04 Apr 2025 08:32:27 +0000 (UTC)
+From: SNCF VoyageSmart <avantage.offre@promo.tarif.bnjklop.fr>
+Mime-Version: 1.0
+Message-ID: <NCa2waokQAGKyNqPXxHyWA@geopod-ismtpd-13>
+Subject: =?UTF-8?B?LTgw4oCvJQ==?= sur vos vacances : profitez des cartes
+ Avantage
+X-MID: 65853-85181321-3215-0
+X-Mailer: MyMailer
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EeWhjtky3y+Q0PluOpD4qD+LDG3ig5L1cqR0pHRi82tts4ggfbUEXRkKKd?=
+ =?us-ascii?Q?SvYI7qZNBbV9Sb7KEQJWtihLJs7ghdAAOIZ2qY5?=
+ =?us-ascii?Q?eApBjZSjiA6qo6ZQ9mkW3LPeRRuRocq1dNYrIpj?=
+ =?us-ascii?Q?SPR+bQb=2FyL4hmaxbHh0cyEwnVa6FnsqWesYKmsk?=
+ =?us-ascii?Q?Q2BIp66OlUA2AcOjKdesblcSQej9qNHL6co9p7i?=
+ =?us-ascii?Q?rReyu609RA8AjjfIMIECI50LcUuzxn5x0Q+C5Lp?=
+ =?us-ascii?Q?fRc6sy=2FaeqF7O2bBnRHSIcduYA=3D=3D?=
+To: christine.pierrick@orange.fr
+X-Entity-ID: u001.hiutMi/f2jJbFt1CLnbHrg==
+
+<html lang=3D""fr""><head>
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"">
+  <title>SNCF Connect =E2=80=93 Offres Printemps 2025</title>
+
+  <style type=3D""text/css"">
+    /* R=C3=A9initialisation de base et styles globaux */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0c131f;
+      font-family: Arial, sans-serif;
+      color: #0c131f;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .header {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 3px solid #14708a;
+    }
+    .header img {
+      max-width: 160px;
+      margin: 0 auto;
+    }
+   =20
+    /* Classes sp=C3=A9cifiques */
+    .container {
+      width: 650px;
+      margin: 0 auto;
+      background-color: #FFFFFF;
+      overflow: hidden;
+    }
+   =20
+    .offer-banner {
+      background-color: #14708a;
+      padding: 8px 15px;
+      text-align: center;
+      color: #FFFFFF;
+      font-weight: bold;
+      font-size: 14px;
+    }
+   =20
+    .intro-section {
+      background-color: #0c131f;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .intro-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #f3f3f8;
+      margin: 0 0 15px 0;
+    }
+    .intro-text {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #f3f3f8;
+      margin: 0;
+    }
+   =20
+    .card {
+      border: 1px solid #14708a;
+      border-left: 5px solid #14708a;
+      margin-bottom: 20px;
+    }
+    .card-content {
+      padding: 20px;
+    }
+    .card-title {
+      font-size: 18px;
+      color: #14708a;
+      margin: 0 0 10px 0;
+      font-weight: bold;
+    }
+    .card-list {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+      color: #0c131f;
+      font-size: 14px;
+    }
+    .card-list li {
+      margin-bottom: 8px;
+      position: relative;
+      padding-left: 24px;
+    }
+    .card-list li::before {
+      content: '=E2=9C=93';
+      position: absolute;
+      left: 0;
+      color: #14708a;
+    }
+    .card-price-box {
+      text-align: center;
+      background-color: #f3f3f8;
+      padding: 15px;
+      margin: 15px 0;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #999999;
+      margin-right: 10px;
+      font-size: 14px;
+    }
+    .new-price {
+      font-size: 22px;
+      color: #14708a;
+      font-weight: bold;
+    }
+    .savings {
+      display: block;
+      color: #14708a;
+      font-size: 13px;
+      margin-top: 5px;
+    }
+    .cta-button {
+      display: inline-block;
+      background: #14708a;
+      color: #FFFFFF;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      padding: 10px 25px;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+   =20
+    .footer {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+    }
+    .footer p {
+      font-size: 12px;
+      color: #f3f3f8;
+      margin: 5px 0;
+    }
+    .footer a {
+      color: #f3f3f8;
+      text-decoration: underline;
+    }
+
+    /* Responsive */
+    @media only screen and (max-width: 650px) {
+      .container {
+        width: 100% !important;
+      }
+      .intro-title {
+        font-size: 22px !important;
+      }
+      .intro-text {
+        font-size: 15px !important;
+      }
+      .card-title {
+        font-size: 16px !important;
+      }
+      .new-price {
+        font-size: 20px !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Structure principale -->
+<table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" bgco=
+lor=3D""#0c131f"">
+  <tbody><tr>
+    <td align=3D""center"" style=3D""padding: 20px;"">
+
+      <!-- Conteneur global -->
+      <table width=3D""650"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0""=
+ class=3D""container"">
+
+        <!-- Header with centered image -->
+        <tbody><tr>
+          <td class=3D""header"" align=3D""center"">
+            <img width=3D""160px"" src=3D""https://miro.medium.com/v2/resize:f=
+it:908/0*EbWvOik-_z5xoo7w.png"" alt=3D""SNCF Connect"" style=3D""margin: 0 auto=
+;"">
+          </td>
+        </tr>
+       =20
+        <!-- Offer Banner -->
+        <tr>
+          <td class=3D""offer-banner"">
+            Offre exclusive : 48h seulement !
+          </td>
+        </tr>
+       =20
+        <!-- New Image Row -->
+        <tr>
+          <td align=3D""center"">
+            <img src=3D""https://image.info.sncf.com/lib/fe9013737562037f73/=
+m/1/495045b5-61e3-4a19-95cb-9a747d8afe6f.png"" alt=3D""Offre"" style=3D""backgr=
+ound-color:#0c131f"">
+          </td>
+        </tr>
+
+        <!-- Section Intro -->
+        <tr>
+          <td class=3D""intro-section"" align=3D""center"">
+            <h2 class=3D""intro-title"">=C3=89CONOMISEZ JUSQU'=C3=80 80% SUR =
+VOS VOYAGES</h2>
+            <p class=3D""intro-text"">
+              <strong>Le printemps ouvre la voie =C3=A0 de nouveaux horizon=
+s =F0=9F=8C=BF</strong><br>
+              Voyagez plus, d=C3=A9pensez moins : nos cartes avantages sont=
+ =C3=A0 prix mini pour une dur=C3=A9e limit=C3=A9e. L'aventure vous attend,=
+ o=C3=B9 que le vent vous m=C3=A8ne !
+            </p>
+
+<p style=3D""padding:15px 20px;text-align:center;color:#8de8fe;font-size:16p=
+x;""><strong>Bon =C3=A0 savoir :</strong> vous pouvez faire d=C3=A9buter la =
+validit=C3=A9 de votre carte jusqu'=C3=A0 5 mois apr=C3=A8s la date d'achat=
+.
+  (Ex: vous achetez 1 carte le 01/04/2025, vous d=C3=A9butez sa validit=C3=
+=A9 le 01/06/2025, pour l'utiliser jusqu'au 31/05/2026).
+
+</p>
+          </td>
+        </tr>
+
+        <!-- Carte 1 : Jeune -->
+        <tr>
+          <td style=3D""padding: 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Jeune (12-27 ans)=
+</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPaCJSrskCesckKjHCq4RL=
+FtG9UANx7o6zNuGETDEWcWo8eNuFYI8Wn4LrT1o44NCs-3DCwci_Yp4ydSxZWNatis3HtI6bBnm=
+Xjw0nuwAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuGeV8oYjCGCx=
+5jQBVT3iBSi2IoIN10OUEGoGGa0-2FIGLUTfIw7JbrKYqDiO8j8Y-2F-2BbccIJ0ZqQFidgGMxF=
+U-2B7yySalj965uf6guKyoGikJTgTnYKAezOPIpki1CQ7X-2F-2Bidg-3D-3D"" target=3D""_b=
+lank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 2 : Adulte -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Adulte (27-59 ans=
+)</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>-60&nbsp;% sur les billets de 3 enfants accompagnan=
+ts</li>
+                    <li>Tarif Avantage disponible lorsque le week-end est i=
+nclus dans le voyage</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPaCJSrskCesckKjHCq4RL=
+FtG9UANx7o6zNuGETDEWcWo8eNuFYI8Wn4LrT1o44NCs-3DB_F-_Yp4ydSxZWNatis3HtI6bBnm=
+Xjw0nuwAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuLmeVAo5tBs4=
+Ipz38PbMBmlpj0wH0Az3rlJqIufyx0Esl53TrMy-2BjlF3wfv2hOgCyQkVTLPzxsyPVe-2BdtvM=
+3po0lcVje3ro0w95SxNPTp4nxKa2ChnfzpTmcFu6UJLDhkg-3D-3D"" target=3D""_blank"" cl=
+ass=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 3 : Senior -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Senior (60+ ans)<=
+/h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-15&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPaCJSrskCesckKjHCq4RL=
+FtG9UANx7o6zNuGETDEWcWo8eNuFYI8Wn4LrT1o44NCs-3DpNae_Yp4ydSxZWNatis3HtI6bBnm=
+Xjw0nuwAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuH8YLrsyJBhw=
+7-2FfSXYv-2FKj3rlgWSxsfZakeyXkoUPdv78t2J0cYZmbNe-2FJnX88x-2FT98aELuo2y4pAYi=
+w-2FFJ3SbDzRndranShslXOjP8TqZaxid8KGEBuFpqERZK56kPnnQ-3D-3D"" target=3D""_bla=
+nk"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 4 : Libert=C3=A9 Premium -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Libert=C3=A9 Premium</h3>
+                  <ul class=3D""card-list"">
+                    <li>Jusqu'=C3=A0 80&nbsp;% de r=C3=A9duction toutes cla=
+sses</li>
+                    <li>Acc=C3=A8s illimit=C3=A9 aux salons Grand Voyageur<=
+/li>
+                    <li>Service VIP en gare et assistance prioritaire</li>
+                    <li>Points fid=C3=A9lit=C3=A9 doubl=C3=A9s sur tous vos=
+ voyages</li>
+                    <li>Une seule carte pour tous vos d=C3=A9placements : p=
+ros et perso</li>
+                    <li>=C3=89change et remboursement sans frais, jusqu'=C3=
+=A0 2h apr=C3=A8s d=C3=A9part du train</li>
+                    <li>Votre carte est rentabilis=C3=A9e =C3=A0 partir de =
+3 allers-retours !</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">399&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">59&nbsp;=E2=82=AC</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPaCJSrskCesckKjHCq4RL=
+FtG9UANx7o6zNuGETDEWcWo8eNuFYI8Wn4LrT1o44NCs-3DVgx0_Yp4ydSxZWNatis3HtI6bBnm=
+Xjw0nuwAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuC7ABz7hThgP=
+J464k1CG3lJliRtuKmoWeu1MGzMIrXokDGemhcO8LZqhd8RRG83FZd1ptwmSo69P7w8aTVvtxnG=
+be9qY-2B5WaTfs2QqghVqidtqZ0BVecBY7SY0A8y-2BLSDA-3D-3D"" target=3D""_blank"" cl=
+ass=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+     =20
+
+        <!-- Replacing ""Bon =C3=A0 savoir"" with another intro text (no back=
+ground) -->
+       =20
+       =20
+        <!-- Pied de page -->
+        <tr>
+          <td class=3D""footer"">
+            <p>=C2=A9 2025 SNCF Connect =E2=80=93 Tous droits r=C3=A9serv=
+=C3=A9s</p>
+            <p>9 rue Jean-Philippe Rameau =E2=80=93 93200 Saint-Denis</p>
+            <p>
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPaCJSrskCesckKjHCq4RLFtG9UA=
+Nx7o6zNuGETDEWcWo8eNuFYI8Wn4LrT1o44NCs-3D2w15_Yp4ydSxZWNatis3HtI6bBnmXjw0nu=
+wAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuCgr6dDnnV9vaMXc6C=
+6eWfqhO9wwh4lXicx0PWqv9lzloxIufgzhYECOkY87zvZ5bOx08IiaqJjpeR0KDZ8njmWtlCefx=
+ZhSyoF2hmx0j4p8SugQ0z6DPV-2Fzfo1iwS6TgQ-3D-3D"" target=3D""_blank"">Mentions l=
+=C3=A9gales</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPaCJSrskCesckKjHCq4RLFtG9UA=
+Nx7o6zNuGETDEWcWo8eNuFYI8Wn4LrT1o44NCs-3DrFdO_Yp4ydSxZWNatis3HtI6bBnmXjw0nu=
+wAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuFVAVaWdR-2BcpW407=
+ikmh0qLaW2FtkR1W2HybhKD9CmwdHjOoGIvIUq-2FOXFd9EmXSwlYi240b6zXVAVU5x8zk-2Bwi=
+rw2-2FygQaLut6V5oPT5d-2Fth-2FQkwvD6EyRkAHzVsM24kQ-3D-3D"" target=3D""_blank"">=
+Protection des donn=C3=A9es</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPaCJSrskCesckKjHCq4RLFtG9UA=
+Nx7o6zNuGETDEWcWo8eNuFYI8Wn4LrT1o44NCs-3D_unm_Yp4ydSxZWNatis3HtI6bBnmXjw0nu=
+wAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuHxnYM7qFtXmHSB9lO=
+hC6CdUBqGr776FnVtMaMn8VTbH30-2F6Fn2dGg-2B38Wu8y-2BQfHSx0JJ0lPmk7L7r8RlEfRtE=
+u9L6Z-2BUgLPGFhoat56AuyfZTDDH9NKeZOu6mSRJNs3A-3D-3D"" target=3D""_blank"">Se d=
+=C3=A9sabonner</a>
+            </p>
+          </td>
+        </tr>
+
+      </tbody></table><!-- Fin container -->
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style=3D""padding: 10px; color: #666; font-size: 11px; text-align: c=
+enter;"">
+      <p>Pour : christine.pierrick@orange.fr<br>
+      <a style=3D""color: #14708a;"" href=3D""https://u51466125.ct.sendgrid.ne=
+t/ls/click?upn=3Du001.I-2B6oxwatNWAvhTGb6qSKGnBE2ZjO-2FAjZ5LxlplEh2pH7QK-2F=
+yYja7HX3Lvytg5Xf2fOVvdXRJTZdE5LirEXooM4Jq86WTGQlgbgAMk1tik78KhY68DDGrMtzFNV=
+D5jxV8z9DIoirGM3IJN-2BqzPp0hJc9ZhRLOO4-2B5XIXYtEKq0zg-3DcVTa_Yp4ydSxZWNatis=
+3HtI6bBnmXjw0nuwAP7W-2BRgmcES3OTfNG3ParkAERomUReVU6FVQ0zokwnV6TTBLTT5E7IuFE=
+jSQfhCqp7-2F4dcIs-2BUG6yE-2BswftP7fx0TiDkjVsLlPlpc4RtZq4SQCV-2B7ekwOET-2FFj=
+eZuzfdmld7E1MJHKBeC22-2Br5Nvltrr3-2B7-2BMzHvA79lGq31-2BlzueAjMtTcpieWg-3D-3=
+D"" target=3D""_blank"">Se d=C3=A9sabonner</a><br>
+      <span class=3D""perstag_address"" style=3D""color:inherit;font-family:in=
+herit;font-size:11px""></span></p>
+    </td>
+  </tr>
+</tbody></table><!-- Fin structure principale -->
+
+<img src=3D""https://u51466125.ct.sendgrid.net/wf/open?upn=3Du001.WZgtzqU-2F=
+BqV-2FK3COaltys1ZvH8e7gAmTxwuaudKpGvo-2Bn6Vo4HiCqXjMV8q5sprMFsqN68sGFiL1iK0=
+YiUNztRbTkBtMIB8fo-2FzAV09gFQ8ENW-2BmgLf2-2BCgDKPhhm47s10-2FzzfodUO2rKXMpsS=
+nwyCnG8g6pxIGmodjJjOmbon6ghZ4-2BHonBLXnz0qbW9SWfVVIN2OwIPQuvB5cv-2FXPqPIODi=
+054eIE50nxGH4-2B5IHk-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" sty=
+le=3D""height:1px !important;width:1px !important;border-width:0 !important;=
+margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !importan=
+t;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !impor=
+tant;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""SNCF VoyageSmart"" <avantage.offre@promo.tarif.bnjklop.fr>",christine.pierrick@orange.fr,2025-04-04,64.226.104.217,United States,es,users/51466125/f2a75564-a85b-4afe-9fde-11654c46d2b9.json
+51466125,IBTvwJk4RZSTZgJ_kvl3Lw.recvd-69cbc48b94-q9zxj-1-67E4929A-1D.0,cHJvY2Vzc2VkLTUxNDY2MTI1LUlCVHZ3Sms0UlpTVFpnSl9rdmwzTHctMA,Scheduled Maintenance: Temporary Downtime Notice,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sg1.acms-llc.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=jZW8wR+AnXV3AQVONd91YCW/0bgUMZCq0zvIOoUq5dY=;
+	b=n/SD9+I2600u75D+4qYhSywPzUUF/qrWO9Swkv0WJA0IfjRxCR9m2mdhBWvAbvje+8nX
+	N3y78C7l+G8jDVsB62rJzIejiSUIM1VjnjbVRmtNtpf6ZB45VLwAlDooQu06LaXJss9m2t
+	/bhyQ4HdWnDFO8O4ekecsLb4HdVib8POI/1V0EnGkW1dacr5IE2TZDI33H9QdYDDVdTAko
+	nTzzem8rIzLUwk6CIgK98Vm8hnE6Se5rVsMzTuiBCwpg02nSbsWHNeLfdoVbJtm9M/OtyG
+	XVR1kJhOvf0DzmQEi+ZnxBjzaIubuGnH3q0GuKcElyS6Lkm1d8Te1gcRx+m028FA==
+Received: by recvd-69cbc48b94-q9zxj with SMTP id recvd-69cbc48b94-q9zxj-1-67E4929A-1D
+	2025-03-26 23:49:46.746532431 +0000 UTC m=+11413630.955763230
+Received: from NTE0NjYxMjU (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id IBTvwJk4RZSTZgJ_kvl3Lw
+	Wed, 26 Mar 2025 23:49:46.559 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 26 Mar 2025 23:49:46 +0000 (UTC)
+From: support@sg1.acms-llc.com
+Mime-Version: 1.0
+Message-ID: <IBTvwJk4RZSTZgJ_kvl3Lw@geopod-ismtpd-canary-0>
+Subject: Scheduled Maintenance: Temporary Downtime Notice
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssShKm2hjqQ8dW2rpToz8gu=2FVa3WoWBn+uaerh?=
+ =?us-ascii?Q?TmX1m+ZVksw7q7G+xRrRuZpLAkhEPIFd38+Z5Ic?=
+ =?us-ascii?Q?SASp4k8xPTPZXH0MtSla9f6tL=2FX8SSAkfOEGgFv?=
+ =?us-ascii?Q?FyYs6Ax4HfWiBb6wo0obJqrrGViRFc2NUKT67W6?=
+ =?us-ascii?Q?QT6dZMW5Cfcg+FTyDhT7ppTxMysXG9CoA=2F44pJK?=
+ =?us-ascii?Q?A=3D=3D?=
+To: theosardnal@kitnova.com
+X-Entity-ID: u001.hiutMi/f2jJbFt1CLnbHrg==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Maintenance Notification</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://acms-llc.com/images/late.svg"" alt=3D""acms-llc.c=
+om Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Scheduled Maintenance</h2>
+        <p style=3D""color: #555;"">We will be performing scheduled maintenan=
+ce on our servers. During this time, some services may be temporarily unava=
+ilable.</p>
+        <p style=3D""color: #555;""><strong>Maintenance Window:</strong> Marc=
+h 20, 2025 | 12:00 AM - 3:00 AM UTC</p>
+        <p style=3D""color: #777;"">For updates, visit <a href=3D""https://u51=
+466125.ct.sendgrid.net/ls/click?upn=3Du001.I-2B6oxwatNWAvhTGb6qSKGgOdc3liVZ=
+jGLqHdq8W9byR49PKk7EspB516gocVZYJOIr56_XyD-2BZF5xYvQr9Fr14HC3x9dofYBMGbou6N=
+HAwhE3tbAzOSTT9eOpzw1NJsuPtBSn7D3npgouI1KuhrRAsOsgM8815sT0uce9YLKq-2F2czN2V=
+GMbx2etgqQVdv9RLvCDcZH2kUOZMXmmaOhew9NdXRYDFJjKuLK1GrCmxjczjKyH4rDMdQaQ0mwz=
+mSHNKEKk9eS87WGyDqL6byh2bVdKZKGw-3D-3D"" style=3D""color: #007BFF;"">our conta=
+ct page</a>.</p>
+    </div>
+<img src=3D""https://u51466125.ct.sendgrid.net/wf/open?upn=3Du001.cbQ6XOR84y=
+BbcXSbHTDDotKNNhSqyrci-2FOJfH-2BZNxDsRNgNJ2eNvXRLe2MoSdd6JlYPny4q950u-2Bh0a=
+Q4Rf669qX1iRqI-2B5skP4tP37u2YOj1jFOZNP4Sxunc3SYzcHWezYO6jScms-2BDLlNcpMtIbZ=
+DwHbn6wwfoRsiS3LBxIxzejXS2YSFkZLAzA1oO0zEOF3cPeN9Rwj2lF8NOxenY35irqmtj-2BQD=
+3oh3P0UWPHxg-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@sg1.acms-llc.com,theosardnal@kitnova.com,2025-03-26,64.226.104.217,United States,en,users/51466125/e0ed778f-09b8-44d6-b017-35bdbe28d6d9.json
+51466125,YUroIZA9TLKl6pwgNDWxsw.recvd-97d7ddb5-tdf4r-1-67ED930B-29.0,cHJvY2Vzc2VkLTUxNDY2MTI1LVlVcm9JWkE5VExLbDZwd2dORFd4c3ctMA,Offres exceptionnelles : économisez -80 % sur vos voyages,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=promo.offre.excoav.com;
+	h=content-type:from:mime-version:subject:to:cc:content-type:from:
+	subject:to;
+	s=s1; bh=nt0lZhWrjUYGaXmseIILCzcPSZcfzmK1E1Wm2dK5q+s=;
+	b=bUDS6gVSw27Rq2mkmR0NDadHJtk3g4SYUTL9vnTaKt5UQYIqNREaCjpNHNrdEeLURNSK
+	osUF1KB6dwq+wi2zHrmzEhvIrWwRNRJHE2sEExvb0+5H2fcM1UNsxoKt7iIDNSbgBdgMIc
+	e+F2yCrrPuI7uBc67evTKKYjIK2yfeP6jKxzJKNLMR/jqQ+LyeMsciOhrnmW0O+Zl4Mrg9
+	Dn2pIAIDM6MjkuM6xDyM283NBWDWsKePdy9mnxCtfvv9ESwtySPi1/ZQlnFtOlnCO5TduM
+	mXQEVzP7KIX9vuHIzIxiXn6CfsnSAalSR12stmVADaYTpGDttCVnWyFhaMow414A==
+Received: by recvd-97d7ddb5-tdf4r with SMTP id recvd-97d7ddb5-tdf4r-1-67ED930B-29
+	2025-04-02 19:42:03.348764345 +0000 UTC m=+12003626.209356029
+Received: from NTE0NjYxMjU (unknown)
+	by geopod-ismtpd-10 (SG) with HTTP
+	id YUroIZA9TLKl6pwgNDWxsw
+	Wed, 02 Apr 2025 19:42:03.255 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=a20e0ad0aedbdb533ae2a6ffdfeca4e66d6872fd48ff369e879ae09bba5b
+Date: Wed, 02 Apr 2025 19:42:03 +0000 (UTC)
+From: SNCF Aventure <deals.avantage@promo.offre.excoav.com>
+Mime-Version: 1.0
+Message-ID: <YUroIZA9TLKl6pwgNDWxsw@geopod-ismtpd-10>
+Subject: Offres exceptionnelles : =?UTF-8?B?w6ljb25vbWlzZXogLTgw4oCvJQ==?= sur
+ vos voyages
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EeWhjtky3y+Q0PluOpD4qD2SFtqpYtn=2FqB2mpjwNDGDfUBGbSCzlGRHw3=2F?=
+ =?us-ascii?Q?Qd+4fJlOKHIPN3k601GBayvyU8d3+B6xCFQC7Zm?=
+ =?us-ascii?Q?yW=2FUVqq8Oxf0ZD3Nsk6UYoFJUy17cEfugiOQHOn?=
+ =?us-ascii?Q?8va5bZbbYYfdhXZXpOehK3Pm5FeD=2FmS6Nz1Y=2FOs?=
+ =?us-ascii?Q?PjBLcg2yGCCgcr8FQjQSq3LKhlH+bsFcYItUEPc?=
+ =?us-ascii?Q?XFDWtAzZqMZG14Q9fBIw7Cwtb7ADzP+u2Zb7wPU?=
+ =?us-ascii?Q?bg7aMqpQmqsGxTDAg7fq34Y6fg=3D=3D?=
+To: lesomport@wanadoo.fr
+X-Entity-ID: u001.hiutMi/f2jJbFt1CLnbHrg==
+
+--a20e0ad0aedbdb533ae2a6ffdfeca4e66d6872fd48ff369e879ae09bba5b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+et pour
+--a20e0ad0aedbdb533ae2a6ffdfeca4e66d6872fd48ff369e879ae09bba5b
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<html lang=3D""fr""><head>
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"">
+  <title>SNCF Connect =E2=80=93 Offres Printemps 2025</title>
+
+  <style type=3D""text/css"">
+    /* R=C3=A9initialisation de base et styles globaux */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0c131f;
+      font-family: Arial, sans-serif;
+      color: #0c131f;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .header {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 3px solid #14708a;
+    }
+    .header img {
+      max-width: 160px;
+      margin: 0 auto;
+    }
+   =20
+    /* Classes sp=C3=A9cifiques */
+    .container {
+      width: 650px;
+      margin: 0 auto;
+      background-color: #FFFFFF;
+      overflow: hidden;
+    }
+   =20
+    .offer-banner {
+      background-color: #14708a;
+      padding: 8px 15px;
+      text-align: center;
+      color: #FFFFFF;
+      font-weight: bold;
+      font-size: 14px;
+    }
+   =20
+    .intro-section {
+      background-color: #0c131f;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .intro-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #f3f3f8;
+      margin: 0 0 15px 0;
+    }
+    .intro-text {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #f3f3f8;
+      margin: 0;
+    }
+   =20
+    .card {
+      border: 1px solid #14708a;
+      border-left: 5px solid #14708a;
+      margin-bottom: 20px;
+    }
+    .card-content {
+      padding: 20px;
+    }
+    .card-title {
+      font-size: 18px;
+      color: #14708a;
+      margin: 0 0 10px 0;
+      font-weight: bold;
+    }
+    .card-list {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+      color: #0c131f;
+      font-size: 14px;
+    }
+    .card-list li {
+      margin-bottom: 8px;
+      position: relative;
+      padding-left: 24px;
+    }
+    .card-list li::before {
+      content: '=E2=9C=93';
+      position: absolute;
+      left: 0;
+      color: #14708a;
+    }
+    .card-price-box {
+      text-align: center;
+      background-color: #f3f3f8;
+      padding: 15px;
+      margin: 15px 0;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #999999;
+      margin-right: 10px;
+      font-size: 14px;
+    }
+    .new-price {
+      font-size: 22px;
+      color: #14708a;
+      font-weight: bold;
+    }
+    .savings {
+      display: block;
+      color: #14708a;
+      font-size: 13px;
+      margin-top: 5px;
+    }
+    .cta-button {
+      display: inline-block;
+      background: #14708a;
+      color: #FFFFFF;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      padding: 10px 25px;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+   =20
+    .footer {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+    }
+    .footer p {
+      font-size: 12px;
+      color: #f3f3f8;
+      margin: 5px 0;
+    }
+    .footer a {
+      color: #f3f3f8;
+      text-decoration: underline;
+    }
+
+    /* Responsive */
+    @media only screen and (max-width: 650px) {
+      .container {
+        width: 100% !important;
+      }
+      .intro-title {
+        font-size: 22px !important;
+      }
+      .intro-text {
+        font-size: 15px !important;
+      }
+      .card-title {
+        font-size: 16px !important;
+      }
+      .new-price {
+        font-size: 20px !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Structure principale -->
+<table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" bgco=
+lor=3D""#0c131f"">
+  <tbody><tr>
+    <td align=3D""center"" style=3D""padding: 20px;"">
+
+      <!-- Conteneur global -->
+      <table width=3D""650"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0""=
+ class=3D""container"">
+
+        <!-- Header with centered image -->
+        <tbody><tr>
+          <td class=3D""header"" align=3D""center"">
+            <img width=3D""160px"" src=3D""https://miro.medium.com/v2/resize:f=
+it:908/0*EbWvOik-_z5xoo7w.png"" alt=3D""SNCF Connect"" style=3D""margin: 0 auto=
+;"">
+          </td>
+        </tr>
+       =20
+        <!-- Offer Banner -->
+        <tr>
+          <td class=3D""offer-banner"">
+            Offre exclusive : 48h seulement !
+          </td>
+        </tr>
+       =20
+        <!-- New Image Row -->
+        <tr>
+          <td align=3D""center"">
+            <img src=3D""https://image.info.sncf.com/lib/fe9013737562037f73/=
+m/1/495045b5-61e3-4a19-95cb-9a747d8afe6f.png"" alt=3D""Offre"" style=3D""backgr=
+ound-color:#0c131f"">
+          </td>
+        </tr>
+
+        <!-- Section Intro -->
+        <tr>
+          <td class=3D""intro-section"" align=3D""center"">
+            <h2 class=3D""intro-title"">=C3=89CONOMISEZ JUSQU'=C3=80 80% SUR =
+VOS VOYAGES</h2>
+            <p class=3D""intro-text"">
+              Profitez du printemps pour explorer la France =C3=A0 des tari=
+fs exceptionnels.
+              Nos cartes avantages sont =C3=A0 prix r=C3=A9duit pour une du=
+r=C3=A9e limit=C3=A9e !
+            </p>
+
+<p style=3D""padding:15px 20px;text-align:center;color:#8de8fe;font-size:16p=
+x;"">Bon =C3=A0 savoir : vous pouvez faire d=C3=A9buter la validit=C3=A9 de =
+votre carte jusqu'=C3=A0 5 mois apr=C3=A8s la date d'achat.
+(Ex: vous achetez 1 carte le 01/04/2025, vous d=C3=A9butez sa validit=C3=A9=
+ le 01/06/2025, pour l'utiliser jusqu'au 31/05/2026).
+
+</p>
+          </td>
+        </tr>
+
+        <!-- Carte 1 : Jeune -->
+        <tr>
+          <td style=3D""padding: 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Jeune (12-27 ans)=
+</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPkJUHA8kb1oO0gjLvldP6=
+Bs3WAhbynbaak4sd8CRzQb-2F0oDgW7xlBmgkKW-2Fui69Cw-3DR_Fo_vxcRPtuHvP9NiRQa-2F=
+kA6ET072yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2BqB7Kc-2BSJH6YhMzEM6xElS7DUU=
+AnYjvzBFmyaqqBwg0WU74-2B9EBeNSx1D5e49K3CORXFi2ByEmRQysrrTT3MgkIaBC5IwCBLlKb=
+ifnbBNiDyNAG-2BB3FvzY5vZ-2BJFdOVTcX2y-2BZUI9ABKib108fjVDblw-3D-3D"" target=
+=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 2 : Adulte -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Adulte (27-59 ans=
+)</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>-60&nbsp;% sur les billets de 3 enfants accompagnan=
+ts</li>
+                    <li>Tarif Avantage disponible lorsque le week-end est i=
+nclus dans le voyage</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPkJUHA8kb1oO0gjLvldP6=
+Bs3WAhbynbaak4sd8CRzQb-2F0oDgW7xlBmgkKW-2Fui69Cw-3D7axw_vxcRPtuHvP9NiRQa-2F=
+kA6ET072yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2Bq7waRL2Z9OngVLuTmon9dDXAu4i=
+bk1oTyj1aue6AgyGZIsKM2CgBND-2FHvbyoKwR-2B72lWRWcue7sTAJSo6VC5P5PtWtBZIoKxK5=
+cmCONy96zx9mQwmTUr6J1fpnXg1o9fd2xk-2BlOvFRacDwAs46uvZaA-3D-3D"" target=3D""_b=
+lank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 3 : Senior -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Senior (60+ ans)<=
+/h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-15&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPkJUHA8kb1oO0gjLvldP6=
+Bs3WAhbynbaak4sd8CRzQb-2F0oDgW7xlBmgkKW-2Fui69Cw-3DL1Bi_vxcRPtuHvP9NiRQa-2F=
+kA6ET072yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2BqUXxb0LgqzIYxzfy8u4KkgC5ohy=
+w5bmOIoWc5XgJw4fWb5qgjEBFLFlMzt3HGoWsGScTigRfWg4Cbt3nAUiN8c47-2FqDpDpvESSOD=
+BI0qe1U1cMHWvs4Xuw9gjkITBSARlGikNcS8wko3CKa8bPHkPmw-3D-3D"" target=3D""_blank=
+"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 4 : Libert=C3=A9 Premium -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Libert=C3=A9 Premium</h3>
+                  <ul class=3D""card-list"">
+                    <li>Jusqu'=C3=A0 80&nbsp;% de r=C3=A9duction toutes cla=
+sses</li>
+                    <li>Acc=C3=A8s illimit=C3=A9 aux salons Grand Voyageur<=
+/li>
+                    <li>Service VIP en gare et assistance prioritaire</li>
+                    <li>Points fid=C3=A9lit=C3=A9 doubl=C3=A9s sur tous vos=
+ voyages</li>
+                    <li>Une seule carte pour tous vos d=C3=A9placements : p=
+ros et perso</li>
+                    <li>=C3=89change et remboursement sans frais, jusqu'=C3=
+=A0 2h apr=C3=A8s d=C3=A9part du train</li>
+                    <li>Votre carte est rentabilis=C3=A9e =C3=A0 partir de =
+3 allers-retours !</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">399&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">59&nbsp;=E2=82=AC</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPkJUHA8kb1oO0gjLvldP6=
+Bs3WAhbynbaak4sd8CRzQb-2F0oDgW7xlBmgkKW-2Fui69Cw-3DkR8o_vxcRPtuHvP9NiRQa-2F=
+kA6ET072yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2Bq5YRIK4vv4Qr6bPHtTpWhcG-2F6=
+oi82HFYGADUCqd6BL4WdHDA7yzV2eh6IMTypnnaeSive6HAzVe3vLJuWFMnbDo4Akuo3Di36-2F=
+hyGhg5ssOjuHO2nvTtxEpSFANp5AXsr8fGrihLaKe-2FZXBvQBJOPOQ-3D-3D"" target=3D""_b=
+lank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+     =20
+
+        <!-- Replacing ""Bon =C3=A0 savoir"" with another intro text (no back=
+ground) -->
+       =20
+       =20
+        <!-- Pied de page -->
+        <tr>
+          <td class=3D""footer"">
+            <p>=C2=A9 2025 SNCF Connect =E2=80=93 Tous droits r=C3=A9serv=
+=C3=A9s</p>
+            <p>9 rue Jean-Philippe Rameau =E2=80=93 93200 Saint-Denis</p>
+            <p>
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPkJUHA8kb1oO0gjLvldP6Bs3WAh=
+bynbaak4sd8CRzQb-2F0oDgW7xlBmgkKW-2Fui69Cw-3DisAy_vxcRPtuHvP9NiRQa-2FkA6ET0=
+72yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2Bq-2Br1QdzPS-2FhlMbxwge4NAUtjz6WjK=
+sYtKhk95NTK6brt-2BcfUfHySmiwC8OnUHuZdckhFdgbuRrbl67hLwHCFyI-2BAUOrSudgG-2FG=
+U9FrwUVbs0sCMQVq8P793Fjb6XrXMl1Ye78IcIDsX0IL86AZlrmPw-3D-3D"" target=3D""_bla=
+nk"">Mentions l=C3=A9gales</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPkJUHA8kb1oO0gjLvldP6Bs3WAh=
+bynbaak4sd8CRzQb-2F0oDgW7xlBmgkKW-2Fui69Cw-3DF8_9_vxcRPtuHvP9NiRQa-2FkA6ET0=
+72yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2BqZU6gz2pBHB09Xw0C3vDB6FWPwOjOtpKD=
+6fFZdJEGHR5WM2W6JchPZESUlEWDTpfQb8gqP0B-2FHLfVejcPQa-2BFYR1LFufs3-2FYcXSkKh=
+pCNYarKh7seP7xJRbczNY1Y2SYhFfy6nSN0VIZjj8iKS-2B6Hug-3D-3D"" target=3D""_blank=
+"">Protection des donn=C3=A9es</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPkJUHA8kb1oO0gjLvldP6Bs3WAh=
+bynbaak4sd8CRzQb-2F0oDgW7xlBmgkKW-2Fui69Cw-3D8VE3_vxcRPtuHvP9NiRQa-2FkA6ET0=
+72yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2BqvYy4BfaGKSeWNZGjWC3iNNVBRpAZ-2Bf=
+dM8F2QTjtnX35gHBdTGYpGThMemobJuymojNBObFRK7K0vNqa8PSExOp3dMFMuw6iKOHGm5j7j2=
+P1TFSQUCW97i9nGkX-2BKzPrPReNBFqffqHg-2Bg6hHX6obtw-3D-3D"" target=3D""_blank"">=
+Se d=C3=A9sabonner</a>
+            </p>
+          </td>
+        </tr>
+
+      </tbody></table><!-- Fin container -->
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style=3D""padding: 10px; color: #666; font-size: 11px; text-align: c=
+enter;"">
+      <p>Pour : lesomport@wanadoo.fr<br>
+      <a style=3D""color: #14708a;"" href=3D""https://u51466125.ct.sendgrid.ne=
+t/ls/click?upn=3Du001.I-2B6oxwatNWAvhTGb6qSKGvfxplcLTLU76JSsZf6UGC1xSTIiX1T=
+PRCVEDmp3R1Bo55E2sU8EPhaFhHxeaGbJqpY-2FdNQaIuTwfcA5uLAs2FI-3DchLp_vxcRPtuHv=
+P9NiRQa-2FkA6ET072yguxSycWLaEN3DrPGb6SQjuO0rN60Uh9x0FpL-2BqEj9adz-2F3pOJN4d=
+GajPip3g8wULieoHmhRqQ9eyuJh50EhQ9E47-2BaOcpOkW05BONgCWREoO4m-2B6PBovImyW2yo=
+Te2CRN55HCd66Hh7EHdVo4nKd2MrpKXMjdEfErosWYwrkdRJEoKiA9Tt8wbmFrxRg-3D-3D"" ta=
+rget=3D""_blank"">Se d=C3=A9sabonner</a><br>
+      <span class=3D""perstag_address"" style=3D""color:inherit;font-family:in=
+herit;font-size:11px""></span></p>
+    </td>
+  </tr>
+</tbody></table><!-- Fin structure principale -->
+
+
+
+<img src=3D""https://u51466125.ct.sendgrid.net/wf/open?upn=3Du001.x74ncTfSR9=
+skcbxCipeD-2BSVtkTc-2B5aqK2NZqM9SPaaxV95j9lE7YPUZ-2BfbeYF-2FCXlQjRQhqLf7uLA=
+pQLWEZSLVaZ8yUf-2FyNxjjPdl9Ez5c7SaxMVupfcXRNpWarJF0i0yyorsr1-2BZuGLCKqstvg-=
+2BIYRQZ0RyiR-2BF10iizFq3N5kV11SDlyzKDuU2DDAa79QQiq6c5105jQTh0DcZLL8qOw-3D-3=
+D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !impo=
+rtant;width:1px !important;border-width:0 !important;margin-top:0 !importan=
+t;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impor=
+tant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !=
+important;padding-left:0 !important;""/></body></html>
+--a20e0ad0aedbdb533ae2a6ffdfeca4e66d6872fd48ff369e879ae09bba5b--
+","""SNCF Aventure"" <deals.avantage@promo.offre.excoav.com>",lesomport@wanadoo.fr,2025-04-02,64.226.104.217,United States,fr,users/51466125/0c683eea-9e6f-4d21-a622-2f3b48d65474.json
+51466125,i57ZHF6ZTEOKtkBcao5Z9w.recvd-8575c86f9d-8f9lz-1-67EEAB92-19.0,cHJvY2Vzc2VkLTUxNDY2MTI1LWk1N1pIRjZaVEVPS3RrQmNhbzVaOXctMA,Offre limitée : -80 % sur vos vacances avec Cartes Avantage,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=prix.unique.excoav.com;
+	h=content-type:from:mime-version:subject:to:cc:content-type:from:
+	subject:to;
+	s=s1; bh=hdX1GyOxsp+OSLkzoTNqBB3chwzVt7jIwpF2aTH3SEM=;
+	b=XRgGGIHsYOPa/lzRKhDA2i1zUPobHfMXjqnFAB+nYxYjNUpO0HZhzv1yn72poJNLSK3d
+	sGHghpUz0jkSnoZcdRLrjg2oTIWWPT5r9IQLlmd7oC7SFZebfOjQOG4syhCOXpJKXAwZQA
+	6FosOYUcoXG125yB/sfpSJlJJPbnYnF7ssZ8SuYb+YiC5+prVgHgXbwJHoxZWmmR43TO3u
+	fnFLDm6jvHhuAWP4Cw7GXk4YDzwrgSOpRfE0xZeWzpgH6qRy1QqITbhJMn0JiiGXAEInD6
+	Mix/glm4eAYceeEnxZP6KHZoqlDlOfSxsCPkB6qBV9P0bBPl9uJ7Ysfefq+MbHOw==
+Received: by recvd-8575c86f9d-8f9lz with SMTP id recvd-8575c86f9d-8f9lz-1-67EEAB92-19
+	2025-04-03 15:38:58.921426508 +0000 UTC m=+12075294.024166218
+Received: from NTE0NjYxMjU (unknown)
+	by geopod-ismtpd-13 (SG) with HTTP
+	id i57ZHF6ZTEOKtkBcao5Z9w
+	Thu, 03 Apr 2025 15:38:58.866 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=8cf7a43cd331f3503eb7accc00242f3a0d0ec145535ae28f0f36a86d77ef
+Date: Thu, 03 Apr 2025 15:38:58 +0000 (UTC)
+From: SNCF VoyageSmart <promo.offre@prix.unique.excoav.com>
+Mime-Version: 1.0
+Message-ID: <i57ZHF6ZTEOKtkBcao5Z9w@geopod-ismtpd-13>
+Subject: Offre =?UTF-8?B?bGltaXTDqWUgOiAtODDigK8l?= sur vos vacances avec
+ Cartes Avantage
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EeWhjtky3y+Q0PluOpD4qD+LDG3ig5L1cqR0pHRi82ttjDhlKZT6H5Lq3W?=
+ =?us-ascii?Q?bM6wXms+DGEktVcpJRMe8yyC3v06Qjph5w+DBdG?=
+ =?us-ascii?Q?K5VEjCHtisg1ft8wnFbsyKDz5j05tN0j8kwApLP?=
+ =?us-ascii?Q?fNXNKWW08TJHh44HDSNwNP8ZtCJb9S9mzd9aN3b?=
+ =?us-ascii?Q?8PfvXiGsrlwxnAezDk46jDq1sgWT0F4uH2BCm9u?=
+ =?us-ascii?Q?=2FXN=2FVNfTrUcCbdpdDgyjRt4hfr+mh5y97oYKs77?=
+ =?us-ascii?Q?EJJIruTk7+lOBIdYJGhgeQVOlw=3D=3D?=
+To: val.gage@orange.fr
+X-Entity-ID: u001.hiutMi/f2jJbFt1CLnbHrg==
+
+--8cf7a43cd331f3503eb7accc00242f3a0d0ec145535ae28f0f36a86d77ef
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+et pour
+--8cf7a43cd331f3503eb7accc00242f3a0d0ec145535ae28f0f36a86d77ef
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<html lang=3D""fr""><head>
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"">
+  <title>SNCF Connect =E2=80=93 Offres Printemps 2025</title>
+
+  <style type=3D""text/css"">
+    /* R=C3=A9initialisation de base et styles globaux */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0c131f;
+      font-family: Arial, sans-serif;
+      color: #0c131f;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .header {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 3px solid #14708a;
+    }
+    .header img {
+      max-width: 160px;
+      margin: 0 auto;
+    }
+   =20
+    /* Classes sp=C3=A9cifiques */
+    .container {
+      width: 650px;
+      margin: 0 auto;
+      background-color: #FFFFFF;
+      overflow: hidden;
+    }
+   =20
+    .offer-banner {
+      background-color: #14708a;
+      padding: 8px 15px;
+      text-align: center;
+      color: #FFFFFF;
+      font-weight: bold;
+      font-size: 14px;
+    }
+   =20
+    .intro-section {
+      background-color: #0c131f;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .intro-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #f3f3f8;
+      margin: 0 0 15px 0;
+    }
+    .intro-text {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #f3f3f8;
+      margin: 0;
+    }
+   =20
+    .card {
+      border: 1px solid #14708a;
+      border-left: 5px solid #14708a;
+      margin-bottom: 20px;
+    }
+    .card-content {
+      padding: 20px;
+    }
+    .card-title {
+      font-size: 18px;
+      color: #14708a;
+      margin: 0 0 10px 0;
+      font-weight: bold;
+    }
+    .card-list {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+      color: #0c131f;
+      font-size: 14px;
+    }
+    .card-list li {
+      margin-bottom: 8px;
+      position: relative;
+      padding-left: 24px;
+    }
+    .card-list li::before {
+      content: '=E2=9C=93';
+      position: absolute;
+      left: 0;
+      color: #14708a;
+    }
+    .card-price-box {
+      text-align: center;
+      background-color: #f3f3f8;
+      padding: 15px;
+      margin: 15px 0;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #999999;
+      margin-right: 10px;
+      font-size: 14px;
+    }
+    .new-price {
+      font-size: 22px;
+      color: #14708a;
+      font-weight: bold;
+    }
+    .savings {
+      display: block;
+      color: #14708a;
+      font-size: 13px;
+      margin-top: 5px;
+    }
+    .cta-button {
+      display: inline-block;
+      background: #14708a;
+      color: #FFFFFF;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      padding: 10px 25px;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+   =20
+    .footer {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+    }
+    .footer p {
+      font-size: 12px;
+      color: #f3f3f8;
+      margin: 5px 0;
+    }
+    .footer a {
+      color: #f3f3f8;
+      text-decoration: underline;
+    }
+
+    /* Responsive */
+    @media only screen and (max-width: 650px) {
+      .container {
+        width: 100% !important;
+      }
+      .intro-title {
+        font-size: 22px !important;
+      }
+      .intro-text {
+        font-size: 15px !important;
+      }
+      .card-title {
+        font-size: 16px !important;
+      }
+      .new-price {
+        font-size: 20px !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Structure principale -->
+<table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" bgco=
+lor=3D""#0c131f"">
+  <tbody><tr>
+    <td align=3D""center"" style=3D""padding: 20px;"">
+
+      <!-- Conteneur global -->
+      <table width=3D""650"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0""=
+ class=3D""container"">
+
+        <!-- Header with centered image -->
+        <tbody><tr>
+          <td class=3D""header"" align=3D""center"">
+            <img width=3D""160px"" src=3D""https://miro.medium.com/v2/resize:f=
+it:908/0*EbWvOik-_z5xoo7w.png"" alt=3D""SNCF Connect"" style=3D""margin: 0 auto=
+;"">
+          </td>
+        </tr>
+       =20
+        <!-- Offer Banner -->
+        <tr>
+          <td class=3D""offer-banner"">
+            Offre exclusive : 48h seulement !
+          </td>
+        </tr>
+       =20
+        <!-- New Image Row -->
+        <tr>
+          <td align=3D""center"">
+            <img src=3D""https://image.info.sncf.com/lib/fe9013737562037f73/=
+m/1/495045b5-61e3-4a19-95cb-9a747d8afe6f.png"" alt=3D""Offre"" style=3D""backgr=
+ound-color:#0c131f"">
+          </td>
+        </tr>
+
+        <!-- Section Intro -->
+        <tr>
+          <td class=3D""intro-section"" align=3D""center"">
+            <h2 class=3D""intro-title"">=C3=89CONOMISEZ JUSQU'=C3=80 80% SUR =
+VOS VOYAGES</h2>
+            <p class=3D""intro-text"">
+              <strong>Le printemps ouvre la voie =C3=A0 de nouveaux horizon=
+s =F0=9F=8C=BF</strong><br>
+              Voyagez plus, d=C3=A9pensez moins : nos cartes avantages sont=
+ =C3=A0 prix mini pour une dur=C3=A9e limit=C3=A9e. L'aventure vous attend,=
+ o=C3=B9 que le vent vous m=C3=A8ne !
+            </p>
+
+<p style=3D""padding:15px 20px;text-align:center;color:#8de8fe;font-size:16p=
+x;""><strong>Bon =C3=A0 savoir :</strong> vous pouvez faire d=C3=A9buter la =
+validit=C3=A9 de votre carte jusqu'=C3=A0 5 mois apr=C3=A8s la date d'achat=
+.
+  (Ex: vous achetez 1 carte le 01/04/2025, vous d=C3=A9butez sa validit=C3=
+=A9 le 01/06/2025, pour l'utiliser jusqu'au 31/05/2026).
+
+</p>
+          </td>
+        </tr>
+
+        <!-- Carte 1 : Jeune -->
+        <tr>
+          <td style=3D""padding: 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Jeune (12-27 ans)=
+</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZMoL2pOYOiImExpcqqRAuz=
+ewJJmqymwkdqZE9U29nNOAvKNJIFXkJLenXH5Z4P-2FHlQ-3DS9z-_wPqG0EFaelJhmfytJCDbS=
+VvK5fIZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5vJvDrqh69eIjiZTU4JJUVnc-2BWVnL=
+sXyBt66LDbouuGXNa-2BS8zc-2BQU7Df96cxdbcyYbWQA-2FBmSrNdjj3SL3AVbsr-2FXeArugX=
+oonptx6KaZrsDiTwUbsAj4Mbygcc5skjV4EGQslnw0g5904VCc1spPA-3D-3D"" target=3D""_b=
+lank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 2 : Adulte -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Adulte (27-59 ans=
+)</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>-60&nbsp;% sur les billets de 3 enfants accompagnan=
+ts</li>
+                    <li>Tarif Avantage disponible lorsque le week-end est i=
+nclus dans le voyage</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZMoL2pOYOiImExpcqqRAuz=
+ewJJmqymwkdqZE9U29nNOAvKNJIFXkJLenXH5Z4P-2FHlQ-3Dh0yt_wPqG0EFaelJhmfytJCDbS=
+VvK5fIZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5L8axtyfHPJosrwHE7VFUFf4fiR4-2B=
+Puqz0-2Bb8aqWSxp5G6OSWctToanukerukgzkMPraBr3J2CEXQkNDmx5TaeOY-2BBrB5CyJDErC=
+OVuFCurDIM5Gdjh7JwV8hz72CTHedQ78kaXnkcNg8L84Oe8-2FxFw-3D-3D"" target=3D""_bla=
+nk"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 3 : Senior -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Senior (60+ ans)<=
+/h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-15&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZMoL2pOYOiImExpcqqRAuz=
+ewJJmqymwkdqZE9U29nNOAvKNJIFXkJLenXH5Z4P-2FHlQ-3DF5eb_wPqG0EFaelJhmfytJCDbS=
+VvK5fIZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5xHOf1snBaQmwnd4A71Ys-2BdVju-2B=
+vGtwrsy-2B-2B4oRE-2BBz9dJ4ApfnV3bk-2BM8ssnMcZL7Hyo3SFDkmnauZdyM-2B1gyaLTNW4=
+BXbqw7cYRj-2F78VK8-2FtmJu4WySgIqam41qm306mptbhS42DMz95TLFIfm82g-3D-3D"" targ=
+et=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 4 : Libert=C3=A9 Premium -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Libert=C3=A9 Premium</h3>
+                  <ul class=3D""card-list"">
+                    <li>Jusqu'=C3=A0 80&nbsp;% de r=C3=A9duction toutes cla=
+sses</li>
+                    <li>Acc=C3=A8s illimit=C3=A9 aux salons Grand Voyageur<=
+/li>
+                    <li>Service VIP en gare et assistance prioritaire</li>
+                    <li>Points fid=C3=A9lit=C3=A9 doubl=C3=A9s sur tous vos=
+ voyages</li>
+                    <li>Une seule carte pour tous vos d=C3=A9placements : p=
+ros et perso</li>
+                    <li>=C3=89change et remboursement sans frais, jusqu'=C3=
+=A0 2h apr=C3=A8s d=C3=A9part du train</li>
+                    <li>Votre carte est rentabilis=C3=A9e =C3=A0 partir de =
+3 allers-retours !</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">399&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">59&nbsp;=E2=82=AC</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZMoL2pOYOiImExpcqqRAuz=
+ewJJmqymwkdqZE9U29nNOAvKNJIFXkJLenXH5Z4P-2FHlQ-3DXBfi_wPqG0EFaelJhmfytJCDbS=
+VvK5fIZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5FOV5eifXKLHKUDZbac28EJeZrYPGxM=
+ZgwZ6eXodFtJ1HNnu2CogXZs7ZSQZtKLJlBWPMDw7kifaocHZXIAFTCWzsKeBjrAltSYI8oBfmV=
+k3697IEE0NDlCRq5hfqK7eYbmwDge0Sn3-2F8KU3BJ7w2Yg-3D-3D"" target=3D""_blank"" cl=
+ass=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+     =20
+
+        <!-- Replacing ""Bon =C3=A0 savoir"" with another intro text (no back=
+ground) -->
+       =20
+       =20
+        <!-- Pied de page -->
+        <tr>
+          <td class=3D""footer"">
+            <p>=C2=A9 2025 SNCF Connect =E2=80=93 Tous droits r=C3=A9serv=
+=C3=A9s</p>
+            <p>9 rue Jean-Philippe Rameau =E2=80=93 93200 Saint-Denis</p>
+            <p>
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZMoL2pOYOiImExpcqqRAuzewJJmq=
+ymwkdqZE9U29nNOAvKNJIFXkJLenXH5Z4P-2FHlQ-3DVJIs_wPqG0EFaelJhmfytJCDbSVvK5fI=
+ZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5U4CQ666e1lsXTpHmFU6BhxHG-2By-2FnyF5X=
+LX9WjXffp7CpmgOorBQhS1Kdt94khA1HPg7ajxgs48v867nqN2VvriB3Eha-2Ba5-2FsajzPtSc=
+wKjtZH6zjkjPn-2FOZd2wilPQi3RsbgiMP-2BV0tgehamGz4tpg-3D-3D"" target=3D""_blank=
+"">Mentions l=C3=A9gales</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZMoL2pOYOiImExpcqqRAuzewJJmq=
+ymwkdqZE9U29nNOAvKNJIFXkJLenXH5Z4P-2FHlQ-3DXZ07_wPqG0EFaelJhmfytJCDbSVvK5fI=
+ZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5ZoOq4X4dkMStpDw7jmDiafrLb-2Bz7sJlOgj=
+LPA-2FOYIRdYSxivpZ3s8vaOXO7VRHsKjUBW-2F7Tn5EBLfFNVdJmJdCn5BqU0YshLuoiziphnp=
+y7GtbNXd8vN6p4BplzgEhm4H8jrFtJ9v6Y9Wwqk9sh7Ew-3D-3D"" target=3D""_blank"">Prot=
+ection des donn=C3=A9es</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZMoL2pOYOiImExpcqqRAuzewJJmq=
+ymwkdqZE9U29nNOAvKNJIFXkJLenXH5Z4P-2FHlQ-3DvDHh_wPqG0EFaelJhmfytJCDbSVvK5fI=
+ZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5xWsdK8S3cdxES3LZmyD4NcrdELKph-2BVWsF=
+O7QY3FTb-2B2AGzWcP5xJjYt2DciqdMwPt3jGeen1iY-2B3K-2FtBeyZszcSz5kIiBHVSUprt5x=
+ttxDTjczS-2FFMqEBUHzDjW9iKWBi5DVb9i7OmhAleo7xTwog-3D-3D"" target=3D""_blank"">=
+Se d=C3=A9sabonner</a>
+            </p>
+          </td>
+        </tr>
+
+      </tbody></table><!-- Fin container -->
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style=3D""padding: 10px; color: #666; font-size: 11px; text-align: c=
+enter;"">
+      <p>Pour : val.gage@orange.fr<br>
+      <a style=3D""color: #14708a;"" href=3D""https://u51466125.ct.sendgrid.ne=
+t/ls/click?upn=3Du001.I-2B6oxwatNWAvhTGb6qSKGukpGJLk4ydcgktDIuMBDqen7PM42I5=
+u-2FBunjSsMLNTFNn7Yy27VmCqwe1UTHaA5uCGOISJfR-2F3hojJCy9oYp82XfKSH3GN72DpQFB=
+nWaDrlB6eevEa580bSbXp60UJ6Et-2FxuBHHtI5nNrYYP3G1IRSYZv6Noft33crfLTK3vd5cgzQ=
+j_wPqG0EFaelJhmfytJCDbSVvK5fIZqEXGqw9nHWvJ-2FPfjp9Imxk2E2wbbE95S0ix5FOvzLhZ=
+YuOhVKBb-2FQitgdV1f45Xag8w6ibipfQhG239qrA8-2BxkGxYZnQQQisYQh-2BrW1BUwxBWEZL=
+hRFqCf6c7reRPCr5uWbvwSfajRiYEClwmLRDDRFejKraUSM-2BIJwBJPFZXXW-2BtRb1CNe6hiq=
+NKg-3D-3D"" target=3D""_blank"">Se d=C3=A9sabonner</a><br>
+      <span class=3D""perstag_address"" style=3D""color:inherit;font-family:in=
+herit;font-size:11px""></span></p>
+    </td>
+  </tr>
+</tbody></table><!-- Fin structure principale -->
+
+<img src=3D""https://u51466125.ct.sendgrid.net/wf/open?upn=3Du001.KYL-2BoZyz=
+KpElY9FUtJsBmHKpeHyxn9Mi5xvhzDfDJdhGBFbfGmIcaeZ81BBe-2FqOxn-2BV6mlH0q1Qlx3-=
+2BYFRiqd9ppjypSZ6HymVthEOzV8IXY6503ccIaMqXm-2FgznnvpzMgU9mK2R44iMPu00JUyPDE=
+cD5gt8L6Sg-2Blaw-2F9cyVeWLB1PPMIS1CERwIbI6N-2BdtSiVKp9uoqkaqsftBgHxjYQ-3D-3=
+D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !impo=
+rtant;width:1px !important;border-width:0 !important;margin-top:0 !importan=
+t;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impor=
+tant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !=
+important;padding-left:0 !important;""/></body>
+</html>
+--8cf7a43cd331f3503eb7accc00242f3a0d0ec145535ae28f0f36a86d77ef--
+","""SNCF VoyageSmart"" <promo.offre@prix.unique.excoav.com>",val.gage@orange.fr,2025-04-03,64.226.104.217,United States,fr,users/51466125/507ec873-3d5e-4dfa-bdd0-9c67b5ed314c.json
+51466125,qWQjrykxSQa-NsdUlJF5Tg.recvd-97d7ddb5-f7pwd-1-67EBDDE3-E.0,cHJvY2Vzc2VkLTUxNDY2MTI1LXFXUWpyeWt4U1FhLU5zZFVsSkY1VGctMA,Profitez de -80 % sur vos voyages avec nos cartes Avantage,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mster.akyop.fr;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=2IZi2lZPSqvRyOQXw1xGrx99T+6SdkhHMqPN1qZQ6JQ=;
+	b=Jk/KA+/1aQJHRLjPBmm+shkD/0lbxlHNXeco24HXw9Ggcu6iwCZX2Hqx0Io9fUUTVAHo
+	dTcEXYfnofH4Aq35HpFO8XN9gDEhSFsUkoZbPsAJKdBh130kfl410BWBnOU7pqGcYUPv9Z
+	Y3ZiYVInH5KBQXPqyiuLSe/E53djyfGAkmjvA10nVf4N6YDF0rw8X6yaDzAY62HO0zNHG6
+	Jdj2VqJL759GStEgdjN7wr6eNxJQQK3KKnLl73lxYKiHhbO/9pjE4+AgHHD9RRrXcGdmAX
+	1qyS3+9pI0f51snFdIOPvihpq7mExM/mh4jvpa9VzwEGWuNK22TTJ79wa/AZxPlg==
+Received: by recvd-97d7ddb5-f7pwd with SMTP id recvd-97d7ddb5-f7pwd-1-67EBDDE3-E
+	2025-04-01 12:36:51.169337456 +0000 UTC m=+11891670.345543800
+Received: from NTE0NjYxMjU (unknown)
+	by geopod-ismtpd-5 (SG) with HTTP
+	id qWQjrykxSQa-NsdUlJF5Tg
+	Tue, 01 Apr 2025 12:36:51.117 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Tue, 01 Apr 2025 12:36:51 +0000 (UTC)
+From: SNCF Avantage <avantage.pro@mster.akyop.fr>
+Mime-Version: 1.0
+Message-ID: <qWQjrykxSQa-NsdUlJF5Tg@geopod-ismtpd-5>
+Subject: Profitez de =?UTF-8?B?LTgw4oCvJQ==?= sur vos voyages avec nos cartes
+ Avantage
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EeWhjtky3y+Q0PluOpD4qD5=2FJisIMmsnoZ37LKdi0DJ4GIYvZL29jtFtkb?=
+ =?us-ascii?Q?mUpU1SyeuglD3kj9XcARF3EkLfUi7JhqPh59dAE?=
+ =?us-ascii?Q?j51=2FG9JoziDFdCwuBgLLceJtsJVPyTFUWMhklag?=
+ =?us-ascii?Q?TdXHHye=2FaobOZ9ZcnnBETn=2FBKH4qcFuq4eOgB4h?=
+ =?us-ascii?Q?5ga7+EiwL=2FjyJZKm4iqXRxGQnVGg=2F7FXqdhRTNy?=
+ =?us-ascii?Q?yEhlQaWdkV6P2s8ahFGPOj844jGFoCSWUXvoxlC?=
+ =?us-ascii?Q?Qw1NVTkkiV+JTYYh12W1QHNWOQ=3D=3D?=
+To: giselemichel.colin@orange.fr
+X-Entity-ID: u001.hiutMi/f2jJbFt1CLnbHrg==
+
+<html lang=3D""fr""><head>
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"">
+  <title>SNCF Connect =E2=80=93 Offres Printemps 2025</title>
+
+  <style type=3D""text/css"">
+    /* R=C3=A9initialisation de base et styles globaux */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0c131f;
+      font-family: Arial, sans-serif;
+      color: #0c131f;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .header {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 3px solid #14708a;
+    }
+    .header img {
+      max-width: 160px;
+      margin: 0 auto;
+    }
+   =20
+    /* Classes sp=C3=A9cifiques */
+    .container {
+      width: 650px;
+      margin: 0 auto;
+      background-color: #FFFFFF;
+      overflow: hidden;
+    }
+   =20
+    .offer-banner {
+      background-color: #14708a;
+      padding: 8px 15px;
+      text-align: center;
+      color: #FFFFFF;
+      font-weight: bold;
+      font-size: 14px;
+    }
+   =20
+    .intro-section {
+      background-color: #0c131f;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .intro-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #f3f3f8;
+      margin: 0 0 15px 0;
+    }
+    .intro-text {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #f3f3f8;
+      margin: 0;
+    }
+   =20
+    .card {
+      border: 1px solid #14708a;
+      border-left: 5px solid #14708a;
+      margin-bottom: 20px;
+    }
+    .card-content {
+      padding: 20px;
+    }
+    .card-title {
+      font-size: 18px;
+      color: #14708a;
+      margin: 0 0 10px 0;
+      font-weight: bold;
+    }
+    .card-list {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+      color: #0c131f;
+      font-size: 14px;
+    }
+    .card-list li {
+      margin-bottom: 8px;
+      position: relative;
+      padding-left: 24px;
+    }
+    .card-list li::before {
+      content: '=E2=9C=93';
+      position: absolute;
+      left: 0;
+      color: #14708a;
+    }
+    .card-price-box {
+      text-align: center;
+      background-color: #f3f3f8;
+      padding: 15px;
+      margin: 15px 0;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #999999;
+      margin-right: 10px;
+      font-size: 14px;
+    }
+    .new-price {
+      font-size: 22px;
+      color: #14708a;
+      font-weight: bold;
+    }
+    .savings {
+      display: block;
+      color: #14708a;
+      font-size: 13px;
+      margin-top: 5px;
+    }
+    .cta-button {
+      display: inline-block;
+      background: #14708a;
+      color: #FFFFFF;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      padding: 10px 25px;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+   =20
+    .footer {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+    }
+    .footer p {
+      font-size: 12px;
+      color: #f3f3f8;
+      margin: 5px 0;
+    }
+    .footer a {
+      color: #f3f3f8;
+      text-decoration: underline;
+    }
+
+    /* Responsive */
+    @media only screen and (max-width: 650px) {
+      .container {
+        width: 100% !important;
+      }
+      .intro-title {
+        font-size: 22px !important;
+      }
+      .intro-text {
+        font-size: 15px !important;
+      }
+      .card-title {
+        font-size: 16px !important;
+      }
+      .new-price {
+        font-size: 20px !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Structure principale -->
+<table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" bgco=
+lor=3D""#0c131f"">
+  <tbody><tr>
+    <td align=3D""center"" style=3D""padding: 20px;"">
+
+      <!-- Conteneur global -->
+      <table width=3D""650"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0""=
+ class=3D""container"">
+
+        <!-- Header with centered image -->
+        <tbody><tr>
+          <td class=3D""header"" align=3D""center"">
+            <img width=3D""160px"" src=3D""https://miro.medium.com/v2/resize:f=
+it:908/0*EbWvOik-_z5xoo7w.png"" alt=3D""SNCF Connect"" style=3D""margin: 0 auto=
+;"">
+          </td>
+        </tr>
+       =20
+        <!-- Offer Banner -->
+        <tr>
+          <td class=3D""offer-banner"">
+            Offre exclusive : 48h seulement !
+          </td>
+        </tr>
+       =20
+        <!-- New Image Row -->
+        <tr>
+          <td align=3D""center"">
+            <img src=3D""https://image.info.sncf.com/lib/fe9013737562037f73/=
+m/1/495045b5-61e3-4a19-95cb-9a747d8afe6f.png"" alt=3D""Offre"" style=3D""backgr=
+ound-color:#0c131f"">
+          </td>
+        </tr>
+
+        <!-- Section Intro -->
+        <tr>
+          <td class=3D""intro-section"" align=3D""center"">
+            <h2 class=3D""intro-title"">=C3=89CONOMISEZ JUSQU'=C3=80 80% SUR =
+VOS VOYAGES</h2>
+            <p class=3D""intro-text"">
+              Profitez du printemps pour explorer la France =C3=A0 des tari=
+fs exceptionnels.
+              Nos cartes avantages sont =C3=A0 prix r=C3=A9duit pour une du=
+r=C3=A9e limit=C3=A9e !
+            </p>
+
+<p style=3D""padding:15px 20px;text-align:center;color:#8de8fe;font-size:16p=
+x;"">Bon =C3=A0 savoir : vous pouvez faire d=C3=A9buter la validit=C3=A9 de =
+votre carte jusqu'=C3=A0 5 mois apr=C3=A8s la date d'achat.
+(Ex: vous achetez 1 carte le 01/04/2025, vous d=C3=A9butez sa validit=C3=A9=
+ le 01/06/2025, pour l'utiliser jusqu'au 31/05/2026).
+
+</p>
+          </td>
+        </tr>
+
+        <!-- Carte 1 : Jeune -->
+        <tr>
+          <td style=3D""padding: 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Jeune (12-27 ans)=
+</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPECxWnjVWCoEoJgKpJMIB=
+YmTElWcMnLPcSFYUmHuUj8zIHaDbxdu2j-2BedcQu4Euss-3DNPdZ_mX7stDELalGpySLa2-2Bs=
+p5QBJDLoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp19nfKDCsQb-2B=
+DwHh1sasKOYjhout3v3eVrodIN5wAZcyW5Z-2FWrnXBDwj3RXAkw2NkxGfupjFoezh5SXW2WBvh=
+NmDuwT9-2Fg2-2Btoan6x3YLEnAg0Nj3raF3j2FbuKQEg6YMwlaJ8IQZQ-3D-3D"" target=3D""=
+_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 2 : Adulte -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Adulte (27-59 ans=
+)</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>-60&nbsp;% sur les billets de 3 enfants accompagnan=
+ts</li>
+                    <li>Tarif Avantage disponible lorsque le week-end est i=
+nclus dans le voyage</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPECxWnjVWCoEoJgKpJMIB=
+YmTElWcMnLPcSFYUmHuUj8zIHaDbxdu2j-2BedcQu4Euss-3Da1jk_mX7stDELalGpySLa2-2Bs=
+p5QBJDLoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp19nfKDCsWK70Y=
+YvIKsU4aw-2F5mk-2FtSl1zCWzxdWYOGbUrmgmgLDtf1t4o16K1gPxqAtXIgbmIt0l-2B-2F1j-=
+2BkzsmgGeETMupHr8HDbFMm7163RgdIu7enGKcpKu-2FdNH6ZhJyzR8FpNHkw-3D-3D"" target=
+=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 3 : Senior -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Senior (60+ ans)<=
+/h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-15&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPECxWnjVWCoEoJgKpJMIB=
+YmTElWcMnLPcSFYUmHuUj8zIHaDbxdu2j-2BedcQu4Euss-3D7YrB_mX7stDELalGpySLa2-2Bs=
+p5QBJDLoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp19nfKDCsVXQqh=
+lQK5Y8tMr-2FE9BCu0U1-2BmrV5PdHwNbuatpnMg1TuUf4b9v3qOJIzS3qkz-2FNkVC9udPWg-2=
+FID9CfPILOHbfgatRsNlfNWUhlMb6c9FY55BOovzWguH3QMIluyvjbqQQ-3D-3D"" target=3D""=
+_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 4 : Libert=C3=A9 Premium -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Libert=C3=A9 Premium</h3>
+                  <ul class=3D""card-list"">
+                    <li>Jusqu'=C3=A0 80&nbsp;% de r=C3=A9duction toutes cla=
+sses</li>
+                    <li>Acc=C3=A8s illimit=C3=A9 aux salons Grand Voyageur<=
+/li>
+                    <li>Service VIP en gare et assistance prioritaire</li>
+                    <li>Points fid=C3=A9lit=C3=A9 doubl=C3=A9s sur tous vos=
+ voyages</li>
+                    <li>Une seule carte pour tous vos d=C3=A9placements : p=
+ros et perso</li>
+                    <li>=C3=89change et remboursement sans frais, jusqu'=C3=
+=A0 2h apr=C3=A8s d=C3=A9part du train</li>
+                    <li>Votre carte est rentabilis=C3=A9e =C3=A0 partir de =
+3 allers-retours !</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">399&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">59&nbsp;=E2=82=AC</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPECxWnjVWCoEoJgKpJMIB=
+YmTElWcMnLPcSFYUmHuUj8zIHaDbxdu2j-2BedcQu4Euss-3DZrdk_mX7stDELalGpySLa2-2Bs=
+p5QBJDLoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp19nfKDCsUS2XQ=
+swduTdgsEI6wIt7KDFJCuO6GI5AMJ5bhcjT90hbNpY-2BzZrP5Ins7-2FfvRsZ-2FA5HUeCCb52=
+QSi0k32IoqBq-2FaRFOlFgDYC-2BgCe0gICmltIG02ottSdq1VcrTtAY4yQ-3D-3D"" target=
+=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+     =20
+
+        <!-- Replacing ""Bon =C3=A0 savoir"" with another intro text (no back=
+ground) -->
+       =20
+       =20
+        <!-- Pied de page -->
+        <tr>
+          <td class=3D""footer"">
+            <p>=C2=A9 2025 SNCF Connect =E2=80=93 Tous droits r=C3=A9serv=
+=C3=A9s</p>
+            <p>9 rue Jean-Philippe Rameau =E2=80=93 93200 Saint-Denis</p>
+            <p>
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPECxWnjVWCoEoJgKpJMIBYmTElW=
+cMnLPcSFYUmHuUj8zIHaDbxdu2j-2BedcQu4Euss-3DBIJz_mX7stDELalGpySLa2-2Bsp5QBJD=
+LoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp19nfKDCsW42N9Ro0hVS=
+s0AAUGgWkHOXdQNjtP56GAwRtj9net0yBjmwFiiZHm660bRuaRKhW0jL8D4WfxRSijRRNwDB7J6=
+F9BkF1Hwqghb24ni-2B9ya09LGUiiQtFs8V5haGpPPyIg-3D-3D"" target=3D""_blank"">Ment=
+ions l=C3=A9gales</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPECxWnjVWCoEoJgKpJMIBYmTElW=
+cMnLPcSFYUmHuUj8zIHaDbxdu2j-2BedcQu4Euss-3D86CI_mX7stDELalGpySLa2-2Bsp5QBJD=
+LoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp19nfKDCsZP4572bfICf=
+xOghs9COpdWeiTERN4UOknOvWL6z2623CjwQf1Isi6L3OHu0nR85yrrtqDoqLVFpMYgtEqfHIE0=
+1ucUZW-2BwBsYofbKjgfshq0alzLxGfvz3Yu5GwMm-2BFag-3D-3D"" target=3D""_blank"">Pr=
+otection des donn=C3=A9es</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZPECxWnjVWCoEoJgKpJMIBYmTElW=
+cMnLPcSFYUmHuUj8zIHaDbxdu2j-2BedcQu4Euss-3DEr8M_mX7stDELalGpySLa2-2Bsp5QBJD=
+LoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp19nfKDCsbQ39erZpo5D=
+vi-2F7mG0DwegeJB0loY9029T7DgVcS3S8B71EVnnE-2FhHm3keCTHhgYzYwf-2FaMpDuN-2B6m=
+XhLTifQL-2FNNGcpA3jDp1zCz7Vve428TAK-2BGme3sBPzGh6IESOHw-3D-3D"" target=3D""_b=
+lank"">Se d=C3=A9sabonner</a>
+            </p>
+          </td>
+        </tr>
+
+      </tbody></table><!-- Fin container -->
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style=3D""padding: 10px; color: #666; font-size: 11px; text-align: c=
+enter;"">
+      <p>Pour : giselemichel.colin@orange.fr<br>
+      <a style=3D""color: #14708a;"" href=3D""https://u51466125.ct.sendgrid.ne=
+t/ls/click?upn=3Du001.I-2B6oxwatNWAvhTGb6qSKGvfxplcLTLU76JSsZf6UGC19u2xjFck=
+Wwh47rlgabsiR0h0HQGzbAQJkIgSTiSlm2Mv36Op9Lr0htY-2BBHOjvmu8-3Dazbq_mX7stDELa=
+lGpySLa2-2Bsp5QBJDLoRJUglZK-2FTzdtTz0nDodhGzhqEKx9Jo2ZC-2B3ZRkoOMLmEyFGTOp1=
+9nfKDCsadoN1f515yu5S3VRoHaL-2FLG1jMNpEhrW0-2B-2FlgZ99Skze5uMwW6xs89eGOEiepH=
+8MlCf64I0NU29RIaAt0IdiBGPZhMwR9-2F1Q70TK-2Fo7PbnKdxjm33oRuNrammQKcgwfNA-3D-=
+3D"" target=3D""_blank"">Se d=C3=A9sabonner</a><br>
+      <span class=3D""perstag_address"" style=3D""color:inherit;font-family:in=
+herit;font-size:11px""></span></p>
+    </td>
+  </tr>
+</tbody></table><!-- Fin structure principale -->
+
+
+
+<img src=3D""https://u51466125.ct.sendgrid.net/wf/open?upn=3Du001.wqHXoJxSOw=
+BKaSd9QkiFx1wlLqvML-2BO4V27G1HzyPV-2FyQ-2FUZ-2B3kMNfeqD6R585gyU9dRPkeSbzRzM=
+iq0wHEYpgaTSiWKhUekzFsdXcwQwAe-2F3DIkoD7ysvBG071v3e8Bv64Scmq0ZC07b5EdB1f2Qt=
+JLawDkJh2ZS-2BnbiNEdYRzqpu2vSZyf0pa4hkzRz4O-2BDelaJj0zpLHvPo5qJZoZC50S7LZGa=
+hkZe4DiBhR8KuU-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;""/></body></html>","""SNCF Avantage"" <avantage.pro@mster.akyop.fr>",giselemichel.colin@orange.fr,2025-04-01,64.226.104.217,United States,fr,users/51466125/156b020f-8b49-46d4-8e0a-bdae302bda2a.json
+51466125,rXiDTgfKTqa9dJEJDL2KzQ.recvd-69cbc48b94-6xr46-1-67E4E9DB-5E.0,cHJvY2Vzc2VkLTUxNDY2MTI1LXJYaURUZ2ZLVHFhOWRKRUpETDJLelEtMA,Update on Your Support Ticket,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sg1.acms-llc.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=E0PLqSewNZV0hE5awHIzX1YDcPw+39s6tKoIta/SU9s=;
+	b=CdoHQ3jK3RF6+8c7c/P+DQ8o4IM5OVM0lrSm0BWi4LqPayoXsKrwcJvPD4B7tSgxP0wA
+	8HJhW4wlRE/TvDXvcOspq10Jf1nZ9FCGACRpuRE9Dt4NPuAd4awZNjewTQmG3FhG8OXlXh
+	sz541igbk44P7x2+clpaU2q87C6XS7ukZteIDhEEj42m3Mv4DCOIWAdqEhIf6i0rOMZhHM
+	4CvYarW+jEd+E9doPFFzOL1118ZkVkqGvcp+hWnFZJw3APHguT0nwLRbo5BU0b+g69tr8n
+	gXAhurt71O9Ju+IABQrO3MWYJVp2ZVwp4ZFjbRAA1fTUMZfFCZgSlppT4rUyL9Vg==
+Received: by recvd-69cbc48b94-6xr46 with SMTP id recvd-69cbc48b94-6xr46-1-67E4E9DB-5E
+	2025-03-27 06:02:03.842372891 +0000 UTC m=+11435968.400824119
+Received: from NTE0NjYxMjU (unknown)
+	by geopod-ismtpd-10 (SG) with HTTP
+	id rXiDTgfKTqa9dJEJDL2KzQ
+	Thu, 27 Mar 2025 06:02:03.799 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Thu, 27 Mar 2025 06:02:03 +0000 (UTC)
+From: support@sg1.acms-llc.com
+Mime-Version: 1.0
+Message-ID: <rXiDTgfKTqa9dJEJDL2KzQ@geopod-ismtpd-10>
+Subject: Update on Your Support Ticket
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E0C7K3f28Upwcc83Ki=2FsssShKm2hjqQ8dW2rpToz8gu+TV5fdrr6PUpdb3?=
+ =?us-ascii?Q?ULHMrEg8b7x0z6voebhL7foZrWoZhfCaSckY49o?=
+ =?us-ascii?Q?bxRKpX=2F5JgZ6+rpFrTmEIPOV5SCaSGOSfzKo=2FBR?=
+ =?us-ascii?Q?x=2F0vkQig3WhYXo4k5CC03x33R4yaBq24ubBNW9j?=
+ =?us-ascii?Q?EZpiM4DxEc1fhw4KiI+11VVl6knlEb8Rc=2FOFi6w?=
+ =?us-ascii?Q?kWh34aTkSUryJyi08TnRxM=3D?=
+To: romain.manuella@magnect.com
+X-Entity-ID: u001.hiutMi/f2jJbFt1CLnbHrg==
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=3D""UTF-8"">
+    <title>Support Update</title>
+</head>
+<body style=3D""font-family: Arial, sans-serif; background-color: #f4f4f4; p=
+adding: 20px; text-align: center;"">
+    <div style=3D""max-width: 600px; margin: auto; background: white; paddin=
+g: 20px; border-radius: 10px;"">
+        <img src=3D""https://acms-llc.com/images/late.svg"" alt=3D""acms-llc.c=
+om Logo"" style=3D""max-width: 150px; margin-bottom: 20px;"">
+        <h2 style=3D""color: #333;"">Support Request Update</h2>
+        <p style=3D""color: #555;"">We have updated your support ticket. Plea=
+se check your email for details.</p>
+        <p style=3D""color: #777;"">If you need further assistance, visit <a =
+href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du001.I-2B6oxwatNWA=
+vhTGb6qSKGgOdc3liVZjGLqHdq8W9byR49PKk7EspB516gocVZYJOqrG-_AGm3bdXcjQOurBr0A=
+r-2BoOo-2FjpaQCTyd9YPmqYtsGGH3SPoOtKrdDja3c9SQfjMxVtuOmvXUaexEoYadlWnunWsnB=
+Vk5Dbl3hnd4CNKOnQkhLLB1iESLlk5SAYvfUMPyeKE75coHvN0UbsfEKf2kjDAkBYvQSetAJj9k=
+KuUHIHvbi7BXbZ26cEYNoQ0YimQ6uFVhEtRxUzYfZudqDYsaBlg-3D-3D"" style=3D""color: =
+#007BFF;"">our contact page</a>.</p>
+    </div>
+<img src=3D""https://u51466125.ct.sendgrid.net/wf/open?upn=3Du001.9WvOIrUaW9=
+-2F-2FGMDKrchRh1U-2FnlJ-2Bk4Xf7M906PtU3uC6WbRlqYTdquqSGaRnPGo8WBm5XFg0aVgjy=
+gAnJ1wSdlbavaA03wTsNFQhvtgRfqppSACsKr5uFI4oCqlRzFMyKAiupu3zfFIEV41x-2BTfwF-=
+2FRbuDSen7fW6IoHdgg1fcS1Eb8jldYhgUDy6shUMRwih8ZlOMCX7CYneUZGRvRgY8os-2Fcxll=
+9lh4sWodDnoWhg-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+",support@sg1.acms-llc.com,romain.manuella@magnect.com,2025-03-27,64.226.104.217,United States,en,users/51466125/148457ca-ab31-41df-9e54-a0e6958967f2.json
+51466125,sAHCKcflSQaSmqEbFQIi-w.recvd-8575c86f9d-h4s29-1-67F03BDA-9.0,cHJvY2Vzc2VkLTUxNDY2MTI1LXNBSENLY2ZsU1FhU21xRWJGUUlpLXctMA,Vacances de rêve : -80 % sur vos voyages avec Cartes Avantage,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=offre.speciale.ikuo.fr;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=FfW7j06SNwMxyGCGF/1GX+xJXq7BGbiMswkfKCpDsV8=;
+	b=bXTmHH9KFEguna3c2huI4y7TWpAj7nl2gIrcJxSKkCpqU2gXaG1bczMTL2A2fxlaC2Jm
+	gp+/W0vtJMI7rrg8we+C98U3rS7cwY2JfkS/fFunPndstPFrT+FLjBz8CFqk3xm0l9rDVJ
+	pyL0h7Cemtz2LumbhJsqcOltEsGB3Jm/1kSYuWoDqgqtF745/Z1T/9NzCcHleS4Cu/X/3R
+	QjPkbwMGoIjG5U9AxJrDFgXTqw2HSS0Z9d3dsCL5bbn40c7T919ph1mIYm6uim7iknkPwt
+	1lYb3OR8K8Rxtpgcn3gQioVugrIGTubw8TRSFhKPynTKOqhDYECFz3X/3CT33sTA==
+Received: by recvd-8575c86f9d-h4s29 with SMTP id recvd-8575c86f9d-h4s29-1-67F03BDA-9
+	2025-04-04 20:06:50.140445914 +0000 UTC m=+12177835.808964380
+Received: from NTE0NjYxMjU (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id sAHCKcflSQaSmqEbFQIi-w
+	Fri, 04 Apr 2025 20:06:50.098 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Fri, 04 Apr 2025 20:06:50 +0000 (UTC)
+From: SNCF Voyageur <offre.speciale@offre.speciale.ikuo.fr>
+Mime-Version: 1.0
+Message-ID: <sAHCKcflSQaSmqEbFQIi-w@geopod-ismtpd-8>
+Subject: Vacances de =?UTF-8?B?csOqdmUgOiAtODDigK8l?= sur vos voyages avec
+ Cartes Avantage
+X-MID: 65853-85181321-3215-0
+X-Mailer: MyMailer
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EeWhjtky3y+Q0PluOpD4qD9xsocdA4vnQlHkhIUELdaO4o=2FRdxoWS=2FMa30?=
+ =?us-ascii?Q?wpEO=2F4cXEsG8o3a98+EbLmAVJvWtsn8AAeayuwq?=
+ =?us-ascii?Q?nv2hNWx1=2FsKCfTpROfeoUdWebRv69=2FbuFLF=2FJ9Y?=
+ =?us-ascii?Q?Je1B4FV8kvhbGAKwon98rJjsXR2mjB77QA6H7vf?=
+ =?us-ascii?Q?ObsHOKNgXF=2FaiLfEIH00xQtkQ8eBONWGt=2FfluAn?=
+ =?us-ascii?Q?Ernq0b0o7=2FD2aQ7zM+xsOqQEQUgPibU54zP04sr?=
+ =?us-ascii?Q?AUeRMUSC94fjTpwANq21QM=2F8xQ=3D=3D?=
+To: taillage.moderne@orange.fr
+X-Entity-ID: u001.hiutMi/f2jJbFt1CLnbHrg==
+
+<html lang=3D""fr""><head>
+  <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8"">
+  <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=3D=
+1.0"">
+  <title>SNCF Connect =E2=80=93 Offres Printemps 2025</title>
+
+  <style type=3D""text/css"">
+    /* R=C3=A9initialisation de base et styles globaux */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #0c131f;
+      font-family: Arial, sans-serif;
+      color: #0c131f;
+    }
+    table {
+      border-collapse: collapse;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+
+    .header {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+      border-bottom: 3px solid #14708a;
+    }
+    .header img {
+      max-width: 160px;
+      margin: 0 auto;
+    }
+   =20
+    /* Classes sp=C3=A9cifiques */
+    .container {
+      width: 650px;
+      margin: 0 auto;
+      background-color: #FFFFFF;
+      overflow: hidden;
+    }
+   =20
+    .offer-banner {
+      background-color: #14708a;
+      padding: 8px 15px;
+      text-align: center;
+      color: #FFFFFF;
+      font-weight: bold;
+      font-size: 14px;
+    }
+   =20
+    .intro-section {
+      background-color: #0c131f;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .intro-title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #f3f3f8;
+      margin: 0 0 15px 0;
+    }
+    .intro-text {
+      font-size: 16px;
+      line-height: 1.5;
+      color: #f3f3f8;
+      margin: 0;
+    }
+   =20
+    .card {
+      border: 1px solid #14708a;
+      border-left: 5px solid #14708a;
+      margin-bottom: 20px;
+    }
+    .card-content {
+      padding: 20px;
+    }
+    .card-title {
+      font-size: 18px;
+      color: #14708a;
+      margin: 0 0 10px 0;
+      font-weight: bold;
+    }
+    .card-list {
+      list-style: none;
+      padding: 0;
+      margin: 10px 0;
+      color: #0c131f;
+      font-size: 14px;
+    }
+    .card-list li {
+      margin-bottom: 8px;
+      position: relative;
+      padding-left: 24px;
+    }
+    .card-list li::before {
+      content: '=E2=9C=93';
+      position: absolute;
+      left: 0;
+      color: #14708a;
+    }
+    .card-price-box {
+      text-align: center;
+      background-color: #f3f3f8;
+      padding: 15px;
+      margin: 15px 0;
+    }
+    .old-price {
+      text-decoration: line-through;
+      color: #999999;
+      margin-right: 10px;
+      font-size: 14px;
+    }
+    .new-price {
+      font-size: 22px;
+      color: #14708a;
+      font-weight: bold;
+    }
+    .savings {
+      display: block;
+      color: #14708a;
+      font-size: 13px;
+      margin-top: 5px;
+    }
+    .cta-button {
+      display: inline-block;
+      background: #14708a;
+      color: #FFFFFF;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: bold;
+      padding: 10px 25px;
+      border-radius: 4px;
+      text-transform: uppercase;
+    }
+   =20
+    .footer {
+      background-color: #0c131f;
+      padding: 20px;
+      text-align: center;
+    }
+    .footer p {
+      font-size: 12px;
+      color: #f3f3f8;
+      margin: 5px 0;
+    }
+    .footer a {
+      color: #f3f3f8;
+      text-decoration: underline;
+    }
+
+    /* Responsive */
+    @media only screen and (max-width: 650px) {
+      .container {
+        width: 100% !important;
+      }
+      .intro-title {
+        font-size: 22px !important;
+      }
+      .intro-text {
+        font-size: 15px !important;
+      }
+      .card-title {
+        font-size: 16px !important;
+      }
+      .new-price {
+        font-size: 20px !important;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Structure principale -->
+<table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"" bgco=
+lor=3D""#0c131f"">
+  <tbody><tr>
+    <td align=3D""center"" style=3D""padding: 20px;"">
+
+      <!-- Conteneur global -->
+      <table width=3D""650"" border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0""=
+ class=3D""container"">
+
+        <!-- Header with centered image -->
+        <tbody><tr>
+          <td class=3D""header"" align=3D""center"">
+            <img width=3D""160px"" src=3D""https://miro.medium.com/v2/resize:f=
+it:908/0*EbWvOik-_z5xoo7w.png"" alt=3D""SNCF Connect"" style=3D""margin: 0 auto=
+;"">
+          </td>
+        </tr>
+       =20
+        <!-- Offer Banner -->
+        <tr>
+          <td class=3D""offer-banner"">
+            Offre exclusive : 48h seulement !
+          </td>
+        </tr>
+       =20
+        <!-- New Image Row -->
+        <tr>
+          <td align=3D""center"">
+            <img src=3D""https://image.info.sncf.com/lib/fe9013737562037f73/=
+m/1/495045b5-61e3-4a19-95cb-9a747d8afe6f.png"" alt=3D""Offre"" style=3D""backgr=
+ound-color:#0c131f"">
+          </td>
+        </tr>
+
+        <!-- Section Intro -->
+        <tr>
+          <td class=3D""intro-section"" align=3D""center"">
+            <h2 class=3D""intro-title"">=C3=89CONOMISEZ JUSQU'=C3=80 80% SUR =
+VOS VOYAGES</h2>
+            <p class=3D""intro-text"">
+              <strong>Le printemps ouvre la voie =C3=A0 de nouveaux horizon=
+s =F0=9F=8C=BF</strong><br>
+              Voyagez plus, d=C3=A9pensez moins : nos cartes avantages sont=
+ =C3=A0 prix mini pour une dur=C3=A9e limit=C3=A9e. L'aventure vous attend,=
+ o=C3=B9 que le vent vous m=C3=A8ne !
+            </p>
+
+<p style=3D""padding:15px 20px;text-align:center;color:#8de8fe;font-size:16p=
+x;""><strong>Bon =C3=A0 savoir :</strong> vous pouvez faire d=C3=A9buter la =
+validit=C3=A9 de votre carte jusqu'=C3=A0 5 mois apr=C3=A8s la date d'achat=
+.
+  (Ex: vous achetez 1 carte le 01/04/2025, vous d=C3=A9butez sa validit=C3=
+=A9 le 01/06/2025, pour l'utiliser jusqu'au 31/05/2026).
+
+</p>
+          </td>
+        </tr>
+
+        <!-- Carte 1 : Jeune -->
+        <tr>
+          <td style=3D""padding: 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Jeune (12-27 ans)=
+</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZNSB9ZEmGTgeTfo-2BYVqg=
+lpovRNlDuA2pobF1GYOq45EICDSVeNi-2F9ZXWI-2FBC4siOc0-3DriAv_Wt1cCvbSfMsuFShby=
+0K6HnnIioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLVOuQ=
+68CJ9vHXthSYfGe6PsJTjX-2FJVUgqcRLYDe96fXTAIntEjuus9nAyx3L8Ri-2FBWvVARg24Nll=
+L5HKQFSJJ7-2BpSSwbWAZePFIWAX5SuPDlj-2BrSxS-2FQ5OkUDnRYrQoaKq5IA-3D-3D"" targ=
+et=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 2 : Adulte -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Adulte (27-59 ans=
+)</h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>-60&nbsp;% sur les billets de 3 enfants accompagnan=
+ts</li>
+                    <li>Tarif Avantage disponible lorsque le week-end est i=
+nclus dans le voyage</li>
+                    <li>-45&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZNSB9ZEmGTgeTfo-2BYVqg=
+lpovRNlDuA2pobF1GYOq45EICDSVeNi-2F9ZXWI-2FBC4siOc0-3D6Iuh_Wt1cCvbSfMsuFShby=
+0K6HnnIioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLVOub=
+aSMmhdX4j0m1YpSN5s2-2FCwg70w820c2-2FIHqCtFXG46d9FuBunCC-2FNFzA3MNcviV8fz8Jj=
+GBzXSOHAeJ-2FVpgBNyrMGFK13p6YyKcRK7Adgn5QvZWrSrzDupWmL6Hc1JqQ-3D-3D"" target=
+=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 3 : Senior -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Avantage Senior (60+ ans)<=
+/h3>
+                  <ul class=3D""card-list"">
+                    <li>-80&nbsp;% sur tous les voyages en 2nde et 1=C3=A8r=
+e</li>
+                    <li>Annulation gratuite jusqu'=C3=A0 J-7</li>
+                    <li>Voyagez dans de multi-destinations en France &amp; =
+en Europe (Belgique, Luxembourg, Allemagne, Suisse, Italie, Espagne)</li>
+                    <li>Tarif Avantage disponible tous les jours</li>
+                    <li>-15&nbsp;% sur les services (Mes Bagages, Ma Locati=
+on Avis, Junior &amp; Cie, Le Bar)</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">49&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">29,5=E2=82=AC/an</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZNSB9ZEmGTgeTfo-2BYVqg=
+lpovRNlDuA2pobF1GYOq45EICDSVeNi-2F9ZXWI-2FBC4siOc0-3DJ13L_Wt1cCvbSfMsuFShby=
+0K6HnnIioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLVOua=
+xmcrd3k3gZW-2B1XzO-2BcY0Uzz3iPbALV-2B9FqtVKhmnc8SgHe3UrCCJuVUAzQbv7MXHWJCNw=
+QbS2bxzgj1VQxZLT4TmBTcrI-2FJBrUe39iJc3q6vKLGXycfkK0-2B23jBdgJXw-3D-3D"" targ=
+et=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+
+        <!-- Carte 4 : Libert=C3=A9 Premium -->
+        <tr>
+          <td style=3D""padding: 0 20px 20px;"">
+            <table width=3D""100%"" border=3D""0"" cellspacing=3D""0"" cellpaddin=
+g=3D""0"" class=3D""card"">
+              <tbody><tr>
+                <td class=3D""card-content"">
+                  <h3 class=3D""card-title"">Carte Libert=C3=A9 Premium</h3>
+                  <ul class=3D""card-list"">
+                    <li>Jusqu'=C3=A0 80&nbsp;% de r=C3=A9duction toutes cla=
+sses</li>
+                    <li>Acc=C3=A8s illimit=C3=A9 aux salons Grand Voyageur<=
+/li>
+                    <li>Service VIP en gare et assistance prioritaire</li>
+                    <li>Points fid=C3=A9lit=C3=A9 doubl=C3=A9s sur tous vos=
+ voyages</li>
+                    <li>Une seule carte pour tous vos d=C3=A9placements : p=
+ros et perso</li>
+                    <li>=C3=89change et remboursement sans frais, jusqu'=C3=
+=A0 2h apr=C3=A8s d=C3=A9part du train</li>
+                    <li>Votre carte est rentabilis=C3=A9e =C3=A0 partir de =
+3 allers-retours !</li>
+                  </ul>
+                  <div class=3D""card-price-box"">
+                    <span class=3D""old-price"">399&nbsp;=E2=82=AC</span>
+                    <span class=3D""new-price"">59&nbsp;=E2=82=AC</span>
+                  </div>
+                  <div style=3D""text-align:center;"">
+                    <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?u=
+pn=3Du001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZNSB9ZEmGTgeTfo-2BYVqg=
+lpovRNlDuA2pobF1GYOq45EICDSVeNi-2F9ZXWI-2FBC4siOc0-3Dzy_u_Wt1cCvbSfMsuFShby=
+0K6HnnIioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLVOub=
+hMZsbhrHY7zuR0snOlYqUqh80-2B6I7GGKIoblV-2FfMu-2F-2BIWQuPi78dPAVcxwOaiYMqFkV=
+Q89HYcxhOx0AD-2BEkbqI2NILpVXrrtHn9-2BtJTy-2FJ0wlKsYv1Rfyhww8uodRf7g-3D-3D"" =
+target=3D""_blank"" class=3D""cta-button"">J'en profite</a>
+                  </div>
+                </td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+     =20
+
+        <!-- Replacing ""Bon =C3=A0 savoir"" with another intro text (no back=
+ground) -->
+       =20
+       =20
+        <!-- Pied de page -->
+        <tr>
+          <td class=3D""footer"">
+            <p>=C2=A9 2025 SNCF Connect =E2=80=93 Tous droits r=C3=A9serv=
+=C3=A9s</p>
+            <p>9 rue Jean-Philippe Rameau =E2=80=93 93200 Saint-Denis</p>
+            <p>
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZNSB9ZEmGTgeTfo-2BYVqglpovRN=
+lDuA2pobF1GYOq45EICDSVeNi-2F9ZXWI-2FBC4siOc0-3DTYvm_Wt1cCvbSfMsuFShby0K6Hnn=
+IioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLVOuQOY6m9p=
+DV2x-2BE9n2sQbTVLTuS2M6XMKAi3gwup9-2BqYwepCkG8uj2w1RcH8T2V2r1KJVZ0eW86xcUzF=
+IDS4V29EUPrr29qchd0e2j3k8ggFRnfBv3hgS4kFxu3ZSConvXg-3D-3D"" target=3D""_blank=
+"">Mentions l=C3=A9gales</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZNSB9ZEmGTgeTfo-2BYVqglpovRN=
+lDuA2pobF1GYOq45EICDSVeNi-2F9ZXWI-2FBC4siOc0-3DMcWF_Wt1cCvbSfMsuFShby0K6Hnn=
+IioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLVOuT-2Bujl=
+bn99aE62Yc25-2BCPolHiJfPFPFn-2FJ2it-2FandCk4z9fQXnlowxOwW1JJyYaQ5KCV1o2qSCI=
+fKV96U4Ovz0vVJx4Gl9UpYix-2FFKdRxqTq0bM9w4TYQNa0NJNpxWN7vw-3D-3D"" target=3D""=
+_blank"">Protection des donn=C3=A9es</a> =E2=80=A2=20
+              <a href=3D""https://u51466125.ct.sendgrid.net/ls/click?upn=3Du=
+001.I-2B6oxwatNWAvhTGb6qSKGisgPNJGDNkf7lXjpMcp6ZNSB9ZEmGTgeTfo-2BYVqglpovRN=
+lDuA2pobF1GYOq45EICDSVeNi-2F9ZXWI-2FBC4siOc0-3DH6CB_Wt1cCvbSfMsuFShby0K6Hnn=
+IioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLVOueI-2Bvx=
+8uRT4itfniK-2F4RVod6m1Zn-2FZMqt9ld0fU9yzqWgTFrCdLJ9MBu0TiuLbNBOnrCrZHr-2FfS=
+rc0Tk8vCDBi-2FfoSbgTORKgUdkvqGupWuqz-2BCjXtEHA-2Fo-2Ff3Ibl1EC3w-3D-3D"" targ=
+et=3D""_blank"">Se d=C3=A9sabonner</a>
+            </p>
+          </td>
+        </tr>
+
+      </tbody></table><!-- Fin container -->
+
+    </td>
+  </tr>
+
+  <tr>
+    <td style=3D""padding: 10px; color: #666; font-size: 11px; text-align: c=
+enter;"">
+      <p>Pour : taillage.moderne@orange.fr<br>
+      <a style=3D""color: #14708a;"" href=3D""https://u51466125.ct.sendgrid.ne=
+t/ls/click?upn=3Du001.I-2B6oxwatNWAvhTGb6qSKGnBE2ZjO-2FAjZ5LxlplEh2pH7QK-2F=
+yYja7HX3Lvytg5Xf2fOVvdXRJTZdE5LirEXooM1B2EaUl2XZVfSdcYpDf2ly6I-2FYizOp-2FPU=
+32t0rQQCdhwFikKeTOCnIpYZwlYICklBGTNLRKPDyHfievtKYbVUI-3DyiBV_Wt1cCvbSfMsuFS=
+hby0K6HnnIioOzEEPyiKJSe2mWpqMeK4KjVb-2Fk3tPeCg92u-2BJqlfohHB99x2bcGi13-2BLV=
+OuQRFM-2B9Y-2F14sLwDUbpEWRGiv-2F16bWJ27kaEZ9FZTqBFZ0fMFal4wrQgXApneOakEAvTL=
+6F4Fd87Bgr8puO9kSj88j702rferYmS1t21LQgNoY8cjLMKtYdqgZ0yw4wfb-2Fg-3D-3D"" tar=
+get=3D""_blank"">Se d=C3=A9sabonner</a><br>
+      <span class=3D""perstag_address"" style=3D""color:inherit;font-family:in=
+herit;font-size:11px""></span></p>
+    </td>
+  </tr>
+</tbody></table><!-- Fin structure principale -->
+
+<img src=3D""https://u51466125.ct.sendgrid.net/wf/open?upn=3Du001.ZSCqGA2UYh=
+OxS4p3DZQzh-2BeqVFfRWznZT5sV6tLw7d7LhNUNSk2qPoMoJsxGAPR6fpGbWgvyR3b1vP3xvd9=
+QBCNbSY4H9sSznCd07uj9S6RJ4rPvXsxDkDx0RvdRcCwaD6z4rwirye-2BnWvPZKaBeQNAPFHC-=
+2B0zSypDfh5O1x2d6SduiHMyp5PmXG-2BgLTg-2FhBkw4k2sMCj6RhhZL9yBSTZk58JIOrp0vSr=
+IGkMyd9Za0-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""heig=
+ht:1px !important;width:1px !important;border-width:0 !important;margin-top=
+:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-l=
+eft:0 !important;padding-top:0 !important;padding-bottom:0 !important;paddi=
+ng-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""SNCF Voyageur"" <offre.speciale@offre.speciale.ikuo.fr>",taillage.moderne@orange.fr,2025-04-04,64.226.104.217,United States,fr,users/51466125/88e62b92-fb0e-4ecd-ac35-3659eb738d77.json

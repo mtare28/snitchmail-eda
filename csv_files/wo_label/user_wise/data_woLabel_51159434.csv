@@ -1,0 +1,1078 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51159434,hmhNuWMnQam-_6OKYaUUww.recvd-69cbc48b94-q9zxj-1-67CEBC00-9.0,cHJvY2Vzc2VkLTUxMTU5NDM0LWhtaE51V01uUWFtLV82T0tZYVVVd3ctMA,nhy,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=frz.vitorconor.in.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=egIQJ20SLJsoAcKoEWG/sSW1UqdL5Yotv0JzEATpQOA=;
+	b=NZ2phQ4LvYJy9dk+VY77mba9ry6MQbpnAC5xZ1NIkDLj+2pfY84yDEWP0qEnvXXOi84m
+	OC4/jV+jVjHh1QYMF0CyTAXtNSFMTmXQFAD2CwzTpgX/m/Lo3ks9XOvDIHC1U7ZpHxAZTO
+	mphhjiGHeky3Hmeuoeh5AF3pG7Xd9j7DVu4DhPcZXBwooVP3Z1POnFdz2eoh/jU+Joy2aU
+	800uOG1LhH27zULpXfiEqlURk8XGtkgGtj+JD2DUzXoHzWMPAqgZLII4NvDDa0ZU0F/UnE
+	zmjlwT7ahPZU4FTpia1o/FoBiL+L/di93erK9g4DeScP1eWzpg69aQweMhim58Bw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=egIQJ20SLJsoAcKoEWG/sSW1UqdL5Yotv0JzEATpQOA=;
+	b=i4xPw3/1hF2k/jq16MyXpKfxHJNbWv0z7nVtVzJU+6h/sEAdH7zkjDVzIHRCcJduq9E7
+	uS4bn3/Try6MBFjtZ15+zTK0NfhEs8aTnDEWWnGhlO4F44WZm7NMjM/RvK4suOSxWTYmLG
+	jbt8/H0FbKy5sO9XzqLrYTio1RypdD+PM=
+Received: by recvd-69cbc48b94-q9zxj with SMTP id recvd-69cbc48b94-q9zxj-1-67CEBC00-9
+	2025-03-10 10:16:32.40699684 +0000 UTC m=+9982436.616227649
+Received: from NTExNTk0MzQ (unknown)
+	by geopod-ismtpd-21 (SG) with HTTP
+	id hmhNuWMnQam-_6OKYaUUww
+	Mon, 10 Mar 2025 10:16:32.340 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Mon, 10 Mar 2025 10:16:32 +0000 (UTC)
+From: gt <mwwotd@frz.vitorconor.in.net>
+Mime-Version: 1.0
+Message-ID: <hmhNuWMnQam-_6OKYaUUww@geopod-ismtpd-21>
+Subject: nhy
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EvQHybSFAZuALSp0JFE5rPtP3it5+v960GKssLK3Pju9RkybQyM44Hs2We?=
+ =?us-ascii?Q?WyEi2uDNjdZ1E8Mv72GxQHK6P9FfW+DBHptF5W6?=
+ =?us-ascii?Q?L4dOecbAmvcPzEZxHn+zH+o3jMP=2FPaok66RdYHY?=
+ =?us-ascii?Q?BaywDj984neUUbANgJi0zOW5f4gZvKm5UT2nkqF?=
+ =?us-ascii?Q?h33ObCdrbV7n=2FgxgLUNnd9zUsQqsQrnQJBz9BZA?=
+ =?us-ascii?Q?aa6IgeHSAbXTY1sx53=2FTB=2FZg7Y4q0rig4Xr9jHz?=
+ =?us-ascii?Q?hpT4?=
+To: christopherkkey456@yahoo.com
+X-Entity-ID: u001.em/8lqG+Hl+hXnETRrO2Pw==
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""=20
+""https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=3D""https://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width,=20
+initial-scale=3D1.0"">
+<title>Saks Fifth Avenue</title>
+
+<style type=3D""text/css"">
+  body, div, p, a, li, td {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    vertical-align: middle;
+  }
+  img {
+    display: block;
+  }
+  .vTop {
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .PRmob1 {
+    height: 17px;
+  }
+  .appleLinks a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .appleLinks a:visited {
+    color: #000000;
+    text-decoration: none;
+  }
+  .mainContent {
+    width: 600px;
+    max-width: 600px;
+  }
+  .navText {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #535353;
+    background-color: #FFFFFF;
+    line-height: 20px;
+  }
+=09
+	.slice-full {
+		width: 100%;
+	}
+=09
+	.slice-multi {
+		width: 100%
+	}
+=09
+
+  @media only screen and (max-width: 480px) {
+    *[class].mainContent {
+      width: 100% !important;
+      min-width: 330px !important;
+    }
+    *[class].img1 {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].img1a {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].img2 {
+      width: 90% !important;
+      height: auto !important;
+    }
+    *[class].img3 {
+      width: 207px !important;
+      height: auto !important;
+    }
+    *[class].PRmob1 {
+      height: 10px !important;
+    }
+    *[class].PRtext {
+      font-size: 12px !important;
+    }
+	 =20
+	 *[class].slice-full {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].slice-multi {
+      width: 100% !important;
+      height: auto !important;
+    }
+	 =20
+*[class].PRtextNew {
+       height:10px !important;
+    }
+*[class].styleAdvisor{ line-height:normal !important; font-size:16px
+!important;
+    }
+*[class].styleAdvisor1{ line-height:normal !important; font-size:13px
+!important;
+    }
+*[class].styleAdvisor2{ font-size:8px !important; line-height:24px
+!important;padding-right:0 !important;margin-right:0 !important;
+    }
+*[class].styleAdvisor3{ font-size:11px !important; line-height:14px
+!important;
+    }
+    *[class].navText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+    }
+    *[class].promoText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+      margin-top: 8px !important;
+      margin-bottom: 8px !important;
+    }
+    *[class].navRow {
+      height: 28px !important;
+    }
+    *[class].disclaimer {
+      padding: 10px !important;
+    }
+    *[class].disclaimer1 {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+    *[class].fbIcon {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].mobileIcons {
+      width: 2% !important;
+    }
+    *[class].bannerMob1 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].bannerMob2 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].vlineMob {
+      height: 50%px !important;
+    }
+    *[class].bannerMob3 {
+      height: 10px !important;
+    }
+    *[class].vTop {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+</style>
+ =20
+   <script type=3D""application/ld+json"">
+[{
+  ""@context"": ""http://schema.org/"",
+  ""@type"": ""Organization"",
+
+  // If showing a logo, we recommend using an https URL.
+  // It's not a requirement today, but may be in the future.
+  ""logo"": ""https://f.chtah.com/s/39/488721095/SAKS_STACKED_BW.jpg""
+}]
+    </script>
+ =20
+</head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""=20
+""https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=3D""https://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width,=20
+initial-scale=3D1.0"">
+<title>Saks Fifth Avenue</title>
+
+<style type=3D""text/css"">
+  body, div, p, a, li, td {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    vertical-align: middle;
+  }
+  img {
+    display: block;
+  }
+  .vTop {
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .PRmob1 {
+    height: 17px;
+  }
+  .appleLinks a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .appleLinks a:visited {
+    color: #000000;
+    text-decoration: none;
+  }
+  .mainContent {
+    width: 600px;
+    max-width: 600px;
+  }
+  .navText {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #535353;
+    background-color: #FFFFFF;
+    line-height: 20px;
+  }
+=09
+	.slice-full {
+		width: 100%;
+	}
+=09
+	.slice-multi {
+		width: 100%
+	}
+=09
+
+  @media only screen and (max-width: 480px) {
+    *[class].mainContent {
+      width: 100% !important;
+      min-width: 330px !important;
+    }
+    *[class].img1 {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].img1a {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].img2 {
+      width: 90% !important;
+      height: auto !important;
+    }
+    *[class].img3 {
+      width: 207px !important;
+      height: auto !important;
+    }
+    *[class].PRmob1 {
+      height: 10px !important;
+    }
+    *[class].PRtext {
+      font-size: 12px !important;
+    }
+	 =20
+	 *[class].slice-full {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].slice-multi {
+      width: 100% !important;
+      height: auto !important;
+    }
+	 =20
+*[class].PRtextNew {
+       height:10px !important;
+    }
+*[class].styleAdvisor{ line-height:normal !important; font-size:16px
+!important;
+    }
+*[class].styleAdvisor1{ line-height:normal !important; font-size:13px
+!important;
+    }
+*[class].styleAdvisor2{ font-size:8px !important; line-height:24px
+!important;padding-right:0 !important;margin-right:0 !important;
+    }
+*[class].styleAdvisor3{ font-size:11px !important; line-height:14px
+!important;
+    }
+    *[class].navText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+    }
+    *[class].promoText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+      margin-top: 8px !important;
+      margin-bottom: 8px !important;
+    }
+    *[class].navRow {
+      height: 28px !important;
+    }
+    *[class].disclaimer {
+      padding: 10px !important;
+    }
+    *[class].disclaimer1 {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+    *[class].fbIcon {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].mobileIcons {
+      width: 2% !important;
+    }
+    *[class].bannerMob1 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].bannerMob2 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].vlineMob {
+      height: 50%px !important;
+    }
+    *[class].bannerMob3 {
+      height: 10px !important;
+    }
+    *[class].vTop {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+</style>
+ =20
+   <script type=3D""application/ld+json"">
+[{
+  ""@context"": ""http://schema.org/"",
+  ""@type"": ""Organization"",
+
+  // If showing a logo, we recommend using an https URL.
+  // It's not a requirement today, but may be in the future.
+  ""logo"": ""https://f.chtah.com/s/39/488721095/SAKS_STACKED_BW.jpg""
+}]
+    </script>
+ =20
+</head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""=20
+""https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=3D""https://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width,=20
+initial-scale=3D1.0"">
+<title>Saks Fifth Avenue</title>
+
+<style type=3D""text/css"">
+  body, div, p, a, li, td {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    vertical-align: middle;
+  }
+  img {
+    display: block;
+  }
+  .vTop {
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .PRmob1 {
+    height: 17px;
+  }
+  .appleLinks a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .appleLinks a:visited {
+    color: #000000;
+    text-decoration: none;
+  }
+  .mainContent {
+    width: 600px;
+    max-width: 600px;
+  }
+  .navText {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #535353;
+    background-color: #FFFFFF;
+    line-height: 20px;
+  }
+=09
+	.slice-full {
+		width: 100%;
+	}
+=09
+	.slice-multi {
+		width: 100%
+	}
+=09
+
+  @media only screen and (max-width: 480px) {
+    *[class].mainContent {
+      width: 100% !important;
+      min-width: 330px !important;
+    }
+    *[class].img1 {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].img1a {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].img2 {
+      width: 90% !important;
+      height: auto !important;
+    }
+    *[class].img3 {
+      width: 207px !important;
+      height: auto !important;
+    }
+    *[class].PRmob1 {
+      height: 10px !important;
+    }
+    *[class].PRtext {
+      font-size: 12px !important;
+    }
+	 =20
+	 *[class].slice-full {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].slice-multi {
+      width: 100% !important;
+      height: auto !important;
+    }
+	 =20
+*[class].PRtextNew {
+       height:10px !important;
+    }
+*[class].styleAdvisor{ line-height:normal !important; font-size:16px
+!important;
+    }
+*[class].styleAdvisor1{ line-height:normal !important; font-size:13px
+!important;
+    }
+*[class].styleAdvisor2{ font-size:8px !important; line-height:24px
+!important;padding-right:0 !important;margin-right:0 !important;
+    }
+*[class].styleAdvisor3{ font-size:11px !important; line-height:14px
+!important;
+    }
+    *[class].navText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+    }
+    *[class].promoText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+      margin-top: 8px !important;
+      margin-bottom: 8px !important;
+    }
+    *[class].navRow {
+      height: 28px !important;
+    }
+    *[class].disclaimer {
+      padding: 10px !important;
+    }
+    *[class].disclaimer1 {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+    *[class].fbIcon {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].mobileIcons {
+      width: 2% !important;
+    }
+    *[class].bannerMob1 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].bannerMob2 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].vlineMob {
+      height: 50%px !important;
+    }
+    *[class].bannerMob3 {
+      height: 10px !important;
+    }
+    *[class].vTop {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+</style>
+ =20
+   <script type=3D""application/ld+json"">
+[{
+  ""@context"": ""http://schema.org/"",
+  ""@type"": ""Organization"",
+
+  // If showing a logo, we recommend using an https URL.
+  // It's not a requirement today, but may be in the future.
+  ""logo"": ""https://f.chtah.com/s/39/488721095/SAKS_STACKED_BW.jpg""
+}]
+    </script>
+ =20
+</head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""=20
+""https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=3D""https://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width,=20
+initial-scale=3D1.0"">
+<title>Saks Fifth Avenue</title>
+
+<style type=3D""text/css"">
+  body, div, p, a, li, td {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    vertical-align: middle;
+  }
+  img {
+    display: block;
+  }
+  .vTop {
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .PRmob1 {
+    height: 17px;
+  }
+  .appleLinks a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .appleLinks a:visited {
+    color: #000000;
+    text-decoration: none;
+  }
+  .mainContent {
+    width: 600px;
+    max-width: 600px;
+  }
+  .navText {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #535353;
+    background-color: #FFFFFF;
+    line-height: 20px;
+  }
+=09
+	.slice-full {
+		width: 100%;
+	}
+=09
+	.slice-multi {
+		width: 100%
+	}
+=09
+
+  @media only screen and (max-width: 480px) {
+    *[class].mainContent {
+      width: 100% !important;
+      min-width: 330px !important;
+    }
+    *[class].img1 {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].img1a {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].img2 {
+      width: 90% !important;
+      height: auto !important;
+    }
+    *[class].img3 {
+      width: 207px !important;
+      height: auto !important;
+    }
+    *[class].PRmob1 {
+      height: 10px !important;
+    }
+    *[class].PRtext {
+      font-size: 12px !important;
+    }
+	 =20
+	 *[class].slice-full {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].slice-multi {
+      width: 100% !important;
+      height: auto !important;
+    }
+	 =20
+*[class].PRtextNew {
+       height:10px !important;
+    }
+*[class].styleAdvisor{ line-height:normal !important; font-size:16px
+!important;
+    }
+*[class].styleAdvisor1{ line-height:normal !important; font-size:13px
+!important;
+    }
+*[class].styleAdvisor2{ font-size:8px !important; line-height:24px
+!important;padding-right:0 !important;margin-right:0 !important;
+    }
+*[class].styleAdvisor3{ font-size:11px !important; line-height:14px
+!important;
+    }
+    *[class].navText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+    }
+    *[class].promoText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+      margin-top: 8px !important;
+      margin-bottom: 8px !important;
+    }
+    *[class].navRow {
+      height: 28px !important;
+    }
+    *[class].disclaimer {
+      padding: 10px !important;
+    }
+    *[class].disclaimer1 {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+    *[class].fbIcon {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].mobileIcons {
+      width: 2% !important;
+    }
+    *[class].bannerMob1 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].bannerMob2 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].vlineMob {
+      height: 50%px !important;
+    }
+    *[class].bannerMob3 {
+      height: 10px !important;
+    }
+    *[class].vTop {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+</style>
+ =20
+   <script type=3D""application/ld+json"">
+[{
+  ""@context"": ""http://schema.org/"",
+  ""@type"": ""Organization"",
+
+  // If showing a logo, we recommend using an https URL.
+  // It's not a requirement today, but may be in the future.
+  ""logo"": ""https://f.chtah.com/s/39/488721095/SAKS_STACKED_BW.jpg""
+}]
+    </script>
+ =20
+</head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""=20
+""https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=3D""https://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width,=20
+initial-scale=3D1.0"">
+<title>Saks Fifth Avenue</title>
+
+<style type=3D""text/css"">
+  body, div, p, a, li, td {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    vertical-align: middle;
+  }
+  img {
+    display: block;
+  }
+  .vTop {
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .PRmob1 {
+    height: 17px;
+  }
+  .appleLinks a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .appleLinks a:visited {
+    color: #000000;
+    text-decoration: none;
+  }
+  .mainContent {
+    width: 600px;
+    max-width: 600px;
+  }
+  .navText {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #535353;
+    background-color: #FFFFFF;
+    line-height: 20px;
+  }
+=09
+	.slice-full {
+		width: 100%;
+	}
+=09
+	.slice-multi {
+		width: 100%
+	}
+=09
+
+  @media only screen and (max-width: 480px) {
+    *[class].mainContent {
+      width: 100% !important;
+      min-width: 330px !important;
+    }
+    *[class].img1 {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].img1a {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].img2 {
+      width: 90% !important;
+      height: auto !important;
+    }
+    *[class].img3 {
+      width: 207px !important;
+      height: auto !important;
+    }
+    *[class].PRmob1 {
+      height: 10px !important;
+    }
+    *[class].PRtext {
+      font-size: 12px !important;
+    }
+	 =20
+	 *[class].slice-full {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].slice-multi {
+      width: 100% !important;
+      height: auto !important;
+    }
+	 =20
+*[class].PRtextNew {
+       height:10px !important;
+    }
+*[class].styleAdvisor{ line-height:normal !important; font-size:16px
+!important;
+    }
+*[class].styleAdvisor1{ line-height:normal !important; font-size:13px
+!important;
+    }
+*[class].styleAdvisor2{ font-size:8px !important; line-height:24px
+!important;padding-right:0 !important;margin-right:0 !important;
+    }
+*[class].styleAdvisor3{ font-size:11px !important; line-height:14px
+!important;
+    }
+    *[class].navText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+    }
+    *[class].promoText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+      margin-top: 8px !important;
+      margin-bottom: 8px !important;
+    }
+    *[class].navRow {
+      height: 28px !important;
+    }
+    *[class].disclaimer {
+      padding: 10px !important;
+    }
+    *[class].disclaimer1 {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+    *[class].fbIcon {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].mobileIcons {
+      width: 2% !important;
+    }
+    *[class].bannerMob1 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].bannerMob2 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].vlineMob {
+      height: 50%px !important;
+    }
+    *[class].bannerMob3 {
+      height: 10px !important;
+    }
+    *[class].vTop {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+</style>
+ =20
+   <script type=3D""application/ld+json"">
+[{
+  ""@context"": ""http://schema.org/"",
+  ""@type"": ""Organization"",
+
+  // If showing a logo, we recommend using an https URL.
+  // It's not a requirement today, but may be in the future.
+  ""logo"": ""https://f.chtah.com/s/39/488721095/SAKS_STACKED_BW.jpg""
+}]
+    </script>
+ =20
+</head>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN""=20
+""https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html xmlns=3D""https://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3DUTF-8"">
+<meta name=3D""viewport"" content=3D""width=3Ddevice-width,=20
+initial-scale=3D1.0"">
+<title>Saks Fifth Avenue</title>
+
+<style type=3D""text/css"">
+  body, div, p, a, li, td {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    vertical-align: middle;
+  }
+  img {
+    display: block;
+  }
+  .vTop {
+    vertical-align: top;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .PRmob1 {
+    height: 17px;
+  }
+  .appleLinks a {
+    color: #000000;
+    text-decoration: none;
+  }
+  .appleLinks a:visited {
+    color: #000000;
+    text-decoration: none;
+  }
+  .mainContent {
+    width: 600px;
+    max-width: 600px;
+  }
+  .navText {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #535353;
+    background-color: #FFFFFF;
+    line-height: 20px;
+  }
+=09
+	.slice-full {
+		width: 100%;
+	}
+=09
+	.slice-multi {
+		width: 100%
+	}
+=09
+
+  @media only screen and (max-width: 480px) {
+    *[class].mainContent {
+      width: 100% !important;
+      min-width: 330px !important;
+    }
+    *[class].img1 {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].img1a {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].img2 {
+      width: 90% !important;
+      height: auto !important;
+    }
+    *[class].img3 {
+      width: 207px !important;
+      height: auto !important;
+    }
+    *[class].PRmob1 {
+      height: 10px !important;
+    }
+    *[class].PRtext {
+      font-size: 12px !important;
+    }
+	 =20
+	 *[class].slice-full {
+      width: 100% !important;
+      height: auto !important;
+      min-width: 330px !important;
+    }
+    *[class].slice-multi {
+      width: 100% !important;
+      height: auto !important;
+    }
+	 =20
+*[class].PRtextNew {
+       height:10px !important;
+    }
+*[class].styleAdvisor{ line-height:normal !important; font-size:16px
+!important;
+    }
+*[class].styleAdvisor1{ line-height:normal !important; font-size:13px
+!important;
+    }
+*[class].styleAdvisor2{ font-size:8px !important; line-height:24px
+!important;padding-right:0 !important;margin-right:0 !important;
+    }
+*[class].styleAdvisor3{ font-size:11px !important; line-height:14px
+!important;
+    }
+    *[class].navText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+    }
+    *[class].promoText {
+      font-size: 11px !important;
+      line-height: 12px !important;
+      margin-top: 8px !important;
+      margin-bottom: 8px !important;
+    }
+    *[class].navRow {
+      height: 28px !important;
+    }
+    *[class].disclaimer {
+      padding: 10px !important;
+    }
+    *[class].disclaimer1 {
+      padding-left: 10px !important;
+      padding-right: 10px !important;
+    }
+    *[class].fbIcon {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class].mobileIcons {
+      width: 2% !important;
+    }
+    *[class].bannerMob1 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].bannerMob2 {
+      font-size: 11px !important;
+      vertical-align: top !important;
+    }
+    *[class].vlineMob {
+      height: 50%px !important;
+    }
+    *[class].bannerMob3 {
+      height: 10px !important;
+    }
+    *[class].vTop {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+  }
+</style>
+ =20
+   <script type=3D""application/ld+json"">
+[{
+  ""@context"": ""http://schema.org/"",
+  ""@type"": ""Organization"",
+
+  // If showing a logo, we recommend using an https URL.
+  // It's not a requirement today, but may be in the future.
+  ""logo"": ""https://f.chtah.com/s/39/488721095/SAKS_STACKED_BW.jpg""
+}]
+    </script>
+ =20
+</head>
+
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://loanbc.site/f8d78b18450f77cea841/4b3bd869b137=
+27e86a"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.co=
+m/projects/266585/1740290761507-barsha11.png"" style=3D""width: 550px; height=
+: 803px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://loanbc.site/f8d78b18450f77cea841/4b3bd869b137=
+27e86aun"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.=
+com/projects/266585/1740290792022-unnamed (1).png"" style=3D""width: 550px; h=
+eight: 90px;"" /></a></p>
+    <img src=3D""http://url4061.frz.vitorconor.in.net/wf/open?upn=3Du001.WZg=
+tzqU-2FBqV-2FK3COaltys3b7x4vIECoFPzZsf1jSoTpBuIgRv3smizo-2B1-2Fpe3-2BP8l5-2=
+FoZ4Ytlj7S-2FKiLyt6zOdoScmhwRnBKdlI1m0pEgMnsLmq0-2FdpsVssbvDQhUn1JK95WNERE8=
+1G3z5mm-2FTLKoS-2B7oNUP0MzDlJ2DjKFbhO5ENDhb126IekW31xwvyx2fMTD-2BG8Caum-2B-=
+2FgteKITNhaKkPm9S7lUItuGWD447VnIY-3D"" alt=3D"""" width=3D""1"" height=3D""1"" bor=
+der=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:=
+0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-righ=
+t:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bo=
+ttom:0 !important;padding-right:0 !important;padding-left:0 !important;""/><=
+/body>
+</html>","""gt"" <mwwotd@frz.vitorconor.in.net>",christopherkkey456@yahoo.com,2025-03-10,155.138.194.169,United States,vi,users/51159434/8bfb9b4b-7f4c-4d3c-a4b2-fa1c8835e3c4.json

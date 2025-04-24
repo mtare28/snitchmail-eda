@@ -1,0 +1,620 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50924499,IiqCdfkQQgO4hFrok4VDUQ.recvd-69cbc48b94-ftnkf-1-67C0013B-17.0,cHJvY2Vzc2VkLTUwOTI0NDk5LUlpcUNkZmtRUWdPNGhGcm9rNFZEVVEtMA,"""Say goodbye to overspending at the pharmacy with these amazing coupons!""","DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sdcx.creativecrest.co.in;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=btm2WuBukyJiWBlZ+3ZfggmcvXeeyTPK/8rToVceAcU=;
+	b=11k7SmM3XdHXRVDeX2PbCqlQ4aQEOJEYLuIoplXTm4zXyC7mfu/3OWK5PtzCbTXlYdLx
+	tPu6pmcPvOAZzffeoqbMDe701TVkUTToZr8ZYeuaKDNhQV6jet8bidY0cYyoxihcHxHGXg
+	N1rIrcigogHKHqvuCX9DE8qwuBngQZ1b7Guk8dfE24ZH/ZBI/YQVsquSLSvljsHT1yFaBG
+	td9vSuwc59ExIkvwCYntDK1Uu++UVx90mZb8eUrhvAX7EdAGUj0aU/Xh6+uukvlteAU8wT
+	UbrK5328mcTQo3FvRSoUjF2P4QyCtNeSW9tKXnh3GC9AC0EMbgjvMuy73eICb3MA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=btm2WuBukyJiWBlZ+3ZfggmcvXeeyTPK/8rToVceAcU=;
+	b=NVJtP/bjkUkux7w2vI960T5eD/SoWJnkHEjaeKW5e2xDt2YHh7dkpLfL7C0dGz8Jgd4o
+	LGYzHEQ8JN/4TVsMkyVibfpGZgSqKODMCwq87dQfGmQBSyIlqC3C/+Zkp6+daYD6EugHeQ
+	qee6S0SF1+3gmqCMKlRgrbcs0GjXj0PVw=
+Received: by recvd-69cbc48b94-ftnkf with SMTP id recvd-69cbc48b94-ftnkf-1-67C0013B-17
+	2025-02-27 06:07:55.866344346 +0000 UTC m=+9017162.518562396
+Received: from NTA5MjQ0OTk (unknown)
+	by geopod-ismtpd-19 (SG) with HTTP
+	id IiqCdfkQQgO4hFrok4VDUQ
+	Thu, 27 Feb 2025 06:07:55.859 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Thu, 27 Feb 2025 06:07:55 +0000 (UTC)
+From: bank on prescription drugs <message@sdcx.creativecrest.co.in>
+Mime-Version: 1.0
+Message-ID: <IiqCdfkQQgO4hFrok4VDUQ@geopod-ismtpd-19>
+Subject: ""Say goodbye to overspending at the pharmacy with these amazing
+ coupons!""
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EKbwGlGjcOmWLxfjRjfnyHCUIrzY3LEGiIAhmHYnrbXcmb2CroNtv0r48G?=
+ =?us-ascii?Q?n3mGek1wDvmhc+UQ4LoIhhRgMZXfkEHjJY3886m?=
+ =?us-ascii?Q?hhQwEfl1W=2FcrIulDy6FDa+OLHuieLZxsfX2TffZ?=
+ =?us-ascii?Q?IE2IsSLyNbKF2WZo+7bSSqbPUdk+fbIXo4qkanr?=
+ =?us-ascii?Q?33n=2F5iSvyhgC3hsOgPLaLPFfSg9zTnHU=2FaMIow2?=
+ =?us-ascii?Q?hc0LU1jfAjb2At8CHu7H=2FkyvPjpRrO8buzIL2pI?=
+ =?us-ascii?Q?l4F3xhhZ7Svgp2Z=2Fv4o4ee7q=2FA=3D=3D?=
+To: dsnipe5@yahoo.com
+X-Entity-ID: u001.9Tl8B1ABwU7PWoirJ3AraA==
+
+<!DOCTYPE html><!--[if lt IE 7]><html class=3D""no-js lt-ie9 lt-ie8 lt-ie7"">=
+<![endif]--><!--[if IE 7]><html class=3D""no-js lt-ie9 lt-ie8""><![endif]--><=
+!--[if IE 8]><html class=3D""no-js lt-ie9""><![endif]--><!--[if gt IE 8]><htm=
+l class=3Dno-js> <!--<![endif]--><html lang=3Den xmlns=3D""http://www.w3.org=
+/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" style=3D""-webkit-tex=
+t-size-adjust: 100% !important;""><head> <meta charset=3Dutf-8> <meta http-e=
+quiv=3DContent-Type content=3D""text/html charset=3DUTF-8""> <meta http-equiv=
+=3DX-UA-Compatible content=3D""IE=3Dedge""> <title>DEAL OF THE DAY: 45% off t=
+he MKM Normar CPM 3V Olive Wood, Knivesandtools Exclusive, bushcraft knife<=
+/title> <meta name=3Ddescription content=3D""""> <meta name=3Dviewport conten=
+t=3D""width=3Ddevice-width, initial-scale=3D1""> <style>@font-face{font-famil=
+y:""Mulish"";font-style:normal;font-weight:400;font-display:swap;src:url(http=
+s://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) forma=
+t(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-=
+A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:normal;font-wei=
+ght:400;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Pt=
+vg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0400-045F,=
+U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-style:n=
+ormal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s=
+/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-rang=
+e:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U=
++1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-style:normal;font-we=
+ight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1P=
+tvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-024F=
+,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A72=
+0-A7FF}@font-face{font-family:""Mulish"";font-style:normal;font-weight:400;fo=
+nt-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGh=
+gqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+015=
+2-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+=
+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";fon=
+t-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gsta=
+tic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");uni=
+code-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE=
+2F}@font-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-d=
+isplay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2=
+wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+=
+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-style:normal;font-wei=
+ght:600;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Pt=
+vg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0103,=
+U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+2=
+0AB}@font-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-=
+display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk=
+0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00=
+-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-f=
+ace{font-family:""Mulish"";font-style:normal;font-weight:600;font-display:swa=
+p;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.=
+woff2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-=
+02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+=
+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-style:normal=
+;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/muli=
+sh/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0=
+460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{=
+font-family:""Mulish"";font-style:normal;font-weight:700;font-display:swap;sr=
+c:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.wo=
+ff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+21=
+16}@font-face{font-family:""Mulish"";font-style:normal;font-weight:700;font-d=
+isplay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0=
+AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+=
+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face=
+{font-family:""Mulish"";font-style:normal;font-weight:700;font-display:swap;s=
+rc:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.w=
+off2) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U=
++20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-famil=
+y:""Mulish"";font-style:normal;font-weight:700;font-display:swap;src:url(http=
+s://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(=
+""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+=
+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+=
+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-style:normal;font-weight:8=
+00;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83H=
+X_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C8=
+0-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""M=
+ulish"";font-style:normal;font-weight:800;font-display:swap;src:url(https://=
+fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""w=
+off2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{=
+font-family:""Mulish"";font-style:normal;font-weight:800;font-display:swap;sr=
+c:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.wo=
+ff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+01=
+68-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""=
+Mulish"";font-style:normal;font-weight:800;font-display:swap;src:url(https:/=
+/fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""=
+woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+2=
+0AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";fon=
+t-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gsta=
+tic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unico=
+de-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+=
+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@f=
+ont-face{font-family:""Mulish"";font-style:normal;font-weight:900;font-displa=
+y:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYK=
+NnBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,=
+U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-st=
+yle:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.=
+com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode=
+-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:""M=
+ulish"";font-style:normal;font-weight:900;font-display:swap;src:url(https://=
+fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""w=
+off2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0=
+-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-s=
+tyle:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic=
+.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicod=
+e-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+211=
+3,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-style:normal=
+;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/muli=
+sh/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+000=
+0-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20=
+74,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}.preHeaderHide{d=
+isplay:none;mso-hide:all;width:0;height:0;max-width:0;max-height:0;font-siz=
+e:0;line-height:0}</style> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettin=
+gs> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentS=
+ettings> </xml><![endif]--></head><!DOCTYPE html><!--[if lt IE 7]><html cla=
+ss=3D""no-js lt-ie9 lt-ie8 lt-ie7""><![endif]--><!--[if IE 7]><html class=3D""=
+no-js lt-ie9 lt-ie8""><![endif]--><!--[if IE 8]><html class=3D""no-js lt-ie9""=
+><![endif]--><!--[if gt IE 8]><html class=3Dno-js> <!--<![endif]--><html la=
+ng=3Den xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-micro=
+soft-com:vml"" style=3D""-webkit-text-size-adjust: 100% !important;""><head> <=
+meta charset=3Dutf-8> <meta http-equiv=3DContent-Type content=3D""text/html =
+charset=3DUTF-8""> <meta http-equiv=3DX-UA-Compatible content=3D""IE=3Dedge"">=
+ <title>DEAL OF THE DAY: 45% off the MKM Normar CPM 3V Olive Wood, Knivesan=
+dtools Exclusive, bushcraft knife</title> <meta name=3Ddescription content=
+=3D""""> <meta name=3Dviewport content=3D""width=3Ddevice-width, initial-scale=
+=3D1""> <style>@font-face{font-family:""Mulish"";font-style:normal;font-weight=
+:400;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg8=
+3HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1=
+C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:=
+""Mulish"";font-style:normal;font-weight:400;font-display:swap;src:url(https:=
+//fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(=
+""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-fac=
+e{font-family:""Mulish"";font-style:normal;font-weight:400;font-display:swap;=
+src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.=
+woff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+=
+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family=
+:""Mulish"";font-style:normal;font-weight:400;font-display:swap;src:url(https=
+://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format=
+(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U=
++20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";f=
+ont-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gs=
+tatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");uni=
+code-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,=
+U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}=
+@font-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-disp=
+lay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0got=
+YKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B=
+4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-=
+style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstati=
+c.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unico=
+de-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:=
+""Mulish"";font-style:normal;font-weight:600;font-display:swap;src:url(https:=
+//fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(=
+""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01=
+A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font=
+-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstat=
+ic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unic=
+ode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2=
+113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-style:norm=
+al;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/mu=
+lish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0=
+000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+=
+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{fon=
+t-family:""Mulish"";font-style:normal;font-weight:700;font-display:swap;src:u=
+rl(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2=
+) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,=
+U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:normal;f=
+ont-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish=
+/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+040=
+0-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-=
+style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstati=
+c.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unico=
+de-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF=
+-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-style:normal;=
+font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/mulis=
+h/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+01=
+00-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7=
+F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-style:normal;font-weight=
+:700;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg8=
+3HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,U+013=
+1,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+=
+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Muli=
+sh"";font-style:normal;font-weight:800;font-display:swap;src:url(https://fon=
+ts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff=
+2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+=
+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:normal;font-weight:800=
+;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_=
+SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-=
+0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-style:normal;f=
+ont-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish=
+/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+010=
+2-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1=
+EF9,U+20AB}@font-face{font-family:""Mulish"";font-style:normal;font-weight:80=
+0;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX=
+_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259=
+,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}=
+@font-face{font-family:""Mulish"";font-style:normal;font-weight:800;font-disp=
+lay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wot=
+YKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,=
+U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+=
+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-style=
+:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com=
+/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-ra=
+nge:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@fon=
+t-face{font-family:""Mulish"";font-style:normal;font-weight:900;font-display:=
+swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNn=
+Bcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04=
+B1,U+2116}@font-face{font-family:""Mulish"";font-style:normal;font-weight:900=
+;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_=
+SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-=
+0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@fo=
+nt-face{font-family:""Mulish"";font-style:normal;font-weight:900;font-display=
+:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKN=
+nBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U=
++2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{fon=
+t-family:""Mulish"";font-style:normal;font-weight:900;font-display:swap;src:u=
+rl(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) =
+format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+=
+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+=
+2215,U+FEFF,U+FFFD}.preHeaderHide{display:none;mso-hide:all;width:0;height:=
+0;max-width:0;max-height:0;font-size:0;line-height:0}</style> <!--[if gte m=
+so 9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o=
+:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif]--></head><!DOCT=
+YPE html><!--[if lt IE 7]><html class=3D""no-js lt-ie9 lt-ie8 lt-ie7""><![end=
+if]--><!--[if IE 7]><html class=3D""no-js lt-ie9 lt-ie8""><![endif]--><!--[if=
+ IE 8]><html class=3D""no-js lt-ie9""><![endif]--><!--[if gt IE 8]><html clas=
+s=3Dno-js> <!--<![endif]--><html lang=3Den xmlns=3D""http://www.w3.org/1999/=
+xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" style=3D""-webkit-text-size=
+-adjust: 100% !important;""><head> <meta charset=3Dutf-8> <meta http-equiv=
+=3DContent-Type content=3D""text/html charset=3DUTF-8""> <meta http-equiv=3DX=
+-UA-Compatible content=3D""IE=3Dedge""> <title>DEAL OF THE DAY: 45% off the M=
+KM Normar CPM 3V Olive Wood, Knivesandtools Exclusive, bushcraft knife</tit=
+le> <meta name=3Ddescription content=3D""""> <meta name=3Dviewport content=3D=
+""width=3Ddevice-width, initial-scale=3D1""> <style>@font-face{font-family:""M=
+ulish"";font-style:normal;font-weight:400;font-display:swap;src:url(https://=
+fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""w=
+off2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F=
+,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:normal;font-weight:=
+400;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83=
+HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+04=
+90-0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-style:norma=
+l;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/mul=
+ish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+=
+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA=
+0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-style:normal;font-weight=
+:400;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg8=
+3HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0=
+259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7=
+FF}@font-face{font-family:""Mulish"";font-style:normal;font-weight:400;font-d=
+isplay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3=
+wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-01=
+53,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191=
+,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-st=
+yle:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.=
+com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode=
+-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@=
+font-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-displ=
+ay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotY=
+KNnBcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0=
+-04B1,U+2116}@font-face{font-family:""Mulish"";font-style:normal;font-weight:=
+600;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83=
+HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0103,U+01=
+10-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}=
+@font-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-disp=
+lay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0Qot=
+YKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EF=
+F,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{=
+font-family:""Mulish"";font-style:normal;font-weight:600;font-display:swap;sr=
+c:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff=
+2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC=
+,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212=
+,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-style:normal;fon=
+t-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v=
+5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-=
+052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font=
+-family:""Mulish"";font-style:normal;font-weight:700;font-display:swap;src:ur=
+l(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2)=
+ format(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@=
+font-face{font-family:""Mulish"";font-style:normal;font-weight:700;font-displ=
+ay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotY=
+KNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128=
+-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{fon=
+t-family:""Mulish"";font-style:normal;font-weight:700;font-display:swap;src:u=
+rl(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2=
+) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A=
+0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""M=
+ulish"";font-style:normal;font-weight:700;font-display:swap;src:url(https://=
+fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""wof=
+f2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA=
+,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF=
+,U+FFFD}@font-face{font-family:""Mulish"";font-style:normal;font-weight:800;f=
+ont-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SG=
+hgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C=
+88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulis=
+h"";font-style:normal;font-weight:800;font-display:swap;src:url(https://font=
+s.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2=
+"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font=
+-family:""Mulish"";font-style:normal;font-weight:800;font-display:swap;src:ur=
+l(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2)=
+ format(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0=
+169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Muli=
+sh"";font-style:normal;font-weight:800;font-display:swap;src:url(https://fon=
+ts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff=
+2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-=
+20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-st=
+yle:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.=
+com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-r=
+ange:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000=
+-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-=
+face{font-family:""Mulish"";font-style:normal;font-weight:900;font-display:sw=
+ap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBc=
+if.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2D=
+E0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:=
+normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/=
+s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-ran=
+ge:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulis=
+h"";font-style:normal;font-weight:900;font-display:swap;src:url(https://font=
+s.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2=
+"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A=
+1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-style=
+:normal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com=
+/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-ra=
+nge:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+=
+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-style:normal;fon=
+t-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v=
+5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00=
+FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U=
++20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}.preHeaderHide{displ=
+ay:none;mso-hide:all;width:0;height:0;max-width:0;max-height:0;font-size:0;=
+line-height:0}</style> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> =
+<o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSetti=
+ngs> </xml><![endif]--></head><!DOCTYPE html><!--[if lt IE 7]><html class=
+=3D""no-js lt-ie9 lt-ie8 lt-ie7""><![endif]--><!--[if IE 7]><html class=3D""no=
+-js lt-ie9 lt-ie8""><![endif]--><!--[if IE 8]><html class=3D""no-js lt-ie9""><=
+![endif]--><!--[if gt IE 8]><html class=3Dno-js> <!--<![endif]--><html lang=
+=3Den xmlns=3D""http://www.w3.org/1999/xhtml"" xmlns:v=3D""urn:schemas-microso=
+ft-com:vml"" style=3D""-webkit-text-size-adjust: 100% !important;""><head> <me=
+ta charset=3Dutf-8> <meta http-equiv=3DContent-Type content=3D""text/html ch=
+arset=3DUTF-8""> <meta http-equiv=3DX-UA-Compatible content=3D""IE=3Dedge""> <=
+title>DEAL OF THE DAY: 45% off the MKM Normar CPM 3V Olive Wood, Knivesandt=
+ools Exclusive, bushcraft knife</title> <meta name=3Ddescription content=3D=
+""""> <meta name=3Dviewport content=3D""width=3Ddevice-width, initial-scale=3D=
+1""> <style>@font-face{font-family:""Mulish"";font-style:normal;font-weight:40=
+0;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX=
+_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80=
+-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mu=
+lish"";font-style:normal;font-weight:400;font-display:swap;src:url(https://f=
+onts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""wo=
+ff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{f=
+ont-family:""Mulish"";font-style:normal;font-weight:400;font-display:swap;src=
+:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.wof=
+f2) format(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+016=
+8-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""M=
+ulish"";font-style:normal;font-weight:400;font-display:swap;src:url(https://=
+fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""w=
+off2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20=
+AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font=
+-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstat=
+ic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicod=
+e-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2=
+000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@fo=
+nt-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-display=
+:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKN=
+nBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U=
++2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-sty=
+le:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.c=
+om/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-=
+range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mu=
+lish"";font-style:normal;font-weight:600;font-display:swap;src:url(https://f=
+onts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""wo=
+ff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-=
+01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-st=
+yle:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.=
+com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode=
+-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113=
+,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-style:normal;=
+font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/mulis=
+h/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0000=
+-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+207=
+4,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-f=
+amily:""Mulish"";font-style:normal;font-weight:700;font-display:swap;src:url(=
+https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) f=
+ormat(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A=
+640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:normal;font=
+-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5=
+/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0400-0=
+45F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-sty=
+le:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.c=
+om/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-=
+range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01=
+B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-style:normal;fon=
+t-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v=
+5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-=
+024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U=
++A720-A7FF}@font-face{font-family:""Mulish"";font-style:normal;font-weight:70=
+0;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX=
+_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U=
++0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+212=
+2,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish""=
+;font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.=
+gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"")=
+;unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2=
+E-FE2F}@font-face{font-family:""Mulish"";font-style:normal;font-weight:800;fo=
+nt-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGh=
+gqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-049=
+1,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-style:normal;font=
+-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5=
+/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0=
+103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9=
+,U+20AB}@font-face{font-family:""Mulish"";font-style:normal;font-weight:800;f=
+ont-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SG=
+hgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+=
+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@fo=
+nt-face{font-family:""Mulish"";font-style:normal;font-weight:800;font-display=
+:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKN=
+nBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+0=
+2BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+219=
+3,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-style:no=
+rmal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/=
+mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range=
+:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-f=
+ace{font-family:""Mulish"";font-style:normal;font-weight:900;font-display:swa=
+p;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBci=
+f.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,=
+U+2116}@font-face{font-family:""Mulish"";font-style:normal;font-weight:900;fo=
+nt-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGh=
+gqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-011=
+1,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-=
+face{font-family:""Mulish"";font-style:normal;font-weight:900;font-display:sw=
+ap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBc=
+if.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+20=
+20,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-f=
+amily:""Mulish"";font-style:normal;font-weight:900;font-display:swap;src:url(=
+https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) for=
+mat(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C=
+6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+221=
+5,U+FEFF,U+FFFD}.preHeaderHide{display:none;mso-hide:all;width:0;height:0;m=
+ax-width:0;max-height:0;font-size:0;line-height:0}</style> <!--[if gte mso =
+9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:Pi=
+xelsPerInch> </o:OfficeDocumentSettings> </xml><![endif]--></head><!DOCTYPE=
+ html><!--[if lt IE 7]><html class=3D""no-js lt-ie9 lt-ie8 lt-ie7""><![endif]=
+--><!--[if IE 7]><html class=3D""no-js lt-ie9 lt-ie8""><![endif]--><!--[if IE=
+ 8]><html class=3D""no-js lt-ie9""><![endif]--><!--[if gt IE 8]><html class=
+=3Dno-js> <!--<![endif]--><html lang=3Den xmlns=3D""http://www.w3.org/1999/x=
+html"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" style=3D""-webkit-text-size-=
+adjust: 100% !important;""><head> <meta charset=3Dutf-8> <meta http-equiv=3D=
+Content-Type content=3D""text/html charset=3DUTF-8""> <meta http-equiv=3DX-UA=
+-Compatible content=3D""IE=3Dedge""> <title>DEAL OF THE DAY: 45% off the MKM =
+Normar CPM 3V Olive Wood, Knivesandtools Exclusive, bushcraft knife</title>=
+ <meta name=3Ddescription content=3D""""> <meta name=3Dviewport content=3D""wi=
+dth=3Ddevice-width, initial-scale=3D1""> <style>@font-face{font-family:""Muli=
+sh"";font-style:normal;font-weight:400;font-display:swap;src:url(https://fon=
+ts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff=
+2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+=
+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:normal;font-weight:400=
+;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_=
+SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-=
+0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";font-style:normal;f=
+ont-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish=
+/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+010=
+2-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1=
+EF9,U+20AB}@font-face{font-family:""Mulish"";font-style:normal;font-weight:40=
+0;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX=
+_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259=
+,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}=
+@font-face{font-family:""Mulish"";font-style:normal;font-weight:400;font-disp=
+lay:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wot=
+YKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,=
+U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+=
+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-style=
+:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com=
+/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-ra=
+nge:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@fon=
+t-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-display:=
+swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNn=
+Bcif.woff2) format(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04=
+B1,U+2116}@font-face{font-family:""Mulish"";font-style:normal;font-weight:600=
+;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_=
+SGhgqk0AotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-=
+0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@fo=
+nt-face{font-family:""Mulish"";font-style:normal;font-weight:600;font-display=
+:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKN=
+nBcif.woff2) format(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U=
++2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{fon=
+t-family:""Mulish"";font-style:normal;font-weight:600;font-display:swap;src:u=
+rl(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) =
+format(""woff2"");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+=
+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+=
+2215,U+FEFF,U+FFFD}@font-face{font-family:""Mulish"";font-style:normal;font-w=
+eight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1=
+Ptvg83HX_SGhgqk0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-052=
+F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-fa=
+mily:""Mulish"";font-style:normal;font-weight:700;font-display:swap;src:url(h=
+ttps://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) fo=
+rmat(""woff2"");unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@fon=
+t-face{font-family:""Mulish"";font-style:normal;font-weight:700;font-display:=
+swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNn=
+Bcif.woff2) format(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-01=
+29,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-f=
+amily:""Mulish"";font-style:normal;font-weight:700;font-display:swap;src:url(=
+https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) f=
+ormat(""woff2"");unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-2=
+0AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Muli=
+sh"";font-style:normal;font-weight:700;font-display:swap;src:url(https://fon=
+ts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2""=
+);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+=
+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+=
+FFFD}@font-face{font-family:""Mulish"";font-style:normal;font-weight:800;font=
+-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgq=
+k0gotYKNnBcif.woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,=
+U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";=
+font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.g=
+static.com/s/mulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");=
+unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-fa=
+mily:""Mulish"";font-style:normal;font-weight:800;font-display:swap;src:url(h=
+ttps://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) fo=
+rmat(""woff2"");unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169=
+,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish""=
+;font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.=
+gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"")=
+;unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20C=
+F,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-style=
+:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com=
+/s/mulish/v5/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-rang=
+e:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-20=
+6F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-fac=
+e{font-family:""Mulish"";font-style:normal;font-weight:900;font-display:swap;=
+src:url(https://fonts.gstatic.com/s/mulish/v5/1Ptvg83HX_SGhgqk0gotYKNnBcif.=
+woff2) format(""woff2"");unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-=
+2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:""Mulish"";font-style:nor=
+mal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/m=
+ulish/v5/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2) format(""woff2"");unicode-range:=
+U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:""Mulish"";=
+font-style:normal;font-weight:900;font-display:swap;src:url(https://fonts.g=
+static.com/s/mulish/v5/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2) format(""woff2"");=
+unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U=
++01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:""Mulish"";font-style:no=
+rmal;font-weight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/=
+mulish/v5/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2) format(""woff2"");unicode-range=
+:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C6=
+0-2C7F,U+A720-A7FF}@font-face{font-family:""Mulish"";font-style:normal;font-w=
+eight:900;font-display:swap;src:url(https://fonts.gstatic.com/s/mulish/v5/1=
+Ptvg83HX_SGhgqk3wotYKNnBQ.woff2) format(""woff2"");unicode-range:U+0000-00FF,=
+U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20=
+AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}.preHeaderHide{display:=
+none;mso-hide:all;width:0;height:0;max-width:0;max-height:0;font-size:0;lin=
+e-height:0}</style> <!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:=
+AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings=
+> </xml><![endif]--></head>
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://wantedvehicle.pics/70db04e7d2ff4cdcd523/a5faa=
+925b954feff57"" target=3D""_blank""><img alt=3D"""" src=3D""https://assets.unlaye=
+r.com/projects/266567/1740548879451-as1.png"" style=3D""width: 433px; height:=
+ 135px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://wantedvehicle.pics/70db04e7d2ff4cdcd523/a5faa=
+925b954feff57"" target=3D""_blank""><img alt=3D"""" src=3D""https://assets.unlaye=
+r.com/projects/266567/1740548917045-1.jpg"" style=3D""width: 433px; height: 7=
+69px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://wantedvehicle.pics/70db04e7d2ff4cdcd523/a5faa=
+925b954feff57"" target=3D""_blank""><img alt=3D"""" src=3D""https://assets.unlaye=
+r.com/projects/266567/1740548966076-as2.png"" style=3D""width: 433px; height:=
+ 87px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://wantedvehicle.pics/70db04e7d2ff4cdcd523/a5faa=
+925b954feff57un"" target=3D""_blank""><img alt=3D"""" src=3D""https://assets.unla=
+yer.com/projects/266567/1740464650245-unnamed (1).png"" style=3D""width: 433p=
+x; height: 71px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+             </p>
+        <p style=3D""text-align: center;"">
+             </p>
+    <img src=3D""http://url3269.sdcx.creativecrest.co.in/wf/open?upn=3Du001.=
+n8pDQKCyDxbOH-2Fhk-2Ftz4E33ylNlQ60Tx9sffeodhldiZ97JjSKvipDCdu-2FGmfi-2FImje=
+bKEXCOEvyaoY4IXL1QUtcgsvdw5waMjrFMRAX-2F-2BYl59ogKTasNOsK8TuSG-2FZPKbBOk2ns=
+lxWmR22jDnExF1RM1PeoR-2FekftarBlSId4bsZuPg7jcJfijRFUW3Cmp-2FlijkI4o7Q-2B2a9=
+dX8Soif8A-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""bank on prescription drugs"" <message@sdcx.creativecrest.co.in>",dsnipe5@yahoo.com,2025-02-27,137.184.78.218,United States,en,users/50924499/e5568cb2-91d4-4675-8a7e-7c1c0abda166.json

@@ -1,0 +1,110 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51052107,xCcCXYB9QUyZebwv7mXVGw.recvd-69cbc48b94-8fhm8-1-67C7EBAA-C.0,cHJvY2Vzc2VkLTUxMDUyMTA3LXhDY0NYWUI5UVV5WmVid3Y3bVhWR3ctMA,a,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sdbf.gibbsvandercook.in.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=T/053g2HzmeLIchgl4PL+xyaeCS36UzftJqoouxm5Tw=;
+	b=XTZFRJLbt+R28BQo3A/gGzzTxhqX4RR3T/DoI2O6c/xSgQw1YhP+llDQA1hBOEJ03PxS
+	PmIKlYNRqAchNCQVhxqTLDcmz1kLrwkUBgUYEY8lJdnUe/xco3cZ/CS+0jRrjMZRrLoUB2
+	aX6dTdq2MaUxpdVLfIdesD8sMziNo8JxUPxcWoWxKR7NtgUY4ZClsheQtPw3smP6tKFl/A
+	B2A4AifZH2Z/R5w6nr9EQW/JRQoArvXoTz+UkcJmRXEYhukiFRZ34Y848SKd3dYCfONRn2
+	+33xedUi+NYKzfMQ13VY0quQRvZ8gy9hgp0TUtDdL/hWNYSpsj4ntTSbRnuByHiw==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=T/053g2HzmeLIchgl4PL+xyaeCS36UzftJqoouxm5Tw=;
+	b=nHPleCiKskSWMVStzUK/nvD8cJ4HJE2g4IHWEGF+nDmL1MdWDodoneQfgvf7kmQ31b2q
+	85u/BLZtQ/6Llu7R5lSjTUc6cKYsYhlWIv1Xnj/429aOxfYq1bT0Br9kAwdObgR8owxKRB
+	owkmToEJitLaS7qdsrbovrAktNzY4CAiA=
+Received: by recvd-69cbc48b94-8fhm8 with SMTP id recvd-69cbc48b94-8fhm8-1-67C7EBAA-C
+	2025-03-05 06:14:02.384207873 +0000 UTC m=+9535952.350234370
+Received: from NTEwNTIxMDc (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id xCcCXYB9QUyZebwv7mXVGw
+	Wed, 05 Mar 2025 06:14:02.119 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 05 Mar 2025 06:14:02 +0000 (UTC)
+From: b <customerservice@sdbf.gibbsvandercook.in.net>
+Mime-Version: 1.0
+Message-ID: <xCcCXYB9QUyZebwv7mXVGw@geopod-ismtpd-9>
+Subject: a
+X-SG-EID: 
+ =?us-ascii?Q?u001=2Et=2FOvO37M3dVg1Kk2oLl=2Fksc9pxslB9DLd1DwjSL2+VeZYt9Rlk9eke62G?=
+ =?us-ascii?Q?uzvkF1tFKPN=2FmzjStGN9W3R8Jo2u2tpIlK=2FzUeQ?=
+ =?us-ascii?Q?mv0na8ZNgrz0pScNE09ayfFmEPGPeBizO6AXIyQ?=
+ =?us-ascii?Q?UH0RGa37Kl1MTHo9l9NmIt9gYJRbftOmID0XnIG?=
+ =?us-ascii?Q?q7ZBRDsUI0jVKZrHHLA0eHUS5g8r3w+bZ4LZ9Ec?=
+ =?us-ascii?Q?dJ0PqZTXbnVFnRj=2FVzEUc=2FVaA1e7x6a4YNkHndR?=
+ =?us-ascii?Q?=2F0fnqVIJP+3j8sHEztd38HzWWw=3D=3D?=
+To: gopalbhunya2001@yahoo.com
+X-Entity-ID: u001.rxwi+ffeb1BwYoCCxIECig==
+
+<!DOCTYPE html>
+<!-- /*********************/
+/ Crafted by Ometria.com /
+/***********************/ -->
+<!--
+
+
+
+ -->
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!--yahoo-app-android-fix--></head>
+<!DOCTYPE html>
+<!-- /*********************/
+/ Crafted by Ometria.com /
+/***********************/ -->
+<!--
+
+
+
+ -->
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!--yahoo-app-android-fix--></head>
+<!DOCTYPE html>
+<!-- /*********************/
+/ Crafted by Ometria.com /
+/***********************/ -->
+<!--
+
+
+
+ -->
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!--yahoo-app-android-fix--></head>
+<!DOCTYPE html>
+<!-- /*********************/
+/ Crafted by Ometria.com /
+/***********************/ -->
+<!--
+
+
+
+ -->
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!--yahoo-app-android-fix--></head>
+<!DOCTYPE html>
+<!-- /*********************/
+/ Crafted by Ometria.com /
+/***********************/ -->
+<!--
+
+
+
+ -->
+<html lang=3D""en"" dir=3D""ltr"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xml=
+ns:o=3D""urn:schemas-microsoft-com:office:office"">
+<head><!--yahoo-app-android-fix--></head><img src=3D""https://u51052107.ct.s=
+endgrid.net/wf/open?upn=3Du001.g3CVfDKMRYcuF0aOZNYWAIAiJ7xBzhuJjua5a-2BWtpL=
+9z-2FSRIDqR-2BHwCAUmNSE8VXL69cASanzrmQFlzrrKMuan-2FOvAsrS12L3LbM4EMfPlR0T4c=
+IMdzs39KxEhfHzM6jyaZR-2BsNXImAoU7PI7-2FQg8DrRTTzNFfHOAxT5nBJdKZ1cM4Oppyr6cA=
+QePx6AISYZS7dqN-2FusDC-2BLDVRc2EtYPdQFLZzefG5HDSJXyVuVikQ-3D"" alt=3D"""" widt=
+h=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px =
+!important;border-width:0 !important;margin-top:0 !important;margin-bottom:=
+0 !important;margin-right:0 !important;margin-left:0 !important;padding-top=
+:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddin=
+g-left:0 !important;""/>","""b"" <customerservice@sdbf.gibbsvandercook.in.net>",gopalbhunya2001@yahoo.com,2025-03-05,144.91.110.28,Germany,tl,users/51052107/73acc02d-5665-4bcc-8c05-6efd1aad55e3.json

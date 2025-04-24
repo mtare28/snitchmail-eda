@@ -1,0 +1,413 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51446574,qsWmi0cvSuetlEfC0eNU2g.recvd-69cbc48b94-g9g4n-1-67DDB7B5-4E.2,cHJvY2Vzc2VkLTUxNDQ2NTc0LXFzV21pMGN2U3VldGxFZkMwZU5VMmctMg,Thank You for the order.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=pMq/KWJGDQO025ujNTYTJkAmTqwxApn3XSmnaskFNgs=;
+	b=F+HuhyITFiL0OMb/+RC8hFempGwZQdC6IHxFApnpYSr403yu8HcwTRk5ToOSkqoQaJ16
+	OtyvQGQhZYootCaQ9u+omYV8hMZ25R7Gpq/5IDs5Df9038fg0O/iM5DVGoMiyPHjXKKChh
+	BwXLRu5fvhsFDASYuDQXgHZ74LGpllccU=
+Received: by recvd-69cbc48b94-g9g4n with SMTP id recvd-69cbc48b94-g9g4n-1-67DDB7B5-4E
+	2025-03-21 19:02:13.404155501 +0000 UTC m=+10964410.090339078
+Received: from NTE0NDY1NzQ (unknown)
+	by geopod-ismtpd-canary-0 (SG)
+	with HTTP
+	id qsWmi0cvSuetlEfC0eNU2g
+	Fri, 21 Mar 2025 19:02:13.395 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=2ab7e067ed3008c7a57bf1a07bd36125af02f229f05490eb31803fe33af0
+Date: Fri, 21 Mar 2025 19:02:13 +0000 (UTC)
+From: Harry <harrydenzo@professionneldubatiment-tahiti.com>
+Mime-Version: 1.0
+Message-ID: <qsWmi0cvSuetlEfC0eNU2g@geopod-ismtpd-canary-0>
+Subject: Thank You for the order.
+Reply-To: harrydenzo@professionneldubatiment-tahiti.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51446574=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2ECbZt?=
+ =?us-ascii?Q?jy-1vA7g2ZbH5BjH68Howdl7CgAgDlOKzMH0kXW?=
+ =?us-ascii?Q?KZU5DebLIqbBA0sqXLSzBaRhpHY7QGLE1pgkmLy?=
+ =?us-ascii?Q?d411ubdpHTy4mY1oPeKpL7AxHIGKOxnNQDKYYhg?=
+ =?us-ascii?Q?V=5FXWNqSuJu7eJNvfd8tFDz=5FxZXhoSAIW5Ng9uvW?=
+ =?us-ascii?Q?gAqx-ugMnzi4wvD86YziOtI4PcJ=5FLEUf0bifGJs?=
+ =?us-ascii?Q?i6A4yDwM7yO7c4aTYjItXfuIomdgT4iXQSvj-uV?=
+ =?us-ascii?Q?wLI8inoQUNXcNOyMnFAKLWpYjZiNR77eNswFaXl?=
+ =?us-ascii?Q?zZq728nJzpNWZtKyivk900zF4jw66PC91qWo4if?=
+ =?us-ascii?Q?qqR4Va6RoOLiYQtM2sqs7vtEbVwgcjCAay6otP1?=
+ =?us-ascii?Q?OWUcUfI2kZ0rSYaPbBGTIc8=5Fj9ePEDOFLXTvPje?=
+ =?us-ascii?Q?2hPDv2eP1LA8FCYRzQTQNRs3DhwXM1GtaRDJeSG?=
+ =?us-ascii?Q?=5FwezfZT1wihblRwZIUSURD0=5FvxerQGGs3=5Fglivq?=
+ =?us-ascii?Q?4SYcmk-ewR6jqjW-UuWjoFXUutVIMmXKPaoM6bG?=
+ =?us-ascii?Q?NQK=5Fmqf3OkfksgeenE8nV0D6oDrRsAIVPqhtJy1?=
+ =?us-ascii?Q?ck4NpYirg0LlA73fibnwCki-FYclP5=5Fncrn7Xuk?=
+ =?us-ascii?Q?cec1Dq3UhYhmupZ=5FMyGz0BgdClvH1U0tp=5F-7ABS?=
+ =?us-ascii?Q?KvKpQtYoQnOQL8ASkbOIxRb-USsTH0VKvKCWq-V?=
+ =?us-ascii?Q?6mmKwdvftg76dukPDaOy4og2mPmY2fkbCYEjns6?=
+ =?us-ascii?Q?rAPLJ=5FD2T3N8B0qRbfjSQh0rjJKdqP9487e5-61?=
+ =?us-ascii?Q?AW0zJBFFCbOprZ6a6=5F6-47ZGdhr5SYbowFyVAcT?=
+ =?us-ascii?Q?LtJR1vHAr3wLorlfEB-100Tqr3ONq97WZZkdh1c?=
+ =?us-ascii?Q?rq4=5FQj8BHxADWTIrKP9zTCKf4qObmjA4FnnwKc2?=
+ =?us-ascii?Q?udQZja02f=5FPoWpBZbePDPMloDl=5Fsc4Hwvx6-Zrx?=
+ =?us-ascii?Q?fTO1vg9-GqRTd-VsnI-xEcFs0=5Fbcf1deDaCLrzZ?=
+ =?us-ascii?Q?nHsAYE1tglYniES-QX-lso8oU-sW=5FxD-=5Fn7KQKu?=
+ =?us-ascii?Q?GYxCY5sEQmAwguYeklN6D5HjQpevriP-gYbEibf?=
+ =?us-ascii?Q?bK76Gpq-TzjH8a5mWuPFWQujuUbOhKd9DOy5SZQ?=
+ =?us-ascii?Q?DQ654XbJAMwLWZW=5F6xq3b-xU6F-AykCKdB4FeoQ?=
+ =?us-ascii?Q?iWAA9C6oqPTYCXATNVrU8EJRP567y4k=5FtEaTI1X?=
+ =?us-ascii?Q?xe5m9hcwqWEE5d7Z1hQvJhsMf9NIowCPlH9-T=5FO?=
+ =?us-ascii?Q?QDf7G=5FA0ev7N=5F9eSUQ2qEdcQndI6ClNaypD2gym?=
+ =?us-ascii?Q?DAqzMHAkzaszu-um6ZNQTKl9clPO5Y7PGSco2In?=
+ =?us-ascii?Q?GdJR8AdzH5LuqYJP3BPYvQwH-XW-z0rEfW3KXXF?=
+ =?us-ascii?Q?ZLciYuvhkv72-IytEy8hIP650v2tt5A1GaL5eOz?=
+ =?us-ascii?Q?vSlRudmnIZRZfS2YXnPYs=5F19Zs-vJeDR4Cww=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3Dhttps=3A=2F=2Fu51446574=2Ect=2Esendgrid=2Enet=2Fmt=2Fu?=
+ =?us-ascii?Q?=2Fu001=2EK29hE3Pgj=5Fo2NFUx-pmGFc-f-yvXSWluA?=
+ =?us-ascii?Q?93M5vqKoCc=2F4ez=2Fu001=2ErpsvhaKV=2Fu001=2EWFpCV?=
+ =?us-ascii?Q?gVO5bqL8sq-2FK0ogeMv6gZJMAN8Btl98lwJoXI?=
+ =?us-ascii?Q?rDVOJ5iCHsYKb4A-2FHVPMgc0XAA5FWYfXmyGnu?=
+ =?us-ascii?Q?Z9DJkwZRqfYYn4-2BhRS8-2FgUGHJlMYRkLzFik?=
+ =?us-ascii?Q?GSKv-2F4EEptID8IfIJwqJCtYJtAeVXvKI0wS-2?=
+ =?us-ascii?Q?BuYVNC2ke3-2BDRfpuvjua0sYW8uWgUMDbF4jFL?=
+ =?us-ascii?Q?Z9NqRvIQQvIHZCoEiyMLEpU4RRv8WA3GEkTHwB6?=
+ =?us-ascii?Q?ggEgrIZWVDwi-2BZ9PyIZPhb-2FMfktRaOz55xT?=
+ =?us-ascii?Q?pswd9jWOsjRpLwirynGiqR55aJiIwG6hqLldh1a?=
+ =?us-ascii?Q?Jx0ZxKvNojK7CEwxlXTAs781k827FdqbxCQ-2BL?=
+ =?us-ascii?Q?TbadHWAI5yyyvFEJGj9vAu-2Bik98KqZp69ogcs?=
+ =?us-ascii?Q?B32rri-2F0Te-2B8T1z0K-2BruPwyaKdgHu7rVz?=
+ =?us-ascii?Q?2WNQqqMNmhiC4UEisQcINM-2Bs9AzZDz43J1F6x?=
+ =?us-ascii?Q?gRe-2F7vtcaO62DuaQ0Z3FRLtWg9DXrfiyKK7mJ?=
+ =?us-ascii?Q?U7jeVQTTOAh3X7q4pUT5Q09HH9vwC3agoys5HJ-?=
+ =?us-ascii?Q?2FLauOvsWKoVvlQN3-2FybuburEA8lPdDHcgbiN?=
+ =?us-ascii?Q?5-2FthN6M01ulngTswlSbpPoWkJyy0Bf64CsE1Z?=
+ =?us-ascii?Q?su-2FdFU3GpsCsih0Xc8xACOPdy-2BBgzxJakZh?=
+ =?us-ascii?Q?mmM0-2FP8kwJTKNkc1qUUD-2B-2FP04kusnNdO2?=
+ =?us-ascii?Q?VJk7Jzz-2B6VIN3Mv-2FBImxab7iNCxSCg6LBdQ?=
+ =?us-ascii?Q?mqkwL-2BZsvoHG-2F1HHyLvS0UkiJC1tiUgAAC1?=
+ =?us-ascii?Q?2OkL1j0-2BMrjOCpKPyuhaVxx-2FA7EIXlRjK8M?=
+ =?us-ascii?Q?x7Dz3zzov9SLmWcixX1eq6xf08MOUJUuGxbV9mb?=
+ =?us-ascii?Q?4AZpbg4WRIDIFSobSli1gw-2BFoavQ-2BQAVCT1?=
+ =?us-ascii?Q?CYPCY1ds2fr8iWCYuN5jiy9hoM0byndx3YjQud6?=
+ =?us-ascii?Q?gc51lPPKnmFPIMY9KuW=2Fu001=2EtPPAy0pN=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EmebdyBH7tRWKe3dZ863Z15SKPaOb7AmPEWnILk7vKKzfVxVz5JbyjG5Lw?=
+ =?us-ascii?Q?PD7U2nPi0ix92F5FGRJz9MqcxizppkroOcz8U+7?=
+ =?us-ascii?Q?JJ1aRoBI5bUlOibifbjeqjGyBv0UmE47Il47RAM?=
+ =?us-ascii?Q?=2FkCYTUmwLyfmB5Jyk5O7ahNNEP9fRj0tWampVj8?=
+ =?us-ascii?Q?By8idfB11KR03QhMIjgKve9RcUVxuFivnzaocLU?=
+ =?us-ascii?Q?tXGfT9qtKdHe04h81C4IE2eVY62XEYAnuL++qtz?=
+ =?us-ascii?Q?Uyf4s27jJqM2xAOtcklsls7T0A=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FxHHLqVi?=
+ =?us-ascii?Q?dBu+2ExyckzBlOrswOXyV+92Y=2Fdq1QsgTsilnYY?=
+ =?us-ascii?Q?QxRCq=2FwnHjFskl1rTFkSyZE+fCQ+mFBBzvz935b?=
+ =?us-ascii?Q?y+pNQ2QddCDzkVzqjz56QqcdvOB=2FzTaZD=2F8M183?=
+ =?us-ascii?Q?FQkfDRjx7fNXYofbGo8EMVQ=2F0WMjzc3f2soSWPp?=
+ =?us-ascii?Q?5HI8WWaQ+4xlEMrstmoiggogFwjboVnLefuUZfO?=
+ =?us-ascii?Q?MDXwlXrYPx0XCRksRvcROOt3T9js3n+Mynw=2FpFX?=
+ =?us-ascii?Q?M3cnP26sA7LANKQwcWQyBmzhtbGNr5tMUtOYhB6?=
+ =?us-ascii?Q?bQv8yY8Rv7QwzF6N9f1UF0vk1k2pBOAN+ev53Se?=
+ =?us-ascii?Q?Op10sIYWBzgLPVJEydCy4JDc9ehhWcJHfNmWCom?=
+ =?us-ascii?Q?PyhJxo2nV7F=2F=2Fmb6WonX5ipHNxnNFgPIFYKc9l+?=
+ =?us-ascii?Q?6ZIlYjGBwRBxODXhxUWez1z93kDETU6HeMu9VQn?=
+ =?us-ascii?Q?BM+TGwTAZMTME4ygcNi5CRaCisn3M2RegzFS9QY?=
+ =?us-ascii?Q?2yhmfKhPynGTAVZh7iOtS18YAJ2JlYXOosKL=2FbZ?=
+ =?us-ascii?Q?tpJEKlvr7HtQ0S25MKFZf3KGQRrVswBTTXCrDKY?=
+ =?us-ascii?Q?mki9wsUUPrXPSmpA41KWNb4?=
+To: prestonkelly@ymail.com
+X-Entity-ID: u001.oy7OPEhnl4x63e1KGBu8Vg==
+
+--2ab7e067ed3008c7a57bf1a07bd36125af02f229f05490eb31803fe33af0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Thank You for the order.
+Order id - LMXBDG4154HF
+Product - CANON PRINTER S SERIES (S47840)
+
+Amount charged- $524.85
+
+Your order will be delivered by 03/21/2025.
+
+If you did not place this order call immediately at +1(828) 423-5999 to rep=
+ort and block this transaction.
+
+*Thank You
+Walmart Support
+(828) 423-5999*
+
+Harry
+
+harrydenzo@professionneldubatiment-tahiti.com , Denver , =20
+
+Unsubscribe ( https://u51446574.ct.sendgrid.net/wf/unsubscribe?upn=3Du001.e=
+kd6bEXSEdjYdMKI1HYhYdZTSmhYlqeiasFZvH9vOXox9sWSElvQFSTxiWVET2I4vuNjxwFlp2UH=
+7prhhJaO4iVhIJLGh52rkdhj6S-2F97-2FMyetfbbbvirPZA6-2FFOD2D2Lb4eAYOScEUxLk-2B=
+V5bSLEICWCM2lPrLqcpF82-2BikgMDvF5e1XxFsUe5LCRJINqpfiIzfLYNxlhndcX-2BCrWO-2F=
+aNa5XBUY0XSrZWU2i-2FhCc86LCEo0Taxa0CFkFZPoZ1w2hpMScpiEUtYZ0s917OtfFKRdtKyLh=
+4VY8TCIUZNZfqoJWr81jagu-2FryYNkdV0pk8TRCmf4qoYEjCo4Jip6A5UJ-2F0FU04MFplp63m=
+0PhH58yvqxqZuYUZFfB2KIBqbGE3N5KQw8ArK7qLVWLYAFAyAAZUZTjYDA8BgVHca9EmjaKP3r8=
+SgYh-2FkV-2FDIOmL0InNm-2Fj9bZMKfY8bEvmJ4GhfHNoCnPu-2FhlpMyEbDDo9M5ZdJHnntBt=
+PwJB1w1s3DFpzzkwnlmtq50-2BCq2ec-2F76JgTU4GfZ5ANB8RF-2BN9J30hqHfbB9bkbKTn2K2=
+jFqC-2Bsm-2Fic3V6TdKz-2FlCrYbHRHyY-2BrWU7Lqyq24fRayk8i0JUm-2FMHwjrzdIk5cqfe=
+4OycTTBOSpaUdsbsOONl0HF12oiYASe16t2hkaVr1CalNPuCskYBQToH8KO7SG5LXcBkqI0-2F9=
+5AdajElCQ0Mp0xC0ZDIlqgUS2A-2F3k2RiNebIqT85qFasVcsyoh2pdzeE1F7woOpgjJfyxdToU=
+9DncrlCiUjR4hIxiq-2FVGZU2eo6ozji6J0UpaQEiMvV7tae-2BNSCcNQ-2F8Q1DuW4PgTZDVL4=
+wu9isXYTaTLShiq8bzVOs2JHXlkcmCei0wXCSJ7ni7MpMSzGV )
+--2ab7e067ed3008c7a57bf1a07bd36125af02f229f05490eb31803fe33af0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""d79ad02c-0d6d-4f75-a13d-427a9dbf5af3"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 18p=
+x"">Thank You for the order. <br>
+Order id - LMXBDG4154HF<br>
+Product - CANON PRINTER S SERIES (S47840)<br>
+<br>
+Amount charged- $524.85<br>
+<br>
+Your order will be delivered by 03/21/2025.<br>
+<br>
+<br>
+If you did not place this order call immediately at +1(828) 423-5999 to rep=
+ort and block this transaction.<br>
+<br>
+<br>
+</span><span style=3D""font-size: 18px""><u><strong>Thank You<br>
+Walmart Support<br>
+(828) 423-5999&nbsp;</strong></u></span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Harry</p><p style=3D""font-size:12px; line-height:20px;""><span =
+class=3D""Unsubscribe--senderAddress"">harrydenzo@professionneldubatiment-tah=
+iti.com</span>, <span class=3D""Unsubscribe--senderCity"">Denver</span>, <spa=
+n class=3D""Unsubscribe--senderState""></span> <span class=3D""Unsubscribe--se=
+nderZip""></span></p></div><p style=3D""font-size:12px; line-height:20px;""><a=
+ class=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u51446574.ct.sendgr=
+id.net/wf/unsubscribe?upn=3Du001.ekd6bEXSEdjYdMKI1HYhYdZTSmhYlqeiasFZvH9vOX=
+ox9sWSElvQFSTxiWVET2I4vuNjxwFlp2UH7prhhJaO4iVhIJLGh52rkdhj6S-2F97-2FMyetfbb=
+bvirPZA6-2FFOD2D2Lb4eAYOScEUxLk-2BV5bSLEICWCM2lPrLqcpF82-2BikgMDvF5e1XxFsUe=
+5LCRJINqpfiIzfLYNxlhndcX-2BCrWO-2FaNa5XBUY0XSrZWU2i-2FhCc86LCEo0Taxa0CFkFZP=
+oZ1w2hpMScpiEUtYZ0s917OtfFKRdtKyLh4VY8TCIUZNZfqoJWr81jagu-2FryYNkdV0pk8TRCm=
+f4qoYEjCo4Jip6A5UJ-2F0FU04MFplp63m0PhH58yvqxqZuYUZFfB2KIBqbGE3N5KQw8ArK7qLV=
+WLYAFAyAAZUZTjYDA8BgVHca9EmjaKP3r8SgYh-2FkV-2FDIOmL0InNm-2Fj9bZMKfY8bEvmJ4G=
+hfHNoCnPu-2FhlpMyEbDDo9M5ZdJHnntBtPwJB1w1s3DFpzzkwnlmtq50-2BCq2ec-2F76JgTU4=
+GfZ5ANB8RF-2BN9J30hqHfbB9bkbKTn2K2jFqC-2Bsm-2Fic3V6TdKz-2FlCrYbHRHyY-2BrWU7=
+Lqyq24fRayk8i0JUm-2FMHwjrzdIk5cqfe4OycTTBOSpaUdsbsOONl0HF12oiYASe16t2hkaVr1=
+CalNPuCskYBQToH8KO7SG5LXcBkqI0-2F95AdajElCQ0Mp0xC0ZDIlqgUS2A-2F3k2RiNebIqT8=
+5qHuOG9KQZ-2FSplBfzgAtnR8NUMOtaLWfDB79gxMVLiGw70o5JNCAA3z87PoU8JnyQP3UXKt0A=
+wvumTJY8cm14uTW2-2FNkju4gk8ojRBrNo-2FsPgD7tacrqLD9NgyOsRagz6TFgyXRtKxvhvtEh=
+mg-2BD-2ByDn"" target=3D""_blank"" style=3D"""">Unsubscribe</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51446574.ct.sendgrid.net/wf/open?upn=3Du001.ekd6bE=
+XSEdjYdMKI1HYhYdZTSmhYlqeiasFZvH9vOXox9sWSElvQFSTxiWVET2I4vuNjxwFlp2UH7prhh=
+JaO4iVhIJLGh52rkdhj6S-2F97-2FMyetfbbbvirPZA6-2FFOD2D2Lb4eAYOScEUxLk-2BV5bSL=
+EICWCM2lPrLqcpF82-2BikgMDvF5e1XxFsUe5LCRJINqpfiIzfLYNxlhndcX-2BCrWO-2FaNa5X=
+BUY0XSrZWU2i-2FhCc86LCEo0Taxa0CFkFZPoZ1w2hpMScpiEUtYZ0s917OtfFKRdtKyLh4VY8T=
+CIUZNZfqoJWr81jagu-2FryYNkdV0pk8TRCmf4qoYEjCo4Jip6A5UJ-2F0FU04MFplp63m0PhH5=
+8yvqxqZuYUZFfB2KIBqbGE3N5KQw8ArK7qLVWLYAFAyAAZUZTjYDA8BgVHca9EmjaKP3r8SgYh-=
+2FkV-2FDIOmL0InNm-2Fj9bZMKfY8bEvmJ4GhfHNoCnPu-2FhlpMyEbDDo9M5ZdJHnntBtPwJB1=
+w1s3DFpzzkwnlmtq50-2BCq2ec-2F76JgTU4GfZ5ANB8RF-2BN9J30hqHfbB9bkbKTn2K2jFqC-=
+2Bsm-2Fic3V6TdKz-2FlCrYbHRHyY-2BrWU7Lqyq24fRayk8i0JUm-2FMHwjrzdIk5cqfe4OycT=
+TBOSpaUdsbsOONl0HF12oiYASe16t2hkaVr1CalNPuCskYBQToH8KO7SG5LXcBkqI0-2F95Adaj=
+ElCQ0Mp0xC0ZDIlqgUS2A-2F3k2RiNebIqT85qHAVnh2ijpoCcV6MabPDjkFXOMoDomWhobswGp=
+ZmlkQxvt90oLNt4pQjA9gJtJtwgVCBjU0UKM4lKv3uTN89W-2FhF4oHUKgtqUT62VwtNSfLPuAY=
+vb-2Bh6jJLwd-2B-2F3bTakws3cswyUlfE-2Fc7mHfaQKo8i"" alt=3D"""" width=3D""1"" heig=
+ht=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;b=
+order-width:0 !important;margin-top:0 !important;margin-bottom:0 !important=
+;margin-right:0 !important;margin-left:0 !important;padding-top:0 !importan=
+t;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !im=
+portant;""/></body>
+  </html>
+--2ab7e067ed3008c7a57bf1a07bd36125af02f229f05490eb31803fe33af0--
+","""Harry"" <harrydenzo@professionneldubatiment-tahiti.com>",prestonkelly@ymail.com,2025-03-21,44.198.45.247,United States,en,users/51446574/e7e5dcdb-df39-46d0-831b-4667cd392c44.json

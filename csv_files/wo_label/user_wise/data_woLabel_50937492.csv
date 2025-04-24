@@ -1,0 +1,294 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50937492,OWwRDUHMTVuJaxmf7rH0-A.recvd-69cbc48b94-k6zww-1-67C0B7E5-16.1,cHJvY2Vzc2VkLTUwOTM3NDkyLU9Xd1JEVUhNVFZ1SmF4bWY3ckgwLUEtMQ,Asset Transfer Receipt,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=ElB3qZy6Cgg9RzfswZz2j6ylXdlWQa7CrybBVY8+U3g=;
+	b=aOFMR0Qxf6rMjKkHxmMqI4tESeyLkCAivN82uiCjAWg9ZuvQxW1O4otFSak+kQekA3L4
+	KlenMXiY9TV1ReJhSRpfpqz1CbugLY99JgjZ6Jom4NecV8cwnDbyI4pR0Xb1F12+PEm4ZH
+	k+BGlFTl9Wv7OW96JWdWHRtnT1IuBVb9k=
+Received: by recvd-69cbc48b94-k6zww with SMTP id recvd-69cbc48b94-k6zww-1-67C0B7E5-16
+	2025-02-27 19:07:17.544231052 +0000 UTC m=+9063843.528776654
+Received: from NTA5Mzc0OTI (unknown)
+	by geopod-ismtpd-18 (SG) with HTTP
+	id OWwRDUHMTVuJaxmf7rH0-A
+	Thu, 27 Feb 2025 19:07:17.532 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=41a47f95fc30b4aad40d463bdd44c5ea4cdf7acca4a738f6dcf06ddbd32c
+Date: Thu, 27 Feb 2025 19:07:17 +0000 (UTC)
+From: jason <jasonhall@logicainf.com.br>
+Mime-Version: 1.0
+Message-ID: <OWwRDUHMTVuJaxmf7rH0-A@geopod-ismtpd-18>
+Subject: Asset Transfer Receipt
+Reply-To: jasonhall@logicainf.com.br
+List-Unsubscribe: <https://mc.sendgrid.com/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EBcbePlZ4LmoD+S9UQuNlv1lh52Vm=2FRtv5XCIrIgq3AU+W9gGRzAN9zS8u?=
+ =?us-ascii?Q?=2FYKZcTALMLMN8bTFxuL1kQJiT92nUnMamdG2iLt?=
+ =?us-ascii?Q?Q2Q6dVpexuDn0QDAdewIzZyEnhsEhX+qE6m2G0d?=
+ =?us-ascii?Q?QiamlYKaTtVtVV0VVqbFULa8JNev8M+wUOOqL6=2F?=
+ =?us-ascii?Q?wi9BRcI0C5PjdC6wtLc11Qs8igGK7rDrcVYjZpo?=
+ =?us-ascii?Q?wVgc2=2FygRzBS=2FLzK4k2F1UGign7bqzE6BYedGt+?=
+ =?us-ascii?Q?r1wL?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FWDI=2FiEd?=
+ =?us-ascii?Q?7XMFqppfDKfGUDiRfOwxuxliIhkkwlgz6pOo3aa?=
+ =?us-ascii?Q?fQrUTsQ7lAOMcKEAa0Y8rqaUqnCaMd74j1CI18u?=
+ =?us-ascii?Q?UTgWEanNimQ4A2YKKGH74C9oqyZSj9QqhMlFZhf?=
+ =?us-ascii?Q?Jvo4=2FOluAqhtKlRdDV5K5kVuFNqjitgg4fAgSD7?=
+ =?us-ascii?Q?YBOv+QeTKyf8o2484lIajpOx=2F9ix+qdxYXaiG8g?=
+ =?us-ascii?Q?CAJCoibVw+jthOE0z8rTdtJlH210LU5lrEIQbem?=
+ =?us-ascii?Q?xlvf7JM=2FoFtf2VUuPrF86v2VCYFRhMz2DR3Vjh6?=
+ =?us-ascii?Q?3Gy7lZfPP32wzyTEN25zp2GpbDqxBet5AaOoB0t?=
+ =?us-ascii?Q?0Cy6qWQk7TDk19X9woy41A+Oa68C9RBdyFKRFTw?=
+ =?us-ascii?Q?IDjZ+CdtYD5XVnhP6sJc3QYw4YeoZO5EnI26UFg?=
+ =?us-ascii?Q?vhwwt1SJAMlZfVRN3EtVifTHGhoVOmhwJfYRAQO?=
+ =?us-ascii?Q?G3CFlO3+YoPb0dIscH=2FYt2r95O9lwiVp4REvPv5?=
+ =?us-ascii?Q?L1sdK+7II4gwqFwTSilx8AevvXxog6oHetOKCeg?=
+ =?us-ascii?Q?uGhuavU43SrTmOI4rTS4DJVSAA7rBIrbaCJUns9?=
+ =?us-ascii?Q?uMDZBrVHLKY2oI1Z5PKjGnQ?=
+To: blau1961@hotmail.com
+X-Entity-ID: u001.WfoLzLY2w6bdbx4FZHk2ZA==
+
+--41a47f95fc30b4aad40d463bdd44c5ea4cdf7acca4a738f6dcf06ddbd32c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+CHARLES SCHWAB
+Asset Transfer Receipt
+Your asset transfer has been successfully initiated and is being processed.=
+ Please retain this receipt for your records.
+Date:
+February 27, 2025
+Transaction Type:
+Asset Transfer
+Transaction ID:
+SCH-25022784-TRN53972
+Amount:
+$4,000.00
+Status:
+In Process
+Estimated Completion:
+3-5 Business Days
+
+If you did not authorize this transaction, please contact our customer serv=
+ice immediately.
+
+1-888-524-4041
+
+Representatives are available 24/7 to assist you.
+
+SECURE TRANSACTION
+
+This electronic receipt serves as official documentation of your transactio=
+n with Charles Schwab. All asset transfers are subject to verification and =
+approval. Processing times may vary based on receiving institution requirem=
+ents and market conditions.
+
+Charles Schwab & Co., Inc. Member SIPC. =A9 2025 The Charles Schwab Corpora=
+tion. All rights reserved.
+
+This is an automated notification. Please do not reply to this message.
+
+Reference: CS-AT-2025-02-27-001
+--41a47f95fc30b4aad40d463bdd44c5ea4cdf7acca4a738f6dcf06ddbd32c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D""en"">
+<head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>Charles Schwab Asset Transfer Receipt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .receipt-container {
+            border: 1px solid #ccc;
+            padding: 25px;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #005078;
+            padding-bottom: 15px;
+        }
+        .logo {
+            max-width: 200px;
+            margin-bottom: 10px;
+        }
+        .receipt-title {
+            font-size: 22px;
+            color: #005078;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .confirmation-box {
+            background-color: #e8f4f8;
+            border-left: 4px solid #005078;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .transaction-details {
+            margin: 25px 0;
+        }
+        .transaction-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 12px;
+            border-bottom: 1px dotted #ddd;
+            padding-bottom: 12px;
+        }
+        .label {
+            font-weight: bold;
+            color: #333;
+            width: 40%;
+        }
+        .value {
+            width: 60%;
+            text-align: right;
+        }
+        .amount {
+            font-size: 20px;
+            font-weight: bold;
+            color: #005078;
+        }
+        .warning {
+            background-color: #fff9e6;
+            border: 1px solid #ffeeba;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .phone {
+            font-size: 24px;
+            font-weight: bold;
+            color: #d13239;
+            margin: 10px 0;
+            text-align: center;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666;
+            text-align: center;
+            border-top: 1px solid #ddd;
+            padding-top: 15px;
+        }
+        .secure-badge {
+            background-color: #005078;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 3px;
+            display: inline-block;
+            font-size: 12px;
+            margin-top: 20px;
+        }
+        .disclaimer {
+            font-size: 11px;
+            margin-top: 15px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D""receipt-container"">
+        <div class=3D""header"">
+            <div class=3D""receipt-title"">CHARLES SCHWAB</div>
+            <div>Asset Transfer Receipt</div>
+        </div>
+       =20
+        <div class=3D""confirmation-box"">
+            Your asset transfer has been successfully initiated and is bein=
+g processed. Please retain this receipt for your records.
+        </div>
+       =20
+        <div class=3D""transaction-details"">
+            <div class=3D""transaction-row"">
+                <div class=3D""label"">Date:</div>
+                <div class=3D""value"">February 27, 2025</div>
+            </div>
+            <div class=3D""transaction-row"">
+                <div class=3D""label"">Transaction Type:</div>
+                <div class=3D""value"">Asset Transfer</div>
+            </div>
+            <div class=3D""transaction-row"">
+                <div class=3D""label"">Transaction ID:</div>
+                <div class=3D""value"">SCH-25022784-TRN53972</div>
+            </div>
+            <div class=3D""transaction-row"">
+                <div class=3D""label"">Amount:</div>
+                <div class=3D""value amount"">$4,000.00</div>
+            </div>
+            <div class=3D""transaction-row"">
+                <div class=3D""label"">Status:</div>
+                <div class=3D""value"">In Process</div>
+            </div>
+            <div class=3D""transaction-row"">
+                <div class=3D""label"">Estimated Completion:</div>
+                <div class=3D""value"">3-5 Business Days</div>
+            </div>
+        </div>
+       =20
+        <div class=3D""warning"">
+            <p>If you did not authorize this transaction, please contact ou=
+r customer service immediately.</p>
+            <p class=3D""phone"">1-888-524-4041</p>
+            <p>Representatives are available 24/7 to assist you.</p>
+        </div>
+       =20
+        <div class=3D""secure-badge"">SECURE TRANSACTION</div>
+       =20
+        <div class=3D""disclaimer"">
+            <p>This electronic receipt serves as official documentation of =
+your transaction with Charles Schwab. All asset transfers are subject to ve=
+rification and approval. Processing times may vary based on receiving insti=
+tution requirements and market conditions.</p>
+            <p>Charles Schwab & Co., Inc. Member SIPC. =A9 2025 The Charles=
+ Schwab Corporation. All rights reserved.</p>
+        </div>
+       =20
+        <div class=3D""footer"">
+            <p>This is an automated notification. Please do not reply to th=
+is message.</p>
+            <p>Reference: CS-AT-2025-02-27-001</p>
+        </div>
+    </div>
+<img src=3D""https://u50937492.ct.sendgrid.net/wf/open?upn=3Du001.DAnXEcvaIY=
+fdpGvet-2FraIbSDQAZ9qnXg8FWPDT-2F6BkvdaZuyrj3sggI7YItejsf-2FVrh5uYZ8Bue5oEO=
+D9j6s3A-2BPvWSZKRjHxi4jNsQQIlDBgKdGXkvPrsXg0QZcdrcZ7BqklEgkXIJZizSj5KA1HoEW=
+v0ERJh8v-2B2c2RObCrkdXuIslmlkSPZeS8F5uFWujxLdYISfXESCpZocwb7-2FeprTdZrJlRjA=
+AljVbGHF2WGzPK0MWIIRoh4iF-2FP12Bb5X9NnKCG1OjKznb-2FTN-2B4H9uInDpLVXfdlQnDAB=
+COTXnMmwd-2Bsp6gZNRybTbev1V5SIPhJqBdBi3w-2BXxw3ZOMlpIXo4gWlB7r34wxzPtTXVwO1=
+QwbsBlOqW8mHj8v5zgpcmsv3fg67CA-2FqySWnW6AMNuJv5x99iy4sbV5WQrnT-2BTkyCI1nMm8=
+mvk7YfrQRN3VCnqprdwD0-2BM9hgotomUJLXDWWnBsmx-2FBHbXZ6ey4tMSQP0zgWbny-2BWyua=
+fhyp6TBV-2Fg6IOyBrKRv3IMsQB9G4DBnIbVDyJ1IB5HF6OKC0tybkCxoeMi8GKY6rQ3t0mncmB=
+xtWpHSE4LcmUaH3A0m2QJBT76WM2Nq1rCu7W1CEvIE91oc5Cw2ABE4RJd2opvUu1izjzVTxSN8E=
+KIHHv3awC4nsGN2hD6yF2BlUjl0d3VRBrttD8qb8BwIZl4VajY-2BLeeBK-2B3FY6SO81GdSoYv=
+fZFpvDKBoJWDk3-2Bhz2yk5NfY6FpER5mqQptFFccKT0yXLY08k5LvBOIkYr-2FxbgMfoHD31n3=
+b-2Bwl77p8p-2Ffl9LBQL7-2FEDu0-2FsMNYTrlZIZEC4-2BtYQ1XSSYy6MMhdp9h1BjeEZZJiO=
+fjouVgsv7fjyAN8BHV3a2Z030ZAHjEltuUg7vf"" alt=3D"""" width=3D""1"" height=3D""1"" b=
+order=3D""0"" style=3D""height:1px !important;width:1px !important;border-widt=
+h:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-ri=
+ght:0 !important;margin-left:0 !important;padding-top:0 !important;padding-=
+bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/=
+></body>
+</html>
+--41a47f95fc30b4aad40d463bdd44c5ea4cdf7acca4a738f6dcf06ddbd32c--
+","""jason"" <jasonhall@logicainf.com.br>",blau1961@hotmail.com,2025-02-27,44.198.45.247,United States,de,users/50937492/bd471acc-cfcf-4bbc-aada-b5019d1c5e1e.json

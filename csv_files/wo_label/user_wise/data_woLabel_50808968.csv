@@ -1,0 +1,180 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50808968,HArLcXsIQGSJsf2AMUspNA.recvd-69cbc48b94-7j96v-1-67D07366-41.0,cHJvY2Vzc2VkLTUwODA4OTY4LUhBckxjWHNJUUdTSnNmMkFNVXNwTkEtMA,Complete with Docusign: Signature Request 3/11/2025 5:31:18 p.m..pdf,"Content-Type: multipart/mixed;
+ boundary=""----=_NextPart_000_0012_7D2A21AA.2A16BC80""
+Date: Tue, 11 Mar 2025 17:31:18 +0000 (UTC)
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+ h=from:subject:mime-version:to:list-unsubscribe:list-unsubscribe-post:
+ content-type:cc:content-type:from:subject:to; s=smtpapi;
+ bh=fzeyzA9p0WDz92WLdMx6544khghjrNshwD7jwPs7pdo=;
+ b=vwguPyYobrcuYf2y3fiBBmp9eq0yABFMLZ3r2Co8LIXwCYWJMC76Ix/hr+07WPGH++7H
+ C9okDTgQyes61ujpW/5uB+e7HBr4hxcL/KN1C5NBL37ypJzARAdotcfpRUOV2x2Y3KuPSd
+ YhhnpM2BkRi2pB+640nPsGdAZ/RGTGL58=
+From: ""eSign via hawkinsinc.com"" <kai-uwe.uebner@bfw-sachsen-anhalt.de>
+List-Unsubscribe: =?us-ascii?Q?=3Chttps=3A=2F=2Fu50808968=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EJwEu?=
+ =?us-ascii?Q?z1tOguneszO5EO53vVikXepIy8QORa61pwaR4a2?=
+ =?us-ascii?Q?hgE=5FTT=5FGOhpSnfqoZleXHMurRqPpJOlXO0yPI1F?=
+ =?us-ascii?Q?qdRfZlDNO4OfifrjMSxHpG0HzvRFTv0qoyWZ8Qy?=
+ =?us-ascii?Q?NIwi8RKr4cpUTFdsfeU8Yi6YzjUjq1lK-wZTpmm?=
+ =?us-ascii?Q?0Aq8RzH458j3faR-1dV1nJErTpBXMKl6bbe5L4q?=
+ =?us-ascii?Q?5XylYbzuiDhWyrR51O7gXefX51mUCRBt6rF7q=5FJ?=
+ =?us-ascii?Q?I5Kg0RoUKUmYG89hW0lAqM8qmpU=5FHueWAnlXxRV?=
+ =?us-ascii?Q?Np2W4GoB1mEZ0g7kxsnlBNRyXXZzZMhSDpWyJm8?=
+ =?us-ascii?Q?vVYfrO5cmKoqnxV7C0WWskWExWV8Qe9QpSKtcMD?=
+ =?us-ascii?Q?EhdyRETgBPUIHLEwbwR1vRL=5FlQBLlM7jo6ZIvrj?=
+ =?us-ascii?Q?ten=5Fg6t1MXg2mLYuo38M28o=5F5w8F3u9sA=3E=2C=3Cmai?=
+ =?us-ascii?Q?lto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject=3Dht?=
+ =?us-ascii?Q?tps=3A=2F=2Fu50808968=2Ect=2Esendgrid=2Enet=2Fmt=2Fu=2Fu0?=
+ =?us-ascii?Q?01=2Ec2qGXiPiFNkGX3PnhTTnEeGDcLn8=5FaLCyJtY?=
+ =?us-ascii?Q?1ZJkESiirGbEFfuk6SujuSHsfpPj=2F4ep=2Fu001=2E2?=
+ =?us-ascii?Q?ybHjByj=2Fu001=2ErunHDWP-2FJVJr0ZUFY5cZhXke?=
+ =?us-ascii?Q?lb1qHlvTSJpiT8HV8JirZZ030oJQxt4jqPrPVdu?=
+ =?us-ascii?Q?S-2BOjwOJk05K3UmrlIeUYSxmin4CCagUmoZNS-?=
+ =?us-ascii?Q?2FmDiGruk3StiL2bSxyg-2BBG3JmBy4kxQ9pm7b?=
+ =?us-ascii?Q?9yPA6F-2FYpRhhI9zovFn-2BOyGxgJKqKIVsbP9?=
+ =?us-ascii?Q?tTbFkUWIAa4Bw4kDFZj8tc-2FxdejsVbOQnRMk-?=
+ =?us-ascii?Q?2F6xPXEntVeBsmTwfuQ6-2FO-2BuiEw7B4-3D=2Fu?=
+ =?us-ascii?Q?001=2EjzpYdrFj=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Message-Id: <20250311173118.6B76B1F48392C04A@bfw-sachsen-anhalt.de>
+Mime-Version: 1.0
+Received: by recvd-69cbc48b94-7j96v with SMTP id
+ recvd-69cbc48b94-7j96v-1-67D07366-41 2025-03-11 17:31:18.835157787 +0000
+ UTC m=+10094945.780267626
+Received: from bfw-sachsen-anhalt.de (unknown) by geopod-ismtpd-1 (SG) with
+ ESMTP id HArLcXsIQGSJsf2AMUspNA for <doug.pegel@hawkinsinc.com>; Tue, 11
+ Mar 2025 17:31:18.697 +0000 (UTC)
+Subject: Complete with Docusign: Signature Request 3/11/2025 5:31:18
+ p.m..pdf
+To: doug.pegel@hawkinsinc.com
+X-Entity-Id: u001.oQNQGM2dfw3EiaobaMkJ3Q==
+X-Sg-Eid: =?us-ascii?Q?u001=2EF3v3+KhDtff5zi=2FLDUGM5xfnzpg7UGY7sSoxWhAkIhc=2Fv+B77bHLEGwg8?=
+ =?us-ascii?Q?CyQ2OQwx5GCDWE42l12NDh+qH2bRKrCVyNICDS1?=
+ =?us-ascii?Q?t2PxK2EOzXzWs5cCCeal0wxJXac0SJDb6irjtP6?=
+ =?us-ascii?Q?X3keoASxxKk3bQVWT7aKv+DH2EXi0YBvozGyH8U?=
+ =?us-ascii?Q?14iFDMVt1y08Dp9JZFJwDcecDkqcwIlp=2Ft7Jmq+?=
+ =?us-ascii?Q?9K2sA9ePJDnlEQJgO3=2FUKUgixgo8OdC85tWdzRQ?=
+ =?us-ascii?Q?exWqVZKLFYLWFenO64apWV3s4DeBuYlOXjUYeuF?=
+ =?us-ascii?Q?x53fpgfc=3D?=
+
+------=_NextPart_000_0012_7D2A21AA.2A16BC80
+Content-Type: text/html; charset=us-ascii
+
+<html><head>
+<meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+<meta http-equiv=""content-type"" content=""text/html; charset=ISO-8859-1"">
+<title></title>
+</head>
+<body>
+<div class=""gmail_quote gmail_quote_container"">
+<div style=""padding: 2%; font-family: Helvetica,Arial,Sans Serif; background-color: rgb(234, 234, 234);""><font face=""Tahoma"" size=""2""><br>
+</font><br>
+<div>
+<table width=""100%"" align=""center"" dir="""" border=""0"" cellspacing=""0"" cellpadding=""0"">
+<tbody>
+<tr>
+<td><br>
+</td>
+<td width=""640"">
+<table style=""border-collapse: collapse; max-width: 640px; background-color: rgb(255, 255, 255);"">
+<tbody>
+<tr>
+<td style=""padding: 10px 24px;""><img width=""116"" style=""border: currentColor; border-image: none;"" alt=""DocuSign"" src=""https://ci3.googleusercontent.com/meips/ADKq_NZ9zSQuYaFktvq5wTWnJ8qTDNqWB5u8pd40Z4Ltlrjg0uLGc7MOCSOPBHRUEaztl5OE8NsctjC58TSk3fZJwkMZeg8oGAqwxvRqkSMrW4OT3fsQydF1U2lg_wEQvnfcuH_iotdaKpSfDTe9mh2f1RV56g-Bkw=s0-d-e1-ft#https://docucdn-a.akamaihd.net/olive/images/2.62.0/global-assets/email-templates/email-logo.png"" height=""25""></td>
+</tr>
+<tr>
+<td style=""padding: 0px 24px 30px;"">
+<table width=""100%"" align=""center"" style=""color: rgb(255, 255, 255); background-color: rgb(38, 5, 89);"" border=""0"" cellspacing=""0"" cellpadding=""0"">
+<tbody>
+<tr>
+<td align=""center"" style=""padding: 28px 36px 36px; width: 100%; text-align: center; color: rgb(255, 255, 255); font-family: Helvetica,Arial,Sans Serif; font-size: 16px; background-color: rgb(38, 5, 89);"">
+<img width=""75"" height=""75"" style=""width: 75px; height: 75px;"" src=""https://ci3.googleusercontent.com/meips/ADKq_NaLnVpbwNoJDDe7JWosMDZ_xgZ_oSXQn0mkINbMK2E_IHs2YGpBdPrXCTiA3JW3rvdzMELmQZPoTabtgktPxetFVdPLJOzvKzRhR1nQsxtOJUf1RpSGJ5W4XadIDROwlQ=s0-d-e1-ft#https://docucdn-a.akamaihd.net/olive/images/2.76.0/email/iconFileWhite.png"">
+<table width=""100%"" border=""0"" cellspacing=""0"" cellpadding=""0"">
+<tbody>
+<tr>
+<td align=""center"" style=""border: currentColor; border-image: none; text-align: center; color: rgb(255, 255, 255); padding-top: 24px; font-family: Helvetica,Arial,Sans Serif; font-size: 16px;"">Please see attached document for your review and
+signing. </td>
+</tr>
+</tbody>
+</table>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=""padding: 0px 24px 24px; color: rgb(0, 0, 0); font-family: Helvetica,Arial,Sans Serif; font-size: 16px; background-color: white;"">
+<table border=""0"" cellspacing=""0"" cellpadding=""0"">
+<tbody>
+<tr>
+<td style=""padding-bottom: 20px;"">
+<div style=""color: rgb(51, 51, 51); line-height: 18px; font-family: Helvetica,Arial,Sans Serif; font-size: 15px; font-weight: bold;"">hawkinsinc.com
+ePortal<br>
+</div>
+<div style=""color: rgb(102, 102, 102); line-height: 18px; font-family: Helvetica,Arial,Sans Serif; font-size: 15px;"">
+<a href=""mailto:mblake@dwassociates.com"" target=""_blank"">doug.pegel@hawkinsinc.com</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<span style=""color: rgb(51, 51, 51); line-height: 20px; font-family: Helvetica,Arial,Sans Serif; font-size: 15px;"">Hi
+doug.pegel,<br>
+Please review and sign the attached document. Let me know if you have
+any questions.<br>
+Thank you,<br>
+hawkinsinc.com</span></td>
+</tr>
+<tr>
+<td style=""padding: 0px 24px 12px; color: rgb(102, 102, 102); font-family: Helvetica,Arial,Sans Serif; font-size: 11px; background-color: rgb(255, 255, 255);"">
+<br>
+</td>
+</tr>
+<tr>
+<td style=""padding: 30px 24px 45px; background-color: rgb(234, 234, 234);"">
+<p style=""color: rgb(102, 102, 102); line-height: 18px; font-family: Helvetica,Arial,Sans Serif; font-size: 13px; margin-bottom: 1em;""><b>Do
+Not Share This Email</b><br>
+This email contains a secure link to Docusign. Please do not share this
+email, link, or access code with others.<br>
+</p>
+<p style=""color: rgb(102, 102, 102); line-height: 18px; font-family: Helvetica,Arial,Sans Serif; font-size: 13px; margin-bottom: 1em;"">
+<b>Alternate Signing Method</b><br>
+Visit Docusign.com, click 'Access Documents', and enter the security
+code:<br>
+FD7E5CDC76844C4888E89C7E0A119E<wbr>D83 </p>
+<p style=""color: rgb(102, 102, 102); line-height: 18px; font-family: Helvetica,Arial,Sans Serif; font-size: 13px; margin-bottom: 1em;"">
+<b>About Docusign</b><br>
+Sign documents electronically in just minutes. It's safe, secure, and
+legally binding. Whether you're in an office, at home, on-the-go -- or
+even across the globe -- Docusign provides a professional trusted
+solution for Digital Transaction Management&#8482;.
+</p>
+<p style=""color: rgb(102, 102, 102); line-height: 18px; font-family: Helvetica,Arial,Sans Serif; font-size: 13px; margin-bottom: 1em;"">
+<b>Questions about the Document?</b><br>
+If you need to modify the document or have questions about the details
+in the document, please reach out to the sender by emailing them
+directly<b><br>
+</b></p>
+<p style=""color: rgb(102, 102, 102); line-height: 14px; font-family: Helvetica,Arial,Sans Serif; font-size: 10px; margin-bottom: 1em;"">This
+message was sent to you by Marienella Blake who is using the Docusign
+Electronic Signature Service. If you would rather not receive email
+from this sender you may contact the sender with your request.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td><br>
+</td>
+</tr>
+</tbody>
+</table>
+<span>
+<span><span></span></span></span></div>
+</div>
+</div>
+
+
+
+If you'd like to unsubscribe and stop receiving these emails <a href=""https://u50808968.ct.sendgrid.net/wf/unsubscribe?upn=u001.7dFSVuxxwaroAbYu19PhJEMSc3wZB9ZhSMrozXo3qHdhq-2BItff3drkQ3MBjyaYU06EYr2fHGWF98LW2SZENVU-2FoFuWGIVasOt8ZTRKvuQ-2BgYxTYsETdHZZ-2Bw-2FvBbDoh7uA7l9a0SXu-2FlMKPQq-2BiaOxqvaJg6RIrMqFNxAjcA1EeQ6t7r3iEGhZDcPj2ueDInHkyyNrbE7XH598rn9pWES3zdbsuYTT7-2FdAlf4zIR9-2BM-3D""> click here </a>.<img src=""https://u50808968.ct.sendgrid.net/wf/open?upn=u001.7dFSVuxxwaroAbYu19PhJEMSc3wZB9ZhSMrozXo3qHdhq-2BItff3drkQ3MBjyaYU06EYr2fHGWF98LW2SZENVU40OxcsZxWsi86qE-2FguFs5ja-2F0XZdqowPwAtfKKDu70rtL1G2hUJKNeKuHHzItDVbDrHSVFbghD8MqHZfkA6ITX3aCCbXQtZ13USEmGnYdPLaPqLvfKUSDmeMcFCRsEX2SGyJYXv89pmJi9mbsgnSJc-3D"" alt="""" width=""1"" height=""1"" border=""0"" style=""height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;""/></body></html>
+------=_NextPart_000_0012_7D2A21AA.2A16BC80--
+","""eSign via hawkinsinc.com"" <kai-uwe.uebner@bfw-sachsen-anhalt.de>",doug.pegel@hawkinsinc.com,2025-03-11,34.57.208.251,United States,en,users/50808968/fa66bb0d-2880-4993-88dd-c780d623cd05.json

@@ -1,0 +1,80 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50924503,NzmtNXRwT8eW4JkYTtkBBQ.recvd-69cbc48b94-f5rdb-1-67C009AE-4.0,cHJvY2Vzc2VkLTUwOTI0NTAzLU56bXROWFJ3VDhlVzRKa1lUdGtCQlEtMA,ju,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=vhu.strategyspark.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=Szoq2yIHC2JBmgoldaL6DYbkji+FjYGH6QQwBxT3F0Y=;
+	b=WCjbGGZsqI1kAaOBBHXLc1Hiuu22ipOFz3ch1JqPMC7aMVwwCiMHiskUfLYwS2BxJ7GD
+	sMHtR6MiOsTUdgBnUauXyXg7EFqny4CLDiKRgTGHHsraeLgws1V9iCf72eYEJ1xdNYs7gd
+	fNKD9J5eXmzX7dLRr3jaBFNq01VPdXFqDr0VRC9vvTSY1Ev2Z+/Slor13yYeh2J3CsQvYA
+	Xi9Pl4J1prXvmgrZG2Bu3USn08s1he1Sz1zynUAdpU5sRrVDesED6I95XLOILNxEOr0w/J
+	4rHCtKQXsGFmf/hamfKiu00i9e9jtIbgpU/ETqFi0ZztwxgFLN8qQgL/+923HSiQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=Szoq2yIHC2JBmgoldaL6DYbkji+FjYGH6QQwBxT3F0Y=;
+	b=gQOltf5fftOdx0UYaBAy4i9uvw8s/squ7gUYHKhKS42fL9nbjXOgLiSJYTjPRXafGydR
+	DP64VgPHD6S5QYZU5X+LIsFzOaJU0gXLL7mM2OezAUg/Io4df6l2kLL1SS7Ubbj1fZtCzh
+	+Ch3AB0s8AikeMdATDLdiMoSg52dtqoXA=
+Received: by recvd-69cbc48b94-f5rdb with SMTP id recvd-69cbc48b94-f5rdb-1-67C009AE-4
+	2025-02-27 06:43:58.084995451 +0000 UTC m=+9019351.280189371
+Received: from NTA5MjQ1MDM (unknown)
+	by geopod-ismtpd-4 (SG) with HTTP
+	id NzmtNXRwT8eW4JkYTtkBBQ
+	Thu, 27 Feb 2025 06:43:57.738 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Thu, 27 Feb 2025 06:43:58 +0000 (UTC)
+From: p <emails@vhu.strategyspark.info>
+Mime-Version: 1.0
+Message-ID: <NzmtNXRwT8eW4JkYTtkBBQ@geopod-ismtpd-4>
+Subject: ju
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EFXMcfy+ASqtvZEZW9c430+sx0pIKbEOzX8G9LqZW9BfWtz++v3DdCBd2u?=
+ =?us-ascii?Q?CmpEyR71NqjeyoVESL6fghTLxtKlke4uJvrJD3N?=
+ =?us-ascii?Q?HZVLYqRVUMYZVmya+v=2Fw4NXzWOe7pMKy+rOXrVU?=
+ =?us-ascii?Q?RRe8Cc4+R+UpICxGIDn18qXqgQlvJSzMG=2F1AxrR?=
+ =?us-ascii?Q?lunshddbzsANHdIs1GqYIHc7CnG43iuwu7+LzgG?=
+ =?us-ascii?Q?K5kDyvDUihosmBQJ9MV5HRynKAveKUoQawrDynD?= =?us-ascii?Q?44p4?=
+To: krrishnam18@yahoo.com
+X-Entity-ID: u001.cWjMG7npizsYfq/sPyP/aQ==
+
+
+=20
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://beseitigung.shop/bad55b7e563e2e1108ec/00cf62a=
+0297fa66010"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlay=
+er.com/projects/264875/1740637822061-Screenshot 2025-02-27 115741.png"" styl=
+e=3D""width: 454px; height: 632px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://beseitigung.shop/bad55b7e563e2e1108ec/00cf62a=
+0297fa66010"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlay=
+er.com/projects/264875/1740637912472-Screenshot 2025-02-27 115808.png"" styl=
+e=3D""width: 452px; height: 627px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://beseitigung.shop/bad55b7e563e2e1108ec/00cf62a=
+0297fa66010"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlay=
+er.com/projects/264875/1740637949078-Screenshot 2025-02-27 115835.png"" styl=
+e=3D""width: 454px; height: 630px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://beseitigung.shop/bad55b7e563e2e1108ec/00cf62a=
+0297fa66010"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlay=
+er.com/projects/264875/1740637959278-Screenshot 2025-02-27 115859.png"" styl=
+e=3D""width: 453px; height: 166px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://beseitigung.shop/bad55b7e563e2e1108ec/00cf62a=
+0297fa66010un"" target=3D""_blank""><img alt=3D""unsub"" src=3D""https://assets.u=
+nlayer.com/projects/264875/1740637963946-Screenshot 2025-02-27 115927.png"" =
+style=3D""width: 454px; height: 60px;"" /></a></p>
+    <img src=3D""https://u50924503.ct.sendgrid.net/wf/open?upn=3Du001.g5ZWTL=
+pIU4MmPBUuYI-2FNiAUF97pQIUoDG1ne71FbhLi3fF1IbLJ3tuSusDI6v1Cu8iv7MV-2BDV6rWT=
+9NiBu-2BiPwvLOly9OGxaP4RKex83d34YOmbiW4oQOybwphfSL1gV8n4pKYTB-2B2YNZ-2F97kI=
+zaNmt-2BKe02e4CibUx1EO-2FovwM6RBKtGcedIP6tgryE3HLWJudIFLIL-2FJFdb40KrlCIAA-=
+3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !=
+important;width:1px !important;border-width:0 !important;margin-top:0 !impo=
+rtant;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !i=
+mportant;padding-top:0 !important;padding-bottom:0 !important;padding-right=
+:0 !important;padding-left:0 !important;""/></body>
+</html>
+
+","""p"" <emails@vhu.strategyspark.info>",krrishnam18@yahoo.com,2025-02-27,62.171.158.57,Germany,hr,users/50924503/92abb5c0-78f1-4064-9fee-632ba0aefe5e.json

@@ -1,0 +1,205 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51063142,WV-ZvdTaRlCojKhzm67M0w.recvd-69cbc48b94-6xr46-1-67C8790C-25.7,cHJvY2Vzc2VkLTUxMDYzMTQyLVdWLVp2ZFRhUmxDb2pLaHptNjdNMHctNw,Welcome,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=68xVE912LGW/gf7Zbci2F5Zhhzv8jiO9OZcBlXzQOWY=;
+	b=cjBMFAaJlOMUUgcmkfxOUnyPu9qLOyTv4ImUa6RDUEDcxz/1h2qLHSaK8iTVU4Q+oRUy
+	3KrXm9Fg1rnIq2/QB/OqL7cgBDsJVrAoDxHjTNwNslnh+zVed0x9kJnBZHi3smAHaDinEu
+	QOyJQLmVlquXRJLMjLIf7ou5IGa1an5hY=
+Received: by recvd-69cbc48b94-6xr46 with SMTP id recvd-69cbc48b94-6xr46-1-67C8790C-25
+	2025-03-05 16:17:16.553482322 +0000 UTC m=+9572081.111933557
+Received: from NTEwNjMxNDI (unknown)
+	by geopod-ismtpd-33 (SG) with HTTP
+	id WV-ZvdTaRlCojKhzm67M0w
+	Wed, 05 Mar 2025 16:17:16.527 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=cabb8efeadd58855f3af024f4462abd4d2d26349feeec82a99501c991001
+Date: Wed, 05 Mar 2025 16:17:16 +0000 (UTC)
+From: Ronda <varonda1982@hotmail.com>
+Mime-Version: 1.0
+Message-ID: <WV-ZvdTaRlCojKhzm67M0w@geopod-ismtpd-33>
+Subject: Welcome
+Reply-To: varonda1982@hotmail.com
+List-Unsubscribe: <https://www.cb.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EPvIWozvuMTQcPAY6gHUGgasEVtlEOeyCzQw7BuKaCUypE7etTOW0xe4wT?=
+ =?us-ascii?Q?aDE0TtAMH+Cct1jEXiR74N1S84fL55W=2FRhmg0W8?=
+ =?us-ascii?Q?YE5SUYqfiW3d7nH8UPAHXbsFWWhRQrbs7KimZW7?=
+ =?us-ascii?Q?J8H=2FCQN4oHVIFXMO+uDb6fp7f52wTOoFWRf7rDl?=
+ =?us-ascii?Q?PlGg=2FH2=2F9QYM=2FHkXs+rVYaPC9HCaXCUF7eiHPz2?=
+ =?us-ascii?Q?c7EqrUcpKKKWXUrxLE=2F5CY=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsRxxX5zLq9jZNeaCyzAGVbeCP9?=
+ =?us-ascii?Q?Mp20Q=2F5h5tf6LH2dx1ugNt0=2FyUPFObJi1Kza9bz?=
+ =?us-ascii?Q?FgHBOsQOzRaEpI6SzNiwYnuSZCi5mnsxYXRzK=2FE?=
+ =?us-ascii?Q?g2Cf4A6nR7FaZQ3Y5gdhvLsGPN0B+6fiA+o3=2Fzu?=
+ =?us-ascii?Q?oA=2Fl9v5aFD1nNjlRsXBcdfN3ZrKjSIadoCPF=2F21?=
+ =?us-ascii?Q?Bg0RJscdS418KmX3EbF8C4lLRArz9Ou73p9CVDZ?=
+ =?us-ascii?Q?Cvx8hoyMeuA0IWySFd1tVF0jZvd21=2FmaNvsd=2Fal?=
+ =?us-ascii?Q?Cwh4Ty2k4oB5cj2EWRshF=2FOCJc3ESpDw6+j6F=2FP?=
+ =?us-ascii?Q?ZNZ773JGlpw1boM36Z+sAkiNWSHoW=2FrESjyeAdI?=
+ =?us-ascii?Q?3o7FiH3CfMnTd9mFuwqaDbgrOAaZSJdg1aufrSS?=
+ =?us-ascii?Q?W=2FxjwKJwPfjL4Yq3r8MpP7GB1aaBMM9nxOuiCVg?=
+ =?us-ascii?Q?nMV0FXYy8eFqDffv1G4ZYfkm0br1zDSpXOrKuWh?=
+ =?us-ascii?Q?p=2FljQFSfY7vg8Q+QkaUolFq3iFasMkwn4XizBmX?=
+ =?us-ascii?Q?JpBtZnnj14SwNgGgyv7XfAbT7Uh1dOJ5KDBjIPk?=
+ =?us-ascii?Q?kHU3QidOM+dE0V+jgH3MARd?=
+To: a_foos@sbcglobal.net
+X-Entity-ID: u001.aYwXaL6Chmd1eAVtDHYXRQ==
+
+--cabb8efeadd58855f3af024f4462abd4d2d26349feeec82a99501c991001
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+***************************************************************
+Welcome to PayPal Business!a_foos@sbcglobal.net
+***************************************************************
+
+We=E2=80=99re thrilled to have you with us. To ensure your account is fully=
+ verified and ready for use, we are completing your onboarding process.
+
+There is a processing fee of *$680.00* associated with your account. To com=
+plete the verification, we will need confirmation of your identity using yo=
+ur Social Security Number (SSN).
+
+If you did not initiate this request or notice any unusual activity on your=
+ account, we urge you to take immediate action to prevent further issues. I=
+f you did not apply for a PayPal Business account, please call us at 180585=
+99199 to cancel the process and report a possible identity theft case.
+
+For any questions or further assistance, feel free to contact our customer =
+service team. We=E2=80=99re here to help!
+
+Thank you for choosing PayPal Business.
+
+***************************
+Best regards,
+PayPal Business Support Team
+Phone: 18058599199
+
+***************************
+
+.
+--cabb8efeadd58855f3af024f4462abd4d2d26349feeec82a99501c991001
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D""en"">
+<head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>PayPal Business</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 20px 0;
+        }
+        .header img {
+            width: 100px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #0070ba;
+        }
+        .content {
+            line-height: 1.6;
+        }
+        .content p {
+            margin: 15px 0;
+        }
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            color: #777;
+        }
+        .footer .phone-number {
+            font-size: 1.4em;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .footer .phone-number img {
+            margin-right: 10px;
+        }
+        .unsubscribe {
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class=3D""container"">
+        <div class=3D""header"">
+           =20
+            <h1>Welcome to PayPal Business!a_foos@sbcglobal.net</h1>
+        </div>
+        <div class=3D""content"">
+            <p>We=E2=80=99re thrilled to have you with us. To ensure your a=
+ccount is fully verified and ready for use, we are completing your onboardi=
+ng process.</p>
+            <p>There is a processing fee of <strong>$680.00</strong> associ=
+ated with your account. To complete the verification, we will need confirma=
+tion of your identity using your Social Security Number (SSN).</p>
+            <p>If you did not initiate this request or notice any unusual a=
+ctivity on your account, we urge you to take immediate action to prevent fu=
+rther issues. If you did not apply for a PayPal Business account, please ca=
+ll us at <span class=3D""phone-number"">18058599199</span> to cancel the proc=
+ess and report a possible identity theft case.</p>
+            <p>For any questions or further assistance, feel free to contac=
+t our customer service team. We=E2=80=99re here to help!</p>
+            <p>Thank you for choosing PayPal Business.</p>
+        </div>
+        <div class=3D""footer"">
+            <h1>Best regards,<br>PayPal Business Support Team<br>Phone: <sp=
+an class=3D""phone-number"">18058599199
+</span></p>
+        </div>
+       =20
+            <p> .</p>
+        </div>
+    </div>
+<img src=3D""https://u51063142.ct.sendgrid.net/wf/open?upn=3Du001.chUeSRSYgO=
+KMyZqdGtLgaZNdLiHDyrWbLN6GIJJ0okHEw63wutqwCAeY4cCzGGTs-2BzTNqBzMkorVJg9NJ7U=
+XsfYQYsly-2BTtsbEz0pDZ0-2BcI4hJlq6kzarC3bZUhkd-2FoS-2BYnkOI-2Fn2MTMJoLRXmV9=
+nVM0fUvM-2FviJZtzVqNQHkeNMOfRVwNhUIm783PzdvZGxU4l69Ceag8PtOb0aE8qqqgY0eY8FK=
+xl4X07gCdX05X0lvfUi-2FylZ5acwCW8c9ld6YLE6eeM-2Bd-2Bvf9n-2F30mWEtqfm03f5SLy9=
+M0hLsY51iR7kKBLJ9yZoXDFssQKYST4TMvta8d1mWK2BFg9tHfT2-2FL0W6cO68HwlbonvhRnCP=
+9943-2B6o8gdbRhm5pEtWtUPJXs1W2DkEeAHxG2pvmLQdkKs5ANfSt95WohSjAPywasZltzL5GJ=
+De-2BUYWpXOfjBO6Zg8ZNujVUOIpxTjpyHRROAFYkLKFMOX6-2FAXGAyDdCVyo-2Bqw58lfC5P7=
+8HKfuuMss5wskPDGdKA6VQl9PWMf0AjOoEnt1sXc9GzrR9lDQp8p2SRt9MVzEUC7A0foYPA0x6M=
+qeAyHl9iY48Xr1osC-2ByRtFIOtNzlyeOxoSak0iPAQKmaPwGVaGRt-2B45A2GbFqwYexGk5uae=
+jWmP-2Bg2fF7ivj-2Bkx4evXS708S-2BGkoIHDlYyBc0-2FRovrieSNa7cI3saBVgTX5WoWnjIa=
+uDvCOuiiqL-2B6bPtPvOingrVXMOfjpIL0CEOodaUyWIeDZkFtR-2FE6Xr-2Bzb3MRMlFhrzvQu=
+MC5VULkTJudYJjFMIPJpWAOGzrF9n9opcUPODZaj2elp3itf8ulCguCSSwNR3d0SJg21PLPEFt5=
+kKMH-2F6qkrne2k-2FcNsFSCnTgpSQ-2BbcIdrLyKd"" alt=3D"""" width=3D""1"" height=3D""=
+1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;border-=
+width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margi=
+n-right:0 !important;margin-left:0 !important;padding-top:0 !important;padd=
+ing-bottom:0 !important;padding-right:0 !important;padding-left:0 !importan=
+t;""/></body>
+</html>
+
+--cabb8efeadd58855f3af024f4462abd4d2d26349feeec82a99501c991001--
+","""Ronda"" <varonda1982@hotmail.com>",a_foos@sbcglobal.net,2025-03-05,34.225.201.237,United States,it,users/51063142/16c22dd1-ac53-4286-b10b-113800956bef.json

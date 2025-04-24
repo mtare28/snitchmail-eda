@@ -1,0 +1,583 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50793030,VWk5sglRQC-fwgt89xoXWA.recvd-69cbc48b94-4wm29-1-67BC724F-7.0,cHJvY2Vzc2VkLTUwNzkzMDMwLVZXazVzZ2xSUUMtZndndDg5eG9YV0EtMA,Subscription verification,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=uGGpBlvsZumoKpGaGNBgI27PXOySuFhqYpj0jJc2GP8=;
+	b=urbzHj2ucdAkGklJyrBLOhqsgST3yw3vEEww7WL8Uphjj2ssERUrMyAqJ1LZdeMiay/v
+	RYpJ+NcECXhdlM9Xn1BTpK2nuExsRwPYuOHjYOAihpSQ+pnDsXvPOzGVSbZRAVEdkIOdHW
+	u4UtFGXpJWEiIc+EPP49vZXg1YPi3k1XM=
+Received: by recvd-69cbc48b94-4wm29 with SMTP id recvd-69cbc48b94-4wm29-1-67BC724F-7
+	2025-02-24 13:21:19.151844919 +0000 UTC m=+8783808.357346206
+Received: from NTA3OTMwMzA (unknown)
+	by geopod-ismtpd-38 (SG) with HTTP
+	id VWk5sglRQC-fwgt89xoXWA
+	Mon, 24 Feb 2025 13:21:19.119 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=4bf23a252f49e2260c29ab345e0118587e0f06c5a71bf632b69afaf7c424
+Date: Mon, 24 Feb 2025 13:21:19 +0000 (UTC)
+From: Amanda <amandasmith@akcoldstoragebd.com>
+Mime-Version: 1.0
+Message-ID: <VWk5sglRQC-fwgt89xoXWA@geopod-ismtpd-38>
+Subject: Subscription verification
+Reply-To: amandasmith@akcoldstoragebd.com
+List-Unsubscribe: <https://www.pop.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2ESTJoFx4APQi2E+g=2FSpmWnKgKp8s7x1NmgtWuIHN23baTV=2F6QvLcv5LUQQ?=
+ =?us-ascii?Q?ts96jErIDYMGkQSU4ncuh0Ch3pj+EleSzFLzlRV?=
+ =?us-ascii?Q?9szvCurqvJIsGZwlHHQvoW9liw+MQldily4Cr1h?=
+ =?us-ascii?Q?e5e9LFV3ogjjFxBTikEz23jOEYG=2FqWWQnenZfYG?=
+ =?us-ascii?Q?XNSzZAPeQDbTYr09Sna8ASU7kHXkagW4p8dwQPM?=
+ =?us-ascii?Q?GGqbpiJNn+lt36Yx8PD05Zebwef2Cw4bOh9tbWF?= =?us-ascii?Q?i127?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FWDI=2FiEd?=
+ =?us-ascii?Q?7XMFqppfDKfGUDmZNYbDZL6TVzRrtvg4H=2F4R9a0?=
+ =?us-ascii?Q?ZfAR1x4I2dzAW=2FmZS=2FFB49JlWFzDyDW8T6k1uxX?=
+ =?us-ascii?Q?eCHaZTaM8cuOJGQ8arZWrQTMkkmPe31Sz0sbYvt?=
+ =?us-ascii?Q?NnyNZvWqrgAQRlrlJWwBNcSNnI10XEy1ypPBAcY?=
+ =?us-ascii?Q?yZqOAP5AFPmUmQ2rpd6T4PM2uNSkys=2FTCFtaFdW?=
+ =?us-ascii?Q?ayQhuApRyKZfQIqGWRIn3uU2syjmt9ahLoqst2u?=
+ =?us-ascii?Q?8bVFPkV=2F1W4prmkEjd5uMmFO56GroKnV=2F6GU92T?=
+ =?us-ascii?Q?X=2FdHT6uMkz8kFhCeioBMb1cMZkl2UWJ1efrX6aw?=
+ =?us-ascii?Q?ZwKthYhde3Wr7r9lSnwG0oudxZNZw6=2FmWJ8UfNt?=
+ =?us-ascii?Q?vPSQrHrXNjIrgdjKu94U=2FS8ygfNtRYjZDUVEV=2FG?=
+ =?us-ascii?Q?UGk5V7+O8pL5orpHtqRmHN4wdCa8hGSUh+jtzr8?=
+ =?us-ascii?Q?n5MeDqemPVX5VqwG3aeM8+8EWOqrG=2FG5UNr3MIS?=
+ =?us-ascii?Q?1u3vyaHRgcRFhCHDUiwVwTK0I0mdAMn2plDSPzK?=
+ =?us-ascii?Q?0KDjJl2XbVP3G=2FbBbyb6imLUQZAtWhGbCdfMeGy?=
+ =?us-ascii?Q?A=2FHdQMb9W+eLhua6wSaqB5M?=
+To: jess.sharrow87@outlook.com
+X-Entity-ID: u001.c4EgwDj6C4ic+ZaZaCVh+A==
+
+--4bf23a252f49e2260c29ab345e0118587e0f06c5a71bf632b69afaf7c424
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+*Subscription Receipt*
+Thank you for your subscription!
+*Subscription Details:*
+
+* *Service:* Premium Content Subscription
+* *Subscription ID:* SUBS-8273-2025
+* *Date of Subscription:* February 24, 2025
+* *Billing Period:* Monthly
+* *Amount Paid:* $412.99
+* *Payment Method:* Online
+
+*Subscriber Information:*
+
+* *Email:* jess.sharrow87@outlook.com
+
+*Service Provider Information:*
+
+* *Provider Name:* PornHub
+* *Support Email:* support@pornhub.com ( support@pornhub.com )
+*=20
+
+* *For any queries please contact Cancellation and refunds Team:* 1-843-298=
+-0008
+
+Amanda
+
+amandasmith@akcoldstoragebd.com , Houston , =20
+
+Unsubscribe ( https://www.pop.com ) - Unsubscribe Preferences ( https://www=
+.pop.com )
+--4bf23a252f49e2260c29ab345e0118587e0f06c5a71bf632b69afaf7c424
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""8f7e189d-bb15-4d5c-a2c0-320dba9985e5"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit; text-align: start""><span styl=
+e=3D""color: #222222; font-family: Arial, Helvetica, sans-serif; font-style:=
+ normal; font-variant-ligatures: normal; font-variant-caps: normal; font-we=
+ight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-inde=
+nt: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-s=
+troke-width: 0px; white-space-collapse: collapse; text-wrap-mode: wrap; bac=
+kground-color: rgb(255, 255, 255); text-decoration-thickness: initial; text=
+-decoration-style: initial; text-decoration-color: initial; font-size: 24px=
+""><strong>Subscription Receipt</strong></span></div>
+<div style=3D""font-family: inherit; text-align: start""><span style=3D""color=
+: #222222; font-family: Arial, Helvetica, sans-serif; font-style: normal; f=
+ont-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;=
+ letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; t=
+ext-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-widt=
+h: 0px; white-space-collapse: collapse; text-wrap-mode: wrap; background-co=
+lor: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoratio=
+n-style: initial; text-decoration-color: initial; font-size: 24px"">Thank yo=
+u for your subscription!</span></div>
+<div style=3D""font-family: inherit; text-align: start""><span style=3D""color=
+: #222222; font-family: Arial, Helvetica, sans-serif; font-style: normal; f=
+ont-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;=
+ letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; t=
+ext-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-widt=
+h: 0px; white-space-collapse: collapse; text-wrap-mode: wrap; background-co=
+lor: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoratio=
+n-style: initial; text-decoration-color: initial; font-size: 24px""><strong>=
+Subscription Details:</strong></span></div>
+<ul>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; font-size: 24px""><=
+strong>Service:</strong></span><span style=3D""color: #222222; font-family: =
+Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: n=
+ormal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal;=
+ orphans: 2; text-align: start; text-indent: 0px; text-transform: none; wid=
+ows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-coll=
+apse: collapse; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);=
+ text-decoration-thickness: initial; text-decoration-style: initial; text-d=
+ecoration-color: initial; margin-left: 15px; font-size: 24px"">&nbsp;Premium=
+ Content Subscription</span></li>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; font-size: 24px""><=
+strong>Subscription ID:</strong></span><span style=3D""color: #222222; font-=
+family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-liga=
+tures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing:=
+ normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: n=
+one; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-sp=
+ace-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255, 25=
+5, 255); text-decoration-thickness: initial; text-decoration-style: initial=
+; text-decoration-color: initial; margin-left: 15px; font-size: 24px"">&nbsp=
+;SUBS-8273-2025</span></li>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; font-size: 24px""><=
+strong>Date of Subscription:</strong></span><span style=3D""color: #222222; =
+font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant=
+-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spa=
+cing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfo=
+rm: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whi=
+te-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(25=
+5, 255, 255); text-decoration-thickness: initial; text-decoration-style: in=
+itial; text-decoration-color: initial; margin-left: 15px; font-size: 24px"">=
+&nbsp;February 24, 2025</span></li>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; font-size: 24px""><=
+strong>Billing Period:</strong></span><span style=3D""color: #222222; font-f=
+amily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligat=
+ures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: =
+normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: no=
+ne; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-spa=
+ce-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255, 255=
+, 255); text-decoration-thickness: initial; text-decoration-style: initial;=
+ text-decoration-color: initial; margin-left: 15px; font-size: 24px"">&nbsp;=
+Monthly</span></li>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; font-size: 24px""><=
+strong>Amount Paid:</strong></span><span style=3D""color: #222222; font-fami=
+ly: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligature=
+s: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: nor=
+mal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none;=
+ widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-=
+collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255, 255, 2=
+55); text-decoration-thickness: initial; text-decoration-style: initial; te=
+xt-decoration-color: initial; margin-left: 15px; font-size: 24px"">&nbsp;$41=
+2.99</span></li>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; font-size: 24px""><=
+strong>Payment Method:</strong></span><span style=3D""color: #222222; font-f=
+amily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligat=
+ures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: =
+normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: no=
+ne; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-spa=
+ce-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255, 255=
+, 255); text-decoration-thickness: initial; text-decoration-style: initial;=
+ text-decoration-color: initial; margin-left: 15px; font-size: 24px"">&nbsp;=
+Online</span></li>
+</ul>
+<div style=3D""font-family: inherit; text-align: start""><span style=3D""color=
+: #222222; font-family: Arial, Helvetica, sans-serif; font-style: normal; f=
+ont-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;=
+ letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; t=
+ext-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-widt=
+h: 0px; white-space-collapse: collapse; text-wrap-mode: wrap; background-co=
+lor: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoratio=
+n-style: initial; text-decoration-color: initial; font-size: 24px""><strong>=
+Subscriber Information:</strong></span></div>
+<ul>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; list-style-type: d=
+isc; font-size: 24px""><strong>Email:</strong></span><span style=3D""color: #=
+222222; font-family: Arial, Helvetica, sans-serif; font-style: normal; font=
+-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; le=
+tter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text=
+-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: =
+0px; white-space-collapse: collapse; text-wrap-mode: wrap; background-color=
+: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-s=
+tyle: initial; text-decoration-color: initial; margin-left: 15px; list-styl=
+e-type: disc; font-size: 24px"">&nbsp;jess.sharrow87@outlook.com</span></li>
+</ul>
+<div style=3D""font-family: inherit; text-align: start""><span style=3D""color=
+: #222222; font-family: Arial, Helvetica, sans-serif; font-style: normal; f=
+ont-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400;=
+ letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; t=
+ext-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-widt=
+h: 0px; white-space-collapse: collapse; text-wrap-mode: wrap; background-co=
+lor: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoratio=
+n-style: initial; text-decoration-color: initial; font-size: 24px""><strong>=
+Service Provider Information:</strong></span></div>
+<ul>
+  <li style=3D""margin-left: 15px; color: rgb(34, 34, 34); font-family: Aria=
+l, Helvetica, sans-serif; font-size: 24px""><span style=3D""color: #222222; f=
+ont-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-=
+ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spac=
+ing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transfor=
+m: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; whit=
+e-space-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255=
+, 255, 255); text-decoration-thickness: initial; text-decoration-style: ini=
+tial; text-decoration-color: initial; margin-left: 15px; font-size: 24px""><=
+strong>Provider Name:</strong></span><span style=3D""color: #222222; font-fa=
+mily: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatu=
+res: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: n=
+ormal; orphans: 2; text-align: start; text-indent: 0px; text-transform: non=
+e; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-spac=
+e-collapse: collapse; text-wrap-mode: wrap; background-color: rgb(255, 255,=
+ 255); text-decoration-thickness: initial; text-decoration-style: initial; =
+text-decoration-color: initial; margin-left: 15px; font-size: 24px"">&nbsp;P=
+ornHub</span></li>
+  <li style=3D""margin-left: 15px; font-family: Arial, Helvetica, sans-serif=
+; font-size: 24px""><span style=3D""color: #222222; font-family: Arial, Helve=
+tica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-=
+variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2;=
+ text-align: start; text-indent: 0px; text-transform: none; widows: 2; word=
+-spacing: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: collap=
+se; text-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-decora=
+tion-thickness: initial; text-decoration-style: initial; text-decoration-co=
+lor: initial; margin-left: 15px; font-size: 24px""><strong>Support Email:</s=
+trong></span><span style=3D""color: #222222; font-family: Arial, Helvetica, =
+sans-serif; font-style: normal; font-variant-ligatures: normal; font-varian=
+t-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-=
+align: start; text-indent: 0px; text-transform: none; widows: 2; word-spaci=
+ng: 0px; -webkit-text-stroke-width: 0px; white-space-collapse: collapse; te=
+xt-wrap-mode: wrap; background-color: rgb(255, 255, 255); text-decoration-t=
+hickness: initial; text-decoration-style: initial; text-decoration-color: i=
+nitial; margin-left: 15px; font-size: 24px"">&nbsp;</span><a href=3D""mailto:=
+support@pornhub.com"" title=3D""support@pornhub.com""><span style=3D""color: #1=
+155cc; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-=
+variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; let=
+ter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-=
+transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0=
+px; white-space-collapse: collapse; text-wrap-mode: wrap; background-color:=
+ rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-st=
+yle: initial; text-decoration-color: initial; margin-left: 15px; font-size:=
+ 24px"">support@pornhub.com</span></a></li>
+  <li style=3D""margin-left: 15px""><br></li>
+  <li style=3D""margin-left: 15px; font-size: 24px""><span style=3D""color: #2=
+22222; font-family: Arial, Helvetica, sans-serif; font-style: normal; font-=
+variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; let=
+ter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-=
+transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0=
+px; white-space-collapse: collapse; text-wrap-mode: wrap; background-color:=
+ rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-st=
+yle: initial; text-decoration-color: initial; margin-left: 15px; font-size:=
+ 24px""><strong>For any queries please contact Cancellation and refunds Team=
+:</strong></span><span style=3D""color: #222222; font-family: Verdana; font-=
+style: normal; font-variant-ligatures: normal; font-variant-caps: normal; f=
+ont-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; tex=
+t-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-=
+text-stroke-width: 0px; white-space-collapse: collapse; text-wrap-mode: wra=
+p; background-color: rgb(255, 255, 255); text-decoration-thickness: initial=
+; text-decoration-style: initial; text-decoration-color: initial; margin-le=
+ft: 15px; line-height: 1.5; font-size: 24px""><u>1-843-298-0008</u></span><s=
+pan style=3D""font-size: 24px"">&nbsp;</span></li>
+</ul><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Amanda</p><p style=3D""font-size:12px; line-height:20px;""><span=
+ class=3D""Unsubscribe--senderAddress"">amandasmith@akcoldstoragebd.com</span=
+>, <span class=3D""Unsubscribe--senderCity"">Houston</span>, <span class=3D""U=
+nsubscribe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></s=
+pan></p></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Un=
+subscribe--unsubscribeLink"" href=3D""https://u50793030.ct.sendgrid.net/ls/cl=
+ick?upn=3Du001.dLUTDgDHr3dWfmcWqUxdr-2FoQziMhM3nDAru9lmYcyR0-3DRKyJ_9om7Qa-=
+2B4y7zUtMp8mrHnKnFSJK3E-2Bt-2BITY1zDcA5dM5Q5UdvCnf710k792WHP7qee8bgJPd8kvIA=
+l5wdpXjmAYcsYdRVq4hSvhfp-2BXXu9iV9AavH5nVXbtAcadz4Y-2FhItq-2F1R47hmVA7cW-2B=
+kBeLRF4ml3aNznRPjZR3IunFJQMxzVIzSs4PJzBNBy5NuZJbxYyGjWC4Fsw2NKwdSFOkyti4iRs=
+peXoHKbDfgUw6hnKnkNSjS1ygvcd-2BhTfyr0XAH3mISyEtUqW9kj9l-2BiIxzfehWjhnvicD0-=
+2FAlvJRswYVauHE4egpeI31kpj79OEej-2B7mjiaVu3b7bSB8szq8QiqftPO3YAtBCH6ik8-2Bh=
+3RCbTMv48TNygG5M2PTPEU-2FIzHTG6RgJuOqCuhvATG3ChGevRZgimASNMPRdgDB0pjXz4-2BF=
+rmp2HkXuR-2FE-2Fm-2BYw16aSBLvF7pGp7ZfG7go3XTyThpA3SwVavB7kg3uvuTwyQ-2BkXe64=
+hnMdi-2FRxkKpAqn1SI91X8oTC4-2BP3dfb49vxrrr-2F1AWIGQ3G3F37dSinpvzEgPLTPdut-2=
+BQRHa6k9gXaKv4rvZQw6Op8u6qmO1AimHE5EfGd5gZ-2BIkrykPj-2FFSDpLu0bBXTqR-2F-2Bu=
+yv8jjP1B636gNF80O5-2BN-2Bdwkb908GNoeJZ4Yu30gDDSKiMuR5roRDvSQYYXgLNiXxF3zkUV=
+kS-2F7oACLcLfFms0Zqz3R9uNHnRpznblSoQhYrEZ6E-2FVY-2Ff-2F-2F5CncODMO1ToDuf15j=
+zdAeOj0HLdcSfv3h8KuiytLgpYRwltYzQExWpqREq-2FVWjkqDpuP-2Bpz0R2Hky2AY5bw0bW7J=
+myHWEaBfUdt5IaNsHU-2FUHjc-2FGdgg68wymg6IcTHytLJiMZ-2BF4A5PnH3fMQQ"" target=
+=3D""_blank"" style=3D"""">Unsubscribe</a> - <a href=3D""https://u50793030.ct.se=
+ndgrid.net/ls/click?upn=3Du001.dLUTDgDHr3dWfmcWqUxdr-2FoQziMhM3nDAru9lmYcyR=
+0-3DNH3o_9om7Qa-2B4y7zUtMp8mrHnKnFSJK3E-2Bt-2BITY1zDcA5dM5Q5UdvCnf710k792WH=
+P7qee8bgJPd8kvIAl5wdpXjmAYcsYdRVq4hSvhfp-2BXXu9iV9AavH5nVXbtAcadz4Y-2FhItq-=
+2F1R47hmVA7cW-2BkBeLRF4ml3aNznRPjZR3IunFJQMxzVIzSs4PJzBNBy5NuZJbxYyGjWC4Fsw=
+2NKwdSFOkyti4iRspeXoHKbDfgUw6hnKnkNSjS1ygvcd-2BhTfyr0XAH3mISyEtUqW9kj9l-2Bi=
+IxzfehWjhnvicD0-2FAlvJRswYVauHE4egpeI31kpj79OEej-2B7mjiaVu3b7bSB8szq8QiqftP=
+O3YAtBCH6ik8-2Bh3RCbTMv48TNygG5M2PTPEU-2FIzHTG6RgJuOqCuhvATG3ChGevRZgimASNM=
+PRdgDB0pjXz4-2BFrmp2HkXuR-2FE-2Fm-2BYw16aSBLvF7pGp7ZfG7go3XTyThpA3SwVavB7kg=
+3uvuTwyQ-2BkXe64hnMdi-2FRxkKpAqn1SI91X8oTC4-2BP3dfb49vxrrr-2F1AWIGQ3G3F37dS=
+inpvzEgPLTPdut-2BQRHa6k9gXaKv4rvZQw6Op8u6qmO1AimHE5EfGd5gZ-2BIkrykPj-2FFSDp=
+Lu0bBXTqR-2F-2Buyv8jjP1B636gNF80O5-2BN-2Bdwkb908GNoeJZ4Yu30gDDSKiMuR5roRDvS=
+QYYXgLNiXxF3zkUVkS-2F7oACLcLfFms0Zqz3R9uNHnRpznblSoQhYrEZ6E-2FVY-2FfXbG7IGw=
+iprtJseqshyGVVl1YfGlcrTQkna6txE2CgqOVVt6uDVEwMxAzvu50oR729Ys6Ux2wzhRVrHFBUZ=
+-2FbGQoeFaYOR9rJsmCCMlxl5UaIyAC12MLDKbLpw8D3Ezcmv6qL26JTqyS-2BgTTeoKcI5"" ta=
+rget=3D""_blank"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D"""">Un=
+subscribe Preferences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u50793030.ct.sendgrid.net/wf/open?upn=3Du001.mjNUoh=
+DxTRgO0H3W6kb0klSAZ-2FzFyX7-2Fb5EZK-2BWABDJOb5tJYiQ4Q1DeAjvdIXOkGhuKuqd6Gz9=
+bpzZwTovGnBQYn5LMfecEv8VG-2BdhRq-2BFC1nRuHAcTuSEY4jaXosj-2Fi3N3aAXukPvB7HZV=
+4lDz70e6pxrerGNBjGnlFP-2FvTrokLSwzjXKvP5qQoI6zRaKxiqQ6pbiHSZXbQiyZ2AoxAPNU4=
+TdeNi0TUOVGwWXMgL-2FFMyFYjQ8LJr7y7ipohxflOQNv8PaJ3afiVfaNSCp8HEo0AduArX1BpI=
+mwtIYZ4n5KOE-2BN0Qx4osPVlKAGw-2BSQE2-2FfMGywVYlgUgwNsy9PUVcCwLJ5ytaslN9ud1o=
+mddmMqpdDa5vwQmdNNUxTO-2FcUn-2F7lWg6o6NBLb1AdXGXJJs1wZII3Smtfl6yptFTkertake=
+j0jQiF8fu48bmBg79IR16AH7OpcuMit9TVdTs2h4KAiBKHDc-2Bp7-2FDLmyTu6QzbFH8N5CyZR=
+X670LnceL6GnVuZQEph-2FG78v9wUy2BDy2Q1QSyC1e9b1CxKJpT-2FBPVK70vspuDbI4X4W04V=
+veZ7rcwI3MZmK9-2BaId0bpFxH8w5kV-2FwgcVvtR2QcroJQG2-2BFRe8ndJKX-2B3nM0zOf7aK=
+8y6skGwAMcJZ1UHGVLNparfnOCl1jaYQjpBmLcya7aFFIwS8pFFK3iD-2FClQTXlD2v675ViAWA=
+j7-2BKVigpc-2BjZCjSNtoORLgg4o-2BjZ-2BJHNKceYAkJmeGJ8XWJKs4kb7kw-2FJRPhRjPcb=
+PD9J8T1a9LREE9AaMXoCJcWE4Ftl6pgMQnbbFrWFp2-2FIb-2FeuS-2FxfQ0bxkGkZJEOzyb1-2=
+Bazu17jVqa29ra8rlX8htRjGaLApcA9gB-2B3TSyv-2FpCA65x5C7xr-2B"" alt=3D"""" width=
+=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;""/></body>
+  </html>
+--4bf23a252f49e2260c29ab345e0118587e0f06c5a71bf632b69afaf7c424--
+","""Amanda"" <amandasmith@akcoldstoragebd.com>",jess.sharrow87@outlook.com,2025-02-24,34.225.201.237,United States,en,users/50793030/32c046e1-e7cc-489e-b7a7-ea1610dddce7.json

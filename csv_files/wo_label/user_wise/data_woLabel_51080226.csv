@@ -1,0 +1,202 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51080226,jTe_EOPrTDyM0iap_rqObQ.recvd-69cbc48b94-4z24n-1-67C96027-9.0,cHJvY2Vzc2VkLTUxMDgwMjI2LWpUZV9FT1ByVER5TTBpYXBfcnFPYlEtMA,asd,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nann.campaign-craft.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=79e9znfH0oMTh96qKofieuufZh57BJZzQ85qHd1tcrY=;
+	b=GogwhTDxl6JrpZsb7k/vGtYjsQYZAtompj4hfxiD4aSNUUJcX8nFJcMRZ6aZRYUEXOyv
+	hwKALW1vmC5cMFiM5drz0JOIJfsT9DYyXbRwykIeGJXqWGe7jM6/LVZ4lFXMKUbJ3lfUu6
+	dMNQQKGEKPXIDVvpa+fe9/d5MzwtPFHOReNsqJOMCPNYcT//YGNT/OB6+f1i0yGn3/07Lm
+	cokmyRnJfjzWrXJXffQXVK+uJGtEgG1qXhnx5c8IuMhzAgjt8yphYkJ3vqYI0kYsfu+tEd
+	vgCU9bEbN0TboF4BehBCpr3xBW8JJOfDrMa5TKi6/DUpNBYOrwrDzwIEOgWmAowg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=79e9znfH0oMTh96qKofieuufZh57BJZzQ85qHd1tcrY=;
+	b=k9uPKGasHFWSpGeCnEBHc5Hi6MC7AdNcMlu9bFq8fAYXgHP22C1LKDUHbcvlpu/RtqWb
+	IsKZlsJp4aHJpLQzxpkxw9Gx2Dg3WL1cuDJlpkw7hNjp6MjinmaZGGKkEmFm7W4Yw44NzB
+	VqiZPtMPhASpdZjgoJNas32znLTMq4IuI=
+Received: by recvd-69cbc48b94-4z24n with SMTP id recvd-69cbc48b94-4z24n-1-67C96027-9
+	2025-03-06 08:43:19.147324771 +0000 UTC m=+9631144.448271403
+Received: from NTEwODAyMjY (unknown)
+	by geopod-ismtpd-10 (SG) with HTTP
+	id jTe_EOPrTDyM0iap_rqObQ
+	Thu, 06 Mar 2025 08:43:18.949 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Thu, 06 Mar 2025 08:43:19 +0000 (UTC)
+From: ert <cosmopolitan@nann.campaign-craft.info>
+Mime-Version: 1.0
+Message-ID: <jTe_EOPrTDyM0iap_rqObQ@geopod-ismtpd-10>
+Subject: asd
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E4QVBcT2vNRheXD1kuzjtiEYzq9ARkF30gqyaTLjR8XRR6LrGLjOvKHu9s?=
+ =?us-ascii?Q?YVdIsUDUJcvsAcHMUEhlLrxdBEdEDk1OVhavQ9s?=
+ =?us-ascii?Q?SO6v6LbDh63AVpxR9kT0gLzS1Nzt5DOVdN2OFuv?=
+ =?us-ascii?Q?FSa54S7K9Wrr8FGuRigZbsX9=2FHY56OhhQy7F7T3?=
+ =?us-ascii?Q?tS9IbMAThdE9HnmSODbBgUvTPeLYlF+fZ8l5Uml?=
+ =?us-ascii?Q?g10HHMvcLFWrCgRw0BeRzyBrldJzmsevayinvg3?= =?us-ascii?Q?zh+F?=
+To: marinasingh9700@yahoo.com
+X-Entity-ID: u001.eW4marVbXm4A5VheL9I3Kw==
+
+<!DOCTYPE html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""u=
+rn:schemas-microsoft-com:office:office"" lang=3D""en""><head><title></title><m=
+eta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8""><met=
+a name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1""><!--=
+[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInc=
+h><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><=
+!--><link href=3D""https://fonts.googleapis.com/css?family=3DWork+Sans""=20
+rel=3D""stylesheet"" type=3D""text/css""><link href=3D""https://fonts.googleapis=
+.com/css?family=3DLato"" rel=3D""stylesheet"" type=3D""text/css""><link href=3D""=
+https://fonts.googleapis.com/css2?family=3DRoboto:ital,wght@0,400;0,700;1,4=
+00;1,700&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><link hre=
+f=3D""https://fonts.googleapis.com/css2?family=3DMontserrat:wght@100;400;700=
+;900&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><!--<![endif]=
+--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.image_block div.fullWidth{max-width:100%!important}.mobi=
+le_hide{display:none}.row-content{width:100%!important}.stack .column{width=
+:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;over=
+flow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!imp=
+ortant;max-height:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d>
+<!DOCTYPE html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""u=
+rn:schemas-microsoft-com:office:office"" lang=3D""en""><head><title></title><m=
+eta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8""><met=
+a name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1""><!--=
+[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInc=
+h><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><=
+!--><link href=3D""https://fonts.googleapis.com/css?family=3DWork+Sans""=20
+rel=3D""stylesheet"" type=3D""text/css""><link href=3D""https://fonts.googleapis=
+.com/css?family=3DLato"" rel=3D""stylesheet"" type=3D""text/css""><link href=3D""=
+https://fonts.googleapis.com/css2?family=3DRoboto:ital,wght@0,400;0,700;1,4=
+00;1,700&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><link hre=
+f=3D""https://fonts.googleapis.com/css2?family=3DMontserrat:wght@100;400;700=
+;900&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><!--<![endif]=
+--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.image_block div.fullWidth{max-width:100%!important}.mobi=
+le_hide{display:none}.row-content{width:100%!important}.stack .column{width=
+:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;over=
+flow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!imp=
+ortant;max-height:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d>
+<!DOCTYPE html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""u=
+rn:schemas-microsoft-com:office:office"" lang=3D""en""><head><title></title><m=
+eta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8""><met=
+a name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1""><!--=
+[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInc=
+h><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><=
+!--><link href=3D""https://fonts.googleapis.com/css?family=3DWork+Sans""=20
+rel=3D""stylesheet"" type=3D""text/css""><link href=3D""https://fonts.googleapis=
+.com/css?family=3DLato"" rel=3D""stylesheet"" type=3D""text/css""><link href=3D""=
+https://fonts.googleapis.com/css2?family=3DRoboto:ital,wght@0,400;0,700;1,4=
+00;1,700&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><link hre=
+f=3D""https://fonts.googleapis.com/css2?family=3DMontserrat:wght@100;400;700=
+;900&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><!--<![endif]=
+--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.image_block div.fullWidth{max-width:100%!important}.mobi=
+le_hide{display:none}.row-content{width:100%!important}.stack .column{width=
+:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;over=
+flow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!imp=
+ortant;max-height:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d>
+<!DOCTYPE html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""u=
+rn:schemas-microsoft-com:office:office"" lang=3D""en""><head><title></title><m=
+eta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8""><met=
+a name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1""><!--=
+[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInc=
+h><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><=
+!--><link href=3D""https://fonts.googleapis.com/css?family=3DWork+Sans""=20
+rel=3D""stylesheet"" type=3D""text/css""><link href=3D""https://fonts.googleapis=
+.com/css?family=3DLato"" rel=3D""stylesheet"" type=3D""text/css""><link href=3D""=
+https://fonts.googleapis.com/css2?family=3DRoboto:ital,wght@0,400;0,700;1,4=
+00;1,700&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><link hre=
+f=3D""https://fonts.googleapis.com/css2?family=3DMontserrat:wght@100;400;700=
+;900&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><!--<![endif]=
+--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.image_block div.fullWidth{max-width:100%!important}.mobi=
+le_hide{display:none}.row-content{width:100%!important}.stack .column{width=
+:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;over=
+flow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!imp=
+ortant;max-height:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d>
+<!DOCTYPE html><html xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""u=
+rn:schemas-microsoft-com:office:office"" lang=3D""en""><head><title></title><m=
+eta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8""><met=
+a name=3D""viewport"" content=3D""width=3Ddevice-width,initial-scale=3D1""><!--=
+[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInc=
+h><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><=
+!--><link href=3D""https://fonts.googleapis.com/css?family=3DWork+Sans""=20
+rel=3D""stylesheet"" type=3D""text/css""><link href=3D""https://fonts.googleapis=
+.com/css?family=3DLato"" rel=3D""stylesheet"" type=3D""text/css""><link href=3D""=
+https://fonts.googleapis.com/css2?family=3DRoboto:ital,wght@0,400;0,700;1,4=
+00;1,700&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><link hre=
+f=3D""https://fonts.googleapis.com/css2?family=3DMontserrat:wght@100;400;700=
+;900&amp;display=3Dswap"" rel=3D""stylesheet"" type=3D""text/css""><!--<![endif]=
+--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.image_block div.fullWidth{max-width:100%!important}.mobi=
+le_hide{display:none}.row-content{width:100%!important}.stack .column{width=
+:100%;display:block}.mobile_hide{min-height:0;max-height:0;max-width:0;over=
+flow:hidden;font-size:0}.desktop_hide,.desktop_hide table{display:table!imp=
+ortant;max-height:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d>
+
+<body>
+        <p style=3D""text-align: center;"">
+            <ahref=3D""http://loanbc.site/924d48b8db4f67ba3f60/a77414576681a=
+dca3d"" target=3D""_blank""><img alt=3D""IMG"" src=3D""https://assets.unlayer.com=
+/projects/266585/1741069190308-barish003.png"" style=3D""width: 484px; height=
+: 865px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://theraportal.site/e00cbb5ff441f27cb9ad/f775ecd=
+1d74b901745"" target=3D""_blank""><img alt=3D""IMG"" src=3D""https://assets.unlay=
+er.com/projects/266585/1741069202313-barish5.png"" style=3D""width: 484px; he=
+ight: 217px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://theraportal.site/e00cbb5ff441f27cb9ad/f775ecd=
+1d74b901745un"" target=3D""_blank""><img alt=3D""IMG"" src=3D""https://assets.unl=
+ayer.com/projects/266585/1741069221952-unnamed (1).png"" style=3D""width: 484=
+px; height: 79px;"" /></a></p>
+    <img src=3D""https://u51080226.ct.sendgrid.net/wf/open?upn=3Du001.EStn6m=
+H3WRipCtEH6C3-2FMHG13ioHfXd5cuJ2OH9GOLQw-2BO8gbZDcBHJfOaax5BrhFW0-2FcQFQ3Uu=
+Gonsrb1GiZ4wFztjPjvb3IBRtYTDnc3-2BnSgCYbMaTuSIwlFKUVm2qF35r4eNXdageA-2B6Co7=
+tR5xMcMK8-2BDi58zSWDjLdzSfClIsf-2BpIG2HsWmDlXV72yjiY7wqa6MuHPmnK2sjy7l0myQO=
+IbSo6-2Blkx-2FOYwdEwNA-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""ert"" <cosmopolitan@nann.campaign-craft.info>",marinasingh9700@yahoo.com,2025-03-06,167.86.115.243,Germany,pt,users/51080226/50de3958-1ac3-463d-adb7-bcc3dc5c5653.json

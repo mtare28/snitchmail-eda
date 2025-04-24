@@ -1,0 +1,62 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50875331,GVypO634TkGXc30VR64VCQ.recvd-69cbc48b94-cc5f7-1-67BEB1CC-2.0,cHJvY2Vzc2VkLTUwODc1MzMxLUdWeXBPNjM0VGtHWGMzMFZSNjRWQ1EtMA,f,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yjd.roadhelpers.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=jSp6hA0ICaYwhC+sGMevqWMEdX+1Kb6KjFHo+tQuB3Y=;
+	b=i03Py0K4X6QpJ2kzxrheopPwC2FWYNZNdD0spoGGA1fX42PgxPWH+l3T/q87eLOXfmb3
+	zH3Bbl8NqlriTv5EW56dZbHAUbU6FupDVDeF14B6KkwrcbCqK8/5X0M/i/gEWhPOO0SOj8
+	Sq6FM/1qTCuyJTiAU7XBrvHlQgCsp/BX3b8Ap+7ge8cVJPUunCCmvjTqCwSMdTaf5dUrPb
+	NPFdEivp6A6rTRESOLfEKgwBp1ShXQg32HBMlWBA2xCeHX7FCq3un6OeDV306IE5AOM/K6
+	ZvNAYU4YbHyUULnJ7ot4jyGgTOnccQUrZL/jFiFToMSDdQs96HPhxZtmhU02WCHQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=jSp6hA0ICaYwhC+sGMevqWMEdX+1Kb6KjFHo+tQuB3Y=;
+	b=HCO6ie0sTHHgl4671wbTN8BPh4Hd9r9SuMU8JWZBmRfM2kE+ooQ6h6ZzIVaTPyqdvisU
+	4z4v8YsX/qUcp7fPFdUQ3wnysAo4YRUquf9AJQi9Rlv2hIioHGUh5+378ppxeDCz1mSKjg
+	gviNqJhAGVVthhltSdVlN7My/cZFSN6Js=
+Received: by recvd-69cbc48b94-cc5f7 with SMTP id recvd-69cbc48b94-cc5f7-1-67BEB1CC-2
+	2025-02-26 06:16:44.099332818 +0000 UTC m=+8931141.379087057
+Received: from NTA4NzUzMzE (unknown)
+	by geopod-ismtpd-9 (SG) with HTTP
+	id GVypO634TkGXc30VR64VCQ
+	Wed, 26 Feb 2025 06:16:43.760 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Wed, 26 Feb 2025 06:16:44 +0000 (UTC)
+From: f <brands@yjd.roadhelpers.info>
+Mime-Version: 1.0
+Message-ID: <GVypO634TkGXc30VR64VCQ@geopod-ismtpd-9>
+Subject: f
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EoBz69TcgK6y6UXSPGhU1ygNWo5wayNJkH+kkU+1In0Vm2svmUF7cT7wq9?=
+ =?us-ascii?Q?gzyFCfdWDBpoZN+ff14XhbEotT6RlzK3nbvYj9T?=
+ =?us-ascii?Q?0jS2ZGIxasieuUDJcwnTo9hUTy2RVyZOf9xPHcX?=
+ =?us-ascii?Q?LlRjmLtmOuGR=2F=2F=2FL2Jk=2FnEQ0B5jrZPtkig3zgea?=
+ =?us-ascii?Q?l4b5dQ+0O2taLAbvVDePNyKko5PYao4YoGU3WOP?=
+ =?us-ascii?Q?t23S+EWvNM4F9eifkzJgRI=3D?=
+To: krrishnam18@yahoo.com
+X-Entity-ID: u001.0EsH8R8GObYHnMWzjUJwqA==
+
+
+
+<body>
+        <p style=3D""text-align: center;"">
+            <a href=3D""http://loanbc.site/47df3265c45645127c4d/410c1b6855c9=
+e6104f"" target=3D""_blank""><img alt=3D""img"" src=3D""https://assets.unlayer.co=
+m/projects/264875/1740485997626-Screenshot 2025-02-25 174153.png"" style=3D""=
+width: 397px; height: 607px;"" /></a></p>
+        <p style=3D""text-align: center;"">
+            <img alt=3D""unsub"" src=3D""https://assets.unlayer.com/projects/2=
+64875/1740287356069-unnamed (1).png"" style=3D""width: 400px; height: 66px;"" =
+/></p>
+    <img src=3D""https://u50875331.ct.sendgrid.net/wf/open?upn=3Du001.g5ZWTL=
+pIU4MmPBUuYI-2FNiAUF97pQIUoDG1ne71FbhLi-2BN3ip0WaKEkfyPytABd53vesNhOoivKjPO=
+y1zOq6TAByggArkmnUiVF-2B81P6hmbNPrdv46t7WHnG1F1uUsJlHSvPCnaErCKy19torGyvKr2=
+SUdka1Cx4jR-2FTWMbx3In-2FecmrUeNZVM6ahc8EjYamF7qajZndFupNvnY8bq1Fl9A-3D-3D""=
+ alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !import=
+ant;width:1px !important;border-width:0 !important;margin-top:0 !important;=
+margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !importa=
+nt;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !im=
+portant;padding-left:0 !important;""/></body>
+</html>","""f"" <brands@yjd.roadhelpers.info>",krrishnam18@yahoo.com,2025-02-26,62.171.158.57,Germany,da,users/50875331/095ce5e8-bec0-44a7-8c19-e80d19949f9c.json

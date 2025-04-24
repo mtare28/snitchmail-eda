@@ -1,0 +1,493 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+48080848,lAjyh3gsSNSsjFxVJI8mwQ.recvd-8575c86f9d-b5hl2-1-67EDE59A-25.27,cHJvY2Vzc2VkLTQ4MDgwODQ4LWxBanloM2dzU05Tc2pGeFZKSThtd1EtMjc,Review: Monthly Report for March.,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=luckygardeny.com;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=s1; bh=6CWHCyuKD4096P5NdkrAQf3HNCI9cdLI5iirNEhLQlE=;
+	b=ks8qrPP5cs1Utp4XuJnryKmjvV92U6MCc2FxU+DQK7r/Ntc8wCGswIHiwPyP9ii+SI0G
+	f44ix7aKs3yWoKhTcT+u+0xtxxsXjSY2M4kksr6phpozQpgPLrEcyekE4ovdY2mXwjyjsA
+	nBNWn7zr8jS1MWfqWNz+P4vJxloTm+gZBPOtplG6eSGwwYlcF2yN5tA04WMLggwYP16SdK
+	AR//6xp3u6yl9qa46Vme823yRV8sZG/3JGjZg2SISs7CjrX5sO5UVyrLkFk7vNL5yMbXkD
+	uV2Zf4mkvTftwxS70iZophepFGM1W/ieYyz/v6uzbqwU0YkbfyjKsieELbcq4RjA==
+Received: by recvd-8575c86f9d-b5hl2 with SMTP id recvd-8575c86f9d-b5hl2-1-67EDE59A-25
+	2025-04-03 01:34:18.550918689 +0000 UTC m=+12024776.291601373
+Received: from NDgwODA4NDg (unknown)
+	by geopod-ismtpd-8 (SG) with HTTP
+	id lAjyh3gsSNSsjFxVJI8mwQ
+	Thu, 03 Apr 2025 01:34:18.537 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=89db5335f91711dcdb06d61c3f7e8c9f8d1ab4c0dcc85d264db332392e08
+Date: Thu, 03 Apr 2025 01:34:19 +0000 (UTC)
+From: Sales <sales@luckygardeny.com>
+Mime-Version: 1.0
+Message-ID: <lAjyh3gsSNSsjFxVJI8mwQ@geopod-ismtpd-8>
+Subject: Review: Monthly Report for March.
+Reply-To: sales@luckygardeny.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EboJC1TVRtR+yPBW1qM6hz5jEHESL6fdZ6K5brdY0nw6nWZeNcUM4aO1Ck?=
+ =?us-ascii?Q?iWvyrxPmzNm3fXu8T7vKWz1uivp1GZlBAM96r9I?=
+ =?us-ascii?Q?qrMaykEToHijSpj4+8c2+yGzqMYMnhRrMavVW6d?=
+ =?us-ascii?Q?XqLY6bbM1=2FH1PG6J5ZdKPGqSfIih3R1V1JFo1s7?=
+ =?us-ascii?Q?I6NwqFSxJrkeIrNeMylyyQkLB4jRp=2Fsz7swdmug?=
+ =?us-ascii?Q?r0AO3xo=2FCTY3dLckJDXCJE=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfQo4TAI1M4=2FG8KlhdEVVw0VMaz?=
+ =?us-ascii?Q?pETlF4OvyWCq2qGq2zTq4vCmGKNOKRyba8L44TB?=
+ =?us-ascii?Q?D1NKZkeMBgatm+7jz9gZoGj0LpXz2=2FnS95CO=2FeI?=
+ =?us-ascii?Q?PuR2xu6Js6jmEULakTwifSR5pvpLTv9UAUQ75lR?=
+ =?us-ascii?Q?9aBi4An4vzN9pq2vO2dmlpwnR0MO+6IY1joH3yT?=
+ =?us-ascii?Q?gqoP1zg1cAKuDnbaX0CNxVC=2F6GD8WzjCXhod1tN?=
+ =?us-ascii?Q?+vikj4ad9aubsJyHd3gIiOyU1v1A7jlV8wi+hET?=
+ =?us-ascii?Q?g75xJb3IhtWOD9qxgZgWMX3hX3Vls8hNOYAswfA?=
+ =?us-ascii?Q?qs9zebbc1nTOaMoJiLnwK1Q79ORCDjOU7hEGI+c?=
+ =?us-ascii?Q?03owsrK61uTWtE=2FY6g2gqhBB2QmcCzWeRxQ4m7+?=
+ =?us-ascii?Q?x7rx0vzQHO2UPq2877QLbFmODUYi2VjD+Id4MLq?=
+ =?us-ascii?Q?uqK56xBAfhh2WKLGtYXhWGafnHWD6q4DW+uU0P9?=
+ =?us-ascii?Q?ksPk2+M7p5jX3NysdDXZZY2Ztj6E9MDbt5KbJHk?=
+ =?us-ascii?Q?tX85CE08dRE=2F4g=2Fa+l2=2FnGHmmjONDevNoP7bt0q?=
+ =?us-ascii?Q?bXz27OtbKN1Kon=2FEYecBsSi8fNa5XdWr6z=2FFHUv?=
+ =?us-ascii?Q?8nGX4JIawJeg53E7xSzgQA5G4UaG5+aPFTzrJj8?=
+ =?us-ascii?Q?6RbaTfXUV?=
+To: psp457@bangor.ac.uk
+X-Entity-ID: u001.4ccoN9XTdnVPyZejyBfQcg==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu48080848=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EiMJi?=
+ =?us-ascii?Q?3x2KPiWzcCAcpTabmwX5PKoJpb0G8V3rypx2Jrf?=
+ =?us-ascii?Q?9ZRDeB=5FC=5F4dOmOziXxYaD63RW0iIDgXeayjvhmO?=
+ =?us-ascii?Q?AX7r0UFWY3AY0ZRgoxw7fP3L9FsbPLcLSoJPoSy?=
+ =?us-ascii?Q?nL4Q2f6xitAe5lVAlwZs1cHnWdSsjdhV0jMJquv?=
+ =?us-ascii?Q?tjEsRa-kIpKTQrt=5FRTYUkZtQlysGj7s-aF2SW-u?=
+ =?us-ascii?Q?-2gACrGHbAfAmhQsYFwfh1T62iY5RQs2ZAOt=5FKI?=
+ =?us-ascii?Q?qUBZjmoChfYlzJf6NnH67hVaqs=5FRKNSGGodaOPq?=
+ =?us-ascii?Q?aDZ8U6PlSXTLRDBFeH5uAPIceD01CyzE2ORaFsN?=
+ =?us-ascii?Q?SusUe4bED07rBaBiBcNFSWxUMkCnZiB5Jtk3Jl5?=
+ =?us-ascii?Q?7mfMpVFHKY9Hpf=5FLQIXAek0yzpjJefz7CmYHAy=5F?=
+ =?us-ascii?Q?Yv612GPfB18RwpYrd9DgLnA9Kc8Jq5F21jsC6Gc?=
+ =?us-ascii?Q?QFVaVpzpH31HkV21BuhJM5ejIA3UnPni-oUUDzk?=
+ =?us-ascii?Q?Q=5F5UEXJ7Cp2yf6qHXZ4xB4tU6xEF9eAtIeqlSsH?=
+ =?us-ascii?Q?c6EgKqlRtL=5F4rnlAlyA1wI25WvYDH3yPx6AARxM?=
+ =?us-ascii?Q?bNuchUCgxzlmJnxOVIl91gSd6YvVaeYwe9fLip2?=
+ =?us-ascii?Q?Z3apRIbbqNypf798CUNaDIqUCtBd2y6dRTYsjWS?=
+ =?us-ascii?Q?EAWUKUlfFx6X0j0HuHyI5ZFdKIigKeCIGJR0caF?=
+ =?us-ascii?Q?YMojjSbFeYNXhgJQtQ8CB2RbsHPObFtNFy-h5pl?=
+ =?us-ascii?Q?a8fFmU0VW--C4GJJrbCFseZhlhb1fhmdBoTmF9h?=
+ =?us-ascii?Q?3RY57vHD0iWJX26ArDiSDBu-zt1i3k1ojOQHiMa?=
+ =?us-ascii?Q?=5FS=5FLLBjguGNiiEt54dJlGX0VxN3NX2TwiCG1Dik?=
+ =?us-ascii?Q?=5FBmTKrJFpdOJqK05CJzP3sOzWXtsf4Rd5aH63aX?=
+ =?us-ascii?Q?gjHjhJTW3ldExypecESfPTCNSqEYtRm8Zm3Oo63?=
+ =?us-ascii?Q?AXlm-xdfgRzemwCqz8GV5jhG3uQx2Q1yGanw7T4?=
+ =?us-ascii?Q?NK11B-kV2fcYrZp3JtjJHrsues659pzbou=5FdznR?=
+ =?us-ascii?Q?oRZXOE2aePZOHSd5AtasYNw=5FmeTGIpbw=5F3PLWQA?=
+ =?us-ascii?Q?sorVW3BKCgVd0aydNPX3aiIdmolSZK-iKhtse3V?=
+ =?us-ascii?Q?ChMGepTFvnD=5FPlr7zBw5FuRt4iNM4QY2ULyG2IG?=
+ =?us-ascii?Q?QznoL1vXfiWzg40JquMJzjQEkeHfjnz9fPfc=5FEh?=
+ =?us-ascii?Q?JzWTpcV3pP-O-h=5F0LA2e6lvpbdGbH31HnGtscwe?=
+ =?us-ascii?Q?X6vjfTJujjYE8Umrh7cC4t1KS4tRW=5FjnwJbwOu2?=
+ =?us-ascii?Q?=5FOa9dPjSULWtRsd54e-lNIwYAxYZA6M3xe3wLjr?=
+ =?us-ascii?Q?Hzs0Z2z5sOdc=5FJ901PvNBwjF1k81PSp1ugQaJ=5FC?=
+ =?us-ascii?Q?b2AN-rtVELQAJQMgQghQPwNibgrKUtBgdkzJenM?=
+ =?us-ascii?Q?ey=5FvUabzQsJEBoibj5d6NgyLujVjHqNiovlRg2j?=
+ =?us-ascii?Q?zXf1eTIvfKXLUDtfjXON6hcX5CyxrEe-2HdzrvN?=
+ =?us-ascii?Q?G3zSwjMRp0whMY0aFeodPvWa5H4FLMNnkLlR9MC?=
+ =?us-ascii?Q?tJMPKgESFuHCTBBAlf-5cMfmlMkmgSwbs2Xbmb5?=
+ =?us-ascii?Q?CtWt0UNhWdvSq569Hn6ROjJx8JeqoSVGRHmShKQ?=
+ =?us-ascii?Q?znNc1FeU7mZX3FmQ=5Fry5Lb3L=5FyRIkXvnqDOjJoq?=
+ =?us-ascii?Q?BB=5FFWc40QMuFAOYLkpZjpcG8D30CENUX203OQCX?=
+ =?us-ascii?Q?h8c5ttSmws37AzDfHRK=5Fl2GzXI0O-SK4CRWwr7F?=
+ =?us-ascii?Q?hvRpRFNXR0uY1GYVk0xsIy=3E=2C=3Cmailto=3Aunsubsc?=
+ =?us-ascii?Q?ribe=40em4960=2Eluckygardeny=2Ecom=3Fsubject=3D48?=
+ =?us-ascii?Q?080848=2EMg9vOOuHCyy0kh9enOtbPnhFLOu0LDwh?=
+ =?us-ascii?Q?O8UrnwO25b9oMDAwdTAwMACUE2GuRndHeutEt1L?=
+ =?us-ascii?Q?0INup-=5FVAkpsWwM3yjlAA85urDBqJfLx6wahJ2j?=
+ =?us-ascii?Q?-iNN=5FB8-B-0txDy=5FPrQud6sSxktCYglN7y-qETZ?=
+ =?us-ascii?Q?GUGfUHZxwsZaRAMNrlNvvcUzltPsu=5FcZA=3D=3D=2ErN4?=
+ =?us-ascii?Q?EZDFjDWCxmUZzvSeEKvIRdLGWd13oyHDzl=5FsP3Y?=
+ =?us-ascii?Q?VoMDAwdTAwMIHon7znjJPvfMam2O1OhAbcOhZiI?=
+ =?us-ascii?Q?HS1ADoTY1E06E6l2XYjFJ5XyH=5FfvdJUTns5qyzP?=
+ =?us-ascii?Q?3fdNJpm6Aj2Tdq7R1FT7rbzkXH0s-D3Ti8ugbvq?=
+ =?us-ascii?Q?3O=5FtEdleRREf5TkVtT6vE8fJZOw84eKmOb9PAx2?=
+ =?us-ascii?Q?aepSqsYnAhSp9rQUT021Ihk-GN5pUmAarKh4dXo?=
+ =?us-ascii?Q?pmB5fSYM=5FIsSSj0OITgmZC7FB3GaEEGg2C1x78t?=
+ =?us-ascii?Q?MVNVZ4G9-ZLfMgs6wSdXAqVR-ijZqgutVZ4HmAX?=
+ =?us-ascii?Q?QNHLsCKW8HM4sPKKXWDA-hVtO0gjGfBiNFoAMdB?=
+ =?us-ascii?Q?lMBmLJoabeSWcn1T9VxWehtklnEuuJ1COQvg3Ri?=
+ =?us-ascii?Q?NWn1RNlAETqaJJ6yg0Gs0T6kKdI16GXD8l5X7b0?=
+ =?us-ascii?Q?Je0giYfa7E2Ak1D-86b-1VvNy6eZ9bcRBafj6Wm?=
+ =?us-ascii?Q?1jiyUBoj50D=5F2MC-Yn5ai4qQ=5FrwFo3r8yr2AWMX?=
+ =?us-ascii?Q?FzzqqUmdF59GnrZqfHDBIOzGDOOn-L8eqnTUReS?=
+ =?us-ascii?Q?D5Q53E=5FX7wop3I0LImoMBfs2sL-Vu-YbY42dieR?=
+ =?us-ascii?Q?DvQW0GyRUfRUNyGLq=5FbMKwJsjkp-ORpEKLDm-l=5F?=
+ =?us-ascii?Q?j3hMLQoJS1eKTymS6iZbXfS0lmBYOoBUCKQgPK7?=
+ =?us-ascii?Q?8C2doHT-Uv9NBqzn6sTsQwZZ9zcbK1Iza2gKVuv?=
+ =?us-ascii?Q?ZK2dTKtaHC6Spjb--U8TKSk=5FcdsM=5Foc=5Fu4ksLBn?=
+ =?us-ascii?Q?w1NApwn1RjKs-hm9xNc-nkhS4i9qNbjnaaAn2ow?=
+ =?us-ascii?Q?tfR=5FsP4TJnM1sJcHPTFCVSEpgQWLLuvliRA7nat?=
+ =?us-ascii?Q?3fUBLxG6ZIVbYTQXng2Lgesp2Pj940dPy0DeMnL?=
+ =?us-ascii?Q?nj1CsuL5CBqgbWfvr-7Zacm8N=5Fbd8ILZuGJYcKu?=
+ =?us-ascii?Q?tUuh-lZvk7xS8CIqVsOztFqBsAhk5Ydge9TwwbZ?=
+ =?us-ascii?Q?m4zdq4s0NEfid0KCZ8raFfabcqk2S4JJEAjUcHl?=
+ =?us-ascii?Q?3-gMF5YU7WO1sM=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--89db5335f91711dcdb06d61c3f7e8c9f8d1ab4c0dcc85d264db332392e08
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+********************
+Monthly Excel Report
+********************
+
+Dear psp457@bangor.ac.uk,
+
+Please find below the latest report for your reference:
+
+Department Q1 Performance Q2 Performance Q3 Performance Q4 Performance Sale=
+s 85% 90% 92% 88% Marketing 78% 83% 85% 80% Operations 92% 89% 94% 91%
+
+For further details, please refer to the attached Excel report.
+
+View Full Report ( https://excel-parallelogram.vercel.app/?web=3Dpsp457@ban=
+gor.ac.uk )
+
+Thank you for your attention.
+Best regards,
+
+*psp457@bangor.ac.uk*
+
+Unsubscribe ( https://u48080848.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+48080848&data=3DgHgfJRLCgO4927YzvXqmVMdD_Eni6lgow-0HI-QP6q9oMDAwdTAwMEziFrC=
+T_kt-NgDHuSAz1qa89qpn3GDp6ySwCqQvKXx_ji2rKQCBzy3_e5tGPmDra-aFtHgK7q5TSkSLfu=
+es9yz90C-JEwj6b2gaf69oeDDhZ9tkmvKxeMfPo7A7iAZFw5m21CJU5d_pNhgweVphlkub7tChA=
+AJQfPR2teigjfxm8S-09eKJy7zcqwBlpXqhJj5Ck8iFo8WjLuGxjgjIfxH23huNnA7iRUj8MTR3=
+jPdqQPWOPA7vZO_HiqRY-tf86_eEeHAMM2RGZWCgyVP2FIBsKuzuXqk1hZsjwa6_A8ZYKffMilp=
+2vB0E9MaDaCoeTrWQcFxk0cCztHeqQ1xOuzQi91VTfxcx9DAaqrhXlSXrGtqCkrQ4NA3bxtrQc9=
+fj-GFdAj02-nkRM9NaEkmKreVKPz9wAzpG91Fx_ptWxVzdePyPza6PGTB6chaHtbOH4Uwic940w=
+QDlKDxQgjVsqnFtWSsH5xNYK7VhnGfXdQ9aTYLWvaGWrMb928ylwnh-ZmetPORClh0h6VX-Rcm_=
+1TqqVjKwSdY0JJUMujUGOisYjQEeMH-ZtVnz2Y3sGSvwP5cNDC4HEO7P7vITJVY2Rx1nVzBwtPV=
+dMp9sX9g35mNQXgQYO_ijJ463zhRel3ZHQlUVQB6ll8DX6k-Uv3QfVrXhQjvyd_KFOo3DSgSjvl=
+S6t5oXFsiBP99lbizB5TlIc7jIOtfitEs75-5ZsGpEug7EAgcqdZLhU3BHDEo8PtSsQn-RSOZCp=
+Ut7ymnmx07sQRJ-wp9EhOQgC4JxaV-zF0ZT4Nz8V0hXaQOGNJ-bxuVL3W-QyTN1QUEs3ZsDI0mk=
+PnvY0scL_BVdx2Ir7Hv0zemM6BdrM6lK0AUyvHHCi4rLQOoUmkXRXbjKNzLOQFAQwXazsVPD9Oy=
+wpnTISdZWOZ_Ds-RjhG7lb_rQ7OIMEkEo9tzfhrIN_LvNLGdfQ4sC-Zv5gW9EfeiEJV9wNqGGqz=
+bfKVcb1Y7WYMLJs5aQIod_ilZlBKYByftSwrGbT9wiQ-sTAAScWQhjvhJqfcEAcXyWOGmmk_kp-=
+fHAg76ef-ifXgHPec1RGuh7Os6-bIi059CmrksuMBJe1jRudKQOYgE=3D ) - Unsubscribe P=
+references ( https://u48080848.ct.sendgrid.net/asm/?user_id=3D48080848&data=
+=3Dx6d_Qc6YH4YtyMlWfe3kYQ-SVRpxaDLuf-xor2MWY6loMDAwdTAwMFJcstcAX_BH14kuJrZY=
+8ARqBJHIkLHR-oonVVpKdNwPm902cL0ApRzBiww3GyFN_hsHZGT3pFjqHHKYzkv3u8YkwGFKPbj=
+_IbU_0ypENTWiKtAX2HwWG9fj9iMUqoYbjcpQTNUacuxQJiidnVU1cUosiexYmy99pWfXCINM1w=
+hAdBXUEElV0tBLdsH2N2h420FcBoRvccRbtqLL20w3RyO5uAPqv1UwjjnGLcx7Y1kV6FcZHFpOA=
+EhYLDzXyggELSQJ0fEmjwjWGgCpR6UmxLnqmepGrl_BHYoZOxKoUhjHEByY3NaT5xhbPzzt_d0A=
+Bjp3kG0ZYkQtd-bYdTj_JArTVSxgFh4xf_bm7dI6IKcpngEDKyEkLcgRGeQIQENfvlZ0VpHVkIq=
+BkegPcjh4xIyciLnRjMonb4JBGyHzlcQxEpX3B30BHr3EkqW-yVsREjSN_s8hydsxFofjsICZI6=
+Nwmg7JM3OEmxAg8QNyhnnQH_9dALOJoNrZH_09wvoSKn3RP7jDGlzSmg7zBTaKLTW6GUryZYoDd=
+XtpP6HnE5Cl2_eBcArqUvNCS-87PkOnTFuz9wASI3tFCmUfBYLfc-UpExKlUnHHYQFo_MGhkbh7=
+1vJG_w3SWVaC6-yXXL2gILgYXjlEyo6LP1xuTQ6kgaUjG1Quvt5geWpkmiI6Dbzo40g1XsaRlxc=
+VkK_MLHmJFO9x4NnCRU3qD1rNrhGumWESahCtj_GdId0KBazYsPBDcLsHGvE-qwOWMVK_E0nUe7=
+Nzjr3o-9vwWLd9hRRQ3v6TsIJfyGXuoYgx1gApwRJm5Rn89mACFZs2aPz0hYgtX8htOuVsFA-AV=
+81UiIkF0bhWSReRVPvrRIb8HxE-SyvG0EaFfPTcRkg6cvlAegr00fyQNOdxDVtqMlX89mi3S8aT=
+AoRqikGgAaBHbl0BGMuhQ7oqPGhutBmntmRyqOIn1zrzhviQraQiBfsVTwwsUy0_x6dHFlfGEKa=
+I9mMVgfhDRy3a9-xQ8_PV-VMA56rPnE58EGzLPNQ3_sH-ZfeGrG6PBnpg3-cUFY-8ORs-D4sjvH=
+xpTuUCZQlCoRFSrKPpTBvl4LgQ56TYyPJuCS3bs0E=3D )
+
+Unsubscribe ( https://u48080848.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+48080848&data=3DgHgfJRLCgO4927YzvXqmVMdD_Eni6lgow-0HI-QP6q9oMDAwdTAwMEziFrC=
+T_kt-NgDHuSAz1qa89qpn3GDp6ySwCqQvKXx_ji2rKQCBzy3_e5tGPmDra-aFtHgK7q5TSkSLfu=
+es9yz90C-JEwj6b2gaf69oeDDhZ9tkmvKxeMfPo7A7iAZFw5m21CJU5d_pNhgweVphlkub7tChA=
+AJQfPR2teigjfxm8S-09eKJy7zcqwBlpXqhJj5Ck8iFo8WjLuGxjgjIfxH23huNnA7iRUj8MTR3=
+jPdqQPWOPA7vZO_HiqRY-tf86_eEeHAMM2RGZWCgyVP2FIBsKuzuXqk1hZsjwa6_A8ZYKffMilp=
+2vB0E9MaDaCoeTrWQcFxk0cCztHeqQ1xOuzQi91VTfxcx9DAaqrhXlSXrGtqCkrQ4NA3bxtrQc9=
+fj-GFdAj02-nkRM9NaEkmKreVKPz9wAzpG91Fx_ptWxVzdePyPza6PGTB6chaHtbOH4Uwic940w=
+QDlKDxQgjVsqnFtWSsH5xNYK7VhnGfXdQ9aTYLWvaGWrMb928ylwnh-ZmetPORClh0h6VX-Rcm_=
+1TqqVjKwSdY0JJUMujUGOisYjQEeMH-ZtVnz2Y3sGSvwP5cNDC4HEO7P7vITJVY2Rx1nVzBwtPV=
+dMp9sX9g35mNQXgQYO_ijJ463zhRel3ZHQlUVQB6ll8DX6k-Uv3QfVrXhQjvyd_KFOo3DSgSjvl=
+S6t5oXFsiBP99lbizB5TlIc7jIOtfitEs75-5ZsGpEug7EAgcqdZLhU3BHDEo8PtSsQn-RSOZCp=
+Ut7ymnmx07sQRJ-wp9EhOQgC4JxaV-zF0ZT4Nz8V0hXaQOGNJ-bxuVL3W-QyTN1QUEs3ZsDI0mk=
+PnvY0scL_BVdx2Ir7Hv0zemM6BdrM6lK0AUyvHHCi4rLQOoUmkXRXbjKNzLOQFAQwXazsVPD9Oy=
+wpnTISdZWOZ_Ds-RjhG7lb_rQ7OIMEkEo9tzfhrIN_LvNLGdfQ4sC-Zv5gW9EfeiEJV9wNqGGqz=
+bfKVcb1Y7WYMLJs5aQIod_ilZlBKYByftSwrGbT9wiQ-sTAAScWQhjvhJqfcEAcXyWOGmmk_kp-=
+fHAg76ef-ifXgHPec1RGuh7Os6-bIi059CmrksuMBJe1jRudKQOYgE=3D ) - Unsubscribe P=
+references ( https://u48080848.ct.sendgrid.net/asm/?user_id=3D48080848&data=
+=3Dx6d_Qc6YH4YtyMlWfe3kYQ-SVRpxaDLuf-xor2MWY6loMDAwdTAwMFJcstcAX_BH14kuJrZY=
+8ARqBJHIkLHR-oonVVpKdNwPm902cL0ApRzBiww3GyFN_hsHZGT3pFjqHHKYzkv3u8YkwGFKPbj=
+_IbU_0ypENTWiKtAX2HwWG9fj9iMUqoYbjcpQTNUacuxQJiidnVU1cUosiexYmy99pWfXCINM1w=
+hAdBXUEElV0tBLdsH2N2h420FcBoRvccRbtqLL20w3RyO5uAPqv1UwjjnGLcx7Y1kV6FcZHFpOA=
+EhYLDzXyggELSQJ0fEmjwjWGgCpR6UmxLnqmepGrl_BHYoZOxKoUhjHEByY3NaT5xhbPzzt_d0A=
+Bjp3kG0ZYkQtd-bYdTj_JArTVSxgFh4xf_bm7dI6IKcpngEDKyEkLcgRGeQIQENfvlZ0VpHVkIq=
+BkegPcjh4xIyciLnRjMonb4JBGyHzlcQxEpX3B30BHr3EkqW-yVsREjSN_s8hydsxFofjsICZI6=
+Nwmg7JM3OEmxAg8QNyhnnQH_9dALOJoNrZH_09wvoSKn3RP7jDGlzSmg7zBTaKLTW6GUryZYoDd=
+XtpP6HnE5Cl2_eBcArqUvNCS-87PkOnTFuz9wASI3tFCmUfBYLfc-UpExKlUnHHYQFo_MGhkbh7=
+1vJG_w3SWVaC6-yXXL2gILgYXjlEyo6LP1xuTQ6kgaUjG1Quvt5geWpkmiI6Dbzo40g1XsaRlxc=
+VkK_MLHmJFO9x4NnCRU3qD1rNrhGumWESahCtj_GdId0KBazYsPBDcLsHGvE-qwOWMVK_E0nUe7=
+Nzjr3o-9vwWLd9hRRQ3v6TsIJfyGXuoYgx1gApwRJm5Rn89mACFZs2aPz0hYgtX8htOuVsFA-AV=
+81UiIkF0bhWSReRVPvrRIb8HxE-SyvG0EaFfPTcRkg6cvlAegr00fyQNOdxDVtqMlX89mi3S8aT=
+AoRqikGgAaBHbl0BGMuhQ7oqPGhutBmntmRyqOIn1zrzhviQraQiBfsVTwwsUy0_x6dHFlfGEKa=
+I9mMVgfhDRy3a9-xQ8_PV-VMA56rPnE58EGzLPNQ3_sH-ZfeGrG6PBnpg3-cUFY-8ORs-D4sjvH=
+xpTuUCZQlCoRFSrKPpTBvl4LgQ56TYyPJuCS3bs0E=3D )
+--89db5335f91711dcdb06d61c3f7e8c9f8d1ab4c0dcc85d264db332392e08
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+
+<html lang=3D""en""><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+<meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>Excel Report Notification</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            padding: 20px;
+        }
+        .email-container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+        .content {
+            padding: 20px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #007bff;
+            color: #fff;
+        }
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: #777;
+            margin-top: 20px;
+        }
+        .button {
+            display: inline-block;
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<div class=3D""email-container"">
+    <div class=3D""header"">
+        <h1>Monthly Excel Report</h1>
+    </div>
+
+    <div class=3D""content"">
+        <p>Dear psp457@bangor.ac.uk,</p>
+        <p>Please find below the latest report for your reference:</p>
+
+        <table>
+            <tbody><tr>
+                <th>Department</th>
+                <th>Q1 Performance</th>
+                <th>Q2 Performance</th>
+                <th>Q3 Performance</th>
+                <th>Q4 Performance</th>
+            </tr>
+            <tr>
+                <td>Sales</td>
+                <td>85%</td>
+                <td>90%</td>
+                <td>92%</td>
+                <td>88%</td>
+            </tr>
+            <tr>
+                <td>Marketing</td>
+                <td>78%</td>
+                <td>83%</td>
+                <td>85%</td>
+                <td>80%</td>
+            </tr>
+            <tr>
+                <td>Operations</td>
+                <td>92%</td>
+                <td>89%</td>
+                <td>94%</td>
+                <td>91%</td>
+            </tr>
+        </tbody></table>
+
+        <p>For further details, please refer to the attached Excel report.<=
+/p>
+        <p><a class=3D""button"" href=3D""https://u48080848.ct.sendgrid.net/ls=
+/click?upn=3Du001.ZZIZLvkhrT8-2F2zNVPC5s2ohD4qZOJkiaNLkq3BxjU7sPsvDfPorGCLM=
+6oPT5YVFKlQfaiTUmrwNJIsmRH2-2FnMQ6ITNKdzPJFcFbO6cSan7A-3DYLwf_xkuJPywnXiBbz=
+azNljIrVJ9lL-2BQ4C-2BYP5Et82rl7-2BarZFyAeqhTImUacIjEg1ZiWi9CaZFYGFjS5dJ4MWB=
+-2BNCZitz3sRYv-2F3j3Z6YfF17hmdRVt-2FnHHiMOGloZTZFHCZPDA3Go3ZXRj1YkUQhC4KX35=
+nZMVO9RQx-2BnRKZ-2B-2FLJGshG36HK6HDYd4sylDvit00uLBjX66-2BQprCv498xRH-2F6AsO=
+qZ5P-2FpWYLhShuO-2Frr7pQZBiPLANUyjxpy-2Fv6Hc1bNmZnGv9LWO7h89ADagAPrShRA-2BM=
+xOt4X0ZCR6hwKgDNZ-2B-2F3-2B9PEb8Uy-2FmjZvrj34cNDjHjhMrOByYrtmEG8kbd-2FVpvyO=
+Rs2oFO-2BbhhSwxeNeng6yvPEjjMG77ORZV1eUnqG7fcKruFog03SJE-2BnW6rM68rIFkMYY5OR=
+QnYt3ed54RJ7fTaKXEsO6OVmDdXhcCuT7T6Frh6o-2BCPjwrZj-2Fg7l-2FtEZWfqFru6Qveq6m=
+zeogAPM0jLFvtwrSzFZgQbJytzldZtCyh65n8ItH-2FX8U7fEoUNMXXc-2BUBAoIHAgkBWjwtL0=
+TFhxRtncrL3xMCQQy8ARCP42ibztnacdg4BjVXSIKGd66xGSqfNEMvNnmG5zJPLsCfwl1-2BbZm=
+DUVfPoQjdqWSSjZfVioMhu4EkEy3iX4o1np8zrCQVhnJEJZzBaQRzKhz06M7Ki0Cc-2F2kA0tR5=
+xruouDlWQo6iw72HC2RgMt0koQtI0TFGbB-2ByU7z5M0lELj8DHs2TzD4IJ3usb43yxcuMAuewe=
+143FFKNraYg5FtI-2FL8qYQSzZvOFQaQL-2FV8-2B-2B7WATWS9WdXrhjhNHsN1W-2BYLe-2BnR=
+U5E0M-2FY5NDkcN0tbX8lIjqcLSvaTfcVV-2B-2BTLrsGYqOUPHaNdEjcktxBMjHyEe9LNFp9kg=
+BTGuaEbecUJ6w86iOwZpJdNOWoUsdJYJvsC9hI8in4PlBARoKl"">View Full Report</a></p=
+>
+    </div>
+
+    <div class=3D""footer"">
+        <p>Thank you for your attention.<br>Best regards,</p>
+        <p><strong>psp457@bangor.ac.uk</strong></p>
+    </div>
+</div>
+
+
+
+</body></html>
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u480808=
+48.ct.sendgrid.net/asm/unsubscribe/?user_id=3D48080848&amp;data=3DgHgfJRLCg=
+O4927YzvXqmVMdD_Eni6lgow-0HI-QP6q9oMDAwdTAwMEziFrCT_kt-NgDHuSAz1qa89qpn3GDp=
+6ySwCqQvKXx_ji2rKQCBzy3_e5tGPmDra-aFtHgK7q5TSkSLfues9yz90C-JEwj6b2gaf69oeDD=
+hZ9tkmvKxeMfPo7A7iAZFw5m21CJU5d_pNhgweVphlkub7tChAAJQfPR2teigjfxm8S-09eKJy7=
+zcqwBlpXqhJj5Ck8iFo8WjLuGxjgjIfxH23huNnA7iRUj8MTR3jPdqQPWOPA7vZO_HiqRY-tf86=
+_eEeHAMM2RGZWCgyVP2FIBsKuzuXqk1hZsjwa6_A8ZYKffMilp2vB0E9MaDaCoeTrWQcFxk0cCz=
+tHeqQ1xOuzQi91VTfxcx9DAaqrhXlSXrGtqCkrQ4NA3bxtrQc9fj-GFdAj02-nkRM9NaEkmKreV=
+KPz9wAzpG91Fx_ptWxVzdePyPza6PGTB6chaHtbOH4Uwic940wQDlKDxQgjVsqnFtWSsH5xNYK7=
+VhnGfXdQ9aTYLWvaGWrMb928ylwnh-ZmetPORClh0h6VX-Rcm_1TqqVjKwSdY0JJUMujUGOisYj=
+QEeMH-ZtVnz2Y3sGSvwP5cNDC4HEO7P7vITJVY2Rx1nVzBwtPVdMp9sX9g35mNQXgQYO_ijJ463=
+zhRel3ZHQlUVQB6ll8DX6k-Uv3QfVrXhQjvyd_KFOo3DSgSjvlS6t5oXFsiBP99lbizB5TlIc7j=
+IOtfitEs75-5ZsGpEug7EAgcqdZLhU3BHDEo8PtSsQn-RSOZCpUt7ymnmx07sQRJ-wp9EhOQgC4=
+JxaV-zF0ZT4Nz8V0hXaQOGNJ-bxuVL3W-QyTN1QUEs3ZsDI0mkPnvY0scL_BVdx2Ir7Hv0zemM6=
+BdrM6lK0AUyvHHCi4rLQOoUmkXRXbjKNzLOQFAQwXazsVPD9OywpnTISdZWOZ_Ds-RjhG7lb_rQ=
+7OIMEkEo9tzfhrIN_LvNLGdfQ4sC-Zv5gW9EfeiEJV9wNqGGqzbfKVcb1Y7WYMLJs5aQIod_ilZ=
+lBKYByftSwrGbT9wiQ-sTAAScWQhjvhJqfcEAcXyWOGmmk_kp-fHAg76ef-ifXgHPec1RGuh7Os=
+6-bIi059CmrksuMBJe1jRudKQOYgE=3D"" target=3D""_blank"" style=3D""font-family:sa=
+ns-serif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""https://u48080848.ct.sendgrid.net/asm/?user_id=3D48080=
+848&amp;data=3Dx6d_Qc6YH4YtyMlWfe3kYQ-SVRpxaDLuf-xor2MWY6loMDAwdTAwMFJcstcA=
+X_BH14kuJrZY8ARqBJHIkLHR-oonVVpKdNwPm902cL0ApRzBiww3GyFN_hsHZGT3pFjqHHKYzkv=
+3u8YkwGFKPbj_IbU_0ypENTWiKtAX2HwWG9fj9iMUqoYbjcpQTNUacuxQJiidnVU1cUosiexYmy=
+99pWfXCINM1whAdBXUEElV0tBLdsH2N2h420FcBoRvccRbtqLL20w3RyO5uAPqv1UwjjnGLcx7Y=
+1kV6FcZHFpOAEhYLDzXyggELSQJ0fEmjwjWGgCpR6UmxLnqmepGrl_BHYoZOxKoUhjHEByY3NaT=
+5xhbPzzt_d0ABjp3kG0ZYkQtd-bYdTj_JArTVSxgFh4xf_bm7dI6IKcpngEDKyEkLcgRGeQIQEN=
+fvlZ0VpHVkIqBkegPcjh4xIyciLnRjMonb4JBGyHzlcQxEpX3B30BHr3EkqW-yVsREjSN_s8hyd=
+sxFofjsICZI6Nwmg7JM3OEmxAg8QNyhnnQH_9dALOJoNrZH_09wvoSKn3RP7jDGlzSmg7zBTaKL=
+TW6GUryZYoDdXtpP6HnE5Cl2_eBcArqUvNCS-87PkOnTFuz9wASI3tFCmUfBYLfc-UpExKlUnHH=
+YQFo_MGhkbh71vJG_w3SWVaC6-yXXL2gILgYXjlEyo6LP1xuTQ6kgaUjG1Quvt5geWpkmiI6Dbz=
+o40g1XsaRlxcVkK_MLHmJFO9x4NnCRU3qD1rNrhGumWESahCtj_GdId0KBazYsPBDcLsHGvE-qw=
+OWMVK_E0nUe7Nzjr3o-9vwWLd9hRRQ3v6TsIJfyGXuoYgx1gApwRJm5Rn89mACFZs2aPz0hYgtX=
+8htOuVsFA-AV81UiIkF0bhWSReRVPvrRIb8HxE-SyvG0EaFfPTcRkg6cvlAegr00fyQNOdxDVtq=
+MlX89mi3S8aTAoRqikGgAaBHbl0BGMuhQ7oqPGhutBmntmRyqOIn1zrzhviQraQiBfsVTwwsUy0=
+_x6dHFlfGEKaI9mMVgfhDRy3a9-xQ8_PV-VMA56rPnE58EGzLPNQ3_sH-ZfeGrG6PBnpg3-cUFY=
+-8ORs-D4sjvHxpTuUCZQlCoRFSrKPpTBvl4LgQ56TYyPJuCS3bs0E=3D"" target=3D""_blank""=
+ class=3D""Unsubscribe--unsubscribePreferences"" style=3D""font-family:sans-se=
+rif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    </body>
+  </html>
+
+          </p>
+        </div>
+        <p style=3D""font-size:12px; line-height:20px;"">
+          <a class=3D""Unsubscribe--unsubscribeLink"" href=3D""https://u480808=
+48.ct.sendgrid.net/asm/unsubscribe/?user_id=3D48080848&amp;data=3DgHgfJRLCg=
+O4927YzvXqmVMdD_Eni6lgow-0HI-QP6q9oMDAwdTAwMEziFrCT_kt-NgDHuSAz1qa89qpn3GDp=
+6ySwCqQvKXx_ji2rKQCBzy3_e5tGPmDra-aFtHgK7q5TSkSLfues9yz90C-JEwj6b2gaf69oeDD=
+hZ9tkmvKxeMfPo7A7iAZFw5m21CJU5d_pNhgweVphlkub7tChAAJQfPR2teigjfxm8S-09eKJy7=
+zcqwBlpXqhJj5Ck8iFo8WjLuGxjgjIfxH23huNnA7iRUj8MTR3jPdqQPWOPA7vZO_HiqRY-tf86=
+_eEeHAMM2RGZWCgyVP2FIBsKuzuXqk1hZsjwa6_A8ZYKffMilp2vB0E9MaDaCoeTrWQcFxk0cCz=
+tHeqQ1xOuzQi91VTfxcx9DAaqrhXlSXrGtqCkrQ4NA3bxtrQc9fj-GFdAj02-nkRM9NaEkmKreV=
+KPz9wAzpG91Fx_ptWxVzdePyPza6PGTB6chaHtbOH4Uwic940wQDlKDxQgjVsqnFtWSsH5xNYK7=
+VhnGfXdQ9aTYLWvaGWrMb928ylwnh-ZmetPORClh0h6VX-Rcm_1TqqVjKwSdY0JJUMujUGOisYj=
+QEeMH-ZtVnz2Y3sGSvwP5cNDC4HEO7P7vITJVY2Rx1nVzBwtPVdMp9sX9g35mNQXgQYO_ijJ463=
+zhRel3ZHQlUVQB6ll8DX6k-Uv3QfVrXhQjvyd_KFOo3DSgSjvlS6t5oXFsiBP99lbizB5TlIc7j=
+IOtfitEs75-5ZsGpEug7EAgcqdZLhU3BHDEo8PtSsQn-RSOZCpUt7ymnmx07sQRJ-wp9EhOQgC4=
+JxaV-zF0ZT4Nz8V0hXaQOGNJ-bxuVL3W-QyTN1QUEs3ZsDI0mkPnvY0scL_BVdx2Ir7Hv0zemM6=
+BdrM6lK0AUyvHHCi4rLQOoUmkXRXbjKNzLOQFAQwXazsVPD9OywpnTISdZWOZ_Ds-RjhG7lb_rQ=
+7OIMEkEo9tzfhrIN_LvNLGdfQ4sC-Zv5gW9EfeiEJV9wNqGGqzbfKVcb1Y7WYMLJs5aQIod_ilZ=
+lBKYByftSwrGbT9wiQ-sTAAScWQhjvhJqfcEAcXyWOGmmk_kp-fHAg76ef-ifXgHPec1RGuh7Os=
+6-bIi059CmrksuMBJe1jRudKQOYgE=3D"" target=3D""_blank"" style=3D""font-family:sa=
+ns-serif;text-decoration:none;"">
+            Unsubscribe
+          </a>
+          -
+          <a href=3D""https://u48080848.ct.sendgrid.net/asm/?user_id=3D48080=
+848&amp;data=3Dx6d_Qc6YH4YtyMlWfe3kYQ-SVRpxaDLuf-xor2MWY6loMDAwdTAwMFJcstcA=
+X_BH14kuJrZY8ARqBJHIkLHR-oonVVpKdNwPm902cL0ApRzBiww3GyFN_hsHZGT3pFjqHHKYzkv=
+3u8YkwGFKPbj_IbU_0ypENTWiKtAX2HwWG9fj9iMUqoYbjcpQTNUacuxQJiidnVU1cUosiexYmy=
+99pWfXCINM1whAdBXUEElV0tBLdsH2N2h420FcBoRvccRbtqLL20w3RyO5uAPqv1UwjjnGLcx7Y=
+1kV6FcZHFpOAEhYLDzXyggELSQJ0fEmjwjWGgCpR6UmxLnqmepGrl_BHYoZOxKoUhjHEByY3NaT=
+5xhbPzzt_d0ABjp3kG0ZYkQtd-bYdTj_JArTVSxgFh4xf_bm7dI6IKcpngEDKyEkLcgRGeQIQEN=
+fvlZ0VpHVkIqBkegPcjh4xIyciLnRjMonb4JBGyHzlcQxEpX3B30BHr3EkqW-yVsREjSN_s8hyd=
+sxFofjsICZI6Nwmg7JM3OEmxAg8QNyhnnQH_9dALOJoNrZH_09wvoSKn3RP7jDGlzSmg7zBTaKL=
+TW6GUryZYoDdXtpP6HnE5Cl2_eBcArqUvNCS-87PkOnTFuz9wASI3tFCmUfBYLfc-UpExKlUnHH=
+YQFo_MGhkbh71vJG_w3SWVaC6-yXXL2gILgYXjlEyo6LP1xuTQ6kgaUjG1Quvt5geWpkmiI6Dbz=
+o40g1XsaRlxcVkK_MLHmJFO9x4NnCRU3qD1rNrhGumWESahCtj_GdId0KBazYsPBDcLsHGvE-qw=
+OWMVK_E0nUe7Nzjr3o-9vwWLd9hRRQ3v6TsIJfyGXuoYgx1gApwRJm5Rn89mACFZs2aPz0hYgtX=
+8htOuVsFA-AV81UiIkF0bhWSReRVPvrRIb8HxE-SyvG0EaFfPTcRkg6cvlAegr00fyQNOdxDVtq=
+MlX89mi3S8aTAoRqikGgAaBHbl0BGMuhQ7oqPGhutBmntmRyqOIn1zrzhviQraQiBfsVTwwsUy0=
+_x6dHFlfGEKaI9mMVgfhDRy3a9-xQ8_PV-VMA56rPnE58EGzLPNQ3_sH-ZfeGrG6PBnpg3-cUFY=
+-8ORs-D4sjvHxpTuUCZQlCoRFSrKPpTBvl4LgQ56TYyPJuCS3bs0E=3D"" target=3D""_blank""=
+ class=3D""Unsubscribe--unsubscribePreferences"" style=3D""font-family:sans-se=
+rif;text-decoration:none;"">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src=3D""https://u48080848.ct.sendgrid.net/wf/open?upn=3Du001.IogjVZ=
+yGxAcWOAKYVxDmiuWR6aRzN3VVX4DM7eWSevD6uDg8x36MdrFBjsym2OaEhFdDxQiEHuIL0nmz3=
+BbnodOcVYg8OX36a871s5XVbKZzyHBbqH8i3ig0II4hgBpqeDYZ89dg8sA-2FFLVJSuqJOvSbNO=
+LXJM9zlwMXpagpZL1l-2BGrQe33kVZnOFGzKrS-2FUMH7ZCSmdi6XXJoZmluwVZ9AtgP77NpE4y=
+YGdIFQQsPOjQ8qc6lWCBCun2-2FFd8sfubNHYgdkSNfmKZ4lDXfoXTwlTZCAtRGBdz5dIV4m44d=
+TxR0Ffg6Tm-2ByQDJrb2qkALC2Yx7UkfiPXTQyHlMHtSS5EXM7YkDKIWF2ybNPqMW55VZ-2F-2F=
+gr0YAfNMDmhKR9D903yjHnCfY4Kcm4sNlTChZExaezZlVr-2FXejpiYkgxlSo8J7icKSJdOQRbZ=
+TVSAfyAXAwPx5tN6O5Nef7qu7yzzry42Qe1J4RJU4K9zg7aBAjalTvSrwlqcyy6smurShk-2FhI=
+oiBd7VI5Ik9is7bQlBKMZ9tt1OshAcbScMSPV3rRPnZ8HcDWXB2KMvgpX59d5uNgaBplE7LWN8i=
+FZZg6SL9arrgCgPKbpHbo5c-2BOVFk4WAGlJAarcljFH0IEtdS5ira2TDJ1NULDBRfnOP11-2FI=
+bmELVUxSuzgw-2FN3LXKXKNfhLx8JJLYIYe00jn-2F4Wvw9YnvOyBaF7r5uWPhiPJ6qmJ7HWjmq=
+ifhFxy5BdVsDO1QPZ9jK2Ka0IzziKwZ5oojooBABd6RU7JxJzquZk-2BF06hhksl7yEq7Nh0bZP=
+CuKBzr4jsIjFmF4NXQp6jwCPJlZvHXJrk8rIsqT-2Fd8WXoV9rsWDO-2FiJhvnjPsRw7-2FSLL4=
+mlJzSGH7-2F0bv6JqtKF3DmNTr9H2eimGM1tXpjhml47PIPFRtdBID0e9VgvWRK-2F3h4MoQuFl=
+5vcp2A0I4zWyxQxJEHnaycpp0fMXt5-2BFjHuSeCA-3D-3D"" alt=3D"""" width=3D""1"" heigh=
+t=3D""1"" border=3D""0"" style=3D""height:1px !important;width:1px !important;bo=
+rder-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;=
+margin-right:0 !important;margin-left:0 !important;padding-top:0 !important=
+;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !imp=
+ortant;""/></body>
+  </html>
+
+--89db5335f91711dcdb06d61c3f7e8c9f8d1ab4c0dcc85d264db332392e08--
+","""Sales"" <sales@luckygardeny.com>",psp457@bangor.ac.uk,2025-04-02,34.225.201.237,United States,en,users/48080848/85e1d4ae-1402-44f8-b9fb-7f1d3690b5a0.json

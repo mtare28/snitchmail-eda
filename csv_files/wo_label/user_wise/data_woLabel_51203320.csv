@@ -1,0 +1,354 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51203320,J10-JOs7TDGQgeJ5npgVdA.recvd-69cbc48b94-vw7cs-1-67D07817-14.1,cHJvY2Vzc2VkLTUxMjAzMzIwLUoxMC1KT3M3VERHUWdlSjVucGdWZEEtMQ,order details,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=Iy+NSiged+oLYXVpr7SoKtUjn/Q1OAUQBm/vhTFKvg4=;
+	b=gnpwZ/EB1Xoy0wTC9otEk6D2NYSVz4XhRBfoyLDT0m/QR2ZaPHV706wTsOj/4cc8pp0S
+	UYng3x9dXhZKSlrq40xIZ38xL6sesWNcYSzIzdADX7xZuD+TX/yGQjDKsAI6VzOUtPtW4W
+	pNQiZad764BaucVXttn4MFQYIc3Pp9ES4=
+Received: by recvd-69cbc48b94-vw7cs with SMTP id recvd-69cbc48b94-vw7cs-1-67D07817-14
+	2025-03-11 17:51:19.485447958 +0000 UTC m=+10096131.842222688
+Received: from NTEyMDMzMjA (unknown)
+	by geopod-ismtpd-23 (SG) with HTTP
+	id J10-JOs7TDGQgeJ5npgVdA
+	Tue, 11 Mar 2025 17:51:19.414 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=1cd9daa149789fbfe3a7b75df843a1e0932ecad36e028d93827f9601dd92
+Date: Tue, 11 Mar 2025 17:51:19 +0000 (UTC)
+From: Zelda <zeldaroden68@hotmail.com>
+Mime-Version: 1.0
+Message-ID: <J10-JOs7TDGQgeJ5npgVdA@geopod-ismtpd-23>
+Subject: order details
+Reply-To: zeldaroden68@hotmail.com
+List-Unsubscribe: <https://www.wmart.com>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E2ZXGK1OhUVkQ2fQtVBC7zxPSMMx4FDgLsPRuHPJyUitBLMpHKkpPd6utz?=
+ =?us-ascii?Q?RSrhk6q0UcR3yFURGoTAeeMa7a5jmmEfs3XFqoP?=
+ =?us-ascii?Q?aweYKq859akH2HrqEZvkIyP6p+GJUvVr5RFXUiz?=
+ =?us-ascii?Q?F7LGcb0GcyDPplfOXvbGGY=2Fcv1wSDa2PWT9tneI?=
+ =?us-ascii?Q?LgbmrPFXHIYrGDDPvKr1BETZ5Pl9YD2MMgQllSS?=
+ =?us-ascii?Q?sWq9nPkCkRz5Cj8I00E130=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2FG67RonH?=
+ =?us-ascii?Q?evQerhFwzzAtOsexdrBjTUDZXXCaaRAtZyhtwHP?=
+ =?us-ascii?Q?+smpy75L8KlWpAh6kUir1Wy0CTxMZ3nTw+OwhVT?=
+ =?us-ascii?Q?XQoMpdDMXP=2FZIYU0bMOa52g4ropIIMnW8JHBAsM?=
+ =?us-ascii?Q?syKNIs5BfIsMARa7+RzgQECpAZnVbCsfjgPvqB4?=
+ =?us-ascii?Q?s+Vw+raKon5iUvbgZMaaILX0pBj8BAIXr5dnehg?=
+ =?us-ascii?Q?6d4t=2FgtNCG0njckuxcndMYeVb2RqLP3upiesSAG?=
+ =?us-ascii?Q?c4tFsEPqe8mlVA68ylazyQl4r+i5tVPEuAlqsHg?=
+ =?us-ascii?Q?T1836lu423j=2FReEs9T55hFGMPxgtsYt1J6TqYXp?=
+ =?us-ascii?Q?seu7HRz4ZqVpSG3+bQpLqfyPZWmidVfhMLDZoew?=
+ =?us-ascii?Q?3UZdEt5EVeqtXPh9A2jFHiY71BeDjiFNtfNm=2FCU?=
+ =?us-ascii?Q?rPGTGLamBceDD16XKsefNvu3fmD2VFYTSRb2B9i?=
+ =?us-ascii?Q?rW8wU2MBA7MJMG47YMsSXXYbLEF98jaexeaeJHG?=
+ =?us-ascii?Q?grgo8jZ5TS=2FplkjQMuNsy+VKTmeQoKBeLSbcCSn?=
+ =?us-ascii?Q?kx9YsIqOfMYzDPup=2FauLBNxZg5MMMFlQxe=2F0e2g?=
+ =?us-ascii?Q?jNoIFoYRmiqZgICPg30Q=2FL9?=
+To: inno3368@naver.com
+X-Entity-ID: u001.kKc6nEwriJPF+iXuOtvkxg==
+
+--1cd9daa149789fbfe3a7b75df843a1e0932ecad36e028d93827f9601dd92
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Thank you for your order! We=E2=80=99ve successfully processed your purchas=
+e of the Canon Printer S Series (S47840) for $524.85, and it is scheduled f=
+or delivery by March 12, 2025. We=E2=80=99ll send you a shipping update onc=
+e your order is on its way. If you placed this order, no further action is =
+needed. However, if you do not recognize this transaction, please contact u=
+s immediately at 1-808-647-6608 so we can investigate and block it if neces=
+sary. We appreciate your business and are here to help if you have any ques=
+tions! Best regards, Walmart Customer Support =F0=9F=93=9E 1-808-647-6608
+
+Zelda
+
+zeldaroden68@hotmail.com , New York , =20
+
+Unsubscribe ( https://www.wmart.com ) - Unsubscribe Preferences ( https://w=
+ww.wmart.com )
+--1cd9daa149789fbfe3a7b75df843a1e0932ecad36e028d93827f9601dd92
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=3D""=
+module"" data-role=3D""module-button"" data-type=3D""button"" role=3D""module"" st=
+yle=3D""table-layout:fixed;"" width=3D""100%"" data-muid=3D""6db53208-db2a-4c67-=
+abb9-51e1b600e3c8"">
+      <tbody>
+        <tr>
+          <td align=3D""center"" bgcolor=3D"""" class=3D""outer-td"" style=3D""pad=
+ding:0px 0px 0px 0px;"">
+            <table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" class=
+=3D""wrapper-mobile"" style=3D""text-align:center;"">
+              <tbody>
+                <tr>
+                <td align=3D""center"" bgcolor=3D""#333333"" class=3D""inner-td""=
+ style=3D""border-radius:6px; font-size:16px; text-align:center; background-=
+color:inherit;"">
+                  <a href=3D"""" style=3D""background-color:#333333; border:1p=
+x solid #333333; border-color:#333333; border-radius:90px; border-width:1px=
+; color:#ffffff; display:inline-block; font-size:18px; font-weight:normal; =
+letter-spacing:0px; line-height:40px; padding:12px 18px 12px 18px; text-ali=
+gn:center; text-decoration:none; border-style:solid; width:300px;"" target=
+=3D""_blank"">Thank you for your order! We=E2=80=99ve successfully processed =
+your purchase of the Canon Printer S Series (S47840) for $524.85, and it is=
+ scheduled for delivery by March 12, 2025. We=E2=80=99ll send you a shippin=
+g update once your order is on its way. If you placed this order, no furthe=
+r action is needed. However, if you do not recognize this transaction, plea=
+se contact us immediately at 1-808-647-6608 so we can investigate and block=
+ it if necessary. We appreciate your business and are here to help if you h=
+ave any questions!  Best regards, Walmart Customer Support =F0=9F=93=9E 1-8=
+08-647-6608</a>
+                </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""=
+module"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; l=
+ine-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Zelda</p><p style=3D""font-size:12px; line-height:20px;""><span =
+class=3D""Unsubscribe--senderAddress"">zeldaroden68@hotmail.com</span>, <span=
+ class=3D""Unsubscribe--senderCity"">New York</span>, <span class=3D""Unsubscr=
+ibe--senderState""></span> <span class=3D""Unsubscribe--senderZip""></span></p=
+></div><p style=3D""font-size:12px; line-height:20px;""><a class=3D""Unsubscri=
+be--unsubscribeLink"" href=3D""https://u51203320.ct.sendgrid.net/ls/click?upn=
+=3Du001.3fUaHgijUAqdHPUGdFRlDyqfLxCnHtU9jiXTIxhOtpI-3DBpon_U-2B6JD-2FoaAZIv=
+gCKlW9NYljXX5TiT3sbRPXIT73CA2K7M9v6LkTKOa4T-2F3Vykx6L5M9Mh-2BSY01HWbo-2FtSy=
+ucSodaTcibN5u869Fbxw66n1nTWrzSnCGD4Xp8M4cnrU1DCjE-2BDzyolWvyvfdsQhyKej-2BAD=
+InTH5aT0epF-2B8Ia67fTNA4waeGTWnrnV4JOvRvIdXxfoEjUJtH0PzqERC7OOibKQQZEDSAVWa=
+pgymtvmBDGIIVYNV1WrwfB-2BTYbUp38-2FD-2FN8KCEkHTce3ItT-2FbfJoeiiWZWIXvGTyIrn=
+vgSYrkFNs-2BFoiCMw0dEPG8nRkxWx-2Bq7XKrwMO8xeIgsEmIHywpG0t4BULU2OEwDMuH0zihy=
+aC797mqmFqa3nlTS1zbr6SPrjfQzFinIiQKGOZ-2BjgokS9Er6hQ9dLfOnl6J5AZp2-2BsuLXq7=
+DZiDZFEFzyn8q0kbRCOhBPXdchRFoSVfRKJ15ZOgPxla91ynrFdt7TetQ-2By6NRtS1T5X8QB5j=
+rEDP6tRwbKLMbMGEk3a3-2B7QUDpfwEx4s0u2c9jy8UoaaqQ9ZgVM1L62mnEtBMvdvi-2Bg62nS=
+7eCgOkonaOgfKRqHQz9nfV2mYfKUWWVRxR4OsEvi5fFEpGu0ucvDttdPWEt8TdCK6OEcrhr33aT=
+A-2BPen5Gwmfuv4YtPkggpTnmZJUyNl8xa6c0nSQ-2BMiAHp4nUtB4X1AwN8B7AR-2BLJHXaGw5=
+UWaP2Y55jSV9-2FSZjPLhnIyUByBdsIcKu1kaDG0L2ANoUEy7K8inRpl0uSvjgiEmr39Log9Kry=
+ggG9cykdvVAFiOI4m1SNLmA88XKXbhDzhypbIEYnUWw7IJpp7Zj9jb9F3HrlUQaiBvgUi7cYDy1=
+zZK40-3D"" target=3D""_blank"" style=3D"""">Unsubscribe</a> - <a href=3D""https:/=
+/u51203320.ct.sendgrid.net/ls/click?upn=3Du001.3fUaHgijUAqdHPUGdFRlDyqfLxCn=
+HtU9jiXTIxhOtpI-3Dik0A_U-2B6JD-2FoaAZIvgCKlW9NYljXX5TiT3sbRPXIT73CA2K7M9v6L=
+kTKOa4T-2F3Vykx6L5M9Mh-2BSY01HWbo-2FtSyucSodaTcibN5u869Fbxw66n1nTWrzSnCGD4X=
+p8M4cnrU1DCjE-2BDzyolWvyvfdsQhyKej-2BADInTH5aT0epF-2B8Ia67fTNA4waeGTWnrnV4J=
+OvRvIdXxfoEjUJtH0PzqERC7OOibKQQZEDSAVWapgymtvmBDGIIVYNV1WrwfB-2BTYbUp38-2FD=
+-2FN8KCEkHTce3ItT-2FbfJoeiiWZWIXvGTyIrnvgSYrkFNs-2BFoiCMw0dEPG8nRkxWx-2Bq7X=
+KrwMO8xeIgsEmIHywpG0t4BULU2OEwDMuH0zihyaC797mqmFqa3nlTS1zbr6SPrjfQzFinIiQKG=
+OZ-2BjgokS9Er6hQ9dLfOnl6J5AZp2-2BsuLXq7DZiDZFEFzyn8q0kbRCOhBPXdchRFoSVfRKJ1=
+5ZOgPxla91ynrFdt7TetQ-2By6NRtS1T5X8QB5jrEDP6tRwbKLMbMGEk3a3-2B7QUDpfwEx4s0u=
+2c9jy8UoaaqQ9ZgVM1L62mnEtBMvdvi-2Bg62nS7eCgOkonaOgfKRqHQz9nfV2mYfKUWWVRxR4O=
+sEvi5fFEpGu0ucvDttdPWEt8TdCK6OEcrhr33aTA-2BPen5Gwmfuv4YtPkggpTnmZJUyNl8xa6c=
+0nSQ-2BMiAHp4nUtB4X1AwN8B7AR-2BLJHXaGw5UWaP2Y55jSV9-2FSZjPLhnIyUBzt0GzCJCDj=
+mMRXgZT071uZpijwrBGTSs6spOnlmQDY6So-2BBjlDAoJdmY32gwPb9wakBSyJHubWPgy4rHwaZ=
+nwaYqJn-2FhCfsvkUbwhNJ0-2FHK-2FfbYGAX9hPzv3ilbHk-2FN5s-3D"" target=3D""_blank=
+"" class=3D""Unsubscribe--unsubscribePreferences"" style=3D"""">Unsubscribe Pref=
+erences</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51203320.ct.sendgrid.net/wf/open?upn=3Du001.2wgQ3R=
+qS72JIKSswEPPZnOPQqyexO53Sad6puDGso-2BQcNq-2B6rSFUYHZVcmRYxufGga4sktnpFoL9j=
+p1merQs2Q4qbijobCYsa3Id44AIz2GVCNfTy-2B2pfNBCdOGaBN0UgYzWnYMAcClWcCkZtLKvW6=
+X0BAJO5-2FOU6TwBnNKxw6c1ti4Wezn205mlXlZEAhCr3Y1-2Fn2Wyg0axk72JMm4H1s1oYGBeg=
+ROU0uccs8oqWLlHIRMTIrXxpGoBwKiaUVR65JJuYkJX4EPXm2ldTnSnWENpPiihDdZqvJXiaLoe=
+HZ9KtJRA2pIVmmSKmu36F29olE8QgSGOegosqCpuY4HLGB3uz3NAkKiBFb-2FUkTfBAB5ss-2Bs=
+lbeKvh33McyHYYDJEkK0u-2Fe0E0GCjlhtXdrJhKHfqgxrLGWcfJFSxDcH3WUSrPGctXDZb5b7l=
+VU1fVBcvkXq8NCpfY-2B061oLUOuM3nsLi8CBMu267iS6dsR2d0FUi0ppGdorOhmUp2pwiTmp2J=
+J475CIGhkrOZEGxTc0F02gF2p6-2BCVR6RzmsnP61V7GkKSBRJS20BMntY5GyPMLr6axByztMH5=
+FnCCAg-2Fj8hH8iwx4wMXR5PIW00-2FCjFCPHwKX82-2FTY7mrdTm0z2-2FeNr3DH-2BjcSsCQp=
+9UDvaOe-2Bej9XUKpC9ZAPUmv1onU7xbO6clqg09pOatJYbdofIeRtx3u4hij8PmIE2Oba92YdW=
+2WIOxitqu-2BOo35xCoSmFFubvuIRfMgzUXhbbNC6hKYzXnbxkBsCNRR5OgfULtgBAgRSo9o7XG=
+AkDH4IWvil2dC4clLcgwAxdq-2B1gP-2FpNSA1arMLiyx6BteQ8FglQp-2B0oqktK8DpvpPSKbV=
+BkL7uB9QIiCmvCo-2BCRSZ2NWgh6KLsK"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/></bo=
+dy>
+  </html>
+--1cd9daa149789fbfe3a7b75df843a1e0932ecad36e028d93827f9601dd92--
+","""Zelda"" <zeldaroden68@hotmail.com>",inno3368@naver.com,2025-03-11,34.225.201.237,United States,da,users/51203320/a3e0e992-b24b-4cab-ab7e-096d35f95f7a.json

@@ -1,0 +1,490 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51770802,BsXqR5hiSS-m6DERO813yQ.recvd-8575c86f9d-5nbcj-1-67EFEB58-33.2,cHJvY2Vzc2VkLTUxNzcwODAyLUJzWHFSNWhpU1MtbTZERVJPODEzeVEtMg,We're confirming your recent asset transfer request. Please review the details below:,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe:
+	list-unsubscribe-post:cc:content-type:from:subject:to;
+	s=smtpapi; bh=9lvIKrvni0DPTo+VW9rETkNRvGcSF3pGgrCmT/2b8zA=;
+	b=S6bd0kX737VfeM0U6Z+n/PZChOTGIJ8+QXD4U+pLgy50CkFFEDFc5ix0aXaZBb/jwoY7
+	2HJs8oaXIt2jSalbDrgbqhICX6jip/EDtLmCxu1LFYEtwSMuR4vqMtofG+s7N06RMpJzw/
+	N190YVaZqCnhElT5MfAsDdf9a+bJzA+kg=
+Received: by recvd-8575c86f9d-5nbcj with SMTP id recvd-8575c86f9d-5nbcj-1-67EFEB58-33
+	2025-04-04 14:23:20.960058837 +0000 UTC m=+12157306.116782153
+Received: from NTE3NzA4MDI (unknown)
+	by geopod-ismtpd-19 (SG) with HTTP
+	id BsXqR5hiSS-m6DERO813yQ
+	Fri, 04 Apr 2025 14:23:20.946 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=6fb289ba12f6db96bbca41556493c213d4e7cc5301df66a9ce690f9d84ed
+Date: Fri, 04 Apr 2025 14:23:21 +0000 (UTC)
+From: Travis M <travismarker53@gmail.com>
+Mime-Version: 1.0
+Message-ID: <BsXqR5hiSS-m6DERO813yQ@geopod-ismtpd-19>
+Subject: We're confirming your recent asset transfer request. Please review
+ the details below:
+Reply-To: travismarker53@gmail.com
+X-SG-EID: 
+ =?us-ascii?Q?u001=2El++FHDlFHK8+kaGLVXUCkb+WINTkXnNwHL8rC6hwwQGFW9FM6dJmLrxjN?=
+ =?us-ascii?Q?SxtLK3ZZC=2FnzT+afaLFRZMxFpsa42RmUZSzJA28?=
+ =?us-ascii?Q?q57gcmVnN4EO6y1Yw8hrZfGseGP+Fd6P3YFa1zX?=
+ =?us-ascii?Q?1ey7uzmWar6BHVkbDrHzQDsorDViKB2P6O8bIQa?=
+ =?us-ascii?Q?F20viIu9WIkZa+Roex++k+2SXUEECw1B5tdpNlw?=
+ =?us-ascii?Q?xvIICHWUDDjTFWCN8KIyr8rHJGkG7aRTVFcSaii?= =?us-ascii?Q?qbvI?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfQDR8ssOVf=2FquluWloyMNFRA2y?=
+ =?us-ascii?Q?j1l5ql63kWip7pGqhK7aCLQaFc=2FU40tsYibkh0n?=
+ =?us-ascii?Q?oJ0mBwKoW34DySmqus4VMGc2C0D6iHbiGXHxtEb?=
+ =?us-ascii?Q?01B5lt19n5dNP0MAUnGauK=2FjFdwy9PacnvGH3CS?=
+ =?us-ascii?Q?FSIf1KMlwhCl1ak74nk4rGLxhhE8fxdek6=2FnoWG?=
+ =?us-ascii?Q?4Do+vXwjTVXLrnbSowZchmA7OcP+AcD4vXgGCwq?=
+ =?us-ascii?Q?28Fcu=2F8Vi2PueUMUaLr3LppDgyGU=2FYBPHxl53kk?=
+ =?us-ascii?Q?l=2Fc7d40VIHnUGGxiZa46oqdN93F+uM6=2FYCfN7wW?=
+ =?us-ascii?Q?lNa2hdNMVNG7usq1nqUeF8=2F6B3ceuACi+DsjCM7?=
+ =?us-ascii?Q?GRENr1Qj6lIjT+bsgxTHLBPoIM5SyDsCHe8k0aD?=
+ =?us-ascii?Q?YqUsPBMBksaR5EyimTZeGSlBg6XNl=2FMwTcNygLY?=
+ =?us-ascii?Q?AHdg1qxF1pOt324KzXfCAQgi4HiWCYvWZP8Yn6Z?=
+ =?us-ascii?Q?nUJfhkxlRMq3cJmzXj2wdXm+WRgoVJi7pJKckfD?=
+ =?us-ascii?Q?l9wKxcl7nsPeH=2FZIv2JQkH2Gp0IbRycdzp+xKoz?=
+ =?us-ascii?Q?GrmkaqwLGOMnspyYCp3kVSa?=
+To: eddieb1937@hotmail.com
+X-Entity-ID: u001.J8LTdBWgE+deXu5SA7L7+w==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51770802=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2Ei4sN?=
+ =?us-ascii?Q?27IyWqisBvSOcXafyITqaSiUG4jrrj0wxhPfu7e?=
+ =?us-ascii?Q?m4ALsx5JPG6e8d=5FqxNM9Rv7kKaJr=5FC6jK7-=5F5oL?=
+ =?us-ascii?Q?MDYQ8FSy2OmwbK2Xu7j5tEUfhXCQQu0=5FqqqLuwG?=
+ =?us-ascii?Q?WGhcVcH0-BOiwFbX60u=5FuZCWpAYNH0prZg58rP0?=
+ =?us-ascii?Q?ayf3x8wqUfyrI8-pj7DDmXoax2rYo5IEpjvxmp=5F?=
+ =?us-ascii?Q?CZRO9VEfo0EbdNRLD4jtzzKT0vrU8d2SmFGZBt0?=
+ =?us-ascii?Q?Tp4SYhkLeThDCS-mFPlVqZ8uitBmZFjtZVVwQ3B?=
+ =?us-ascii?Q?EwqLl-pcGpHj6QMT4r8eLeOFGj3hqPsS7DUa7nD?=
+ =?us-ascii?Q?ICrtrie-AfQq0s4r8FK8E30qrlZyBDL8XwoPBmA?=
+ =?us-ascii?Q?Y28=5FQZRJsnwN8D4vRUoGIriBjRijRrwtrsFc4zF?=
+ =?us-ascii?Q?GuLwzfWTnt4ty0w2reXoz3skqjCYg0OeqtTNoMi?=
+ =?us-ascii?Q?8s9jVXZ-8LatGRNthPmVoyZ8t9Wo8sxVA-IGo=5Fl?=
+ =?us-ascii?Q?sgQqGbvs5OxOtdhIkZCBujP8186=5Fjy4Z-TSBvBp?=
+ =?us-ascii?Q?bXq1f8LrFyI6-Pjca2yUQCy2HdqQaBIU3s81gph?=
+ =?us-ascii?Q?cHc67-qfjIdCIVYX6GsyM6-p6ZWRO1xwqfF1Ybs?=
+ =?us-ascii?Q?cu4sx=5FpHuG=5F4xrdwJCpRuVPlaI3UWkDz7YqSASo?=
+ =?us-ascii?Q?hPRUSVrSA2jaZAh3Dk8oMFjJ-KyDM98FkBfF=5Fab?=
+ =?us-ascii?Q?lZckN-5MtT5MFAls19zbnXME09z6f6fGVEHzOid?=
+ =?us-ascii?Q?il6F=5FwRxWZhaBxx0JOcapYxfL5JJBYCAXLeYGIu?=
+ =?us-ascii?Q?E7NvsFWZsruLF9YVphb4iY76fKHUDlGICbyG5vy?=
+ =?us-ascii?Q?x3YVWnsd8CSXsFkBX4hJ5wgBEQnjD9bbbDCACSE?=
+ =?us-ascii?Q?A-sb0aBNliW0D1Ltff4EvHvL-lkdyhAzuK8l0SF?=
+ =?us-ascii?Q?yy6crtEWxxX5f9l4oH2BNa4xiv=5FSPLpAsqHJGOG?=
+ =?us-ascii?Q?V0eBaE-=5FmfplmBIui4NnCrKysI9IvfEKuq6YqIg?=
+ =?us-ascii?Q?MzRjnYQkbeu3Ty5s5M04kPQ31VHa6j97SFfZVJZ?=
+ =?us-ascii?Q?2HYBPiCVQjYYNeBd6aFoBLQXDG82UIXVd=5FcmPdO?=
+ =?us-ascii?Q?SANNiJCSVUvUsqLppHIiQFmypKy185EmW86UFFj?=
+ =?us-ascii?Q?v6HgSAxluRLVAAsA7bH3OWKDSu9pxC8FigQXaFO?=
+ =?us-ascii?Q?t7ehXIRrjZqZFhnu7QHEIyFwo42qI2z1P8QYUB6?=
+ =?us-ascii?Q?x=5FjdfuTl3VA8x06nxsQ4FeY63wvE-7ZaFclUxDa?=
+ =?us-ascii?Q?3135s2BoWsuYg3iVFI-tyijDUz1ldBkBrTyGZ8z?=
+ =?us-ascii?Q?ltoJIUnlFUptXxsD3LvDIob7o3=5F=5F9kQxmoKPZEy?=
+ =?us-ascii?Q?NbTW1UrxclQWEdq47hRNm0kk8GYGbkNcYXQcmCG?=
+ =?us-ascii?Q?HZ4VJ6e3lTNPkTYZHA5MC819GNJHoiJhaVM-87w?=
+ =?us-ascii?Q?Xrsy8AYzPU2LxeYPDqBedF5MPYWzrBkx=5F7xIkTj?=
+ =?us-ascii?Q?d=5FbC0kVyHXDsf9xYC73RNia-Bw3-VCuaBHtHFKa?=
+ =?us-ascii?Q?FtGZINmrUYMBRquQH56ZvHRQefDdguN4vSDrnIG?=
+ =?us-ascii?Q?jE6pNRMyoCqGQeU7f12qWcTWAjo15t=5Fr00DkHb=5F?=
+ =?us-ascii?Q?Q=5FUZzQvkAlBFjfb2abc77XsUvols-j1PdoUZSQz?=
+ =?us-ascii?Q?pFEEXYR2VHVK31zPkvKxGqfCigiJn26vZo6OL2-?=
+ =?us-ascii?Q?hhpwpQKrb3tPyFfUc5t0FuFKABiN6zxVR4S7=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject?=
+ =?us-ascii?Q?=3D51770802=2E=5Fm47EG6Ht3S6Y0S6KoMlS4-MXAEXJ?=
+ =?us-ascii?Q?cwnZiI68N9lU=5FxoMDAwdTAwMJm568m1D8O9Zm3d?=
+ =?us-ascii?Q?ykaano3ymNiU0vknldCozzKIcjo6OIFLgQJ4cPy?=
+ =?us-ascii?Q?=5FVfE-vEUpZYx2uzWuq9jsmaeebKnMz-D0UXgLna?=
+ =?us-ascii?Q?daSk1bcKGJEXzrnCvZZlMrOqEKoxKNavnhbg=3D=3D=2E?=
+ =?us-ascii?Q?blUA3T9gxbwhHkYLu8w8y-gIZL8O1oQqvpEl74v?=
+ =?us-ascii?Q?HuVxoMDAwdTAwMCqZf2CNu0sp9e4XHaHEx9gaa6?=
+ =?us-ascii?Q?awPNMiy3VAYfPTCq5fQXIQNSD8jgOOvXpDyULQB?=
+ =?us-ascii?Q?H1eo7W31XiG5J9JyauWlm0NuFMV4zCnMr3B=5FEmK?=
+ =?us-ascii?Q?mXDQDESoTyn8JrtLsVF-jDN4wtFzFZGppPy25FN?=
+ =?us-ascii?Q?LJpcfUSiygNQ60tmnA8wvawoa-=5FtMWShiSEpgrZ?=
+ =?us-ascii?Q?5KQCigRenAPTA9D4KOT1IyJLJwXXwOaCezF8MCu?=
+ =?us-ascii?Q?g=5FS8YpOZ3bvgcmGtBgVlkm24brBB=5Fw7KIeeGhKE?=
+ =?us-ascii?Q?uNl-NOhbWEo3RHQPRZYFmft0XgupEF27reJAsc4?=
+ =?us-ascii?Q?W=5F9DGSNdGQb2ZT4O0-E9=5FrdxRvPGl81xLesiOvb?=
+ =?us-ascii?Q?q1wvuLUaV2NJ0B-YO=5FqvUg8vouWDfL28Kjpi4o5?=
+ =?us-ascii?Q?UtB8urZSzEahE5igOFn3HCoMJZHpiK2FoQinKjW?=
+ =?us-ascii?Q?OARueZ5R0tn8Rm=5FGYt74g4vVqXtnPeN5Fwt7D07?=
+ =?us-ascii?Q?maIvM2fMAVN8djzaf2qXNXSrASTuPfcUsqeZ-io?=
+ =?us-ascii?Q?tlR-kD0IkP39=5F4fmotIvdNcGEC1CUnh3O1WhKv2?=
+ =?us-ascii?Q?xi-1NPCHhQYns-xoAcVIrglJX-6=5FZ5S6UjIXPLs?=
+ =?us-ascii?Q?cnGPvM0=5FceynkJklQnu4J6NjjDOsGdHkvlOmyPF?=
+ =?us-ascii?Q?zg7RhqHcIayPphCQKD9P-WMkRnjWhHuxb1DI9JV?=
+ =?us-ascii?Q?GAUvFyZyZjqo=5FXRCHDPVxHW2t6aQv4kpOopStil?=
+ =?us-ascii?Q?s2Red-cuyMpqNiK3Hnc9ItcuPZVEjRyHO-W8cYJ?=
+ =?us-ascii?Q?1rfnXjLlULCo3w7Fh-TtS8CEShPbKvrqn3-q0zu?=
+ =?us-ascii?Q?xdo4UsgHarcSab6ciU=5F1o7nlPKLir-tPVm-0seL?=
+ =?us-ascii?Q?=5FPp0tPj9sc46apUuGRk6V1uIpzP49yhBSMJ3BoQ?=
+ =?us-ascii?Q?vEIW8Vtt-oEjNmggpTiDNuhlbAo3ZuLL6eL=5F0Km?=
+ =?us-ascii?Q?yGEGIc=5FgKkgg2w=3D=3D=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+
+--6fb289ba12f6db96bbca41556493c213d4e7cc5301df66a9ce690f9d84ed
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Dear eddieb1937@hotmail.com,
+
+We're confirming your recent asset transfer request. Please review the deta=
+ils below:
+
+*Transfer ID:
+CS-9Y5L83Q2
+Transfer Amount:
+$5,800.00
+Status:
+Processing Pending
+$5,800.00
+Security Verification*
+If you did not authorize this transfer:
+
+=F0=9F=9A=A8 Call to Cancel Immediately
+Contact Schwab Security Team at: *(888) 381-2985*
+Available 24/7 for unauthorized activity
+
+The transfer typically completes within 3-5 business days. You'll receive a=
+nother notification when complete.
+
+Thank you for choosing Charles Schwab for your investment needs.
+
+*Charles Schwab Client Services
+(888) 381-2985*
+
+=C2=A9 2024 Charles Schwab & Co., Inc. All rights=C2=A0reserved.
+
+Travis M
+
+Charles S , Brooklyn , =20
+
+Unsubscribe ( https://u51770802.ct.sendgrid.net/asm/unsubscribe/?user_id=3D=
+51770802&data=3DvvofsD1RqU916_mpOkl8_cxnOeddMgdMdb4jMCQ5OZxoMDAwdTAwMF5OMcc=
+sxhhM_bmZVILxdrVyoFEO3Su6oIOr6wgkrSuINTOiHW_ZhMeE06kX4hxqQEDJ_4Q3NLRvYqSS85=
+bGZX36sNraU-YgADfaN61WzDAAivleeWHP-BT2adstAM3RLODvKB3S0QFln5VdUxiesG--6weIe=
+yA73KtNZ8giCIci0CmUrryjeKNVq0g_ZV7H4Ew32IHeb1Q9Z0DXK63Khn3aoH-gjyhl0ez1Hr12=
+sKQO049DR_vb2lM7oVglcbcVfntjmW6CDWx47CfVxXM8F9CIz4xMRxap8cO3KbQf19hEfs1Z3Zb=
+BTavZ_oL0B-4eR8isZletiSInq-aj9_dx2PGYrhmfkm23UhlN3xxi77GWYHfk-hIrPrC6CkLHzL=
+ertQpjmKehNAO0NeXWdtbKvDmp-H7QQJdW7vBD_diAc5cRaWqUoWCK1h_Wcu8Su_28r5fFL8pQO=
+4cULJvdY-WueREVOehKAULVl4PyU-H_-3hASRqy7k_fzLFsXuaFLHj74EGyWTWK-zZ15XdCIfKc=
+FLIcrOlESK046Udl_hAj0ytXh3wZiXaUYAJPhYsc7fdP2ueS6v8Dld4WMbZfxwRyYOuBewlRAJ2=
+ZxbfklHtQZsoUu-3wnfr55c3sFWdQWt9IupI7_biKV8JtiYsutMLVFwgRFiwokF5uhII5iV3RdV=
+WZMvQLchMzkFqINaNFz7g8UntjvfF3SMifEwf9HwLQ0cSd5s691fkQRd8ENkWmQLi9SyYFf4TKl=
+BE7Rr-Z6AmwQpxbfkoR4arq69E25sWTuovbay5hcaNJJlCo3__2IsX6wAx14Nxyt9pdzaKaxRsm=
+hn3jqhKQ6_2IO36QuTalC3Bk_UvE2xg6IRcbtcVmap6bZxFKAqX6FYi3FpWo0DCxovO17Yl7Fje=
+EGmC8pnf9LFvx6-1TiDq4ssoZ7uyuTiYr3xVAE3JKm0CZ7p6WAuM2BviFDOOiXqqsZi8N4jkfED=
+uBv1bdLP2CoiK23DM2SfKKnPoNURKGzkujmF1CKqyzTiyBnfjpzpc7FDQyT57yw2JKh47rsXVv0=
+KGFvjBUMkqU ) - Unsubscribe Preferences ( https://u51770802.ct.sendgrid.net=
+/asm/?user_id=3D51770802&data=3Da4KN9Gc3dL8i6Acf8Ir_h72_hXVZbGbnwUf5cExiBsN=
+oMDAwdTAwMHw0wG1Vw_PwRRhtSjWDtwKsGa1aCFE-xejzWRmDAva1uS2weAt51-l7HCNfXbedhU=
+s0wqJiM9XEaFRm777S_tLPnZx_gLRr6Z5u2G1LM6qb3T_fWv6Ql2ir6yyHQZx47IPpY_0-uGRcQ=
+GlT7_4ndolv2V7tSN0NMUUbsZQ4CFgT5nxNK6dGImdSgdTPwpNpXxaqI3o6DZ7nNF8wzBRm-lz1=
+nF9KlWyFPhwI_J8ZAnVK-h6nf41s8fDuermBydZcdYnmtpt-Ewn1FxRQwLEPaQ0GqpeA0EWxvHz=
+uiRDGQK2M0IIdixALI2yrtvM6PgulXvPBHY4EoAl6hdx00st_OtTLZ6W4e2kZh3f5lFO72amVnR=
+JV18MgtVyMo5fBoLgMuU5x9pgyOVdfEHQ6c7z15TIeF0ZRFkmJhw2efS4CZ29rOFFIcuEDF49CD=
+VFCV2Xdf5GFrILFKR_VWjDv74eioDRuKbZ1pL50bd-biotPvGp-gVsEJ0EFh6DcDaSLa1KE8P5G=
+YERlztuk1dMX9ym0y_BtYqE4Bdbh3a8pUjEYhxB7Zb0ruuwHGy4i9dWDEU0iPf4nbrhmhZgpvBj=
+1FVAIxRwXBl9ETAEbJ1fer4hOii4yeHV3b9U2iSrWxWO1-lwsqDCI0NQoxZ7i4mUcyveoZfFiBQ=
+Xj1Hcwanz40qgOuwOJ6v2vw2ScqJZZZrZ3i_xf3V3koQdnXVqNPfiCgjG51auEU28qQNGzRj36f=
+fjqczfTUSJ-45ndeUDE782zZV6B1Qjlbt6wBRuZvQPe18TsU4tA64SmXZNWiExMOuTDTsdZTJZs=
+FTyt3OVnkUKalWxVrxDjRqtFg4sMxD7ox4Fte84HlwoqLLs4PWGsTqRHCDAHjBPEn1fLto87FtP=
+MnJmCkgPg0ESzETIL5m9y0oJgw5YFTvI1iuEt6nlbJsRE6QTVGI_0DdiL6la3vgZVuXds3gQt5o=
+wmhBZBDTG1Gr_4haKh5-zZ8msZiMybUFJ0UQA_nUo1Wpcf1g9IgUztB3JlBiIm3EIUGWAHTwUND=
+oDW6uI=3D )
+--6fb289ba12f6db96bbca41556493c213d4e7cc5301df66a9ce690f9d84ed
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Strict//EN"" ""http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"">
+<html data-editor-version=3D""2"" class=3D""sg-campaigns"" xmlns=3D""http://www.=
+w3.org/1999/xhtml"">
+    <head>
+      <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf=
+-8"">
+      <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scal=
+e=3D1, minimum-scale=3D1, maximum-scale=3D1"">
+      <!--[if !mso]><!-->
+      <meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3DEdge"">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type=3D""text/css"">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type=3D""text/css"">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class=3D""wrapper"" data-link-color=3D""#1188E6"" data-body-style=
+=3D""font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; =
+background-color:#FFFFFF;"">
+        <div class=3D""webkit"">
+          <table cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"" width=3D""=
+100%"" class=3D""wrapper"" bgcolor=3D""#FFFFFF"">
+            <tr>
+              <td valign=3D""top"" bgcolor=3D""#FFFFFF"" width=3D""100%"">
+                <table width=3D""100%"" role=3D""content-container"" class=3D""o=
+uter"" align=3D""center"" cellpadding=3D""0"" cellspacing=3D""0"" border=3D""0"">
+                  <tr>
+                    <td width=3D""100%"">
+                      <table width=3D""100%"" cellpadding=3D""0"" cellspacing=
+=3D""0"" border=3D""0"">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width=3D""600"">
+  <![endif]-->
+                                    <table width=3D""100%"" cellpadding=3D""0""=
+ cellspacing=3D""0"" border=3D""0"" style=3D""width:100%; max-width:600px;"" alig=
+n=3D""center"">
+                                      <tr>
+                                        <td role=3D""modules-container"" styl=
+e=3D""padding:0px 0px 0px 0px; color:#000000; text-align:left;"" bgcolor=3D""#=
+FFFFFF"" width=3D""100%"" align=3D""left""><table class=3D""module preheader preh=
+eader-hide"" role=3D""module"" data-type=3D""preheader"" border=3D""0"" cellpaddin=
+g=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""display: none !important;=
+ mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height:=
+ 0; width: 0;"">
+    <tr>
+      <td role=3D""module-content"">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class=3D""module"" role=3D""module"" data-type=3D""text"" border=
+=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" style=3D""table-la=
+yout: fixed;"" data-muid=3D""6f573a97-b966-48a4-b043-f80e65665479"">
+    <tbody>
+      <tr>
+        <td style=3D""padding:18px 0px 18px 0px; line-height:22px; text-alig=
+n:inherit;"" height=3D""100%"" valign=3D""top"" bgcolor=3D"""" role=3D""module-cont=
+ent""><div><div style=3D""font-family: inherit""><span style=3D""font-size: 18p=
+x"">Dear eddieb1937@hotmail.com,<br>
+<br>
+We're confirming your recent asset transfer request. Please review the deta=
+ils below:<br>
+<br>
+</span><span style=3D""font-size: 18px""><u><strong>Transfer ID:<br>
+CS-9Y5L83Q2<br>
+Transfer Amount:<br>
+$5,800.00<br>
+Status:<br>
+Processing Pending<br>
+$5,800.00<br>
+Security Verification</strong></u></span><span style=3D""font-size: 18px""><b=
+r>
+If you did not authorize this transfer:<br>
+<br>
+=F0=9F=9A=A8 Call to Cancel Immediately<br>
+Contact Schwab Security Team at: </span><span style=3D""font-size: 18px""><u>=
+<strong>(888) 381-2985</strong></u></span><span style=3D""font-size: 18px""><=
+br>
+Available 24/7 for unauthorized activity<br>
+<br>
+The transfer typically completes within 3-5 business days. You'll receive a=
+nother notification when complete.<br>
+<br>
+Thank you for choosing Charles Schwab for your investment needs.<br>
+<br>
+</span><span style=3D""font-size: 24px""><u><strong>Charles Schwab Client Ser=
+vices<br>
+(888) 381-2985</strong></u></span><span style=3D""font-size: 18px""><br>
+<br>
+=C2=A9 2024 Charles Schwab &amp; Co., Inc. All rights&nbsp;reserved.</span>=
+</div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table><div data-role=3D""module-unsubscribe"" class=3D""module"" role=3D""mo=
+dule"" data-type=3D""unsubscribe"" style=3D""color:#444444; font-size:12px; lin=
+e-height:20px; padding:16px 16px 16px 16px; text-align:Center;"" data-muid=
+=3D""4e838cf3-9892-4a6d-94d6-170e474d21e5""><div class=3D""Unsubscribe--addres=
+sLine""><p class=3D""Unsubscribe--senderName"" style=3D""font-size:12px; line-h=
+eight:20px;"">Travis M</p><p style=3D""font-size:12px; line-height:20px;""><sp=
+an class=3D""Unsubscribe--senderAddress"">Charles S</span>, <span class=3D""Un=
+subscribe--senderCity"">Brooklyn</span>, <span class=3D""Unsubscribe--senderS=
+tate""></span> <span class=3D""Unsubscribe--senderZip""></span></p></div><p st=
+yle=3D""font-size:12px; line-height:20px;""><a class=3D""Unsubscribe--unsubscr=
+ibeLink"" href=3D""https://u51770802.ct.sendgrid.net/asm/unsubscribe/?user_id=
+=3D51770802&amp;data=3DvvofsD1RqU916_mpOkl8_cxnOeddMgdMdb4jMCQ5OZxoMDAwdTAw=
+MF5OMccsxhhM_bmZVILxdrVyoFEO3Su6oIOr6wgkrSuINTOiHW_ZhMeE06kX4hxqQEDJ_4Q3NLR=
+vYqSS85bGZX36sNraU-YgADfaN61WzDAAivleeWHP-BT2adstAM3RLODvKB3S0QFln5VdUxiesG=
+--6weIeyA73KtNZ8giCIci0CmUrryjeKNVq0g_ZV7H4Ew32IHeb1Q9Z0DXK63Khn3aoH-gjyhl0=
+ez1Hr12sKQO049DR_vb2lM7oVglcbcVfntjmW6CDWx47CfVxXM8F9CIz4xMRxap8cO3KbQf19hE=
+fs1Z3ZbBTavZ_oL0B-4eR8isZletiSInq-aj9_dx2PGYrhmfkm23UhlN3xxi77GWYHfk-hIrPrC=
+6CkLHzLertQpjmKehNAO0NeXWdtbKvDmp-H7QQJdW7vBD_diAc5cRaWqUoWCK1h_Wcu8Su_28r5=
+fFL8pQO4cULJvdY-WueREVOehKAULVl4PyU-H_-3hASRqy7k_fzLFsXuaFLHj74EGyWTWK-zZ15=
+XdCIfKcFLIcrOlESK046Udl_hAj0ytXh3wZiXaUYAJPhYsc7fdP2ueS6v8Dld4WMbZfxwRyYOuB=
+ewlRAJ2ZxbfklHtQZsoUu-3wnfr55c3sFWdQWt9IupI7_biKV8JtiYsutMLVFwgRFiwokF5uhII=
+5iV3RdVWZMvQLchMzkFqINaNFz7g8UntjvfF3SMifEwf9HwLQ0cSd5s691fkQRd8ENkWmQLi9Sy=
+YFf4TKlBE7Rr-Z6AmwQpxbfkoR4arq69E25sWTuovbay5hcaNJJlCo3__2IsX6wAx14Nxyt9pdz=
+aKaxRsmhn3jqhKQ6_2IO36QuTalC3Bk_UvE2xg6IRcbtcVmap6bZxFKAqX6FYi3FpWo0DCxovO1=
+7Yl7FjeEGmC8pnf9LFvx6-1TiDq4ssoZ7uyuTiYr3xVAE3JKm0CZ7p6WAuM2BviFDOOiXqqsZi8=
+N4jkfEDuBv1bdLP2CoiK23DM2SfKKnPoNURKGzkujmF1CKqyzTiyBnfjpzpc7FDQyT57yw2JKh4=
+7rsXVv0KGFvjBUMkqU"" target=3D""_blank"" style=3D"""">Unsubscribe</a> - <a href=
+=3D""https://u51770802.ct.sendgrid.net/asm/?user_id=3D51770802&amp;data=3Da4=
+KN9Gc3dL8i6Acf8Ir_h72_hXVZbGbnwUf5cExiBsNoMDAwdTAwMHw0wG1Vw_PwRRhtSjWDtwKsG=
+a1aCFE-xejzWRmDAva1uS2weAt51-l7HCNfXbedhUs0wqJiM9XEaFRm777S_tLPnZx_gLRr6Z5u=
+2G1LM6qb3T_fWv6Ql2ir6yyHQZx47IPpY_0-uGRcQGlT7_4ndolv2V7tSN0NMUUbsZQ4CFgT5nx=
+NK6dGImdSgdTPwpNpXxaqI3o6DZ7nNF8wzBRm-lz1nF9KlWyFPhwI_J8ZAnVK-h6nf41s8fDuer=
+mBydZcdYnmtpt-Ewn1FxRQwLEPaQ0GqpeA0EWxvHzuiRDGQK2M0IIdixALI2yrtvM6PgulXvPBH=
+Y4EoAl6hdx00st_OtTLZ6W4e2kZh3f5lFO72amVnRJV18MgtVyMo5fBoLgMuU5x9pgyOVdfEHQ6=
+c7z15TIeF0ZRFkmJhw2efS4CZ29rOFFIcuEDF49CDVFCV2Xdf5GFrILFKR_VWjDv74eioDRuKbZ=
+1pL50bd-biotPvGp-gVsEJ0EFh6DcDaSLa1KE8P5GYERlztuk1dMX9ym0y_BtYqE4Bdbh3a8pUj=
+EYhxB7Zb0ruuwHGy4i9dWDEU0iPf4nbrhmhZgpvBj1FVAIxRwXBl9ETAEbJ1fer4hOii4yeHV3b=
+9U2iSrWxWO1-lwsqDCI0NQoxZ7i4mUcyveoZfFiBQXj1Hcwanz40qgOuwOJ6v2vw2ScqJZZZrZ3=
+i_xf3V3koQdnXVqNPfiCgjG51auEU28qQNGzRj36ffjqczfTUSJ-45ndeUDE782zZV6B1Qjlbt6=
+wBRuZvQPe18TsU4tA64SmXZNWiExMOuTDTsdZTJZsFTyt3OVnkUKalWxVrxDjRqtFg4sMxD7ox4=
+Fte84HlwoqLLs4PWGsTqRHCDAHjBPEn1fLto87FtPMnJmCkgPg0ESzETIL5m9y0oJgw5YFTvI1i=
+uEt6nlbJsRE6QTVGI_0DdiL6la3vgZVuXds3gQt5owmhBZBDTG1Gr_4haKh5-zZ8msZiMybUFJ0=
+UQA_nUo1Wpcf1g9IgUztB3JlBiIm3EIUGWAHTwUNDoDW6uI=3D"" target=3D""_blank"" class=
+=3D""Unsubscribe--unsubscribePreferences"" style=3D"""">Unsubscribe Preferences=
+</a></p></div></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <img src=3D""https://u51770802.ct.sendgrid.net/wf/open?upn=3Du001.P7tk76=
+k3M9AlUUX6akT0wdmpZipu0VUau6HxGJnkK-2BR8DbU0ZQm7nIqJkxgX3AWVL9PdjneSQZndJU2=
+SJttEgcQw79gxy69IwUvGHbWuA6wxyy3Zzn3tXDCYDaWtokdFGwxRIKCNvZTsk7HB6cnRWtKZpZ=
+tAAk744n0bSJfYTlfuF9w04qNtDA76XTZS3kqvCi-2FA7VzDxT32biPAAUFjl9HzXxhSPmMYnGx=
+BgJ7qp7n6Aes4YQWmmwc-2BizGsajhlj3wJP72p2ZStbCQC4LAdAnUzvCjgRaBHyT-2Bt3vqCtP=
+6Wspl0knl9j3AzNmEeMn04HjXzNluqNkRzxS1mcpjV844ctIsfFxU2xxIctOqRpaELyXlg0-2B3=
+g17Nn7a-2F-2BvHVxfBVw4tmMEnLJXEFf4G5WcI4w2erw8hlvkF1X6ljpbODM-2BB-2B30JjA6E=
+xj2aB5b-2BofmgAtKKqBI38M28oHdDC1HTqRxo0Q7CIxV5Zj8wqD8OEGfZCAoH-2FjhJwdpa8qD=
+4PmohFTMAKvkMMg-2BzBoOgYNn1mPMzBayYjzvKu-2BPunqgpDAoJDQ3a93UM-2BeL3qcYtWHU7=
+t5u9YhQ8s1yj1KxunQOAqO6C5ogxdjxDHW3byd566e5A4jlGhZPVTchizKxSiLA0QYLNRFIpScP=
+9VYTo9WQlIG-2F56YoCvBWJTuT-2Fvr0rhbv-2FnHNQJDMJeh38rnj-2BCe4g0JhwH1oub7pwQc=
+bWy5y-2FLPYfr2BwUheIj7COfqD7A-2FiKw7i3-2Fb3jKPN8LTZFys9umniQ-2FkqZPqxg1qSnw=
+eyjGRqTK7iBJzQuTth9lsi2sGtMSlpzou-2FXKzhYy24FYLnDfN6HUwN4IVUwE5mF1zswQaZbk2=
+LqNDUcVH2sFiKuq9tCMKJnD-2BrI6GTivk82ldVj88PZ1P22gN-2FH2rUPl38A-3D-3D"" alt=
+=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;""/></body>
+  </html>
+--6fb289ba12f6db96bbca41556493c213d4e7cc5301df66a9ce690f9d84ed--
+","""Travis M"" <travismarker53@gmail.com>",eddieb1937@hotmail.com,2025-04-04,34.225.201.237,United States,en,users/51770802/1f229b32-ed0f-4337-9aa2-5b30864167b5.json

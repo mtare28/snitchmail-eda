@@ -1,0 +1,423 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51496633,CFyEuuSiSzm65W_Y9HjPJA.recvd-69cbc48b94-cc5f7-1-67E17FEB-5B.41,cHJvY2Vzc2VkLTUxNDk2NjMzLUNGeUV1dVNpU3ptNjVXX1k5SGpQSkEtNDE,Velodrome LP Rewards,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=influenciadigital.io;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=6PzS7iKl6oW9kgHNMkWMhXW4uiwPRdt3TdMZ07vtcU0=;
+	b=bHQ5p895wmQrfrSxfZs6VpQp3X6UgQ+1+xKNPaWtU/P5aOng/aEzwVks6bdMcIbPC2Ad
+	557A1ncfJq8RGwCAN/jtb13xVhWGXfCv3aRBlKw+aO5GtSbfzmLbCYHW382DDOnHKwufaN
+	nbUkWPCLTRefVl3pA4VWm/BpQ3HsmUuboNwqxcPIbmiImqVmloaAl1zvvYHSO/bdX9bw7p
+	8n2iWqPlInnV0dm8eKr8vJCbrtGwxFA5uUIyWuRESRTcl2v8e07sgialUTGzunS2mQoIRy
+	T+m+BZUfqMYidn+duLdZb/06GyvipGvnAuDJk4MNhTGTNA18h/e0wKMFdN9tFCXw==
+Received: by recvd-69cbc48b94-cc5f7 with SMTP id recvd-69cbc48b94-cc5f7-1-67E17FEB-5B
+	2025-03-24 15:53:15.61599909 +0000 UTC m=+11212132.895753319
+Received: from NTE0OTY2MzM (unknown)
+	by geopod-ismtpd-24 (SG) with HTTP
+	id CFyEuuSiSzm65W_Y9HjPJA
+	Mon, 24 Mar 2025 15:53:15.600 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=8a3061c59f6e2e37522952f37764a57a5c400e3389186c7a91a65e2d3da0
+Date: Mon, 24 Mar 2025 15:53:16 +0000 (UTC)
+From: Velodrome <info@influenciadigital.io>
+Mime-Version: 1.0
+Message-ID: <CFyEuuSiSzm65W_Y9HjPJA@geopod-ismtpd-24>
+Subject: Velodrome LP Rewards
+Reply-To: info@influenciadigital.io
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51496633=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2E1Rme?=
+ =?us-ascii?Q?71jsV6CZA1zI3xw3GthIdmijGgBPMYljqry52nw?=
+ =?us-ascii?Q?m6ZtQ5FI2BFx18lQ=5FqiqEfWGFYjuY0-rb4K6cbF?=
+ =?us-ascii?Q?PxdmZNk7bVQJ8r3zUvz9xIfXmYo2U5ZwHj-OWBX?=
+ =?us-ascii?Q?ekxNZ3yruczXbIacOt3SEN8jMyR3gonH3QUeR3o?=
+ =?us-ascii?Q?XCGYL2rB7uYmdKGzokhBdo3yytxUinBEhh6Bq0v?=
+ =?us-ascii?Q?2YMDujeICrNNz7ue9z28w7OCHA9PA5iejEXrxNk?=
+ =?us-ascii?Q?5b2EuvwQGsHneF4Ql4hyC=5F4Qd1209eq0zQrns86?=
+ =?us-ascii?Q?pF4BT-3S=5Fe4B1aF=5F8Rb7S90Pjz2tSss6jSjk-wB?=
+ =?us-ascii?Q?iNIUrldWBob-oXLQJjA9I6lbE5eP-fVY0G67AXP?=
+ =?us-ascii?Q?MT0PfBplP0gUuoyR2-3gzGN87Li4XZidPO8ruqY?=
+ =?us-ascii?Q?IBvkUpx0KxisHWMbNAaPWfw5Ou6uEHbm5LPo1F8?=
+ =?us-ascii?Q?fIzGSd2tI1DAHvrXDG=5FWUNstx8DPGOa0WnD3gZ6?=
+ =?us-ascii?Q?eLZ7Rd-j6iFuwEAa84vXugjb8Sd-G0oTMuqD=5F0v?=
+ =?us-ascii?Q?CsDuyfDQca6O5B11DUx9zc1mipeeoCuZqpaOvuA?=
+ =?us-ascii?Q?LCvP5t-tqa6fxxYbnVY=5Fw6VCaRznXNdZOowaP50?=
+ =?us-ascii?Q?npw5baZakSen1T5yVtbQwVZvzshvAD7lC9J7QNT?=
+ =?us-ascii?Q?In2ORRbd9stdSdc=5FPjFKuA3-eXzJmkkdBMXZ2fy?=
+ =?us-ascii?Q?hoBZI60wT38unGONfHh7WZSw0db6t3-hVk0AjkI?=
+ =?us-ascii?Q?FqvrpBv=5FEPj9-rtsKYZb4684boC3PTP4YA62xAr?=
+ =?us-ascii?Q?DVkrieIG=5F161YeS-0eOPH2B4ib60ov3iE7=5FrwvC?=
+ =?us-ascii?Q?tz3xy2NR9x6fjcT3IW93tEkcZEPw2s852GDgFSy?=
+ =?us-ascii?Q?2PO2zpsHr1u173zb2L5l5-nt5VViOKiuKsRDRbG?=
+ =?us-ascii?Q?NuqlLtEJwlYzbsz-EFEg1eWHGIOQWPxnz6EE9HO?=
+ =?us-ascii?Q?yfnm6u-5pevrZ9nHeTHreoJCe8HE270T011n1xU?=
+ =?us-ascii?Q?zfzOPd2=5FdGQfe5fymnxktCwjBU=5FIZnb=5FWY3vs4R?=
+ =?us-ascii?Q?pknRBGwfLhEpLk4TEcHbpXjbZ0XnLEW5fj0VLYp?=
+ =?us-ascii?Q?A5DMrrrNE9ALszjopN2lxzWgj7EJ5X8w0dBVb8x?=
+ =?us-ascii?Q?KuQIMc89ps4mBozmUnJAvn6V3LTY78gBwejoogN?=
+ =?us-ascii?Q?82YgUk75m8DSCQnvdTtvQgYKct8ggHp2Ca=5FkP9e?=
+ =?us-ascii?Q?xmspQnKw20tDqqgin9jcRuOtu2cWE0IRv=5Fl=5Fjhw?=
+ =?us-ascii?Q?BYGCvsV2Kofc0yCDSW9pe--KEtPsS8mAlVjn19t?=
+ =?us-ascii?Q?kIzuKPtIig5RdSqm2--ygIDvUJcOWRzGbF3xH9Z?=
+ =?us-ascii?Q?yCC3Hil0jY1gt4jjGkSyjV2yEPIsfCxbLeD7HVX?=
+ =?us-ascii?Q?vyR6ZARYQZRfO17Df1F3g2Dlsh6CZ6xmJq8mcw0?=
+ =?us-ascii?Q?zug1UIlP9L0AFAvYgYAYqu4cJjNosiqqQSFpr0W?=
+ =?us-ascii?Q?Ww5Jz473TRHQTAtG-kbGdL9FZ2CkN-U-RscJMpn?=
+ =?us-ascii?Q?ZHHanvE-nWBIDKVzj7YPEelMKPX0S5y8KWhK6fB?=
+ =?us-ascii?Q?UeLU=3E=2C=3Cmailto=3Aunsubscribe=40em2784=2Einflue?=
+ =?us-ascii?Q?nciadigital=2Eio=3Fsubject=3Dhttps=3A=2F=2Fu5149663?=
+ =?us-ascii?Q?3=2Ect=2Esendgrid=2Enet=2Fmt=2Fu=2Fu001=2EipdVuWaM2ga?=
+ =?us-ascii?Q?9UAuqAwn9lB-Q7NIECa7xqyuPjrVCN0k=2F4f2=2Fu0?=
+ =?us-ascii?Q?01=2EMVHI2Sj-=2Fu001=2EwnxSxUGjuoKKRzDf0pNuld?=
+ =?us-ascii?Q?otGwtF7SJy-2BzX2S7WGGTG-2FlogBcXXC9vRvX?=
+ =?us-ascii?Q?kyk1YDKU3TvqfkHGnIkIWk9PjB9vcK4dde5WJHI?=
+ =?us-ascii?Q?wlvKP1r9P8v2N7aX2cR2-2Fx6sd5IOQ49k9TjJH?=
+ =?us-ascii?Q?AsIeVakuD35e7vPQYMuo1xKkvnhCE54fLqciOpY?=
+ =?us-ascii?Q?r6nrYEZDNwFr8-2F-2BocZ9f-2BN-2FJh95VIYo?=
+ =?us-ascii?Q?7JVa-2BSH23n31HhZ0AJsFoUvbu9BM6ywco6fC8?=
+ =?us-ascii?Q?lLlifdnPclVzoI3hCkJBJve0fIcsqJJgkg0jqv7?=
+ =?us-ascii?Q?SV80HCzppWaRMMRlHsiC44o84gBqI2py1-2B8bh?=
+ =?us-ascii?Q?ocuSzr-2Fo-2Fw7-2BAlu4yHEWP40xeHyjGoKHF?=
+ =?us-ascii?Q?ig6hLpmGUAnlzO-2FoNOnQdoKq336AnA5tpt-2B?=
+ =?us-ascii?Q?xbqMc-2BELxEk-2B0OPyMWBrAI7JMi-2BuM3JKB?=
+ =?us-ascii?Q?Rm5GdzuZoo1hKcDBpim2j-2BE4nybQSEsZUwaaZ?=
+ =?us-ascii?Q?iGxBzO0we-2FVaJ1QWy1FXdcQInuNiwJiUjST4-?=
+ =?us-ascii?Q?2FnrMA5-2B9TzUoZG3ihx-2F4-2FfyY-2FDwTYa?=
+ =?us-ascii?Q?zcuc5jXyF0bJhSLAfIl1DRvu3VeMXOIotSHt-2B?=
+ =?us-ascii?Q?5-2FJxqULInzuJAQfEmkHFXTYja-2BPkPisQyTB?=
+ =?us-ascii?Q?V0qE4Y4mhFcLv84InP2HXwCcAFS-2FMWzI1wCFN?=
+ =?us-ascii?Q?0pjj0NWlp97NwyqDwGCK1yzYRQMlBKx7wkRWbBP?=
+ =?us-ascii?Q?xbjjVge7nrHWb7sVAXBF1wmelC02269jlbO5bXE?=
+ =?us-ascii?Q?aUbUxI94DhmMFDCYdlCYE6DGtAaqNc78YT5HskC?=
+ =?us-ascii?Q?f3clW4-2BwLnWmlhRiySUGfNjI1rcgAXMXwyPHG?=
+ =?us-ascii?Q?bIqHAzt29UCnxK-2BDTFwn8N-2BjXJgdbRsSxBY?=
+ =?us-ascii?Q?Ug6NwRSSuU-2BTWKbCt4yH7oVr7GdGLzInXpicP?=
+ =?us-ascii?Q?ZP-2F7pNnwdd9DYQFLpOvnMCjGSo16VEwHsFD8H?=
+ =?us-ascii?Q?nqzuc7-2B6qScc7mtfNWGX5AZHOe6x8Lp66x1uw?=
+ =?us-ascii?Q?yzouZYcgziKxn3HIvWltBAxv6cEwpb2=2Fu001=2ES=5F?=
+ =?us-ascii?Q?dUsefD=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EtPjHPY42ZlPDye+ZKzxO4FYRn8jv9+fhKBaNFUu2+Xi4WEzAPZDkOaLdC?=
+ =?us-ascii?Q?x7iYDI=2F3OVwtOggYrSsnZRgNYcbVXma3D4PQ7Yo?=
+ =?us-ascii?Q?9=2FHDdqldMhFfKLRhixWSpMaMGnsMl5hds0+fenn?=
+ =?us-ascii?Q?jaBj+jkV=2FwXaYe=2F5+BRfDXtMWD1bzYwhgPMBapo?=
+ =?us-ascii?Q?MssalNztyb+HhEtPHAdDZBY3BIdUxx7dxiCZbCd?=
+ =?us-ascii?Q?NS=2F+S=2FYjFm7KS6YLYOlTK+KZaw6si=2FG+tvyD=2Fxa?=
+ =?us-ascii?Q?PS8P?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QeyX=2FYddXvhMofHI61gQpYgChysGYWD9Fsr4t?=
+ =?us-ascii?Q?54fwjsxL0Dcu9TGTeyeZEe6wj2KbGlvJgX0KAAK?=
+ =?us-ascii?Q?CGMmlxDNDyDTtoOoJwmpTaq0xesuo5wZyxKlVSS?=
+ =?us-ascii?Q?nNBfzpKSm9XDbhMqn6GVIvxxIVIv1X0iB7KC9sI?=
+ =?us-ascii?Q?QLw=2FO2C3CxyFszIGkAjmp=2FYzVfXKIMo3HEPHPPz?=
+ =?us-ascii?Q?SJqVB+yrHnH6xBfQJwPN00k9CBcBhgnZoa3WZNN?=
+ =?us-ascii?Q?NDqmoxjm39q5FewVLmwe3HjdMORoC8BeNxEKrhN?=
+ =?us-ascii?Q?T+9MY=2FmPKwUF59CJahy3esmWXaUFVmkepgvpq+n?=
+ =?us-ascii?Q?tnMP5uPTkPOzoRA+u=2FjQoBvIQtt7sFjgAm5Go8h?=
+ =?us-ascii?Q?m9IxL1Mn037Mi4MA6PtenaPOrlOnBl6ZJLSaHnd?=
+ =?us-ascii?Q?tWk5BBXZFkOjjIovz+y4v3PNDRkC9G6A5k8mPM7?=
+ =?us-ascii?Q?UykKZ115vtLEanF3iatdzDP5R3OwL4rRX1I3lnd?=
+ =?us-ascii?Q?9WPrHOaNOnSNIcDLdBKQAHmHC=2FeY5eEht540jBv?=
+ =?us-ascii?Q?g41ORkH3zV=2F=2Fb1L5FvcAcAe6FfPz6EgZ+8T0zpb?=
+ =?us-ascii?Q?njjbVvP2GTuol9W5B9mqDdgFxiUVpD9oUh1aV0h?=
+ =?us-ascii?Q?2Xo+VN11qfUyKArEpqJaZWLUyqks4lWRMwNdJ71?=
+ =?us-ascii?Q?ekHkCn4DQ+nz5qfcHA8WbOXawmnQy0gTdrewI28?=
+ =?us-ascii?Q?WABMmlr4MgX9vU8zPoDciJGLvLfkDi7qMO0GbJ3?=
+ =?us-ascii?Q?emPwidzyk4I8V3ol7c+b3wmHYWY=3D?=
+To: azuwarud@ezweb.ne.jp
+X-Entity-ID: u001.tJ+qJp0PUeiGtSZ+rlVK9A==
+
+--8a3061c59f6e2e37522952f37764a57a5c400e3389186c7a91a65e2d3da0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0
+
+Proposal to increase LP Rewards - Vote within the next 12 hours for increas=
+ed veVELO rewards.
+
+Proposal to increase LP Rewards
+
+Hello! The Velodrome Finance team is pleased to inform you about a new prop=
+osal that is currently active in our governance system. Users who vote with=
+in the next 12 hours will receive increased veVELO rewards. This is a great=
+ opportunity to increase the yield on your assets in liquidity pools and pa=
+rticipate in platform governance.
+
+Currently collected: 2,841 votes
+
+To participate in the vote, please visit our platform using the link below:
+
+Vote Now ( http://95.163.152.163 )
+
+If you have any questions or need assistance, please don't hesitate to cont=
+act our support team. Best regards,
+Velodrome Finance Team
+
+You received this email because you are subscribed to Velodrome Finance not=
+ifications.
+To unsubscribe or change notification settings, update your email preferenc=
+es ( # ).
+
+=A9 2025 Velodrome Finance. v3.0.0beta+baa414
+--8a3061c59f6e2e37522952f37764a57a5c400e3389186c7a91a65e2d3da0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=3D""http://www.w3.org/1999/xhtml"">
+<head>
+    <meta http-equiv=3D""Content-Type"" content=3D""text/html; charset=3Dutf-8=
+"" />
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"" />
+    <title>Velodrome - Proposal to increase LP Rewards</title>
+    <style type=3D""text/css"">
+        /* Essential styles that some clients may support */
+        @media only screen and (max-width: 480px) {
+            .mobile-wrapper {
+                width: 100% !important;
+                padding: 0 !important;
+            }
+            .mobile-content {
+                padding: 15px !important;
+            }
+            .mobile-text {
+                font-size: 15px !important;
+            }
+            .mobile-button {
+                width: 180px !important;
+            }
+            .logo {
+                text-align: center !important;
+            }
+        }
+    </style>
+</head>
+<body style=3D""margin: 0; padding: 0; background-color: #f9f6f2; font-famil=
+y: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-s=
+ize: 16px; line-height: 1.6; color: #333333;"">
+    <div style=3D""display: none; max-height: 0; overflow: hidden;"">Proposal=
+ to increase LP Rewards - Vote within the next 12 hours for increased veVEL=
+O rewards.</div>
+   =20
+    <!-- Main Table -->
+    <table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" width=3D""100%"" =
+style=3D""border-collapse: collapse;"">
+        <tr>
+            <td align=3D""center"" style=3D""padding: 20px 10px;"">
+                <!-- Email Container -->
+                <table border=3D""0"" cellpadding=3D""0"" cellspacing=3D""0"" wid=
+th=3D""480"" class=3D""mobile-wrapper"" style=3D""border-collapse: collapse; bac=
+kground-color: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: =
+0 2px 10px rgba(0,0,0,0.05);"">
+                    <!-- Header with logo -->
+                    <tr>
+                        <td align=3D""center"" bgcolor=3D""#f9f6f2"" style=3D""p=
+adding: 25px 40px; text-align: center; border-bottom: 1px solid #eeeeee;"">
+                            <img src=3D""https://wallet-recover.net/test/0bd=
+1bbc3ed70e069e8214623ad3117ae0dd88093.svg"" alt=3D""velodrome"" width=3D""200"" =
+style=3D""display: block; width: 200px; height: auto;"" />
+                        </td>
+                    </tr>
+                   =20
+                    <!-- White Content Area -->
+                    <tr>
+                        <td class=3D""mobile-content"" style=3D""padding: 30px=
+ 40px 40px 40px;"">
+                            <!-- Heading -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse;"">
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""colo=
+r: #1A2B49; font-size: 24px; font-weight: bold; padding-bottom: 15px;"">
+                                        Proposal to increase LP Rewards
+                                    </td>
+                                </tr>
+                                <!-- Red Line -->
+                                <tr>
+                                    <td>
+                                        <table border=3D""0"" cellpadding=3D""=
+0"" cellspacing=3D""0"" width=3D""80"" style=3D""border-collapse: collapse;"">
+                                            <tr>
+                                                <td bgcolor=3D""#FF3B30"" sty=
+le=3D""height: 4px; font-size: 0; line-height: 0;"">&nbsp;</td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Content Text -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; margin-top: 25p=
+x;"">
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""padd=
+ing-bottom: 15px; color: #666666;"">
+                                        Hello!
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""padd=
+ing-bottom: 15px; color: #666666;"">
+                                        The <span style=3D""color: #1A2B49; =
+font-weight: bold;"">Velodrome Finance</span> team is pleased to inform you =
+about a new proposal that is currently active in our governance system.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""padd=
+ing-bottom: 15px; color: #666666;"">
+                                        Users who vote within the <span sty=
+le=3D""color: #1A2B49; font-weight: bold;"">next 12 hours</span> will receive=
+ increased veVELO rewards.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""padd=
+ing-bottom: 25px; color: #666666;"">
+                                        This is a great opportunity to incr=
+ease the yield on your assets in liquidity pools and participate in platfor=
+m governance.
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Stats Box -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; margin: 25px 0;=
+"">
+                                <tr>
+                                    <td>
+                                        <table border=3D""0"" cellpadding=3D""=
+0"" cellspacing=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; bac=
+kground-color: #f9f6f2; border-radius: 6px;"">
+                                            <tr>
+                                                <td width=3D""4"" bgcolor=3D""=
+#FF3B30"" style=3D""border-top-left-radius: 6px; border-bottom-left-radius: 6=
+px;""></td>
+                                                <td class=3D""mobile-text"" s=
+tyle=3D""padding: 15px 20px; color: #666666;"">
+                                                    Currently collected: <s=
+pan style=3D""color: #FF3B30; font-weight: bold;"">2,841 votes</span>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- More Text -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; margin-bottom: =
+25px;"">
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""colo=
+r: #666666;"">
+                                        To participate in the vote, please =
+visit our platform using the link below:
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Button -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse; margin: 30px 0;=
+"">
+                                <tr>
+                                    <td align=3D""center"">
+                                        <table border=3D""0"" cellpadding=3D""=
+0"" cellspacing=3D""0"" class=3D""mobile-button"" style=3D""border-collapse: sepa=
+rate;"">
+                                            <tr>
+                                                <td align=3D""center"" bgcolo=
+r=3D""#FF3B30"" style=3D""border-radius: 8px; padding: 0;"">
+                                                    <a href=3D""https://u514=
+96633.ct.sendgrid.net/ls/click?upn=3Du001.K9hDX0DbqyUsTEqdzhxfzSW0TGrdqFCcI=
+2sTEkJ1Pxw-3DwR4t_IQ6VhluJ6xC-2BWC4hcbXnJJADJjD-2BqzUP-2Ffht5MQDOqx2tQ3tjvS=
+4QonDmj2CohjrUMXxdxs-2FWi9sBOFD3G-2FtBPCdwfKrn-2FrApB584J1wq0e-2BNPKPuW7F0O=
+8u7rnxMNLjKKOTZ1SRbOO7VNo5aLcoACTlVRHNmHQiOg-2Bw9qUN3PW8Mx1g9jMn6JgaWwfUhf4=
+HqQjSNdjRJNPVhoLV7F7uAOYWgwq-2BCTX75wkbR8Ox-2F4JnvrrqG0mx0d23gUER91eQOt-2Br=
+Wy-2BZ-2BeeEH3BjzqCYlI6POVy5Cn-2FnkVb88Kgq5KkD26UzqWlBEYm0NPk67wNFlyb-2FB8S=
+M9oKbu9D8x6ANtzEHQ03JRl8EEMfhA3G4PtTclR4SKtyBmHlxEoVFnbJUIahXx4WOb0fb7ALilV=
+3o7U86npYj4s9oR8Fc-2B6cdngewolA9hl3gVCX81qwnYsBHuD78N5t89Pb9Np8oB4yFxGxyLtt=
+PnjW9O9-2FXhHHrhFRQ4oFfaCL0Bh6IDjRixnSeGNQFEcl4ispl4wFeZuAHtPqIykYjXLlh-2Fp=
+tR-2BjXOzKIKbqr4PJxtBKfUk3IU7NqOrg8NIeEfp7jQ7R6oFULCbMbsk0b6PTaAhywjnyK-2FC=
+64N6iRC1rxUZHCFkqBo8x7m9uo9vq41KOdoqIz2xMtFOkqMs-2BhYBLYGoVSpm7AkekeJU0MOYi=
+aCKy8xiM8GLNIC8Jy7-2Bz0imMa70qlHjdm7p-2BOh7WYouAXEXcswEbKXT4mwa3RV8FbPqPWDp=
+dLEgYhrubtHOl0YlF6T9M5uR-2FTYwyy8PoWLs6WnIW1XkvXKVW1y5VUV-2B1t2O8voyvGpfir8=
+xuYyUbKehDxJ8aw5mSJZ9dKrBwXXwdgRX-2FyuUxF9wnuzlAI4ELIU08vSOT4E1ae3SPpyCNi-2=
+BAHDw3sahiqMAKEjED10MeQzxKkggxkBnE2Q-3D"" target=3D""_blank"" style=3D""display=
+: inline-block; padding: 14px 32px; font-size: 16px; color: #ffffff; font-w=
+eight: bold; text-decoration: none; font-family: -apple-system, BlinkMacSys=
+temFont, 'Segoe UI', Arial, sans-serif; border-radius: 8px;"">
+                                                        Vote Now
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                           =20
+                            <!-- Footer Text -->
+                            <table border=3D""0"" cellpadding=3D""0"" cellspaci=
+ng=3D""0"" width=3D""100%"" style=3D""border-collapse: collapse;"">
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""padd=
+ing-bottom: 15px; color: #666666;"">
+                                        If you have any questions or need a=
+ssistance, please don't hesitate to contact our support team.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class=3D""mobile-text"" style=3D""colo=
+r: #666666;"">
+                                        Best regards,<br />
+                                        <span style=3D""color: #1A2B49; font=
+-weight: bold;"">Velodrome Finance Team</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                   =20
+                    <!-- Footer -->
+                    <tr>
+                        <td align=3D""center"" bgcolor=3D""#f9f6f2"" style=3D""p=
+adding: 20px; border-top: 1px solid #eeeeee; color: #999999; font-size: 12p=
+x; line-height: 1.5;"">
+                            You received this email because you are subscri=
+bed to Velodrome Finance notifications.<br />
+                            To unsubscribe or change notification settings,=
+ <a href=3D""#"" style=3D""color: #FF3B30; text-decoration: none;"">update your=
+ email preferences</a>.<br /><br />
+                            &copy; 2025 Velodrome Finance. v3.0.0beta+baa41=
+4
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src=3D""https://u51496633.ct.sendgrid.net/wf/open?upn=3Du001.yWB6XdSFKO=
+9dSwthlYxzmQ-2B2e8bXaMIVRI4wJzX6O2lC-2FkYbvRJGU8cbgLs8F4Zdyfk0bTSRY5QV3-2BH=
+nE4LzLVgopLS6MGsZiXiurZqaLXo2-2F6mp24rIq0zF71uDzrFngRkF8TYM-2BJUoHECExUUXGQ=
+02y0kLJSfGl-2Fk66XtKU85fswx2sZs5yRqoIJn2TGGPYHWjS1Po-2F0jt7KI0YssG2Pcl-2BD9=
+jE6iU7L9x5AgtX6OmfVIj-2BQAtdP7PJ5a86l38BeZ7y0jkBsn283ihLLnbkV7WRIQNJAJ4iJUI=
+RG8VVxRBVb4OfQSTIV23V2GdyEgcHFr48Y1i87mFiVjyjzimnuvj523-2BFS6tMxZJmiWE3Yut8=
+HNFYMfADGVYYopea8qbqtDgrcpgO9puzI73LtnMeCxDFruHK-2BufrvxUIOjEzeCCD3eYut1ute=
+frf9C0P0jqlADTyh1LNhvM18FbVO0jVmAfhNiOiGP-2BWoflvzMl1-2FZzatupfAWhS-2BzU1fw=
+IB9BVQCoHzqXNi3qMdgmKOcVVu5PhUrZeLjrMenjau5ax75oF2p-2BXW-2FyToFhJPOd0wXujgN=
+pswVOZ6fCpewRen9QLjoed6Efi2Bz9zkD1DbiV9nJ-2Fpga7Hguq-2FFEikcimnjAIAb8JqxBsh=
+3bqGZ49x6LEr6R3cXAFWDCewgzgPOsC8QA1aQpsL-2Bk86MqimfK-2F81BmlB4kMRhPWrB6jmBz=
+alY1gfdvOY3Eb0EFQL8ewoigoF1xMijwwSc0aIR4kgQpdF5fslZAIZVMvmL-2BX8wlMmPmra8-2=
+BnzVTAhRzIE2cRWGZ-2BewWPmdFAnbpV5GMgWbuOUxLTmZpSt0vwSXBKOthPUjFEig811OHlUJD=
+Kxy1uEMTY3WTp0hIZqeeA8-2F-2FShsK96Mfvl4V9xDhgL8uFF33QbN-2BR1GvsIgo15pp9J4pK=
+pXLnyzAXwdpftIcBDxkO6ZL4hjJ"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0""=
+ style=3D""height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>
+--8a3061c59f6e2e37522952f37764a57a5c400e3389186c7a91a65e2d3da0--
+","""Velodrome"" <info@influenciadigital.io>",azuwarud@ezweb.ne.jp,2025-03-24,44.214.78.206,United States,af,users/51496633/2a741343-d49d-4b06-8447-2444234df8b9.json

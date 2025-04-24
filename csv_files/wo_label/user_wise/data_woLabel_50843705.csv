@@ -1,0 +1,657 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+50843705,biY87xdhRRizPyKi2pNFAQ.recvd-69cbc48b94-8fhm8-1-67BDB6FC-6.0,cHJvY2Vzc2VkLTUwODQzNzA1LWJpWTg3eGRoUlJpelB5S2kycE5GQVEtMA,yt,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=asdf.tirednotbroke.us;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=s1; bh=zc9k+DTh0PoCNnj2icsnL8S/Tc8cOeBP2jZB5VbROzY=;
+	b=fkv46aTHjTo28R0Fk2e9JZvF/wLB/p+a+lbFnrUmhqfyKVRHVvWatxlhgYIlrhioDvA7
+	2Rqs2WNZE+CfAZzVll5NHwabF5yaA38kie0x4YeOy6LCRV2S/0Pu2OFGIzasJUB7jf0MaL
+	L7v1hxMewZLARcjtQuWKf+CDuAx852kP+XIgYSmIQI0CZqKjMHTksoeU4iLV4bvRbl3A/A
+	p+qWQYwLsLS3SenvGdskBkpirwrH2N+NiZkH8uHlrHviG8LjsK2LVkRTW+TBvhop6PQgmD
+	dxdigVTGblcCeAXWLEmHEXoB7aLZQIiacqLZlcBl0m4M/XRqJR4S91Ylj0Pkry/g==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=zc9k+DTh0PoCNnj2icsnL8S/Tc8cOeBP2jZB5VbROzY=;
+	b=rBEcqKSRmmqqIT2cW/cvB+1hRCtQbZR8NGuQNBOXneYoXJwG2xSnOHBDMroaLnTNDuwm
+	JA+fNgh/HWExNmzbwjKurEJdOlel1W/AZKM12ZhluFnhOTqM74firl6OS09x6wsQVrMujr
+	yjDg52sWU797DFWjnGLG3E2qDwhxLsnxU=
+Received: by recvd-69cbc48b94-8fhm8 with SMTP id recvd-69cbc48b94-8fhm8-1-67BDB6FC-6
+	2025-02-25 12:26:36.511560677 +0000 UTC m=+8867106.477587188
+Received: from NTA4NDM3MDU (unknown)
+	by geopod-ismtpd-5 (SG) with HTTP
+	id biY87xdhRRizPyKi2pNFAQ
+	Tue, 25 Feb 2025 12:26:36.359 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+Date: Tue, 25 Feb 2025 12:26:36 +0000 (UTC)
+From: vg <hello@asdf.tirednotbroke.us>
+Mime-Version: 1.0
+Message-ID: <biY87xdhRRizPyKi2pNFAQ@geopod-ismtpd-5>
+Subject: yt
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E2HHUJw4MyOUF6KrmSjSPSyzxQvQ1t3dqSEUybjrMTuqL2uCJIv9Zq9beg?=
+ =?us-ascii?Q?OLUEje2Ey8ML87Ds0up1XcOSntYyBZ5kusdyxar?=
+ =?us-ascii?Q?=2FejeDXAsfQn7vNW=2F=2FB9Ao64uQArOoI1FD1fBisL?=
+ =?us-ascii?Q?bjDb0h+OB7Xll31nTUe6vjbzcQM+2k7lN7cF8Bo?=
+ =?us-ascii?Q?70P77GtzTcBgvTgyFHqr0pvTMbWGnKgmHpj7fCb?=
+ =?us-ascii?Q?ZqVoqFbMjS8GoSAaWa47u+OQxK4b064bB00trV1?= =?us-ascii?Q?FsaD?=
+To: dragonlufafa9007@yahoo.com
+X-Entity-ID: u001.VQKXpWes5kyN611NW8z/UQ==
+
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=3D""http://www.w3.=
+org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""urn:sc=
+hemas-microsoft-com:office:office""><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+<title>Spring Knits Are in Bloom =E2=80=93 Extra 15% Off!</title>
+<style type=3D""text/css"" id=3D""editor_required_block"" ee-render=3D""block"">b=
+ody,html{Margin:0!important;padding:0!important;width:100%!important}
+h1,h2,h3,h4{Margin:0}
+*{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+div[style*=3D""margin: 16px 0""]{margin:0!important}
+table,td{mso-table-lspace:0!important;mso-table-rspace:0!important}
+table{border-spacing:0!important;border-collapse:collapse!important;table-l=
+ayout:auto!important}
+img{-ms-interpolation-mode:bicubic}
+.ExternalClass p{MARGIN:0px;}
+.yshortcuts a{border-bottom:none!important}
+.mobile-link--footer a,a[x-apple-data-detectors]{color:inherit!important;te=
+xt-decoration:underline!important}
+.email-width,.row{Margin:0 auto!important}
+@media screen and (max-width:504px){
+.row .stack-column{display:block!important;width:100%!important;max-width:1=
+00%!important;direction:ltr!important;min-width:100%!important}
+body .ee-show-on-desktop{display:none!important}
+table .ee-hide-on-desktop{display:table;max-height:none;visibility:visible;=
+width:100%!important}
+.email-width{width:100%!important}
+}
+@media only screen and (min-width:505px){
+.row .stack-column{min-width:0!important}
+.ee-show-on-desktop{display:block!important}
+table.ee-show-on-desktop{display:table!important}
+.ee_columns.ee-hide-on-desktop,.ee_element.ee-hide-on-desktop,.ee_element.x=
+_ee-hide-on-desktop{display:none!important}
+}
+[owa] .no-stack-column,[owa] .stack-column{Margin:0 -2px;float:none;display=
+:inline-block!important}
+.stack-column{min-width:0!important}
+.no-stack-column{min-height:1px}
+body .stack-column{min-width:100%!important}
+[owa] .ee-show-on-desktop{display:block!important}
+[owa] table.ee-show-on-desktop{display:table!important}
+.ee-hide-on-desktop{visibility:hidden;width:0!important;max-height:0;displa=
+y:block}
+body .ee-hide-on-desktop{visibility:visible;width:100%!important;display:ta=
+ble;max-height:none}
+#MessageViewBody .ee-show-on-desktop{display:none!important}
+a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!impo=
+rtant;font-size:inherit!important;font-family:inherit!important;font-weight=
+:inherit!important;line-height:inherit!important}
+#MessageViewBody a{color:inherit;text-decoration:none;font-size:inherit;fon=
+t-family:inherit;font-weight:inherit;line-height:inherit}
+u+#body a{color:inherit;text-decoration:none;font-size:inherit;font-family:=
+inherit;font-weight:inherit;line-height:inherit}
+span.MsoHyperlink,span.MsoHyperlinkFollowed{mso-style-priority:99!important=
+;color:inherit!important;text-decoration:none!important}
+@media screen and (max-width:504px){
+[owa] .ee-show-on-desktop,body .ee-show-on-desktop{display:none!important}
+.two-cols-per-row>tbody>tr>td>.stack-column{max-width:100%!important;min-wi=
+dth:50%!important;width:50%!important;display:inline-block!important}
+}
+.button-td>p>font{display: block;}</style><!--[if mso]><style>
+           * {font-family: sans-serif !important;}
+           .button-wrapper { padding: 12px 16px 12px 16px; }
+       </style><![endif]--><!--[if gte mso 9]><style type=3D""text/css"">
+       .stack-column{
+           width:100%!important;
+       }
+       .no-stack-column{
+           width:100%!important;
+       }
+   </style><![endif]--><!--[if mso]><style>
+       .no-stack-column{
+           width:100%!important;
+       }
+       .stack-column{
+          width:100%!important;
+       }
+       </style><![endif]--><!--[if mso]><style>
+       .banner{
+           width:900 !important;
+       }
+       </style><![endif]--><style ee-render=3D""block"">
+.ee_editable p, .ee_editable li, .ee_editable td, .ee_editable a, .ee_edita=
+ble font { -ms-word-break: break-all !important; }
+</style><style ee-render=3D""block"">
+<!--@media only screen and (max-device-width: 480px),=20
+   only screen and (max-width: 640px) and (-webkit-min-device-pixel-ratio: =
+1.1),=20
+   only screen and (-webkit-min-device-pixel-ratio: 2.1)
+    {
+       img[class~=3Dee_videothumb], table[class~=3Dee_videolink_player]{hei=
+ght:auto!important;max-width:600px!important;width:100%!important;}=20
+}
+ --></style><style id=3D""productBlockStyles"" ee-render=3D""block"" ee-product=
+-styles-version=3D""2""><!--
+p.productfield { word-break: break-all; }
+@media only screen and (max-device-width: 480px), only screen and (max-widt=
+h: 640px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (-webk=
+it-min-device-pixel-ratio: 2.1) and (max-device-width: 760px) {
+  td[class~=3D""ee_productcontent""] > table, td[class~=3D""ved_product_elemen=
+t""] { display: block !important; clear: both !important; width: 100% !impor=
+tant; }
+  td[class~=3D""ee_productcontent""] > table > tbody, td[class~=3D""ee_product=
+content""] > table > tbody > tr { display: block !important; width: 100% !im=
+portant; }
+  td[class~=3D""ved_product_element""] img, table[class~=3D""ved_product_eleme=
+nt""] img:not(.ee_smallimage) { display: block !important; clear: both !impo=
+rtant; width: 100% !important; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] { margin-bottom: 8px; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] td { display: block !important; clear: both !important;=
+ width: 100% !important; padding-left: 0px !important; padding-right: 0px !=
+important; }
+}
+--></style><meta http-equiv=3D""content-type"" content=3D""text/html; charset=
+=3Dutf-8""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""></head=
+>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=3D""http://www.w3.=
+org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""urn:sc=
+hemas-microsoft-com:office:office""><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+<title>Spring Knits Are in Bloom =E2=80=93 Extra 15% Off!</title>
+<style type=3D""text/css"" id=3D""editor_required_block"" ee-render=3D""block"">b=
+ody,html{Margin:0!important;padding:0!important;width:100%!important}
+h1,h2,h3,h4{Margin:0}
+*{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+div[style*=3D""margin: 16px 0""]{margin:0!important}
+table,td{mso-table-lspace:0!important;mso-table-rspace:0!important}
+table{border-spacing:0!important;border-collapse:collapse!important;table-l=
+ayout:auto!important}
+img{-ms-interpolation-mode:bicubic}
+.ExternalClass p{MARGIN:0px;}
+.yshortcuts a{border-bottom:none!important}
+.mobile-link--footer a,a[x-apple-data-detectors]{color:inherit!important;te=
+xt-decoration:underline!important}
+.email-width,.row{Margin:0 auto!important}
+@media screen and (max-width:504px){
+.row .stack-column{display:block!important;width:100%!important;max-width:1=
+00%!important;direction:ltr!important;min-width:100%!important}
+body .ee-show-on-desktop{display:none!important}
+table .ee-hide-on-desktop{display:table;max-height:none;visibility:visible;=
+width:100%!important}
+.email-width{width:100%!important}
+}
+@media only screen and (min-width:505px){
+.row .stack-column{min-width:0!important}
+.ee-show-on-desktop{display:block!important}
+table.ee-show-on-desktop{display:table!important}
+.ee_columns.ee-hide-on-desktop,.ee_element.ee-hide-on-desktop,.ee_element.x=
+_ee-hide-on-desktop{display:none!important}
+}
+[owa] .no-stack-column,[owa] .stack-column{Margin:0 -2px;float:none;display=
+:inline-block!important}
+.stack-column{min-width:0!important}
+.no-stack-column{min-height:1px}
+body .stack-column{min-width:100%!important}
+[owa] .ee-show-on-desktop{display:block!important}
+[owa] table.ee-show-on-desktop{display:table!important}
+.ee-hide-on-desktop{visibility:hidden;width:0!important;max-height:0;displa=
+y:block}
+body .ee-hide-on-desktop{visibility:visible;width:100%!important;display:ta=
+ble;max-height:none}
+#MessageViewBody .ee-show-on-desktop{display:none!important}
+a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!impo=
+rtant;font-size:inherit!important;font-family:inherit!important;font-weight=
+:inherit!important;line-height:inherit!important}
+#MessageViewBody a{color:inherit;text-decoration:none;font-size:inherit;fon=
+t-family:inherit;font-weight:inherit;line-height:inherit}
+u+#body a{color:inherit;text-decoration:none;font-size:inherit;font-family:=
+inherit;font-weight:inherit;line-height:inherit}
+span.MsoHyperlink,span.MsoHyperlinkFollowed{mso-style-priority:99!important=
+;color:inherit!important;text-decoration:none!important}
+@media screen and (max-width:504px){
+[owa] .ee-show-on-desktop,body .ee-show-on-desktop{display:none!important}
+.two-cols-per-row>tbody>tr>td>.stack-column{max-width:100%!important;min-wi=
+dth:50%!important;width:50%!important;display:inline-block!important}
+}
+.button-td>p>font{display: block;}</style><!--[if mso]><style>
+           * {font-family: sans-serif !important;}
+           .button-wrapper { padding: 12px 16px 12px 16px; }
+       </style><![endif]--><!--[if gte mso 9]><style type=3D""text/css"">
+       .stack-column{
+           width:100%!important;
+       }
+       .no-stack-column{
+           width:100%!important;
+       }
+   </style><![endif]--><!--[if mso]><style>
+       .no-stack-column{
+           width:100%!important;
+       }
+       .stack-column{
+          width:100%!important;
+       }
+       </style><![endif]--><!--[if mso]><style>
+       .banner{
+           width:900 !important;
+       }
+       </style><![endif]--><style ee-render=3D""block"">
+.ee_editable p, .ee_editable li, .ee_editable td, .ee_editable a, .ee_edita=
+ble font { -ms-word-break: break-all !important; }
+</style><style ee-render=3D""block"">
+<!--@media only screen and (max-device-width: 480px),=20
+   only screen and (max-width: 640px) and (-webkit-min-device-pixel-ratio: =
+1.1),=20
+   only screen and (-webkit-min-device-pixel-ratio: 2.1)
+    {
+       img[class~=3Dee_videothumb], table[class~=3Dee_videolink_player]{hei=
+ght:auto!important;max-width:600px!important;width:100%!important;}=20
+}
+ --></style><style id=3D""productBlockStyles"" ee-render=3D""block"" ee-product=
+-styles-version=3D""2""><!--
+p.productfield { word-break: break-all; }
+@media only screen and (max-device-width: 480px), only screen and (max-widt=
+h: 640px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (-webk=
+it-min-device-pixel-ratio: 2.1) and (max-device-width: 760px) {
+  td[class~=3D""ee_productcontent""] > table, td[class~=3D""ved_product_elemen=
+t""] { display: block !important; clear: both !important; width: 100% !impor=
+tant; }
+  td[class~=3D""ee_productcontent""] > table > tbody, td[class~=3D""ee_product=
+content""] > table > tbody > tr { display: block !important; width: 100% !im=
+portant; }
+  td[class~=3D""ved_product_element""] img, table[class~=3D""ved_product_eleme=
+nt""] img:not(.ee_smallimage) { display: block !important; clear: both !impo=
+rtant; width: 100% !important; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] { margin-bottom: 8px; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] td { display: block !important; clear: both !important;=
+ width: 100% !important; padding-left: 0px !important; padding-right: 0px !=
+important; }
+}
+--></style><meta http-equiv=3D""content-type"" content=3D""text/html; charset=
+=3Dutf-8""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""></head=
+>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=3D""http://www.w3.=
+org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""urn:sc=
+hemas-microsoft-com:office:office""><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+<title>Spring Knits Are in Bloom =E2=80=93 Extra 15% Off!</title>
+<style type=3D""text/css"" id=3D""editor_required_block"" ee-render=3D""block"">b=
+ody,html{Margin:0!important;padding:0!important;width:100%!important}
+h1,h2,h3,h4{Margin:0}
+*{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+div[style*=3D""margin: 16px 0""]{margin:0!important}
+table,td{mso-table-lspace:0!important;mso-table-rspace:0!important}
+table{border-spacing:0!important;border-collapse:collapse!important;table-l=
+ayout:auto!important}
+img{-ms-interpolation-mode:bicubic}
+.ExternalClass p{MARGIN:0px;}
+.yshortcuts a{border-bottom:none!important}
+.mobile-link--footer a,a[x-apple-data-detectors]{color:inherit!important;te=
+xt-decoration:underline!important}
+.email-width,.row{Margin:0 auto!important}
+@media screen and (max-width:504px){
+.row .stack-column{display:block!important;width:100%!important;max-width:1=
+00%!important;direction:ltr!important;min-width:100%!important}
+body .ee-show-on-desktop{display:none!important}
+table .ee-hide-on-desktop{display:table;max-height:none;visibility:visible;=
+width:100%!important}
+.email-width{width:100%!important}
+}
+@media only screen and (min-width:505px){
+.row .stack-column{min-width:0!important}
+.ee-show-on-desktop{display:block!important}
+table.ee-show-on-desktop{display:table!important}
+.ee_columns.ee-hide-on-desktop,.ee_element.ee-hide-on-desktop,.ee_element.x=
+_ee-hide-on-desktop{display:none!important}
+}
+[owa] .no-stack-column,[owa] .stack-column{Margin:0 -2px;float:none;display=
+:inline-block!important}
+.stack-column{min-width:0!important}
+.no-stack-column{min-height:1px}
+body .stack-column{min-width:100%!important}
+[owa] .ee-show-on-desktop{display:block!important}
+[owa] table.ee-show-on-desktop{display:table!important}
+.ee-hide-on-desktop{visibility:hidden;width:0!important;max-height:0;displa=
+y:block}
+body .ee-hide-on-desktop{visibility:visible;width:100%!important;display:ta=
+ble;max-height:none}
+#MessageViewBody .ee-show-on-desktop{display:none!important}
+a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!impo=
+rtant;font-size:inherit!important;font-family:inherit!important;font-weight=
+:inherit!important;line-height:inherit!important}
+#MessageViewBody a{color:inherit;text-decoration:none;font-size:inherit;fon=
+t-family:inherit;font-weight:inherit;line-height:inherit}
+u+#body a{color:inherit;text-decoration:none;font-size:inherit;font-family:=
+inherit;font-weight:inherit;line-height:inherit}
+span.MsoHyperlink,span.MsoHyperlinkFollowed{mso-style-priority:99!important=
+;color:inherit!important;text-decoration:none!important}
+@media screen and (max-width:504px){
+[owa] .ee-show-on-desktop,body .ee-show-on-desktop{display:none!important}
+.two-cols-per-row>tbody>tr>td>.stack-column{max-width:100%!important;min-wi=
+dth:50%!important;width:50%!important;display:inline-block!important}
+}
+.button-td>p>font{display: block;}</style><!--[if mso]><style>
+           * {font-family: sans-serif !important;}
+           .button-wrapper { padding: 12px 16px 12px 16px; }
+       </style><![endif]--><!--[if gte mso 9]><style type=3D""text/css"">
+       .stack-column{
+           width:100%!important;
+       }
+       .no-stack-column{
+           width:100%!important;
+       }
+   </style><![endif]--><!--[if mso]><style>
+       .no-stack-column{
+           width:100%!important;
+       }
+       .stack-column{
+          width:100%!important;
+       }
+       </style><![endif]--><!--[if mso]><style>
+       .banner{
+           width:900 !important;
+       }
+       </style><![endif]--><style ee-render=3D""block"">
+.ee_editable p, .ee_editable li, .ee_editable td, .ee_editable a, .ee_edita=
+ble font { -ms-word-break: break-all !important; }
+</style><style ee-render=3D""block"">
+<!--@media only screen and (max-device-width: 480px),=20
+   only screen and (max-width: 640px) and (-webkit-min-device-pixel-ratio: =
+1.1),=20
+   only screen and (-webkit-min-device-pixel-ratio: 2.1)
+    {
+       img[class~=3Dee_videothumb], table[class~=3Dee_videolink_player]{hei=
+ght:auto!important;max-width:600px!important;width:100%!important;}=20
+}
+ --></style><style id=3D""productBlockStyles"" ee-render=3D""block"" ee-product=
+-styles-version=3D""2""><!--
+p.productfield { word-break: break-all; }
+@media only screen and (max-device-width: 480px), only screen and (max-widt=
+h: 640px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (-webk=
+it-min-device-pixel-ratio: 2.1) and (max-device-width: 760px) {
+  td[class~=3D""ee_productcontent""] > table, td[class~=3D""ved_product_elemen=
+t""] { display: block !important; clear: both !important; width: 100% !impor=
+tant; }
+  td[class~=3D""ee_productcontent""] > table > tbody, td[class~=3D""ee_product=
+content""] > table > tbody > tr { display: block !important; width: 100% !im=
+portant; }
+  td[class~=3D""ved_product_element""] img, table[class~=3D""ved_product_eleme=
+nt""] img:not(.ee_smallimage) { display: block !important; clear: both !impo=
+rtant; width: 100% !important; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] { margin-bottom: 8px; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] td { display: block !important; clear: both !important;=
+ width: 100% !important; padding-left: 0px !important; padding-right: 0px !=
+important; }
+}
+--></style><meta http-equiv=3D""content-type"" content=3D""text/html; charset=
+=3Dutf-8""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""></head=
+>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=3D""http://www.w3.=
+org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""urn:sc=
+hemas-microsoft-com:office:office""><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+<title>Spring Knits Are in Bloom =E2=80=93 Extra 15% Off!</title>
+<style type=3D""text/css"" id=3D""editor_required_block"" ee-render=3D""block"">b=
+ody,html{Margin:0!important;padding:0!important;width:100%!important}
+h1,h2,h3,h4{Margin:0}
+*{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+div[style*=3D""margin: 16px 0""]{margin:0!important}
+table,td{mso-table-lspace:0!important;mso-table-rspace:0!important}
+table{border-spacing:0!important;border-collapse:collapse!important;table-l=
+ayout:auto!important}
+img{-ms-interpolation-mode:bicubic}
+.ExternalClass p{MARGIN:0px;}
+.yshortcuts a{border-bottom:none!important}
+.mobile-link--footer a,a[x-apple-data-detectors]{color:inherit!important;te=
+xt-decoration:underline!important}
+.email-width,.row{Margin:0 auto!important}
+@media screen and (max-width:504px){
+.row .stack-column{display:block!important;width:100%!important;max-width:1=
+00%!important;direction:ltr!important;min-width:100%!important}
+body .ee-show-on-desktop{display:none!important}
+table .ee-hide-on-desktop{display:table;max-height:none;visibility:visible;=
+width:100%!important}
+.email-width{width:100%!important}
+}
+@media only screen and (min-width:505px){
+.row .stack-column{min-width:0!important}
+.ee-show-on-desktop{display:block!important}
+table.ee-show-on-desktop{display:table!important}
+.ee_columns.ee-hide-on-desktop,.ee_element.ee-hide-on-desktop,.ee_element.x=
+_ee-hide-on-desktop{display:none!important}
+}
+[owa] .no-stack-column,[owa] .stack-column{Margin:0 -2px;float:none;display=
+:inline-block!important}
+.stack-column{min-width:0!important}
+.no-stack-column{min-height:1px}
+body .stack-column{min-width:100%!important}
+[owa] .ee-show-on-desktop{display:block!important}
+[owa] table.ee-show-on-desktop{display:table!important}
+.ee-hide-on-desktop{visibility:hidden;width:0!important;max-height:0;displa=
+y:block}
+body .ee-hide-on-desktop{visibility:visible;width:100%!important;display:ta=
+ble;max-height:none}
+#MessageViewBody .ee-show-on-desktop{display:none!important}
+a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!impo=
+rtant;font-size:inherit!important;font-family:inherit!important;font-weight=
+:inherit!important;line-height:inherit!important}
+#MessageViewBody a{color:inherit;text-decoration:none;font-size:inherit;fon=
+t-family:inherit;font-weight:inherit;line-height:inherit}
+u+#body a{color:inherit;text-decoration:none;font-size:inherit;font-family:=
+inherit;font-weight:inherit;line-height:inherit}
+span.MsoHyperlink,span.MsoHyperlinkFollowed{mso-style-priority:99!important=
+;color:inherit!important;text-decoration:none!important}
+@media screen and (max-width:504px){
+[owa] .ee-show-on-desktop,body .ee-show-on-desktop{display:none!important}
+.two-cols-per-row>tbody>tr>td>.stack-column{max-width:100%!important;min-wi=
+dth:50%!important;width:50%!important;display:inline-block!important}
+}
+.button-td>p>font{display: block;}</style><!--[if mso]><style>
+           * {font-family: sans-serif !important;}
+           .button-wrapper { padding: 12px 16px 12px 16px; }
+       </style><![endif]--><!--[if gte mso 9]><style type=3D""text/css"">
+       .stack-column{
+           width:100%!important;
+       }
+       .no-stack-column{
+           width:100%!important;
+       }
+   </style><![endif]--><!--[if mso]><style>
+       .no-stack-column{
+           width:100%!important;
+       }
+       .stack-column{
+          width:100%!important;
+       }
+       </style><![endif]--><!--[if mso]><style>
+       .banner{
+           width:900 !important;
+       }
+       </style><![endif]--><style ee-render=3D""block"">
+.ee_editable p, .ee_editable li, .ee_editable td, .ee_editable a, .ee_edita=
+ble font { -ms-word-break: break-all !important; }
+</style><style ee-render=3D""block"">
+<!--@media only screen and (max-device-width: 480px),=20
+   only screen and (max-width: 640px) and (-webkit-min-device-pixel-ratio: =
+1.1),=20
+   only screen and (-webkit-min-device-pixel-ratio: 2.1)
+    {
+       img[class~=3Dee_videothumb], table[class~=3Dee_videolink_player]{hei=
+ght:auto!important;max-width:600px!important;width:100%!important;}=20
+}
+ --></style><style id=3D""productBlockStyles"" ee-render=3D""block"" ee-product=
+-styles-version=3D""2""><!--
+p.productfield { word-break: break-all; }
+@media only screen and (max-device-width: 480px), only screen and (max-widt=
+h: 640px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (-webk=
+it-min-device-pixel-ratio: 2.1) and (max-device-width: 760px) {
+  td[class~=3D""ee_productcontent""] > table, td[class~=3D""ved_product_elemen=
+t""] { display: block !important; clear: both !important; width: 100% !impor=
+tant; }
+  td[class~=3D""ee_productcontent""] > table > tbody, td[class~=3D""ee_product=
+content""] > table > tbody > tr { display: block !important; width: 100% !im=
+portant; }
+  td[class~=3D""ved_product_element""] img, table[class~=3D""ved_product_eleme=
+nt""] img:not(.ee_smallimage) { display: block !important; clear: both !impo=
+rtant; width: 100% !important; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] { margin-bottom: 8px; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] td { display: block !important; clear: both !important;=
+ width: 100% !important; padding-left: 0px !important; padding-right: 0px !=
+important; }
+}
+--></style><meta http-equiv=3D""content-type"" content=3D""text/html; charset=
+=3Dutf-8""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""></head=
+>
+<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd""><html xmlns=3D""http://www.w3.=
+org/1999/xhtml"" xmlns:v=3D""urn:schemas-microsoft-com:vml"" xmlns:o=3D""urn:sc=
+hemas-microsoft-com:office:office""><head>
+<meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge"">
+<title>Spring Knits Are in Bloom =E2=80=93 Extra 15% Off!</title>
+<style type=3D""text/css"" id=3D""editor_required_block"" ee-render=3D""block"">b=
+ody,html{Margin:0!important;padding:0!important;width:100%!important}
+h1,h2,h3,h4{Margin:0}
+*{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
+div[style*=3D""margin: 16px 0""]{margin:0!important}
+table,td{mso-table-lspace:0!important;mso-table-rspace:0!important}
+table{border-spacing:0!important;border-collapse:collapse!important;table-l=
+ayout:auto!important}
+img{-ms-interpolation-mode:bicubic}
+.ExternalClass p{MARGIN:0px;}
+.yshortcuts a{border-bottom:none!important}
+.mobile-link--footer a,a[x-apple-data-detectors]{color:inherit!important;te=
+xt-decoration:underline!important}
+.email-width,.row{Margin:0 auto!important}
+@media screen and (max-width:504px){
+.row .stack-column{display:block!important;width:100%!important;max-width:1=
+00%!important;direction:ltr!important;min-width:100%!important}
+body .ee-show-on-desktop{display:none!important}
+table .ee-hide-on-desktop{display:table;max-height:none;visibility:visible;=
+width:100%!important}
+.email-width{width:100%!important}
+}
+@media only screen and (min-width:505px){
+.row .stack-column{min-width:0!important}
+.ee-show-on-desktop{display:block!important}
+table.ee-show-on-desktop{display:table!important}
+.ee_columns.ee-hide-on-desktop,.ee_element.ee-hide-on-desktop,.ee_element.x=
+_ee-hide-on-desktop{display:none!important}
+}
+[owa] .no-stack-column,[owa] .stack-column{Margin:0 -2px;float:none;display=
+:inline-block!important}
+.stack-column{min-width:0!important}
+.no-stack-column{min-height:1px}
+body .stack-column{min-width:100%!important}
+[owa] .ee-show-on-desktop{display:block!important}
+[owa] table.ee-show-on-desktop{display:table!important}
+.ee-hide-on-desktop{visibility:hidden;width:0!important;max-height:0;displa=
+y:block}
+body .ee-hide-on-desktop{visibility:visible;width:100%!important;display:ta=
+ble;max-height:none}
+#MessageViewBody .ee-show-on-desktop{display:none!important}
+a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!impo=
+rtant;font-size:inherit!important;font-family:inherit!important;font-weight=
+:inherit!important;line-height:inherit!important}
+#MessageViewBody a{color:inherit;text-decoration:none;font-size:inherit;fon=
+t-family:inherit;font-weight:inherit;line-height:inherit}
+u+#body a{color:inherit;text-decoration:none;font-size:inherit;font-family:=
+inherit;font-weight:inherit;line-height:inherit}
+span.MsoHyperlink,span.MsoHyperlinkFollowed{mso-style-priority:99!important=
+;color:inherit!important;text-decoration:none!important}
+@media screen and (max-width:504px){
+[owa] .ee-show-on-desktop,body .ee-show-on-desktop{display:none!important}
+.two-cols-per-row>tbody>tr>td>.stack-column{max-width:100%!important;min-wi=
+dth:50%!important;width:50%!important;display:inline-block!important}
+}
+.button-td>p>font{display: block;}</style><!--[if mso]><style>
+           * {font-family: sans-serif !important;}
+           .button-wrapper { padding: 12px 16px 12px 16px; }
+       </style><![endif]--><!--[if gte mso 9]><style type=3D""text/css"">
+       .stack-column{
+           width:100%!important;
+       }
+       .no-stack-column{
+           width:100%!important;
+       }
+   </style><![endif]--><!--[if mso]><style>
+       .no-stack-column{
+           width:100%!important;
+       }
+       .stack-column{
+          width:100%!important;
+       }
+       </style><![endif]--><!--[if mso]><style>
+       .banner{
+           width:900 !important;
+       }
+       </style><![endif]--><style ee-render=3D""block"">
+.ee_editable p, .ee_editable li, .ee_editable td, .ee_editable a, .ee_edita=
+ble font { -ms-word-break: break-all !important; }
+</style><style ee-render=3D""block"">
+<!--@media only screen and (max-device-width: 480px),=20
+   only screen and (max-width: 640px) and (-webkit-min-device-pixel-ratio: =
+1.1),=20
+   only screen and (-webkit-min-device-pixel-ratio: 2.1)
+    {
+       img[class~=3Dee_videothumb], table[class~=3Dee_videolink_player]{hei=
+ght:auto!important;max-width:600px!important;width:100%!important;}=20
+}
+ --></style><style id=3D""productBlockStyles"" ee-render=3D""block"" ee-product=
+-styles-version=3D""2""><!--
+p.productfield { word-break: break-all; }
+@media only screen and (max-device-width: 480px), only screen and (max-widt=
+h: 640px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (-webk=
+it-min-device-pixel-ratio: 2.1) and (max-device-width: 760px) {
+  td[class~=3D""ee_productcontent""] > table, td[class~=3D""ved_product_elemen=
+t""] { display: block !important; clear: both !important; width: 100% !impor=
+tant; }
+  td[class~=3D""ee_productcontent""] > table > tbody, td[class~=3D""ee_product=
+content""] > table > tbody > tr { display: block !important; width: 100% !im=
+portant; }
+  td[class~=3D""ved_product_element""] img, table[class~=3D""ved_product_eleme=
+nt""] img:not(.ee_smallimage) { display: block !important; clear: both !impo=
+rtant; width: 100% !important; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] { margin-bottom: 8px; }
+  td[class~=3D""ee_productcontent""][class~=3D""ee_h-prod""] table[class~=3D""ve=
+d_product_element""] td { display: block !important; clear: both !important;=
+ width: 100% !important; padding-left: 0px !important; padding-right: 0px !=
+important; }
+}
+--></style><meta http-equiv=3D""content-type"" content=3D""text/html; charset=
+=3Dutf-8""><meta http-equiv=3D""X-UA-Compatible"" content=3D""IE=3Dedge""></head=
+>
+
+	<body>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://theraportal.site/f5a533c5699d9636895f/2d4b829d29ce6af1=
+34"" target=3D""_blank""><img alt=3D""im"" src=3D""https://assets.unlayer.com/pro=
+jects/266562/1740486183249-Screenshot 2025-02-25 175241.png"" style=3D""width=
+: 433px; height: 651px;"" /></a></p>
+		<p style=3D""text-align: center;"">
+			<a href=3D""http://theraportal.site/f5a533c5699d9636895f/2d4b829d29ce6af1=
+34un"" target=3D""_blank""><img alt=3D""im"" src=3D""https://assets.unlayer.com/p=
+rojects/266562/1740480990944-eedd4141864e8ff54d6027c5a3cf9d8a924865.png"" st=
+yle=3D""width: 433px; height: 71px;"" /></a></p>
+	<img src=3D""http://url7256.asdf.tirednotbroke.us/wf/open?upn=3Du001.hdksHU=
+xzD05dq6dF6RnFx-2FoDsLAHGSuYWU54tiPj1XFtk7wd9ZNS4dMNYEPdr1CN3-2BRwmx-2BfXRP=
+P27yqz09Fy2lwGJG3CI1BjsaYu-2BvCaRhohfSyORoWbO9xu1FfgwmPgf2jEhS1FhumKE7hxIIW=
+VcmkSQrdT-2ByTIdGysPSKZAPY-2BBjBfwWAaYPys4gagbMOZmSiIE21jZ7vB2T0iOzlsiWQKM4=
+ZHzxKJesPoZtsRgk-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=
+=3D""height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;""/></body>
+</html>","""vg"" <hello@asdf.tirednotbroke.us>",dragonlufafa9007@yahoo.com,2025-02-25,159.223.121.150,United States,cy,users/50843705/ee14dd7c-cc73-4a61-a7de-ebbac2cee3db.json

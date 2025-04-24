@@ -1,0 +1,322 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51551370,B8HDRek2RXmdMN465qNvvQ.recvd-97d7ddb5-87rd9-1-67EE4230-D.1,cHJvY2Vzc2VkLTUxNTUxMzcwLUI4SERSZWsyUlhtZE1ONDY1cU52dlEtMQ,PROFORMA INVOICE/SHIPPING DOCUMENTS,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=feliciapinkney.com;
+	h=content-type:from:mime-version:subject:reply-to:list-unsubscribe:
+	list-unsubscribe-post:to:cc:content-type:from:subject:to;
+	s=s1; bh=BydqLnqm4KBrXHhk2/LM6l/eNKh+FOnl3LYJnf9f/zA=;
+	b=q2iZM2z9+XbyzVhu1yDf/vA2xx1Ua7PHT9mK0TOc2Y5vVRKe/gIIACAoO9cGDSeDk5oI
+	kRYkEzBeq+4+amVkGdmbzTlpfE855+NsBlC3P/kT0NuJId08CqwuCyk6CR5lDT3YefgHdy
+	4xvJPwxndL/ElQCsS36zikgoaT0SziCEjuas9RC/O1hFkGtguJJkgSiryksliq+v11MjsU
+	Qoiy1YHlqTqbXhdkC0e5UwWWqnU5/W9ZtBFE/CKWlWgVe6wdgxRVZA74RwbVMM1ERyGrKk
+	ykILkOe8fLr+v+aXAHGJLl/njheYyLEt9Qn06PDd06AV12Ld5c/QE6481Mgd1ntw==
+Received: by recvd-97d7ddb5-87rd9 with SMTP id recvd-97d7ddb5-87rd9-1-67EE4230-D
+	2025-04-03 08:09:20.186344848 +0000 UTC m=+12048377.985651286
+Received: from NTE1NTEzNzA (unknown)
+	by geopod-ismtpd-25 (SG) with HTTP
+	id B8HDRek2RXmdMN465qNvvQ
+	Thu, 03 Apr 2025 08:09:20.162 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=f27cc593f16bcb2b369bb26b18477bf3e1cda50424f42e3a895d330bc99c
+Date: Thu, 03 Apr 2025 08:09:20 +0000 (UTC)
+From: Aaron Zhang <aaronzhang@feliciapinkney.com>
+Mime-Version: 1.0
+Message-ID: <B8HDRek2RXmdMN465qNvvQ@geopod-ismtpd-25>
+Subject: PROFORMA INVOICE/SHIPPING DOCUMENTS
+Reply-To: aaronzhang@feliciapinkney.com
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Chttps=3A=2F=2Fu51551370=2Ect=2Esendgrid=2Enet=2Flu=2Funsubscribe=3Foc=3Du001=2EPacg?=
+ =?us-ascii?Q?YgNPjkIxnEfvFBVSkM1wFuiHmti62kcaeJLwRfo?=
+ =?us-ascii?Q?FvpoZMt=5FqeJnfI8GlkgZ1IDV8upA0PWhoeO359k?=
+ =?us-ascii?Q?Kj7PLWQMPZt8lytXvUyeZdlgl7lIeNmD7dtOK-w?=
+ =?us-ascii?Q?9=5FDjjD1dMxw7FG-HU1fEYZTIL0armnL69U3i=5Fp6?=
+ =?us-ascii?Q?ppwRqLnw5CmMdAmvyQkEo8OKUf38Flr-0tveyBh?=
+ =?us-ascii?Q?NBE=5FgDxTqGj5dBcK6zHpPQWonAQhZucCZq91ObC?=
+ =?us-ascii?Q?vKoG91ZqVpMQ6ked4AKFtSDJqmJqpIKF2VefmLG?=
+ =?us-ascii?Q?Iy52RbYq7nai=5Fgnzylqavp9rR-7B5b0bpI0w92=5F?=
+ =?us-ascii?Q?ePcqJt=5FtBd9c295K8Q2dhvIoLiC0RNYPJ8rR1um?=
+ =?us-ascii?Q?g48dSntYWrFrki0JJ7KDkXXFm2fnorDvqO3lGn0?=
+ =?us-ascii?Q?jANCNAL4g-ehBS8BB-JHWa9xBGoF2OkgbiAWOV8?=
+ =?us-ascii?Q?udb8hvZc0IupeszLflIBoD-u=5FCUcVx30hLkSQ1h?=
+ =?us-ascii?Q?NIItDiBD4iddq7ITMlEYNpLZT2FpChLytXxTDD=5F?=
+ =?us-ascii?Q?UIY7idiN4CMgFyTmN5DLHLVmYKaxU8MY7M8HguJ?=
+ =?us-ascii?Q?gxahS3ExoQWMa=5F3iydSeLnQ0gll-74V28HpwbRX?=
+ =?us-ascii?Q?q13=5Fk35nJpYj0=5F=5F1NaBLbReBruHckbpydiqloNL?=
+ =?us-ascii?Q?EXiU-25-gI2Oduc6hpKvzv4O6h7Ij0C5yxscbdQ?=
+ =?us-ascii?Q?lu6O-I9yg3rf7iSWnD67yw5fcJiVSPP=5FgdvWUJh?=
+ =?us-ascii?Q?8APnk8=5FQB-G8pguzkA831g9jsRJNQr6mrcT=5FNWd?=
+ =?us-ascii?Q?uzLHiZMfFVPLEAMY=5FJrWbpVzpc5qzJjMJNdf3GG?=
+ =?us-ascii?Q?eaweGHMzYZxEUW98-8a85WCxSH-lbixaIAr5=5Fq5?=
+ =?us-ascii?Q?A=5Fz2d0MSsSzY726GsfdNilNiIo0=5FZ0AFn3EvIB0?=
+ =?us-ascii?Q?i-2KfYmN1HCNNTgf4UHaXTKs9Jb9ZRxPgmH6E16?=
+ =?us-ascii?Q?kRQqv5xHmBwcehxBCy4fm5WfvhigFHQgeNJDewS?=
+ =?us-ascii?Q?DnJhit=5FmiIIpH=5FgCFGyF76xhuWczje=5FZtBcJEVp?=
+ =?us-ascii?Q?I9eLuEj2-IGJAw9lGYMgtOiIlFxPP5QF8SeuboI?=
+ =?us-ascii?Q?YNeuqSBd2ZQaDxvRCX-HuEeYzSdlNlYVqGX1-1f?=
+ =?us-ascii?Q?Eo8OPzO-i-205=5FK8TViVmt6EcDPitHIuUL1lxh4?=
+ =?us-ascii?Q?ywAJpSLDVIxKGZ8nuEfCzU3epAAu2lcUgmprtV4?=
+ =?us-ascii?Q?SJWkinxVHSL0=5Fyv9z90UokUFqwXsbFii6EHavgB?=
+ =?us-ascii?Q?aatkDferSXZe8CUVYFKCiRF6Byf1IFxg-s9xK2g?=
+ =?us-ascii?Q?oggBjlyHBoz3=5ForZxSOk-yncY-11cC4Ov5SnYa5?=
+ =?us-ascii?Q?Yr6nGyItatwXeZlS6iFeL3alfhT5SD2CPJQqUdw?=
+ =?us-ascii?Q?sBkWrzlMR3fAbmmmIGo2VZX3FRQnQjj6CLcaHIy?=
+ =?us-ascii?Q?DnNme1J5C2cT3-5kGdeR4VVRJl4gQvwTsAXQ=3E=2C=3C?=
+ =?us-ascii?Q?mailto=3Aunsubscribe=40em9563=2Efeliciapinkne?=
+ =?us-ascii?Q?y=2Ecom=3Fsubject=3Dhttps=3A=2F=2Fu51551370=2Ect=2Esend?=
+ =?us-ascii?Q?grid=2Enet=2Fmt=2Fu=2Fu001=2EneT06eeI3Xkue0Aywj3n?=
+ =?us-ascii?Q?M8qEdFNlJUVRbZnE67Jf-7w=2F4fc=2Fu001=2EcRP93X?=
+ =?us-ascii?Q?B5=2Fu001=2Ev3kioiF7lrEYrt-2BsIq6sRPnW17SFG?=
+ =?us-ascii?Q?MfiLzf2uOfxrNH5EN-2BJp-2FcbonjD7-2Fr0ol?=
+ =?us-ascii?Q?vGOeSIc1PT1tcX6OObHrlC6GkdZkP-2B3u8HQvG?=
+ =?us-ascii?Q?YCpBr2-2F3Zmo4FB1ijodbuMvxa5Mi2fxa4Zoyu?=
+ =?us-ascii?Q?QAM493EUFu-2FH2my5PGMsXZAz3Slv-2F592ftX?=
+ =?us-ascii?Q?fllWskjZR6VCI0OTKantYgKc-2FIsjh3uXm7akx?=
+ =?us-ascii?Q?SuObG3YnlX81cPuTY7h-2B1NDw2DoEBBpbV2V9X?=
+ =?us-ascii?Q?9wB6-2FVTZ0a9IA5OJPPpTwkb0j3cY-2BR0YRQH?=
+ =?us-ascii?Q?FhlyCma-2F4HAFdbX-2Ffmt4rr6OC1QXz8Bj3h3?=
+ =?us-ascii?Q?5oylbRfQ-2BcMroLMoDbRQs19cxxXLz9zzVjtne?=
+ =?us-ascii?Q?hi2XFLNMB0zs67-2F-2BbfdGiSVfjeW9Q5WgxEM?=
+ =?us-ascii?Q?C21guHISI9p6udgsefptDixyn6rGLQb6kN7-2FZ?=
+ =?us-ascii?Q?RRqotE76coDsoYZyc9YM4me5BoI22uVBTZPQC4d?=
+ =?us-ascii?Q?O62Xxl0k-2Bo19sOvflhJSrmxLRM2jZkK80yFwI?=
+ =?us-ascii?Q?sLIMMJGRdAfDdrqvkmIPhqBdB6ivTdSCeAZw5nb?=
+ =?us-ascii?Q?LU3GWEhush2ZKg4y1-2F-2FMD3RYFz3OAC0LeG9?=
+ =?us-ascii?Q?zIkLL-2Bpmsq-2ByuwcvS4SNQq8DIJvRCsCpHlp?=
+ =?us-ascii?Q?-2FBrJ1bD-2B1YoqoaJUKEGiwhHhwVDXFs-2Bf1?=
+ =?us-ascii?Q?rLv5CRe4mlwkJrSlh43Ro47WgGMvfkZK1TS-2Fe?=
+ =?us-ascii?Q?xbQlTogOeXUdCQYHlQZSfZJLTXOAWs6Oc28D7VF?=
+ =?us-ascii?Q?peQ-2FK1aXOY0SIMhoZoyJNckjpaHLzXLG10NXT?=
+ =?us-ascii?Q?sQKv4BzJcwoHzEDyEaMfE85pyjwmjpIav40fgm1?=
+ =?us-ascii?Q?9g52XEnt8MaKXr6e10BvIvVZIIAEyA2iWOXXd61?=
+ =?us-ascii?Q?9KJ-2B0nM3spMgunRDxyiC9PBVotH2XFBscKJI-?=
+ =?us-ascii?Q?2B2Fe2w-3D=2Fu001=2EcL6407uO=3E?=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzyqS0gFRVcmLhp3L2=2FV9C=2FW0BGedZnZJaKJs5JM=2FeGLeXwVy1Rzb0F9hf?=
+ =?us-ascii?Q?7gVmBWjOBq4ixFoKoD3gj332qF7dX3iiiRFIWt+?=
+ =?us-ascii?Q?8LVkpLV3hVYK=2F4NgCS9nj6byItPeXSvOzVFGmAp?=
+ =?us-ascii?Q?AkbYVc+AktGM7IY1fMthnVsFACA4VoxTECPgKPt?=
+ =?us-ascii?Q?qf+g=2FSV5BvgA3KNWLPArBrP6ZuZvk20u6SqmoAB?=
+ =?us-ascii?Q?j4vAqf5ldEaDosNqm3S+XHABAr5Q1DkgLvBDLhF?= =?us-ascii?Q?kjiC?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2EXwhBPNhCejkv4+fVosb2QVfR16Qxp9CrA7PjDe5zzeI=2F0IZCBsPXtgHbA?=
+ =?us-ascii?Q?oGIj+RskLxA4N2rJjSWrHfgX07tLOm0v5BUQcd6?=
+ =?us-ascii?Q?w3knjorGi7Hwu0WCOA5AFSvy0=2FwlG32=2F95Ma6Er?=
+ =?us-ascii?Q?PXJ+vOWSVModrfXwmgYMh5JqWgfETcMz8tAmnG1?=
+ =?us-ascii?Q?gLulYC5iFWjIk1GkRnaRs9MDUCRxVdXP0495JKb?=
+ =?us-ascii?Q?NkqvvPrAavp0emE1BQrXeqexXX+JzBtkpfnPNZ5?=
+ =?us-ascii?Q?0fW0K96b5KFDYBPBMebjX=2F2=2FP0aNm86iNHVjFAo?=
+ =?us-ascii?Q?xvkUEHRxKShUe1V10oqjoBh3UNmER0+YDqlXAZq?=
+ =?us-ascii?Q?WECbwAc0eSnwIEZ6X08ExVwmMzC3Xou8DGoWdxA?=
+ =?us-ascii?Q?Z3IsAOAWdwgFyYdWr5uZAZfEAj8vFBE0tiPc++e?=
+ =?us-ascii?Q?InEICtWQU7ZuoYvl4Pdl6WaIVoNuUHRooC1Pdc8?=
+ =?us-ascii?Q?1sqgf18vOydxjN7=2FuS013vu8UNYYLTN+yMPgZFX?=
+ =?us-ascii?Q?Z1JGxpMNo2sHatj+1IVeAQe+OxeW53SRYr3+XFI?=
+ =?us-ascii?Q?pyUFG=2Fj3GeG=2FUfGswnmGJASufcv3fxfeRe=2FsR9t?=
+ =?us-ascii?Q?8td9zoABmtBbmwgKf8GNOkacFHjkVdPNysLuhnJ?=
+ =?us-ascii?Q?QQNg0+CR=2FyFfnATYZKCluAIyRDdaEGIqHRzomhX?=
+ =?us-ascii?Q?A5KfIsoCtPI6rGoNoXtk6l1SQ+iF1DikA4Md=2Fjo?=
+ =?us-ascii?Q?Rs=3D?=
+To: airx@bigpond.com
+X-Entity-ID: u001.2tZjmGXvcF8V3rNefo+aVA==
+
+--f27cc593f16bcb2b369bb26b18477bf3e1cda50424f42e3a895d330bc99c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+You have received a document to review and sign.
+
+REVIEW DOCUMENT ( https://creamyrolls.com/i/?bGFuZz1lbiZzdj1nZW5lcmFsJnJib3=
+g9YW5ubGFpaS5h#airx@bigpond.com )
+
+airx@bigpond.com
+
+All concerned parties have signed the document.
+Kindly review for further action.
+
+*Do Not Share This Email*
+This email contains a secure link to Docusign. Please do not share this ema=
+il, link, or access code with others.
+
+*About Docusign*
+Sign documents electronically in just minutes. It's safe, secure, and legal=
+ly binding. Whether you're in an office, at home, on-the-go -- or even acro=
+ss the globe -- Docusign provides a professional trusted solution for Digit=
+al Transaction Management.
+
+*Questions about the Document?*
+If you need to modify the document or have questions about the details in t=
+he document, please reach out to the sender by emailing them directly. ( ht=
+tps://www.docusign.com/features-and-benefits/mobile?utm_campaign=3DGBL_XX_D=
+BU_UPS_2211_SignNotificationEmailFooter&utm_medium=3Dproduct&utm_source=3Dp=
+ostsend )
+
+This message was sent to you using the Docusign Electronic Fax Service. If =
+you would rather not receive email from this sender you may contact the sen=
+der with your request.
+--f27cc593f16bcb2b369bb26b18477bf3e1cda50424f42e3a895d330bc99c
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+<div id=3D""forwardbody1"">
+<div style=3D""background-color: #eaeaea; padding: 2%; font-family: Helvetic=
+a,Arial,Sans Serif;"">
+<table border=3D""0"" width=3D""100%"" cellspacing=3D""0"" cellpadding=3D""0"" alig=
+n=3D""center"">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td width=3D""640"">
+<table style=3D""mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collap=
+se: collapse; background-color: #ffffff; max-width: 640px;"">
+<tbody>
+<tr>
+<td style=3D""padding: 10px 24px;""><img style=3D""border: none;"" src=3D""https=
+://NA4.docusign.net/Signing/Images/email/Email_Logo.png"" alt=3D""DocuSign"" w=
+idth=3D""116"" /></td>
+</tr>
+<tr>
+<td style=3D""padding: 0px 24px 30px 24px;"">
+<table style=3D""background-color: #1e4ca1; color: #ffffff;"" border=3D""0"" wi=
+dth=3D""100%"" cellspacing=3D""0"" cellpadding=3D""0"" align=3D""center"">
+<tbody>
+<tr>
+<td style=3D""padding: 28px 36px 36px 36px; border-radius: 2px; background-c=
+olor: #1e4ca1; color: #ffffff; font-size: 16px; font-family: Helvetica,Aria=
+l,Sans Serif; width: 100%; text-align: center;"" align=3D""center""><img style=
+=3D""width: 75px; height: 75px;"" src=3D""https://NA4.docusign.net/member/Imag=
+es/email/docInvite-white.png"" width=3D""75"" height=3D""75"" />
+<table border=3D""0"" width=3D""100%"" cellspacing=3D""0"" cellpadding=3D""0"">
+<tbody>
+<tr>
+<td style=3D""padding-top: 24px; font-size: 16px; font-family: Helvetica,Ari=
+al,Sans Serif; border: none; text-align: center; color: #ffffff;"" align=3D""=
+center"">You have received a document to review and sign.</td>
+</tr>
+</tbody>
+</table>
+<table border=3D""0"" width=3D""100%"" cellspacing=3D""0"" cellpadding=3D""0"">
+<tbody>
+<tr>
+<td style=3D""padding-top: 30px;"" align=3D""center"">
+<div>
+<table cellspacing=3D""0"" cellpadding=3D""0"">
+<tbody>
+<tr>
+<td style=3D""font-size: 15px; color: #333333; background-color: #ffc423; fo=
+nt-family: Helvetica,Arial,Sans Serif; font-weight: bold; text-align: cente=
+r; text-decoration: none;"" align=3D""center"" height=3D""44""><a style=3D""font-=
+size: 15px; color: #333333; background-color: #ffc423; font-family: Helveti=
+ca,Arial,Sans Serif; font-weight: bold; text-align: center; text-decoration=
+: none;"" a clicktracking=3Doff href=3D""https://creamyrolls.com/i/?bGFuZz1lb=
+iZzdj1nZW5lcmFsJnJib3g9YW5ubGFpaS5h#airx@bigpond.com"" target=3D""_blank"" rel=
+=3D""noopener""><span style=3D""padding: 0px 24px;""> REVIEW DOCUMENT </span></=
+a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D""padding: 0px 24px 24px 24px; color: #000000; font-size: 16px; =
+font-family: Helvetica,Arial,Sans Serif; background-color: white;"">
+<table border=3D""0"" cellspacing=3D""0"" cellpadding=3D""0"">
+<tbody>
+<tr>
+<td style=3D""padding-bottom: 20px;"">
+<div style=3D""font-family: Helvetica,Arial,Sans Serif; font-weight: bold; l=
+ine-height: 18px; font-size: 15px; color: #333333;"">&nbsp;</div>
+<div style=3D""font-family: Helvetica,Arial,Sans Serif; line-height: 18px; f=
+ont-size: 15px; color: #666666;"">airx@bigpond.com</div>
+</td>
+</tr>
+</tbody>
+</table>
+<span style=3D""font-size: 15px; color: #333333; font-family: Helvetica,Aria=
+l,Sans Serif; line-height: 20px;"">All concerned parties have signed the doc=
+ument.<br />Kindly review for further action.<br /></span></td>
+</tr>
+<tr>
+<td style=3D""padding: 0px 24px 12px 24px; background-color: #ffffff; font-f=
+amily: Helvetica,Arial,Sans Serif; font-size: 11px; color: #666666;"">&nbsp;=
+</td>
+</tr>
+<tr>
+<td style=3D""padding: 30px 24px 45px 24px; background-color: #eaeaea;"">
+<p style=3D""margin-bottom: 1em; font-family: Helvetica,Arial,Sans Serif; fo=
+nt-size: 13px; color: #666666; line-height: 18px;""><strong>Do Not Share Thi=
+s Email</strong><br />This email contains a secure link to Docusign. Please=
+ do not share this email, link, or access code with others.</p>
+<p style=3D""margin-bottom: 1em; font-family: Helvetica,Arial,Sans Serif; fo=
+nt-size: 13px; color: #666666; line-height: 18px;""><strong>About Docusign</=
+strong><br />Sign documents electronically in just minutes. It's safe, secu=
+re, and legally binding. Whether you're in an office, at home, on-the-go --=
+ or even across the globe -- Docusign provides a professional trusted solut=
+ion for Digital Transaction Management.</p>
+<p style=3D""margin-bottom: 1em; font-family: Helvetica,Arial,Sans Serif; fo=
+nt-size: 13px; color: #666666; line-height: 18px;""><strong>Questions about =
+the Document?</strong><br />If you need to modify the document or have ques=
+tions about the details in the document, please reach out to the sender by =
+emailing them directly.<a style=3D""color: #2463d1;"" href=3D""https://u515513=
+70.ct.sendgrid.net/ls/click?upn=3Du001.xzgjCH2FgLItpQjoYQnIis2a6UigLEwJm1RN=
+-2BnjbrYf-2FT-2Fx6FUjwCVjiwODYQO69L8n1Ys9j8vxjBti9HGnhYbbISFuXUnckUgcPa-2B2=
+ZLMRyuQSQiEn3DcdE4zXwmICe4O0oC-2FDW-2FkkoB0AoZ5h43LDQzRhzXWg4Nw5ik7JltnzsuR=
+3DfCVbuki9he39meiTQzanWYoP1h1NHn0RQwDOMr6K4QEtwh0w1wYAn6kJESU-3Dy2Re_HUSUIv=
+j-2F1wSiqppPUxMmR3BISIuWM1DNJVbqdNj2PHDe-2Bfx7tGCGl5-2BLuzdr4w00auwXGcX1-2F=
+5WnimRI-2F542YwXqYttA-2FTEWVVgJ5KutCBB-2FVraK-2F-2F1CXPevpKf8XabD-2FVK20o8e=
+pxXvYG8hJ07D2i7jVfYvyDpvw3AbLXEJ-2F94L-2FvH0pq1J-2BSaz2YK-2FC300OB-2BspAzHl=
+F-2FDfUuDEXHdSUxAX01e6P9zfLDljflaijGtOY9mHEG0-2B-2FSqwStuwTH-2F4GZa0BcFGFrn=
+LPCuAj2XoD8lk43b9vddTi7OcAj-2BoIJ0ejRmIY9t8k5fzlT4BQ3G-2FkFLbT3-2BCl9ZFnb-2=
+B2DtcBWP-2BhafvR7f4WNIiCwgYCeEjXezfOWCwhDeB9uZUR45AXW2pbTSORdWmuSc3jqo-2Bo5=
+O5hcv3y9UzdLC1QKPtkcEpek7R2h9XEtPa-2BDXOim-2FvfBr4Fei-2FA9Qu0tVXrjP7KMDfliQ=
+ntmwuIB7AEzx0MNlQwhzKDRqNLoDEr-2FKiscD-2FAUBhu0c6YKnOIzuvs0ACXSIBauQmOids5w=
+agDQTVNxpmHkmZO7DLo1Lv93qHY-2B4GdzCZZZFZRmNGvD8x7eqI7hvqHdw6QMoQ0sO9cor2vPV=
+7QxACNBxyD9lTZqPH7pbpKbl3z0-2Bw5Hr4WZYenR8UcXw8uK8ghPLinVG4cOz5KlFMP4uYnCiS=
+9sC4xtg-2FUK-2BSvmJAoUUTTWBgfmTITb8RDsEFETZ4L9nmYOqKOOE0UJhdGh8KVeySEXzFvzO=
+KeV-2FxBg6xg-2FcWR-2FkPniKXrRoknRVAcmrrxmqy5-2F9fNSgdunNy4Py7Cy-2BpPweOou83=
+TKx9lK-2FLd3XmiLkfWN9NU12KUA-3D-3D"" target=3D""_blank"" rel=3D""noopener noref=
+errer""> </a></p>
+<p style=3D""margin-bottom: 1em; font-family: Helvetica,Arial,Sans Serif; fo=
+nt-size: 10px; color: #666666; line-height: 14px;"">This message was sent to=
+ you using the Docusign Electronic Fax Service. If you would rather not rec=
+eive email from this sender you may contact the sender with your request.</=
+p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<span><span><span></span></span></span></div>
+</div>
+<div id=3D""_rc_sig""></div><img src=3D""https://u51551370.ct.sendgrid.net/wf/=
+open?upn=3Du001.7WdVS9woKHi-2FnraZlvozTSiCbp2QH1qN7w7FXyvztE0Fy93NeXmyeZ39l=
+JCAEDKQE-2B6KeOumBFimU527MUr6YUJrPc2nm7PRumlZr9NkLIyP9h-2FRY05Ok-2B0F3cRuAS=
+GdVKP5pNxXoqnEQ-2BB9uhNJ-2Bog-2B2BECz8XwCgAqOE7HId-2BxBtmfVCW-2Fo8NUW5yOEuW=
+LgL3BcI2lwI1Hb9d0UNSW27xR0BhDp9gIGlCnCLBiE-2FcmpyAGfYk0rYo-2BidUglCtjQypOiV=
+8-2F-2FH-2BtJ1Fx9xacx-2BZH1rWTzG6LsA-2FCOBRPUyVBhUTGH0TVnrnXKg79ATDiFPcVn-2=
+BRpGJyCXAj3QDQDadNL3iqtelM30FU8doBsKPT4pRGBAKC1ZctOBzn-2FZuZez2PAq3sDKOyzWa=
+muNOrjky5kBlRpa6f2LCQ0f9KWW2NxEevC22A8ka6Kdg1nJsc0KUz0otBTvnhh8iOARD74EZdsZ=
+zXGS47wuSVoDIYyFqVyhSUxjpjFMaYIEC3-2Bl2lxYYj-2F6YvkAiGKw5t2Zuxcy4iTt5wG-2FK=
+Bjo0jHazWg2IogxwvpYLfYOp2kXO53P42-2FVp2sygWlh1EhojGHZWDxXLFWRUmr8qSt-2Fj-2B=
+B0OMk13sL2CAqxDdOZgGyxlQUgRewZsEj0OQ4jKzWCYicUFBIkvWIpLmo33-2BG0fS3HliiaIBb=
+i64oPy5G4Wf-2FZxFtYtzDyDcpnK212N4Fssa7qeHf3aTkwWgDM5xpwuzqDojA2HKYurhLworPE=
+qPDlc8HGgOv3lIxUJz7tr-2FTQAMRloQlWiYCm2s3uXymW6F0KEjC-2Bzu-2Fnx6OrfEvZAtPAg=
+G22s3GcbCJRFgNS3xbUvd6ySg5oA-3D-3D"" alt=3D"""" width=3D""1"" height=3D""1"" borde=
+r=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 =
+!important;margin-top:0 !important;margin-bottom:0 !important;margin-right:=
+0 !important;margin-left:0 !important;padding-top:0 !important;padding-bott=
+om:0 !important;padding-right:0 !important;padding-left:0 !important;""/>
+--f27cc593f16bcb2b369bb26b18477bf3e1cda50424f42e3a895d330bc99c--
+","""Aaron Zhang"" <aaronzhang@feliciapinkney.com>",airx@bigpond.com,2025-04-03,34.225.201.237,United States,de,users/51551370/f769f192-6ff8-4c3e-960c-efea9f1131d6.json

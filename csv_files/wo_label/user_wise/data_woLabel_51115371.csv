@@ -1,0 +1,296 @@
+user_id,msg_id,sg_event_id,subject,mime,email_from,email_to,email_date,originating_ip,originating_ip_country,lang,s3_path
+51115371,UQ4xFy4yTvScDFxOasbSSQ.recvd-69cbc48b94-pxbbj-1-67CC56A2-1C.0,cHJvY2Vzc2VkLTUxMTE1MzcxLVVRNHhGeTR5VHZTY0RGeE9hc2JTU1EtMA,Terminacion de servicio CAN52-2025-2260,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=DOrGdARt5yBSVIgLB0pXtsrXawSteq7AIC4w3qiHYfo=;
+	b=UtcNa/qvpKkFT96UOScCqDYkchH2mXe4FuRI2qoMWqLP02DyF81lpnmqeeuf17qzbaBw
+	c/Vt1OZWBvsj/5AMT4Wy911wLuEqVM/FqHxkX2EdU+g9jGtLg+Z7YT60xp/Iu+S7r97Ryx
+	QPjV+fECef3IideWewNmWlyghSYLTHd/s=
+Received: by recvd-69cbc48b94-pxbbj with SMTP id recvd-69cbc48b94-pxbbj-1-67CC56A2-1C
+	2025-03-08 14:39:30.606634453 +0000 UTC m=+9825308.019400626
+Received: from NTExMTUzNzE (unknown)
+	by geopod-ismtpd-11 (SG) with HTTP
+	id UQ4xFy4yTvScDFxOasbSSQ
+	Sat, 08 Mar 2025 14:39:30.578 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sat, 08 Mar 2025 14:39:30 +0000 (UTC)
+From: gevesenotificaciones@gmail.com
+Mime-Version: 1.0
+Message-ID: <UQ4xFy4yTvScDFxOasbSSQ@geopod-ismtpd-11>
+Subject: Terminacion de servicio CAN52-2025-2260
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E5llQqDxnOOvLnOX1HPyAmsXt5b0B8IuZTR6Iz3hlC8zXDNjzdm88NLo7u?=
+ =?us-ascii?Q?6WimKyLA8Qy5cJbp353djBy1wsYWoxbKaVmiJ5t?=
+ =?us-ascii?Q?FsH0aQ27H0WP4H6eNb=2FCg9LwIsiem4p6BLBJpOF?=
+ =?us-ascii?Q?Uu0ztoZ8jg4+exMRYFando7=2FD61bAbjPa2PUc89?=
+ =?us-ascii?Q?6D76ifsnQi4rcMUgYMVL6B7KJqTOdV3MzQfniTX?=
+ =?us-ascii?Q?A=2FzezDfhZTMMxPamVnn7F8=3D?=
+To: tallercan51@avasa.com.mx
+X-Entity-ID: u001.a7Dp3SMekcq0fsI/0Vf6RQ==
+
+El proveedor ha marcado el folio como Productos entregados y/o servicios te=
+rminados<img src=3D""https://u51115371.ct.sendgrid.net/wf/open?upn=3Du001.V4=
+wb-2FxhcTs6OjM78n1yESSEX0bc0erNJ-2FlDuW2y6LLUWA0kk1W67HnPhIYM9f-2BICk1o4p2F=
+XchF5-2Bf7voBi96S-2BxJK1b4a5qcjYlkqXhja6gfKY-2BG9Ba9J8OP6iVZdwlx83zJwVXc9KU=
+zGlPtExwJZLyaLboDZRoaNnHZ7R4zqlAiOv8Fndgy8zzwzil6-2FfqQ1H8601Nw1Tgf4FCXgo2n=
+ElTA1fY0KXau4SnfZvFwso-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" s=
+tyle=3D""height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;""/>",gevesenotificaciones@gmail.com,tallercan51@avasa.com.mx,2025-03-08,52.52.202.101,United States,es,users/51115371/5abbb498-ba2d-4b40-8ef8-74d35941979c.json
+51115371,X9KXcAq4TuOEW_Alr22PHg.recvd-69cbc48b94-pxbbj-1-67CB90E9-6.0,cHJvY2Vzc2VkLTUxMTE1MzcxLVg5S1hjQXE0VHVPRVdfQWxyMjJQSGctMA,Terminacion de servicio CUU51-32025-1474,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:to:
+	cc:content-type:from:subject:to;
+	s=smtpapi; bh=aWLf4aWOGwxtyAC/HEAQLVJ57P3DQXkBFKWfspI6PSI=;
+	b=HwHJWdpT1THSxHDW2Oy7pmiywGPHdfiuQJBRbKj9To9w8PCWFaoweOtjYQrKpzmRKD97
+	ENAbFZtj5p1CUtAw5m1O7mQCMWsmAfQxW9I1JqIpvC2p2PsuOwL+hrPkjphea5JPaPMI3W
+	aUVe1kDEq++1lbL8gHfRJe9Ke//+cCJBk=
+Received: by recvd-69cbc48b94-pxbbj with SMTP id recvd-69cbc48b94-pxbbj-1-67CB90E9-6
+	2025-03-08 00:35:53.55465789 +0000 UTC m=+9774690.967424069
+Received: from NTExMTUzNzE (unknown)
+	by geopod-ismtpd-5 (SG) with HTTP
+	id X9KXcAq4TuOEW_Alr22PHg
+	Sat, 08 Mar 2025 00:35:53.480 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Sat, 08 Mar 2025 00:35:53 +0000 (UTC)
+From: gevesenotificaciones@gmail.com
+Mime-Version: 1.0
+Message-ID: <X9KXcAq4TuOEW_Alr22PHg@geopod-ismtpd-5>
+Subject: Terminacion de servicio CUU51-32025-1474
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E5llQqDxnOOvLnOX1HPyAmsXt5b0B8IuZTR6Iz3hlC8zXDNjzdm88NLo7u?=
+ =?us-ascii?Q?6WimKyLDlKlrrs+JdDyIGRlasbm+mo+T=2FG+hlqF?=
+ =?us-ascii?Q?4fZvJW1PhH42r98T2HkUqjvkZ13QVGSzJeVEWXi?=
+ =?us-ascii?Q?siMvNiUqAdKPAjCIAD9thY1ZITPqir3BGzyUVKC?=
+ =?us-ascii?Q?CTwrZAlo5kuGw=2Fc9DYuMEqvYTqi3nTMV=2FdtY1hM?=
+ =?us-ascii?Q?MJDYsaIvMFHlSHAazTr4xE=3D?=
+To: jontiveros@avasa.com.mx
+X-Entity-ID: u001.a7Dp3SMekcq0fsI/0Vf6RQ==
+
+El proveedor ha marcado el folio como Productos entregados y/o servicios te=
+rminados<img src=3D""https://u51115371.ct.sendgrid.net/wf/open?upn=3Du001.3H=
+-2Bz5pujhhyLn0kGeTji6-2B5AZd2gMK4NlorVlYeaa493iNTqYyYshPC4OlcTuOx4cXbXf9UYH=
+XRocs-2Fs-2F9AxkE1gLNEGIi0oNUXbhpkdwvmR2tpKaUza3y6mmb17gqDhlpv-2FDhapI-2BhM=
+0HL5vWI6rI82Xfd8d-2FPMEhoxBf67uYlqJDAOPsbhg3zwMH-2BKLULK6pn-2FRbTlWKhEbguOu=
+CFTmO-2BICH0JryrNCeEfx2zJu8I-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=
+=3D""0"" style=3D""height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;""/>",gevesenotificaciones@gmail.com,jontiveros@avasa.com.mx,2025-03-07,52.52.202.101,United States,es,users/51115371/454f0802-43cb-453c-a956-dd52224b5c59.json
+51115371,g8T4SUUsRpaLuHJDYvgHDg.recvd-canary-66874876c5-ccld2-1-67CBE5FB-B.0,cHJvY2Vzc2VkLTUxMTE1MzcxLWc4VDRTVVVzUnBhTHVISkRZdmdIRGctMA,Your Netflix Payment Was Declined – Update Needed,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:content-transfer-encoding:mime-version:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=ekAjfZOka2cYq2jzqXVW2v+p9cnKLroFPAWPXaCVcFg=;
+	b=eOLtWnVSH3OR2lGuqYK84aEBMVv5xSx7KNP34mr9Za5HHgv17fJ2fBaFk2frUbFgWN8I
+	D6X2/r3FFTP60QVpMxX1FUpe96dB7de22rjdI4/svszsoDD825CUyxnDgqB7QxNijvCITt
+	uxigag4AGjlRUon133ktvMpv3JaC+/PIc=
+Received: by recvd-canary-66874876c5-ccld2 with SMTP id recvd-canary-66874876c5-ccld2-1-67CBE5FB-B
+	2025-03-08 06:38:51.325335421 +0000 UTC m=+9804657.891510196
+Received: from [127.0.0.1] (unknown)
+	by geopod-ismtpd-26 (SG) with ESMTP
+	id g8T4SUUsRpaLuHJDYvgHDg
+	for <FARAH.GROSS@gmail.com>;
+	Sat, 08 Mar 2025 06:38:51.221 +0000 (UTC)
+Content-Type: text/html; charset=us-ascii
+From: Netflix <notification@phonix-usa.com>
+Subject: Your Netflix Payment Was Declined =?UTF-8?B?4oCT?= Update Needed
+Message-ID: <e373b941-b0c0-9312-fcea-d9ab9b67848d@phonix-usa.com>
+X-Priority: 1 (Highest)
+X-Msmail-Priority: High
+Importance: High
+Content-Transfer-Encoding: quoted-printable
+Date: Sat, 08 Mar 2025 06:38:51 +0000 (UTC)
+MIME-Version: 1.0
+X-Feedback-ID: 51115371:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2E6BGpCK1KKNIFUALs=2FPH5CBfIcRR1DlKEAm4+NSSolBekcSnS5jwsHB7+A?=
+ =?us-ascii?Q?S1IY8yYm8Mo3mDspQmBk9DxBO6vQJQy006ZFynU?=
+ =?us-ascii?Q?8UshnrVBg8coc5=2FIVZnInIJKFnR2yhYnVqnI9K9?=
+ =?us-ascii?Q?fQ1A4DWpTjUGl0mZL7g1wKct8bdwdX+LSZ+qsoU?=
+ =?us-ascii?Q?Wj6=2FDAyBL7v072W6eQKrFNf6VFzvGyLJP+ihvpr?=
+ =?us-ascii?Q?TltOdINrlt8NN6yNdXLuRmwSxDuSGehYwsUoXly?= =?us-ascii?Q?D3LP?=
+To: FARAH.GROSS@gmail.com
+X-Entity-ID: u001.a7Dp3SMekcq0fsI/0Vf6RQ==
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset=3D""UTF-8"">
+    <meta name=3D""viewport"" content=3D""width=3Ddevice-width, initial-scale=
+=3D1.0"">
+    <title>Netflix Payment Update Required</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            text-align: left;
+            padding: 20px;
+        }
+
+        .email-container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .logo-container {
+            padding: 10px 0;
+        }
+
+        .logo {
+            max-width: 50px;
+            display: block;
+        }
+
+        .header {
+            font-size: 24px;
+            font-weight: bold;
+            color: #e50914;
+            margin-top: 20px;
+        }
+
+        .content {
+            font-size: 16px;
+            color: #333;
+            margin: 20px 0;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 12px 20px;
+            color: #fff;
+            background-color: #e50914;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #777;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class=3D""email-container"">
+        <div class=3D""logo-container""><img style=3D""border: medium; border-=
+collapse: collapse; width: 58px;"" src=3D""https://cdn4.iconfinder.com/data/i=
+cons/logos-and-brands/512/227_Netflix_logo-1024.png"" alt=3D""Netflix"" border=
+=3D""0""><br></div>
+        <div class=3D""header""><span style=3D""color: rgb(0, 0, 0);"">We Could=
+n&rsquo;t Process Your Payment</span></div>
+        <div class=3D""content"">We&apos;re having some trouble with your cur=
+rent billing information. We&apos;ll try again, but in the meantime you may=
+ want to update your payment details.</div><a class=3D""button"" href=3D""http=
+s://u51115371.ct.sendgrid.net/ls/click?upn=3Du001.-2B2R2cv1MuUA04rRM4d-2FLZ=
+GJKNO-2BQH-2Bmn9DQGePqSMGT-2B6Xc-2Be7KcKQb7uHE1naPR3ng2-2Beo2mtRzF6k0wQrhkw=
+-3D-3DfreT_ONi9w9Bs6VQed7Y3l2LNxxHLjGmuFOtjbTgRTqepnvRFIPfeKfR16HJwMMFwIcxj=
+ozJJF59NwiRm5E9TJaTDOrfiRYxQSd6XBvPDLxJu4coxaMzDaoFO4yk9wuAv5GXkIJ24LNOudJ6=
+n2u78-2B9C-2F8JXajP7k4VYFB7la0QSkvxSkEW6oEp2jtWW7PzUgjbbBSLaClP77hPn5Eteg4D=
+dZJQ-3D-3D""><span style=3D""font-family: Arial, Helvetica, sans-serif;""><str=
+ong><span style=3D""font-size: 13px;"">Update Account Now</span></strong></sp=
+an></a>
+        <div class=3D""content"">This verification process ensures that your =
+account remains secure and prevents any potential interruptions in your str=
+eaming experience.</div>
+        <div class=3D""content"">If you do not complete this update within 24=
+ hours, your membership will be canceled. We hope this isn&apos;t goodbye, =
+but rather see you soon.</div>
+    </div>
+    <div class=3D""footer"">
+        <p>The Netflix team</p>
+        <p>Questions? Call 1-866-579-7172</p>
+        <p><a href=3D""https://u51115371.ct.sendgrid.net/ls/click?upn=3Du001=
+.-2B2R2cv1MuUA04rRM4d-2FLZBw7cBWr0m3IrxKuqtVNEHAnwYkfeo5JPMTOBr0wm55WOMzrkR=
+ggG7eP5D7fI4SciA-3D-3DVgx5_ONi9w9Bs6VQed7Y3l2LNxxHLjGmuFOtjbTgRTqepnvRFIPfe=
+KfR16HJwMMFwIcxjIfl17A5ZqfMsoyfT-2Bt-2FV8NqNOlRq-2BehROvjMh2-2Bje2QHYaJXLPo=
+aHMqDtVgAnOd3F9eph4umLqBCOVmJm9lyy1YHWBaQN8sa31r2lbni6i0aess7Z2myklgs4cT3a8=
+N3l-2BNcBqFJGHkKBDFW-2FdqxzQ-3D-3D"">Communication Settings</a> | <a href=3D=
+""https://u51115371.ct.sendgrid.net/ls/click?upn=3Du001.-2B2R2cv1MuUA04rRM4d=
+-2FLZBw7cBWr0m3IrxKuqtVNEHAjAqDTquY-2BA5HoXUUd8j5CYxaS_ONi9w9Bs6VQed7Y3l2LN=
+xxHLjGmuFOtjbTgRTqepnvRFIPfeKfR16HJwMMFwIcxjkXQxU7D-2BRUik4zpbul6DqHO9YOWDa=
+tu6FL2bJ60dVY3r8xGtHYTjjD9rYnoRQR5DFvqPoqHmArXL1ZkQ6Ntjpi3-2FYKG5iWvEzP8UqD=
+S-2FxrZunJcuPkDxmIieACpZN31ektmhwat8FPgnTJExcBgDzA-3D-3D"">Terms of Use</a> =
+| <a href=3D""https://u51115371.ct.sendgrid.net/ls/click?upn=3Du001.-2B2R2cv=
+1MuUA04rRM4d-2FLZBw7cBWr0m3IrxKuqtVNEHBrrUJYiBg9iy6zejMqvMTQTTVZ_ONi9w9Bs6V=
+Qed7Y3l2LNxxHLjGmuFOtjbTgRTqepnvRFIPfeKfR16HJwMMFwIcxj2kAfqZmt8-2FOcmfsGy8w=
+UE2tw8o3VnjwsizNBjOhRsriC95OgzDMwd6OqAG9J-2FHwFHgNzvqPJPNwcDxIeQPTFkjxrSFmt=
+A4WlAltPor-2FwwBX57C4QlUNrJ5fNAHWMj7b2Rsdn64dvBuAfkyhZV7yMRA-3D-3D"">Privacy=
+</a> | <a href=3D""https://u51115371.ct.sendgrid.net/ls/click?upn=3Du001.-2B=
+2R2cv1MuUA04rRM4d-2FLZDiXRBc79Ha-2FK7Akz63QG0KBcP-2By7WrDRcbZIWxztxJT6A9__O=
+Ni9w9Bs6VQed7Y3l2LNxxHLjGmuFOtjbTgRTqepnvRFIPfeKfR16HJwMMFwIcxjCtIx-2F-2FND=
+VmKYRcqeLG-2F8DmhXaO06wnTpj65V7U91qHXZUVlUnZBH6adiyfE-2Blpdnq4CN-2BHe-2BfB8=
+Mik-2B7vtLiDDrJts-2FYVLblcp5vmb4QJ85UrY-2B-2FeZ8EV-2FnmlpEVRTFRtDC-2B3p2DG-=
+2FaRhVVdsTMjhw-3D-3D"">Help Center</a></p>
+    </div>
+<img src=3D""https://u51115371.ct.sendgrid.net/wf/open?upn=3Du001.O22Hz3DkDX=
+8eZOgF1aWQet7Vvo-2F6RyFcDvtAYWxkya3yY6zVYp5IOzaMhoO4IO-2FdadK9kmKIJaPv4ynCH=
+yxwzul6tb5EyLgjv8JsqyEzsd6LlIFXOgz94zOz5cjPVsXYYjRk13tvuijm0U-2F7Zxlq-2Fb7N=
+ep2RqfLVl0f-2F07stKpfHGTC8Tivb-2FwwX5-2FwgoMMYJxlWa9mJXUL3MgOFb7zKU9hKX4QUL=
+f6ZLTVTl5Q5vvE-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;""/></body>
+
+</html>
+","""Netflix"" <notification@phonix-usa.com>",farah.gross@gmail.com,2025-03-08,75.39.193.2,United States,en,users/51115371/3c57048f-0e8d-4ca3-a994-07afe24ef564.json
+51115371,vd0UIA6kQAeaDcRkwtyr5Q.recvd-69cbc48b94-q4tz7-1-67CB39D5-3E.0,cHJvY2Vzc2VkLTUxMTE1MzcxLXZkMFVJQTZrUUFlYURjUmt3dHlyNVEtMA,Test,"DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=1smart.mx;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=s1; bh=ZXdr0yyOPw3Xv0czufAOj91as4nK3MysnsEFvm8seu4=;
+	b=rfevjk50Nab2D6LGIpQ57ZGWHhAWx3dhbxisAek52BoadIHpMqYIHeW1jSOqiz5YQk+S
+	cW6EjsO05gb9eCGErIgt02QagSk66vVqGozuw5UCGvwLpLNkWaL/MWLx7MlnVwrTzMRfPC
+	n6/8jWHsumBCXsGJGpBXrd9yV/G+KvCYbyGHTHHTgWsTUDNSsbt/cy2dYy7X7sC45nVJ1J
+	Q1EJUTFNO2RjAuv50yMI16Ko2YGHHsggDgFiqkpIqqaB0dbCiSgGqOsnyJeaNnc7m7jRgl
+	FRIjer47KqzOi6sTDtP6bvug3hjiPCqmJcVcbzvLz9q2rlmMw12hZchGUt+hMHVA==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.info;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	x-feedback-id:to:cc:content-type:from:subject:to;
+	s=smtpapi; bh=ZXdr0yyOPw3Xv0czufAOj91as4nK3MysnsEFvm8seu4=;
+	b=d80KWTs00rBUUq5w/XMhxf95slTpzrkGEZ2YmQzogZKfC2AW4QC1LcZClZB1TAbKd98b
+	SoUfViTJ8a3iPjaYnNoInx20UNUZXEC+vGsuu1UfTqdMjkKAKWAWt7FT1d/Upib6hwNBZi
+	nFsDH72+jmY+hD3ExMaxWiP+hTpf3AtmU=
+Received: by recvd-69cbc48b94-q4tz7 with SMTP id recvd-69cbc48b94-q4tz7-1-67CB39D5-3E
+	2025-03-07 18:24:21.931860459 +0000 UTC m=+9752493.930576918
+Received: from NTExMTUzNzE (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id vd0UIA6kQAeaDcRkwtyr5Q
+	Fri, 07 Mar 2025 18:24:21.745 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Fri, 07 Mar 2025 18:24:22 +0000 (UTC)
+From: humberto.celis@1smart.mx
+Mime-Version: 1.0
+Message-ID: <vd0UIA6kQAeaDcRkwtyr5Q@geopod-ismtpd-2>
+Subject: Test
+X-Feedback-ID: 51115371:SG
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EzMfuPf2C5vH=2FGBcFEVbNqCsQBvBAqTX8QJ7ZKjg2O3ZF3l3=2FsUa7ecnNP?=
+ =?us-ascii?Q?kmQ1t9XN2tlQHNt88TcuwUk=2FOc5cjLTILfbOblj?=
+ =?us-ascii?Q?uuk4SY6urEByCcfe30abUcOaLu3q=2FYwyU9=2FyitJ?=
+ =?us-ascii?Q?1FeRbFtPolDx3Al57YSewwnwlkS4NAx2PxokyKP?=
+ =?us-ascii?Q?rXRep6kRlcq6AJy3rcX=2Fnys7GtuaywwCD2Cj=2FxM?=
+ =?us-ascii?Q?KdcZSVL2CSAgFTAYXZ5z7k=3D?=
+To: onesmartsoluciones@gmail.com
+X-Entity-ID: u001.a7Dp3SMekcq0fsI/0Vf6RQ==
+
+<p>H</p>
+<img src=3D""https://u51115371.ct.sendgrid.net/wf/open?upn=3Du001.j2UH0JqmQe=
+1tqLygB5qbLAMuKyrbFb-2BTLbY0Ot1HI722P2JfzvGMhZw-2BsCJnbopNC7WYOldOq4NrB8xwv=
+3kSDUc5YRiybZBZ3g74WGUA4LXqTfRyrS78dxj7Tk-2F7au8LZMEaWKKbmW7xQQxk1RmzuLdxPf=
+LAqdx4hsn9Nc5Di412FKnEL02xQpoFF1aekZxVkRJnnMNOdSQXpc2kPOtWYXtjlBrQhtTuixPmS=
+dIvs88-3D"" alt=3D"""" width=3D""1"" height=3D""1"" border=3D""0"" style=3D""height:1=
+px !important;width:1px !important;border-width:0 !important;margin-top:0 !=
+important;margin-bottom:0 !important;margin-right:0 !important;margin-left:=
+0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-r=
+ight:0 !important;padding-left:0 !important;""/>",humberto.celis@1smart.mx,onesmartsoluciones@gmail.com,2025-03-07,187.155.51.246,Mexico,et,users/51115371/47c02996-c096-4767-8159-04a394afa90b.json
